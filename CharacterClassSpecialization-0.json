@@ -1,0 +1,742 @@
+[
+  {
+    "TagId": 0,
+    "TagType": 52,
+    "Names": [
+      null,
+      "Unknown Specialization",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "TagId": 62,
+    "TagType": 52,
+    "Names": [
+      "Arcane (Mage)",
+      "Arcane (Mage)",
+      "Arcano (Mago)",
+      "Arcano (Mago)",
+      "Arcane (Mage)",
+      "Arcano (Mago)",
+      "Arcanes (Mage)",
+      "Тайная магия (Маг)",
+      "Arkan (Magier)",
+      "Arcano (Mago)",
+      "Arcano (Mago)",
+      "비전 (마법사)",
+      "秘法 (法師)",
+      "奥术 (法师)"
+    ]
+  },
+  {
+    "TagId": 63,
+    "TagType": 52,
+    "Names": [
+      "Fire (Mage)",
+      "Fire (Mage)",
+      "Fuego (Mago)",
+      "Fogo (Mago)",
+      "Fire (Mage)",
+      "Fuego (Mago)",
+      "Feu (Mage)",
+      "Огонь (Маг)",
+      "Feuer (Magier)",
+      "Fogo (Mago)",
+      "Fuoco (Mago)",
+      "화염 (마법사)",
+      "火焰 (法師)",
+      "火焰 (法师)"
+    ]
+  },
+  {
+    "TagId": 64,
+    "TagType": 52,
+    "Names": [
+      "Frost (Mage)",
+      "Frost (Mage)",
+      "Escarcha (Mago)",
+      "Gélido (Mago)",
+      "Frost (Mage)",
+      "Escarcha (Mago)",
+      "Givre (Mage)",
+      "Лед (Маг)",
+      "Frost (Magier)",
+      "Gélido (Mago)",
+      "Gelo (Mago)",
+      "냉기 (마법사)",
+      "冰霜 (法師)",
+      "冰霜 (法师)"
+    ]
+  },
+  {
+    "TagId": 65,
+    "TagType": 52,
+    "Names": [
+      "Holy (Paladin)",
+      "Holy (Paladin)",
+      "Sagrado (Paladín)",
+      "Sagrado (Paladino)",
+      "Holy (Paladin)",
+      "Sagrado (Paladín)",
+      "Sacré (Paladin)",
+      "Свет (Паладин)",
+      "Heilig (Paladin)",
+      "Sagrado (Paladino)",
+      "Sacro (Paladino)",
+      "신성 (성기사)",
+      "神聖 (聖騎士)",
+      "神圣 (圣骑士)"
+    ]
+  },
+  {
+    "TagId": 66,
+    "TagType": 52,
+    "Names": [
+      "Protection (Paladin)",
+      "Protection (Paladin)",
+      "Protección (Paladín)",
+      "Proteção (Paladino)",
+      "Protection (Paladin)",
+      "Protección (Paladín)",
+      "Protection (Paladin)",
+      "Защита (Паладин)",
+      "Schutz (Paladin)",
+      "Proteção (Paladino)",
+      "Protezione (Paladino)",
+      "보호 (성기사)",
+      "防護 (聖騎士)",
+      "防护 (圣骑士)"
+    ]
+  },
+  {
+    "TagId": 70,
+    "TagType": 52,
+    "Names": [
+      "Retribution (Paladin)",
+      "Retribution (Paladin)",
+      "Reprensión (Paladín)",
+      "Retribuição (Paladino)",
+      "Retribution (Paladin)",
+      "Reprensión (Paladín)",
+      "Vindicte (Paladin)",
+      "Воздаяние (Паладин)",
+      "Vergeltung (Paladin)",
+      "Retribuição (Paladino)",
+      "Castigo (Paladino)",
+      "징벌 (성기사)",
+      "懲戒 (聖騎士)",
+      "惩戒 (圣骑士)"
+    ]
+  },
+  {
+    "TagId": 71,
+    "TagType": 52,
+    "Names": [
+      "Arms (Warrior)",
+      "Arms (Warrior)",
+      "Armas (Guerrero)",
+      "Armas (Guerreiro)",
+      "Arms (Warrior)",
+      "Armas (Guerrero)",
+      "Armes (Guerrier)",
+      "Оружие (Воин)",
+      "Waffen (Krieger)",
+      "Armas (Guerreiro)",
+      "Armi (Guerriero)",
+      "무기 (전사)",
+      "武器 (戰士)",
+      "武器 (战士)"
+    ]
+  },
+  {
+    "TagId": 72,
+    "TagType": 52,
+    "Names": [
+      "Fury (Warrior)",
+      "Fury (Warrior)",
+      "Furia (Guerrero)",
+      "Fúria (Guerreiro)",
+      "Fury (Warrior)",
+      "Furia (Guerrero)",
+      "Fureur (Guerrier)",
+      "Неистовство (Воин)",
+      "Furor (Krieger)",
+      "Fúria (Guerreiro)",
+      "Furia (Guerriero)",
+      "분노 (전사)",
+      "狂怒 (戰士)",
+      "狂怒 (战士)"
+    ]
+  },
+  {
+    "TagId": 73,
+    "TagType": 52,
+    "Names": [
+      "Protection (Warrior)",
+      "Protection (Warrior)",
+      "Protección (Guerrero)",
+      "Proteção (Guerreiro)",
+      "Protection (Warrior)",
+      "Protección (Guerrero)",
+      "Protection (Guerrier)",
+      "Защита (Воин)",
+      "Schutz (Krieger)",
+      "Proteção (Guerreiro)",
+      "Protezione (Guerriero)",
+      "방어 (전사)",
+      "防護 (戰士)",
+      "防护 (战士)"
+    ]
+  },
+  {
+    "TagId": 102,
+    "TagType": 52,
+    "Names": [
+      "Balance (Druid)",
+      "Balance (Druid)",
+      "Equilibrio (Druida)",
+      "Equilíbrio (Druida)",
+      "Balance (Druid)",
+      "Equilibrio (Druida)",
+      "Équilibre (Druide)",
+      "Баланс (Друид)",
+      "Gleichgewicht (Druide)",
+      "Equilíbrio (Druida)",
+      "Equilibrio (Druido)",
+      "조화 (드루이드)",
+      "平衡 (德魯伊)",
+      "平衡 (德鲁伊)"
+    ]
+  },
+  {
+    "TagId": 103,
+    "TagType": 52,
+    "Names": [
+      "Feral (Druid)",
+      "Feral (Druid)",
+      "Feral (Druida)",
+      "Feral (Druida)",
+      "Feral (Druid)",
+      "Feral (Druida)",
+      "Farouche (Druide)",
+      "Сила зверя (Друид)",
+      "Wildheit (Druide)",
+      "Feral (Druida)",
+      "Aggressore Ferino (Druido)",
+      "야성 (드루이드)",
+      "野性戰鬥 (德魯伊)",
+      "野性 (德鲁伊)"
+    ]
+  },
+  {
+    "TagId": 104,
+    "TagType": 52,
+    "Names": [
+      "Guardian (Druid)",
+      "Guardian (Druid)",
+      "Guardián (Druida)",
+      "Guardião (Druida)",
+      "Guardian (Druid)",
+      "Guardián (Druida)",
+      "Gardien (Druide)",
+      "Страж (Друид)",
+      "Wächter (Druide)",
+      "Guardião (Druida)",
+      "Guardiano Ferino (Druido)",
+      "수호 (드루이드)",
+      "守護者 (德魯伊)",
+      "守护 (德鲁伊)"
+    ]
+  },
+  {
+    "TagId": 105,
+    "TagType": 52,
+    "Names": [
+      "Restoration (Druid)",
+      "Restoration (Druid)",
+      "Restauración (Druida)",
+      "Restauração (Druida)",
+      "Restoration (Druid)",
+      "Restauración (Druida)",
+      "Restauration (Druide)",
+      "Исцеление (Друид)",
+      "Wiederherstellung (Druide)",
+      "Restauração (Druida)",
+      "Rigenerazione (Druido)",
+      "회복 (드루이드)",
+      "恢復 (德魯伊)",
+      "恢复 (德鲁伊)"
+    ]
+  },
+  {
+    "TagId": 250,
+    "TagType": 52,
+    "Names": [
+      "Blood (Death Knight)",
+      "Blood (Death Knight)",
+      "Sangre (Caballero de la Muerte)",
+      "Sangue (Cavaleiro da Morte)",
+      "Blood (Death Knight)",
+      "Sangre (Caballero de la Muerte)",
+      "Sang (Chevalier de la mort)",
+      "Кровь (Рыцарь смерти)",
+      "Blut (Todesritter)",
+      "Sangue (Cavaleiro da Morte)",
+      "Sangue (Cavaliere della Morte)",
+      "혈기 (죽음의 기사)",
+      "血魄 (死亡騎士)",
+      "鲜血 (死亡骑士)"
+    ]
+  },
+  {
+    "TagId": 251,
+    "TagType": 52,
+    "Names": [
+      "Frost (Death Knight)",
+      "Frost (Death Knight)",
+      "Escarcha (Caballero de la Muerte)",
+      "Gélido (Cavaleiro da Morte)",
+      "Frost (Death Knight)",
+      "Escarcha (Caballero de la Muerte)",
+      "Givre (Chevalier de la mort)",
+      "Лед (Рыцарь смерти)",
+      "Frost (Todesritter)",
+      "Gélido (Cavaleiro da Morte)",
+      "Gelo (Cavaliere della Morte)",
+      "냉기 (죽음의 기사)",
+      "冰霜 (死亡騎士)",
+      "冰霜 (死亡骑士)"
+    ]
+  },
+  {
+    "TagId": 252,
+    "TagType": 52,
+    "Names": [
+      "Unholy (Death Knight)",
+      "Unholy (Death Knight)",
+      "Profano (Caballero de la Muerte)",
+      "Profano (Cavaleiro da Morte)",
+      "Unholy (Death Knight)",
+      "Profano (Caballero de la Muerte)",
+      "Impie (Chevalier de la mort)",
+      "Нечестивость (Рыцарь смерти)",
+      "Unheilig (Todesritter)",
+      "Profano (Cavaleiro da Morte)",
+      "Empietà (Cavaliere della Morte)",
+      "부정 (죽음의 기사)",
+      "穢邪 (死亡騎士)",
+      "邪恶 (死亡骑士)"
+    ]
+  },
+  {
+    "TagId": 253,
+    "TagType": 52,
+    "Names": [
+      "Beast Mastery (Hunter)",
+      "Beast Mastery (Hunter)",
+      "Bestias (Cazador)",
+      "Domínio das Feras (Caçador)",
+      "Beast Mastery (Hunter)",
+      "Bestias (Cazador)",
+      "Maîtrise des bêtes (Chasseur)",
+      "Повелитель зверей (Охотник)",
+      "Tierherrschaft (Jäger)",
+      "Domínio das Feras (Caçador)",
+      "Affinità Animale (Cacciatore)",
+      "야수 (사냥꾼)",
+      "野獸控制 (獵人)",
+      "野兽控制 (猎人)"
+    ]
+  },
+  {
+    "TagId": 254,
+    "TagType": 52,
+    "Names": [
+      "Marksmanship (Hunter)",
+      "Marksmanship (Hunter)",
+      "Puntería (Cazador)",
+      "Precisão (Caçador)",
+      "Marksmanship (Hunter)",
+      "Puntería (Cazador)",
+      "Précision (Chasseur)",
+      "Стрельба (Охотник)",
+      "Treffsicherheit (Jäger)",
+      "Precisão (Caçador)",
+      "Precisione di Tiro (Cacciatore)",
+      "사격 (사냥꾼)",
+      "射擊 (獵人)",
+      "射击 (猎人)"
+    ]
+  },
+  {
+    "TagId": 255,
+    "TagType": 52,
+    "Names": [
+      "Survival (Hunter)",
+      "Survival (Hunter)",
+      "Supervivencia (Cazador)",
+      "Sobrevivência (Caçador)",
+      "Survival (Hunter)",
+      "Supervivencia (Cazador)",
+      "Survie (Chasseur)",
+      "Выживание (Охотник)",
+      "Überleben (Jäger)",
+      "Sobrevivência (Caçador)",
+      "Sopravvivenza (Cacciatore)",
+      "생존 (사냥꾼)",
+      "生存 (獵人)",
+      "生存 (猎人)"
+    ]
+  },
+  {
+    "TagId": 256,
+    "TagType": 52,
+    "Names": [
+      "Discipline (Priest)",
+      "Discipline (Priest)",
+      "Disciplina (Sacerdote)",
+      "Disciplina (Sacerdote)",
+      "Discipline (Priest)",
+      "Disciplina (Sacerdote)",
+      "Discipline (Prêtre)",
+      "Послушание (Жрец)",
+      "Disziplin (Priester)",
+      "Disciplina (Sacerdote)",
+      "Disciplina (Sacerdote)",
+      "수양 (사제)",
+      "戒律 (牧師)",
+      "戒律 (牧师)"
+    ]
+  },
+  {
+    "TagId": 257,
+    "TagType": 52,
+    "Names": [
+      "Holy (Priest)",
+      "Holy (Priest)",
+      "Sagrado (Sacerdote)",
+      "Sagrado (Sacerdote)",
+      "Holy (Priest)",
+      "Sagrado (Sacerdote)",
+      "Sacré (Prêtre)",
+      "Свет (Жрец)",
+      "Heilig (Priester)",
+      "Sagrado (Sacerdote)",
+      "Sacro (Sacerdote)",
+      "신성 (사제)",
+      "神聖 (牧師)",
+      "神圣 (牧师)"
+    ]
+  },
+  {
+    "TagId": 258,
+    "TagType": 52,
+    "Names": [
+      "Shadow (Priest)",
+      "Shadow (Priest)",
+      "Sombra (Sacerdote)",
+      "Sombra (Sacerdote)",
+      "Shadow (Priest)",
+      "Sombra (Sacerdote)",
+      "Ombre (Prêtre)",
+      "Тьма (Жрец)",
+      "Schatten (Priester)",
+      "Sombra (Sacerdote)",
+      "Ombra (Sacerdote)",
+      "암흑 (사제)",
+      "暗影 (牧師)",
+      "暗影 (牧师)"
+    ]
+  },
+  {
+    "TagId": 259,
+    "TagType": 52,
+    "Names": [
+      "Assassination (Rogue)",
+      "Assassination (Rogue)",
+      "Asesinato (Pícaro)",
+      "Assassinato (Ladino)",
+      "Assassination (Rogue)",
+      "Asesinato (Pícaro)",
+      "Assassinat (Voleur)",
+      "Ликвидация (Разбойник)",
+      "Meucheln (Schurke)",
+      "Assassinato (Ladino)",
+      "Assassinio (Ladro)",
+      "암살 (도적)",
+      "刺殺 (盜賊)",
+      "奇袭 (潜行者)"
+    ]
+  },
+  {
+    "TagId": 260,
+    "TagType": 52,
+    "Names": [
+      "Outlaw (Rogue)",
+      "Outlaw (Rogue)",
+      "Forajido (Pícaro)",
+      "Fora da Lei (Ladino)",
+      "Outlaw (Rogue)",
+      "Forajido (Pícaro)",
+      "Hors-la-loi (Voleur)",
+      "Головорез (Разбойник)",
+      "Gesetzlosigkeit (Schurke)",
+      "Fora da Lei (Ladino)",
+      "Fuorilegge (Ladro)",
+      "무법 (도적)",
+      "暴徒 (盜賊)",
+      "狂徒 (潜行者)"
+    ]
+  },
+  {
+    "TagId": 261,
+    "TagType": 52,
+    "Names": [
+      "Subtlety (Rogue)",
+      "Subtlety (Rogue)",
+      "Sutileza (Pícaro)",
+      "Subterfúgio (Ladino)",
+      "Subtlety (Rogue)",
+      "Sutileza (Pícaro)",
+      "Finesse (Voleur)",
+      "Скрытность (Разбойник)",
+      "Täuschung (Schurke)",
+      "Subterfúgio (Ladino)",
+      "Scaltrezza (Ladro)",
+      "잠행 (도적)",
+      "敏銳 (盜賊)",
+      "敏锐 (潜行者)"
+    ]
+  },
+  {
+    "TagId": 262,
+    "TagType": 52,
+    "Names": [
+      "Elemental (Shaman)",
+      "Elemental (Shaman)",
+      "Elemental (Chamán)",
+      "Elemental (Xamã)",
+      "Elemental (Shaman)",
+      "Elemental (Chamán)",
+      "Élémentaire (Chaman)",
+      "Стихии (Шаман)",
+      "Elementar (Schamane)",
+      "Elemental (Xamã)",
+      "Elementale (Sciamano)",
+      "정기 (주술사)",
+      "元素 (薩滿)",
+      "元素 (萨满祭司)"
+    ]
+  },
+  {
+    "TagId": 263,
+    "TagType": 52,
+    "Names": [
+      "Enhancement (Shaman)",
+      "Enhancement (Shaman)",
+      "Mejora (Chamán)",
+      "Aperfeiçoamento (Xamã)",
+      "Enhancement (Shaman)",
+      "Mejora (Chamán)",
+      "Amélioration (Chaman)",
+      "Совершенствование (Шаман)",
+      "Verstärkung (Schamane)",
+      "Aperfeiçoamento (Xamã)",
+      "Potenziamento (Sciamano)",
+      "고양 (주술사)",
+      "增強 (薩滿)",
+      "增强 (萨满祭司)"
+    ]
+  },
+  {
+    "TagId": 264,
+    "TagType": 52,
+    "Names": [
+      "Restoration (Shaman)",
+      "Restoration (Shaman)",
+      "Restauración (Chamán)",
+      "Restauração (Xamã)",
+      "Restoration (Shaman)",
+      "Restauración (Chamán)",
+      "Restauration (Chaman)",
+      "Исцеление (Шаман)",
+      "Wiederherstellung (Schamane)",
+      "Restauração (Xamã)",
+      "Rigenerazione (Sciamano)",
+      "복원 (주술사)",
+      "恢復 (薩滿)",
+      "恢复 (萨满祭司)"
+    ]
+  },
+  {
+    "TagId": 265,
+    "TagType": 52,
+    "Names": [
+      "Affliction (Warlock)",
+      "Affliction (Warlock)",
+      "Aflicción (Brujo)",
+      "Suplício (Bruxo)",
+      "Affliction (Warlock)",
+      "Aflicción (Brujo)",
+      "Affliction (Démoniste)",
+      "Колдовство (Чернокнижник)",
+      "Gebrechen (Hexenmeister)",
+      "Suplício (Bruxo)",
+      "Afflizione (Stregone)",
+      "고통 (흑마법사)",
+      "痛苦 (術士)",
+      "痛苦 (术士)"
+    ]
+  },
+  {
+    "TagId": 266,
+    "TagType": 52,
+    "Names": [
+      "Demonology (Warlock)",
+      "Demonology (Warlock)",
+      "Demonología (Brujo)",
+      "Demonologia (Bruxo)",
+      "Demonology (Warlock)",
+      "Demonología (Brujo)",
+      "Démonologie (Démoniste)",
+      "Демонология (Чернокнижник)",
+      "Dämonologie (Hexenmeister)",
+      "Demonologia (Bruxo)",
+      "Demonologia (Stregone)",
+      "악마 (흑마법사)",
+      "惡魔學識 (術士)",
+      "恶魔学识 (术士)"
+    ]
+  },
+  {
+    "TagId": 267,
+    "TagType": 52,
+    "Names": [
+      "Destruction (Warlock)",
+      "Destruction (Warlock)",
+      "Destrucción (Brujo)",
+      "Destruição (Bruxo)",
+      "Destruction (Warlock)",
+      "Destrucción (Brujo)",
+      "Destruction (Démoniste)",
+      "Разрушение (Чернокнижник)",
+      "Zerstörung (Hexenmeister)",
+      "Destruição (Bruxo)",
+      "Distruzione (Stregone)",
+      "파괴 (흑마법사)",
+      "毀滅 (術士)",
+      "毁灭 (术士)"
+    ]
+  },
+  {
+    "TagId": 268,
+    "TagType": 52,
+    "Names": [
+      "Brewmaster (Monk)",
+      "Brewmaster (Monk)",
+      "Maestro cervecero (Monje)",
+      "Mestre Cervejeiro (Monge)",
+      "Brewmaster (Monk)",
+      "Maestro cervecero (Monje)",
+      "Maître brasseur (Moine)",
+      "Хмелевар (Монах)",
+      "Braumeister (Mönch)",
+      "Mestre Cervejeiro (Monge)",
+      "Mastro Birraio (Monaco)",
+      "양조 (수도사)",
+      "釀酒 (武僧)",
+      "酒仙 (武僧)"
+    ]
+  },
+  {
+    "TagId": 269,
+    "TagType": 52,
+    "Names": [
+      "Windwalker (Monk)",
+      "Windwalker (Monk)",
+      "Viajero del viento (Monje)",
+      "Andarilho do Vento (Monge)",
+      "Windwalker (Monk)",
+      "Viajero del viento (Monje)",
+      "Marche-vent (Moine)",
+      "Танцующий с ветром (Монах)",
+      "Windläufer (Mönch)",
+      "Andarilho do Vento (Monge)",
+      "Impeto (Monaco)",
+      "풍운 (수도사)",
+      "御風 (武僧)",
+      "踏风 (武僧)"
+    ]
+  },
+  {
+    "TagId": 270,
+    "TagType": 52,
+    "Names": [
+      "Mistweaver (Monk)",
+      "Mistweaver (Monk)",
+      "Tejedor de niebla (Monje)",
+      "Tecelão da Névoa (Monge)",
+      "Mistweaver (Monk)",
+      "Tejedor de niebla (Monje)",
+      "Tisse-brume (Moine)",
+      "Ткач туманов (Монах)",
+      "Nebelwirker (Mönch)",
+      "Tecelão da Névoa (Monge)",
+      "Misticismo (Monaco)",
+      "운무 (수도사)",
+      "織霧 (武僧)",
+      "织雾 (武僧)"
+    ]
+  },
+  {
+    "TagId": 577,
+    "TagType": 52,
+    "Names": [
+      "Havoc (Demon Hunter)",
+      "Havoc (Demon Hunter)",
+      "Caos (Cazador de demonios)",
+      "Devastação (Caçador de Demônios)",
+      "Havoc (Demon Hunter)",
+      "Devastación (Cazador de demonios)",
+      "Dévastation (Chasseur de démons)",
+      "Истребление (Охотник на демонов)",
+      "Verwüstung (Dämonenjäger)",
+      "Devastação (Caçador de Demônios)",
+      "Rovina (Cacciatore di Demoni)",
+      "파멸 (악마사냥꾼)",
+      "災虐 (惡魔獵人)",
+      "浩劫 (恶魔猎手)"
+    ]
+  },
+  {
+    "TagId": 581,
+    "TagType": 52,
+    "Names": [
+      "Vengeance (Demon Hunter)",
+      "Vengeance (Demon Hunter)",
+      "Venganza (Cazador de demonios)",
+      "Vingança (Caçador de Demônios)",
+      "Vengeance (Demon Hunter)",
+      "Venganza (Cazador de demonios)",
+      "Vengeance (Chasseur de démons)",
+      "Месть (Охотник на демонов)",
+      "Rachsucht (Dämonenjäger)",
+      "Vingança (Caçador de Demônios)",
+      "Vendetta (Cacciatore di Demoni)",
+      "복수 (악마사냥꾼)",
+      "復仇 (惡魔獵人)",
+      "复仇 (恶魔猎手)"
+    ]
+  }
+]

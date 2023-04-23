@@ -1,0 +1,315 @@
+[
+  {
+    "TagId": 0,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Unknown Class",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "TagId": 1,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Warrior",
+      "Guerrero",
+      "Guerreiro",
+      "Warrior",
+      "Guerrero",
+      "Guerrier",
+      "Воин",
+      "Krieger",
+      "Guerreiro",
+      "Guerriero",
+      "전사",
+      "戰士",
+      "战士"
+    ],
+    "Media": "classicon_warrior.jpg"
+  },
+  {
+    "TagId": 2,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Paladin",
+      "Paladín",
+      "Paladino",
+      "Paladin",
+      "Paladín",
+      "Paladin",
+      "Паладин",
+      "Paladin",
+      "Paladino",
+      "Paladino",
+      "성기사",
+      "聖騎士",
+      "圣骑士"
+    ],
+    "Media": "classicon_paladin.jpg"
+  },
+  {
+    "TagId": 3,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Hunter",
+      "Cazador",
+      "Caçador",
+      "Hunter",
+      "Cazador",
+      "Chasseur",
+      "Охотник",
+      "Jäger",
+      "Caçador",
+      "Cacciatore",
+      "사냥꾼",
+      "獵人",
+      "猎人"
+    ],
+    "Media": "classicon_hunter.jpg"
+  },
+  {
+    "TagId": 4,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Rogue",
+      "Pícaro",
+      "Ladino",
+      "Rogue",
+      "Pícaro",
+      "Voleur",
+      "Разбойник",
+      "Schurke",
+      "Ladino",
+      "Ladro",
+      "도적",
+      "盜賊",
+      "潜行者"
+    ],
+    "Media": "classicon_rogue.jpg"
+  },
+  {
+    "TagId": 5,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Priest",
+      "Sacerdote",
+      "Sacerdote",
+      "Priest",
+      "Sacerdote",
+      "Prêtre",
+      "Жрец",
+      "Priester",
+      "Sacerdote",
+      "Sacerdote",
+      "사제",
+      "牧師",
+      "牧师"
+    ],
+    "Media": "classicon_priest.jpg"
+  },
+  {
+    "TagId": 6,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Death Knight",
+      "Caballero de la Muerte",
+      "Cavaleiro da Morte",
+      "Death Knight",
+      "Caballero de la Muerte",
+      "Chevalier de la mort",
+      "Рыцарь смерти",
+      "Todesritter",
+      "Cavaleiro da Morte",
+      "Cavaliere della Morte",
+      "죽음의 기사",
+      "死亡騎士",
+      "死亡骑士"
+    ],
+    "Media": "spell_deathknight_classicon.jpg"
+  },
+  {
+    "TagId": 7,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Shaman",
+      "Chamán",
+      "Xamã",
+      "Shaman",
+      "Chamán",
+      "Chaman",
+      "Шаман",
+      "Schamane",
+      "Xamã",
+      "Sciamano",
+      "주술사",
+      "薩滿",
+      "萨满祭司"
+    ],
+    "Media": "classicon_shaman.jpg"
+  },
+  {
+    "TagId": 8,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Mage",
+      "Mago",
+      "Mago",
+      "Mage",
+      "Mago",
+      "Mage",
+      "Маг",
+      "Magier",
+      "Mago",
+      "Mago",
+      "마법사",
+      "法師",
+      "法师"
+    ],
+    "Media": "classicon_mage.jpg"
+  },
+  {
+    "TagId": 9,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Warlock",
+      "Brujo",
+      "Bruxo",
+      "Warlock",
+      "Brujo",
+      "Démoniste",
+      "Чернокнижник",
+      "Hexenmeister",
+      "Bruxo",
+      "Stregone",
+      "흑마법사",
+      "術士",
+      "术士"
+    ],
+    "Media": "classicon_warlock.jpg"
+  },
+  {
+    "TagId": 10,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Monk",
+      "Monje",
+      "Monge",
+      "Monk",
+      "Monje",
+      "Moine",
+      "Монах",
+      "Mönch",
+      "Monge",
+      "Monaco",
+      "수도사",
+      "武僧",
+      "武僧"
+    ],
+    "Media": "classicon_monk.jpg"
+  },
+  {
+    "TagId": 11,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Druid",
+      "Druida",
+      "Druida",
+      "Druid",
+      "Druida",
+      "Druide",
+      "Друид",
+      "Druide",
+      "Druida",
+      "Druido",
+      "드루이드",
+      "德魯伊",
+      "德鲁伊"
+    ],
+    "Media": "classicon_druid.jpg"
+  },
+  {
+    "TagId": 12,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Demon Hunter",
+      "Cazador de demonios",
+      "Caçador de Demônios",
+      "Demon Hunter",
+      "Cazador de demonios",
+      "Chasseur de démons",
+      "Охотник на демонов",
+      "Dämonenjäger",
+      "Caçador de Demônios",
+      "Cacciatore di Demoni",
+      "악마사냥꾼",
+      "惡魔獵人",
+      "恶魔猎手"
+    ],
+    "Media": "classicon_demonhunter.jpg"
+  },
+  {
+    "TagId": 13,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Evoker",
+      "Evocador",
+      "Conjurante",
+      "Evoker",
+      "Evocador",
+      "Évocateur",
+      "Пробудитель",
+      "Rufer",
+      "Conjurante",
+      "Evocatore",
+      "기원사",
+      "喚能師",
+      "唤魔师"
+    ],
+    "Media": "classicon_evoker.jpg"
+  },
+  {
+    "TagId": 14,
+    "TagType": 51,
+    "Names": [
+      null,
+      "Adventurer",
+      "Aventurera",
+      "Aventureiro",
+      "Adventurer",
+      "Aventurero",
+      "Aventurier",
+      "Искатель приключений",
+      "Abenteurer",
+      "Aventureiro",
+      "Avventuriera",
+      "모험가",
+      "冒險者",
+      "冒险者"
+    ]
+  }
+]

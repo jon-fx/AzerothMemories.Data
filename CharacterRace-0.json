@@ -1,0 +1,942 @@
+[
+  {
+    "TagId": 0,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Unknown Race",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "TagId": 1,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Human",
+      "Humano",
+      "Humano",
+      "Human",
+      "Humano",
+      "Humain",
+      "Человек",
+      "Mensch",
+      "Humano",
+      "Umano",
+      "인간",
+      "人類",
+      "人类"
+    ]
+  },
+  {
+    "TagId": 2,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Orc",
+      "Orco",
+      "Orc",
+      "Orc",
+      "Orco",
+      "Orc",
+      "Орк",
+      "Orc",
+      "Orc",
+      "Orco",
+      "오크",
+      "獸人",
+      "兽人"
+    ]
+  },
+  {
+    "TagId": 3,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Dwarf",
+      "Enano",
+      "Anão",
+      "Dwarf",
+      "Enano",
+      "Nain",
+      "Дворф",
+      "Zwerg",
+      "Anão",
+      "Nano",
+      "드워프",
+      "矮人",
+      "矮人"
+    ]
+  },
+  {
+    "TagId": 4,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Night Elf",
+      "Elfo de la noche",
+      "Elfo Noturno",
+      "Night Elf",
+      "Elfo de la noche",
+      "Elfe de la nuit",
+      "Ночной эльф",
+      "Nachtelf",
+      "Elfo Noturno",
+      "Elfo della Notte",
+      "나이트 엘프",
+      "夜精靈",
+      "暗夜精灵"
+    ]
+  },
+  {
+    "TagId": 5,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Undead",
+      "No-muerto",
+      "Morto-vivo",
+      "Undead",
+      "No-muerto",
+      "Mort-vivant",
+      "Нежить",
+      "Untoter",
+      "Morto-vivo",
+      "Non Morto",
+      "언데드",
+      "不死族",
+      "亡灵"
+    ]
+  },
+  {
+    "TagId": 6,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Tauren",
+      "Tauren",
+      "Tauren",
+      "Tauren",
+      "Tauren",
+      "Tauren",
+      "Таурен",
+      "Tauren",
+      "Tauren",
+      "Tauren",
+      "타우렌",
+      "牛頭人",
+      "牛头人"
+    ]
+  },
+  {
+    "TagId": 7,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Gnome",
+      "Gnomo",
+      "Gnomo",
+      "Gnome",
+      "Gnomo",
+      "Gnome",
+      "Гном",
+      "Gnom",
+      "Gnomo",
+      "Gnomo",
+      "노움",
+      "地精",
+      "侏儒"
+    ]
+  },
+  {
+    "TagId": 8,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Troll",
+      "Trol",
+      "Troll",
+      "Troll",
+      "Trol",
+      "Troll",
+      "Тролль",
+      "Troll",
+      "Troll",
+      "Troll",
+      "트롤",
+      "食人妖",
+      "巨魔"
+    ]
+  },
+  {
+    "TagId": 9,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Goblin",
+      "Goblin",
+      "Goblin",
+      "Goblin",
+      "Goblin",
+      "Gobelin",
+      "Гоблин",
+      "Goblin",
+      "Goblin",
+      "Goblin",
+      "고블린",
+      "哥布林",
+      "地精"
+    ]
+  },
+  {
+    "TagId": 10,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Blood Elf",
+      "Elfo de sangre",
+      "Elfo Sangrento",
+      "Blood Elf",
+      "Elfo de sangre",
+      "Elfe de sang",
+      "Эльф крови",
+      "Blutelf",
+      "Elfo Sangrento",
+      "Elfo del Sangue",
+      "블러드 엘프",
+      "血精靈",
+      "血精灵"
+    ]
+  },
+  {
+    "TagId": 11,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Draenei",
+      "Draenei",
+      "Draenei",
+      "Draenei",
+      "Draenei",
+      "Draeneï",
+      "Дреней",
+      "Draenei",
+      "Draenei",
+      "Draenei",
+      "드레나이",
+      "德萊尼",
+      "德莱尼"
+    ]
+  },
+  {
+    "TagId": 12,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Fel Orc",
+      "Orco vil",
+      "Orc Vil",
+      "Fel Orc",
+      "Orco vil",
+      "Gangr'orc",
+      "Орк Скверны",
+      "Höllenorc",
+      "Orc Vil",
+      "Vilorco",
+      "타락한 오크",
+      "魔獄獸人",
+      "邪兽人"
+    ]
+  },
+  {
+    "TagId": 13,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Naga",
+      "Naga",
+      "Naga",
+      "Naga",
+      "Naga",
+      "Naga",
+      "Нага",
+      "Naga",
+      "Naga",
+      "Naga",
+      "나가",
+      "納迦",
+      "纳迦"
+    ]
+  },
+  {
+    "TagId": 14,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Broken",
+      "Tábido",
+      "Degradado",
+      "Broken",
+      "Tábido",
+      "Roué",
+      "Сломленный",
+      "Zerschlagener",
+      "Degradado",
+      "Corrotto",
+      "뒤틀린 드레나이",
+      "破碎者",
+      "破碎者"
+    ]
+  },
+  {
+    "TagId": 15,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Skeleton",
+      "Esqueleto",
+      "Esqueleto",
+      "Skeleton",
+      "Esqueleto",
+      "Squelette",
+      "Скелет",
+      "Skelett",
+      "Esqueleto",
+      "Scheletro",
+      "해골",
+      "骷髏",
+      "骷髅"
+    ]
+  },
+  {
+    "TagId": 16,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Vrykul",
+      "Vrykul",
+      "Vraikal",
+      "Vrykul",
+      "Vrykul",
+      "Vrykul",
+      "Врайкул",
+      "Vrykul",
+      "Vraikal",
+      "Vrykul",
+      "브리쿨",
+      "維酷人",
+      "维库人"
+    ]
+  },
+  {
+    "TagId": 17,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Tuskarr",
+      "Colmillarr",
+      "Morsano",
+      "Tuskarr",
+      "Colmillarr",
+      "Rohart",
+      "Клыкарр",
+      "Tuskarr",
+      "Morsano",
+      "Tuskarr",
+      "투스카르",
+      "巨牙海民",
+      "海象人"
+    ]
+  },
+  {
+    "TagId": 18,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Forest Troll",
+      "Trol de bosque",
+      "Troll da Floresta",
+      "Forest Troll",
+      "Trol de bosque",
+      "Troll des forêts",
+      "Лесной тролль",
+      "Waldtroll",
+      "Troll da Floresta",
+      "Troll delle Foreste",
+      "숲트롤",
+      "森林食人妖",
+      "森林巨魔"
+    ]
+  },
+  {
+    "TagId": 19,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Taunka",
+      "Taunka",
+      "Taunka",
+      "Taunka",
+      "Taunka",
+      "Taunka",
+      "Таунка",
+      "Taunka",
+      "Taunka",
+      "Taunka",
+      "타운카",
+      "坦卡族",
+      "牦牛人"
+    ]
+  },
+  {
+    "TagId": 20,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Northrend Skeleton",
+      "Esqueleto de Rasganorte",
+      "Esqueleto de Nortúndria",
+      "Northrend Skeleton",
+      "Esqueleto de Rasganorte",
+      "Squelette du Norfendre",
+      "Нордскольский скелет",
+      "Nordendskelett",
+      "Esqueleto de Nortúndria",
+      "Scheletro di Nordania",
+      "노스렌드 해골",
+      "北裂境骷髏",
+      "诺森德骷髅"
+    ]
+  },
+  {
+    "TagId": 21,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Ice Troll",
+      "Trol de hielo",
+      "Troll do Gelo",
+      "Ice Troll",
+      "Trol de hielo",
+      "Troll des glaces",
+      "Ледяной тролль",
+      "Eistroll",
+      "Troll do Gelo",
+      "Troll dei Ghiacci",
+      "얼음 트롤",
+      "寒冰食人妖",
+      "冰巨魔"
+    ]
+  },
+  {
+    "TagId": 22,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Worgen",
+      "Huargen",
+      "Worgen",
+      "Worgen",
+      "Huargen",
+      "Worgen",
+      "Ворген",
+      "Worgen",
+      "Worgen",
+      "Worgen",
+      "늑대인간",
+      "狼人",
+      "狼人"
+    ]
+  },
+  {
+    "TagId": 23,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Gilnean",
+      "Gilneano",
+      "Guilneano",
+      "Gilnean",
+      "Gilneano",
+      "Gilnéen",
+      "Житель Гилнеаса",
+      "Gilneer",
+      "Guilneano",
+      "Gilneano",
+      "길니아스인",
+      "吉爾尼斯",
+      "吉尔尼斯人"
+    ]
+  },
+  {
+    "TagId": 24,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Пандарен",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "판다렌",
+      "熊貓人",
+      "熊猫人"
+    ]
+  },
+  {
+    "TagId": 25,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Пандарен",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "판다렌",
+      "熊貓人",
+      "熊猫人"
+    ]
+  },
+  {
+    "TagId": 26,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "Пандарен",
+      "Pandaren",
+      "Pandaren",
+      "Pandaren",
+      "판다렌",
+      "熊貓人",
+      "熊猫人"
+    ]
+  },
+  {
+    "TagId": 27,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Nightborne",
+      "Natonocturno",
+      "Filho da Noite",
+      "Nightborne",
+      "Nocheterna",
+      "Sacrenuit",
+      "Ночнорожденный",
+      "Nachtgeborener",
+      "Filho da Noite",
+      "Nobile Oscuro",
+      "나이트본",
+      "夜裔精靈",
+      "夜之子"
+    ]
+  },
+  {
+    "TagId": 28,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Highmountain Tauren",
+      "Tauren de Altamontaña",
+      "Tauren Altamontês",
+      "Highmountain Tauren",
+      "Tauren Monte Alto",
+      "Tauren de Haut-Roc",
+      "Таурен Крутогорья",
+      "Hochbergtauren",
+      "Tauren Altamontês",
+      "Tauren di Alto Monte",
+      "높은산 타우렌",
+      "高嶺牛頭人",
+      "至高岭牛头人"
+    ]
+  },
+  {
+    "TagId": 29,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Void Elf",
+      "Elfo del Vacío",
+      "Elfo Caótico",
+      "Void Elf",
+      "Elfo del Vacío",
+      "Elfe du Vide",
+      "Эльф Бездны",
+      "Leerenelf",
+      "Elfo Caótico",
+      "Elfo del Vuoto",
+      "공허 엘프",
+      "虛無精靈",
+      "虚空精灵"
+    ]
+  },
+  {
+    "TagId": 30,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Lightforged Draenei",
+      "Draenei templeluz",
+      "Draenei Forjado a Luz",
+      "Lightforged Draenei",
+      "Draenei forjado por la Luz",
+      "Draeneï sancteforge",
+      "Озаренный дреней",
+      "Lichtgeschmiedeter Draenei",
+      "Draenei Forjado a Luz",
+      "Draenei Forgialuce",
+      "빛벼림 드레나이",
+      "光鑄德萊尼",
+      "光铸德莱尼"
+    ]
+  },
+  {
+    "TagId": 31,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Zandalari Troll",
+      "Trol zandalari",
+      "Troll Zandalari",
+      "Zandalari Troll",
+      "Trol Zandalari",
+      "Troll zandalari",
+      "Зандалар",
+      "Zandalaritroll",
+      "Troll Zandalari",
+      "Troll Zandalari",
+      "잔달라 트롤",
+      "贊達拉食人妖",
+      "赞达拉巨魔"
+    ]
+  },
+  {
+    "TagId": 32,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Kul Tiran",
+      "Kultirano",
+      "Kultireno",
+      "Kul Tiran",
+      "Ciudadano de Kul Tiras",
+      "Kultirassien",
+      "Култирасец",
+      "Kul Tiraner",
+      "Kultireno",
+      "Kul Tirano",
+      "쿨 티란",
+      "庫爾提拉斯人",
+      "库尔提拉斯人"
+    ]
+  },
+  {
+    "TagId": 33,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Human",
+      "Humano",
+      "Humano",
+      "Human",
+      "Humano",
+      "Humain",
+      "Человек",
+      "Mensch",
+      "Humano",
+      "Umano",
+      "인간",
+      "人類",
+      "人类"
+    ]
+  },
+  {
+    "TagId": 34,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Dark Iron Dwarf",
+      "Enano Hierro Negro",
+      "Anão Ferro Negro",
+      "Dark Iron Dwarf",
+      "Enano Hierro Negro",
+      "Nain sombrefer",
+      "Дворф из клана Черного Железа",
+      "Dunkeleisenzwerg",
+      "Anão Ferro Negro",
+      "Nano Ferroscuro",
+      "검은무쇠 드워프",
+      "黑鐵矮人",
+      "黑铁矮人"
+    ]
+  },
+  {
+    "TagId": 35,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Vulpera",
+      "Vulpera",
+      "Vulpera",
+      "Vulpera",
+      "Vulpera",
+      "Vulpérin",
+      "Вульпера",
+      "Vulpera",
+      "Vulpera",
+      "Vulpera",
+      "불페라",
+      "狐狸人",
+      "狐人"
+    ]
+  },
+  {
+    "TagId": 36,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Mag'har Orc",
+      "Orco mag'har",
+      "Orc Mag'har",
+      "Mag'har Orc",
+      "Orco Mag'har",
+      "Orc mag’har",
+      "Маг'хар",
+      "Mag'har",
+      "Orc Mag'har",
+      "Orco Mag'har",
+      "마그하르 오크",
+      "瑪格哈獸人",
+      "玛格汉兽人"
+    ]
+  },
+  {
+    "TagId": 37,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Mechagnome",
+      "Mecagnomo",
+      "Gnomecânico",
+      "Mechagnome",
+      "Mecagnomo",
+      "Mécagnome",
+      "Механогном",
+      "Mechagnom",
+      "Gnomecânico",
+      "Meccagnomo",
+      "기계노움",
+      "機械地精",
+      "机械侏儒"
+    ]
+  },
+  {
+    "TagId": 52,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Драктир",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "드랙티르",
+      "半龍人",
+      "龙希尔"
+    ]
+  },
+  {
+    "TagId": 70,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "Драктир",
+      "Dracthyr",
+      "Dracthyr",
+      "Dracthyr",
+      "드랙티르",
+      "半龍人",
+      "龙希尔"
+    ]
+  },
+  {
+    "TagId": 71,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Highland Drake",
+      "Draco de las Tierras Altas",
+      "Draco do Planalto",
+      "Highland Drake",
+      "Draco de las Tierras Altas",
+      "Drake des hautes-terres",
+      "Дракон нагорья",
+      "Hochlanddrache",
+      "Draco do Planalto",
+      "Draco delle Alture",
+      "고원 비룡",
+      "高地飛龍",
+      "高地幼龙"
+    ]
+  },
+  {
+    "TagId": 72,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Renewed Proto-Drake",
+      "Protodraco renovado",
+      "Protodraco Renovado",
+      "Renewed Proto-Drake",
+      "Protodraco renovado",
+      "Proto-drake renouvelé",
+      "Обновленный протодракон",
+      "Erneuerter Protodrache",
+      "Protodraco Renovado",
+      "Proto-Draco Rinnovato",
+      "소생한 원시비룡",
+      "再生元龍",
+      "复苏始祖幼龙"
+    ]
+  },
+  {
+    "TagId": 73,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Winding Slitherdrake",
+      "Dracorreptante sinuoso",
+      "Dracoleante Sinuoso",
+      "Winding Slitherdrake",
+      "Reptadraco sinuoso",
+      "Glissedrake méandrique",
+      "Скользящий дракозмей",
+      "Schlängelnder Kriecherdrache",
+      "Dracoleante Sinuoso",
+      "Dracondoso Serpeggiante",
+      "구불구불한 비단비룡",
+      "盤旋翔龍",
+      "盘曲蜿变幼龙"
+    ]
+  },
+  {
+    "TagId": 74,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Cliffside Wylderdrake",
+      "Draco salvaje de risco",
+      "Dracarisco do Penhasco",
+      "Cliffside Wylderdrake",
+      "Dracosalvaje del acantilado",
+      "Drake-sauvage des falaises",
+      "Горный вивернодракон",
+      "Klippenwilddrache",
+      "Dracarisco do Penhasco",
+      "Dracobrado della Rupe",
+      "절벽 황야비룡",
+      "峭壁荒野飛龍",
+      "崖际荒狂幼龙"
+    ]
+  },
+  {
+    "TagId": 75,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Visage",
+      "Humanoide",
+      "Semblante",
+      "Visage",
+      "Rostro",
+      "Forme anthropique",
+      "Человек",
+      "Antlitz",
+      "Semblante",
+      "Volto",
+      "인간 형상",
+      "人形",
+      "幻容"
+    ]
+  },
+  {
+    "TagId": 76,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Visage",
+      "Humanoide",
+      "Semblante",
+      "Visage",
+      "Rostro",
+      "Forme anthropique",
+      "Человек",
+      "Antlitz",
+      "Semblante",
+      "Volto",
+      "인간 형상",
+      "人形",
+      "幻容"
+    ]
+  },
+  {
+    "TagId": 77,
+    "TagType": 50,
+    "Names": [
+      null,
+      "Windborne Velocidrake",
+      "Velocidraco vendaval",
+      "Velocidraco Pairavento",
+      "Windborne Velocidrake",
+      "Velocidraco natoviento",
+      "Vélocidrake vogue-vents",
+      "Воздушный велоцидракон",
+      "Windgeborener Velocidrache",
+      "Velocidraco Pairavento",
+      "Velocidraco del Vento",
+      "바람내기 벨로시비룡",
+      "烈風迅疾龍",
+      "载风迅疾幼龙"
+    ]
+  }
+]
