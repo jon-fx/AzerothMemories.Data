@@ -2834,6 +2834,26 @@
     "Media": "spell_progenitor_debuff.jpg"
   },
   {
+    "TagId": 190199,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Well-Worn Grimskull Cinch",
+      "Cincha de cráneo vil desgastada",
+      "Cilha do Crânio Sinistro Gasta",
+      "Well-Worn Grimskull Cinch",
+      "Cincho de calavera siniestra muy desgastado",
+      "Cordelière crâne-sinistre usée",
+      "Истрепанный кушак мрачных черепов",
+      "Abgenutzter Düsterschädelhüftgurt",
+      "Cilha do Crânio Sinistro Gasta",
+      "Cinta con Teschio Molto Consumata",
+      "마모된 암담해골 허리끈",
+      "嚴重磨損的獰顱繫腰",
+      "老旧的灰颅腰带"
+    ]
+  },
+  {
     "TagId": 190201,
     "TagType": 21,
     "Names": [
@@ -5499,6 +5519,27 @@
       "猩链月牙斧"
     ],
     "Media": "inv_axe_04.jpg"
+  },
+  {
+    "TagId": 190439,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Merciless Trapper's Staff",
+      "Bastón del trampero despiadado",
+      "Cajado do Coureador Impiedoso",
+      "Merciless Trapper's Staff",
+      "Bastón de trampero despiadado",
+      "Bâton de traque impitoyable",
+      "Посох безжалостного зверолова",
+      "Stab des erbarmungslosen Fallenstellers",
+      "Cajado do Coureador Impiedoso",
+      "Bastone del Bracconiere Spietato",
+      "무자비한 덫사냥꾼의 지팡이",
+      "絕憫陷捕者法杖",
+      "无情捕手的法杖"
+    ],
+    "Media": "inv_staff_2h_draenorhonors2_c_04.jpg"
   },
   {
     "TagId": 190440,
@@ -12483,7 +12524,7 @@
       "Vagabond's Snowy Cape",
       "Manteo nevado de vagabundo",
       "Cape neigeuse de vagabondage",
-      "Заснеженная накидка скитальца",
+      "Заснеженная накидка бродяги",
       "Schneeweißes Vagabundencape",
       "Capa Nevada do Vagante",
       "Cappa Nevosa del Vagabondo",
@@ -12525,7 +12566,7 @@
       "Vagabond's Snowy Hood",
       "Caperuza nevada de vagabundo",
       "Chaperon neigeux de vagabondage",
-      "Заснеженный капюшон скитальца",
+      "Заснеженный капюшон бродяги",
       "Schneeweiße Vagabundenkapuze",
       "Capuz Nevado do Vagante",
       "Cappuccio Nevoso del Vagabondo",
@@ -12975,6 +13016,48 @@
       "荣耀瓦拉加尔的胸铠"
     ],
     "Media": "inv_plate_legionraid_d_01chest.jpg"
+  },
+  {
+    "TagId": 190921,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Wanderer's Snowy Trappings",
+      "Conjunto: Ajuar nevado de errante",
+      "Indumentária: Ornamentos Nevados do Errante",
+      "Ensemble: Wanderer's Snowy Trappings",
+      "Indumentaria: Ajuar nevado de errante",
+      "Ensemble\u00A0: ornements neigeux de voyage",
+      "Комплект: заснеженная личина скитальца",
+      "Ensemble: Schneeweißer Zierrat des Wanderers",
+      "Indumentária: Ornamentos Nevados do Errante",
+      "Set: Ornamenti Nevosi del Viandante",
+      "복장: 방랑자의 새하얀 의복",
+      "套裝：漫遊者雪白之服",
+      "套装：漫游者的雪白马衣"
+    ],
+    "Media": "inv_collections_armor_neckerchief_b_01_white.jpg"
+  },
+  {
+    "TagId": 190922,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Vagabond's Snowy Threads",
+      "Conjunto: Ropas nevadas de vagabundo",
+      "Indumentária: Panos Nevados do Vagante",
+      "Ensemble: Vagabond's Snowy Threads",
+      "Indumentaria: Ropas nevadas de vagabundo",
+      "Ensemble\u00A0: ornements neigeux de vagabondage",
+      "Комплект: заснеженная накидка бродяги",
+      "Ensemble: Schneeweiße Kluft des Vagabunden",
+      "Indumentária: Panos Nevados do Vagante",
+      "Set: Fili Nevosi del Vagabondo",
+      "복장: 방랑객의 새하얀 예복",
+      "套裝：流浪者雪白絲線",
+      "套装：流浪者的雪白之踏"
+    ],
+    "Media": "inv_collections_armor_hood_b_01_white.jpg"
   },
   {
     "TagId": 190926,
