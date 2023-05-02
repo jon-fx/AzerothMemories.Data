@@ -5486,6 +5486,27 @@
     "Media": "inv_misc_head_dragon_blue.jpg"
   },
   {
+    "TagId": 397383,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Barrier",
+      "Barrera de arrabio",
+      "Barreira Derretida",
+      "Molten Barrier",
+      "Barrera de magma",
+      "Barrière de la fournaise",
+      "Раскаленный барьер",
+      "Geschmolzene Barriere",
+      "Barreira Derretida",
+      "Barriera Fusa",
+      "용암 보호막",
+      "熔火屏障",
+      "熔火屏障"
+    ],
+    "Media": "inv_misc_orb_05.jpg"
+  },
+  {
     "TagId": 397384,
     "TagType": 26,
     "Names": [
@@ -5526,6 +5547,27 @@
       "冻结之缚"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397386,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lava Bolt",
+      "Descarga de lava",
+      "Seta de Lava",
+      "Lava Bolt",
+      "Descarga de lava",
+      "Trait de lave",
+      "Лавовая стрела",
+      "Lavablitz",
+      "Seta de Lava",
+      "Dardo di Lava",
+      "용암 화살",
+      "熔岩箭",
+      "熔岩箭"
+    ],
+    "Media": "spell_shaman_lavaburst.jpg"
   },
   {
     "TagId": 397387,
@@ -6276,6 +6318,27 @@
       "[DND] Mount Despawn Check",
       "[DND] Mount Despawn Check",
       "[DND] Mount Despawn Check"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397427,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane",
+      "Cosmetic - Channel Arcane"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -7644,6 +7707,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397505,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Volcanic Ground",
+      "Terreno volcánico",
+      "Solo Vulcânico",
+      "Volcanic Ground",
+      "Suelo volcánico",
+      "Sol volcanique",
+      "Вулканическая поверхность",
+      "Vulkanischer Boden",
+      "Solo Vulcânico",
+      "Terreno Vulcanico",
+      "화산 지대",
+      "火山之地",
+      "火山之地"
+    ],
+    "Media": "inv_misc_volatilefire.jpg"
+  },
+  {
     "TagId": 397506,
     "TagType": 26,
     "Names": [
@@ -7665,6 +7749,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397507,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Cogitation",
+      "Meditación fundida",
+      "Cogitação Incandescente",
+      "Molten Cogitation",
+      "Cavilación de magma",
+      "Cogitation de magma",
+      "Медлительная лава",
+      "Geschmolzene Berechnung",
+      "Cogitação Incandescente",
+      "Cogitazione Fusa",
+      "타오르는 발상",
+      "熔火思維",
+      "熔火凝思"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 397508,
     "TagType": 26,
     "Names": [
@@ -7682,6 +7787,27 @@
       "Taxi",
       "Taxi",
       "Taxi"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397509,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Havoc",
+      "Caos de magma",
+      "Devastação Incandescente",
+      "Molten Havoc",
+      "Devastación de magma",
+      "Chaos de magma",
+      "Губительная магма",
+      "Geschmolzene Verwüstung",
+      "Devastação Incandescente",
+      "Rovina Fusa",
+      "타오르는 혼란",
+      "熔火浩劫",
+      "熔火浩劫"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -7726,6 +7852,89 @@
       "钻石陨网"
     ],
     "Media": "inv_misc_web_01.jpg"
+  },
+  {
+    "TagId": 397512,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller",
+      "[DNT] Kagni Energy Controller"
+    ]
+  },
+  {
+    "TagId": 397513,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara",
+      "[DNT] Ride Ignara"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397514,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Desperate Immolation",
+      "Inmolación desesperada",
+      "Imolação Desesperada",
+      "Desperate Immolation",
+      "Inmolación desesperada",
+      "Immolation désespérée",
+      "Отчаянное испепеление",
+      "Verzweifelter Feuerbrand",
+      "Imolação Desesperada",
+      "Immolazione Disperata",
+      "필사적인 제물",
+      "絕望獻祭",
+      "搏命献祭"
+    ],
+    "Media": "artifactability_firemage_phoenixbolt.jpg"
+  },
+  {
+    "TagId": 397515,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Devastating Sunder",
+      "Hendidura devastadora",
+      "Rompimento Devastador",
+      "Devastating Sunder",
+      "Hendimiento apabullante",
+      "Fracas dévastateur",
+      "Опустошающий раскол",
+      "Verheerendes Spalten",
+      "Rompimento Devastador",
+      "Separazione Devastante",
+      "파멸의 가르기",
+      "毀滅碎裂",
+      "地动山摇"
+    ],
+    "Media": "spell_nature_earthquake.jpg"
   },
   {
     "TagId": 397516,
@@ -7851,6 +8060,27 @@
       "Despawn All Clones [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397523,
+    "TagType": 26,
+    "Names": [
+      null,
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast",
+      "FX Test Spell Cast"
+    ],
+    "Media": "spell_druid_sunfall.jpg"
   },
   {
     "TagId": 397525,
@@ -8019,6 +8249,48 @@
       "Kill Credit"
     ],
     "Media": "inv_misc_treasurechest04c.jpg"
+  },
+  {
+    "TagId": 397534,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Devastating Sunder",
+      "Hendidura devastadora",
+      "Rompimento Devastador",
+      "Devastating Sunder",
+      "Hendimiento apabullante",
+      "Fracas dévastateur",
+      "Опустошающий раскол",
+      "Verheerendes Spalten",
+      "Rompimento Devastador",
+      "Separazione Devastante",
+      "파멸의 가르기",
+      "毀滅碎裂",
+      "地动山摇"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397537,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cave Rubble",
+      "Escombros de cueva",
+      "Escombros da Caverna",
+      "Cave Rubble",
+      "Escombros de cueva",
+      "Débris de la grotte",
+      "Пещерный камень",
+      "Höhlengeröll",
+      "Escombros da Caverna",
+      "Detriti della Caverna",
+      "동굴 잔해",
+      "洞穴礫石",
+      "洞穴碎石"
+    ],
+    "Media": "inv_10_elementalcombinedfoozles_earth.jpg"
   },
   {
     "TagId": 397538,
@@ -11456,6 +11728,27 @@
     "Media": "spell_frost_glacier.jpg"
   },
   {
+    "TagId": 397807,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Command: Aggression",
+      "Orden: Agresión",
+      "Comando: Agressão",
+      "Command: Aggression",
+      "Orden: agresividad",
+      "Ordre\u00A0: agression",
+      "Приказ: Агрессия",
+      "Befehl: Aggression",
+      "Comando: Agressão",
+      "Ordine: Aggressione",
+      "명령: 공격",
+      "命令：突擊",
+      "指令：侵袭"
+    ],
+    "Media": "ability_hunter_harass.jpg"
+  },
+  {
     "TagId": 397809,
     "TagType": 26,
     "Names": [
@@ -11582,6 +11875,90 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397818,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]",
+      "Contribute: Thumper Part (1) [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397819,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]",
+      "Contribute: Dragon Isles Supplies (20) [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397820,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]",
+      "Open Window: Explorer- Seismic Survey Site [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397821,
+    "TagType": 26,
+    "Names": [
+      null,
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]",
+      "RP Skip [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 397822,
     "TagType": 26,
     "Names": [
@@ -11685,6 +12062,27 @@
       "巨型鱼漂"
     ],
     "Media": "achievement_profession_fishing_outlandangler.jpg"
+  },
+  {
+    "TagId": 397831,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects",
+      "[DNT] Cosmetic Building Effects"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 397832,
@@ -13155,6 +13553,27 @@
       "Talk [DNT]"
     ],
     "Media": "warrior_disruptingshout.jpg"
+  },
+  {
+    "TagId": 397917,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Opening",
+      "Abriendo",
+      "Abrindo",
+      "Opening",
+      "Abriendo",
+      "Ouverture",
+      "Открывание",
+      "Öffnen",
+      "Abrindo",
+      "Apertura",
+      "열기",
+      "打開",
+      "打开"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 397918,

@@ -7388,7 +7388,8 @@
       "포악한 녹색 전투거북",
       "野蠻綠色戰龜",
       "野绿战龟"
-    ]
+    ],
+    "Media": "inv_turtlemount2_01.jpg"
   },
   {
     "TagId": 1583,
@@ -7510,9 +7511,10 @@
       "Dracoleante Sinuoso",
       "Dracondoso Serpeggiante",
       "구불구불한 비단비룡",
-      "盤旋翔龍",
+      "盤旋滑龍",
       "盘曲蜿变幼龙"
-    ]
+    ],
+    "Media": "inv_companionserpent.jpg"
   },
   {
     "TagId": 1589,
@@ -7725,6 +7727,26 @@
     "Media": "inv_tuskarrglider.jpg"
   },
   {
+    "TagId": 1603,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Subterranean Magmammoth",
+      "Magmamut subterráneo",
+      "Magmamute Subterrâneo",
+      "Subterranean Magmammoth",
+      "Magmamut subterráneo",
+      "Magmammouth souterrain",
+      "Подземный магмонт",
+      "Unterirdisches Magmammut",
+      "Magmamute Subterrâneo",
+      "Magmammut Sotterraneo",
+      "지저 용암 매머드",
+      "地下熔岩猛瑪象",
+      "地底岩浆猛犸"
+    ]
+  },
+  {
     "TagId": 1605,
     "TagType": 22,
     "Names": [
@@ -7911,6 +7933,27 @@
       "雷革蝾螈"
     ],
     "Media": "inv_salamanderwatermount_purple.jpg"
+  },
+  {
+    "TagId": 1623,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Seething Slug",
+      "Babosa hirviente",
+      "Lesma Fumegante",
+      "Seething Slug",
+      "Babosa hirviente",
+      "Roussesillon",
+      "Бурлящий слизень",
+      "Brodelnde Schnecke",
+      "Lesma Fumegante",
+      "Lumacone Ribollente",
+      "작열하는 민달팽이",
+      "憤怒蛞蝓",
+      "沸涌蛞蝓"
+    ],
+    "Media": "inv_slugmount_red.jpg"
   },
   {
     "TagId": 1626,
@@ -8583,5 +8626,257 @@
       "火箭伐木机9001型"
     ],
     "Media": "inv_rocketshredder9001.jpg"
+  },
+  {
+    "TagId": 1725,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Inferno Armoredon",
+      "Armaduronte infernal",
+      "Armadurado Infernal",
+      "Inferno Armoredon",
+      "Rinoceronte blindado infernal",
+      "Armoredon ardent",
+      "Инфернальный бронедон",
+      "Infernopanzerdon",
+      "Armadurado Infernal",
+      "Coraceronte Infernale",
+      "지옥불 장갑무소",
+      "煉獄裝甲獸",
+      "地狱火厚甲龙"
+    ],
+    "Media": "inv_rhinoprimalmountfire.jpg"
+  },
+  {
+    "TagId": 1729,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Big Slick in the City",
+      "Resbaladizo, el Escurridizo",
+      "Rei da Pista",
+      "Big Slick in the City",
+      "Gran Resbalón en la Ciudad",
+      "Une trace dans la ville",
+      "Большой Склизь",
+      "Größter Schleimer der Stadt",
+      "Rei da Pista",
+      "Viscidone Cittadino",
+      "거물 미끈이",
+      "城中大滑頭",
+      "城里的大滑"
+    ],
+    "Media": "inv_snailrockmount_pink.jpg"
+  },
+  {
+    "TagId": 1730,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Igneous Shalewing",
+      "Alaesquisto ígneo",
+      "Asaxisto Flamígneo",
+      "Igneous Shalewing",
+      "Alaesquisto ígneo",
+      "Aile-de-schiste ignée",
+      "Пылающий глинокрыл",
+      "Feurige Schieferschwinge",
+      "Asaxisto Flamígneo",
+      "Alaroccia Ignea",
+      "화성암 혈암날개",
+      "火成岩翼蝠",
+      "火成岩翼蝠"
+    ],
+    "Media": "inv_sporebatrock_red.jpg"
+  },
+  {
+    "TagId": 1732,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Cobalt Shalewing",
+      "Alaesquisto de cobalto",
+      "Asaxisto Cobalto",
+      "Cobalt Shalewing",
+      "Alaesquisto de cobalto",
+      "Aile-de-schiste de cobalt",
+      "Кобальтовый глинокрыл",
+      "Kobaltschieferschwinge",
+      "Asaxisto Cobalto",
+      "Alaroccia di Cobalto",
+      "코발트 혈암날개",
+      "鈷藍岩翼蝠",
+      "钴蓝岩翼蝠"
+    ],
+    "Media": "inv_sporebatrock_blue.jpg"
+  },
+  {
+    "TagId": 1734,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Shadowflame Shalewing",
+      "Alaesquisto de la llama de las sombras",
+      "Asaxisto de Chama Sombria",
+      "Shadowflame Shalewing",
+      "Alaesquisto de Pirosombra",
+      "Aile-de-schiste ombreflamme",
+      "Глинокрыл пламени Тьмы",
+      "Schattenflammenschieferschwinge",
+      "Asaxisto de Chama Sombria",
+      "Alaroccia d'Ombrofuoco",
+      "암흑불길 혈암날개",
+      "暗焰岩翼蝠",
+      "暗影烈焰岩翼蝠"
+    ],
+    "Media": "inv_sporebatrock_deepred.jpg"
+  },
+  {
+    "TagId": 1735,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Cataloged Shalewing",
+      "Alaesquisto catalogado",
+      "Asaxisto Catalogado",
+      "Cataloged Shalewing",
+      "Alaesquisto catalogado",
+      "Aile-de-schiste cataloguée",
+      "Задокументированный глинокрыл",
+      "Katalogisierte Schieferschwinge",
+      "Asaxisto Catalogado",
+      "Alaroccia Catalogato",
+      "분류된 혈암날개",
+      "已編目的岩翼蝠",
+      "编目岩翼蝠"
+    ],
+    "Media": "inv_sporebatrock_orange.jpg"
+  },
+  {
+    "TagId": 1736,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Boulder Hauler",
+      "Transportista de piedras",
+      "Reboque de Pedregulho",
+      "Boulder Hauler",
+      "Transportapeñascos",
+      "Porte-roche",
+      "Носильщик булыжников",
+      "Felsbrockenschlepper",
+      "Reboque de Pedregulho",
+      "Trasportamassi",
+      "돌덩이 운반꾼",
+      "巨石搬運工",
+      "石块搬运蝠"
+    ],
+    "Media": "inv_sporebatrock_stonered.jpg"
+  },
+  {
+    "TagId": 1738,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Morsel Sniffer",
+      "Rastreador de bocados",
+      "Farejador de Petiscos",
+      "Morsel Sniffer",
+      "Olfateador de bocados",
+      "Museau",
+      "Носатый Обжора",
+      "Happenschnüffler",
+      "Farejador de Petiscos",
+      "Bestia da Fiuto",
+      "간식 킁킁이",
+      "食物嗅探蝠",
+      "小食嗅探者"
+    ],
+    "Media": "inv_sporebatrock_stoneblack.jpg"
+  },
+  {
+    "TagId": 1739,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Obsidian Gladiator's Slitherdrake",
+      "Dracorreptante de Gladiador obsidiana",
+      "Dracoleante do Gladiador Obsidiano",
+      "Obsidian Gladiator's Slitherdrake",
+      "Reptadraco de Gladiador obsidiana",
+      "Glissedrake du gladiateur d’obsidienne",
+      "Дракозмей обсидианового гладиатора",
+      "Kriecherdrache des Obsidiangladiators",
+      "Dracoleante do Gladiador Obsidiano",
+      "Dracondoso del Gladiatore d'Ossidiana",
+      "흑요석 검투사의 비단비룡",
+      "黑曜鬥士的滑龍",
+      "黑曜角斗士的蜿变幼龙"
+    ],
+    "Media": "inv_serpentmountgladiator.jpg"
+  },
+  {
+    "TagId": 1740,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious War Snail",
+      "Caracol de guerra sañoso",
+      "Caracol de Guerra Cruel",
+      "Vicious War Snail",
+      "Caracol de guerra sañoso",
+      "Escargot de guerre vicieux",
+      "Свирепая боевая улитка",
+      "Boshafte Kriegsschnecke",
+      "Caracol de Guerra Cruel",
+      "Lumaca da Guerra Malvagia",
+      "흉포한 전투 달팽이",
+      "兇惡戰爭蝸牛",
+      "勇猛的作战蜗牛"
+    ],
+    "Media": "inv_vicioussnail_alliance.jpg"
+  },
+  {
+    "TagId": 1741,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious War Snail",
+      "Caracol de guerra sañoso",
+      "Caracol de Guerra Cruel",
+      "Vicious War Snail",
+      "Caracol de guerra sañoso",
+      "Escargot de guerre vicieux",
+      "Свирепая боевая улитка",
+      "Boshafte Kriegsschnecke",
+      "Caracol de Guerra Cruel",
+      "Lumaca da Guerra Malvagia",
+      "흉포한 전투 달팽이",
+      "兇惡戰爭蝸牛",
+      "勇猛的作战蜗牛"
+    ],
+    "Media": "inv_vicioussnail_horde.jpg"
+  },
+  {
+    "TagId": 1742,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Felcrystal Scorpion",
+      "Escorpión de cristal vil",
+      "Escorpião de Cristal Vil",
+      "Felcrystal Scorpion",
+      "Escorpión de cristal vil",
+      "Scorpion gangrecristal",
+      "Кристаллический скорпион Скверны",
+      "Teufelskristallskorpion",
+      "Escorpião de Cristal Vil",
+      "Scorpide di Vilcristallo",
+      "지옥수정 전갈",
+      "魔晶巨蝎",
+      "邪晶战蝎"
+    ],
+    "Media": "ability_mount_hordescorpiongreen.jpg"
   }
 ]

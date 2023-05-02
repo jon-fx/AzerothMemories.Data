@@ -340,6 +340,26 @@
     ]
   },
   {
+    "TagId": 14022,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Zaralek Cavern",
+      "Caverna Zaralek",
+      "Caverna Zaralek",
+      "Zaralek Cavern",
+      "Caverna Zaralek",
+      "Grotte de Zaralek",
+      "Пещера Заралек",
+      "Zaralekhöhle",
+      "Caverna Zaralek",
+      "Caverna di Zaralek",
+      "자랄레크 동굴",
+      "扎拉萊克洞窟",
+      "查拉雷克洞窟"
+    ]
+  },
+  {
     "TagId": 14023,
     "TagType": 24,
     "Names": [
@@ -1624,19 +1644,19 @@
     "TagType": 24,
     "Names": [
       null,
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames",
-      "[PH] Chamber of Flames"
+      "Chamber of Flames",
+      "Cámara de Llamas",
+      "Câmara das Chamas",
+      "Chamber of Flames",
+      "Cámara de las Llamas",
+      "Chambre des Flammes",
+      "Чертог Пламени",
+      "Kammer der Flammen",
+      "Câmara das Chamas",
+      "Camera delle Fiamme",
+      "불길의 방",
+      "烈焰之室",
+      "烈焰密室"
     ]
   },
   {
@@ -3340,6 +3360,26 @@
     ]
   },
   {
+    "TagId": 14520,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Loamm",
+      "Loamm",
+      "Argília",
+      "Loamm",
+      "Loamm",
+      "Terreau",
+      "Лоамм",
+      "Loamm",
+      "Argília",
+      "Loamm",
+      "로암",
+      "洛姆",
+      "峈姆"
+    ]
+  },
+  {
     "TagId": 14524,
     "TagType": 24,
     "Names": [
@@ -3648,7 +3688,7 @@
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
-      "zzOLDTalonlords' Perch",
+      "Mirador de los Señores de la Garfa",
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
@@ -3808,7 +3848,7 @@
       "Alto de las Garfas Superiores",
       "Ninho dos Lordes-de-garra",
       "Talonlords' Perch",
-      "Percha de los Señores de la Garfa",
+      "Mirador de los Señores de la Garfa",
       "Perchoir des Nobles-Serres",
       "Гнездовье повелителей когтей",
       "Hort der Krallenfürsten",
@@ -4048,7 +4088,7 @@
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
-      "zzOLDTalonlords' Perch",
+      "Mirador de los Señores de la Garfa",
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
       "zzOLDTalonlords' Perch",
@@ -4150,13 +4190,253 @@
       "Zskera Vaults",
       "Cámaras de Zskera",
       "Caveaux de Zskera",
-      "Зскерские хранилища",
+      "Зкерские хранилища",
       "Gewölbe von Zskera",
       "Câmaras de Zskera",
       "Cripte di Zskera",
       "지스케라 금고",
       "澤斯克拉密庫",
       "兹斯克拉宝库"
+    ]
+  },
+  {
+    "TagId": 14644,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Deephollow Lake",
+      "Lago Fosoprofundo",
+      "Lago Grotafunda",
+      "Deephollow Lake",
+      "Lago Abisal",
+      "Lac des Abysses",
+      "Карст-озеро",
+      "Tiefgrottensee",
+      "Lago Grotafunda",
+      "Lago di Concafonda",
+      "심연공동 호수",
+      "深窟湖",
+      "深洼湖"
+    ]
+  },
+  {
+    "TagId": 14645,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Deepflayer Nest",
+      "Nido de Rocaazotes",
+      "Ninho de Azorragues",
+      "Deepflayer Nest",
+      "Nido de los Despellejadores",
+      "Nid de flagelleurs des profondeurs",
+      "Гнездо глубинных живодеров",
+      "Tiefenschindernest",
+      "Ninho de Azorragues",
+      "Nido dei Fondovolo",
+      "심연약탈자 둥지",
+      "深岩剝石怪巢穴",
+      "深岩剥石者之巢"
+    ]
+  },
+  {
+    "TagId": 14646,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Nal ks'kol",
+      "Nal Ks'kol",
+      "Nal Ks'kol",
+      "Nal ks'kol",
+      "Nal ks'kol",
+      "Nal Ks’kol",
+      "Нал-кс'кол",
+      "Nal ks'kol",
+      "Nal Ks'kol",
+      "Nal ks'kol",
+      "날 크스콜",
+      "納克斯科",
+      "纳·克斯寇"
+    ]
+  },
+  {
+    "TagId": 14647,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Sundered Flame Camp",
+      "Campamento de la Llama Hendida",
+      "Acampamento da Chama Partida",
+      "Sundered Flame Camp",
+      "Campamento de la Llama Hendida",
+      "Camp de la Flamme fracturée",
+      "Лагерь Расколотого Пламени",
+      "Splitterflammenlager",
+      "Acampamento da Chama Partida",
+      "Campo della Fiamma Frammentata",
+      "분리된 불길 야영지",
+      "碎裂火焰軍營地",
+      "碎裂之焰营地"
+    ]
+  },
+  {
+    "TagId": 14648,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Aberrus Approach",
+      "Frontera de Aberrus",
+      "Acesso a Aberrus",
+      "Aberrus Approach",
+      "Acceso a Aberrus",
+      "Abords d’Aberrus",
+      "Подступы Аберрия",
+      "Aberrusvorstoß",
+      "Acesso a Aberrus",
+      "Approdo dell'Aberrus",
+      "아베루스 진입로",
+      "亞貝魯斯通路",
+      "亚贝鲁斯之途"
+    ]
+  },
+  {
+    "TagId": 14649,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Sulfur Wastes",
+      "Páramos de Sulfuro",
+      "Campos de Enxofre",
+      "Sulfur Wastes",
+      "Yermos de Azufre",
+      "Soufrière",
+      "Серные пустоши",
+      "Schwefelödnis",
+      "Campos de Enxofre",
+      "Distese Sulfuree",
+      "유황 황무지",
+      "硫磺荒原",
+      "燃石废土"
+    ]
+  },
+  {
+    "TagId": 14650,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Ruins of Drekazera",
+      "Ruinas de Drekazera",
+      "Ruínas de Drekazera",
+      "Ruins of Drekazera",
+      "Ruinas de Drekazera",
+      "Ruines de Drekazera",
+      "Руины Дреказеры",
+      "Ruinen von Drekazera",
+      "Ruínas de Drekazera",
+      "Rovine di Drekazera",
+      "드레카제라 폐허",
+      "德瑞卡哲拉廢墟",
+      "德雷卡泽拉废墟"
+    ]
+  },
+  {
+    "TagId": 14651,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Acidbite Ravine",
+      "Barranco Ponzoñoso",
+      "Ravina da Corrosão Acídica",
+      "Acidbite Ravine",
+      "Barranco Muerdeácido",
+      "Ravin Mordacide",
+      "Кислотная расселина",
+      "Ätzsäurenschlucht",
+      "Ravina da Corrosão Acídica",
+      "Gola del Morso Acido",
+      "산성이빨 협곡",
+      "酸口峽谷",
+      "酸噬裂谷"
+    ]
+  },
+  {
+    "TagId": 14652,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Battlefield Ruins",
+      "Ruinas del Campo de Batalla",
+      "Ruínas do Campo de Batalha",
+      "Battlefield Ruins",
+      "Ruinas del Campo de Batalla",
+      "Ruines du champ de bataille",
+      "Руины на поле боя",
+      "Schlachtfeldruinen",
+      "Ruínas do Campo de Batalha",
+      "Rovine del Campo di Battaglia",
+      "전장 폐허",
+      "戰地廢墟",
+      "战场废墟"
+    ]
+  },
+  {
+    "TagId": 14653,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Zaqali Caldera",
+      "Caldera Zaqali",
+      "Caldeira Zaqali",
+      "Zaqali Caldera",
+      "Caldera Zaqali",
+      "Caldeira Zaqali",
+      "Кальдера Закали",
+      "Zaqalikaldera",
+      "Caldeira Zaqali",
+      "Caldera degli Zaqali",
+      "자칼리 함몰지",
+      "薩克利火山口",
+      "扎卡利喷口"
+    ]
+  },
+  {
+    "TagId": 14654,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Slitherdrake Roost",
+      "Nido de Dracorreptante",
+      "Poleiro de Dracoleante Sinuoso",
+      "Slitherdrake Roost",
+      "Nidal del Reptadraco",
+      "Perchoir des Glissedrakes",
+      "Гнезда дракозмеев",
+      "Kriecherdrachenhorst",
+      "Poleiro de Dracoleante Sinuoso",
+      "Nido dei Drachiondosi",
+      "비단비룡 횃대",
+      "滑龍棲息地",
+      "蜿变幼龙栖地"
+    ]
+  },
+  {
+    "TagId": 14655,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Obsidian Rest",
+      "Reposo Obsidiana",
+      "Refúgio Obsidiano",
+      "Obsidian Rest",
+      "Reposo Obsidiana",
+      "Repos d’Obsidienne",
+      "Обсидиановый покой",
+      "Obsidianrast",
+      "Refúgio Obsidiano",
+      "Riposo d'Ossidiana",
+      "흑요석 휴식터",
+      "黑曜之眠",
+      "黑曜之巢"
     ]
   },
   {
@@ -4177,6 +4457,166 @@
       "모르쿠트 마을",
       "莫克特村",
       "莫库特村"
+    ]
+  },
+  {
+    "TagId": 14657,
+    "TagType": 24,
+    "Names": [
+      null,
+      "WB New Hires",
+      "Contrataciones WB",
+      "WB Novas Contratações",
+      "WB New Hires",
+      "Nuevas contrataciones WB",
+      "WB Nouvelles Recrues",
+      "WB новые наемники",
+      "Neue WB-Mitarbeiter",
+      "WB Novas Contratações",
+      "WB Nuovi Assunti",
+      "WB 신규 고용",
+      "WB新聘人員",
+      "WB新人"
+    ]
+  },
+  {
+    "TagId": 14659,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Dragonscale Camp",
+      "Campamento Dragontina",
+      "Acampamento Escama de Dragão",
+      "Dragonscale Camp",
+      "Campamento Dragontina",
+      "Camp du Dracaret",
+      "Лагерь Драконьей экспедиции",
+      "Drachenschuppenlager",
+      "Acampamento Escama de Dragão",
+      "Campo delle Scaglie di Drago",
+      "용비늘 야영지",
+      "龍鱗營地",
+      "龙鳞营地"
+    ]
+  },
+  {
+    "TagId": 14660,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Viridian Throne",
+      "Trono Veridiano",
+      "Trono Viridiano",
+      "Viridian Throne",
+      "Trono Veridiano",
+      "Trône Viridien",
+      "Зеленый трон",
+      "Viridianthron",
+      "Trono Viridiano",
+      "Trono Viridiano",
+      "녹빛 왕좌",
+      "翠綠王座",
+      "翠绿王座"
+    ]
+  },
+  {
+    "TagId": 14663,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Aberrus, the Shadowed Crucible",
+      "Aberrus, el Crisol Penumbroso",
+      "Aberrus, o Crisol Sombrio",
+      "Aberrus, the Shadowed Crucible",
+      "Aberrus, el Crisol Ensombrecido",
+      "Aberrus, le creuset de l’Ombre",
+      "Аберрий, Затененное Горнило",
+      "Aberrus, Schmelztiegel der Schatten",
+      "Aberrus, o Crisol Sombrio",
+      "Aberrus, il Crogiolo d'Ombra",
+      "어둠의 도가니 아베루스",
+      "『朧影實驗場』亞貝魯斯",
+      "亚贝鲁斯，焰影熔炉"
+    ]
+  },
+  {
+    "TagId": 14664,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Buried Vault",
+      "Bóveda Enterrada",
+      "Câmara Enterrada",
+      "Buried Vault",
+      "Cámara Enterrada",
+      "Caveau Enfoui",
+      "Погребенное хранилище",
+      "Begrabenes Gewölbe",
+      "Câmara Enterrada",
+      "Cripta Sepolta",
+      "매장된 금고",
+      "埋藏的密庫",
+      "被埋葬的宝库"
+    ]
+  },
+  {
+    "TagId": 14667,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Throughway",
+      "El Corredor",
+      "Via Expressa",
+      "The Throughway",
+      "El Pasaje",
+      "Le Passage",
+      "Проход",
+      "Der Durchgang",
+      "Via Expressa",
+      "Arteria",
+      "대통행로",
+      "連通道",
+      "直达通路"
+    ]
+  },
+  {
+    "TagId": 14668,
+    "TagType": 24,
+    "Names": [
+      null,
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "ZZ_AlexandraDD",
+      "亚利珊德拉"
+    ]
+  },
+  {
+    "TagId": 14669,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Crystal Fields",
+      "Los Campos de Cristal",
+      "Campos de Cristal",
+      "The Crystal Fields",
+      "Campos de Cristal",
+      "Champs Cristallins",
+      "Кристальные поля",
+      "Die Kristallfelder",
+      "Campos de Cristal",
+      "Campi Cristallini",
+      "수정 지대",
+      "水晶原野",
+      "水晶原野"
     ]
   },
   {
@@ -4237,6 +4677,86 @@
       "잊힌 동굴",
       "失落洞窟",
       "失落岩洞"
+    ]
+  },
+  {
+    "TagId": 14682,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Brimstone Garrison",
+      "Fortaleza Azufre",
+      "Guarnição Sulfurosa",
+      "Brimstone Garrison",
+      "Guarnición Azufre",
+      "Garnison de Soufre",
+      "Серный гарнизон",
+      "Schwefelgarnison",
+      "Guarnição Sulfurosa",
+      "Guarnigione Sulfurea",
+      "유황석 주둔지",
+      "磺石要塞",
+      "硫磺要塞"
+    ]
+  },
+  {
+    "TagId": 14683,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Shimmering Towers",
+      "Torres Resplandecientes",
+      "Torres Cintilantes",
+      "Shimmering Towers",
+      "Torres Fulgurantes",
+      "Tours chatoyantes",
+      "Мерцающие башни",
+      "Schimmernde Türme",
+      "Torres Cintilantes",
+      "Torri Scintillanti",
+      "일렁이는 탑",
+      "幻光高塔",
+      "闪光高塔"
+    ]
+  },
+  {
+    "TagId": 14684,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hermit's Hovel",
+      "Refugio del Ermitaño",
+      "Casebre do Ermitão",
+      "Hermit's Hovel",
+      "Choza del Ermitaño",
+      "Taudis de l’Ermite",
+      "Хижина отшельника",
+      "Unterschlupf des Einsiedlers",
+      "Casebre do Ermitão",
+      "Tugurio dell'Eremita",
+      "은자의 거처",
+      "隱士小屋",
+      "隐士的小屋"
+    ]
+  },
+  {
+    "TagId": 14685,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Fanged Pasture",
+      "Pradera Dentada",
+      "Pasto da Presa",
+      "Fanged Pasture",
+      "Pastos Dentados",
+      "Prairie des Crocs",
+      "Пастбища Клыков",
+      "Beißende Weide",
+      "Pasto da Presa",
+      "Pascolo Zannuto",
+      "송곳니 목초지",
+      "尖牙牧場",
+      "长牙牧场"
     ]
   },
   {
@@ -4320,6 +4840,26 @@
     ]
   },
   {
+    "TagId": 14690,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Cascades Canyon",
+      "Cañón de Cascadas",
+      "Cânion das Cascatas",
+      "Cascades Canyon",
+      "Cañón de las Cascadas",
+      "Canyon des Cascades",
+      "Каньон Каскадов",
+      "Kaskadenschlucht",
+      "Cânion das Cascatas",
+      "Canyon delle Cascate",
+      "폭포수 협곡",
+      "流瀑峽谷",
+      "飞瀑峡谷"
+    ]
+  },
+  {
     "TagId": 14691,
     "TagType": 24,
     "Names": [
@@ -4357,6 +4897,86 @@
       "지스케라 금고",
       "澤斯克拉密庫",
       "兹斯克拉宝库"
+    ]
+  },
+  {
+    "TagId": 14693,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Obsidian Spire Outpost",
+      "Avanzada de la Torre Obsidiana",
+      "Posto Avançado do Pináculo Obsidiano",
+      "Obsidian Spire Outpost",
+      "Avanzada de la Aguja Obsidiana",
+      "Avant-poste de la Flèche d’obsidienne",
+      "Застава Обсидианового шпиля",
+      "Obsidianspitzenaußenposten",
+      "Posto Avançado do Pináculo Obsidiano",
+      "Avamposto della Guglia d'Ossidiana",
+      "흑요석 첨탑 전초기지",
+      "黑曜尖塔哨站",
+      "黑曜尖塔岗哨"
+    ]
+  },
+  {
+    "TagId": 14694,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Iridikron's Gambit",
+      "Estratagema de Iridikron",
+      "Gambito de Iridikron",
+      "Iridikron's Gambit",
+      "Gambito de Iridikron",
+      "Stratagème d’Iridikron",
+      "Гамбит Иридикрона",
+      "Iridikrons Schachzug",
+      "Gambito de Iridikron",
+      "Azzardo di Iridikron",
+      "이리디크론의 계략",
+      "伊瑞迪柯隆的險招",
+      "伊律迪孔的宏图"
+    ]
+  },
+  {
+    "TagId": 14695,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Iridikron's Gambit",
+      "Estratagema de Iridikron",
+      "Gambito de Iridikron",
+      "Iridikron's Gambit",
+      "Gambito de Iridikron",
+      "Stratagème d’Iridikron",
+      "Гамбит Иридикрона",
+      "Iridikrons Schachzug",
+      "Gambito de Iridikron",
+      "Azzardo di Iridikron",
+      "이리디크론의 계략",
+      "伊瑞迪柯隆的險招",
+      "伊律迪孔的宏图"
+    ]
+  },
+  {
+    "TagId": 14696,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Glimmerogg",
+      "Lumbrerrogg",
+      "Lumerogg",
+      "Glimmerogg",
+      "Destellorogg",
+      "Phosphorogg",
+      "Мерцающий Огг",
+      "Glimmerogg",
+      "Lumerogg",
+      "Scintillogg",
+      "글리머로그",
+      "葛利姆羅格",
+      "格里梅罗格"
     ]
   },
   {
@@ -4500,6 +5120,46 @@
     ]
   },
   {
+    "TagId": 14704,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Molten Overflow",
+      "Derrame de Arrabio",
+      "Transbordamento Derretido",
+      "Molten Overflow",
+      "Desbordamiento Fundido",
+      "Coulée en fusion",
+      "Раскаленный Разлив",
+      "Geschmolzener Überlauf",
+      "Transbordamento Derretido",
+      "Inondazione Fusa",
+      "용암 분출구",
+      "熔火溢流",
+      "熔火溢流"
+    ]
+  },
+  {
+    "TagId": 14705,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Aberrus, the Shadowed Crucible",
+      "Aberrus, el Crisol Penumbroso",
+      "Aberrus, o Crisol Sombrio",
+      "Aberrus, the Shadowed Crucible",
+      "Aberrus, el Crisol Ensombrecido",
+      "Aberrus, le creuset de l’Ombre",
+      "Аберрий, Затененное Горнило",
+      "Aberrus, Schmelztiegel der Schatten",
+      "Aberrus, o Crisol Sombrio",
+      "Aberrus, il Crogiolo d'Ombra",
+      "어둠의 도가니 아베루스",
+      "『朧影實驗場』亞貝魯斯",
+      "亚贝鲁斯，焰影熔炉"
+    ]
+  },
+  {
     "TagId": 14707,
     "TagType": 24,
     "Names": [
@@ -4537,6 +5197,166 @@
       "Amy Test Town",
       "Amy Test Town",
       "Amy Test Town"
+    ]
+  },
+  {
+    "TagId": 14709,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area",
+      "Shane Test Area"
+    ]
+  },
+  {
+    "TagId": 14710,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Gaze of Neltharion",
+      "Mirada de Neltharion",
+      "Olho de Neltharion",
+      "Gaze of Neltharion",
+      "Mirada de Neltharion",
+      "Œil de Neltharion",
+      "Взор Нелтариона",
+      "Blick von Neltharion",
+      "Olho de Neltharion",
+      "Sguardo di Neltharion",
+      "넬타리온의 시선",
+      "奈薩里奧之視",
+      "奈萨里奥之视"
+    ]
+  },
+  {
+    "TagId": 14711,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Throughway",
+      "El Corredor",
+      "Via Expressa",
+      "The Throughway",
+      "Pasaje",
+      "Le Passage",
+      "Проход",
+      "Der Durchgang",
+      "Via Expressa",
+      "Arteria",
+      "대통행로",
+      "連通道",
+      "直达通路"
+    ]
+  },
+  {
+    "TagId": 14712,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Igira's Watch",
+      "Alto de Igira",
+      "Vigília de Igira",
+      "Igira's Watch",
+      "Atalaya de Igira",
+      "Guet d’Igira",
+      "Дозор Игиры",
+      "Igiras Wacht",
+      "Vigília de Igira",
+      "Presidio di Igira",
+      "이기라의 감시터",
+      "伊吉拉崗哨",
+      "艾姬拉瞭望台"
+    ]
+  },
+  {
+    "TagId": 14713,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Glitterspore Lake",
+      "Lago Brillaesporas",
+      "Lago Lumesporo",
+      "Glitterspore Lake",
+      "Lago Brilloespora",
+      "Lac Brillespore",
+      "Озеро светящихся спор",
+      "Glitzersporensee",
+      "Lago Lumesporo",
+      "Lago Brillaspora",
+      "반짝포자 호수",
+      "閃孢湖",
+      "烁孢湖"
+    ]
+  },
+  {
+    "TagId": 14714,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Cascades Column",
+      "Columna de Cascadas",
+      "Coluna de Cascatas",
+      "Cascades Column",
+      "Columna de las Cascadas",
+      "Colonne des Cascades",
+      "Колонна каскадов",
+      "Kaskadensäule",
+      "Coluna de Cascatas",
+      "Colonna delle Cascate",
+      "폭포수 기둥",
+      "流瀑之柱",
+      "飞瀑之柱"
+    ]
+  },
+  {
+    "TagId": 14715,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Elders' Gift",
+      "Don de los Ancestros",
+      "Dádiva dos Anciãos",
+      "Elders' Gift",
+      "Don de los Ancianos",
+      "Don des Anciens",
+      "Дар старейшин",
+      "Geschenk der Ältesten",
+      "Dádiva dos Anciãos",
+      "Dono degli Anziani",
+      "장로의 선물",
+      "長老之賜",
+      "长老之赐"
+    ]
+  },
+  {
+    "TagId": 14716,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Burning Oasis",
+      "Oasis Ardiente",
+      "Oásis Ardente",
+      "Burning Oasis",
+      "Oasis Ardiente",
+      "Oasis Ardente",
+      "Горящий оазис",
+      "Brennende Oase",
+      "Oásis Ardente",
+      "Oasi Bruciante",
+      "불타는 오아시스",
+      "燃燒綠洲",
+      "燃烧绿洲"
     ]
   },
   {
@@ -4597,6 +5417,346 @@
       "부서진 해안선",
       "破碎海濱",
       "碎裂海岸"
+    ]
+  },
+  {
+    "TagId": 14721,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave A",
+      "Cueva misteriosa A",
+      "Caverna Misteriosa A",
+      "Mysterious Cave A",
+      "Cueva Misteriosa A",
+      "Grotte Mystérieuse A",
+      "Таинственная пещера A",
+      "Mysteriöse Höhle A",
+      "Caverna Misteriosa A",
+      "Caverna Misteriosa A",
+      "정체불명의 동굴 A",
+      "神秘洞穴A",
+      "神秘洞穴A"
+    ]
+  },
+  {
+    "TagId": 14725,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Bone Gallery",
+      "La Galería de Huesos",
+      "Galeria de Ossos",
+      "The Bone Gallery",
+      "Galería de los Huesos",
+      "Galerie des Ossements",
+      "Галерея костей",
+      "Die Knochengalerie",
+      "Galeria de Ossos",
+      "Galleria d'Ossa",
+      "해골 회랑",
+      "骸骨展示廳",
+      "白骨走廊"
+    ]
+  },
+  {
+    "TagId": 14727,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Azure Vault",
+      "La Bóveda Azur",
+      "Câmara Lazúli",
+      "The Azure Vault",
+      "Cámara Azur",
+      "Caveau d’Azur",
+      "Лазурное хранилище",
+      "Das Azurblaue Gewölbe",
+      "Câmara Lazúli",
+      "Cripta Azzurra",
+      "하늘빛 보관소",
+      "蒼藍密庫",
+      "碧蓝魔馆"
+    ]
+  },
+  {
+    "TagId": 14731,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave B",
+      "Cueva Misteriosa B",
+      "Caverna Misteriosa B",
+      "Mysterious Cave B",
+      "Cueva Misteriosa B",
+      "Grotte mystérieuse B",
+      "Таинственная пещера B",
+      "Mysteriöse Höhle B",
+      "Caverna Misteriosa B",
+      "Caverna Misteriosa B",
+      "정체불명의 동굴 B",
+      "神秘洞穴B",
+      "神秘洞穴B"
+    ]
+  },
+  {
+    "TagId": 14732,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave C",
+      "Cueva Misteriosa C",
+      "Caverna Misteriosa C",
+      "Mysterious Cave C",
+      "Cueva Misteriosa C",
+      "Grotte mystérieuse C",
+      "Таинственная пещера C",
+      "Mysteriöse Höhle C",
+      "Caverna Misteriosa C",
+      "Caverna Misteriosa C",
+      "정체불명의 동굴 C",
+      "神秘洞穴C",
+      "神秘洞穴C"
+    ]
+  },
+  {
+    "TagId": 14733,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave D",
+      "Cueva Misteriosa D",
+      "Caverna Misteriosa D",
+      "Mysterious Cave D",
+      "Cueva Misteriosa D",
+      "Grotte mystérieuse D",
+      "Таинственная пещера D",
+      "Mysteriöse Höhle D",
+      "Caverna Misteriosa D",
+      "Caverna Misteriosa D",
+      "정체불명의 동굴 D",
+      "神秘洞穴D",
+      "神秘洞穴D"
+    ]
+  },
+  {
+    "TagId": 14734,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave E",
+      "Cueva Misteriosa E",
+      "Caverna Misteriosa E",
+      "Mysterious Cave E",
+      "Cueva Misteriosa E",
+      "Grotte mystérieuse E",
+      "Таинственная пещера E",
+      "Mysteriöse Höhle E",
+      "Caverna Misteriosa E",
+      "Caverna Misteriosa E",
+      "정체불명의 동굴 E",
+      "神秘洞穴E",
+      "神秘洞穴E"
+    ]
+  },
+  {
+    "TagId": 14735,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave F",
+      "Cueva Misteriosa F",
+      "Caverna Misteriosa F",
+      "Mysterious Cave F",
+      "Cueva Misteriosa F",
+      "Grotte mystérieuse F",
+      "Таинственная пещера F",
+      "Mysteriöse Höhle F",
+      "Caverna Misteriosa F",
+      "Caverna Misteriosa F",
+      "정체불명의 동굴 F",
+      "神秘洞穴F",
+      "神秘洞穴F"
+    ]
+  },
+  {
+    "TagId": 14736,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave G",
+      "Cueva Misteriosa G",
+      "Caverna Misteriosa G",
+      "Mysterious Cave G",
+      "Cueva Misteriosa G",
+      "Grotte mystérieuse G",
+      "Таинственная пещера G",
+      "Mysteriöse Höhle G",
+      "Caverna Misteriosa G",
+      "Caverna Misteriosa G",
+      "정체불명의 동굴 G",
+      "神秘洞穴G",
+      "神秘洞穴G"
+    ]
+  },
+  {
+    "TagId": 14737,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave H",
+      "Cueva Misteriosa H",
+      "Caverna Misteriosa H",
+      "Mysterious Cave H",
+      "Cueva Misteriosa H",
+      "Grotte mystérieuse H",
+      "Таинственная пещера H",
+      "Mysteriöse Höhle H",
+      "Caverna Misteriosa H",
+      "Caverna Misteriosa H",
+      "정체불명의 동굴 H",
+      "神秘洞穴H",
+      "神秘洞穴H"
+    ]
+  },
+  {
+    "TagId": 14738,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave I",
+      "Cueva Misteriosa I",
+      "Caverna Misteriosa I",
+      "Mysterious Cave I",
+      "Cueva Misteriosa I",
+      "Grotte mystérieuse I",
+      "Таинственная пещера I",
+      "Mysteriöse Höhle I",
+      "Caverna Misteriosa I",
+      "Caverna Misteriosa I",
+      "정체불명의 동굴 I",
+      "神秘洞穴I",
+      "神秘洞穴I"
+    ]
+  },
+  {
+    "TagId": 14739,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mysterious Cave J",
+      "Cueva Misteriosa J",
+      "Caverna Misteriosa J",
+      "Mysterious Cave J",
+      "Cueva Misteriosa J",
+      "Grotte mystérieuse J",
+      "Таинственная пещера J",
+      "Mysteriöse Höhle J",
+      "Caverna Misteriosa J",
+      "Caverna Misteriosa J",
+      "정체불명의 동굴 J",
+      "神秘洞穴J",
+      "神秘洞穴J"
+    ]
+  },
+  {
+    "TagId": 14740,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Warder's Teeth",
+      "Dientes de Depositario",
+      "Dentes do Guardião",
+      "Warder's Teeth",
+      "Colmillos del Guardián",
+      "Dents du Gardien",
+      "Клыки Хранителя",
+      "Zähne der Wacht",
+      "Dentes do Guardião",
+      "Denti del Custode",
+      "수호자의 이빨",
+      "守護者之牙",
+      "守护者之牙"
+    ]
+  },
+  {
+    "TagId": 14743,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Old Loamm Road",
+      "Vieja Carretera de Loamm",
+      "Estrada Antiga de Argília",
+      "Old Loamm Road",
+      "Camino Viejo a Loamm",
+      "Ancienne route de Terreau",
+      "Старый лоаммский тракт",
+      "Alte Loammstraße",
+      "Estrada Antiga de Argília",
+      "Strada Vecchia di Loamm",
+      "옛 로암 길",
+      "洛姆舊路",
+      "峈姆旧路"
+    ]
+  },
+  {
+    "TagId": 14744,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Old Loamm Road",
+      "Vieja Carretera de Loamm",
+      "Estrada Antiga de Argília",
+      "Old Loamm Road",
+      "Camino Viejo a Loamm",
+      "Ancienne route de Terreau",
+      "Старый лоаммский тракт",
+      "Alte Loammstraße",
+      "Estrada Antiga de Argília",
+      "Strada Vecchia di Loamm",
+      "옛 로암 길",
+      "洛姆舊路",
+      "峈姆旧路"
+    ]
+  },
+  {
+    "TagId": 14745,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Lookout Breach",
+      "Brecha de Vigilancia",
+      "Fenda de Observação",
+      "Lookout Breach",
+      "Brecha del Oteador",
+      "Brèche du Guet",
+      "Пролом",
+      "Ausguckbresche",
+      "Fenda de Observação",
+      "Breccia della Vedetta",
+      "전망대 틈새",
+      "守望裂口",
+      "哨兵裂口"
+    ]
+  },
+  {
+    "TagId": 14746,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Lookout Breach",
+      "Brecha de Vigilancia",
+      "Fenda de Observação",
+      "Lookout Breach",
+      "Brecha del Oteador",
+      "Brèche du Guet",
+      "Пролом",
+      "Ausguckbresche",
+      "Fenda de Observação",
+      "Breccia della Vedetta",
+      "전망대 틈새",
+      "守望裂口",
+      "哨兵裂口"
     ]
   }
 ]

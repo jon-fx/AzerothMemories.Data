@@ -6250,7 +6250,7 @@
       "Acrescentar Afixo de Pedra-chave: Trovejante",
       "Aggiunta Modificatore Chiave del Potere: Tuono",
       "쐐기돌 속성 추가: 천둥",
-      "新增鑰石詞綴：雷霆",
+      "加上鑰石強化：雷霆",
       "添加钥石词缀：雷霆"
     ],
     "Media": "trade_engineering.jpg"
@@ -6640,13 +6640,13 @@
       null,
       "Vyranoth Imprisoned",
       "Vyranoth encarcelado",
-      "Vyranoth Aprisionado",
+      "Vyranoth Aprisionada",
       "Vyranoth Imprisoned",
       "Vyranoth encarcelado",
       "Vyranoth emprisonné",
-      "Пленение Виранота",
+      "Пленение Виранот",
       "Vyranoth gefangen",
-      "Vyranoth Aprisionado",
+      "Vyranoth Aprisionada",
       "Vyranoth Imprigionato",
       "비라노스 감금됨",
       "維蘭諾斯被囚禁",
@@ -11363,7 +11363,7 @@
       "Shatter Illustrious Insight (DNT)",
       "Shatter Illustrious Insight (DNT)",
       "Shatter Illustrious Insight (DNT)",
-      null,
+      "Shatter Illustrious Insight (DNT)",
       "Shatter Illustrious Insight (DNT)"
     ],
     "Media": "spell_shadow_sealofkings.jpg"
@@ -11384,7 +11384,7 @@
       "Combine Lesser Illustrious Insight (DNT)",
       "Combine Lesser Illustrious Insight (DNT)",
       "Combine Lesser Illustrious Insight (DNT)",
-      null,
+      "Combine Lesser Illustrious Insight (DNT)",
       "Combine Lesser Illustrious Insight (DNT)"
     ],
     "Media": "spell_shadow_sealofkings.jpg"
@@ -14178,6 +14178,47 @@
       "冰霜祝福"
     ],
     "Media": "ability_deathknight_pillaroffrost.jpg"
+  },
+  {
+    "TagId": 395822,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu",
+      "[DNT] Show Menu"
+    ]
+  },
+  {
+    "TagId": 395823,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)",
+      "[DNT] Contribution Made (10)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 395824,

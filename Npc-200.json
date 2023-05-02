@@ -80,6 +80,146 @@
     ]
   },
   {
+    "TagId": 200037,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Seismic Survey Site",
+      "Sitio de estudio sísmico",
+      "Campo de Pesquisa Sísmica",
+      "Seismic Survey Site",
+      "Excavación sísmica",
+      "Site d'étude sismique",
+      "Площадка для сейсмических исследований",
+      "Seismografische Untersuchungsstätte",
+      "Campo de Pesquisa Sísmica",
+      "Sito di Rilevamento Sismico",
+      "지진 측량 지점",
+      "地震勘察站",
+      "地震调查点"
+    ]
+  },
+  {
+    "TagId": 200046,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Ebyssian",
+      "Ebisio",
+      "Ebyssian",
+      "Ebyssian",
+      "Ebyssian",
+      "Ebyssian",
+      "Абиссиан",
+      "Ebyssian",
+      "Ebyssian",
+      "Ebissian",
+      "에비시안",
+      "厄比西昂",
+      "艾比西安"
+    ]
+  },
+  {
+    "TagId": 200051,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Field Commander Ignax",
+      "Comandante de campo Ignax",
+      "Comandante de Campo Ignax",
+      "Field Commander Ignax",
+      "Comandante de campo Ignax",
+      "Commandant Ignax",
+      "Боевой командир Игнакс",
+      "Feldkommandant Ignax",
+      "Comandante de Campo Ignax",
+      "Primo Comandante Ignax",
+      "야전사령관 이그낙스",
+      "戰地指揮官伊格納斯",
+      "战地指挥官伊格纳克斯"
+    ]
+  },
+  {
+    "TagId": 200058,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Zaqali Berserker",
+      "Rabioso zaqali",
+      "Berserker Zaqali",
+      "Zaqali Berserker",
+      "Rabioso zaqali",
+      "Berserker zaqali",
+      "Закали-берсерк",
+      "Berserker der Zaqali",
+      "Berserker Zaqali",
+      "Berserker Zaqali",
+      "자칼리 광전사",
+      "薩克利狂戰士",
+      "扎卡利狂战士"
+    ]
+  },
+  {
+    "TagId": 200101,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Wrathion",
+      "Wrathion",
+      "Wrathion",
+      "Wrathion",
+      "Wrathion",
+      "Irion",
+      "Гневион",
+      "Furorion",
+      "Wrathion",
+      "Irathion",
+      "래시온",
+      "怒西昂",
+      "拉希奥"
+    ]
+  },
+  {
+    "TagId": 200111,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Magtembo",
+      "Magtembo",
+      "Magtembo",
+      "Magtembo",
+      "Magtembo",
+      "Magtembo",
+      "Магтембо",
+      "Magtembo",
+      "Magtembo",
+      "Magtembo",
+      "마그템보",
+      "瑪特伯",
+      "玛格滕波"
+    ]
+  },
+  {
+    "TagId": 200128,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Warchanter Ronvath",
+      "Ritobélico Ronvath",
+      "Trovadora Beligerante Rovanth",
+      "Warchanter Ronvath",
+      "Cantaguerras Ronvath",
+      "Chante-guerre Ronvath",
+      "Певица битвы Ронват",
+      "Kriegsruferin Ronvath",
+      "Trovadora Beligerante Rovanth",
+      "Cantaguerra Ronvath",
+      "전쟁구호자 론바스",
+      "戰嘯者榮瓦斯",
+      "战吼者罗恩瓦斯"
+    ]
+  },
+  {
     "TagId": 200157,
     "TagType": 25,
     "Names": [
@@ -117,6 +257,46 @@
       "흰발톱",
       "白爪",
       "白爪"
+    ]
+  },
+  {
+    "TagId": 200168,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Obsidian Soldier",
+      "Soldado obsidiana",
+      "Soldado Obsidiana",
+      "Obsidian Soldier",
+      "Soldado obsidiana",
+      "Soldate d'obsidienne",
+      "Обсидиановый солдат",
+      "Obsidiansoldatin",
+      "Soldado Obsidiana",
+      "Soldata d'Ossidiana",
+      "흑요석 병사",
+      "黑曜士兵",
+      "黑曜士兵"
+    ]
+  },
+  {
+    "TagId": 200173,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Drakonid Poacher",
+      "Cazadora furtiva dracónida",
+      "Caçadora Draconídea",
+      "Drakonid Poacher",
+      "Furtiva dracónida",
+      "Braconnière drakônide",
+      "Драконид-браконьер",
+      "Wilderin der Drakoniden",
+      "Caçadora Draconídea",
+      "Bracconiera Draconide",
+      "용기병 밀렵꾼",
+      "龍獸盜獵者",
+      "龙人偷猎者"
     ]
   },
   {
@@ -273,7 +453,7 @@
       "Зачарованный страж Колыбели",
       "Hortgebundener der Zauberverschworenen",
       "Devoto da Magia Preso ao Abrigo",
-      "Guardiano dell'Asilo Giuramagie",
+      "Giuramagie Vincolato all'Asilo",
       "주문서약 요람수호병",
       "育縛誓法者",
       "法誓育幼所保安"
@@ -377,6 +557,26 @@
       "정령의 토템",
       "靈魂圖騰",
       "灵魂图腾"
+    ]
+  },
+  {
+    "TagId": 200418,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Flaming Tornado",
+      "Tornado llameante",
+      "Tornado Flamejante",
+      "Flaming Tornado",
+      "Tornado llameante",
+      "Tornade enflammée",
+      "Пылающий смерч",
+      "Brennender Tornado",
+      "Tornado Flamejante",
+      "Tornado Fiammeggiante",
+      "타오르는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷风"
     ]
   },
   {
@@ -553,7 +753,7 @@
       "Зачарованный страж Колыбели",
       "Hortgebundener der Zauberverschworenen",
       "Devoto da Magia Presa ao Abrigo",
-      "Guardiano dell'Asilo Giuramagie",
+      "Giuramagie Vincolato all'Asilo",
       "주문서약 요람수호병",
       "育縛誓法者",
       "法誓育幼所保安"
@@ -1146,13 +1346,13 @@
       null,
       "Wildfire",
       "Fuego salvaje",
-      "Fogo Indômito",
+      "Queima",
       "Wildfire",
       "Fuego salvaje",
       "Flambée",
       "Дикий Огонь",
       "Lauffeuer",
-      "Fogo Indômito",
+      "Queima",
       "Fuocobrado",
       "야생불",
       "野火",
@@ -1186,13 +1386,13 @@
       null,
       "Wildfire",
       "Fuego salvaje",
-      "Fogo Indômito",
+      "Queima",
       "Wildfire",
       "Fuego salvaje",
       "Flambée",
       "Дикий Огонь",
       "Lauffeuer",
-      "Fogo Indômito",
+      "Queima",
       "Fuocobrado",
       "야생불",
       "野火",
@@ -1206,13 +1406,13 @@
       null,
       "Wildfire",
       "Fuego salvaje",
-      "Fogo Indômito",
+      "Queima",
       "Wildfire",
       "Fuego salvaje",
       "Flambée",
       "Дикий Огонь",
       "Lauffeuer",
-      "Fogo Indômito",
+      "Queima",
       "Fuocobrado",
       "야생불",
       "野火",
@@ -1486,13 +1686,13 @@
       null,
       "Wildfire",
       "Fuego salvaje",
-      "Fogo Indômito",
+      "Queima",
       "Wildfire",
       "Fuego salvaje",
       "Flambée",
       "Дикий Огонь",
       "Lauffeuer",
-      "Fogo Indômito",
+      "Queima",
       "Fuocobrado",
       "야생불",
       "野火",
@@ -1517,6 +1717,146 @@
       "흐름이",
       "奔流",
       "涡流"
+    ]
+  },
+  {
+    "TagId": 200829,
+    "TagType": 25,
+    "Names": [
+      null,
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny",
+      "[DNT] Alex Maldra Conversation Bunny"
+    ]
+  },
+  {
+    "TagId": 200832,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Fyrakk",
+      "Fyrakk",
+      "Fyrakk",
+      "Fyrakk",
+      "Fyrakk",
+      "Fyrakka",
+      "Фиракк",
+      "Fyrakk",
+      "Fyrakk",
+      "Fyrakk",
+      "피락",
+      "菲拉卡",
+      "菲莱克"
+    ]
+  },
+  {
+    "TagId": 200908,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Shadowcinder",
+      "Cenizasombra",
+      "Umbracinza",
+      "Shadowcinder",
+      "Cenizasombra",
+      "Ombraise",
+      "Темная искра",
+      "Schattenzunder",
+      "Umbracinza",
+      "Ombrocenere",
+      "암흑잿불",
+      "影燼",
+      "暗影烬渣"
+    ]
+  },
+  {
+    "TagId": 200909,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Obsidian Warden",
+      "Celador obsidiana",
+      "Guardião Obsidiano",
+      "Obsidian Warden",
+      "Celador Obsidiana",
+      "Gardien d'obsidienne",
+      "Обсидиановый хранитель",
+      "Obsidianwächter",
+      "Guardião Obsidiano",
+      "Custode d'Ossidiana",
+      "흑요석 감시관",
+      "黑曜守望者",
+      "黑曜督察者"
+    ]
+  },
+  {
+    "TagId": 200996,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Puddlehopper",
+      "Saltapozos",
+      "Saltapoças",
+      "Puddlehopper",
+      "Saltapozas",
+      "Sauteflaque",
+      "Лужепрыг",
+      "Pfützenhüpfer",
+      "Saltapoças",
+      "Saltapozze",
+      "웅덩이폴짝이",
+      "泥跳蛙",
+      "泥潭跳跃者"
+    ]
+  },
+  {
+    "TagId": 200997,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Rock Martin",
+      "Vencejo de piedra",
+      "Martim-da-rocha",
+      "Rock Martin",
+      "Alción de piedra",
+      "Martin foreur",
+      "Скалистая ласточка",
+      "Felsschwalbe",
+      "Martim-da-rocha",
+      "Rundinea delle Rocce",
+      "바위 제비",
+      "岩石燕",
+      "峭燕"
+    ]
+  },
+  {
+    "TagId": 200999,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Yellabon",
+      "Amaribon",
+      "Amarula",
+      "Yellabon",
+      "Amarillón",
+      "Yellabon",
+      "Желтобон",
+      "Gelbi",
+      "Amarula",
+      "Giallobon",
+      "노랑벌레",
+      "耶拉邦",
+      "耶拉本"
     ]
   }
 ]

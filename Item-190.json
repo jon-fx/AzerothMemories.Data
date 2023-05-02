@@ -1197,6 +1197,27 @@
     "Media": "inv_sword_1h_nature_d_02.jpg"
   },
   {
+    "TagId": 190095,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Vestment of the Honored Valarjar",
+      "Conjunto: Vestimentas del valarjar honorífico",
+      "Indumentária: Vestimenta dos Valarjares Honrados",
+      "Ensemble: Vestment of the Honored Valarjar",
+      "Indumentaria: Vestimentas del Valarjar honorable",
+      "Ensemble\u00A0: habits des honorables Valarjar",
+      "Комплект: облачение чтимого валарьяра",
+      "Ensemble: Gewänder der geehrten Valarjar",
+      "Indumentária: Vestimenta dos Valarjares Honrados",
+      "Set: Paramenti dei Valarjar Onorevoli",
+      "복장: 명예로운 발라리아르의 예복",
+      "套裝：榮耀的華爾拉亞法衣",
+      "套装：荣耀瓦拉加尔的法衣"
+    ],
+    "Media": "inv_helm_cloth_legionraid_d_01.jpg"
+  },
+  {
     "TagId": 190096,
     "TagType": 21,
     "Names": [
@@ -2540,6 +2561,27 @@
     "Media": "inv_cooking_80_meatyhaunch.jpg"
   },
   {
+    "TagId": 190175,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pippin",
+      "Pippin",
+      "Pippin",
+      "Pippin",
+      "Pippin",
+      "Pippin",
+      "Пиппин",
+      "Pippin",
+      "Pippin",
+      "Pippin",
+      "피핀",
+      "皮聘",
+      "皮平"
+    ],
+    "Media": "creatureportrait_robot_doberman.jpg"
+  },
+  {
     "TagId": 190176,
     "TagType": 21,
     "Names": [
@@ -2851,7 +2893,29 @@
       "마모된 암담해골 허리끈",
       "嚴重磨損的獰顱繫腰",
       "老旧的灰颅腰带"
-    ]
+    ],
+    "Media": "inv_misc_bone_taurenskull_01.jpg"
+  },
+  {
+    "TagId": 190200,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Feathered Drape of the Guardian",
+      "Mantón emplumado del guardián",
+      "Clâmide Emplumada do Guardião",
+      "Feathered Drape of the Guardian",
+      "Mantón de plumas del guardián",
+      "Drapé à plumes du gardien",
+      "Пернатый плащ Стража",
+      "Gefiedertes Tuch des Wächters",
+      "Clâmide Emplumada do Guardião",
+      "Drappo Piumato del Guardiano",
+      "수호자의 깃털 달린 외투",
+      "守護者羽織披氅",
+      "羽饰守护者斗篷"
+    ],
+    "Media": "inv_cape_karazhan_c_01.jpg"
   },
   {
     "TagId": 190201,
@@ -2915,6 +2979,48 @@
       "巡林者的木槌"
     ],
     "Media": "inv_misc_1h_lumbermallet_a_01.jpg"
+  },
+  {
+    "TagId": 190204,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Huntsman's Recurve Bow",
+      "Arco corvo de montero",
+      "Arco Recurvo do Guarda-caça",
+      "Huntsman's Recurve Bow",
+      "Arco corvo de cazador",
+      "Arc à double courbure de veneur",
+      "Рекурсивный лук ловчего",
+      "Doppelbogen des Jägers",
+      "Arco Recurvo do Guarda-caça",
+      "Arco Ricurvo del Predatore",
+      "사냥꾼의 곡궁",
+      "獵人的反曲弓",
+      "猎手的弯弓"
+    ],
+    "Media": "inv_bow_1h_newplayer_a_01.jpg"
+  },
+  {
+    "TagId": 190205,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sharpened Shank",
+      "Puñal afilado",
+      "Estoque Afiado",
+      "Sharpened Shank",
+      "Pincho afilado",
+      "Surin affûté",
+      "Острая заточка",
+      "Geschärfter Entbeiner",
+      "Estoque Afiado",
+      "Daga Affilata",
+      "날카로운 단도",
+      "鋒利小刀",
+      "磨利的小刀"
+    ],
+    "Media": "inv_knife_1h_newplayer_a_02.jpg"
   },
   {
     "TagId": 190206,
@@ -3085,6 +3191,90 @@
     "Media": "inv_chest_plate_legionhonor_d_01.jpg"
   },
   {
+    "TagId": 190214,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tiercel's Wing",
+      "Ala de terzuelo",
+      "Asa de Tiercel",
+      "Tiercel's Wing",
+      "Ala de Tiercel",
+      "Aile d’autour",
+      "Крыло Тиркель",
+      "Tiercels Schwinge",
+      "Asa de Tiercel",
+      "Ala di Tiercel",
+      "수매의 날개",
+      "雄鷹之翼",
+      "雄鹰之翼"
+    ],
+    "Media": "inv_sword_1h_arakkoa_b_01.jpg"
+  },
+  {
+    "TagId": 190215,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lost Crown of the Arcane",
+      "Corona perdida de lo arcano",
+      "Coroa Perdida do Arcano",
+      "Lost Crown of the Arcane",
+      "Corona perdida de lo Arcano",
+      "Couronne perdue des arcanes",
+      "Потерянная корона чародея",
+      "Verlorene Krone des Arkanen",
+      "Coroa Perdida do Arcano",
+      "Corona Perduta dell'Arcano",
+      "잃어버린 비전의 왕관",
+      "失落秘法之冠",
+      "奥术失落之冠"
+    ],
+    "Media": "inv_helm_circlet_firelands_d_01.jpg"
+  },
+  {
+    "TagId": 190216,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Feathered Cowl of the Guardian",
+      "Capucha emplumada del guardián",
+      "Capucho Emplumado do Guardião",
+      "Feathered Cowl of the Guardian",
+      "Capucha de plumas del guardián",
+      "Capuche à plumes du gardien",
+      "Пернатый клобук Стража",
+      "Gefiederte Gugel des Wächters",
+      "Capucho Emplumado do Guardião",
+      "Copricapo Piumato del Guardiano",
+      "수호자의 깃털 달린 수도두건",
+      "守護者羽織風帽",
+      "羽饰守护者兜帽"
+    ],
+    "Media": "inv_helm_armor_karazhan_c_01.jpg"
+  },
+  {
+    "TagId": 190217,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fang of the Mountain",
+      "Colmillo de la montaña",
+      "Presa da Montanha",
+      "Fang of the Mountain",
+      "Colmillo de la montaña",
+      "Croc de la montagne",
+      "Клык горы",
+      "Reißzahn der Berge",
+      "Presa da Montanha",
+      "Zanna della Montagna",
+      "산의 송곳니",
+      "高山之牙",
+      "高山之牙"
+    ],
+    "Media": "inv_sword_1h_draenorraid_d_03purple.jpg"
+  },
+  {
     "TagId": 190218,
     "TagType": 21,
     "Names": [
@@ -3125,6 +3315,27 @@
       "剧毒之槌"
     ],
     "Media": "inv_mace_1h_pvpdraenors1_d_02.jpg"
+  },
+  {
+    "TagId": 190220,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Standard of the Guardian",
+      "Confalón del guardián",
+      "Estandarte do Guardião",
+      "Standard of the Guardian",
+      "Confalón del guardián",
+      "Étendard du gardien",
+      "Штандарт Стража",
+      "Standarte des Wächters",
+      "Estandarte do Guardião",
+      "Stendardo del Guardiano",
+      "수호자의 지팡이",
+      "守護者戰旗",
+      "守护者的典范"
+    ],
+    "Media": "inv_staff_2h_karazhan_c_01.jpg"
   },
   {
     "TagId": 190221,
@@ -5563,6 +5774,27 @@
     "Media": "inv_helm_mail_legionhonor_d_01.jpg"
   },
   {
+    "TagId": 190441,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Black Iron Blunderbuss",
+      "Trabuco Hierro Umbrío",
+      "Bacamarte de Ferronero",
+      "Black Iron Blunderbuss",
+      "Trabuco Hierro Umbrío",
+      "Tromblon fer-noir",
+      "Мушкетон из темного железа",
+      "Schwarzeisendonnerbüchse",
+      "Bacamarte de Ferronero",
+      "Schioppo di Ferro Nero",
+      "검은강철 나팔총",
+      "黑鐵短槍",
+      "黑铁短枪"
+    ],
+    "Media": "inv_firearm_2h_rifle_draenordungeon_c_01.jpg"
+  },
+  {
     "TagId": 190442,
     "TagType": 21,
     "Names": [
@@ -5756,19 +5988,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Primal Chaos",
-      "Caos primigenio",
-      "Caos Primevo",
-      "Primal Chaos",
-      "Caos primigenio",
-      "Chaos primordial",
-      "Изначальный хаос",
-      "Urzeitliches Chaos",
-      "Caos Primevo",
-      "Caos Primordiale",
-      "원시 혼돈",
-      "洪荒混沌",
-      "原始混沌"
+      "Depleted Primal Chaos",
+      "Caos primigenio agotado",
+      "Caos Primevo Exaurido",
+      "Depleted Primal Chaos",
+      "Caos primigenio agotado",
+      "Chaos primordial épuisé",
+      "Истощенный изначальный хаос",
+      "Ausgelaugtes urzeitliches Chaos",
+      "Caos Primevo Exaurido",
+      "Caos Primordiale Esaurito",
+      "소진된 원시 혼돈",
+      "耗盡的洪荒混沌",
+      "枯竭的原始混沌"
     ],
     "Media": "inv_10_gearcraft_primalchaos_color1.jpg"
   },
@@ -8543,6 +8775,27 @@
       "灭世者牢笼钥匙"
     ],
     "Media": "inv_wand_1h_dragonpvp_d_01.jpg"
+  },
+  {
+    "TagId": 190613,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Savage Green Battle Turtle",
+      "Tortuga de batalla verde salvaje",
+      "Tartaruga Casco Verde Selvagem",
+      "Savage Green Battle Turtle",
+      "Tortuga de batalla verde salvaje",
+      "Tortue verte de bataille sauvage",
+      "Свирепая зеленая боевая черепаха",
+      "Wilde grüne Kampfschildkröte",
+      "Tartaruga Casco Verde Selvagem",
+      "Tartaruga da Battaglia Verde Selvaggia",
+      "포악한 녹색 전투거북",
+      "野蠻綠色戰龜",
+      "野绿战龟"
+    ],
+    "Media": "inv_turtlemount2_01.jpg"
   },
   {
     "TagId": 190614,
@@ -11737,6 +11990,27 @@
     "Media": "inv_belt_mail_legionhonor_d_01.jpg"
   },
   {
+    "TagId": 190808,
+    "TagType": 21,
+    "Names": [
+      null,
+      "High Priestess's Ceremonial Drape",
+      "Mantón ceremonial de la suma sacerdotisa",
+      "Clâmide Cerimonial da Alta-sacerdotisa",
+      "High Priestess's Ceremonial Drape",
+      "Mantón ceremonial de suma sacerdotisa",
+      "Drapé de cérémonie de grande prêtresse",
+      "Церемониальная пелерина верховной жрицы",
+      "Zeremonielles Tuch der Hohepriesterin",
+      "Clâmide Cerimonial da Alta-sacerdotisa",
+      "Drappo Cerimoniale della Gran Sacerdotessa",
+      "대여사제의 의식용 망토",
+      "高階祭司的儀祭披氅",
+      "高阶牧师的祭礼斗篷"
+    ],
+    "Media": "inv_cape_430dungeon_c_04.jpg"
+  },
+  {
     "TagId": 190809,
     "TagType": 21,
     "Names": [
@@ -12701,6 +12975,27 @@
       "红核护盔"
     ],
     "Media": "inv_helm_cloth_petsafari_a_01.jpg"
+  },
+  {
+    "TagId": 190899,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Bicorne",
+      "Bicornio carmesí",
+      "Bicorne Carmesim",
+      "Crimson Bicorne",
+      "Bicornio carmesí",
+      "Bicorne écarlate",
+      "Багровая двууголка",
+      "Blutroter Zweispitz",
+      "Bicorne Carmesim",
+      "Bicorno Cremisi",
+      "진홍색 이각모",
+      "赤紅雙角帽",
+      "赤红弯帽"
+    ],
+    "Media": "inv_helm_cloth_pirate_b_01_red.jpg"
   },
   {
     "TagId": 190904,

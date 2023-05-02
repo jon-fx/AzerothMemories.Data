@@ -9315,7 +9315,7 @@
       "Corredor das Ilhas %s",
       "%s Corridore delle Isole",
       "섬의 경주자 %s",
-      "巨龍群島競速騎師%s",
+      "巨龍群島競速騎師 %s",
       "群岛竞速者 %s"
     ]
   },
@@ -9555,8 +9555,8 @@
       "Corredor Invertido %s",
       "Corridore Inverso %s",
       "역방향 경주자 %s",
-      "逆向競速騎師%s",
-      "反向赛手 %s"
+      "逆向競速騎師 %s",
+      "反向竞速者 %s"
     ]
   },
   {
@@ -9657,6 +9657,246 @@
       "금지된 자 %s",
       "『禁忌之人』%s",
       "禁忌的%s"
+    ]
+  },
+  {
+    "TagId": 765,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Reconciler",
+      "%s, el Conciliador",
+      "%s, o Reconciliador",
+      "%s the Reconciler",
+      "%s el Reconciliador",
+      "%s le diplomate",
+      "Примиритель %s",
+      "%s, der Schlichter",
+      "%s, o Reconciliador",
+      "%s, il Riconciliatore",
+      "중재자 %s",
+      "『調解者』%s",
+      "调解人 %s"
+    ]
+  },
+  {
+    "TagId": 766,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Obsidian Gladiator %s",
+      "Gladiador obsidiana %s",
+      "Gladiador Obsidiano %s",
+      "Obsidian Gladiator %s",
+      "Gladiador obsidiana %s",
+      "Gladiateur d’obsidienne %s",
+      "Обсидиановый гладиатор %s",
+      "Obsidiangladiator %s",
+      "Gladiador Obsidiano %s",
+      "Gladiatore d'Ossidiana %s",
+      "흑요석 검투사 %s",
+      "黑曜鬥士 %s",
+      "黑曜角斗士 %s"
+    ]
+  },
+  {
+    "TagId": 767,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Obsidian Legend %s",
+      "Leyenda obsidiana %s",
+      "Lenda Obsidiana %s",
+      "Obsidian Legend %s",
+      "Leyenda obsidiana %s",
+      "Légende d’obsidienne %s",
+      "Обсидиановая легенда %s",
+      "Obsidianlegende %s",
+      "Lenda Obsidiana %s",
+      "Leggenda d'Ossidiana %s",
+      "흑요석 전설 %s",
+      "『黑曜傳說』%s",
+      "黑曜传说 %s"
+    ]
+  },
+  {
+    "TagId": 768,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Smelly %s",
+      "Maloliente %s",
+      "Cheiroso %s",
+      "Smelly %s",
+      "Oloroso %s",
+      "%s le Kifouette",
+      "Пахучий %s",
+      "Stinki %s",
+      "Cheiroso %s",
+      "%s il Puzzolente",
+      "냄새나는 %s",
+      "臭臭 %s",
+      "臭臭的 %s"
+    ]
+  },
+  {
+    "TagId": 769,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Barter Boss",
+      "%s, Jefe del trueque",
+      "%s, Chefe Troqueiro",
+      "%s, Barter Boss",
+      "%s, Señor del trueque",
+      "%s, spécialiste du marchandage",
+      "%s босс бартера",
+      "%s, Tauschboss",
+      "%s, Chefe Troqueiro",
+      "Boss del Baratto %s",
+      "흥정왕 %s",
+      "『交易老大』%s",
+      "%s, 生意老板"
+    ]
+  },
+  {
+    "TagId": 770,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Smoldering",
+      "%s, el Humeante",
+      "%s, o Fumegante",
+      "%s the Smoldering",
+      "%s el Humeante",
+      "%s, la flamme incandescente",
+      "Тлеющий %s",
+      "%s der Qualmende",
+      "%s, o Fumegante",
+      "%s l'Ardente",
+      "이글거리는 %s",
+      "悶燃的%s",
+      "阴燃的 %s"
+    ]
+  },
+  {
+    "TagId": 771,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Smoldering Hero",
+      "%s, el Héroe Humeante",
+      "%s, o Herói Fumegante",
+      "%s the Smoldering Hero",
+      "%s el Héroe Humeante",
+      "%s, la flamme incandescente héroïque",
+      "%s, тлеющий герой",
+      "%s der qualmende Held",
+      "%s, o Herói Fumegante",
+      "%s l'Eroe Ardente",
+      "이글거리는 영웅 %s",
+      "『悶燃英雄』%s",
+      "%s, 阴燃英雄"
+    ]
+  },
+  {
+    "TagId": 772,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Heir to the Void",
+      "%s, Heredero del Vacío",
+      "%s, Herdeiro do Caos",
+      "%s, Heir to the Void",
+      "%s, Heredero del Vacío",
+      "%s, héritier du Vide",
+      "Наследник Бездны %s",
+      "%s, Auf die Leere abgestimmt",
+      "%s, Herdeiro do Caos",
+      "%s, Erede del Vuoto",
+      "공허의 계승자 %s",
+      "%s，虛無繼承者",
+      "%s, 虚空继承者"
+    ]
+  },
+  {
+    "TagId": 773,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Famed Slayer of Sarkareth",
+      "%s, asesino de Sarkareth renombrado",
+      "%s, Renomado Matador de Sarkareth",
+      "%s, Famed Slayer of Sarkareth",
+      "%s, Afamado Asesino de Sarkareth",
+      "%s, célèbre tueur de Sarkareth",
+      "%s, прославленный победитель Саркарета",
+      "%s, ruhmreicher Schlächter von Sarkareth",
+      "%s, Renomado Matador de Sarkareth",
+      "%s, Insigne Giustiziere di Sarkareth",
+      "명예로운 사카레스 학살자 %s",
+      "%s，著名的沙卡瑞斯剋星",
+      "%s, 闻名遐迩的萨卡雷斯杀手"
+    ]
+  },
+  {
+    "TagId": 774,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Sniffenseeker",
+      "%s, Olfabuscador",
+      "%s, Buscador Farejante",
+      "%s, Sniffenseeker",
+      "%s el Olfatobuscador",
+      "%s, renitruffe",
+      "Нюхач %s",
+      "%s, Schnüffelsucher",
+      "%s, Buscador Farejante",
+      "%s, il Fiutatutto",
+      "냄새 추적자 %s",
+      "%s，嗅探者",
+      "%s, 嗅味探寻者"
+    ]
+  },
+  {
+    "TagId": 775,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Field Researcher %s",
+      "Investigador de campo %s",
+      "Pesquisador de Campo %s",
+      "Field Researcher %s",
+      "Investigador de Campo %s",
+      "Chercheur de terrain %s",
+      "Полевой исследователь %s",
+      "Feldforscher %s",
+      "Pesquisador de Campo %s",
+      "Ricercatore %s",
+      "현장 연구원 %s",
+      "野外研究員 %s",
+      "战地研究员 %s"
+    ]
+  },
+  {
+    "TagId": 776,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Zaralek Cavern Racer %s",
+      "Corredor de la Caverna Zaralek %s",
+      "Corredor da Caverna Zaralek %s",
+      "Zaralek Cavern Racer %s",
+      "Corredor de la Caverna Zaralek %s",
+      "Pilote de la grotte de Zaralek %s",
+      "%s, гонщик пещеры Заралек",
+      "Zaralekhöhlenrenner %s",
+      "Corredor da Caverna Zaralek %s",
+      "%s, Corridore della Caverna di Zaralek",
+      "자랄레크 동굴 경주자 %s",
+      "扎拉萊克洞窟競速騎師 %s",
+      "查拉雷克洞窟竞速者 %s"
     ]
   }
 ]

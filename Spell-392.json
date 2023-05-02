@@ -150,19 +150,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Munch!",
+      "Munch",
+      "Mascar",
+      "Munch",
+      "Munch",
       "¡Ñam!",
-      "Chomp!",
-      "Munch!",
-      "¡Ñam!",
-      "Miam\u00A0!",
-      "Ням!",
-      "Mampf!",
-      "Chomp!",
-      "Slurp!",
-      "우적우적!",
-      "嚼嚼！",
-      "咀嚼！"
+      "Mangeaille",
+      "Чавканье",
+      "Mampf",
+      "Munch",
+      "Slurp",
+      "우적우적",
+      "嚼嚼",
+      "咀嚼"
     ],
     "Media": "ability_mount_polarbear_brown.jpg"
   },
@@ -4109,7 +4109,7 @@
       "熔火剛毛",
       "熔火鬃毛"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "spell_nature_thorns_nightmare.jpg"
   },
   {
     "TagId": 392219,
@@ -7014,42 +7014,42 @@
     "TagType": 26,
     "Names": [
       null,
-      "Difficult Terrain",
-      "Terreno difícil",
-      "Terreno Difícil",
-      "Difficult Terrain",
-      "Terreno dificultoso",
-      "Terrain accidenté",
-      "Труднопроходимая местность",
-      "Schwieriges Terrain",
-      "Terreno Difícil",
-      "Terreno Impervio",
-      "까다로운 지형",
-      "艱困地形",
-      "困难地形"
+      "Fissuring Slam",
+      "Golpe de fisura",
+      "Batida Fendente",
+      "Fissuring Slam",
+      "Embate de fisura",
+      "Heurt fissurant",
+      "Раскалывающий удар",
+      "Zerklüftendes Schmettern",
+      "Batida Fendente",
+      "Contusione Fendente",
+      "분열의 강타",
+      "破地猛擊",
+      "裂隙猛击"
     ],
-    "Media": "ability_shockwave.jpg"
+    "Media": "spell_nature_earthquake.jpg"
   },
   {
     "TagId": 392365,
     "TagType": 26,
     "Names": [
       null,
-      "Difficult Terrain",
-      "Terreno difícil",
-      "Terreno Difícil",
-      "Difficult Terrain",
-      "Terreno dificultoso",
-      "Terrain accidenté",
-      "Труднопроходимая местность",
-      "Schwieriges Terrain",
-      "Terreno Difícil",
-      "Terreno Impervio",
-      "까다로운 지형",
-      "艱困地形",
-      "困难地形"
+      "Fissuring Slam",
+      "Golpe de fisura",
+      "Batida Fendente",
+      "Fissuring Slam",
+      "Embate de fisura",
+      "Heurt fissurant",
+      "Раскалывающий удар",
+      "Zerklüftendes Schmettern",
+      "Batida Fendente",
+      "Contusione Fendente",
+      "분열의 강타",
+      "破地猛擊",
+      "裂隙猛击"
     ],
-    "Media": "spell_shaman_earthquake.jpg"
+    "Media": "spell_nature_earthquake.jpg"
   },
   {
     "TagId": 392366,
@@ -14545,6 +14545,27 @@
       "山羊跃袭"
     ],
     "Media": "inv_dwarfpaladinram_red.jpg"
+  },
+  {
+    "TagId": 392767,
+    "TagType": 26,
+    "Names": [
+      null,
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK",
+      "FX - Test - ScreenEffect - SK"
+    ],
+    "Media": "ability_demonhunter_spectralsight.jpg"
   },
   {
     "TagId": 392768,

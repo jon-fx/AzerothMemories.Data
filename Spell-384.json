@@ -130,21 +130,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Raw Zandali Chilis",
-      "Pimientos zandali crudos",
-      "Pimentas Zandali Cruas",
-      "Raw Zandali Chilis",
-      "Chiles zandali crudos",
-      "Piments zandali crus",
-      "Сырые зандаларские чили",
-      "Rohe Zandalichilis",
-      "Pimentas Zandali Cruas",
-      "Peperoncino degli Zandalari Crudo",
-      "생 잔달라 고추",
-      "贊達拉生辣椒",
-      "赞达拉生辣椒"
+      "Sundered Flame Contraband",
+      "Contrabando de la Llama Hendida",
+      "Contrabando da Chama Partida",
+      "Sundered Flame Contraband",
+      "Contrabando de la Llama Hendida",
+      "Contrebande de la Flamme fracturée",
+      "Контрабанда Расколотого Пламени",
+      "Splitterflammenschmuggelware",
+      "Contrabando da Chama Partida",
+      "Contrabbando della Fiamma Frammentata",
+      "분리된 불길 밀수품",
+      "碎裂火焰軍違禁品",
+      "碎裂之焰违禁品"
     ],
-    "Media": "inv_misc_food_legion_dalapenopepper.jpg"
+    "Media": "inv_10_specialization_professionbook_inscription_color1.jpg"
   },
   {
     "TagId": 384010,
@@ -1351,7 +1351,7 @@
       "Llama de las sombras",
       "Chama Sombria",
       "Shadowflame",
-      "Llama de las Sombras",
+      "Pirosombra",
       "Ombreflamme",
       "Пламя Тьмы",
       "Schattenflamme",
@@ -2151,7 +2151,7 @@
       "Wrecking Throw",
       "Lanzamiento demoledor",
       "Lancer destructeur",
-      "Сокрушительный бросок",
+      "Разрушающий бросок",
       "Abrisswurf",
       "Arremesso Avassalador",
       "Lancio Demolitore",
@@ -6587,7 +6587,7 @@
       "技工保險絲",
       "匠械保险丝"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_eng_metalblingronear.jpg"
   },
   {
     "TagId": 384339,
@@ -13260,7 +13260,7 @@
       "各個擊破",
       "各个击破"
     ],
-    "Media": "item_earthenmight.jpg"
+    "Media": "ability_evoker_divideandconquer.jpg"
   },
   {
     "TagId": 384690,
@@ -13282,6 +13282,27 @@
       "熔火龙银矿脉"
     ],
     "Media": "inv_ore_draconium.jpg"
+  },
+  {
+    "TagId": 384691,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Divide and Conquer",
+      "Divide y vencerás",
+      "Dividir e Conquistar",
+      "Divide and Conquer",
+      "Divide y vencerás",
+      "Diviser pour mieux régner",
+      "Разделяй и властвуй",
+      "Teilen und herrschen",
+      "Dividir e Conquistar",
+      "Divide et Impera",
+      "분할 통치",
+      "各個擊破",
+      "各个击破"
+    ],
+    "Media": "ability_evoker_divideandconquer.jpg"
   },
   {
     "TagId": 384692,
@@ -14877,14 +14898,14 @@
       "Death - instant - self [DNT]",
       "Death - instant - self [DNT]",
       "Death - instant - self [DNT]",
-      "Mort – instantanée – soi [DNT]",
       "Death - instant - self [DNT]",
       "Death - instant - self [DNT]",
       "Death - instant - self [DNT]",
       "Death - instant - self [DNT]",
-      "사망 - 즉시 - 자신",
-      "自我即死",
-      "死亡 - 瞬发 - 自身"
+      "Death - instant - self [DNT]",
+      "Death - instant - self [DNT]",
+      "Death - instant - self [DNT]",
+      "Death - instant - self [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -15174,7 +15195,7 @@
       "Печать милости",
       "Siegel der Wohltätigkeit",
       "Selo da Caridade",
-      "Sigillo di Carità",
+      "Sigillo della Carità",
       "관용의 인장",
       "慈愛聖印",
       "明澈圣印"
@@ -15279,7 +15300,7 @@
       "Печать милости",
       "Siegel der Wohltätigkeit",
       "Selo da Caridade",
-      "Sigillo di Carità",
+      "Sigillo della Carità",
       "관용의 인장",
       "慈愛聖印",
       "明澈圣印"
