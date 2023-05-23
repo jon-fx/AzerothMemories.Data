@@ -672,6 +672,69 @@
     "Media": "inv_armor_orc_d_01_helm.jpg"
   },
   {
+    "TagId": 203182,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fish Food",
+      "Comida para peces",
+      "Comida de Peixe",
+      "Fish Food",
+      "Comida para peces",
+      "Nourriture pour poissons",
+      "Корм для рыб",
+      "Fischfutter",
+      "Comida de Peixe",
+      "Cibo per Pesci",
+      "물고기 밥",
+      "魚飼料",
+      "鱼食"
+    ],
+    "Media": "inv_misc_food_103_potatobread.jpg"
+  },
+  {
+    "TagId": 203183,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sindragosa's Lingering Essence",
+      "Esencia persistente de Sindragosa",
+      "Essência Duradoura de Sindragosa",
+      "Sindragosa's Lingering Essence",
+      "Esencia persistente de Sindragosa",
+      "Essence rémanente de Sindragosa",
+      "Блуждающая сущность Синдрагосы",
+      "Sindragosas anhaltende Essenz",
+      "Essência Duradoura de Sindragosa",
+      "Essenza Persistente di Sindragosa",
+      "신드라고사의 잔존하는 정수",
+      "辛德拉苟莎的殘留精華",
+      "辛达苟萨的残留精华"
+    ],
+    "Media": "ability_argus_soulbombdebuffsmall.jpg"
+  },
+  {
+    "TagId": 203184,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Malygos's Lingering Essence",
+      "Esencia persistente de Malygos",
+      "Essência Duradoura de Malygos",
+      "Malygos's Lingering Essence",
+      "Esencia persistente de Malygos",
+      "Essence rémanente de Malygos",
+      "Блуждающая сущность Малигоса",
+      "Malygos' anhaltende Essenz",
+      "Essência Duradoura de Malygos",
+      "Essenza Persistente di Malygos",
+      "말리고스의 잔존하는 정수",
+      "瑪里苟斯的殘留精華",
+      "玛里苟斯的残留精华"
+    ],
+    "Media": "ability_argus_soulbombdebuffsmall.jpg"
+  },
+  {
     "TagId": 203185,
     "TagType": 21,
     "Names": [
@@ -1573,6 +1636,27 @@
       null
     ],
     "Media": "inv_misc_food_109_honeylichen.jpg"
+  },
+  {
+    "TagId": 203228,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wild Blue Yonders",
+      "Lejanías azules silvestres",
+      "Vista-azul Silvestre",
+      "Wild Blue Yonders",
+      "Cielozul salvaje",
+      "Vers l’inconnu",
+      "Синие дали",
+      "Wilde blaue Ferne",
+      "Vista-azul Silvestre",
+      "Blupinti Selvatici",
+      "야생의 푸른꽃",
+      "浩瀚蒼穹",
+      "辽远之蓝"
+    ],
+    "Media": "item_herbd.jpg"
   },
   {
     "TagId": 203229,
@@ -3612,6 +3696,27 @@
     "Media": "inv_shoulder_armor_dragonblack_b_01.jpg"
   },
   {
+    "TagId": 203397,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kirygosa's Note",
+      "Nota de Kirygosa",
+      "Anotações de Kirygosa",
+      "Kirygosa's Note",
+      "Nota de Kirygosa",
+      "Note de Kirygosa",
+      "Записка Киригосы",
+      "Kirygosas Notiz",
+      "Anotações de Kirygosa",
+      "Nota di Kirygosa",
+      "키리고사의 기록",
+      "琦麗苟莎的便箋",
+      "姬蕾苟萨的笔记"
+    ],
+    "Media": "inv_letter_12.jpg"
+  },
+  {
     "TagId": 203398,
     "TagType": 21,
     "Names": [
@@ -4765,6 +4870,27 @@
       "黑龙鳞袍"
     ],
     "Media": "inv_misc_scales_reptilepaleblue03.jpg"
+  },
+  {
+    "TagId": 203459,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Totemic Ruins",
+      "Ruinas totémicas",
+      "Ruínas Totêmicas",
+      "Totemic Ruins",
+      "Ruinas totémicas",
+      "Ruines totémiques",
+      "Разрушенный тотем",
+      "Totemische Ruinen",
+      "Ruínas Totêmicas",
+      "Rovine Totemiche",
+      "토템 잔재",
+      "毀損圖騰",
+      "图腾残迹"
+    ],
+    "Media": "trade_archaeology_arakkoa_artifactfragment.jpg"
   },
   {
     "TagId": 203460,
@@ -11340,6 +11466,27 @@
     "Media": "inv_misc_food_96_zangarcaps.jpg"
   },
   {
+    "TagId": 203855,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fragile Manaheart",
+      "Manamor frágil",
+      "Manacárdia Frágil",
+      "Fragile Manaheart",
+      "Corazón de maná frágil",
+      "Cœur de mana fragile",
+      "Хрупкий манастебль",
+      "Zerbrechliches Manaherz",
+      "Manacárdia Frágil",
+      "Manacuore Fragile",
+      "연약한 마나심장",
+      "嬌弱的法心花",
+      "脆弱的魔力之心"
+    ],
+    "Media": "inv_misc_herb_frostlotus.jpg"
+  },
+  {
     "TagId": 203860,
     "TagType": 21,
     "Names": [
@@ -11443,6 +11590,27 @@
       "珍宝钱袋"
     ],
     "Media": "inv_misc_bag_12.jpg"
+  },
+  {
+    "TagId": 203913,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blossoming Manaheart",
+      "Manamor en flor",
+      "Manacárdia Florescente",
+      "Blossoming Manaheart",
+      "Corazón de maná floreciente",
+      "Cœur de mana en fleur",
+      "Цветущий манастебль",
+      "Blühendes Manaherz",
+      "Manacárdia Florescente",
+      "Manacuore Fiorente",
+      "만발하는 마나심장",
+      "綻放的法心花",
+      "绽放的魔力之心"
+    ],
+    "Media": "inv_misc_herb_frostlotus.jpg"
   },
   {
     "TagId": 203914,
