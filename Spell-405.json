@@ -1150,7 +1150,7 @@
       "Consapevolezza di Nasz'uro",
       "나스주로의 통찰",
       "納茲烏洛的洞察",
-      "纳兹乌洛的洞见"
+      "纳兹乌罗的洞见"
     ],
     "Media": "inv_10_enchanting2_ordermagic_color1.jpg"
   },
@@ -1234,7 +1234,7 @@
       "Consapevolezza di Nasz'uro",
       "나스주로의 통찰",
       "納茲烏洛的洞察",
-      "纳兹乌洛的洞见"
+      "纳兹乌罗的洞见"
     ],
     "Media": "inv_hand_1h_evokerlegendary_d_01.jpg"
   },
@@ -2855,6 +2855,27 @@
     "Media": "inv_misc_herb_goldclover.jpg"
   },
   {
+    "TagId": 405162,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]",
+      "Test Spell 1 [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 405163,
     "TagType": 26,
     "Names": [
@@ -3248,6 +3269,48 @@
       "소환사의 행운",
       "召喚者的好運",
       "召唤者的好运"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 405184,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 405185,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]",
+      "Ping [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5099,6 +5162,27 @@
     "Media": "ability_paladin_judgementofthewise.jpg"
   },
   {
+    "TagId": 405279,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Familiar Faces",
+      "Caras familiares",
+      "Rostos Conhecidos",
+      "Familiar Faces",
+      "Rostros familiares",
+      "Des visages familiers",
+      "Знакомые лица",
+      "Bekannte Gesichter",
+      "Rostos Conhecidos",
+      "Facce Familiari",
+      "낯익은 얼굴",
+      "熟悉的面孔",
+      "熟悉的面容"
+    ],
+    "Media": "inv_misc_pocketwatch_01.jpg"
+  },
+  {
     "TagId": 405280,
     "TagType": 26,
     "Names": [
@@ -5370,6 +5454,27 @@
       "Dummy Channel Aura [DNT]"
     ],
     "Media": "inv_crab2_blue.jpg"
+  },
+  {
+    "TagId": 405295,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lava Shield",
+      "Escudo de lava",
+      "Escudo de Lava",
+      "Lava Shield",
+      "Escudo de lava",
+      "Bouclier de lave",
+      "Щит лавы",
+      "Lavaschild",
+      "Escudo de Lava",
+      "Scudo di Lava",
+      "용암 보호막",
+      "熔岩之盾",
+      "熔岩之盾"
+    ],
+    "Media": "ability_warrior_shieldmastery.jpg"
   },
   {
     "TagId": 405297,
@@ -7702,6 +7807,27 @@
     "Media": "ability_monk_forcesphere.jpg"
   },
   {
+    "TagId": 405431,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fragments of Time",
+      "Fragmentos de tiempo",
+      "Fragmentos do Tempo",
+      "Fragments of Time",
+      "Fragmentos de tiempo",
+      "Fragments du temps",
+      "Фрагменты времени",
+      "Fragmente der Zeit",
+      "Fragmentos do Tempo",
+      "Frammenti del Tempo",
+      "시간의 파편",
+      "時間碎片",
+      "时光碎片"
+    ],
+    "Media": "ability_evoker_bronze_01.jpg"
+  },
+  {
     "TagId": 405433,
     "TagType": 26,
     "Names": [
@@ -7994,6 +8120,27 @@
       "活化导管"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 405448,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chronofade",
+      "Cronodesvanecer",
+      "Cronodesvanecimento",
+      "Chronofade",
+      "Cronoborrar",
+      "Chrono-effacement",
+      "Темпоральное затухание",
+      "Chronoverblassen",
+      "Cronodesvanecimento",
+      "Dissolvenza Temporale",
+      "시간 퇴색",
+      "時間消逝",
+      "时光凋落"
+    ],
+    "Media": "achievement_challengemode_arakkoaspires_hourglass.jpg"
   },
   {
     "TagId": 405449,
@@ -8603,6 +8750,27 @@
       "红玉之光"
     ],
     "Media": "inv_jewelcrafting_90_reagent_blue.jpg"
+  },
+  {
+    "TagId": 405478,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chrono-faded",
+      "Cronodesvanecido",
+      "Cronodesvanecido",
+      "Chrono-faded",
+      "Cronoborrado",
+      "Chrono-effacé",
+      "Временное затухание",
+      "Chronoverblasst",
+      "Cronodesvanecido",
+      "Dissoluzione Temporale",
+      "퇴색된 시간",
+      "受時間消逝影響",
+      "时光凋零"
+    ],
+    "Media": "ability_bossmagistrix_timewarp1.jpg"
   },
   {
     "TagId": 405479,
@@ -10059,7 +10227,7 @@
     "Names": [
       null,
       "Paladin Retribution 10.1 Class Set 2pc",
-      "Paladin Retribution 10.1 Class Set 2pc",
+      "Reprensión de paladín 10.1 Conjunto de clase 2pc",
       "Paladino Retribuição 10.1, Conjunto de Classe, 2 pç",
       "Paladin Retribution 10.1 Class Set 2pc",
       "Conjunto de clase de paladín Reprensión 10.1 (2 piezas)",
@@ -10069,7 +10237,7 @@
       "Paladino Retribuição 10.1, Conjunto de Classe, 2 pç",
       "Paladino del Castigo Set di Classe 10.1 2 Pezzi",
       "징벌 성기사 10.1 직업 세트 2세트",
-      "Paladin Retribution 10.1 Class Set 2pc",
+      "聖騎士懲戒10.1職業套裝2件",
       "惩戒圣骑士10.1职业套装2件套"
     ],
     "Media": "trade_engineering.jpg"
@@ -10080,7 +10248,7 @@
     "Names": [
       null,
       "Paladin Retribution 10.1 Class Set 4pc",
-      "Paladin Retribution 10.1 Class Set 4pc",
+      "Reprensión de paladín 10.1 Conjunto de clase 4pc",
       "Paladino Retribuição 10.1, Conjunto de Classe, 4 pç",
       "Paladin Retribution 10.1 Class Set 4pc",
       "Conjunto de clase de paladín Reprensión 10.1 (4 piezas)",
@@ -10090,7 +10258,7 @@
       "Paladino Retribuição 10.1, Conjunto de Classe, 4 pç",
       "Paladino del Castigo Set di Classe 10.1 4 Pezzi",
       "징벌 성기사 10.1 직업 세트 4세트",
-      "Paladin Retribution 10.1 Class Set 4pc",
+      "聖騎士懲戒10.1職業套裝4件",
       "惩戒圣骑士10.1职业套装4件套"
     ],
     "Media": "trade_engineering.jpg"
@@ -10657,7 +10825,7 @@
       "Guerreiro Armas 10.1, Conjunto de Classe, 2 pç",
       "Guerriero Armi Set di Classe 10.1 2 Pezzi",
       "무기 전사 10.1 직업 세트 2세트",
-      "Warrior Arms 10.1 Class Set 2pc",
+      "戰士武器10.1職業套裝2件",
       "武器战士10.1职业套装2件套"
     ],
     "Media": "trade_engineering.jpg"
@@ -10678,7 +10846,7 @@
       "Guerreiro (Armas) 10.1, Conjunto de Classe, 4 pç",
       "Guerriero Armi Set di Classe 10.1 4 Pezzi",
       "무기 전사 10.1 직업 세트 4세트",
-      "Warrior Arms 10.1 Class Set 4pc",
+      "戰士武器10.1職業套裝4件",
       "武器战士10.1职业套装4件套"
     ],
     "Media": "trade_engineering.jpg"
@@ -10731,7 +10899,7 @@
     "Names": [
       null,
       "Warrior Protection 10.1 Class Set 2pc",
-      "Warrior Protection 10.1 Class Set 2pc",
+      "Protección de guerrero 10.1 Conjunto de clase 2pc",
       "Guerreiro Proteção 10.1, Conjunto de Classe, 2 pç",
       "Warrior Protection 10.1 Class Set 2pc",
       "Conjunto de clase de guerrero Protección 10.1 (2 piezas)",
@@ -10741,7 +10909,7 @@
       "Guerreiro Proteção 10.1, Conjunto de Classe, 2 pç",
       "Guerriero Protezione Set di Classe 10.1 2 Pezzi",
       "방어 전사 10.1 직업 세트 2세트",
-      "Warrior Protection 10.1 Class Set 2pc",
+      "戰士防護10.1職業套裝2件",
       "防护战士10.1职业套装2件套"
     ],
     "Media": "trade_engineering.jpg"
@@ -10752,7 +10920,7 @@
     "Names": [
       null,
       "Warrior Protection 10.1 Class Set 4pc",
-      "Warrior Protection 10.1 Class Set 4pc",
+      "Protección de guerrero 10.1 Conjunto de clase 4pc",
       "Guerreiro Proteção 10.1, Conjunto de Classe, 4 pç",
       "Warrior Protection 10.1 Class Set 4pc",
       "Conjunto de clase de guerrero Protección 10.1 (4 piezas)",
@@ -10762,7 +10930,7 @@
       "Guerreiro Proteção 10.1, Conjunto de Classe, 4 pç",
       "Guerriero Protezione Set di Classe 10.1 4 Pezzi",
       "방어 전사 10.1 직업 세트 4세트",
-      "Warrior Protection 10.1 Class Set 4pc",
+      "戰士防護10.1職業套裝4件",
       "防护战士10.1职业套装4件套"
     ],
     "Media": "trade_engineering.jpg"
@@ -12091,6 +12259,27 @@
     "Media": "spell_burningbladeshaman_blazing_radiance.jpg"
   },
   {
+    "TagId": 405653,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Infinite",
+      "Infinito",
+      "Infinito",
+      "Infinite",
+      "Infinito",
+      "Infini",
+      "Бесконечность",
+      "Ewig",
+      "Infinito",
+      "Infinito",
+      "무한",
+      "無限",
+      "永恒"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 405654,
     "TagType": 26,
     "Names": [
@@ -12404,6 +12593,48 @@
       "恒定之仇"
     ],
     "Media": "ability_creature_felfrenzy.jpg"
+  },
+  {
+    "TagId": 405671,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Accelerating Time",
+      "Tiempo acelerado",
+      "Tempo em Aceleração",
+      "Accelerating Time",
+      "Acelerando el tiempo",
+      "Accélération du temps",
+      "Ускорение времени",
+      "Zeit beschleunigen",
+      "Tempo em Aceleração",
+      "Accelerazione Temporale",
+      "시간 가속화",
+      "加速時間",
+      "加速时间"
+    ],
+    "Media": "ability_malkorok_blightofyshaarj_yellow.jpg"
+  },
+  {
+    "TagId": 405672,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Decaying Time",
+      "Tiempo en descomposición",
+      "Tempo em Declínio",
+      "Decaying Time",
+      "Tiempo en descomposición",
+      "Temps en décomposition",
+      "Разложение времени",
+      "Zeit zersetzen",
+      "Tempo em Declínio",
+      "Decadimento Temporale",
+      "부패의 시간",
+      "凋零時間",
+      "消解时间"
+    ],
+    "Media": "ability_malkorok_blightofyshaarj_red.jpg"
   },
   {
     "TagId": 405673,
@@ -12826,6 +13057,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 405696,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chrono-faded",
+      "Cronodesvanecido",
+      "Cronodesvanecido",
+      "Chrono-faded",
+      "Cronoborrado",
+      "Chrono-effacé",
+      "Временное затухание",
+      "Chronoverblasst",
+      "Cronodesvanecido",
+      "Dissoluzione Temporale",
+      "퇴색된 시간",
+      "受時間消逝影響",
+      "时光凋零"
+    ],
+    "Media": "ability_bossmagistrix_timewarp1.jpg"
+  },
+  {
     "TagId": 405697,
     "TagType": 26,
     "Names": [
@@ -13015,6 +13267,27 @@
     "Media": "inv_misc_orb_05.jpg"
   },
   {
+    "TagId": 405706,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces"
+    ],
+    "Media": "inv_10_tailoring2_pillow_red.jpg"
+  },
+  {
     "TagId": 405707,
     "TagType": 26,
     "Names": [
@@ -13076,6 +13349,90 @@
       "回旋暗影烈焰"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 405710,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces"
+    ],
+    "Media": "inv_10_tailoring2_pillow_red.jpg"
+  },
+  {
+    "TagId": 405711,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces"
+    ],
+    "Media": "inv_10_tailoring2_pillow_red.jpg"
+  },
+  {
+    "TagId": 405712,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces"
+    ],
+    "Media": "inv_10_tailoring2_pillow_red.jpg"
+  },
+  {
+    "TagId": 405713,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces",
+      "[DNT] Kill Credit: Nest Pieces"
+    ],
+    "Media": "inv_10_tailoring2_pillow_red.jpg"
   },
   {
     "TagId": 405714,
@@ -15010,6 +15367,27 @@
     "Media": "achievement_dungeon_ulduarraid_irongolem_01.jpg"
   },
   {
+    "TagId": 405813,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sand Stomp",
+      "Pisotón de arena",
+      "Pisão Arenoso",
+      "Sand Stomp",
+      "Pisotón de arena",
+      "Piétinement de sable",
+      "Песчаный топот",
+      "Sandstampfen",
+      "Pisão Arenoso",
+      "Urto di Sabbia",
+      "모래의 울림",
+      "沙塵踐踏",
+      "黄沙重踏"
+    ],
+    "Media": "spell_sandstorm.jpg"
+  },
+  {
     "TagId": 405814,
     "TagType": 26,
     "Names": [
@@ -15050,6 +15428,27 @@
       "活化魔像"
     ],
     "Media": "achievement_dungeon_ulduarraid_irongolem_01.jpg"
+  },
+  {
+    "TagId": 405817,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sand Stomp",
+      "Pisotón de arena",
+      "Pisão Arenoso",
+      "Sand Stomp",
+      "Pisotón de arena",
+      "Piétinement de sable",
+      "Песчаный топот",
+      "Sandstampfen",
+      "Pisão Arenoso",
+      "Urto di Sabbia",
+      "모래의 울림",
+      "沙塵踐踏",
+      "黄沙重踏"
+    ],
+    "Media": "spell_sandstorm.jpg"
   },
   {
     "TagId": 405818,
@@ -15388,6 +15787,90 @@
     "Media": "inv_spear_03.jpg"
   },
   {
+    "TagId": 405836,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze",
+      "[DNT] Whelp - Bronze"
+    ],
+    "Media": "inv_dragonwhelp3_bronze.jpg"
+  },
+  {
+    "TagId": 405837,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue",
+      "[DNT] Whelp - Blue"
+    ],
+    "Media": "inv_dragonwhelp3_blue.jpg"
+  },
+  {
+    "TagId": 405838,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green",
+      "[DNT] Whelp - Green"
+    ],
+    "Media": "inv_dragonwhelp3_green.jpg"
+  },
+  {
+    "TagId": 405839,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red",
+      "[DNT] Whelp - Red"
+    ],
+    "Media": "inv_dragonwhelp3_red.jpg"
+  },
+  {
     "TagId": 405840,
     "TagType": 26,
     "Names": [
@@ -15472,6 +15955,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 405844,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Bronze - Launch (OJF)"
+    ],
+    "Media": "ability_dragonriding_launch01.jpg"
+  },
+  {
+    "TagId": 405845,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Blue - Launch (OJF)"
+    ],
+    "Media": "ability_dragonriding_launch01.jpg"
+  },
+  {
+    "TagId": 405846,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Green - Launch (OJF)"
+    ],
+    "Media": "ability_dragonriding_launch01.jpg"
+  },
+  {
     "TagId": 405847,
     "TagType": 26,
     "Names": [
@@ -15491,6 +16037,27 @@
       "转化：龙晶"
     ],
     "Media": "ui_profession_alchemy.jpg"
+  },
+  {
+    "TagId": 405848,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)",
+      "[DNT] Whelp Daycare - Whelp Racing - Red - Launch (OJF)"
+    ],
+    "Media": "ability_dragonriding_launch01.jpg"
   },
   {
     "TagId": 405849,
@@ -16675,13 +17242,13 @@
       null,
       "Withering Vulnerability",
       "Vulnerabilidad marchita",
-      "Vulnerabilidade Fenecente",
+      "Vulnerabilidade Definhante",
       "Withering Vulnerability",
       "Vulnerabilidad marchitadora",
       "Vulnérabilité faiblissante",
       "Иссушающая слабость",
       "Siechende Verwundbarkeit",
-      "Vulnerabilidade Fenecente",
+      "Vulnerabilidade Definhante",
       "Vulnerabilità Avvizzente",
       "쇠약의 약점",
       "凋萎易傷",
@@ -16774,6 +17341,27 @@
     "Media": "inv_shadowflame_beam.jpg"
   },
   {
+    "TagId": 405920,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Time Traps",
+      "Trampas de tiempo",
+      "Armadilhas Temporais",
+      "Time Traps",
+      "Trampas temporales",
+      "Pièges temporel",
+      "Временные ловушки",
+      "Zeitfallen",
+      "Armadilhas Temporais",
+      "Trappole Temporali",
+      "시간의 덫",
+      "時間陷阱",
+      "时光陷阱"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 405921,
     "TagType": 26,
     "Names": [
@@ -16816,6 +17404,27 @@
     "Media": "spell_necro_dischargenecroticcore.jpg"
   },
   {
+    "TagId": 405923,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Time Traps",
+      "Trampas de tiempo",
+      "Armadilhas Temporais",
+      "Time Traps",
+      "Trampas temporales",
+      "Pièges temporel",
+      "Временные ловушки",
+      "Zeitfallen",
+      "Armadilhas Temporais",
+      "Trappole Temporali",
+      "시간의 덫",
+      "時間陷阱",
+      "时光陷阱"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 405924,
     "TagType": 26,
     "Names": [
@@ -16835,6 +17444,27 @@
       "时序口袋"
     ],
     "Media": "ability_evoker_timedilation.jpg"
+  },
+  {
+    "TagId": 405926,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Temporal Rush",
+      "Prisa temporal",
+      "Surto Temporal",
+      "Temporal Rush",
+      "Exaltación temporal",
+      "Ruée temporelle",
+      "Временное ускорение",
+      "Temporalrausch",
+      "Surto Temporal",
+      "Scatto Temporale",
+      "일시적인 촉진",
+      "時光飛梭",
+      "时光疾速"
+    ],
+    "Media": "ability_monk_chargingoxwave.jpg"
   },
   {
     "TagId": 405927,
@@ -17110,6 +17740,27 @@
     "Media": "inv_icon_wing07e.jpg"
   },
   {
+    "TagId": 405941,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Temporal Rush",
+      "Prisa temporal",
+      "Surto Temporal",
+      "Temporal Rush",
+      "Exaltación temporal",
+      "Ruée temporelle",
+      "Временное ускорение",
+      "Temporalrausch",
+      "Surto Temporal",
+      "Scatto Temporale",
+      "일시적인 촉진",
+      "時光飛梭",
+      "时光疾速"
+    ],
+    "Media": "ability_monk_chargingoxwave.jpg"
+  },
+  {
     "TagId": 405942,
     "TagType": 26,
     "Names": [
@@ -17129,6 +17780,48 @@
       "发射！"
     ],
     "Media": "ability_racial_rocketbarrage.jpg"
+  },
+  {
+    "TagId": 405943,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Temporal Rush",
+      "Prisa temporal",
+      "Surto Temporal",
+      "Temporal Rush",
+      "Exaltación temporal",
+      "Ruée temporelle",
+      "Временное ускорение",
+      "Temporalrausch",
+      "Surto Temporal",
+      "Scatto Temporale",
+      "일시적인 촉진",
+      "時光飛梭",
+      "时光疾速"
+    ],
+    "Media": "ability_monk_chargingoxwave.jpg"
+  },
+  {
+    "TagId": 405944,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Temporal Shear",
+      "Corte temporal",
+      "Talho Temporal",
+      "Temporal Shear",
+      "Desgarro temporal",
+      "Cisaille temporelle",
+      "Темпоральное иссечение",
+      "Temporales Abscheren",
+      "Talho Temporal",
+      "Recisione Temporale",
+      "시간의 절단",
+      "時光削斬",
+      "时霎削割"
+    ],
+    "Media": "ability_arakkoa_spinning_blade.jpg"
   },
   {
     "TagId": 405945,
@@ -17488,6 +18181,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 405965,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eon Fragments",
+      "Fragmentos de eón",
+      "Fragmentos dos Éons",
+      "Eon Fragments",
+      "Fragmentos de eón",
+      "Fragments d’éon",
+      "Фрагменты эонов",
+      "Äonenfragmente",
+      "Fragmentos dos Éons",
+      "Frammenti dell'Eone",
+      "영겁의 파편",
+      "紀元碎片",
+      "万古碎片"
+    ],
+    "Media": "spell_progenitor_missile.jpg"
+  },
+  {
     "TagId": 405966,
     "TagType": 26,
     "Names": [
@@ -17530,6 +18244,27 @@
     "Media": "ability_evoker_hover.jpg"
   },
   {
+    "TagId": 405968,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eon Fragments",
+      "Fragmentos de eón",
+      "Fragmentos dos Éons",
+      "Eon Fragments",
+      "Fragmentos de eón",
+      "Fragments d’éon",
+      "Фрагменты эонов",
+      "Äonenfragmente",
+      "Fragmentos dos Éons",
+      "Frammenti dell'Eone",
+      "영겁의 파편",
+      "紀元碎片",
+      "万古碎片"
+    ],
+    "Media": "spell_progenitor_missile.jpg"
+  },
+  {
     "TagId": 405969,
     "TagType": 26,
     "Names": [
@@ -17549,6 +18284,27 @@
       "坚鳞格挡"
     ],
     "Media": "inv_misc_scales_reptileviolet03.jpg"
+  },
+  {
+    "TagId": 405970,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eon Fragments",
+      "Fragmentos de eón",
+      "Fragmentos dos Éons",
+      "Eon Fragments",
+      "Fragmentos de eón",
+      "Fragments d’éon",
+      "Фрагменты эонов",
+      "Äonenfragmente",
+      "Fragmentos dos Éons",
+      "Frammenti dell'Eone",
+      "영겁의 파편",
+      "紀元碎片",
+      "万古碎片"
+    ],
+    "Media": "spell_progenitor_missile.jpg"
   },
   {
     "TagId": 405971,

@@ -2206,10 +2206,10 @@
     "TagType": 26,
     "Names": [
       null,
-      "Highly-Spiced Haunch",
+      "Highly Spiced Haunch",
       "Anca extrasazonada",
       "Flanco Muito Apimentado",
-      "Highly-Spiced Haunch",
+      "Highly Spiced Haunch",
       "Anca muy especiada",
       "Cuissot très épicé",
       "Окорок с приправами",
@@ -5057,6 +5057,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 392268,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Essence Burst",
+      "Ráfaga esencial",
+      "Estouro de Essência",
+      "Essence Burst",
+      "Explosión de esencia",
+      "Explosion d’essence",
+      "Взрывная сущность",
+      "Essenzexplosion",
+      "Estouro de Essência",
+      "Detonazione dell'Essenza",
+      "정수 폭발",
+      "龍能爆發",
+      "精华迸发"
+    ],
+    "Media": "ability_evoker_essenceburst.jpg"
+  },
+  {
     "TagId": 392269,
     "TagType": 26,
     "Names": [
@@ -5376,21 +5397,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Toxic Fume",
-      "Emanación tóxica",
-      "Vapores Tóxicos",
-      "Toxic Fume",
-      "Emanación tóxica",
-      "Exhalaison toxique",
-      "Ядовитый пар",
-      "Toxischer Dampf",
-      "Vapores Tóxicos",
-      "Fumo Tossico",
-      "맹독 가스",
-      "毒煙",
-      "剧毒烟雾"
+      "Inferno Breath",
+      "Aliento Infernal",
+      "Sopro Infernal",
+      "Inferno Breath",
+      "Aliento infernal",
+      "Souffle infernal",
+      "Дыхание преисподней",
+      "Infernoatem",
+      "Sopro Infernal",
+      "Soffio Infernale",
+      "불지옥 숨결",
+      "煉獄吐息",
+      "炼狱吐息"
     ],
-    "Media": "ability_creature_poison_02.jpg"
+    "Media": "inv_summerfest_firespirit.jpg"
   },
   {
     "TagId": 392285,
@@ -17820,7 +17841,7 @@
       "提里奧的虔誠",
       "提里奥的虔诚"
     ],
-    "Media": "spell_holy_holyguidance.jpg"
+    "Media": "spell_holy_revivechampion.jpg"
   },
   {
     "TagId": 392929,

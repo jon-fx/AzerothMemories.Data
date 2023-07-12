@@ -4,15 +4,15 @@
     "TagType": 21,
     "Names": [
       null,
-      "Storm Infused Stone",
+      "Storm-Infused Stone",
       "Piedra infundida de tormenta",
-      "Pedra Imbuída de Tempestade",
-      "Storm Infused Stone",
+      "Pedra Imbuída em Tempestade",
+      "Storm-Infused Stone",
       "Piedra imbuida de tormenta",
       "Pierre imprégnée de tempête",
-      "Камень силы бури",
+      "Заряженный бурей камень",
       "Sturmerfüllter Stein",
-      "Pedra Imbuída de Tempestade",
+      "Pedra Imbuída em Tempestade",
       "Pietra Infusa di Tempesta",
       "폭풍이 주입된 돌",
       "風暴灌注之石",
@@ -1005,7 +1005,7 @@
       "伐木機手套",
       "伐木机械手套"
     ],
-    "Media": "inv_shredderglove.jpg"
+    "Media": "inv_hand_1h_goblinshredder_d_01.jpg"
   },
   {
     "TagId": 204082,
@@ -1026,7 +1026,7 @@
       "激動小夥伴",
       "工兵哥们"
     ],
-    "Media": "inv_rafbackpack.jpg"
+    "Media": "inv_cape_special_goblinsapper_d_01.jpg"
   },
   {
     "TagId": 204083,
@@ -1110,7 +1110,7 @@
       "Mk3型S.C.A.N.N.E.R.",
       "S.C.A.N.N.E.R. Mk3型"
     ],
-    "Media": "inv_scannermk3.jpg"
+    "Media": "inv_helm_armor_weldingmask_d_01.jpg"
   },
   {
     "TagId": 204088,
@@ -1173,7 +1173,7 @@
       "火箭伐木機9001型",
       "火箭伐木机9001型"
     ],
-    "Media": "inv_rocketshredder9001.jpg"
+    "Media": "inv_goblinshredderrocketmount.jpg"
   },
   {
     "TagId": 204092,
@@ -3063,7 +3063,7 @@
       "易爆自駕工具箱",
       "不稳定的自驱动工具箱"
     ],
-    "Media": "inv_rafgoblinpet.jpg"
+    "Media": "inv_goblinsapperpet.jpg"
   },
   {
     "TagId": 204184,
@@ -4408,6 +4408,27 @@
       "全息影像：时光之王"
     ],
     "Media": "inv_10_engineering_device_gadget2_color2.jpg"
+  },
+  {
+    "TagId": 204263,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Time Grime",
+      "Mugre temporal",
+      "Poeira do Tempo",
+      "Time Grime",
+      "Mugre temporal",
+      "Crasse temporelle",
+      "Хроношлак",
+      "Zeitschmutz",
+      "Poeira do Tempo",
+      "Sporco Temporale",
+      "시간의 더께",
+      "時光汙點",
+      "时光污垢"
+    ],
+    "Media": "inv_enchant_dustspirit.jpg"
   },
   {
     "TagId": 204265,
@@ -6957,13 +6978,13 @@
       null,
       "Ancient Design: Square Holders",
       "Boceto antiguo: Marco cuadrado",
-      "Desenho Antigo: Suportes Quadrados",
+      "Desenho Ancestral: Suportes Quadrados",
       "Ancient Design: Square Holders",
       "Boceto antiguo: montura cuadrada",
       "Dessin ancien\u00A0: montures carrées",
       "Древний эскиз: квадратная оправа",
       "Urtümliche Vorlage: Quadrathalter",
-      "Desenho Antigo: Suportes Quadrados",
+      "Desenho Ancestral: Suportes Quadrados",
       "Modello Antico: Supporti Quadrati",
       "고대 디자인: 사각 안경",
       "遠古設計圖：方框鏡架",
@@ -7072,7 +7093,7 @@
       "Spallacci Alati del Curatore del Crogiolo",
       "도가니 관리인의 날개갑옷",
       "實驗場監管者的翼展",
-      "熔炉管理者的翼展"
+      "熔炉管理者的肩翼"
     ],
     "Media": "inv_cloth_raidpriestdragon_d_01_shoulder.jpg"
   },
@@ -7093,7 +7114,7 @@
       "Spallacci Alati del Curatore del Crogiolo",
       "도가니 관리인의 날개갑옷",
       "實驗場監管者的翼展",
-      "熔炉管理者的翼展"
+      "熔炉管理者的肩翼"
     ],
     "Media": "inv_cloth_raidpriestdragon_d_01_shoulder.jpg"
   },
@@ -16002,6 +16023,69 @@
     "Media": "inv_misc_key_13.jpg"
   },
   {
+    "TagId": 204868,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pre-Made Pie Crust",
+      "Masa de tarta precocinada",
+      "Crosta de Torta Pronta",
+      "Pre-Made Pie Crust",
+      "Corteza de tarta precocinada",
+      "Pâte à tarte toute prête",
+      "Готовый корж",
+      "Formkuchenkruste",
+      "Crosta de Torta Pronta",
+      "Crosta di Torta Già Pronta",
+      "미리 만든 파이 껍질",
+      "預先做好的派皮",
+      "预制馅饼壳"
+    ],
+    "Media": "inv_misc_food_vendor_peachpie.jpg"
+  },
+  {
+    "TagId": 204869,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bolt of Ruby Cloth",
+      "Madeja de tela rubí",
+      "Peça de Tecido Rubi",
+      "Bolt of Ruby Cloth",
+      "Madeja de tela rubí",
+      "Rouleau d’étoffe rubis",
+      "Рулон рубиновой ткани",
+      "Rubinstoffballen",
+      "Peça de Tecido Rubi",
+      "Rotolo di Stoffa di Rubino",
+      "루비 옷감 두루마리",
+      "晶紅布卷",
+      "红玉布卷"
+    ],
+    "Media": "inv_10_tailoring_wovenbolt_blood.jpg"
+  },
+  {
+    "TagId": 204870,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lasztak's Thread Order",
+      "Orden de hilo de Lasztak",
+      "Pedido de Linhas de Lasztak",
+      "Lasztak's Thread Order",
+      "Pedido de hilos para Lasztak",
+      "Commande de fil de Lasztak",
+      "Нити Лазтака",
+      "Lasztaks Fadensortiment",
+      "Pedido de Linhas de Lasztak",
+      "Ordine di Filo di Lasztak",
+      "라즈타크의 정돈된 실타래",
+      "拉茲塔克的紡織品訂單",
+      "拉斯塔克的线团"
+    ],
+    "Media": "inv_tailoring_80_nylonthread.jpg"
+  },
+  {
     "TagId": 204871,
     "TagType": 21,
     "Names": [
@@ -16456,7 +16540,7 @@
       "Затерянный во времени бри",
       "Zeitverlorener Brie",
       "Brie Perdido no Tempo",
-      "Brie Senza Tempo",
+      "Brie Perduto nel Tempo",
       "잃어버린 시간의 브리 치즈",
       "時佚布里乳酪",
       "迷时布里干酪"
@@ -16504,6 +16588,27 @@
       "罗兰德"
     ],
     "Media": "achievement_rat.jpg"
+  },
+  {
+    "TagId": 204895,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]",
+      "Storm-touched Missive Stone [DNT]"
+    ],
+    "Media": "inv_10_dungeonjewelry_primalist_trinket_2_air.jpg"
   },
   {
     "TagId": 204896,
@@ -18039,6 +18144,27 @@
     "Media": "inv_wand_1h_blackdragonoutdoor_d_01.jpg"
   },
   {
+    "TagId": 204983,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]",
+      "Primalist Dropbox Key [DNT]"
+    ],
+    "Media": "item_elementiumkey.jpg"
+  },
+  {
     "TagId": 204984,
     "TagType": 21,
     "Names": [
@@ -18142,6 +18268,27 @@
       "燃石浸透之皮"
     ],
     "Media": "inv_10_specialization_leatherworking_primordialleatherworking_color2.jpg"
+  },
+  {
+    "TagId": 204989,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eric's Camera",
+      "Cámara de Eric",
+      "Câmera de Eric",
+      "Eric's Camera",
+      "Cámara de Eric",
+      "Caméra d’Éric",
+      "Камера Эрика",
+      "Erics Kamera",
+      "Câmera de Eric",
+      "Fotocamera di Eric",
+      "에릭의 카메라",
+      "艾瑞克的相機",
+      "埃瑞克的相机"
+    ],
+    "Media": "inv_misc_ selfiecamera_01.jpg"
   },
   {
     "TagId": 204990,

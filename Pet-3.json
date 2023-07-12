@@ -4338,7 +4338,7 @@
       "Затерянная во времени лиса-виверна",
       "Zeitverlorener Slyvern",
       "Astutícora Perdido no Tempo",
-      "Vivolpe Senza Tempo",
+      "Vivolpe Perduta nel Tempo",
       "잃어버린 시간의 슬라이번",
       "時佚蠍尾飛狐",
       "迷时狐龙"
@@ -4527,7 +4527,7 @@
       "Затерянная во времени древесная летяга",
       "Zeitverlorener Baumflatter",
       "Planárvore Perdido no Tempo",
-      "Saltalberi Senza Tempo",
+      "Saltalberi Perduto nel Tempo",
       "잃어버린 시간의 나무촐랑이",
       "時佚樹飛鼠",
       "迷时掠树者"
@@ -4947,7 +4947,7 @@
       "Затерянная во времени саламантера",
       "Zeitverlorener Salamanther",
       "Salamantra Perdida no Tempo",
-      "Salamantera Senza Tempo",
+      "Salamantera Perduta nel Tempo",
       "잃어버린 시간의 도롱뇽",
       "時佚薩曼瑟螈",
       "迷时蝾螈"
@@ -5073,7 +5073,7 @@
       "Утенок кряквы",
       "Stockentchen",
       "Adenzinho",
-      "Pulcino di Germano Reale",
+      "Anatroccolo di Germano Reale",
       "새끼 청둥오리",
       "小綠頭鴨",
       "小野鸭"
@@ -5136,7 +5136,7 @@
       "Затерянный во времени утенок",
       "Zeitverlorenes Entchen",
       "Patinho Perdido",
-      "Anatroccolo Senza Tempo",
+      "Anatroccolo Perduto nel Tempo",
       "잃어버린 시간의 새끼 오리",
       "時佚小鴨",
       "迷时小鸭子"
@@ -5220,7 +5220,7 @@
       "Затерянная во времени утка",
       "Zeitverlorene Ente",
       "Pato Perdido no Tempo",
-      "Anatra Senza Tempo",
+      "Anatra Perduta nel Tempo",
       "잃어버린 시간의 오리",
       "時佚鴨",
       "迷时鸭子"
@@ -5640,7 +5640,7 @@
       "Затерянный во времени детеныш ворквина",
       "Zeitverlorenes Vorquinfohlen",
       "Potro Vorquim Perdido no Tempo",
-      "Puledro Vorquin Senza Tempo",
+      "Puledro Vorquin Perduto nel Tempo",
       "잃어버린 시간의 새끼 보르퀸",
       "時佚沃昆幼獸",
       "迷时龙麒幼驹"
@@ -6581,7 +6581,7 @@
       "Ídolo Anubisath",
       "Anubisath Idol",
       "Ídolo Anubisath",
-      "Idole d’Anubisath",
+      "Idole d'Anubisath",
       "Фигурка анубисата",
       "Götze des Anubisath",
       "Ídolo Anubisath",
@@ -7934,7 +7934,7 @@
       "易爆自駕工具箱",
       "不稳定的自驱动工具箱"
     ],
-    "Media": "inv_rafgoblinpet.jpg"
+    "Media": "inv_goblinsapperpet.jpg"
   },
   {
     "TagId": 3476,
@@ -8361,19 +8361,19 @@
     "TagType": 23,
     "Names": [
       null,
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Каррит",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "카리트",
-      "卡里特",
-      "卡利特"
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Аннуна",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "아누나",
+      "阿努納",
+      "阿努纳"
     ],
     "Media": "inv_babyhornswog_orange.jpg"
   },
@@ -8701,7 +8701,7 @@
       "Oxi",
       "Enferrujado",
       "Rusty",
-      "Robín",
+      "Oxidado",
       "Rouille",
       "Ржавчик",
       "Rusty",
@@ -8995,7 +8995,7 @@
       "Salverun",
       "Salvera",
       "Salverun",
-      "Salverun",
+      "Cardesseno",
       "Vipierre",
       "Извилиск",
       "Salverun",
@@ -9573,5 +9573,319 @@
       "纳兹乌罗微粒"
     ],
     "Media": "inv_hand_1h_evokerlegendary_d_01.jpg"
+  },
+  {
+    "TagId": 3582,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Blub",
+      "Glup",
+      "Blub",
+      "Blub",
+      "Blub",
+      "Bubulle",
+      "Бульбуль",
+      "Blubb",
+      "Blub",
+      "Blub",
+      "뽀글",
+      "脂脂",
+      "布拉布"
+    ]
+  },
+  {
+    "TagId": 3587,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Lifelike Mechanical Duckling",
+      "Patito mecánico casi vivo",
+      "Patinho Mecânico Realista",
+      "Lifelike Mechanical Duckling",
+      "Patito mecánico casi vivo",
+      "Caneton mécanique réaliste",
+      "Механический утенок",
+      "Lebensechtes mechanisches Entchen",
+      "Patinho Mecânico Realista",
+      "Anatroccolo Meccanico Realistico",
+      "감쪽같은 새끼 기계 오리",
+      "仿真機械小鴨",
+      "仿真机械小鸭"
+    ],
+    "Media": "inv_duckbaby_black.jpg"
+  },
+  {
+    "TagId": 3588,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Игги",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "이기",
+      "伊吉",
+      "伊吉"
+    ],
+    "Media": "inv_10_elementalspiritfoozles_earth.jpg"
+  },
+  {
+    "TagId": 3589,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Rusziona",
+      "Rusziona",
+      "Rusziona",
+      "Rusziona",
+      "Rusziona",
+      "Rusziona",
+      "Рушиона",
+      "Rusziona",
+      "Rusziona",
+      "Rusziona",
+      "루스지오나",
+      "魯金歐那",
+      "鲁西欧纳"
+    ],
+    "Media": "inv_dragonwhelp3_black.jpg"
+  },
+  {
+    "TagId": 3590,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Belastrasza",
+      "Belastrasza",
+      "Belastrasza",
+      "Belastrasza",
+      "Belastrasza",
+      "Belastrasza",
+      "Беластраза",
+      "Belastrasza",
+      "Belastrasza",
+      "Belastrasza",
+      "벨라스트라자",
+      "貝菈史卓莎",
+      "贝拉斯塔萨"
+    ],
+    "Media": "inv_dragonwhelp3_red.jpg"
+  },
+  {
+    "TagId": 3596,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Kabluey",
+      "Kazulín",
+      "Bombazul",
+      "Kabluey",
+      "Bumazulín",
+      "Kaboum",
+      "Кабсинь",
+      "Knallblau",
+      "Bombazul",
+      "Esplodino",
+      "카블루이",
+      "藍藍露",
+      "卡布鲁伊"
+    ],
+    "Media": "inv_babyfireelemental_blue.jpg"
+  },
+  {
+    "TagId": 3597,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Princess Vorquistrasza",
+      "Princesa Vorquistrasza",
+      "Princesa Vorquinstrasza",
+      "Princess Vorquistrasza",
+      "Princesa Vorquistrasza",
+      "Princesse Vorquistrasza",
+      "Принцесса Ворквинстраза",
+      "Prinzessin Vorquistrasza",
+      "Princesa Vorquinstrasza",
+      "Principessa Vorquistrasza",
+      "공주 보르퀴스트라자",
+      "沃昆史卓莎公主",
+      "沃库因斯塔萨公主"
+    ],
+    "Media": "inv_kirinbaby_pale.jpg"
+  },
+  {
+    "TagId": 3598,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Zhusadormu",
+      "Zhusadormu",
+      "Zhusadormu",
+      "Zhusadormu",
+      "Zhusadormu",
+      "Zhusadormu",
+      "Жусадорму",
+      "Zhusadormu",
+      "Zhusadormu",
+      "Zhusadormu",
+      "주사도르무",
+      "祖薩多姆",
+      "祖萨多姆"
+    ],
+    "Media": "inv_dragonwhelp3_bronze.jpg"
+  },
+  {
+    "TagId": 3599,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Zalethgos",
+      "Zalethgos",
+      "Zalethgos",
+      "Zalethgos",
+      "Zalethgos",
+      "Zalethgos",
+      "Залетгос",
+      "Zalethgos",
+      "Zalethgos",
+      "Zalethgos",
+      "자레스고스",
+      "札勒苟斯",
+      "扎勒兹苟斯"
+    ],
+    "Media": "inv_dragonwhelp3_blue.jpg"
+  },
+  {
+    "TagId": 3600,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Pallibrius",
+      "Palibro",
+      "Collibrius",
+      "Pallibrius",
+      "Pallibrius",
+      "Pallibrius",
+      "Паллибрий",
+      "Pallibrius",
+      "Collibrius",
+      "Pallibrius",
+      "팔리브리우스",
+      "帕利布禮奧思",
+      "帕里布留斯"
+    ],
+    "Media": "inv_10_specialization_professionbook_inscription_color1.jpg"
+  },
+  {
+    "TagId": 3601,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Posidriss",
+      "Posidriss",
+      "Posidriss",
+      "Posidriss",
+      "Posidriss",
+      "Posidriss",
+      "Посидрис",
+      "Posidriss",
+      "Posidriss",
+      "Posidriss",
+      "포시드리스",
+      "波西德里思",
+      "波西得利斯"
+    ],
+    "Media": "inv_dragonwhelp3_green.jpg"
+  },
+  {
+    "TagId": 3602,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Somnius",
+      "Somnius",
+      "Somnius",
+      "Somnius",
+      "Somnius",
+      "Somnius",
+      "Сомний",
+      "Somnius",
+      "Somnius",
+      "Somnius",
+      "솜니우스",
+      "桑尼斯",
+      "索姆尼乌斯"
+    ],
+    "Media": "inv_bearprimalcub_white.jpg"
+  },
+  {
+    "TagId": 3608,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Lifelike Mechanical Turtle",
+      "Tortuga mecánica casi viva",
+      "Tartaruga Mecânica Realista",
+      "Lifelike Mechanical Turtle",
+      "Tortuga mecánica casi viva",
+      "Tortue mécanique réaliste",
+      "Механическая черепаха",
+      "Lebensechte mechanisches Schildkröte",
+      "Tartaruga Mecânica Realista",
+      "Tartaruga Meccanica Realistica",
+      "감쪽같은 새끼 기계 거북",
+      "仿真機械龜",
+      "仿真机械龟"
+    ],
+    "Media": "inv_babyturtle2_orange.jpg"
+  },
+  {
+    "TagId": 3609,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Sporeflower",
+      "Flor de esporas",
+      "Florisporo",
+      "Sporeflower",
+      "Florespora",
+      "Fleur à spores",
+      "Спороцвет",
+      "Sporenblume",
+      "Florisporo",
+      "Fiordispora",
+      "포자꽃",
+      "孢子花",
+      "孢子花"
+    ],
+    "Media": "inv_misc_flower_01.jpg"
+  },
+  {
+    "TagId": 3975,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Midnight Terrorwing",
+      "Alaterror de medianoche",
+      "Terrorasa da Meia-noite",
+      "Midnight Terrorwing",
+      "Terrorala de medianoche",
+      "Aile-terreur de minuit",
+      "Полуночный террокрыл",
+      "Mitternachtsschreckensschwinge",
+      "Terrorasa da Meia-noite",
+      "Alatruce della Mezzanotte",
+      "한밤 공포날개",
+      "午夜恐翼蝠",
+      "午夜惧翼蝠"
+    ],
+    "Media": "inv_pet_batpetrevendreth_dark.jpg"
   }
 ]

@@ -919,7 +919,7 @@
       "Lama del Sacrificio Brutale",
       "혹독한 희생의 검",
       "野蠻獻祭之刃",
-      "野蛮牺牲之刃"
+      "野蛮献祭之刃"
     ],
     "Media": "inv_knife_1h_felfireraid_d_02.jpg"
   },
@@ -1173,7 +1173,7 @@
       "勝利大劍師巨劍",
       "首席剑圣的巨剑"
     ],
-    "Media": "inv_sword_2h_katana.jpg"
+    "Media": "inv_sword_2h_katana_b_03.jpg"
   },
   {
     "TagId": 190093,
@@ -1969,7 +1969,7 @@
       "Bicorno dell'Incursore Marferreo",
       "무쇠파도 약탈단의 이각모",
       "鐵潮劫掠者雙角帽",
-      "铁皮掠夺者的弯帽"
+      "铁潮突袭队的弯帽"
     ],
     "Media": "inv_helmet_66.jpg"
   },
@@ -2116,7 +2116,7 @@
       "Sciarpa di Mezzanotte del Viandante",
       "방랑자의 칠흑빛 머리싸개",
       "漫遊者午夜披巾",
-      "漫游者的午夜头巾"
+      "漫游者的午夜围巾"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_black.jpg"
   },
@@ -2201,7 +2201,7 @@
       "可靠的寶藏箱",
       "真金白银秘藏"
     ],
-    "Media": "inv_trustytreasuretrove.jpg"
+    "Media": "inv_cape_special_treasure_c_01.jpg"
   },
   {
     "TagId": 190156,
@@ -2936,7 +2936,7 @@
       "嚴重磨損的獰顱繫腰",
       "老旧的灰颅腰带"
     ],
-    "Media": "inv_misc_bone_taurenskull_01.jpg"
+    "Media": "inv_buckle_armor_chainmail_a_01.jpg"
   },
   {
     "TagId": 190200,
@@ -2949,7 +2949,7 @@
       "Feathered Drape of the Guardian",
       "Mantón de plumas del guardián",
       "Drapé à plumes du gardien",
-      "Пернатый плащ Стража",
+      "Пернатый плащ Хранителя",
       "Gefiedertes Tuch des Wächters",
       "Clâmide Emplumada do Guardião",
       "Drappo Piumato del Guardiano",
@@ -3285,7 +3285,7 @@
       "Feathered Cowl of the Guardian",
       "Capucha de plumas del guardián",
       "Capuche à plumes du gardien",
-      "Пернатый клобук Стража",
+      "Пернатый клобук Хранителя",
       "Gefiederte Gugel des Wächters",
       "Capucho Emplumado do Guardião",
       "Copricapo Piumato del Guardiano",
@@ -3369,7 +3369,7 @@
       "Standard of the Guardian",
       "Confalón del guardián",
       "Étendard du gardien",
-      "Штандарт Стража",
+      "Штандарт Хранителя",
       "Standarte des Wächters",
       "Estandarte do Guardião",
       "Stendardo del Guardiano",
@@ -3608,7 +3608,7 @@
       "『破曉使者』阿薩達",
       "艾什阿达，晨曦使者"
     ],
-    "Media": "inv_dawnsaber.jpg"
+    "Media": "ability_nightsaber2mountsunmoon.jpg"
   },
   {
     "TagId": 190233,
@@ -5139,7 +5139,7 @@
       "Set: Ornamenti di Mezzanotte del Viandante",
       "복장: 방랑자의 칠흑빛 의복",
       "套裝：漫遊者午夜之服",
-      "套装：漫游者的午夜马衣"
+      "套装：漫游者的午夜礼服"
     ],
     "Media": "inv_cape_basic_plain_a_02_black.jpg"
   },
@@ -5532,7 +5532,7 @@
       "Vagabond's Violet Cape",
       "Manteo violeta de vagabundo",
       "Cape violette de vagabondage",
-      "Лиловая накидка скитальца",
+      "Лиловая накидка бродяги",
       "Violettes Vagabundencape",
       "Capa Violeta do Vagante",
       "Cappa Viola del Vagabondo",
@@ -5553,7 +5553,7 @@
       "Vagabond's Violet Hood",
       "Caperuza violeta de vagabundo",
       "Chaperon violet de vagabondage",
-      "Лиловый капюшон скитальца",
+      "Лиловый капюшон бродяги",
       "Violette Vagabundenkapuze",
       "Capuz Violeta do Vagante",
       "Cappuccio Viola del Vagabondo",
@@ -5580,7 +5580,7 @@
       "Sciarpa Viola del Viandante",
       "방랑자의 보라빛 머리싸개",
       "漫遊者紫羅蘭披巾",
-      "漫游者的紫罗兰头巾"
+      "漫游者的紫罗兰围巾"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_royalpurple.jpg"
   },
@@ -7515,6 +7515,48 @@
     "Media": "inv_bracer_plate_raidwarriorprimalist_d_01.jpg"
   },
   {
+    "TagId": 190528,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Vagabond's Violet Threads",
+      "Conjunto: Ropas violetas de vagabundo",
+      "Indumentária: Panos Violetas do Vagante",
+      "Ensemble: Vagabond's Violet Threads",
+      "Indumentaria: Ropas violetas de vagabundo",
+      "Ensemble\u00A0: ornements violets de vagabondage",
+      "Комплект: лиловые одежды бродяги",
+      "Ensemble: Violette Kluft des Vagabunden",
+      "Indumentária: Panos Violetas do Vagante",
+      "Set: Fili Viola del Vagabondo",
+      "복장: 방랑객의 보라빛 예복",
+      "套裝：流浪者紫羅蘭絲線",
+      "套装：流浪者的紫罗兰之踏"
+    ],
+    "Media": "inv_collections_armor_hood_b_01_royalpurple.jpg"
+  },
+  {
+    "TagId": 190529,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Wanderer's Violet Trappings",
+      "Conjunto: Ajuar violeta de errante",
+      "Indumentária: Ornamentos Violetas do Errante",
+      "Ensemble: Wanderer's Violet Trappings",
+      "Indumentaria: Ajuar violeta de errante",
+      "Ensemble\u00A0: ornements violets de voyage",
+      "Комплект: лиловая личина скитальца",
+      "Ensemble: Violetter Zierrat des Wanderers",
+      "Indumentária: Ornamentos Violetas do Errante",
+      "Set: Ornamenti Viola del Viandante",
+      "복장: 방랑자의 보라빛 의복",
+      "套裝：漫遊者紫羅蘭之服",
+      "套装：漫游者的紫罗兰礼服"
+    ],
+    "Media": "inv_collections_armor_neckerchief_b_01_royalpurple.jpg"
+  },
+  {
     "TagId": 190530,
     "TagType": 21,
     "Names": [
@@ -7756,11 +7798,11 @@
       "Vagabond's Azure Cape",
       "Manteo azur de vagabundo",
       "Pèlerine azur de vagabondage",
-      "Лазурная накидка скитальца",
+      "Лазурная накидка бродяги",
       "Azurblaues Vagabundencape",
       "Capa Lazúli do Vagante",
       "Cappa Azzurra del Vagabondo",
-      "방랑객의 진홍빛 단망토",
+      "방랑객의 하늘빛 단망토",
       "流浪者蒼藍斗篷",
       "流浪者的碧蓝斗篷"
     ],
@@ -7783,9 +7825,30 @@
       "Sciarpa Azzurra del Viandante",
       "방랑자의 하늘빛 머리싸개",
       "漫遊者蒼藍披巾",
-      "漫游者的碧蓝头巾"
+      "漫游者的碧蓝围巾"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_blue.jpg"
+  },
+  {
+    "TagId": 190543,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silvered Warcloak",
+      "Manto de guerra plateado",
+      "Manto de Guerra Prateado",
+      "Silvered Warcloak",
+      "Capa de guerra plateada",
+      "Cape de guerre argentée",
+      "Посеребренный боевой плащ",
+      "Versilberter Kriegsumhang",
+      "Manto de Guerra Prateado",
+      "Mantello da Guerra Argentato",
+      "은도금한 전쟁망토",
+      "鍍銀戰爭披風",
+      "银光斗篷"
+    ],
+    "Media": "inv_cape_plate_warfrontsalliance_d_01.jpg"
   },
   {
     "TagId": 190544,
@@ -7807,6 +7870,48 @@
       "超镁铁束腰"
     ],
     "Media": "inv_belt_mail_raidshaman_j_01.jpg"
+  },
+  {
+    "TagId": 190545,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Primeval Basher",
+      "Partecaras primitivo",
+      "Esmagador Primitivo",
+      "Primeval Basher",
+      "Partecaras primigenio",
+      "Cogneur primitif",
+      "Первобытный крушитель",
+      "Primitiver Schläger",
+      "Esmagador Primitivo",
+      "Mazza Picchiatrice Primeva",
+      "원시의 분쇄기",
+      "原初猛擊者",
+      "原始痛击锤"
+    ],
+    "Media": "inv_mace_2h_dreanorogre_b_03.jpg"
+  },
+  {
+    "TagId": 190546,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Polished Shortsword",
+      "Espada corta pulida",
+      "Espada Curta Polida",
+      "Polished Shortsword",
+      "Espada corta pulida",
+      "Épée courte polie",
+      "Полированный короткий меч",
+      "Poliertes Kurzschwert",
+      "Espada Curta Polida",
+      "Spada Corta Lucidata",
+      "광택 나는 쇼트소드",
+      "拋光短劍",
+      "打磨过的短剑"
+    ],
+    "Media": "inv_sword_1h_newplayer_a_03.jpg"
   },
   {
     "TagId": 190547,
@@ -8019,6 +8124,132 @@
     "Media": "inv_pant_mail_legionhonor_d_01.jpg"
   },
   {
+    "TagId": 190557,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sinister Fel Staff",
+      "Bastón vil siniestro",
+      "Cajado Vil Sinistro",
+      "Sinister Fel Staff",
+      "Bastón vil siniestro",
+      "Bâton gangrené sinistre",
+      "Зловещий посох Скверны",
+      "Finsterer Teufelsstab",
+      "Cajado Vil Sinistro",
+      "Vilbastone Sinistro",
+      "사악한 지옥의 지팡이",
+      "邪惡魔能法杖",
+      "罪恶邪能法杖"
+    ],
+    "Media": "inv_staff_17.jpg"
+  },
+  {
+    "TagId": 190558,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Helm of the Fierce",
+      "Yelmo del fiero",
+      "Elmo dos Indomáveis",
+      "Helm of the Fierce",
+      "Yelmo del fiero",
+      "Heaume de l’opiniâtre",
+      "Шлем неудержимости",
+      "Helm der Wilden",
+      "Elmo dos Indomáveis",
+      "Elmo del Violento",
+      "용맹한 자의 투구",
+      "熾烈頭盔",
+      "凶猛者的头盔"
+    ],
+    "Media": "inv_helm_armor_viking_b_01.jpg"
+  },
+  {
+    "TagId": 190559,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Helm of the Swift",
+      "Yelmo del presto",
+      "Elmo dos Velozes",
+      "Helm of the Swift",
+      "Yelmo del presto",
+      "Heaume de vélocité",
+      "Шлем стремительности",
+      "Helm der Flinken",
+      "Elmo dos Velozes",
+      "Elmo del Rapido",
+      "재빠른 자의 투구",
+      "迅疾頭盔",
+      "迅捷者的头盔"
+    ],
+    "Media": "inv_helm_armor_viking_b_01.jpg"
+  },
+  {
+    "TagId": 190560,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Conquest",
+      "Conquista",
+      "Dominação",
+      "Conquest",
+      "Conquista",
+      "Conquête",
+      "Завоевание",
+      "Eroberung",
+      "Dominação",
+      "Conquista",
+      "정복",
+      "征服",
+      "征服"
+    ],
+    "Media": "inv_sword_104.jpg"
+  },
+  {
+    "TagId": 190561,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crystalblade of Shifting Magic",
+      "Espada de cristal de magia cambiante",
+      "Lâmina de Cristal da Magia Cambiante",
+      "Crystalblade of Shifting Magic",
+      "Hoja de cristal de magia cambiante",
+      "Lame-cristal de magie changeante",
+      "Хрустальный клинок изменчивой магии",
+      "Kristallklinge der wechselnden Magie",
+      "Lâmina de Cristal da Magia Cambiante",
+      "Lama di Cristallo della Magia Mutevole",
+      "변화무쌍한 마법의 수정칼날",
+      "移形魔法水晶之刃",
+      "变幻魔法水晶剑"
+    ],
+    "Media": "inv_sword_1h_felfireraid_d_03.jpg"
+  },
+  {
+    "TagId": 190562,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aldori War Mace",
+      "Maza de guerra Aldori",
+      "Maça de Guerra Aldori",
+      "Aldori War Mace",
+      "Maza de guerra Aldori",
+      "Masse de guerre aldori",
+      "Боевая булава Алдори",
+      "Aldorikriegskolben",
+      "Maça de Guerra Aldori",
+      "Mazza da Guerra degli Aldor",
+      "알도르 전쟁 철퇴",
+      "奧多爾戰爭釘錘",
+      "奥尔多战锤"
+    ],
+    "Media": "inv_mace_50.jpg"
+  },
+  {
     "TagId": 190563,
     "TagType": 21,
     "Names": [
@@ -8218,11 +8449,11 @@
       "Vagabond's Azure Hood",
       "Caperuza azur de vagabundo",
       "Chaperon azur de vagabondage",
-      "Лазурный капюшон скитальца",
+      "Лазурный капюшон бродяги",
       "Azurblaue Vagabundenkapuze",
       "Capuz Lazúli do Vagante",
       "Cappuccio Azzurro del Vagabondo",
-      "방랑객의 진홍빛 두건",
+      "방랑객의 하늘빛 두건",
       "流浪者蒼藍兜帽",
       "流浪者的碧蓝兜帽"
     ],
@@ -8290,6 +8521,69 @@
       "套装：荣耀瓦拉加尔的链甲"
     ],
     "Media": "inv_helm_mail_legionraid_d_01.jpg"
+  },
+  {
+    "TagId": 190576,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Vagabond's Azure Threads",
+      "Conjunto: Ropas azures de vagabundo",
+      "Indumentária: Panos Lazúli do Vagante",
+      "Ensemble: Vagabond's Azure Threads",
+      "Indumentaria: Ropas azures de vagabundo",
+      "Ensemble\u00A0: ornements azur de vagabondage",
+      "Комплект: лазурные одежды бродяги",
+      "Ensemble: Azurblaue Kluft des Vagabunden",
+      "Indumentária: Panos Lazúli do Vagante",
+      "Set: Fili Azzurri del Vagabondo",
+      "복장: 방랑객의 하늘빛 예복",
+      "套裝：流浪者蒼藍絲線",
+      "套装：流浪者的碧蓝之踏"
+    ],
+    "Media": "inv_collections_armor_hood_b_01_blue.jpg"
+  },
+  {
+    "TagId": 190577,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Wanderer's Azure Trappings",
+      "Conjunto: Ajuar azur de errante",
+      "Indumentária: Ornamentos Lazúli do Errante",
+      "Ensemble: Wanderer's Azure Trappings",
+      "Indumentaria: Ajuar azur de errante",
+      "Ensemble\u00A0: ornements azur de voyage",
+      "Комплект: лазурная личина скитальца",
+      "Ensemble: Azurblauer Zierrat des Wanderers",
+      "Indumentária: Ornamentos Lazúli do Errante",
+      "Set: Ornamenti Azzurri del Viandante",
+      "복장: 방랑자의 하늘빛 의복",
+      "套裝：漫遊者蒼藍之服",
+      "套装：漫游者的碧蓝礼服"
+    ],
+    "Media": "inv_collections_armor_neckerchief_b_01_blue.jpg"
+  },
+  {
+    "TagId": 190578,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Headmaster's Command",
+      "Orden del rector",
+      "Comando do Diretor",
+      "Headmaster's Command",
+      "Orden del director",
+      "Commandement de la doyenne",
+      "Указ ректора",
+      "Befehlsgewalt der Direktorin",
+      "Comando do Diretor",
+      "Bastone di Comando del Preside",
+      "교장의 명령",
+      "院長之令",
+      "校长之令"
+    ],
+    "Media": "inv_staff_2h_scholomance_d_01.jpg"
   },
   {
     "TagId": 190579,
@@ -8730,7 +9024,7 @@
       "特務的彈藥包",
       "密探的弹药披风"
     ],
-    "Media": "inv_cape_special_treasure.jpg"
+    "Media": "inv_cape_special_knifebandolier_c_01.jpg"
   },
   {
     "TagId": 190600,
@@ -8751,7 +9045,7 @@
       "暗影大劍師巨劍",
       "暗影剑圣的巨剑"
     ],
-    "Media": "inv_sword_2h_katana.jpg"
+    "Media": "inv_sword_2h_katana_b_03.jpg"
   },
   {
     "TagId": 190602,
@@ -10177,7 +10471,7 @@
       "Mannaia Usata con Delicatezza",
       "사용감이 적은 가로날도끼",
       "小心使用過的斬斧",
-      "用过的劈肉斧"
+      "小心地使用过的劈刃"
     ],
     "Media": "inv_sword_1h_newplayer_a_02.jpg"
   },
@@ -10705,6 +10999,27 @@
       "荣耀瓦拉加尔的外衣"
     ],
     "Media": "inv_leather_legionraid_d_01_chest.jpg"
+  },
+  {
+    "TagId": 190725,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Battlewraps of the Honored Valarjar",
+      "Conjunto: Envolturas de batalla del valarjar honorífico",
+      "Indumentária: Invólucro Bélico dos Valarjares Honrados",
+      "Ensemble: Battlewraps of the Honored Valarjar",
+      "Indumentaria: Atuendo de batalla del Valarjar honorable",
+      "Ensemble\u00A0: tenue de combat des honorables Valarjar",
+      "Комплект: боевые одежды чтимого валарьяра",
+      "Ensemble: Kampfwickel der geehrten Valarjar",
+      "Indumentária: Invólucro Bélico dos Valarjares Honrados",
+      "Set: Tenuta dei Valarjar Onorevoli",
+      "복장: 명예로운 발라리아르의 전투복",
+      "套裝：榮耀的華爾拉亞戰袍",
+      "套装：荣耀瓦拉加尔的裹布"
+    ],
+    "Media": "inv_leather_legionraid_d_01_helm.jpg"
   },
   {
     "TagId": 190726,
@@ -12282,6 +12597,27 @@
     "Media": "inv_chest_leather_legionhonor_d_01.jpg"
   },
   {
+    "TagId": 190814,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mephistroth's Razor",
+      "Filo de Mephistroth",
+      "Navalha de Mephistroph",
+      "Mephistroth's Razor",
+      "Cuchilla de Mephistroth",
+      "Rasoir de Méphistroth",
+      "Лезвие Мефистрота",
+      "Mephistroths Rasiermesser",
+      "Navalha de Mephistroph",
+      "Rasoio di Mefistroth",
+      "메피스트로스의 비수",
+      "梅菲斯托剃刀",
+      "孟菲斯托斯的锋锐"
+    ],
+    "Media": "inv_sword_07.jpg"
+  },
+  {
     "TagId": 190815,
     "TagType": 21,
     "Names": [
@@ -12762,7 +13098,7 @@
       "惡臭花束",
       "恶臭花束"
     ],
-    "Media": "inv_creepybouquet.jpg"
+    "Media": "inv_offhand_1h_creepybouquet_b_01.jpg"
   },
   {
     "TagId": 190858,
@@ -12970,7 +13306,7 @@
       "Vestito di Pietrardente",
       "잿불석 드레스",
       "燼石禮服",
-      "火石礼裙"
+      "烬石礼裙"
     ],
     "Media": "inv_chest_cloth_46.jpg"
   },
@@ -13138,7 +13474,7 @@
       "Sciarpa Nevosa del Viandante",
       "방랑자의 새하얀 머리싸개",
       "漫遊者雪白披巾",
-      "漫游者的雪白头巾"
+      "漫游者的雪白围巾"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_white.jpg"
   },
@@ -13600,7 +13936,7 @@
       "Set: Ornamenti Nevosi del Viandante",
       "복장: 방랑자의 새하얀 의복",
       "套裝：漫遊者雪白之服",
-      "套装：漫游者的雪白马衣"
+      "套装：漫游者的雪白礼服"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_white.jpg"
   },

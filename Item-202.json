@@ -2893,7 +2893,7 @@
       "Sciarpa Rosea del Viandante",
       "방랑자의 장밋빛 머리싸개",
       "漫遊者玫瑰披巾",
-      "漫游者的玫瑰头巾"
+      "漫游者的玫瑰围巾"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_pink.jpg"
   },
@@ -2935,7 +2935,7 @@
       "Set: Ornamenti Rosei del Viandante",
       "복장: 방랑자의 장밋빛 의복",
       "套裝：漫遊者玫瑰之服",
-      "套装：漫游者的玫瑰马衣"
+      "套装：漫游者的玫瑰礼服"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_pink.jpg"
   },
@@ -3082,7 +3082,7 @@
       "Sciarpa Arancione del Viandante",
       "방랑자의 주황빛 머리싸개",
       "漫遊者胡蘿蔔橙披巾",
-      "漫游者的胡萝卜头巾"
+      "漫游者的胡萝卜围巾"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_orange.jpg"
   },
@@ -3187,7 +3187,7 @@
       "Set: Ornamenti Arancioni del Viandante",
       "복장: 방랑자의 주황빛 의복",
       "套裝：漫遊者胡蘿蔔橙之服",
-      "套装：漫游者的胡萝卜马衣"
+      "套装：漫游者的胡萝卜礼服"
     ],
     "Media": "inv_collections_armor_neckerchief_b_01_orange.jpg"
   },
@@ -3239,18 +3239,18 @@
     "Names": [
       null,
       "Trophy of Strife",
+      "Trofeo de conflictos",
+      "Troféu de Tribulação",
       "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife",
-      "Trophy of Strife"
+      "Trofeo de la disputa",
+      "Trophée de combat",
+      "Трофей раздора",
+      "Trophäe der Zwietracht",
+      "Troféu de Tribulação",
+      "Trofeo del Conflitto",
+      "불화의 전리품",
+      "鬥爭戰利品",
+      "征战奖品"
     ],
     "Media": "ability_bossfelorcs_necromancer_orange.jpg"
   },
@@ -4431,6 +4431,27 @@
     "Media": "inv_misc_necklace_feather05.jpg"
   },
   {
+    "TagId": 202247,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Curious Curio Goggles",
+      "Gafas curiosas de la curiosidad",
+      "Óculos Baduláquicos Curiosos",
+      "Curious Curio Goggles",
+      "Gafas de bibelot curiosas",
+      "Lunettes bizarre-bizarre",
+      "Любопытные очки",
+      "Kuriose Kuriositätenbrille",
+      "Óculos Baduláquicos Curiosos",
+      "Occhiali Gingillosi Strani",
+      "특이한 수집품 고글",
+      "奇特古董護目鏡",
+      "奇特珍玩护目镜"
+    ],
+    "Media": "inv_gizmo_newgoggles.jpg"
+  },
+  {
     "TagId": 202248,
     "TagType": 21,
     "Names": [
@@ -4471,6 +4492,27 @@
       "食谱：金棘茶"
     ],
     "Media": "inv_scroll_03.jpg"
+  },
+  {
+    "TagId": 202250,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sweet Snapflower Bulb",
+      "Bulbo dulce de flor dracofauces ",
+      "Bulbo de Brotoestaca Doce",
+      "Sweet Snapflower Bulb",
+      "Bulbo de bocaflor dulce",
+      "Bulbe de morfalée douce",
+      "Сладкая луковица щелкоцвета",
+      "Süße Knallblumenblüte",
+      "Bulbo de Brotoestaca Doce",
+      "Bulbo di Scattofiore Dolce",
+      "달콤한 덥썩꽃 구근",
+      "甜錐菊花球莖",
+      "甜美的金鱼草花球茎"
+    ],
+    "Media": "inv_misc_herb_arrowbloom.jpg"
   },
   {
     "TagId": 202252,
@@ -4557,6 +4599,48 @@
     "Media": "inv_10_misc_winterpeltfurbolg_trinket.jpg"
   },
   {
+    "TagId": 202265,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wheel of Whelpwhisper Brie",
+      "Rueda de queso brie de cría susurrante",
+      "Roda de Brie Ais-de-Dragonete",
+      "Wheel of Whelpwhisper Brie",
+      "Rueda de brie susurracría",
+      "Roue de murmure-de-Dragonnet",
+      "Головка бри \"Радость дракончика\"",
+      "Käserad Welpenflüsterbrie",
+      "Roda de Brie Ais-de-Dragonete",
+      "Forma di Brie Soffiadraghetto",
+      "새끼용교감자 브리 치즈",
+      "幼龍低語乾酪輪",
+      "一卷雏语布里干酪"
+    ],
+    "Media": "inv_misc_food_100_hardcheese.jpg"
+  },
+  {
+    "TagId": 202266,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bag of Spicy Pet Snacks",
+      "Bolsa de tentempiés picantes para mascotas",
+      "Saco de Petiscos Picantes para Mascotes",
+      "Bag of Spicy Pet Snacks",
+      "Bolsa de golosinas de mascota picantes",
+      "Sac de friandises épicées pour familier",
+      "Мешок со жгучими закусками для питомцев",
+      "Beutel mit würzigen Haustierhappen",
+      "Saco de Petiscos Picantes para Mascotes",
+      "Borsa di Spuntini per Mascotte Piccanti",
+      "매콤한 애완동물 간식 가방",
+      "一袋香辣寵物點心",
+      "一袋辣味宠物小吃"
+    ],
+    "Media": "inv_misc_petbiscuit_01.jpg"
+  },
+  {
     "TagId": 202267,
     "TagType": 21,
     "Names": [
@@ -4597,6 +4681,27 @@
       "冬裘图腾"
     ],
     "Media": "inv_10_misc_winterpeltfurbolg_trinket02.jpg"
+  },
+  {
+    "TagId": 202270,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope",
+      "[DNT] Twice-Woven Rope"
+    ],
+    "Media": "inv_misc_rope_01_yellowred.jpg"
   },
   {
     "TagId": 202271,
@@ -4872,6 +4977,27 @@
     "Media": "inv_helm_glasses_b_04_gold_black.jpg"
   },
   {
+    "TagId": 202286,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Warmed Coal",
+      "Carbón caliente",
+      "Carvão Aquecido",
+      "Warmed Coal",
+      "Carbón caliente",
+      "Charbon réchauffé",
+      "Нагретый уголь",
+      "Wärmende Kohle",
+      "Carvão Aquecido",
+      "Carbone Riscaldato",
+      "따뜻한 석탄",
+      "暖和煤塊",
+      "暖意煤块"
+    ],
+    "Media": "inv_ore_tin_01.jpg"
+  },
+  {
     "TagId": 202287,
     "TagType": 21,
     "Names": [
@@ -4891,6 +5017,27 @@
       "“爪”工制作的冬裘材料包"
     ],
     "Media": "inv_misc_coinbag13.jpg"
+  },
+  {
+    "TagId": 202288,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Obsidian Gemstone",
+      "Gema obsidiana",
+      "Pedra Preciosa Obsidiana",
+      "Obsidian Gemstone",
+      "Gema obsidiana",
+      "Gemme d’obsidienne",
+      "Обсидиановый самоцвет",
+      "Obsidianedelstein",
+      "Pedra Preciosa Obsidiana",
+      "Gemma d'Ossidiana",
+      "흑요석 보석",
+      "黑曜寶石",
+      "黑曜宝石"
+    ],
+    "Media": "inv_10_jewelcrafting_gem3primal_cut_black.jpg"
   },
   {
     "TagId": 202289,
@@ -4933,6 +5080,48 @@
       "火酒冰糕"
     ],
     "Media": "inv_cooking_100_firewatersorbet.jpg"
+  },
+  {
+    "TagId": 202292,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crystalline Shell",
+      "Caparazón cristalino",
+      "Casca Cristalina",
+      "Crystalline Shell",
+      "Caparazón cristalino",
+      "Coquillage cristallin",
+      "Кристальная ракушка",
+      "Kristallener Panzer",
+      "Casca Cristalina",
+      "Guscio Cristallino",
+      "수정 껍질",
+      "結晶外殼",
+      "晶脉之壳"
+    ],
+    "Media": "inv_conchshell.jpg"
+  },
+  {
+    "TagId": 202293,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rusziona's Whistle",
+      "Silbato de Rusziona",
+      "Apito de Rusziona",
+      "Rusziona's Whistle",
+      "Silbato de Rusziona",
+      "Sifflet de Rusziona",
+      "Свисток Рушионы",
+      "Ruszionas Pfeife",
+      "Apito de Rusziona",
+      "Fischietto di Rusziona",
+      "루스지오나의 호루라기",
+      "魯金歐那的哨子",
+      "鲁西欧纳的哨子"
+    ],
+    "Media": "ability_hunter_beastcall.jpg"
   },
   {
     "TagId": 202294,
@@ -5224,7 +5413,7 @@
       "Dispositivo dell'Apocalisse Difettoso",
       "결함투성이 심판날 장치",
       "有缺陷的末日裝置",
-      "防御型末日装置"
+      "有缺陷的末日装置"
     ],
     "Media": "inv_misc_bomb_04.jpg"
   },
@@ -5245,7 +5434,7 @@
       "Dispositivo dell'Apocalisse Difettoso",
       "결함투성이 심판날 장치",
       "有缺陷的末日裝置",
-      "防御型末日装置"
+      "有缺陷的末日装置"
     ],
     "Media": "inv_misc_bomb_04.jpg"
   },
@@ -5268,7 +5457,49 @@
       "曬白的獰顱繫腰",
       "暴晒的灰颅腰带"
     ],
-    "Media": "inv_misc_bone_taurenskull_01.jpg"
+    "Media": "inv_buckle_armor_chainmail_a_01.jpg"
+  },
+  {
+    "TagId": 202312,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Juicy Mammoth Steak",
+      "Filete de mamut jugoso",
+      "Bife Suculento de Mamute",
+      "Juicy Mammoth Steak",
+      "Filete de mamut jugoso",
+      "Steak de mammouth juteux",
+      "Сочный стейк из мамонта",
+      "Saftiges Mammutsteak",
+      "Bife Suculento de Mamute",
+      "Bistecca di Mammut Succosa",
+      "육즙이 흐르는 매머드 스테이크",
+      "多汁猛瑪象排",
+      "多汁的猛犸象肉排"
+    ],
+    "Media": "inv_misc_food_98_talbuk.jpg"
+  },
+  {
+    "TagId": 202313,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echolocator",
+      "Ecolocalizador",
+      "Ecolocalizador",
+      "Echolocator",
+      "Ecolocalizador",
+      "Écholocalisateur",
+      "Эхолокация",
+      "Echoortungsgerät",
+      "Ecolocalizador",
+      "Ecolocalizzatore",
+      "반향정위 탐지기",
+      "回音定位器",
+      "回声定位器"
+    ],
+    "Media": "spell_arcane_invocation.jpg"
   },
   {
     "TagId": 202314,
@@ -5544,6 +5775,27 @@
     "Media": "inv_glyph_majordruid.jpg"
   },
   {
+    "TagId": 202330,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fine-Pointed Quill",
+      "Pluma de punta fina",
+      "Pena de Ponta Fina",
+      "Fine-Pointed Quill",
+      "Pluma de punta fina",
+      "Plume à pointe fine",
+      "Заостренное перо",
+      "Filigraner Federkiel",
+      "Pena de Ponta Fina",
+      "Penna dalla Punta Sottile",
+      "끝이 뾰족한 깃펜",
+      "尖頭羽毛筆",
+      "末端精美的羽毛"
+    ],
+    "Media": "inv_misc_1h_scribesquill_b_01_silver.jpg"
+  },
+  {
     "TagId": 202331,
     "TagType": 21,
     "Names": [
@@ -5563,6 +5815,27 @@
       null
     ],
     "Media": "inv_misc_enggizmos_swissarmy.jpg"
+  },
+  {
+    "TagId": 202332,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blue Dragon Bedtime Story",
+      "Cuento para dormir para dragones azules",
+      "História de Ninar dos Dragões Azul",
+      "Blue Dragon Bedtime Story",
+      "Cuento para dormir del Vuelo Azul",
+      "Conte des Dragons bleus",
+      "Сказка на ночь для синих драконов",
+      "Gutenachtgeschichte der blauen Drachen",
+      "História de Ninar dos Dragões Azul",
+      "Favola per Drago Blu",
+      "푸른용 동화집",
+      "藍龍床邊故事",
+      "蓝龙睡前故事"
+    ],
+    "Media": "inv_10_specialization_professionbook_jewelcrafting_orig.jpg"
   },
   {
     "TagId": 202335,
@@ -5626,6 +5899,48 @@
       "日志条目：沉默"
     ],
     "Media": "inv_glyph_majordruid.jpg"
+  },
+  {
+    "TagId": 202340,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Laydia's Flower Petals",
+      "Pétalos de flor de Laydia",
+      "Pétalas de Flor de Ledia",
+      "Laydia's Flower Petals",
+      "Pétalos de flor de Laydia",
+      "Pétale de fleur de Laydia",
+      "Лепестки Лайдии",
+      "Laydias Blütenblätter",
+      "Pétalas de Flor de Ledia",
+      "Petali del Fiore di Laydia",
+      "레이디아의 꽃잎",
+      "蕾蒂亞的花瓣",
+      "莱蒂亚的花瓣"
+    ],
+    "Media": "inv_herbalism_70_starlightrosepetals.jpg"
+  },
+  {
+    "TagId": 202342,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Luggage Key",
+      "Llave de equipaje",
+      "Chave da Bagagem",
+      "Luggage Key",
+      "Llave de equipaje",
+      "Clé du bagage",
+      "Ключ от багажа",
+      "Gepäckschlüssel",
+      "Chave da Bagagem",
+      "Chiave del Bagaglio",
+      "짐 열쇠",
+      "行李鑰匙",
+      "行李钥匙"
+    ],
+    "Media": "inv__blacksmithing_skeletonkey.jpg"
   },
   {
     "TagId": 202347,
@@ -5941,6 +6256,27 @@
       "奥术法器"
     ],
     "Media": "spell_fire_blueflamering.jpg"
+  },
+  {
+    "TagId": 202363,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Survey Arc Device",
+      "Dispositivo de arco para sondeo",
+      "Dispositivo de Inspeção Árquica",
+      "Survey Arc Device",
+      "Dispositivo de arco de estudio",
+      "Dispositif d’arc de relevé",
+      "Исследовательское дуговое устройство",
+      "Probenbogengerät",
+      "Dispositivo de Inspeção Árquica",
+      "Dispositivo ad Arco di Rilevamento",
+      "측량용 전자기 장치",
+      "測量弧具",
+      "勘测弧装置"
+    ],
+    "Media": "inv_eng_crowsnestscope.jpg"
   },
   {
     "TagId": 202364,
@@ -6594,6 +6930,48 @@
     "Media": "inv_tradeskillitem_01.jpg"
   },
   {
+    "TagId": 202399,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stuffed Doll",
+      "Muñeco de peluche",
+      "Boneco de Pano",
+      "Stuffed Doll",
+      "Muñeco de peluche",
+      "Poupée rembourrée",
+      "Набивная кукла",
+      "Ausgestopfte Puppe",
+      "Boneco de Pano",
+      "Bambola di Pezza",
+      "봉제 인형",
+      "填充玩偶",
+      "毛绒玩具娃娃"
+    ],
+    "Media": "trade_archaeology_troll_voodoodoll.jpg"
+  },
+  {
+    "TagId": 202400,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soothing Incense",
+      "Incienso reconfortante",
+      "Incenso Reconfortante",
+      "Soothing Incense",
+      "Incienso reconfortante",
+      "Encens apaisant",
+      "Успокаивающая эссенция",
+      "Beruhigendes Räucherwerk",
+      "Incenso Reconfortante",
+      "Incenso Mitigante",
+      "위안의 향",
+      "柔和薰香",
+      "抚慰熏香"
+    ],
+    "Media": "inv_10_alchemy_incenseholder_color1.jpg"
+  },
+  {
     "TagId": 202401,
     "TagType": 21,
     "Names": [
@@ -6657,6 +7035,27 @@
     "Media": "inv_misc_wrench_02.jpg"
   },
   {
+    "TagId": 202404,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bite-Sized Ley Crystal",
+      "Cristal ley tamaño de muestra",
+      "Petisco de Cristal do Meridiano",
+      "Bite-Sized Ley Crystal",
+      "Cristal Ley diminuto",
+      "Cristal tellurique de petite taille",
+      "Крошечный силовой кристалл",
+      "Maulgerechter Leykristall",
+      "Petisco de Cristal do Meridiano",
+      "Cristallo di Faglia Piccolo",
+      "한입 크기 지맥 수정",
+      "一口大小的脈能水晶",
+      "可以一口吃掉的魔网水晶"
+    ],
+    "Media": "inv_jewelcrafting_nightseye_02.jpg"
+  },
+  {
     "TagId": 202405,
     "TagType": 21,
     "Names": [
@@ -6697,6 +7096,27 @@
       "水流风暴精华"
     ],
     "Media": "inv_elemental_eternal_water.jpg"
+  },
+  {
+    "TagId": 202409,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Zalethgos's Whistle",
+      "Silbato de Zalethgos",
+      "Apito de Zalethgos",
+      "Zalethgos's Whistle",
+      "Silbato de Zalethgos",
+      "Sifflet de Zalethgos",
+      "Свисток Залетгоса",
+      "Zalethgos Pfeife",
+      "Apito de Zalethgos",
+      "Fischietto di Zalethgos",
+      "자레스고스의 호루라기",
+      "札勒苟斯的哨子",
+      "扎勒兹苟斯的哨子"
+    ],
+    "Media": "ability_hunter_beastcall.jpg"
   },
   {
     "TagId": 202411,
@@ -8206,7 +8626,7 @@
       "Spallacci Alati dei Segreti d'Ossidiana",
       "흑요석 비밀의 날개갑옷",
       "黑曜秘密肩翼",
-      "黑曜奥秘翼展"
+      "黑曜奥秘肩翼"
     ],
     "Media": "inv_shoulder_mail_raidevokerdragon_d_01.jpg"
   },
@@ -9634,7 +10054,7 @@
       "Veste dell'Evocatore di Sottoluce",
       "미명 창조술사의 예복",
       "粼光咒術師的外衣",
-      "幽光咒法师的法衣"
+      "幽光咒法师的祭服"
     ],
     "Media": "inv_chest_cloth_raidmagedragon_d_01.jpg"
   },
@@ -9781,7 +10201,7 @@
       "Zanna della Fiamma Frammentata",
       "분리된 불길의 송곳니",
       "碎裂火焰軍之牙",
-      "碎裂之焰的獠牙"
+      "碎裂之焰獠牙"
     ],
     "Media": "inv_knife_1h_dragonraid_d_02.jpg"
   },
@@ -9802,7 +10222,7 @@
       "Erethos, la Promessa Vuota",
       "에레토스 - 공허한 약속",
       "『空洞承諾』伊瑞索斯",
-      "艾雷索斯，空洞诺言"
+      "艾雷索斯，空洞承诺"
     ],
     "Media": "inv_staff_2h_dragonraid_d_01.jpg"
   },
@@ -11361,6 +11781,69 @@
     "Media": "inv_spear_01.jpg"
   },
   {
+    "TagId": 202643,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soft Sand",
+      "Arena suave",
+      "Areia Fofa",
+      "Soft Sand",
+      "Arena blanda",
+      "Sable doux",
+      "Нежный песок",
+      "Weicher Sand",
+      "Areia Fofa",
+      "Sabbia Soffice",
+      "부드러운 모래",
+      "柔軟之沙",
+      "柔砂"
+    ],
+    "Media": "inv_10_jewelcrafting_blottedsand_color1.jpg"
+  },
+  {
+    "TagId": 202644,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Whelp's First Hourglass",
+      "El primer reloj de arena de cría",
+      "Primeira Ampulheta do Dragonete",
+      "Whelp's First Hourglass",
+      "Reloj de arena para crías",
+      "Premier sablier de Dragonnet",
+      "Первые часы дракончика",
+      "Erstes Stundenglas des Welpen",
+      "Primeira Ampulheta do Dragonete",
+      "Prima Clessidra del Draghetto",
+      "새끼용의 첫 번째 모래시계",
+      "幼龍的第一個沙漏",
+      "雏龙的第一个沙漏"
+    ],
+    "Media": "inv_relics_hourglass.jpg"
+  },
+  {
+    "TagId": 202645,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Unused Bowl",
+      "Cuenco sin usar",
+      "Tigela Nunca Usada",
+      "Unused Bowl",
+      "Cuenco sin usar",
+      "Bol inutilisé",
+      "Неиспользованная миска",
+      "Unbenutzte Schale",
+      "Tigela Nunca Usada",
+      "Scodella Inutilizzata",
+      "버려진 그릇",
+      "沒用過的碗",
+      "未使用的碗"
+    ],
+    "Media": "inv_misc_bowl_01.jpg"
+  },
+  {
     "TagId": 202646,
     "TagType": 21,
     "Names": [
@@ -12285,6 +12768,27 @@
     "Media": "inv_10_inscription2_scroll1_color2.jpg"
   },
   {
+    "TagId": 202690,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Decorative Shrubbery",
+      "Arbustos decorativos",
+      "Arbusto Decorativo",
+      "Decorative Shrubbery",
+      "Arbusto decorativo",
+      "Buisson décoratif",
+      "Декоративный куст",
+      "Ziersträucher",
+      "Arbusto Decorativo",
+      "Cespuglio Decorativo",
+      "장식용 관목",
+      "裝飾灌木",
+      "装饰灌木"
+    ],
+    "Media": "inv_misc_plant_02.jpg"
+  },
+  {
     "TagId": 202691,
     "TagType": 21,
     "Names": [
@@ -12325,6 +12829,111 @@
       "豺狼人怪物连枷"
     ],
     "Media": "inv_mace_15.jpg"
+  },
+  {
+    "TagId": 202693,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonfruit Pie",
+      "Tarta de fruta del dragón",
+      "Torta de Fruta-do-dragão",
+      "Dragonfruit Pie",
+      "Tarta de frutadragón",
+      "Tarte aux fruits du Dragon",
+      "Пирог с драконовыми фруктами",
+      "Drachenfruchtküchlein",
+      "Torta de Fruta-do-dragão",
+      "Torta di Frutto di Drago",
+      "용과 파이",
+      "火龍果派",
+      "巨龙果派"
+    ],
+    "Media": "inv_misc_food_vendor_peachpie.jpg"
+  },
+  {
+    "TagId": 202694,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Loamy Soil",
+      "Tierra margosa",
+      "Solo Argiloso",
+      "Loamy Soil",
+      "Terreno margoso",
+      "Terre glaiseuse semée",
+      "Глинистая почва",
+      "Lehmige Erde",
+      "Solo Argiloso",
+      "Suolo Argilloso",
+      "양질의 토양",
+      "肥沃的土壤",
+      "肥沃的土壤"
+    ],
+    "Media": "inv_enchant_duststrange.jpg"
+  },
+  {
+    "TagId": 202695,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancient Water",
+      "Agua antigua",
+      "Água Antiga",
+      "Ancient Water",
+      "Agua ancestral",
+      "Eau antique",
+      "Древняя вода",
+      "Uraltes Wasser",
+      "Água Antiga",
+      "Acqua Antica",
+      "고대의 물",
+      "遠古之水",
+      "上古之水"
+    ],
+    "Media": "spell_misc_wateringcan.jpg"
+  },
+  {
+    "TagId": 202696,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Comforting Ducky",
+      "Patito reconfortante",
+      "Patinho Reconfortante",
+      "Comforting Ducky",
+      "Patito reconfortante",
+      "Canard réconfortant",
+      "Утенок поддержки",
+      "Trostentchen",
+      "Patinho Reconfortante",
+      "Papera Confortante",
+      "편안한 꽥꽥이",
+      "療癒小鴨鴨",
+      "让人安心的鸭鸭"
+    ],
+    "Media": "inv_duckbaby_yellow.jpg"
+  },
+  {
+    "TagId": 202697,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Cushion",
+      "Cojín carmesí",
+      "Almofada Carmesim",
+      "Crimson Cushion",
+      "Cojín carmesí",
+      "Coussin cramoisi",
+      "Багровая подушка",
+      "Blutrotes Kissen",
+      "Almofada Carmesim",
+      "Cuscino Cremisi",
+      "진홍빛 방석",
+      "赤紅坐墊",
+      "猩红软垫"
+    ],
+    "Media": "inv_10_tailoring2_pillow_red.jpg"
   },
   {
     "TagId": 202698,

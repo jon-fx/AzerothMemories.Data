@@ -88,10 +88,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Spore-infused Combat Bandage",
+      "Spore-Infused Combat Bandage",
       "Venda de combate infundida con esporas",
       "Bandagem de Combate Imbuída em Esporos",
-      "Spore-infused Combat Bandage",
+      "Spore-Infused Combat Bandage",
       "Venda de combate imbuida de esporas",
       "Bandage de combat imprégné de spores",
       "Пропитанные спорами боевые бинты",
@@ -109,10 +109,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Spore-infused Combat Bandage",
+      "Spore-Infused Combat Bandage",
       "Venda de combate infundida con esporas",
       "Bandagem de Combate Imbuída em Esporos",
-      "Spore-infused Combat Bandage",
+      "Spore-Infused Combat Bandage",
       "Venda de combate imbuida de esporas",
       "Bandage de combat imprégné de spores",
       "Пропитанные спорами боевые бинты",
@@ -130,10 +130,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Spore-infused Combat Bandage",
+      "Spore-Infused Combat Bandage",
       "Venda de combate infundida con esporas",
       "Bandagem de Combate Imbuída em Esporos",
-      "Spore-infused Combat Bandage",
+      "Spore-Infused Combat Bandage",
       "Venda de combate imbuida de esporas",
       "Bandage de combat imprégné de spores",
       "Пропитанные спорами боевые бинты",
@@ -172,19 +172,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "Каррит",
-      "Karrit",
-      "Karrit",
-      "Karrit",
-      "카리트",
-      "卡里特",
-      "卡利特"
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "Аннуна",
+      "Annuna",
+      "Annuna",
+      "Annuna",
+      "아누나",
+      "阿努納",
+      "阿努纳"
     ],
     "Media": "inv_babyhornswog_orange.jpg"
   },
@@ -2772,6 +2772,27 @@
     "Media": "inv_10_inscription2_repcontracts_80_warscroll_fortitude_uprez.jpg"
   },
   {
+    "TagId": 205146,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Weyrnstone",
+      "Piedra weyrn",
+      "Pedra-de-weyrn",
+      "Weyrnstone",
+      "Piedra de alascuadrón",
+      "Pierre de weyrn",
+      "Вирн-камень",
+      "Weyrnstein",
+      "Pedra-de-weyrn",
+      "Pietra del Weyrn",
+      "웨이른석",
+      "龍隊石",
+      "军营之石"
+    ],
+    "Media": "ability_evoker_bestowweyrnstone.jpg"
+  },
+  {
     "TagId": 205147,
     "TagType": 21,
     "Names": [
@@ -3721,19 +3742,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Slime Sheathed Shell",
+      "Caparazón cubierto de baba",
+      "Concha Revestida de Visgo",
+      "Slime Sheathed Shell",
+      "Caparazón cubierto de baba",
+      "Coquille recouverte de bave",
+      "Странно слизистая ракушка",
+      "Schleimumhüllter Panzer",
+      "Concha Revestida de Visgo",
+      "Guscio a Guaina di Melma",
+      "점액 두른 껍질",
+      "黏液覆蓋的殼",
+      "软泥包裹的蜗牛壳"
     ],
     "Media": "inv_10_worlddroplevelingoptionalreagent_misc_shell_color3.jpg"
   },
@@ -4027,7 +4048,7 @@
       "Muffa Sospetta",
       "수상한 거푸집",
       "可疑的模具",
-      "可疑的铸模"
+      "可疑的霉菌"
     ],
     "Media": "inv_misc_herb_ghostmushroomcap.jpg"
   },
@@ -4225,21 +4246,21 @@
     "TagType": 21,
     "Names": [
       null,
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE",
-      "[DNT] REUSE"
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "Игги",
+      "Iggy",
+      "Iggy",
+      "Iggy",
+      "이기",
+      "伊吉",
+      "伊吉"
     ],
-    "Media": "inv_snailrockmount_teal.jpg"
+    "Media": "inv_10_elementalspiritfoozles_earth.jpg"
   },
   {
     "TagId": 205233,
@@ -5380,19 +5401,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Kairoktra's Mane",
-      "Melena de Kairoktra",
-      "Juba de Kairoktra",
-      "Kairoktra's Mane",
-      "Crin de Kairoktra",
-      "Crinière de Kairoktra",
-      "Грива Кайроктры",
-      "Kairoktras Mähne",
-      "Juba de Kairoktra",
-      "Manto di Kairoktra",
-      "카이록트라의 갈기",
-      "凱羅恰之鬃",
-      "凯罗克特拉之鬃"
+      "Karokta's Mane",
+      "Melena de Karokta",
+      "Juba de Karokta",
+      "Karokta's Mane",
+      "Crin de Karokta",
+      "Crinière de Karokta",
+      "Грива Карокты",
+      "Karoktas Mähne",
+      "Juba de Karokta",
+      "Manto di Karokta",
+      "카록타의 갈기",
+      "卡洛塔之鬃",
+      "卡洛克塔之鬃"
     ],
     "Media": "inv_plate_outdoorblackdragon_d_01_cape.jpg"
   },
@@ -8749,7 +8770,7 @@
       "Королевский футляр нерубов",
       "Königliche Neruberhülle",
       "Canastra Real Nerubiana",
-      "Capsa Reale Nerubiana",
+      "Scatola Reale Nerubiana",
       "왕실 네루비안 카프사",
       "皇家奈幽卷軸筒",
       "皇家蛛魔卷匣"
@@ -16132,16 +16153,16 @@
     "TagType": 21,
     "Names": [
       null,
-      "Ashen Predator's Poleyn",
+      "Ashen Predator's Poleyns",
       "Rodilleras de depredador cinéreo",
       "Joelheira do Predador Cinzento",
-      "Ashen Predator's Poleyn",
+      "Ashen Predator's Poleyns",
       "Polainas de depredador cinéreo",
       "Genouillères de prédation des cendres",
       "Наколенники пепельного хищника",
       "Kniebuckel des aschenen Raubtiers",
       "Joelheira do Predador Cinzento",
-      "Coprigambe del Predatore Cinereo",
+      "Ginocchielle del Predatore Cinereo",
       "잿빛 포식자의 무릎받이",
       "灰燼捕獵者的膝鎧",
       "灰烬掠食者的护膝"
@@ -16228,7 +16249,7 @@
       "Spallacci Alati dei Segreti d'Ossidiana",
       "흑요석 비밀의 날개갑옷",
       "黑曜秘密肩翼",
-      "黑曜奥秘翼展"
+      "黑曜奥秘肩翼"
     ],
     "Media": "inv_shoulder_mail_raidevokerdragon_d_01.jpg"
   },
@@ -17047,7 +17068,7 @@
       "Veste dell'Evocatore di Sottoluce",
       "미명 창조술사의 예복",
       "粼光咒術師的外衣",
-      "幽光咒法师的法衣"
+      "幽光咒法师的祭服"
     ],
     "Media": "inv_chest_cloth_raidmagedragon_d_01.jpg"
   },
@@ -17721,6 +17742,27 @@
       "金屬鑰匙和護盾停用",
       "禁用金属钥匙和盾牌"
     ]
+  },
+  {
+    "TagId": 205899,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_axe_2h_cataclysm_b_02.jpg"
   },
   {
     "TagId": 205900,
@@ -18962,6 +19004,27 @@
     "Media": "inv_axe_2h_draenorraid_d_01.jpg"
   },
   {
+    "TagId": 205978,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Glob of Azmerloth Slime",
+      "Pegote de baba de Azmerloth",
+      "Bola de Visgo de Azmerloth",
+      "Glob of Azmerloth Slime",
+      "Pegote de baba de Azmerloth",
+      "Goutte de bave d’Azmerloth",
+      "Сгусток азмерлотской слизи",
+      "Klumpen Schleim aus Azmerloth",
+      "Bola de Visgo de Azmerloth",
+      "Globo di Melma di Azmerloth",
+      "아즈메로스 점액 방울",
+      "一團亞茲莫洛斯泥漿",
+      "艾鱼拉斯粘液球"
+    ],
+    "Media": "inv_misc_food_legion_gooslime_chunk.jpg"
+  },
+  {
     "TagId": 205980,
     "TagType": 21,
     "Names": [
@@ -19072,7 +19135,7 @@
     "Names": [
       null,
       "Loamm Niffen Insignia",
-      "Insignia de los olfatopos de Loamm",
+      "Insignia de los Olfatopos de Loamm",
       "Insígnia dos Farins de Argília",
       "Loamm Niffen Insignia",
       "Insignia de los Niffen de Loamm",

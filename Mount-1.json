@@ -2559,7 +2559,7 @@
       "雪岩風爪獅鷲獸",
       "大理石暴风之爪"
     ],
-    "Media": "inv_encrypted22.jpg"
+    "Media": "inv_encrypted21.jpg"
   },
   {
     "TagId": 1267,
@@ -2580,7 +2580,7 @@
       "雪岩雷翼蠍尾獅",
       "大理石雷霆之翼"
     ],
-    "Media": "inv_encrypted21.jpg"
+    "Media": "inv_encrypted22.jpg"
   },
   {
     "TagId": 1269,
@@ -7284,7 +7284,7 @@
       "『破曉使者』阿薩達",
       "艾什阿达，晨曦使者"
     ],
-    "Media": "inv_dawnsaber.jpg"
+    "Media": "ability_nightsaber2mountsunmoon.jpg"
   },
   {
     "TagId": 1578,
@@ -7640,7 +7640,7 @@
       "憤怒融合獸",
       "愤怒阿玛甘"
     ],
-    "Media": "inv_amalgamofrage.jpg"
+    "Media": "inv_cerberusmount.jpg"
   },
   {
     "TagId": 1597,
@@ -8437,7 +8437,7 @@
       "霜育元龍",
       "霜巢始祖魔龙"
     ],
-    "Media": "inv_frostbroodprotowyrm.jpg"
+    "Media": "inv_protodragonfrostwyrm.jpg"
   },
   {
     "TagId": 1681,
@@ -8608,6 +8608,26 @@
     "Media": "inv_companionprotodragon.jpg"
   },
   {
+    "TagId": 1692,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Wonderous Wavewhisker",
+      "Bagre batiolas",
+      "Barbilhão Maravilha",
+      "Wonderous Wavewhisker",
+      "Ondeamostacho maravilloso",
+      "Siluridé merveilleux",
+      "Восхитительный волноус",
+      "Wunderbarer Wellenschnauzer",
+      "Barbilhão Maravilha",
+      "Battionde Straordinario",
+      "경이로운 파도수염",
+      "奇妙的浪鬚",
+      "神谜掠波者"
+    ]
+  },
+  {
     "TagId": 1698,
     "TagType": 22,
     "Names": [
@@ -8626,7 +8646,7 @@
       "火箭伐木機9001型",
       "火箭伐木机9001型"
     ],
-    "Media": "inv_rocketshredder9001.jpg"
+    "Media": "inv_goblinshredderrocketmount.jpg"
   },
   {
     "TagId": 1725,
@@ -8902,6 +8922,258 @@
     "Media": "ability_mount_hordescorpiongreen.jpg"
   },
   {
+    "TagId": 1744,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Grotto Netherwing Drake",
+      "Draco Ala Abisal de gruta",
+      "Draco Asa Etérea da Gruta",
+      "Grotto Netherwing Drake",
+      "Draco Ala Abisal de las grutas",
+      "Drake de l’Aile-du-Néant cavernicole",
+      "Дракон Крыльев Пустоты из грота",
+      "Grottendrache der Netherschwingen",
+      "Draco Asa Etérea da Gruta",
+      "Draco Alafatua della Grotta",
+      "동굴 황천날개 비룡",
+      "岩洞虛空之翼龍",
+      "岩洞灵翼幼龙"
+    ],
+    "Media": "inv_companiondrake_netherwing_teal.jpg"
+  },
+  {
+    "TagId": 1771,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Highland Drake",
+      "Draco de las Tierras Altas",
+      "Draco do Planalto",
+      "Highland Drake",
+      "Draco de las Tierras Altas",
+      "Drake des hautes-terres",
+      "Дракон нагорья",
+      "Hochlanddrache",
+      "Draco do Planalto",
+      "Draco delle Alture",
+      "고원 비룡",
+      "高地飛龍",
+      "高地幼龙"
+    ],
+    "Media": "inv_companiondrake.jpg"
+  },
+  {
+    "TagId": 1772,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Scarlet Pterrordax",
+      "Pterrordáctilo escarlata",
+      "Pterrordax Escarlate",
+      "Scarlet Pterrordax",
+      "Pterrordáctilo escarlata",
+      "Pterreurdactyle écarlate",
+      "Алый терродактиль",
+      "Scharlachroter Pterrordax",
+      "Pterrordax Escarlate",
+      "Pterrordattilo Scarlatto",
+      "진홍빛 테러닥스",
+      "赤紅翼手龍",
+      "猩红翼手龙"
+    ],
+    "Media": "inv_pterrordax2mount_red.jpg"
+  },
+  {
+    "TagId": 1773,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Harbor Gryphon",
+      "Puerto de grifo",
+      "Grifo do Porto",
+      "Harbor Gryphon",
+      "Grifo del puerto",
+      "Griffon du port",
+      "Портовый грифон",
+      "Hafengreif",
+      "Grifo do Porto",
+      "Grifone del Porto",
+      "항구 그리핀",
+      "港灣獅鷲獸",
+      "海港狮鹫"
+    ],
+    "Media": "inv_misc_elitegryphon.jpg"
+  },
+  {
+    "TagId": 1774,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Valiance",
+      "Heroísmo",
+      "Valentia",
+      "Valiance",
+      "Denuedo",
+      "Bravoure",
+      "Отвага",
+      "Tapferkeit",
+      "Valentia",
+      "Arditezza",
+      "투혼마",
+      "驍勇",
+      "英勇"
+    ],
+    "Media": "ability_mount_undeadhorse.jpg"
+  },
+  {
+    "TagId": 1776,
+    "TagType": 22,
+    "Names": [
+      null,
+      "White War Wolf",
+      "Lobo de guerra blanco",
+      "Lobo de Guerra Branco",
+      "White War Wolf",
+      "Lobo de guerra blanco",
+      "Loup de guerre blanc",
+      "Белый боевой волк",
+      "Weißer Kriegswolf",
+      "Lobo de Guerra Branco",
+      "Lupo da Guerra Bianco",
+      "흰색 전투늑대",
+      "白色戰狼",
+      "雪白战狼"
+    ],
+    "Media": "ability_mount_whitedirewolf.jpg"
+  },
+  {
+    "TagId": 1777,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ravenous Black Gryphon",
+      "Grifo negro voraz",
+      "Grifo Preto Voraz",
+      "Ravenous Black Gryphon",
+      "Grifo negro voraz",
+      "Griffon noir vorace",
+      "Прожорливый черный грифон",
+      "Hungriger schwarzer Greif",
+      "Grifo Preto Voraz",
+      "Grifone Nero Vorace",
+      "게걸스러운 검은색 그리핀",
+      "黑色飢餓獅鷲獸",
+      "贪婪的黑色狮鹫"
+    ],
+    "Media": "inv_misc_elitegryphon.jpg"
+  },
+  {
+    "TagId": 1778,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Gold-Toed Albatross",
+      "Albatros dedos de oro",
+      "Albatroz Dedo-de-ouro",
+      "Gold-Toed Albatross",
+      "Albatros de garfas doradas",
+      "Albatros à palmes dorées",
+      "Златолапый альбатрос",
+      "Goldzehenalbatros",
+      "Albatroz Dedo-de-ouro",
+      "Albatros dalle Zampe Dorate",
+      "황금발 알바트로스",
+      "金爪信天翁",
+      "金趾信天翁"
+    ],
+    "Media": "inv_vulturemount_alabatrosswhite.jpg"
+  },
+  {
+    "TagId": 1779,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Felstorm Dragon",
+      "Dragón tormenta vil",
+      "Dragão Tempestavil",
+      "Felstorm Dragon",
+      "Dragón de tormenta vil",
+      "Dragon gangrorage",
+      "Дракон бури Скверны",
+      "Teufelssturmdrache",
+      "Dragão Tempestavil",
+      "Drago della Viltempesta",
+      "지옥폭풍 용",
+      "魔化風暴巨龍",
+      "邪能风暴巨龙"
+    ],
+    "Media": "inv_stormdragonmount2_fel.jpg"
+  },
+  {
+    "TagId": 1781,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sulfur Hound",
+      "Sabueso de azufre",
+      "Cão Sulfuroso",
+      "Sulfur Hound",
+      "Can de azufre",
+      "Chien de soufre",
+      "Серная гончая",
+      "Schwefelhund",
+      "Cão Sulfuroso",
+      "Segugio Sulfureo",
+      "유황 사냥개",
+      "硫磺獵犬",
+      "硫磺恶犬"
+    ],
+    "Media": "ability_hunter_pet_corehound.jpg"
+  },
+  {
+    "TagId": 1782,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Perfected Juggernaut",
+      "Gigante perfeccionado",
+      "Jaganata Aperfeiçoado",
+      "Perfected Juggernaut",
+      "Gigante perfeccionado",
+      "Mastodonte perfectionné",
+      "Отлаженный исполин",
+      "Perfektionierter Koloss",
+      "Jaganata Aperfeiçoado",
+      "Mastodonte Perfetto",
+      "완벽한 거대괴수",
+      "完全體破滅邪神",
+      "完美战蝎"
+    ],
+    "Media": "ability_mount_ironjuggernautmount.jpg"
+  },
+  {
+    "TagId": 1783,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Scourgebound Vanquisher",
+      "Vencedor de la Plaga",
+      "Subjugador do Flagelo",
+      "Scourgebound Vanquisher",
+      "Vencedor vinculado a la Plaga",
+      "Vainqueur lié au Fléau",
+      "Покоритель Плети",
+      "Geißelgebundener Bezwinger",
+      "Subjugador do Flagelo",
+      "Dominatore della Genia del Flagello",
+      "스컬지결속 제압자",
+      "天譴鎮壓者",
+      "灾缚征服者"
+    ],
+    "Media": "ability_mount_redfrostwyrm_01.jpg"
+  },
+  {
     "TagId": 1784,
     "TagType": 22,
     "Names": [
@@ -8921,5 +9193,131 @@
       "皇家群聚者"
     ],
     "Media": "inv_aqirflyingmount_yellow.jpg"
+  },
+  {
+    "TagId": 1786,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Renewed Proto-Drake",
+      "Protodraco renovado",
+      "Protodraco Renovado",
+      "Renewed Proto-Drake",
+      "Protodraco renovado",
+      "Proto-drake renouvelé",
+      "Обновленный протодракон",
+      "Erneuerter Protodrache",
+      "Protodraco Renovado",
+      "Proto-Draco Rinnovato",
+      "소생한 원시비룡",
+      "再生元龍",
+      "复苏始祖幼龙"
+    ],
+    "Media": "inv_companionprotodragon.jpg"
+  },
+  {
+    "TagId": 1787,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Windborne Velocidrake",
+      "Velocidraco vendaval",
+      "Velocidraco Pairavento",
+      "Windborne Velocidrake",
+      "Velocidraco natoviento",
+      "Vélocidrake vogue-vents",
+      "Воздушный велоцидракон",
+      "Windgeborener Velocidrache",
+      "Velocidraco Pairavento",
+      "Velocidraco del Vento",
+      "바람내기 벨로시비룡",
+      "烈風迅疾龍",
+      "载风迅疾幼龙"
+    ],
+    "Media": "inv_companionpterrordaxdrake.jpg"
+  },
+  {
+    "TagId": 1788,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Cliffside Wylderdrake",
+      "Draco salvaje de risco",
+      "Dracarisco do Penhasco",
+      "Cliffside Wylderdrake",
+      "Dracosalvaje del acantilado",
+      "Drake-sauvage des falaises",
+      "Горный вивернодракон",
+      "Klippenwilddrache",
+      "Dracarisco do Penhasco",
+      "Dracobrado della Rupe",
+      "절벽 황야비룡",
+      "峭壁荒野飛龍",
+      "崖际荒狂幼龙"
+    ],
+    "Media": "inv_companionwyvern.jpg"
+  },
+  {
+    "TagId": 1789,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Winding Slitherdrake",
+      "Dracorreptante sinuoso",
+      "Dracoleante Sinuoso",
+      "Winding Slitherdrake",
+      "Reptadraco sinuoso",
+      "Glissedrake méandrique",
+      "Скользящий дракозмей",
+      "Schlängelnder Kriecherdrache",
+      "Dracoleante Sinuoso",
+      "Dracondoso Serpeggiante",
+      "구불구불한 비단비룡",
+      "盤旋滑龍",
+      "盘曲蜿变幼龙"
+    ],
+    "Media": "inv_companionserpent.jpg"
+  },
+  {
+    "TagId": 1794,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Pattie",
+      "Pattie",
+      "Alpati",
+      "Pattie",
+      "Pattie",
+      "Pattie",
+      "Патти",
+      "Pattie",
+      "Alpati",
+      "Pattie",
+      "패티",
+      "派蒂",
+      "帕蒂"
+    ],
+    "Media": "inv_alpacamount_ivory.jpg"
+  },
+  {
+    "TagId": 1796,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Temp",
+      "Temp",
+      "Temporário",
+      "Temp",
+      "Temp",
+      "Temporaire",
+      "Temp",
+      "Temp",
+      "Temporário",
+      "Temp",
+      "임시",
+      "Temp",
+      "临时"
+    ],
+    "Media": "inv_dragonwhelp3_bronze.jpg"
   }
 ]

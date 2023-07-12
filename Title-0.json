@@ -7795,7 +7795,7 @@
       "%s, Fã de Camisetas",
       "%s il Fanatico delle Camicie",
       "티셔츠 애호가 %s",
-      "『T恤衫狂熱者』%s",
+      "『T恤狂熱者』%s",
       "%s, T恤爱好者"
     ]
   },
@@ -9660,6 +9660,26 @@
     ]
   },
   {
+    "TagId": 763,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Kalimdor Racer %s",
+      "Velocista de Kalimdor %s",
+      "Corredor de Kalimdor %s",
+      "Kalimdor Racer %s",
+      "Corredor de Kalimdor %s",
+      "%s, pilote de Kalimdor",
+      "Калимдорский гонщик %s",
+      "Kalimdorflitzer %s",
+      "Corredor de Kalimdor %s",
+      "Corridore Kalimdor %s",
+      "칼림도어 경주자 %s",
+      "卡林多競速騎師%s",
+      "卡利姆多赛手 %s"
+    ]
+  },
+  {
     "TagId": 765,
     "TagType": 31,
     "Names": [
@@ -9750,7 +9770,7 @@
       "%s, Barter Boss",
       "%s, Señor del trueque",
       "%s, spécialiste du marchandage",
-      "%s босс бартера",
+      "%s, босс бартера",
       "%s, Tauschboss",
       "%s, Chefe Troqueiro",
       "Boss del Baratto %s",
@@ -9796,7 +9816,7 @@
       "%s l'Eroe Ardente",
       "이글거리는 영웅 %s",
       "『悶燃英雄』%s",
-      "%s, 阴燃英雄"
+      "%s，阴燃英雄"
     ]
   },
   {
@@ -9897,6 +9917,86 @@
       "자랄레크 동굴 경주자 %s",
       "扎拉萊克洞窟競速騎師 %s",
       "查拉雷克洞窟竞速者 %s"
+    ]
+  },
+  {
+    "TagId": 777,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Whelptender %s",
+      "Cuidador %s",
+      "Cuidador de Dragonetes %s",
+      "Whelptender %s",
+      "Cuidador de Crías %s",
+      "%s, soigneur de Dragonnets",
+      "Драконья нянька %s",
+      "Welpenhüter %s",
+      "Cuidador de Dragonetes %s",
+      "Custode dei Draghetti %s",
+      "새끼용지기 %s",
+      "幼龍看管者%s",
+      "雏龙看护者 %s"
+    ]
+  },
+  {
+    "TagId": 781,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s Unparalleled",
+      "%s incomparable",
+      "%s, o Sem Paralelo",
+      "%s Unparalleled",
+      "%s el Incomparable",
+      "%s l’Inégalable",
+      "Несравненный %s",
+      "%s der Unvergleichliche",
+      "%s, o Sem Paralelo",
+      "%s l'Impareggiabile",
+      "우주 유일의 %s",
+      "舉世無雙的%s",
+      "无双的%s"
+    ]
+  },
+  {
+    "TagId": 782,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s The Inquisitve",
+      "%s el Inquisidor",
+      "%s, o Inquisitivo",
+      "%s The Inquisitve",
+      "%s el Curioso",
+      "%s l’Inquisiteur",
+      "Любопытный %s",
+      "%s Der Wissbegierige",
+      "%s, o Inquisitivo",
+      "%s l'Inquisitorio",
+      "명탐정 %s",
+      "『好奇寶寶』%s",
+      "好奇者 %s"
+    ]
+  },
+  {
+    "TagId": 783,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s of the Infinite",
+      "%s del infinito",
+      "%s do Infinito",
+      "%s of the Infinite",
+      "%s del Infinito",
+      "%s de l’Infini",
+      "%s из рода Бесконечности",
+      "%s des Ewigen",
+      "%s do Infinito",
+      "%s dell'Infinito",
+      "무한자 %s",
+      "『恆龍』%s",
+      "永恒龙军团的%s"
     ]
   }
 ]
