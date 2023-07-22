@@ -4624,21 +4624,21 @@
     "TagType": 30,
     "Names": [
       null,
-      "Minute Glass",
-      "Reloj de arena de un minuto",
-      "Ampulheta",
-      "Minute Glass",
-      "Cristal de minutos",
-      "Sablier minute",
-      "Минутные часы",
-      "Minutenglas",
-      "Ampulheta",
-      "Clessidra",
-      "분 단위 모래시계",
-      "計時沙漏",
-      "分钟沙漏"
+      "Snow Blanket",
+      "Manta de nieve",
+      "Cobertor de Neve",
+      "Snow Blanket",
+      "Manta para la nieve",
+      "Couverture neigeuse",
+      "Снежное одеяло",
+      "Schneedecke",
+      "Cobertor de Neve",
+      "Coperta di Neve",
+      "눈의 담요",
+      "雪毯",
+      "雪地毯子"
     ],
-    "Media": "achievement_challengemode_scarlethalls_hourglass.jpg"
+    "Media": "inv_fabric_frostweave_imbuedbolt.jpg"
   },
   {
     "TagId": 1301,
@@ -5542,5 +5542,26 @@
       "静滞砂砾"
     ],
     "Media": "inv_10_enchanting2_magicswirl_bronze.jpg"
+  },
+  {
+    "TagId": 1353,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Minute Glass",
+      "Reloj de arena de un minuto",
+      "Ampulheta",
+      "Minute Glass",
+      "Cristal de minutos",
+      "Sablier minute",
+      "Минутные часы",
+      "Minutenglas",
+      "Ampulheta",
+      "Clessidra",
+      "분 단위 모래시계",
+      "計時沙漏",
+      "分钟沙漏"
+    ],
+    "Media": "achievement_challengemode_scarlethalls_hourglass.jpg"
   }
 ]
