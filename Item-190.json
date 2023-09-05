@@ -2157,7 +2157,7 @@
       "Manoplas do Vigia Solene",
       "Guanti Lunghi del Sorvegliante Solenne",
       "근엄한 감시자의 건틀릿",
-      "莊嚴看守者護手",
+      "嚴正守望者護手",
       "庄严守卫的护手"
     ],
     "Media": "inv_glove_mail_chain_c_01.jpg"
@@ -10498,6 +10498,27 @@
     "Media": "inv_shield_1h_felfireraid_d_02.jpg"
   },
   {
+    "TagId": 190693,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancestral Stonehoof Totem",
+      "Tótem ancestral Pezuña Pétrea",
+      "Totem Casco de Pedra Ancestral",
+      "Ancestral Stonehoof Totem",
+      "Tótem Pezuña Pétrea ancestral",
+      "Totem de Sabot-de-Pierre ancestral",
+      "Тотем предков Каменного Копыта",
+      "Steinhuftotem der Ahnen",
+      "Totem Casco de Pedra Ancestral",
+      "Totem Ancestrale degli Zoccolo Granitico",
+      "선대 돌발굽의 토템",
+      "先祖石蹄圖騰",
+      "先祖石蹄图腾"
+    ],
+    "Media": "inv_cape_special_totembackpack_b_01.jpg"
+  },
+  {
     "TagId": 190694,
     "TagType": 21,
     "Names": [
@@ -10513,7 +10534,7 @@
       "Cinto do Vigia Solene",
       "Cintura del Sorvegliante Solenne",
       "근엄한 감시자의 허리띠",
-      "莊嚴看守者腰帶",
+      "嚴正守望者腰帶",
       "庄严守卫的腰带"
     ],
     "Media": "inv_belt_mail_chain_c_01.jpg"
@@ -10534,7 +10555,7 @@
       "Botas do Vigia Solene",
       "Stivali del Sorvegliante Solenne",
       "근엄한 감시자의 장화",
-      "莊嚴看守者長靴",
+      "嚴正守望者長靴",
       "庄严守卫的长靴"
     ],
     "Media": "inv_boot_mail_chain_c_01.jpg"
@@ -10874,6 +10895,27 @@
       "奥术师的刺棒"
     ],
     "Media": "inv_wand_1h_draenorhonors2_c_01.jpg"
+  },
+  {
+    "TagId": 190712,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancestral Skychaser Totem",
+      "Tótem ancestral Cazacielos",
+      "Totem Persegue-céus Ancestral",
+      "Ancestral Skychaser Totem",
+      "Tótem de cazacielos ancestral",
+      "Totem de Chasse-le-Ciel ancestral",
+      "Тотем предков Небесного Охотника",
+      "Himmelsjägertotem der Ahnen",
+      "Totem Persegue-céus Ancestral",
+      "Totem Ancestrale dei Preda Cielo",
+      "선대 하늘추적자의 토템",
+      "先祖逐星圖騰",
+      "先祖逐空者的图腾"
+    ],
+    "Media": "inv_cape_special_totembackpack_b_01.jpg"
   },
   {
     "TagId": 190713,
@@ -13201,7 +13243,7 @@
       "Calçotes do Vigia Solene",
       "Calzoni del Sorvegliante Solenne",
       "근엄한 감시자의 바지",
-      "莊嚴看守者長褲",
+      "嚴正守望者長褲",
       "庄严守卫的长裤"
     ],
     "Media": "inv_pant_mail_chain_c_01.jpg"
@@ -13621,7 +13663,7 @@
       "Corselete do Vigia Solene",
       "Corazza del Sorvegliante Solenne",
       "근엄한 감시자의 흉갑",
-      "莊嚴看守者背心甲",
+      "嚴正守望者背心甲",
       "庄严守卫的胸甲"
     ],
     "Media": "inv_chest_mail_chain_c_01.jpg"
@@ -13873,7 +13915,7 @@
       "Espaldares do Vigia Solene",
       "Guardaspalle del Sorvegliante Solenne",
       "근엄한 감시자의 어깨덮개",
-      "莊嚴看守者肩甲",
+      "嚴正守望者肩甲",
       "庄严守卫的护肩"
     ],
     "Media": "inv_shoulder_mail_chain_c_01.jpg"
@@ -13957,7 +13999,7 @@
       "Elmo do Vigia Solene",
       "Elmo del Sorvegliante Solenne",
       "근엄한 감시자의 투구",
-      "莊嚴看守者頭盔",
+      "嚴正守望者頭盔",
       "庄严守卫的头盔"
     ],
     "Media": "inv_helm_mail_chain_c_01.jpg"
@@ -14318,6 +14360,27 @@
       "套装：流浪者的雪白之踏"
     ],
     "Media": "inv_collections_armor_hood_b_01_white.jpg"
+  },
+  {
+    "TagId": 190923,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Dashing Buccaneer's Slops",
+      "Conjunto: Ropaje de bucanero elegante",
+      "Indumentária: Trapos do Bucaneiro Audaz",
+      "Ensemble: Dashing Buccaneer's Slops",
+      "Indumentaria: Calzas de bucanero malandrín",
+      "Ensemble\u00A0: tenue de corsaire allègre",
+      "Комплект: обноски лихого буканьера",
+      "Ensemble: Kleidung des verwegenen Bukaniers",
+      "Indumentária: Trapos do Bucaneiro Audaz",
+      "Set: Stracci del Bucaniere Ardito",
+      "복장: 늠름한 해적의 의복",
+      "套裝：迅捷海盜裝",
+      "套装：风度海盗水手服"
+    ],
+    "Media": "inv_armor_bloodsailbuccaneer_b_01_chest.jpg"
   },
   {
     "TagId": 190926,

@@ -2755,19 +2755,19 @@
     "TagType": 20,
     "Names": [
       null,
-      "Draconically Superior",
-      "Dracónicamente superior",
-      "Superioridade dracônica",
-      "Draconically Superior",
-      "Dracónicamente superior",
-      "Draconiquement supérieur",
-      "Драконье превосходство",
-      "Drakonisch überragend",
-      "Superioridade dracônica",
-      "Draconicamente superiore",
-      "용군단 최고급 장비",
-      "攏精良",
-      "巨龙精良"
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior",
+      "[Hidden] [DO NOT USE] Draconically Superior"
     ],
     "Media": "spell_frost_wizardmark.jpg"
   },
@@ -2776,19 +2776,19 @@
     "TagType": 20,
     "Names": [
       null,
-      "Draconically Epic",
-      "Dracónicamente épico",
-      "Épico dracônico",
-      "Draconically Epic",
-      "Dracónicamente épico",
-      "Draconiquement épique",
-      "Драконья эпичность",
-      "Drakonisch episch",
-      "Épico dracônico",
-      "Draconicamente epico",
-      "용군단 영웅급 장비",
-      "攏史詩",
-      "巨龙史诗"
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic",
+      "[Hidden] [DO NOT USE] Draconically Epic"
     ],
     "Media": "inv_enchant_voidcrystal.jpg"
   },
@@ -6550,5 +6550,47 @@
       "请放回原处"
     ],
     "Media": "ability_evoker_reversion2.jpg"
+  },
+  {
+    "TagId": 18976,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Draconically Superior",
+      "Dracónicamente superior",
+      "Superioridade dracônica",
+      "Draconically Superior",
+      "Dracónicamente superior",
+      "Draconiquement supérieur",
+      "Драконье превосходство",
+      "Drakonisch überragend",
+      "Superioridade dracônica",
+      "Draconicamente superiore",
+      "용군단 최고급 장비",
+      "攏精良",
+      "巨龙精良"
+    ],
+    "Media": "spell_frost_wizardmark.jpg"
+  },
+  {
+    "TagId": 18977,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Draconically Epic",
+      "Dracónicamente épico",
+      "Épico dracônico",
+      "Draconically Epic",
+      "Dracónicamente épico",
+      "Draconiquement épique",
+      "Драконья эпичность",
+      "Drakonisch episch",
+      "Épico dracônico",
+      "Draconicamente epico",
+      "용군단 영웅급 장비",
+      "攏史詩",
+      "巨龙史诗"
+    ],
+    "Media": "inv_enchant_voidcrystal.jpg"
   }
 ]
