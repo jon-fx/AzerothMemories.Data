@@ -4628,7 +4628,7 @@
       "Enviar Evento de Jogo",
       "Send Game Event",
       "Enviar evento del juego",
-      "Envoyer événement de jeu",
+      "Envoyer évènement de jeu",
       "Оправить игровое событие",
       "Spielereignis senden",
       "Enviar Evento de Jogo",
@@ -4932,6 +4932,27 @@
       "强化灵界打击"
     ],
     "Media": "spell_deathknight_butcher2.jpg"
+  },
+  {
+    "TagId": 374278,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Renewed Magmammoth",
+      "Magmamut renovado",
+      "Magmamute Renovado",
+      "Renewed Magmammoth",
+      "Magmamut renovado",
+      "Magmammouth reconstitué",
+      "Обновленный магмонт",
+      "Erneuertes Magmammut",
+      "Magmamute Renovado",
+      "Magmammut Rinnovato",
+      "소생한 용암 매머드",
+      "再生熔岩猛瑪象",
+      "复苏岩浆猛犸"
+    ],
+    "Media": "inv_mammoth2lavamount_yellow.jpg"
   },
   {
     "TagId": 374279,
@@ -7815,19 +7836,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)",
-      "10.0 Jewelcrafting Recipe Template (DNT)"
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)",
+      "10.0 Jewelcrafting - Recipe Template (DNT)"
     ],
     "Media": "trade_alchemy.jpg"
   },
@@ -10577,7 +10598,7 @@
       "Colhendo",
       "Raccolta",
       "수집 중",
-      "取得",
+      "收集",
       "采集"
     ],
     "Media": "trade_engineering.jpg"

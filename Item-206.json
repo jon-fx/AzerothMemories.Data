@@ -1308,13 +1308,13 @@
       null,
       "Time-Displaced Toy",
       "Juguete cronodesplazado",
-      "Brinquedo de Deslocamento no Tempo",
+      "Brinquedo Deslocado no Tempo",
       "Time-Displaced Toy",
       "Juguete desplazado en el tiempo",
       "Jouet déplacé dans le temps",
       "Затерянная во времени игрушка",
       "Zeitversetztes Spielzeug",
-      "Brinquedo de Deslocamento no Tempo",
+      "Brinquedo Deslocado no Tempo",
       "Giocattolo Dislocato nel Tempo",
       "시간 변위된 장난감",
       "時空錯置的玩具",
@@ -1867,6 +1867,27 @@
       "黑曜装备箱"
     ],
     "Media": "inv_misc_treasurechest01d.jpg"
+  },
+  {
+    "TagId": 206204,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Recovered Tuskarr Relic",
+      "Reliquia colmillarr recuperada",
+      "Relíquia Morsana Recuperada",
+      "Recovered Tuskarr Relic",
+      "Reliquia colmillarr recuperada",
+      "Relique rohart récupérée",
+      "Возвращенная реликвия клыкарров",
+      "Geborgenes Relikt der Tuskarr",
+      "Relíquia Morsana Recuperada",
+      "Reliquia dei Tuskarr Recuperata",
+      "회수한 투스카르 유물",
+      "取回的巨牙海民文物",
+      "找回的海象人圣物"
+    ],
+    "Media": "trade_archaeology_tuskarr_stele.jpg"
   },
   {
     "TagId": 206205,
@@ -3166,7 +3187,7 @@
       "Trasmogrificatore Etereo",
       "에테리얼 형상변환사",
       "以太族塑形師",
-      "虚灵幻化器"
+      "虚灵幻化师"
     ],
     "Media": "ability_racial_etherealconnection.jpg"
   },
@@ -4723,6 +4744,27 @@
       "设计图：粉碎者"
     ],
     "Media": "inv_misc_scrollrolled02c.jpg"
+  },
+  {
+    "TagId": 206353,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sentinel's Whistle",
+      "Silbato de centinela",
+      "Apito da Sentinela",
+      "Sentinel's Whistle",
+      "Silbato de centinela",
+      "Sifflet de Sentinelle",
+      "Свисток часового",
+      "Pfeife der Schildwache",
+      "Apito da Sentinela",
+      "Fischietto della Sentinella",
+      "파수꾼의 호루라기",
+      "哨兵的哨子",
+      "哨兵的哨子"
+    ],
+    "Media": "ability_hunter_beastcall.jpg"
   },
   {
     "TagId": 206354,
@@ -6846,6 +6888,27 @@
     "Media": "inv_trinket_fragmentofseschenal.jpg"
   },
   {
+    "TagId": 206476,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tyr's Guard Equipment",
+      "Equipo de guardia de Tyr",
+      "Equipamento da Guarda de Tyr",
+      "Tyr's Guard Equipment",
+      "Equipo de la Guardia de Tyr",
+      "Équipement de la Garde de Tyr",
+      "Снаряжение Стражей Тира",
+      "Ausrüstung von Tyrs Wache",
+      "Equipamento da Guarda de Tyr",
+      "Equipaggiamento della Guardia di Tyr",
+      "티르의 수호병 장비",
+      "提爾的衛士裝備",
+      "提尔近卫装备"
+    ],
+    "Media": "inv_shield_1h_silverhand_b_02.jpg"
+  },
+  {
     "TagId": 206477,
     "TagType": 21,
     "Names": [
@@ -8200,7 +8263,7 @@
       "Ancient Plans: The Final Dream",
       "Diseño antiguo: El Sueño Final",
       "Plans anciens\u00A0: le dernier rêve",
-      "Древний чертеж: последний сон.",
+      "Древний чертеж: последний сон",
       "Uralte Pläne: Der letzte Traum",
       "Instruções Ancestrais: O Último Sonho",
       "Progetto Antico: Fine del Sogno",
@@ -8409,7 +8472,7 @@
       "Molde Ancestral: Brial Necrótico",
       "Ancient Pattern: Necrotic Gown",
       "Patrón antiguo: vestido necrótico",
-      "Patron ancien\u00A0: blouse nécrotique",
+      "Patron ancien\u00A0: robe longue nécrotique",
       "Древняя выкройка: некротическое платье",
       "Uraltes Muster: Nekrotische Robe",
       "Molde Ancestral: Brial Necrótico",
@@ -8678,7 +8741,7 @@
     "Names": [
       null,
       "Harbor Gryphon",
-      "Puerto de grifo",
+      "Grifo de puerto",
       "Grifo do Porto",
       "Harbor Gryphon",
       "Grifo del puerto",
@@ -9202,6 +9265,27 @@
     "TagType": 21,
     "Names": [
       null,
+      "Tome of Thomas Thomson",
+      "Tomo de Thomas Thomson",
+      "Tomo de Tomás Tomilho",
+      "Tome of Thomas Thomson",
+      "Escrito de Thomas Thomson",
+      "Tome de Thomas Thomson",
+      "Книга Томаса Томсона",
+      "Foliant von Thomas Thomson",
+      "Tomo de Tomás Tomilho",
+      "Tomo di Thomas Thomson",
+      "토마스 톰슨의 기도서",
+      "湯瑪斯‧托姆森的聖典",
+      "托马斯·汤姆森之书"
+    ],
+    "Media": "inv_misc_book_09.jpg"
+  },
+  {
+    "TagId": 206597,
+    "TagType": 21,
+    "Names": [
+      null,
       null,
       null,
       null,
@@ -9216,7 +9300,28 @@
       null,
       null
     ],
-    "Media": "inv_misc_note_01.jpg"
+    "Media": "inv_staff_41.jpg"
+  },
+  {
+    "TagId": 206598,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Smoldering Blossom",
+      "Flor humeante",
+      "Flor Fumegante",
+      "Smoldering Blossom",
+      "Flor incandescente",
+      "Floraison ardente",
+      "Тлеющий цветок",
+      "Schwelende Blüte",
+      "Flor Fumegante",
+      "Bocciolo Infuocato",
+      "이글거리는 꽃",
+      "悶燃花朵",
+      "焖燃之花"
+    ],
+    "Media": "inv_summerfest_fireflower.jpg"
   },
   {
     "TagId": 206599,
@@ -10492,7 +10597,7 @@
       "Записная книжка Гневиона",
       "Furorions Abrechnung",
       "Conta de Wrathion",
-      "Scheda di Irathion",
+      "Conto di Irathion",
       "래시온의 장부",
       "怒西昂的帳單",
       "拉希奥的酒账"
@@ -11146,7 +11251,7 @@
       "Calciasecchi",
       "양동이 차개",
       "踢桶蹬靴",
-      "踢桶者"
+      "踢桶靴"
     ],
     "Media": "inv_boot_plate_pvpdeathknight_e_01.jpg"
   },
@@ -11397,7 +11502,7 @@
       "Brafoneiras do Senhor do Fogo",
       "Paraspalle del Signore del Fuoco",
       "불의 군주의 견갑",
-      "火焰之王的肩鎧",
+      "炎魔的肩鎧",
       "炎魔之王的坩埚"
     ],
     "Media": "inv_shoulder_plate_raidwarrior_j_01.jpg"
@@ -11524,7 +11629,7 @@
       "Progetto Antico: Calciasecchi",
       "고대 도면: 양동이 차개",
       "遠古設計圖：踢桶蹬靴",
-      "古老的设计图：踢桶者"
+      "古老的设计图：踢桶靴"
     ],
     "Media": "inv_misc_scrollrolled02c.jpg"
   },
@@ -14049,6 +14154,27 @@
     "Media": "inv_hammer_1h_centaur_b_02.jpg"
   },
   {
+    "TagId": 206929,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hawlsey's Armor",
+      "Armadura de Hawlsey",
+      "Armadura de Haroldo",
+      "Hawlsey's Armor",
+      "Armadura de Hawlsey",
+      "Armure de Hawlsey",
+      "Доспехи Хоулзи",
+      "Hawlseys Rüstung",
+      "Armadura de Haroldo",
+      "Armatura di Hawlsey",
+      "할시의 방어구",
+      "霍瑟的鎧甲",
+      "霍尔西的护甲"
+    ],
+    "Media": "5366050.jpg"
+  },
+  {
     "TagId": 206931,
     "TagType": 21,
     "Names": [
@@ -14068,6 +14194,27 @@
       null
     ],
     "Media": "inv_sword_19.jpg"
+  },
+  {
+    "TagId": 206942,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sealed Kaldorei Scroll",
+      "Pergamino kaldorei sellado",
+      "Pergaminho Kaldorei Lacrado",
+      "Sealed Kaldorei Scroll",
+      "Pergamino kaldorei sellado",
+      "Parchemin kaldorei scellé",
+      "Запечатанный свиток калдорай",
+      "Versiegelte Schriftrolle der Kaldorei",
+      "Pergaminho Kaldorei Lacrado",
+      "Pergamena Sigillata dei Kaldorei",
+      "봉인된 칼도레이 두루마리",
+      "未開封的卡多雷卷軸",
+      "密封的卡多雷卷轴"
+    ],
+    "Media": "inv_scroll_05.jpg"
   },
   {
     "TagId": 206944,
@@ -14243,7 +14390,7 @@
     "Names": [
       null,
       "Paracausal Fragment of Doomhammer",
-      "Fragmento paracausal de martillo maldito",
+      "Fragmento paracausal de Martillo Maldito",
       "Fragmento Paracausal do Martelo da Perdição",
       "Paracausal Fragment of Doomhammer",
       "Fragmento paracausal de Martillo Maldito",
@@ -14411,7 +14558,7 @@
     "Names": [
       null,
       "Paracausal Fragment of Frostmourne",
-      "Fragmento paracausal de agonía de escarcha",
+      "Fragmento paracausal de Agonía de Escarcha",
       "Fragmento Paracausal da Gélido Lamento",
       "Paracausal Fragment of Frostmourne",
       "Fragmento paracausal de la Agonía de Escarcha",

@@ -7633,7 +7633,7 @@
       "Amalgam of Rage",
       "Amalgama de ira",
       "Amalgame de rage",
-      "Слияние ярости",
+      "Слияние гнева",
       "Amalgam der Wut",
       "Amálgama da Raiva",
       "Amalgama della Rabbia",
@@ -8105,6 +8105,27 @@
     "Media": "inv_mammoth2lavamount_red.jpg"
   },
   {
+    "TagId": 1645,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Renewed Magmammoth",
+      "Magmamut renovado",
+      "Magmamute Renovado",
+      "Renewed Magmammoth",
+      "Magmamut renovado",
+      "Magmammouth reconstitué",
+      "Возрожденный магмонт",
+      "Erneuertes Magmammut",
+      "Magmamute Renovado",
+      "Magmammut Rinnovato",
+      "소생한 용암 매머드",
+      "再生熔岩猛瑪象",
+      "复苏岩浆猛犸"
+    ],
+    "Media": "inv_mammoth2lavamount_yellow.jpg"
+  },
+  {
     "TagId": 1653,
     "TagType": 22,
     "Names": [
@@ -8376,6 +8397,27 @@
       "威严的重装龙麒"
     ],
     "Media": "inv_kirinmount_pale.jpg"
+  },
+  {
+    "TagId": 1671,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Duskwing Ohuna",
+      "Ohuna alaocaso",
+      "Ohuna Quiroscuro",
+      "Duskwing Ohuna",
+      "Ohuna Alaocaso",
+      "Ohuna crépuscaile",
+      "Тенекрылый охун",
+      "Dämmerschwingenohuna",
+      "Ohuna Quiroscuro",
+      "Ohuna Alascura",
+      "그늘날개 오후나",
+      "暮翼歐胡納鷹",
+      "暗翼欧胡纳"
+    ],
+    "Media": "inv_eagle2windmount_dark.jpg"
   },
   {
     "TagId": 1672,
@@ -8819,6 +8861,27 @@
     "Media": "inv_sporebatrock_stonered.jpg"
   },
   {
+    "TagId": 1737,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sandy Shalewing",
+      "Alaesquisto arenoso",
+      "Asaxisto Arenoso",
+      "Sandy Shalewing",
+      "Alaesquisto arenoso",
+      "Aile-de-schiste sablonneuse",
+      "Песчаный глинокрыл",
+      "Sandige Schieferschwinge",
+      "Asaxisto Arenoso",
+      "Alaroccia Sabbioso",
+      "잔모래 혈암날개",
+      "沙地岩翼蝠",
+      "流沙岩翼蝠"
+    ],
+    "Media": "inv_sporebatrock_stoneorange.jpg"
+  },
+  {
     "TagId": 1738,
     "TagType": 22,
     "Names": [
@@ -8992,7 +9055,7 @@
     "Names": [
       null,
       "Harbor Gryphon",
-      "Puerto de grifo",
+      "Grifo de puerto",
       "Grifo do Porto",
       "Harbor Gryphon",
       "Grifo del puerto",
@@ -9327,20 +9390,104 @@
     "TagType": 22,
     "Names": [
       null,
-      "Temp",
-      "Temp",
-      "Temporário",
-      "Temp",
-      "Temp",
-      "Temporaire",
-      "Temp",
-      "Temp",
-      "Temporário",
-      "Temp",
-      "임시",
-      "Temp",
-      "临时"
+      "Whelpling",
+      "Vástago",
+      "Dragonetinho",
+      "Whelpling",
+      "Vástago",
+      "Jeune Dragonnet",
+      "Дракончик",
+      "Welpling",
+      "Dragonetinho",
+      "Draghetto",
+      "새끼용",
+      "幼龍",
+      "雏龙"
     ],
     "Media": "inv_dragonwhelp3_bronze.jpg"
+  },
+  {
+    "TagId": 1797,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ginormous Grrloc",
+      "Grrloc gigantesco",
+      "Gnorme Grrloc",
+      "Ginormous Grrloc",
+      "Grrloc grlenorme",
+      "Grrloc gigantissime",
+      "Гигантский гррлок",
+      "Gigantischer Grrloc",
+      "Gnorme Grrloc",
+      "Grrloc Grandissimo",
+      "어마어마한 그르옳",
+      "超大鰭加洛克",
+      "鲲波尔奔"
+    ],
+    "Media": "inv_murlocmount_purple.jpg"
+  },
+  {
+    "TagId": 1798,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Azure Worldchiller",
+      "Enfriamundos azur",
+      "Gelamundo Lazúli",
+      "Azure Worldchiller",
+      "Hielamundos azur",
+      "Glacemonde azur",
+      "Лазурный ледокрушитель миров",
+      "Azurblauer Weltenkühler",
+      "Gelamundo Lazúli",
+      "Congelamondi Azzurro",
+      "하늘빛 세계빙결자",
+      "蒼藍凍世者",
+      "碧蓝凝世者"
+    ],
+    "Media": "inv_encrypted13_blue.jpg"
+  },
+  {
+    "TagId": 1799,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Eve's Ghastly Rider",
+      "Montura mortal de Eve",
+      "Possante Fantasmagórica da Eva",
+      "Eve's Ghastly Rider",
+      "Montura espectral de Eve",
+      "Chevaucheur terrifiant de la veillée",
+      "Призрачное помело кануна Тыквовина",
+      "Schreckensgefährt der Vornacht",
+      "Possante Fantasmagórica da Eva",
+      "Scopa Spettrale della Veglia",
+      "이브의 유령 기수",
+      "伊芙的鬼魅騎乘掃帚",
+      "伊芙的森怖骑行扫帚"
+    ],
+    "Media": "inv_broommount2_red.jpg"
+  },
+  {
+    "TagId": 1813,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Mimiron's Jumpjets",
+      "Aeronave de Mimiron",
+      "Saltos de Jato de Mimiron",
+      "Mimiron's Jumpjets",
+      "Aviones a reacción de Mimiron",
+      "Réacteurs de saut de Mimiron",
+      "Прыжковые двигатели Мимирона",
+      "Mimirons Sprungdüsen",
+      "Saltos de Jato de Mimiron",
+      "Saltarazzi di Mimiron",
+      "미미론의 도약추진기",
+      "彌米倫的噴射器",
+      "米米尔隆的垂直起降喷气机"
+    ],
+    "Media": "inv_hunterkillershipblue.jpg"
   }
 ]

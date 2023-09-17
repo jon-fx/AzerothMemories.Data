@@ -3234,6 +3234,27 @@
     "Media": "inv_misc_herb_07.jpg"
   },
   {
+    "TagId": 202182,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Acid Rifle",
+      "Rifle ácido",
+      "Rifle Ácido",
+      "Acid Rifle",
+      "Rifle de ácido",
+      "Fusil acide",
+      "Кислотное ружье",
+      "Säuregewehr",
+      "Rifle Ácido",
+      "Fucile Acido",
+      "산성 소총",
+      "酸液步槍",
+      "酸液步枪"
+    ],
+    "Media": "ability_creature_poison_02.jpg"
+  },
+  {
     "TagId": 202184,
     "TagType": 21,
     "Names": [
@@ -3274,6 +3295,48 @@
       "寒铸蠕虫肉"
     ],
     "Media": "inv_misc_food_137_meat.jpg"
+  },
+  {
+    "TagId": 202186,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boom Weed",
+      "Hierba explosiva",
+      "Erva Estrondosa",
+      "Boom Weed",
+      "Explotalíseas",
+      "Herbe explosive",
+      "Взрыв-трава",
+      "Bummkraut",
+      "Erva Estrondosa",
+      "Erba Esplosiva",
+      "폭탄풀",
+      "轟隆草",
+      "轰草"
+    ],
+    "Media": "inv_misc_herb_fireweed.jpg"
+  },
+  {
+    "TagId": 202187,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plagued Flesh",
+      "Carne apestada",
+      "Carne Pestilenta",
+      "Plagued Flesh",
+      "Carne apestada",
+      "Chair pestiférée",
+      "Чумная плоть",
+      "Verseuchtes Fleisch",
+      "Carne Pestilenta",
+      "Carne Infetta",
+      "역병에 걸린 살점",
+      "瘟疫肉塊",
+      "天灾肉块"
+    ],
+    "Media": "inv_misc_food_meat_raw_01_color04.jpg"
   },
   {
     "TagId": 202188,

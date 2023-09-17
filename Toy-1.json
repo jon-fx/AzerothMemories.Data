@@ -5518,7 +5518,7 @@
       "Trasmogrificatore Etereo",
       "에테리얼 형상변환사",
       "以太族塑形師",
-      "虚灵幻化器"
+      "虚灵幻化师"
     ],
     "Media": "ability_racial_etherealconnection.jpg"
   },
@@ -5544,6 +5544,69 @@
     "Media": "inv_10_enchanting2_magicswirl_bronze.jpg"
   },
   {
+    "TagId": 1348,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Compendium of the New Moon",
+      "Compendio de la Luna nueva",
+      "Compêndio da Lua Nova",
+      "Compendium of the New Moon",
+      "Compendio de la Luna nueva",
+      "Compendium de la nouvelle lune",
+      "Сборник новолуния",
+      "Kompendium des Neumonds",
+      "Compêndio da Lua Nova",
+      "Compendio della Luna Nuova",
+      "초승달의 전서",
+      "新月之書",
+      "新月纲要"
+    ],
+    "Media": "inv_misc_book_07.jpg"
+  },
+  {
+    "TagId": 1349,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Bronze Racer's Pennant",
+      "Grímpola de corredor bronce",
+      "Galhardete do Corredor de Bronze",
+      "Bronze Racer's Pennant",
+      "Grímpola de corredor bronce",
+      "Pennon de pilote en bronze",
+      "Бронзовый флаг гонщика",
+      "Wimpel des Bronzerenners",
+      "Galhardete do Corredor de Bronze",
+      "Vessillo del Corridore Bronzeo",
+      "청동 경주자의 깃발",
+      "銅牌騎師獎旗",
+      "青铜竞速者的旌旗"
+    ],
+    "Media": "inv_dragonwhelp3_bronze.jpg"
+  },
+  {
+    "TagId": 1350,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Mirror of Humility",
+      "Reflejo de humildad",
+      "Espelho da Humildade",
+      "Mirror of Humility",
+      "Espejo de humildad",
+      "Miroir d’humilité",
+      "Зеркало смирения",
+      "Spiegel der Demut",
+      "Espelho da Humildade",
+      "Specchio dell'Umiltà",
+      "겸손의 거울",
+      "謙遜之鏡",
+      "谦逊之镜"
+    ],
+    "Media": "inv_enchanting_wod_crystalshard.jpg"
+  },
+  {
     "TagId": 1353,
     "TagType": 30,
     "Names": [
@@ -5563,5 +5626,89 @@
       "分钟沙漏"
     ],
     "Media": "achievement_challengemode_scarlethalls_hourglass.jpg"
+  },
+  {
+    "TagId": 1355,
+    "TagType": 30,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_helmet_118.jpg"
+  },
+  {
+    "TagId": 1357,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Brew Barrel",
+      "Barril de cerveza",
+      "Barril de Cerveja",
+      "Brew Barrel",
+      "Barril de cerveza",
+      "Tonneau de bière",
+      "Бочонок с пойлом",
+      "Gebräufass",
+      "Barril de Cerveja",
+      "Barile di Birra",
+      "맥주통",
+      "酒桶",
+      "酒桶"
+    ],
+    "Media": "inv_cask_03.jpg"
+  },
+  {
+    "TagId": 1431,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Friendsurge Defenders",
+      "Defensores de oleada amistosa",
+      "Defensores do Surto Fraterno",
+      "Friendsurge Defenders",
+      "Defensores del Pico Amistoso",
+      "Défenseurs de la poussée amicale",
+      "Друзья Прилива Снов",
+      "Freundsprungverteidiger",
+      "Defensores do Surto Fraterno",
+      "Difensori Sovramici",
+      "친구쇄도 수호자",
+      "夢湧之友防衛者",
+      "情涌防御者"
+    ],
+    "Media": "inv_pet_diseasedsquirrel.jpg"
+  },
+  {
+    "TagId": 1432,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Dreamsurge Remnant",
+      "Vestigio de Oleada onírica",
+      "Remanescente do Surto Onírico",
+      "Dreamsurge Remnant",
+      "Remanente de Pico Onírico",
+      "Vestige de la poussée onirique",
+      "Остатки Прилива Снов",
+      "Traumsprungüberrest",
+      "Remanescente do Surto Onírico",
+      "Residuo Sovronirico",
+      "꿈결쇄도 잔재",
+      "夢境湧現殘片",
+      "梦涌残叶"
+    ],
+    "Media": "inv_relics_idolofhealth.jpg"
   }
 ]

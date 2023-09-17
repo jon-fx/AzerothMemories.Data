@@ -9313,7 +9313,7 @@
       "Островной гонщик %s",
       "Inselflitzer %s",
       "Corredor das Ilhas %s",
-      "%s Corridore delle Isole",
+      "%s, Corridore delle Isole",
       "섬의 경주자 %s",
       "巨龍群島競速騎師 %s",
       "群岛竞速者 %s"
@@ -9553,7 +9553,7 @@
       "Гонщик наоборот %s",
       "Gegenflitzer %s",
       "Corredor Invertido %s",
-      "Corridore Inverso %s",
+      "%s, Corridore Inverso",
       "역방향 경주자 %s",
       "逆向競速騎師 %s",
       "反向竞速者 %s"
@@ -9673,10 +9673,10 @@
       "Калимдорский гонщик %s",
       "Kalimdorflitzer %s",
       "Corredor de Kalimdor %s",
-      "Corridore Kalimdor %s",
+      "%s, Corridore di Kalimdor",
       "칼림도어 경주자 %s",
       "卡林多競速騎師%s",
-      "卡利姆多赛手 %s"
+      "卡利姆多竞速者 %s"
     ]
   },
   {
@@ -9940,6 +9940,26 @@
     ]
   },
   {
+    "TagId": 778,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Ama'shan %s",
+      "Ama'shan %s",
+      "Ama'shan %s",
+      "Ama'shan %s",
+      "Ama'shan %s",
+      "Ama’shan %s",
+      "Ама'шан %s",
+      "Ama'shan %s",
+      "Ama'shan %s",
+      "Ama'shan %s.",
+      "아마샨 %s",
+      "Ama'shan %s",
+      "阿玛杉 %s"
+    ]
+  },
+  {
     "TagId": 781,
     "TagType": 31,
     "Names": [
@@ -9964,16 +9984,16 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s The Inquisitve",
-      "%s el Inquisidor",
+      "%s the Inquisitive",
+      "%s, el Inquisidor",
       "%s, o Inquisitivo",
-      "%s The Inquisitve",
+      "%s the Inquisitive",
       "%s el Curioso",
       "%s l’Inquisiteur",
-      "Любопытный %s",
-      "%s Der Wissbegierige",
+      "Любознательный %s",
+      "%s der Wissbegierige",
       "%s, o Inquisitivo",
-      "%s l'Inquisitorio",
+      "%s, l'Avido di Sapere",
       "명탐정 %s",
       "『好奇寶寶』%s",
       "好奇者 %s"
@@ -9997,6 +10017,86 @@
       "무한자 %s",
       "『恆龍』%s",
       "永恒龙军团的%s"
+    ]
+  },
+  {
+    "TagId": 784,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Eastern Kingdoms Racer %s",
+      "Corredor de los Reinos del Este %s",
+      "%s, Corredor dos Reinos do Leste",
+      "Eastern Kingdoms Racer %s",
+      "Corredor de los Reinos del Este %s",
+      "%s, pilote des royaumes de l’Est",
+      "Гонщик Восточных королевств %s",
+      "%s, Flitzer der Östlichen Königreiche",
+      "%s, Corredor dos Reinos do Leste",
+      "%s, Corridore dei Regni Orientali",
+      "동부 왕국 경주자 %s",
+      "東部王國競速騎師%s",
+      "东部王国竞速者 %s"
+    ]
+  },
+  {
+    "TagId": 788,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Honorary Preservationist %s",
+      "Conservacionista honorario %s",
+      "Conservacionista Honorário %s",
+      "Honorary Preservationist %s",
+      "Ecologista Honorario %s",
+      "Préservateur honoraire %s",
+      "Почетный реставратор %s",
+      "Ehrenbewahrer %s",
+      "Conservacionista Honorário %s",
+      "Preservatore Onorario %s",
+      "명예 보존가 %s",
+      "榮譽保護學家%s",
+      "荣誉捍卫者 %s"
+    ]
+  },
+  {
+    "TagId": 790,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Outland Racer %s",
+      "Corredor de Terrallende %s",
+      "%s, Corredor de Terralém",
+      "Outland Racer %s",
+      "Corredor de Terrallende %s",
+      "%s, pilote de l’Outreterre",
+      "Гонщик Запределья %s",
+      "Scherbenweltflitzer %s",
+      "%s, Corredor de Terralém",
+      "%s, Corridore delle Terre Esterne",
+      "아웃랜드 경주자 %s",
+      "外域競速騎師%s",
+      "外域竞速者 %s"
+    ]
+  },
+  {
+    "TagId": 792,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Isles Ace %s",
+      "As de las Islas %s",
+      "Ás das Ilhas %s",
+      "Isles Ace %s",
+      "As de las Islas %s",
+      "As des îles %s",
+      "Островной ас %s",
+      "Inselflitzer %s",
+      "Ás das Ilhas %s",
+      "%s, Asso delle Isole",
+      "섬의 고수 %s",
+      "『群島王牌』%s",
+      "群岛王牌飞行员 %s"
     ]
   }
 ]
