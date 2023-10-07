@@ -8603,7 +8603,7 @@
       "Bastone di Comando del Preside",
       "교장의 명령",
       "院長之令",
-      "校长之令"
+      "院长之令"
     ],
     "Media": "inv_staff_2h_scholomance_d_01.jpg"
   },
@@ -12682,6 +12682,69 @@
     "Media": "inv_armor_bloodsailbuccaneer_b_01_chest.jpg"
   },
   {
+    "TagId": 190800,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleaming Mail Tabard",
+      "Tabardo de malla resplandeciente",
+      "Tabardo de Malha Rebrilhante",
+      "Gleaming Mail Tabard",
+      "Tabardo de malla reluciente",
+      "Tabard de mailles resplendissantes",
+      "Гербовая накидка сияющей брони",
+      "Schimmernder Panzerwappenrock",
+      "Tabardo de Malha Rebrilhante",
+      "Insegna di Maglia Lucente",
+      "빛나는 사슬 휘장",
+      "靈光鎖甲外袍",
+      "光鳞战袍"
+    ],
+    "Media": "inv_tabard_chainmail_a_01.jpg"
+  },
+  {
+    "TagId": 190801,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Shadowy Mail Tabard",
+      "Tabardo de malla sombrío",
+      "Tabardo de Malha Sombrio",
+      "Shadowy Mail Tabard",
+      "Tabardo de malla sombría",
+      "Tabard de mailles des ténèbres",
+      "Гербовая накидка темной брони",
+      "Schattenhafter Panzerwappenrock",
+      "Tabardo de Malha Sombrio",
+      "Insegna di Maglia Ombrosa",
+      "어둠의 사슬 휘장",
+      "幽影鎖甲外袍",
+      "暗鳞战袍"
+    ],
+    "Media": "inv_tabard_chainmail_a_01.jpg"
+  },
+  {
+    "TagId": 190802,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drape of Endless Twilight",
+      "Mantón de crepúsculo eterno",
+      "Clâmide do Crepúsculo sem Fim",
+      "Drape of Endless Twilight",
+      "Mantón del crepúsculo infinito",
+      "Drapé du crépuscule infini",
+      "Пелерина вечных сумерек",
+      "Tuch des endlosen Zwielichts",
+      "Clâmide do Crepúsculo sem Fim",
+      "Drappo del Crepuscolo Interminabile",
+      "끝없는 황혼의 외투",
+      "無盡暮光披氅",
+      "无尽暮光斗篷"
+    ],
+    "Media": "inv_cape_legionraidwarlock_d_01.jpg"
+  },
+  {
     "TagId": 190803,
     "TagType": 21,
     "Names": [
@@ -12701,6 +12764,27 @@
       "遗落侍僧长靴"
     ],
     "Media": "inv_boots_cloth_27.jpg"
+  },
+  {
+    "TagId": 190804,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wine-Soaked Hammer",
+      "Martillo empapado en vino",
+      "Martelo Encharcado de Vinho",
+      "Wine-Soaked Hammer",
+      "Martillo empapado en vino",
+      "Marteau imbibé de vin",
+      "Пропитавшийся вином молот",
+      "Weingetränkter Hammer",
+      "Martelo Encharcado de Vinho",
+      "Martello Intriso di Vino",
+      "와인에 적신 망치",
+      "浸酒之錘",
+      "泡酒锤"
+    ],
+    "Media": "inv_misc_1h_thunderlordwinehammer_a_01.jpg"
   },
   {
     "TagId": 190806,
