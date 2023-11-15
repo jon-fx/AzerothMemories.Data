@@ -6339,7 +6339,7 @@
       "受縛的暴風雪",
       "魔缚暴风雪"
     ],
-    "Media": "4054329.jpg"
+    "Media": "inv_snowelementalmount.jpg"
   },
   {
     "TagId": 1520,
@@ -8676,10 +8676,10 @@
     "TagType": 22,
     "Names": [
       null,
-      "Wonderous Wavewhisker",
+      "Wondrous Wavewhisker",
       "Bagre batiolas",
       "Barbilhão Maravilha",
-      "Wonderous Wavewhisker",
+      "Wondrous Wavewhisker",
       "Ondeamostacho maravilloso",
       "Siluridé merveilleux",
       "Восхитительный волноус",
@@ -8732,7 +8732,7 @@
       "發光梟獸",
       "闪光的月兽"
     ],
-    "Media": "inv_owlbearmount.jpg"
+    "Media": "inv_magicalowlbearmount.jpg"
   },
   {
     "TagId": 1725,
@@ -9425,7 +9425,7 @@
       "阿爾加風暴飛騎",
       "阿加驭雷者"
     ],
-    "Media": "5306251.jpg"
+    "Media": "inv_rostrumstormgryphon.jpg"
   },
   {
     "TagId": 1794,
@@ -9533,6 +9533,131 @@
     "Media": "inv_broommount2_red.jpg"
   },
   {
+    "TagId": 1801,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Verdant Armoredon",
+      "Armaduronte glauco",
+      "Armadurado Verdejante",
+      "Verdant Armoredon",
+      "Rinoceronte blindado verdeante",
+      "Armoredon verdoyant",
+      "Изумрудный бронедон",
+      "Tiefgrünes Panzerdon",
+      "Armadurado Verdejante",
+      "Coraceronte Verdeggiante",
+      "신록의 장갑무소",
+      "碧綠裝甲獸",
+      "苍郁厚甲龙"
+    ],
+    "Media": "inv_rhinoprimalmountdream.jpg"
+  },
+  {
+    "TagId": 1808,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Blossoming Dreamstag",
+      "Venado onírico florido",
+      "Cervonírico Florescente",
+      "Blossoming Dreamstag",
+      "Sueñovenado en flor",
+      "Cerf onirique bourgeonnant",
+      "Цветущий олень из Сна",
+      "Blühender Traumhirsch",
+      "Cervonírico Florescente",
+      "Cervonirico Fiorente",
+      "만발하는 꿈수사슴",
+      "繁花夢鹿",
+      "繁花梦麋"
+    ],
+    "Media": "inv_emeralddreamstagmount_green.jpg"
+  },
+  {
+    "TagId": 1809,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Suntouched Dreamstag",
+      "Venado onírico toquesol",
+      "Cervonírico Tocado pelo Sol",
+      "Suntouched Dreamstag",
+      "Sueñovenado tocado por el sol",
+      "Cerf onirique solegrâce",
+      "Лучезарный олень из Сна",
+      "Sonnenberührter Traumhirsch",
+      "Cervonírico Tocado pelo Sol",
+      "Cervonirico Toccasole",
+      "태양손길 꿈수사슴",
+      "日觸夢鹿",
+      "日灼梦麋"
+    ],
+    "Media": "inv_emeralddreamstagmount_golden.jpg"
+  },
+  {
+    "TagId": 1810,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Rekindled Dreamstag",
+      "Venado onírico reavivado",
+      "Cervonírico Reacendido",
+      "Rekindled Dreamstag",
+      "Sueñovenado reavivado",
+      "Cerf onirique ravivé",
+      "Пламенеющий олень из Сна",
+      "Wiederbelebter Traumhirsch",
+      "Cervonírico Reacendido",
+      "Cervonirico Riacceso",
+      "다시 타오르는 꿈수사슴",
+      "復燃夢鹿",
+      "复燃梦麋"
+    ],
+    "Media": "inv_emeralddreamstagmount_ashes.jpg"
+  },
+  {
+    "TagId": 1811,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Lunar Dreamstag",
+      "Venado onírico lunar",
+      "Cervonírico Lunar",
+      "Lunar Dreamstag",
+      "Sueñovenado lunar",
+      "Cerf onirique lunaire",
+      "Лунный олень из Сна",
+      "Mondtraumhirsch",
+      "Cervonírico Lunar",
+      "Cervonirico Lunare",
+      "달빛 꿈수사슴",
+      "月光夢鹿",
+      "月华梦麋"
+    ],
+    "Media": "inv_emeralddreamstagmount_frost.jpg"
+  },
+  {
+    "TagId": 1812,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Runebound Firelord",
+      "Señor del Fuego con vínculo rúnico",
+      "Senhor do Fogo Rúnico",
+      "Runebound Firelord",
+      "Señor del Fuego vincularrunas",
+      "Pyroseigneur runique",
+      "Скованный рунами Повелитель Огня",
+      "Runengebundener Feuerlord",
+      "Senhor do Fogo Rúnico",
+      "Signore del Fuoco Vincolato alle Rune",
+      "룬결속 불의 군주",
+      "紋縛炎魔",
+      "符契炎魔"
+    ]
+  },
+  {
     "TagId": 1813,
     "TagType": 22,
     "Names": [
@@ -9552,5 +9677,446 @@
       "米米尔隆的垂直起降喷气机"
     ],
     "Media": "inv_hunterkillershipblue.jpg"
+  },
+  {
+    "TagId": 1814,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Shadow Dusk Dreamsaber",
+      "Sableonírico del anochecer sombrío",
+      "Sabre-do-sonho do Crepúsculo Sombrio",
+      "Shadow Dusk Dreamsaber",
+      "Sable onírico del anochecer sombrío",
+      "Sabre de rêve du soir ombragé",
+      "Сумеречный саблезуб из Сна",
+      "Schattendämmertraumsäbler",
+      "Sabre-do-sonho do Crepúsculo Sombrio",
+      "Fieronirica del Vespro d'Ombra",
+      "어둠황혼 꿈표범",
+      "影暮夢刃豹",
+      "夕影梦刃豹"
+    ],
+    "Media": "inv_dreamsabermount_purple.jpg"
+  },
+  {
+    "TagId": 1815,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Winter Night Dreamsaber",
+      "Sableonírico nocturno invernal",
+      "Sabre-do-sonho da Noite Invernal",
+      "Winter Night Dreamsaber",
+      "Sable onírico de la noche invernal",
+      "Sabre de rêve de la nuit hiémale",
+      "Зимний саблезуб из Сна",
+      "Winternachttraumsäbler",
+      "Sabre-do-sonho da Noite Invernal",
+      "Fieronirica della Notte Invernale",
+      "겨울밤 꿈표범",
+      "冬夜夢刃豹",
+      "冬夜梦刃豹"
+    ],
+    "Media": "inv_dreamsabermount_blue.jpg"
+  },
+  {
+    "TagId": 1816,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Evening Sun Dreamsaber",
+      "Sableonírico soleado diurno",
+      "Sabre-do-sonho do Sol Noturno",
+      "Evening Sun Dreamsaber",
+      "Sable onírico del sol de poniente",
+      "Sabre de rêve du soleil couchant",
+      "Закатный саблезуб из Сна",
+      "Abendsonnentraumsäbler",
+      "Sabre-do-sonho do Sol Noturno",
+      "Fieronirica del Sole Serale",
+      "저녁의 태양 꿈표범",
+      "夕陽夢刃豹",
+      "薄暮梦刃豹"
+    ],
+    "Media": "inv_dreamsabermount_yellow.jpg"
+  },
+  {
+    "TagId": 1817,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Morning Flourish Dreamsaber",
+      "Sableonírico del florecimiento matutino",
+      "Sabre-do-sonho do Florescer Matinal",
+      "Morning Flourish Dreamsaber",
+      "Sable onírico del florecer matutino",
+      "Sabre de rêve de l’éclosion matinale",
+      "Утренний саблезуб из Сна",
+      "Morgenblütentraumsäbler",
+      "Sabre-do-sonho do Florescer Matinal",
+      "Fieronirica della Fioritura Mattutina",
+      "번성하는 아침의 꿈표범",
+      "晨茂夢刃豹",
+      "翠晨梦刃豹"
+    ],
+    "Media": "inv_dreamsabermount_green.jpg"
+  },
+  {
+    "TagId": 1818,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Anu'relos, Flame's Guidance",
+      "Anu'relos, Guía de la Llama",
+      "Anu'relos, Guia das Chamas",
+      "Anu'relos, Flame's Guidance",
+      "Anu'relos, Guía de la Llama",
+      "Anu’relos, Guide de la Flamme",
+      "Ану'релос Наставление Пламени",
+      "Anu'relos, Wegweisung der Flamme",
+      "Anu'relos, Guia das Chamas",
+      "Anu'relos, Guida della Fiamma",
+      "화염의 인도자 아누렐로스",
+      "『烈焰引導者』阿努雷洛斯",
+      "阿努雷洛丝，烈焰启迪"
+    ],
+    "Media": "inv_dreamowl_firemount.jpg"
+  },
+  {
+    "TagId": 1819,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Moonbeast",
+      "Bestia lunar sañosa",
+      "Fera Lunar Cruel",
+      "Vicious Moonbeast",
+      "Bestia lunar sañosa",
+      "Bête lunaire vicieuse",
+      "Злобный лунный зверь",
+      "Boshafte Mondbestie",
+      "Fera Lunar Cruel",
+      "Bestia Lunare Malvagia",
+      "흉포한 달의 야수",
+      "兇惡梟獸",
+      "勇猛的月兽"
+    ],
+    "Media": "inv_viciousowlbearmountalliance.jpg"
+  },
+  {
+    "TagId": 1820,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Moonbeast",
+      "Bestia lunar sañosa",
+      "Fera Lunar Cruel",
+      "Vicious Moonbeast",
+      "Bestia lunar sañosa",
+      "Bête lunaire vicieuse",
+      "Злобный лунный зверь",
+      "Boshafte Mondbestie",
+      "Fera Lunar Cruel",
+      "Bestia Lunare Malvagia",
+      "흉포한 달의 야수",
+      "兇惡梟獸",
+      "勇猛的月兽"
+    ],
+    "Media": "inv_viciousowlbearmounthorde.jpg"
+  },
+  {
+    "TagId": 1830,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Flourishing Whimsydrake",
+      "Draco fantástico exuberante",
+      "Draco Fascinante Florescente",
+      "Flourishing Whimsydrake",
+      "Draco extravagante floreciente",
+      "Drake fantasque épanoui",
+      "Цветущий чудозмейчик",
+      "Blühender Launendrache",
+      "Draco Fascinante Florescente",
+      "Stranodraco Rigoglioso",
+      "만개하는 변덕비룡",
+      "繁茂奇行飛龍",
+      "繁盛奇想幼龙"
+    ],
+    "Media": "inv_companionfaeriedragon.jpg"
+  },
+  {
+    "TagId": 1831,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Verdant Gladiator's Slitherdrake",
+      "Dracorreptante de Gladiador glauco",
+      "Dracoleante do Gladiador Verdejante",
+      "Verdant Gladiator's Slitherdrake",
+      "Reptadraco de Gladiador Verdeante",
+      "Glissedrake du gladiateur verdoyant",
+      "Дракозмей изумрудного гладиатора",
+      "Kriecherdrache des tiefgrünen Gladiators",
+      "Dracoleante do Gladiador Verdejante",
+      "Dracondoso del Gladiatore Verdeggiante",
+      "녹빛 검투사의 비단비룡",
+      "蒼翠鬥士的滑龍",
+      "苍郁角斗士的蜿变幼龙"
+    ],
+    "Media": "inv_serpentmountgladiator_green.jpg"
+  },
+  {
+    "TagId": 1833,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Springtide Dreamtalon",
+      "Garfaonírico ola primaveral",
+      "Somnigarra da Maré Viva",
+      "Springtide Dreamtalon",
+      "Garfasueño de primarea",
+      "Serre de rêve printanier",
+      "Весенний ящер из Сна",
+      "Springfluttraumkralle",
+      "Somnigarra da Maré Viva",
+      "Sognartiglio Primaverile",
+      "봄너울 꿈갈퀴",
+      "春潮夢爪獸",
+      "春潮梦爪獍"
+    ],
+    "Media": "inv_sabretoothraptormount_white.jpg"
+  },
+  {
+    "TagId": 1834,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ochre Dreamtalon",
+      "Garfaonírico ocre",
+      "Somnigarra Ocre",
+      "Ochre Dreamtalon",
+      "Garfasueño ocre",
+      "Serre de rêve ocre",
+      "Охряный ящер из Сна",
+      "Ockerfarbene Traumkralle",
+      "Somnigarra Ocre",
+      "Sognartiglio Ocra",
+      "황토색 꿈갈퀴",
+      "赭色夢爪獸",
+      "赭色梦爪獍"
+    ],
+    "Media": "inv_sabretoothraptormount_green.jpg"
+  },
+  {
+    "TagId": 1835,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Snowfluff Dreamtalon",
+      "Garfaonírico suaviníveo",
+      "Somnigarra Fofaneve",
+      "Snowfluff Dreamtalon",
+      "Garfasueño nevadito",
+      "Serre de rêve douceneige",
+      "Снежный ящер из Сна",
+      "Schneeweiche Traumkralle",
+      "Somnigarra Fofaneve",
+      "Sognartiglio Nevoloso",
+      "눈솜털 꿈갈퀴",
+      "雪茸夢爪獸",
+      "雪绒梦爪獍"
+    ],
+    "Media": "inv_sabretoothraptormount_purple.jpg"
+  },
+  {
+    "TagId": 1837,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Delugen",
+      "Alusín",
+      "Delíria",
+      "Delugen",
+      "Raudal",
+      "Délugène",
+      "Затопень",
+      "Schwemmer",
+      "Delíria",
+      "Diluvion",
+      "델루젠",
+      "幻水",
+      "幻濑"
+    ],
+    "Media": "inv_riverotterlargemount01_yellow.jpg"
+  },
+  {
+    "TagId": 1838,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Talont",
+      "Infinigarfa",
+      "Garrant",
+      "Talont",
+      "Garfón",
+      "Serr",
+      "Когонт",
+      "Kraller",
+      "Garrant",
+      "Artigliont",
+      "탈론트",
+      "聰爪",
+      "豺爪"
+    ],
+    "Media": "inv_sabretoothraptormount.jpg"
+  },
+  {
+    "TagId": 1839,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Stargrazer",
+      "Pastador estelar",
+      "Cervostar",
+      "Stargrazer",
+      "Rumiantestelar",
+      "Broutétoiles",
+      "Звездный Странник",
+      "Sternstreifer",
+      "Cervostar",
+      "Brucastelle",
+      "별바라기",
+      "星光角鹿",
+      "星辰啃食者"
+    ],
+    "Media": "inv_emeralddreamstagmount_green.jpg"
+  },
+  {
+    "TagId": 1841,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crimson Glimmerfur",
+      "Lumipelaje carmesí",
+      "Pelo-rútilo Carmesim",
+      "Crimson Glimmerfur",
+      "Pieltitilo carmesí",
+      "Mantelume écarlate",
+      "Багровый мерцающий лисохвост",
+      "Blutroter Glimmerpelz",
+      "Pelo-rútilo Carmesim",
+      "Mantolume Cremisi",
+      "진홍빛 옅은빛털",
+      "赤紅爍毛",
+      "猩红烁裘狐"
+    ],
+    "Media": "inv_fox2_darkred.jpg"
+  },
+  {
+    "TagId": 1938,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Mammyth",
+      "Magmítico",
+      "Mamito",
+      "Mammyth",
+      "Mammyth",
+      "Mammythe",
+      "Маммиф",
+      "Mammythos",
+      "Mamito",
+      "Mammyt",
+      "매미스",
+      "神話長毛象",
+      "犸秘斯"
+    ],
+    "Media": "inv_mammoth2lavamount_orange.jpg"
+  },
+  {
+    "TagId": 1939,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Imagiwing",
+      "Fantasía alada",
+      "Imaginasa",
+      "Imagiwing",
+      "Imaginala",
+      "Imaginaile",
+      "Мнимокрыл",
+      "Gedankenschwinge",
+      "Imaginasa",
+      "Alaforma",
+      "상상날개",
+      "幻翼",
+      "憧憬之翼"
+    ],
+    "Media": "inv_sporebatrock_orange.jpg"
+  },
+  {
+    "TagId": 1940,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Salatrancer",
+      "Salatrance",
+      "Salatranse",
+      "Salatrancer",
+      "Salamatrance",
+      "Salatrance",
+      "Сонномантера",
+      "Salaträumer",
+      "Salatranse",
+      "Salatranza",
+      "꿈결도롱뇽",
+      "薩曼瑟追蹤者",
+      "恍螈"
+    ],
+    "Media": "inv_salamanderwatermount_green.jpg"
+  },
+  {
+    "TagId": 1942,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Jeweled Copper Scarab",
+      "Escarabajo de cobre enjoyado",
+      "Escaravelho de Cobre Adornado",
+      "Jeweled Copper Scarab",
+      "Escarabajo de cobre con joyas",
+      "Scarabée en cuivre orné de joyaux",
+      "Драгоценный медный скарабей",
+      "Juwelenbesetzter Kupferskarabäus",
+      "Escaravelho de Cobre Adornado",
+      "Scarabeo di Rame Ingioiellato",
+      "보석 박힌 구리 딱정벌레",
+      "紅銅寶石甲蟲",
+      "珠光铜色圣甲虫"
+    ],
+    "Media": "inv_scarabmount_copper.jpg"
+  },
+  {
+    "TagId": 1944,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Golden Regal Scarab",
+      "Escarabajo real dorado",
+      "Escaravelho Régio Dourado",
+      "Golden Regal Scarab",
+      "Escarabajo regio dorado",
+      "Scarabée royal doré",
+      "Золотой королевский скарабей",
+      "Majestätischer Goldskarabäus",
+      "Escaravelho Régio Dourado",
+      "Scarabeo Regale Dorato",
+      "황금 왕실 딱정벌레",
+      "金黃莊嚴甲蟲",
+      "金色皇家圣甲虫"
+    ],
+    "Media": "inv_scarabmount_gold.jpg"
   }
 ]

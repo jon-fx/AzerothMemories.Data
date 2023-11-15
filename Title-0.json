@@ -9735,7 +9735,7 @@
       "Lenda Obsidiana %s",
       "Leggenda d'Ossidiana %s",
       "흑요석 전설 %s",
-      "『黑曜傳說』%s",
+      "黑曜傳奇%s",
       "黑曜传说 %s"
     ]
   },
@@ -9816,7 +9816,7 @@
       "%s l'Eroe Ardente",
       "이글거리는 영웅 %s",
       "『悶燃英雄』%s",
-      "%s，阴燃英雄"
+      "%s, 阴燃英雄"
     ]
   },
   {
@@ -10040,6 +10040,26 @@
     ]
   },
   {
+    "TagId": 786,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Dreaming",
+      "%s, el Durmiente",
+      "%s, o Sonhador",
+      "%s the Dreaming",
+      "%s el Soñador",
+      "%s le songe",
+      "%s Сновидец",
+      "%s, der Träumende",
+      "%s, o Sonhador",
+      "%s il Sognante",
+      "꿈꾸는 %s",
+      "作夢的%s",
+      "酣梦者 %s"
+    ]
+  },
+  {
     "TagId": 788,
     "TagType": 31,
     "Names": [
@@ -10100,6 +10120,26 @@
     ]
   },
   {
+    "TagId": 791,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Dream Racer %s",
+      "Velocista onírico %s",
+      "Corredor Onírico %s",
+      "Dream Racer %s",
+      "Corredor Onírico %s",
+      "Pilote du Rêve %s",
+      "Гонщик Сна %s",
+      "Traumrennpilot %s",
+      "Corredor Onírico %s",
+      "%s, Corridore del Sogno",
+      "꿈 경주자 %s",
+      "夢境競速騎師%s",
+      "梦境竞速者 %s"
+    ]
+  },
+  {
     "TagId": 792,
     "TagType": 31,
     "Names": [
@@ -10117,6 +10157,186 @@
       "섬의 고수 %s",
       "『群島王牌』%s",
       "群岛王牌飞行员 %s"
+    ]
+  },
+  {
+    "TagId": 793,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Emerald Ace %s",
+      "As esmeralda %s",
+      "Ás Esmeralda %s",
+      "Emerald Ace %s",
+      "As Esmeralda %s",
+      "Champion d’émeraude %s",
+      "Изумрудный ас %s",
+      "Smaragdass %s",
+      "Ás Esmeralda %s",
+      "%s, Asso di Smeraldo",
+      "에메랄드빛 실력자 %s",
+      "翡翠王牌%s",
+      "翡翠王牌飞行员 %s"
+    ]
+  },
+  {
+    "TagId": 794,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Verdant Legend %s",
+      "Leyenda glauca %s",
+      "Lenda Verdejante %s",
+      "Verdant Legend %s",
+      "Leyenda Verdeante %s",
+      "Légende verdoyante %s",
+      "Изумрудная легенда %s",
+      "Tiefgrüne Legende %s",
+      "Lenda Verdejante %s",
+      "%s, Leggenda Verdeggiante",
+      "신록의 전설 %s",
+      "蒼翠傳奇%s",
+      "苍郁传说 %s"
+    ]
+  },
+  {
+    "TagId": 795,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Verdant Gladiator %s",
+      "Gladiador glauco %s",
+      "Gladiador Verdejante %s",
+      "Verdant Gladiator %s",
+      "Gladiador Verdeante %s",
+      "Gladiateur verdoyant %s",
+      "Изумрудный гладиатор %s",
+      "Tiefgrüner Gladiator %s",
+      "Gladiador Verdejante %s",
+      "Gladiatore Verdeggiante %s",
+      "늘푸른 검투사 %s",
+      "蒼翠鬥士%s",
+      "苍郁角斗士 %s"
+    ]
+  },
+  {
+    "TagId": 796,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Blossom Bringer %s",
+      "Invocador de retoños %s",
+      "Arauto do Florescer %s",
+      "Blossom Bringer %s",
+      "Portador de Flores %s",
+      "Messager des fleurs %s",
+      "Вестник цветения %s",
+      "Blütenbringer %s",
+      "Arauto do Florescer %s",
+      "Portasemi %s",
+      "개화의 인도자 %s",
+      "綻放使者%s",
+      "仙葩使者 %s"
+    ]
+  },
+  {
+    "TagId": 797,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Famed Slayer of Fyrakk",
+      "%s, asesino de Fyrakk renombrado",
+      "%s, Renomado Matador de Fyrakk",
+      "%s, Famed Slayer of Fyrakk",
+      "%s, Afamado Asesino de Fyrakk",
+      "%s, célèbre tueur de Fyrakka",
+      "%s, прославленный победитель Азшары",
+      "%s, ruhmreicher Schlächter von Fyrakk",
+      "%s, Renomado Matador de Fyrakk",
+      "%s, Giustiziere di Fyrakk",
+      "명예로운 피락 학살자 %s",
+      "菲拉卡剋星%s",
+      "%s, 闻名遐迩的菲莱克杀手"
+    ]
+  },
+  {
+    "TagId": 798,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Battle Mender %s",
+      "Ensalmador de batalla %s",
+      "Reparador de Batalha %s",
+      "Battle Mender %s",
+      "Ensalmador de batalla %s",
+      "Soigneur de bataille %s",
+      "Боевой целитель %s",
+      "Schlachtenheiler %s",
+      "Reparador de Batalha %s",
+      "Guaritore da Campo %s",
+      "전투 치유사 %s",
+      "戰鬥修補者%s",
+      "战斗愈疗者 %s"
+    ]
+  },
+  {
+    "TagId": 799,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Blazing",
+      "%s, el Ardiente",
+      "%s, o Fulgurante",
+      "%s the Blazing",
+      "%s el Llameante",
+      "%s le Flamboyant",
+      "%s Пылающий",
+      "%s der Lodernde",
+      "%s, o Fulgurante",
+      "%s l'Ardente",
+      "광염의 %s",
+      "『熾炎者』%s",
+      "火光者 %s"
+    ]
+  },
+  {
+    "TagId": 800,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Dreaming Hero",
+      "%s, el Héroe durmiente",
+      "%s, o Herói Sonhador",
+      "%s the Dreaming Hero",
+      "%s el Héroe Soñador",
+      "%s le songe héroïque",
+      "Покоритель снов %s",
+      "%s, der träumende Held",
+      "%s, o Herói Sonhador",
+      "%s l'Eroe dei Sogni",
+      "꿈꾸는 영웅 %s",
+      "夢境英雄%s",
+      "%s, 酣梦英雄"
+    ]
+  },
+  {
+    "TagId": 801,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Dream Defender",
+      "%s, Defensor del Sueño",
+      "%s, Defensor do Sonho",
+      "%s, Dream Defender",
+      "%s, Defensor del Sueño",
+      "%s, défenseur du Rêve",
+      "Защитник Сна %s",
+      "%s, Traumverteidiger",
+      "%s, Defensor do Sonho",
+      "%s, Difensore del Sogno",
+      "꿈 수호병 %s",
+      "『夢境防衛者』%s",
+      "%s, 梦境守护者"
     ]
   }
 ]

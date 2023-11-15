@@ -5191,19 +5191,19 @@
     "TagType": 30,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Molten Lava Ball",
+      "Bola de lava fundida",
+      "Bola de Lava Derretida",
+      "Molten Lava Ball",
+      "Bola de lava fundida",
+      "Boule de lave en fusion",
+      "Шар из жидкой лавы",
+      "Geschmolzener Lavaball",
+      "Bola de Lava Derretida",
+      "Sacca di Lava Fusa",
+      "흐르는 용암구",
+      "熔化的熔岩球",
+      "火山熔岩球"
     ],
     "Media": "spell_burningbladeshaman_molten_torrent.jpg"
   },
@@ -5391,7 +5391,7 @@
       "Galhardete da Lenda Obsidiana",
       "Vessillo della Leggenda d'Ossidiana",
       "흑요석 전설의 깃발",
-      "黑曜傳說錦旗",
+      "黑曜傳奇錦旗",
       "黑曜传说的旌旗"
     ],
     "Media": "inv_soloshufflepennantreward_icons_red.jpg"
@@ -5454,7 +5454,7 @@
       "Galhardete da Lenda Carmesim",
       "Vessillo della Leggenda Cremisi",
       "진홍빛 전설의 깃발",
-      "赤紅傳說錦旗",
+      "赤紅傳奇錦旗",
       "猩红传说的旌旗"
     ],
     "Media": "inv_soloshufflepennantreward_icons_red.jpg"
@@ -5796,6 +5796,27 @@
     "Media": "5333528.jpg"
   },
   {
+    "TagId": 1352,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Junior Timekeeper's Racing Belt",
+      "Cinturón de carreras de cronometrador junior",
+      "Cinto de Corrida do Guarda-tempo Júnior",
+      "Junior Timekeeper's Racing Belt",
+      "Cinturón de correr del vigilante del tiempo júnior",
+      "Ceinture de course de chronométreur junior",
+      "Гоночный пояс младшего хранителя времени",
+      "Renngürtel des jüngeren Zeithüters",
+      "Cinto de Corrida do Guarda-tempo Júnior",
+      "Cintura da Corsa del Custode del Tempo Junior",
+      "수습 시간지기의 경주용 허리띠",
+      "資淺時空守衛者競速腰帶",
+      "初级时光守护者的竞速带"
+    ],
+    "Media": "inv_10_skinning_craftedoptionalreagent_armorbuckles_color2.jpg"
+  },
+  {
     "TagId": 1353,
     "TagType": 30,
     "Names": [
@@ -5815,6 +5836,27 @@
       "分钟沙漏"
     ],
     "Media": "achievement_challengemode_scarlethalls_hourglass.jpg"
+  },
+  {
+    "TagId": 1354,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Portable Party Platter",
+      "Bandeja de fiesta portátil",
+      "Travessa de Festa Portátil",
+      "Portable Party Platter",
+      "Bandeja de fiesta portátil",
+      "Plateau de fête amovible",
+      "Переносной поднос для мини-пира",
+      "Portable Partyplatte",
+      "Travessa de Festa Portátil",
+      "Piatto di Gruppo Portatile",
+      "휴대용 연회 요리상",
+      "輕便的派對大盤子",
+      "便携式聚会点心盘"
+    ],
+    "Media": "inv_helm_misc_starpartyhat.jpg"
   },
   {
     "TagId": 1355,
@@ -5843,7 +5885,7 @@
     "Names": [
       null,
       "Sandbox Storm Gryphon",
-      "Grifo tormenta de arena",
+      "Grifo tormenta balancín",
       "Grifo da Tempestade da Caixa de Areia",
       "Sandbox Storm Gryphon",
       "Grifo de tormenta de arenero",
@@ -5856,7 +5898,7 @@
       "沙池風暴獅鷲獸",
       "沙盒风暴狮鹫"
     ],
-    "Media": "5344195.jpg"
+    "Media": "inv_sandbox_gryphon.jpg"
   },
   {
     "TagId": 1357,
@@ -5880,6 +5922,69 @@
     "Media": "inv_cask_03.jpg"
   },
   {
+    "TagId": 1427,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Hearthstone of the Flame",
+      "Piedra de hogar de la llama",
+      "Pedra de Regresso da Chama",
+      "Hearthstone of the Flame",
+      "Piedra de hogar de la Llama",
+      "Pierre de foyer de la Flamme",
+      "Огненный камень возвращения",
+      "Ruhestein der Flamme",
+      "Pedra de Regresso da Chama",
+      "Pietra del Ritorno delle Fiamme",
+      "화염의 귀환석",
+      "烈焰爐石",
+      "烈焰炉石"
+    ],
+    "Media": "inv_holiday_hearthstonemidsummerfirefestival.jpg"
+  },
+  {
+    "TagId": 1428,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Recorded Memories of Tyr's Guard",
+      "Recuerdos grabados de la Guardia de Tyr",
+      "Lembranças registradas da Guarda de Tyr",
+      "Recorded Memories of Tyr's Guard",
+      "Recuerdos grabados de la Guardia de Tyr",
+      "Souvenirs enregistrés de la garde de Tyr",
+      "Воспоминания Стражей Тира",
+      "Aufgezeichnete Erinnerungen von Tyrs Wache",
+      "Lembranças registradas da Guarda de Tyr",
+      "Ricordi Registrati della Guardia di Tyr",
+      "기록된 티르의 수호병의 기억",
+      "提爾的衛士的回憶紀錄",
+      "提尔近卫的回忆记录"
+    ],
+    "Media": "inv_trinket_80_titan01b.jpg"
+  },
+  {
+    "TagId": 1429,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Festive Trans-Dimensional Bird Whistle",
+      "Silbido de ave transdimensional festivo",
+      "Apito de Pássaro Transdimensional Festivo",
+      "Festive Trans-Dimensional Bird Whistle",
+      "Silbato de pájaro transdimensional festivo",
+      "Sifflet oiseau trans-dimensionnel festif",
+      "Праздничный межпространственный манок для птиц",
+      "Festliche transdimensionale Vogelpfeife",
+      "Apito de Pássaro Transdimensional Festivo",
+      "Fischietto per Uccelli Transdimensionale Festivo",
+      "축제 차원이동 새 호루라기",
+      "節慶超時空鳥哨",
+      "节庆多维鸟哨"
+    ],
+    "Media": "inv_pepe_sleigh_christmas.jpg"
+  },
+  {
     "TagId": 1430,
     "TagType": 30,
     "Names": [
@@ -5894,7 +5999,7 @@
       "Frostiges Feierbanner",
       "Estandarte Comemorativo Gélido",
       "Stendardo della Celebrazione Raggelante",
-      "여유로운 축하 깃발",
+      "시원한 축하 깃발",
       "沁涼歡慶旌旗",
       "冰寒庆祝旗帜"
     ],
@@ -5941,5 +6046,131 @@
       "梦涌残叶"
     ],
     "Media": "inv_relics_idolofhealth.jpg"
+  },
+  {
+    "TagId": 1433,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Fast Growing Seed",
+      "Semilla de crecimiento rápido",
+      "Semente em Rápido Crescimento",
+      "Fast Growing Seed",
+      "Semilla de rápido crecimiento",
+      "Graine à croissance rapide",
+      "Быстро прорастающее семя",
+      "Schnell wachsender Samen",
+      "Semente em Rápido Crescimento",
+      "Seme a Crescita Rapida",
+      "빠르게 성장하는 씨앗",
+      "快速生長的種子",
+      "速生之种"
+    ],
+    "Media": "spell_lifegivingseed.jpg"
+  },
+  {
+    "TagId": 1434,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Verdant Legend's Pennant",
+      "Grímpola de leyenda glauca",
+      "Galhardete da Lenda Verdejante",
+      "Verdant Legend's Pennant",
+      "Grímpola de Leyenda Verdeante",
+      "Pennon de légende verdoyant",
+      "Флаг изумрудной легенды",
+      "Standarte der tiefgrünen Legende",
+      "Galhardete da Lenda Verdejante",
+      "Vessillo della Leggenda Verdeggiante",
+      "녹빛 전설의 깃발",
+      "蒼翠傳奇錦旗",
+      "苍郁传说的旌旗"
+    ],
+    "Media": "inv_soloshufflepennantreward_icons_red.jpg"
+  },
+  {
+    "TagId": 1435,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Winter Veil Socks",
+      "Calcetines del Festival de Invierno",
+      "Meias de Véu de Inverno",
+      "Winter Veil Socks",
+      "Calcetines del Festival de Invierno",
+      "Chaussettes du Voile d’hiver",
+      "Носки к Зимнему Покрову",
+      "Winterhauchsocken",
+      "Meias de Véu de Inverno",
+      "Calzini di Grande Inverno",
+      "겨울맞이 축제 양말",
+      "冬幕節襪子",
+      "冬幕节袜子"
+    ],
+    "Media": "inv_boots_cloth_15.jpg"
+  },
+  {
+    "TagId": 1436,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Owl Post",
+      "Poste para búhos",
+      "Posto da Coruja",
+      "Owl Post",
+      "Poste para búhos",
+      "Poste à chouette",
+      "Совиный насест",
+      "Eulenpfosten",
+      "Posto da Coruja",
+      "Palo del Gufo",
+      "올빼미 말뚝",
+      "貓頭鷹棲木",
+      "枭柱"
+    ],
+    "Media": "ability_hunter_sentinelowl.jpg"
+  },
+  {
+    "TagId": 1437,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Improvised Leafbed",
+      "Cama de hojas improvisada",
+      "Cama de Folhas Improvisada",
+      "Improvised Leafbed",
+      "Cama de hojas improvisada",
+      "Lit de feuilles improvisé",
+      "Самодельная подстилка из листьев",
+      "Improvisiertes Laubbett",
+      "Cama de Folhas Improvisada",
+      "Letto di Foglie Improvvisato",
+      "임시 변통으로 만든 나뭇잎 침대",
+      "臨時葉片吊床",
+      "临时制作的叶床"
+    ],
+    "Media": "inv_misc_herb_jadetealeaf.jpg"
+  },
+  {
+    "TagId": 1440,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Dreaming Banner of the Aspects",
+      "Estandarte onírico de los Aspectos",
+      "Estandarte Onírico dos Aspectos",
+      "Dreaming Banner of the Aspects",
+      "Estandarte onírico de los Aspectos",
+      "Bannière onirique des Aspects",
+      "Знамя Аспектов из Сна",
+      "Träumendes Banner der Aspekte",
+      "Estandarte Onírico dos Aspectos",
+      "Stendardo Sognante degli Aspetti",
+      "꿈꾸는 위상의 깃발",
+      "守護巨龍的夢境旌旗",
+      "守护巨龙的酣梦旗帜"
+    ],
+    "Media": "inv_mdi_awc_bannerreward_icons_blue.jpg"
   }
 ]

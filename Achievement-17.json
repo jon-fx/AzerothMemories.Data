@@ -1348,21 +1348,21 @@
     "TagType": 20,
     "Names": [
       null,
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)",
-      "<DNT> Maruuk Centaur Rank 15 (Account)"
+      "Friends in the Plains",
+      "Amigos en las Llanuras",
+      "Amigos da Chapada",
+      "Friends in the Plains",
+      "Amigos en las llanuras",
+      "Amis des plaines",
+      "Друзья на равнинах",
+      "Freunde in den Ebenen",
+      "Amigos da Chapada",
+      "Amici nelle pianure",
+      "평야의 친구들",
+      "平原之友",
+      "平原之友"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "ui_majorfaction_centaur.jpg"
   },
   {
     "TagId": 17065,
@@ -2409,7 +2409,7 @@
       "Circuito do Santuário da Vida Rubi Invertido: Bronze",
       "Anello del Tempio della Vita di Rubino Inverso: Bronzo",
       "루비 생명의 제단 윤환로 역방향: 동메달",
-      "晶紅生命聖殿逆向迴圈賽道：銅牌",
+      "晶紅生命聖殿迴圈賽道逆向版：銅牌",
       "红玉新生圣地赛道反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2430,7 +2430,7 @@
       "Circuito do Santuário da Vida Rubi Invertido: Prata",
       "Anello del Tempio della Vita di Rubino Inverso: Argento",
       "루비 생명의 제단 윤환로 역방향: 은메달",
-      "晶紅生命聖殿逆向迴圈賽道：銀牌",
+      "晶紅生命聖殿迴圈賽道逆向版：銀牌",
       "红玉新生圣地赛道反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2451,7 +2451,7 @@
       "Circuito do Santuário da Vida Rubi Invertido: Ouro",
       "Anello del Tempio della Vita di Rubino Inverso: Oro",
       "루비 생명의 제단 윤환로 역방향: 금메달",
-      "晶紅生命聖殿逆向迴圈賽道：金牌",
+      "晶紅生命聖殿迴圈賽道逆向版：金牌",
       "红玉新生圣地赛道反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2472,7 +2472,7 @@
       "Slalom da Reserva Selvagem Invertido: Bronze",
       "Slalom della Riserva Selvaggia Inverso: Bronzo",
       "야생의 보존지 활강로 역방향: 동메달",
-      "野生保育區逆向彎道：銅牌",
+      "野生保育區彎道逆向版：銅牌",
       "狂野禁猎区障碍赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2493,7 +2493,7 @@
       "Slalom da Reserva Selvagem Invertido: Prata",
       "Slalom della Riserva Selvaggia Inverso: Argento",
       "야생의 보존지 활강로 역방향: 은메달",
-      "野生保育區逆向彎道：銀牌",
+      "野生保育區彎道逆向版：銀牌",
       "狂野禁猎区障碍赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2514,7 +2514,7 @@
       "Slalom da Reserva Selvagem Invertido: Ouro",
       "Slalom della Riserva Selvaggia Inverso: Oro",
       "야생의 보존지 활강로 역방향: 금메달",
-      "野生保育區逆向彎道：金牌",
+      "野生保育區彎道逆向版：金牌",
       "狂野禁猎区障碍赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2535,7 +2535,7 @@
       "Voo de Fluibrasa Invertido: Bronze",
       "Volo del Flusso Ardente Inverso: Bronzo",
       "잿불흐름 비행로 역방향: 동메달",
-      "餘燼之流逆向飛行賽道：銅牌",
+      "餘燼之流飛行賽道逆向版：銅牌",
       "烬琉航线反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2556,7 +2556,7 @@
       "Voo de Fluibrasa Invertido: Prata",
       "Volo del Flusso Ardente Inverso: Argento",
       "잿불흐름 비행로 역방향: 은메달",
-      "餘燼之流逆向飛行賽道：銀牌",
+      "餘燼之流飛行賽道逆向版：銀牌",
       "烬琉航线反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2577,7 +2577,7 @@
       "Voo de Fluibrasa Invertido: Ouro",
       "Volo del Flusso Ardente Inverso: Oro",
       "잿불흐름 비행로 역방향: 금메달",
-      "餘燼之流逆向飛行賽道：金牌",
+      "餘燼之流飛行賽道逆向版：金牌",
       "烬琉航线反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2598,7 +2598,7 @@
       "Disputa do Rio do Dossel do Ápice Invertido: Bronze",
       "Gara sul fiume della Giungla Apicale Inverso: Bronzo",
       "최정상 거처 강변로 역방향: 동메달",
-      "頂尖之冠逆向河川賽道：銅牌",
+      "頂尖之冠河川賽道逆向版：銅牌",
       "绝顶树冠激流冲刺反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2619,7 +2619,7 @@
       "Disputa do Rio do Dossel do Ápice Invertido: Prata",
       "Gara sul fiume della Giungla Apicale Inverso: Argento",
       "최정상 거처 강변로 역방향: 은메달",
-      "頂尖之冠逆向河川賽道：銀牌",
+      "頂尖之冠河川賽道逆向版：銀牌",
       "绝顶树冠激流冲刺反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2640,7 +2640,7 @@
       "Disputa do Rio do Dossel do Ápice Invertido: Ouro",
       "Gara sul fiume della Giungla Apicale Inverso: Oro",
       "최정상 거처 강변로 역방향: 금메달",
-      "頂尖之冠逆向河川賽道：金牌",
+      "頂尖之冠河川賽道逆向版：金牌",
       "绝顶树冠激流冲刺反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2661,7 +2661,7 @@
       "Montanha-russa de Uktulut Invertida: Bronze",
       "Ottovolante degli Uktulut Inverso: Bronzo",
       "우크툴루트 연안로 역방향: 동메달",
-      "屋克杜魯逆向雲霄賽道：銅牌",
+      "屋克杜魯雲霄賽道逆向版：銅牌",
       "乌克图鲁特急流反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2682,7 +2682,7 @@
       "Montanha-russa de Uktulut Invertida: Prata",
       "Ottovolante degli Uktulut Inverso: Argento",
       "우크툴루트 연안로 역방향: 은메달",
-      "屋克杜魯逆向雲霄賽道：銀牌",
+      "屋克杜魯雲霄賽道逆向版：銀牌",
       "乌克图鲁特急流反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2703,7 +2703,7 @@
       "Montanha-russa de Uktulut Invertida: Ouro",
       "Ottovolante degli Uktulut Inverso: Oro",
       "우크툴루트 연안로 역방향: 금메달",
-      "屋克杜魯逆向雲霄賽道：金牌",
+      "屋克杜魯雲霄賽道逆向版：金牌",
       "乌克图鲁特急流反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2724,7 +2724,7 @@
       "Rotatória Pouso das Asas Invertida: Bronze",
       "Rondò di Riposo Alato Inverso: Bronzo",
       "날개쉼터 회전로 역방향: 동메달",
-      "翼息逆向環形賽道：銅牌",
+      "翼息環形賽道逆向版：銅牌",
       "翼眠环线反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2745,7 +2745,7 @@
       "Rotatória Pouso das Asas Invertido: Prata",
       "Rondò di Riposo Alato Inverso: Argento",
       "날개쉼터 회전로 역방향: 은메달",
-      "翼息逆向環形賽道：銀牌",
+      "翼息環形賽道逆向版：銀牌",
       "翼眠环线反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2766,7 +2766,7 @@
       "Rotatória Pouso das Asas Invertida: Ouro",
       "Rondò di Riposo Alato Inverso: Oro",
       "날개쉼터 회전로 역방향: 금메달",
-      "翼息逆向環形賽道：金牌",
+      "翼息環形賽道逆向版：金牌",
       "翼眠环线反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2787,7 +2787,7 @@
       "Sobrevoo do Gelo Súbito Invertido: Bronze",
       "Sorvolo dei Freddolesto Inverso: Bronzo",
       "섬광서리 고가로 역방향: 동메달",
-      "閃霜逆向飛掠賽道：銅牌",
+      "閃霜飛掠賽道逆向版：銅牌",
       "闪霜飞越反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2808,7 +2808,7 @@
       "Sobrevoo do Gelo Súbito Invertido: Prata",
       "Sorvolo dei Freddolesto Inverso: Argento",
       "섬광서리 고가로 역방향: 은메달",
-      "閃霜逆向飛掠賽道：銀牌",
+      "閃霜飛掠賽道逆向版：銀牌",
       "闪霜飞越反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2829,7 +2829,7 @@
       "Sobrevoo do Gelo Súbito Invertido: Ouro",
       "Sorvolo dei Freddolesto Inverso: Oro",
       "섬광서리 고가로 역방향: 금메달",
-      "閃霜逆向飛掠賽道：金牌",
+      "閃霜飛掠賽道逆向版：金牌",
       "闪霜飞越反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2850,7 +2850,7 @@
       "Circuito da Reserva Selvagem Invertido: Bronze",
       "Circuito della Riserva Selvaggia Inverso: Bronzo",
       "야생의 보존지 순환로 역방향: 동메달",
-      "野生保育區逆向環狀賽道：銅牌",
+      "野生保育區環狀賽道逆向版：銅牌",
       "狂野禁猎区障碍赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2871,7 +2871,7 @@
       "Circuito da Reserva Selvagem Invertido: Prata",
       "Circuito della Riserva Selvaggia Inverso: Argento",
       "야생의 보존지 순환로 역방향: 은메달",
-      "野生保育區逆向環狀賽道：銀牌",
+      "野生保育區環狀賽道逆向版：銀牌",
       "狂野禁猎区障碍赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2892,7 +2892,7 @@
       "Circuito da Reserva Selvagem Invertido: Ouro",
       "Circuito della Riserva Selvaggia Inverso: Oro",
       "야생의 보존지 순환로 역방향: 금메달",
-      "野生保育區逆向環狀賽道：金牌",
+      "野生保育區環狀賽道逆向版：金牌",
       "狂野禁猎区障碍赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2913,7 +2913,7 @@
       "Circuito do Arvoredo Verdelume Invertido: Bronze",
       "Circuito del Boschetto Spargisole Inverso: Bronzo",
       "아른햇살 숲 순환로 역방향: 동메달",
-      "光痕叢林逆向環狀賽道：銅牌",
+      "光痕叢林環狀賽道逆向版：銅牌",
       "阳斑灌木林巡回赛反向版：青铜 "
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2934,7 +2934,7 @@
       "Circuito do Arvoredo Verdelume Invertido: Prata",
       "Circuito del Boschetto Spargisole Inverso: Argento",
       "아른햇살 숲 순환로 역방향: 은메달",
-      "光痕叢林逆向環狀賽道：銀牌",
+      "光痕叢林環狀賽道逆向版：銀牌",
       "阳斑灌木林巡回赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -2955,7 +2955,7 @@
       "Circuito do Arvoredo Verdelume Invertido: Ouro",
       "Circuito del Boschetto Spargisole Inverso: Oro",
       "아른햇살 숲 순환로 역방향: 금메달",
-      "光痕叢林逆向環狀賽道：金牌",
+      "光痕叢林環狀賽道逆向版：金牌",
       "阳斑灌木林巡回赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -2976,7 +2976,7 @@
       "Travessia do Charco Invertida: Bronze",
       "Volo nel Pantano Inverso: Bronzo",
       "늪지대 경유로 역방향: 동메달",
-      "沼地逆向飛掠賽道：銅牌",
+      "沼地飛掠賽道逆向版：銅牌",
       "泽地漫游反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -2997,7 +2997,7 @@
       "Travessia do Charco Invertida: Prata",
       "Volo nel Pantano Inverso: Argento",
       "늪지대 경유로 역방향: 은메달",
-      "沼地逆向飛掠賽道：銀牌",
+      "沼地飛掠賽道逆向版：銀牌",
       "泽地漫游反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3018,7 +3018,7 @@
       "Travessia do Charco Invertida: Ouro",
       "Volo nel Pantano Inverso: Oro",
       "늪지대 경유로 역방향: 금메달",
-      "沼地逆向飛掠賽道：金牌",
+      "沼地飛掠賽道逆向版：金牌",
       "泽地漫游反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3039,7 +3039,7 @@
       "Disputa do Rio da Ravina Invertida: Bronze",
       "Gara sul Fiume della Gola Inverso: Bronzo",
       "협곡 강변로 역방향: 동메달",
-      "峽谷逆向河川賽道：銅牌",
+      "峽谷河川賽道逆向版：銅牌",
       "河谷冲刺反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3060,7 +3060,7 @@
       "Disputa do Rio da Ravina Invertida: Prata",
       "Gara sul Fiume della Gola Inverso: Argento",
       "협곡 강변로 역방향: 은메달",
-      "峽谷逆向河川賽道：銀牌",
+      "峽谷河川賽道逆向版：銀牌",
       "河谷冲刺反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3081,7 +3081,7 @@
       "Disputa do Rio da Ravina Invertida: Ouro",
       "Gara sul Fiume della Gola Inverso: Oro",
       "협곡 강변로 역방향: 금메달",
-      "峽谷逆向河川賽道：金牌",
+      "峽谷河川賽道逆向版：金牌",
       "河谷冲刺反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3102,7 +3102,7 @@
       "Encosta dos Jardins Esmeraldinos Invertida: Bronze",
       "Ascesa dei Giardini di Smeraldo Inverso: Bronzo",
       "에메랄드 정원 승천로 역방향: 동메달",
-      "翡翠花園逆向爬升賽道：銅牌",
+      "翡翠花園爬升賽道逆向版：銅牌",
       "翡翠花园攀升赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3123,7 +3123,7 @@
       "Encosta dos Jardins Esmeraldinos Invertida: Prata",
       "Ascesa dei Giardini di Smeraldo Inverso: Argento",
       "에메랄드 정원 승천로 역방향: 은메달",
-      "翡翠花園逆向爬升賽道：銀牌",
+      "翡翠花園爬升賽道逆向版：銀牌",
       "翡翠花园攀升赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3144,7 +3144,7 @@
       "Encosta dos Jardins Esmeraldinos Invertida: Ouro",
       "Ascesa dei Giardini di Smeraldo Inverso: Oro",
       "에메랄드 정원 승천로 역방향: 금메달",
-      "翡翠花園逆向爬升賽道：金牌",
+      "翡翠花園爬升賽道逆向版：金牌",
       "翡翠花园攀升赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3165,7 +3165,7 @@
       "Percurso das Corredeiras Invertido: Bronze",
       "Percorso per le Rapide Inverso: Bronzo",
       "강 급류 비행로 역방향: 동메달",
-      "逆向激流賽道：銅牌",
+      "激流賽道逆向版：銅牌",
       "湍流环线反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3186,7 +3186,7 @@
       "Percurso das Corredeiras Invertido: Prata",
       "Percorso per le Rapide Inverso: Argento",
       "강 급류 비행로 역방향: 은메달",
-      "逆向激流賽道：銀牌",
+      "激流賽道逆向版：銀牌",
       "湍流环线反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3207,7 +3207,7 @@
       "Percurso das Corredeiras Invertido: Ouro",
       "Percorso per le Rapide Inverso: Oro",
       "강 급류 비행로 역방향: 금메달",
-      "逆向激流賽道：金牌",
+      "激流賽道逆向版：金牌",
       "湍流环线反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3228,7 +3228,7 @@
       "Disparada de Vasta Lazúli Invertida: Bronze",
       "Volata della Vastità Azzurra Inverso: Bronzo",
       "하늘빛 평원 질주로 역방향: 동메달",
-      "蒼藍高地逆向奔馳賽道：銅牌",
+      "蒼藍高地奔馳賽道逆向版：銅牌",
       "碧蓝林海冲刺反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3249,7 +3249,7 @@
       "Disparada de Vasta Lazúli Invertida: Prata",
       "Volata della Vastità Azzurra Inverso: Argento",
       "하늘빛 평원 질주로 역방향: 은메달",
-      "蒼藍高地逆向奔馳賽道：銀牌",
+      "蒼藍高地奔馳賽道逆向版：銀牌",
       "碧蓝林海冲刺反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3270,7 +3270,7 @@
       "Disparada de Vasta Lazúli Invertida: Ouro",
       "Volata della Vastità Azzurra Inverso: Oro",
       "하늘빛 평원 질주로 역방향: 금메달",
-      "蒼藍高地逆向奔馳賽道：金牌",
+      "蒼藍高地奔馳賽道逆向版：金牌",
       "碧蓝林海冲刺反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3291,7 +3291,7 @@
       "Slalom de Vasta Lazúli Invertido: Bronze",
       "Slalom della Vastità Azzurra Inverso: Bronzo",
       "하늘빛 평원 활강로 역방향: 동메달",
-      "蒼藍高地逆向彎道：銅牌",
+      "蒼藍高地彎道逆向版：銅牌",
       "碧蓝林海障碍赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3312,7 +3312,7 @@
       "Slalom de Vasta Lazúli Invertido: Prata",
       "Slalom della Vastità Azzurra Inverso: Argento",
       "하늘빛 평원 활강로 역방향: 은메달",
-      "蒼藍高地逆向彎道：銀牌",
+      "蒼藍高地彎道逆向版：銀牌",
       "碧蓝林海障碍赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3333,7 +3333,7 @@
       "Slalom de Vasta Lazúli Invertido: Ouro",
       "Slalom della Vastità Azzurra Inverso: Oro",
       "하늘빛 평원 활강로 역방향: 금메달",
-      "蒼藍高地逆向彎道：金牌",
+      "蒼藍高地彎道逆向版：金牌",
       "碧蓝林海障碍赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3354,7 +3354,7 @@
       "Encosta de Vakthros Invertida: Bronze",
       "Ascesa di Vakthros Inverso: Bronzo",
       "바크스로스 승천로 역방향: 동메달",
-      "瓦瑟洛斯逆向爬升賽道：銅牌",
+      "瓦瑟洛斯爬升賽道逆向版：銅牌",
       "瓦克索斯攀升赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3375,7 +3375,7 @@
       "Encosta de Vakthros Invertida: Prata",
       "Ascesa di Vakthros Inverso: Argento",
       "바크스로스 승천로 역방향: 은메달",
-      "瓦瑟洛斯逆向爬升賽道：銀牌",
+      "瓦瑟洛斯爬升賽道逆向版：銀牌",
       "瓦克索斯攀升赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3396,7 +3396,7 @@
       "Encosta de Vakthros Invertida: Ouro",
       "Ascesa di Vakthros Inverso: Oro",
       "바크스로스 승천로 역방향: 금메달",
-      "瓦瑟洛斯逆向爬升賽道：金牌",
+      "瓦瑟洛斯爬升賽道逆向版：金牌",
       "瓦克索斯攀升赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3417,7 +3417,7 @@
       "Rota de Iskaara Invertida: Bronze",
       "Giro di Iskaara Inverso: Bronzo",
       "이스카라 유람로 역방향: 동메달",
-      "伊斯凱拉逆向巡迴賽道：銅牌",
+      "伊斯凱拉巡迴賽道逆向版：銅牌",
       "伊斯卡拉锦标赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3438,7 +3438,7 @@
       "Rota de Iskaara Invertida: Prata",
       "Giro di Iskaara Inverso: Argento",
       "이스카라 유람로 역방향: 은메달",
-      "伊斯凱拉逆向巡迴賽道：銀牌",
+      "伊斯凱拉巡迴賽道逆向版：銀牌",
       "伊斯卡拉锦标赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3459,7 +3459,7 @@
       "Rota de Iskaara Invertida: Ouro",
       "Giro di Iskaara Inverso: Oro",
       "이스카라 유람로 역방향: 금메달",
-      "伊斯凱拉逆向巡迴賽道：金牌",
+      "伊斯凱拉巡迴賽道逆向版：金牌",
       "伊斯卡拉锦标赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3480,7 +3480,7 @@
       "Sobrevoo das Terras Gélidas Invertido: Bronze",
       "Sorvolo delle Terre Gelide Inverso: Bronzo",
       "서리지대 고가로 역방향: 동메달",
-      "霜原逆向飛掠賽道：銅牌",
+      "霜原飛掠賽道逆向版：銅牌",
       "霜土飞越反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3501,7 +3501,7 @@
       "Sobrevoo das Terras Gélidas Invertido: Prata",
       "Sorvolo delle Terre Gelide Inverso: Argento",
       "서리지대 고가로 역방향: 은메달",
-      "霜原逆向飛掠賽道：銀牌",
+      "霜原飛掠賽道逆向版：銀牌",
       "霜土飞越反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3522,7 +3522,7 @@
       "Sobrevoo das Terras Gélidas Invertido: Ouro",
       "Sorvolo delle Terre Gelide Inverso: Oro",
       "서리지대 고가로 역방향: 금메달",
-      "霜原逆向飛掠賽道：金牌",
+      "霜原飛掠賽道逆向版：金牌",
       "霜土飞越反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3543,7 +3543,7 @@
       "Âmbito do Arquivo Invertido: Bronze",
       "Perimetro dell'Archivio Inverso: Bronzo",
       "기록 보관소 일주로 역방향: 동메달",
-      "文庫逆向境域賽道：銅牌",
+      "文庫境域賽道逆向版：銅牌",
       "档案限界反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3564,7 +3564,7 @@
       "Âmbito do Arquivo Invertido: Prata",
       "Perimetro dell'Archivio Inverso: Argento",
       "기록 보관소 일주로 역방향: 은메달",
-      "文庫逆向境域賽道：銀牌",
+      "文庫境域賽道逆向版：銀牌",
       "档案限界反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3585,7 +3585,7 @@
       "Âmbito do Arquivo Invertido: Ouro",
       "Perimetro dell'Archivio Inverso: Oro",
       "기록 보관소 일주로 역방향: 금메달",
-      "文庫逆向境域賽道：金牌",
+      "文庫境域賽道逆向版：金牌",
       "档案限界反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3606,7 +3606,7 @@
       "Revoada da Floresta Fluente Invertida: Bronze",
       "Volo della Foresta Fluente Inverso: Bronzo",
       "흐르는 숲 비행로 역방향: 동메달",
-      "浮動森林逆向飛行賽道：銅牌",
+      "浮動森林飛行賽道逆向版：銅牌",
       "起伏森林航线反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3627,7 +3627,7 @@
       "Revoada da Floresta Fluente Invertida: Prata",
       "Volo della Foresta Fluente Inverso: Argento",
       "흐르는 숲 비행로 역방향: 은메달",
-      "浮動森林逆向飛行賽道：銀牌",
+      "浮動森林飛行賽道逆向版：銀牌",
       "起伏森林航线反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3648,7 +3648,7 @@
       "Revoada da Floresta Fluente Invertida: Ouro",
       "Volo della Foresta Fluente Inverso: Oro",
       "흐르는 숲 비행로 역방향: 금메달",
-      "浮動森林逆向飛行賽道：金牌",
+      "浮動森林飛行賽道逆向版：金牌",
       "起伏森林航线反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3669,7 +3669,7 @@
       "Prova do Baluarte de Tyr Invertido: Bronze",
       "Prova del Forte di Tyr Inverso: Bronzo",
       "티르홀드 시험 역방향: 동메달",
-      "提爾堡逆向考驗賽道：銅牌",
+      "提爾堡考驗賽道逆向版：銅牌",
       "提尔要塞反向版：青铜 "
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3690,7 +3690,7 @@
       "Prova do Baluarte de Tyr Invertido: Prata",
       "Prova del Forte di Tyr Inverso: Argento",
       "티르홀드 시험 역방향: 은메달",
-      "提爾堡逆向考驗賽道：銀牌",
+      "提爾堡考驗賽道逆向版：銀牌",
       "提尔要塞反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3711,7 +3711,7 @@
       "Prova do Baluarte de Tyr Invertido: Ouro",
       "Prova del Forte di Tyr Inverso: Oro",
       "티르홀드 시험 역방향: 금메달",
-      "提爾堡逆向考驗賽道：金牌",
+      "提爾堡考驗賽道逆向版：金牌",
       "提尔要塞试炼反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3732,7 +3732,7 @@
       "Circuito do Penhasco Invertido: Bronze",
       "Circuito delle Scogliere Inverso: Bronzo",
       "절벽 순환로 역방향: 동메달",
-      "逆向峭壁環狀賽道：銅牌",
+      "峭壁環狀賽道逆向版：銅牌",
       "山崖环道反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3753,7 +3753,7 @@
       "Circuito do Penhasco Invertido: Prata",
       "Circuito delle Scogliere Inverso: Argento",
       "절벽 순환로 역방향: 은메달",
-      "逆向峭壁環狀賽道：銀牌",
+      "峭壁環狀賽道逆向版：銀牌",
       "山崖环道反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3774,7 +3774,7 @@
       "Circuito do Penhasco Invertido: Ouro",
       "Circuito delle Scogliere Inverso: Oro",
       "절벽 순환로 역방향: 금메달",
-      "逆向峭壁環狀賽道：金牌",
+      "峭壁環狀賽道逆向版：金牌",
       "山崖环道反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3795,7 +3795,7 @@
       "Ascensão da Academia Invertida: Bronze",
       "Ascesa dell'Accademia Inverso: Bronzo",
       "대학 승천로 역방향: 동메달",
-      "逆向學院爬升賽道：銅牌",
+      "學院爬升賽道逆向版：銅牌",
       "学院爬升赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3816,7 +3816,7 @@
       "Ascensão da Academia Invertida: Prata",
       "Ascesa dell'Accademia Inverso: Argento",
       "대학 승천로 역방향: 은메달",
-      "逆向學院爬升賽道：銀牌",
+      "學院爬升賽道逆向版：銀牌",
       "学院爬升赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3837,7 +3837,7 @@
       "Ascensão da Academia Invertido: Ouro",
       "Ascesa dell'Accademia Inverso: Oro",
       "대학 승천로 역방향: 금메달",
-      "逆向學院爬升賽道：金牌",
+      "學院爬升賽道逆向版：金牌",
       "学院爬升赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3858,7 +3858,7 @@
       "Jardim Gallivant Invertido: Bronze",
       "Passeggiata in Giardino Inverso: Bronzo",
       "정원 탐방로 역방향: 동메달",
-      "逆向花園遊覽賽道：銅牌",
+      "花園遊覽賽道逆向版：銅牌",
       "花园休闲赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3879,7 +3879,7 @@
       "Jardim Gallivant Invertido: Prata",
       "Passeggiata in Giardino Inverso: Argento",
       "정원 탐방로 역방향: 은메달",
-      "逆向花園遊覽賽道：銀牌",
+      "花園遊覽賽道逆向版：銀牌",
       "花园休闲赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3900,7 +3900,7 @@
       "Jardim Gallivant Invertido: Ouro",
       "Passeggiata in Giardino Inverso: Oro",
       "정원 탐방로 역방향: 금메달",
-      "逆向花園遊覽賽道：金牌",
+      "花園遊覽賽道逆向版：金牌",
       "花园休闲赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3921,7 +3921,7 @@
       "Zigue-zague de Cavernas Invertido: Bronze",
       "Caverne Intersecanti Inverso: Bronzo",
       "동굴 십자로 역방향: 동메달",
-      "逆向洞穴穿梭賽道：銅牌",
+      "洞穴穿梭賽道逆向版：銅牌",
       "交错洞窟反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -3942,7 +3942,7 @@
       "Zigue-zague de Cavernas Invertido: Prata",
       "Caverne Intersecanti Inverso: Argento",
       "동굴 십자로 역방향: 은메달",
-      "逆向洞穴穿梭賽道：銀牌",
+      "洞穴穿梭賽道逆向版：銀牌",
       "交错洞窟反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -3963,7 +3963,7 @@
       "Zigue-zague de Cavernas Invertido: Ouro",
       "Caverne Intersecanti Inverso: Oro",
       "동굴 십자로 역방향: 금메달",
-      "逆向洞穴穿梭賽道：金牌",
+      "洞穴穿梭賽道逆向版：金牌",
       "交错洞窟反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -3984,7 +3984,7 @@
       "Costa Desperta Invertida: Bronze",
       "Sponde del Risveglio Inverso: Bronzo",
       "깨어나는 해안 역방향: 동메달",
-      "甦醒海岸逆向競速：銅牌",
+      "甦醒海岸賽道逆向版：銅牌",
       "觉醒海岸反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4005,7 +4005,7 @@
       "Costa Desperta Invertida: Prata",
       "Sponde del Risveglio Inverso: Argento",
       "깨어나는 해안 역방향: 은메달",
-      "甦醒海岸逆向競速：銀牌",
+      "甦醒海岸賽道逆向版：銀牌",
       "觉醒海岸反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4026,7 +4026,7 @@
       "Costa Desperta Invertida: Ouro",
       "Sponde del Risveglio Inverso: Oro",
       "깨어나는 해안 역방향: 금메달",
-      "甦醒海岸逆向競速：金牌",
+      "甦醒海岸賽道逆向版：金牌",
       "觉醒海岸反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4047,7 +4047,7 @@
       "Chapada Ohn'ahrana Invertida: Bronze",
       "Pianure di Ohn'ahra Inverso: Bronzo",
       "온아라 평야 역방향: 동메달",
-      "雍亞拉平原逆向競速：銅牌",
+      "雍亞拉平原賽道逆向版：銅牌",
       "欧恩哈拉平原反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4068,7 +4068,7 @@
       "Chapada Ohn'ahrana Invertida: Prata",
       "Pianure di Ohn'ahra Inverso: Argento",
       "온아라 평야 역방향: 은메달",
-      "雍亞拉平原逆向競速：銀牌",
+      "雍亞拉平原賽道逆向版：銀牌",
       "欧恩哈拉平原反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4089,7 +4089,7 @@
       "Chapada Ohn'ahrana Invertida: Ouro",
       "Pianure di Ohn'ahra Inverso: Oro",
       "온아라 평야 역방향: 금메달",
-      "雍亞拉平原逆向競速：金牌",
+      "雍亞拉平原賽道逆向版：金牌",
       "欧恩哈拉平原反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4110,7 +4110,7 @@
       "Vasta Lazúli Invertida: Bronze",
       "Vastità Azzurra Inverso: Bronzo",
       "하늘빛 평원 역방향: 동메달",
-      "蒼藍高地逆向競速：銅牌",
+      "蒼藍高地賽道逆向版：銅牌",
       "碧蓝林海反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4131,7 +4131,7 @@
       "Vasta Lazúli Invertida: Prata",
       "Vastità Azzurra Inverso: Argento",
       "하늘빛 평원 역방향: 은메달",
-      "蒼藍高地逆向競速：銀牌",
+      "蒼藍高地賽道逆向版：銀牌",
       "碧蓝林海反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4152,7 +4152,7 @@
       "Vasta Lazúli Invertida: Ouro",
       "Vastità Azzurra Inverso: Oro",
       "하늘빛 평원 역방향: 금메달",
-      "蒼藍高地逆向競速：金牌",
+      "蒼藍高地賽道逆向版：金牌",
       "碧蓝林海反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4173,7 +4173,7 @@
       "Thaldraszus Invertido: Bronze",
       "Thaldraszus Inverso: Bronzo",
       "탈드라서스 역방향: 동메달",
-      "薩爪祖斯逆向競速：銅牌",
+      "薩爪祖斯賽道逆向版：銅牌",
       "索德拉苏斯反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4194,7 +4194,7 @@
       "Thaldraszus Invertido: Prata",
       "Thaldraszus Inverso: Argento",
       "탈드라서스 역방향: 은메달",
-      "薩爪祖斯逆向競速：銀牌",
+      "薩爪祖斯賽道逆向版：銀牌",
       "索德拉苏斯反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4215,7 +4215,7 @@
       "Thaldraszus Invertido: Ouro",
       "Thaldraszus Inverso: Oro",
       "탈드라서스 역방향: 금메달",
-      "薩爪祖斯逆向競速：金牌",
+      "薩爪祖斯賽道逆向版：金牌",
       "索德拉苏斯反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4362,7 +4362,7 @@
       "Circuito da Cratera Tormentalho Avançado: Bronze",
       "Circuito del Cratere Spezzatempesta Avanzato: Bronzo",
       "폭풍분리 분화구 순환로 고급: 동메달",
-      "風裂火山口進階環狀賽道：銅牌",
+      "風裂火山口環狀賽道進階版：銅牌",
       "雷裂冲击坑巡回赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4383,7 +4383,7 @@
       "Circuito da Cratera Tormentalho Avançado: Prata",
       "Circuito del Cratere Spezzatempesta Avanzato: Argento",
       "폭풍분리 분화구 순환로 고급: 은메달",
-      "風裂火山口進階環狀賽道：銀牌",
+      "風裂火山口環狀賽道進階版：銀牌",
       "雷裂冲击坑巡回赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4404,7 +4404,7 @@
       "Circuito da Cratera Tormentalho Avançado: Ouro",
       "Circuito del Cratere Spezzatempesta Avanzato: Oro",
       "폭풍분리 분화구 순환로 고급: 금메달",
-      "風裂火山口進階環狀賽道：金牌",
+      "風裂火山口環狀賽道進階版：金牌",
       "雷裂冲击坑巡回赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4425,7 +4425,7 @@
       "Circuito da Cratera Tormentalho Invertido: Bronze",
       "Circuito del Cratere Spezzatempesta Inverso: Bronzo",
       "폭풍분리 분화구 순환로 역방향: 동메달",
-      "風裂火山口逆向環狀賽道：銅牌",
+      "風裂火山口環狀賽道逆向版：銅牌",
       "雷裂冲击坑巡回赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4446,7 +4446,7 @@
       "Circuito da Cratera Tormentalho Invertido: Prata",
       "Circuito del Cratere Spezzatempesta Inverso: Argento",
       "폭풍분리 분화구 순환로 역방향: 은메달",
-      "風裂火山口逆向環狀賽道：銀牌",
+      "風裂火山口環狀賽道逆向版：銀牌",
       "雷裂冲击坑巡回赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4467,7 +4467,7 @@
       "Circuito da Cratera Tormentalho Invertido: Ouro",
       "Circuito del Cratere Spezzatempesta Inverso: Oro",
       "폭풍분리 분화구 순환로 역방향: 금메달",
-      "風裂火山口逆向環狀賽道：金牌",
+      "風裂火山口環狀賽道逆向版：金牌",
       "雷裂冲击坑巡回赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4551,7 +4551,7 @@
       "Ascensão de Morqut Avançado: Bronze",
       "Ascesa di Morqut Avanzato: Bronzo",
       "모르쿠트 승천로 고급: 동메달",
-      "莫克特進階爬升賽道：銅牌",
+      "莫克特爬升賽道進階版：銅牌",
       "莫库特攀升赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4572,7 +4572,7 @@
       "Ascensão de Morqut Avançado: Prata",
       "Ascesa di Morqut Avanzato: Argento",
       "모르쿠트 승천로 고급: 은메달",
-      "莫克特進階爬升賽道：銀牌",
+      "莫克特爬升賽道進階版：銀牌",
       "莫库特攀升赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4593,7 +4593,7 @@
       "Ascensão de Morqut Avançado: Ouro",
       "Ascesa di Morqut Avanzato: Oro",
       "모르쿠트 승천로 고급: 금메달",
-      "莫克特進階爬升賽道：金牌",
+      "莫克特爬升賽道進階版：金牌",
       "莫库特攀升赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4614,7 +4614,7 @@
       "Ascensão de Morqut Invertida: Bronze",
       "Ascesa di Morqut Inverso: Bronzo",
       "모르쿠트 승천로 역방향: 동메달",
-      "莫克特逆向爬升賽道：銅牌",
+      "莫克特爬升賽道逆向版：銅牌",
       "莫库特攀升赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4635,7 +4635,7 @@
       "Ascensão de Morqut Invertida: Prata",
       "Ascesa di Morqut Inverso: Argento",
       "모르쿠트 승천로 역방향: 은메달",
-      "莫克特逆向爬升賽道：銀牌",
+      "莫克特爬升賽道逆向版：銀牌",
       "莫库特攀升赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4656,7 +4656,7 @@
       "Ascensão de Morqut Invertida: Ouro",
       "Ascesa di Morqut Inverso: Oro",
       "모르쿠트 승천로 역방향: 금메달",
-      "莫克特逆向爬升賽道：金牌",
+      "莫克特爬升賽道逆向版：金牌",
       "莫库特攀升赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4740,7 +4740,7 @@
       "Cruzeiro do Abismo do Ninho da Águia Avançado: Bronze",
       "Giro del Baratro delle Aquile Avanzato: Bronzo",
       "맹금의 균열 유람로 고급: 동메달",
-      "鷹巢裂谷進階巡航賽道：銅牌",
+      "鷹巢裂谷巡航賽道進階版：銅牌",
       "龙巢裂谷巡航赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4761,7 +4761,7 @@
       "Cruzeiro do Abismo do Ninho da Águia Avançado: Prata",
       "Giro del Baratro delle Aquile Avanzato: Argento",
       "맹금의 균열 유람로 고급: 은메달",
-      "鷹巢裂谷進階巡航賽道：銀牌",
+      "鷹巢裂谷巡航賽道進階版：銀牌",
       "龙巢裂谷巡游赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4782,7 +4782,7 @@
       "Cruzeiro do Abismo do Ninho da Águia Avançado: Ouro",
       "Giro del Baratro delle Aquile Avanzato: Oro",
       "맹금의 균열 유람로 고급: 금메달",
-      "鷹巢裂谷進階巡航賽道：金牌",
+      "鷹巢裂谷巡航賽道進階版：金牌",
       "龙巢裂谷巡游赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4803,7 +4803,7 @@
       "Cruzeiro do Abismo do Ninho da Águia Invertido: Bronze",
       "Giro del Baratro delle Aquile Inverso: Bronzo",
       "맹금의 균열 유람로 역방향: 동메달",
-      "鷹巢裂谷逆向巡航賽道：銅牌",
+      "鷹巢裂谷巡航賽道逆向版：銅牌",
       "龙巢裂谷巡航赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4824,7 +4824,7 @@
       "Cruzeiro do Abismo do Ninho da Águia Invertido: Prata",
       "Giro del Baratro delle Aquile Inverso: Argento",
       "맹금의 균열 유람로 역방향: 은메달",
-      "鷹巢裂谷逆向巡航賽道：銀牌",
+      "鷹巢裂谷巡航賽道逆向版：銀牌",
       "龙巢裂谷巡航赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4845,7 +4845,7 @@
       "Cruzeiro do Abismo do Ninho da Águia Invertido: Ouro",
       "Giro del Baratro delle Aquile Inverso: Oro",
       "맹금의 균열 유람로 역방향: 금메달",
-      "鷹巢裂谷逆向巡航賽道：金牌",
+      "鷹巢裂谷巡航賽道逆向版：金牌",
       "龙巢裂谷巡航赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4929,7 +4929,7 @@
       "Rota do Recôndito Meridional Avançado: Bronze",
       "Percorso dell'Isola Meridionale Avanzato: Bronzo",
       "남쪽 외곽 비행로 고급: 동메달",
-      "南方之境進階賽道：銅牌",
+      "南方之境賽道進階版：銅牌",
       "南部离岛环线进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -4950,7 +4950,7 @@
       "Rota do Recôndito Meridional Avançado: Prata",
       "Percorso dell'Isola Meridionale Avanzato: Argento",
       "남쪽 외곽 비행로 고급: 은메달",
-      "南方之境進階賽道：銀牌",
+      "南方之境賽道進階版：銀牌",
       "南部离岛环线进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -4971,7 +4971,7 @@
       "Rota do Recôndito Meridional Avançado: Ouro",
       "Percorso dell'Isola Meridionale Avanzato: Oro",
       "남쪽 외곽 비행로 고급: 금메달",
-      "南方之境進階賽道：金牌",
+      "南方之境賽道進階版：金牌",
       "南部离岛环线进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -4992,7 +4992,7 @@
       "Rota do Recôndito Meridional Invertida: Bronze",
       "Percorso dell'Isola Meridionale Inverso: Bronzo",
       "남쪽 외곽 비행로 역방향: 동메달",
-      "南方之境逆向賽道：銅牌",
+      "南方之境賽道逆向版：銅牌",
       "南部离岛环线反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -5013,7 +5013,7 @@
       "Rota do Recôndito Meridional Invertida: Prata",
       "Percorso dell'Isola Meridionale Inverso: Argento",
       "남쪽 외곽 비행로 역방향: 은메달",
-      "南方之境逆向賽道：銀牌",
+      "南方之境賽道逆向版：銀牌",
       "南部离岛环线反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -5034,7 +5034,7 @@
       "Rota do Recôndito Meridional Invertida: Ouro",
       "Percorso dell'Isola Meridionale Inverso: Oro",
       "남쪽 외곽 비행로 역방향: 금메달",
-      "南方之境逆向賽道：金牌",
+      "南方之境賽道逆向版：金牌",
       "南部离岛环线反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -5118,7 +5118,7 @@
       "Vaivém da Caldeira Avançado: Bronze",
       "Ottovolante della Caldera Avanzato: Bronzo",
       "함몰지 연안로 고급: 동메달",
-      "火山口進階雲霄賽道：銅牌",
+      "火山口雲霄賽道進階版：銅牌",
       "喷口起落赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -5139,7 +5139,7 @@
       "Vaivém da Caldeira Avançado: Prata",
       "Ottovolante della Caldera Avanzato: Argento",
       "함몰지 연안로 고급: 은메달",
-      "火山口進階雲霄賽道：銀牌",
+      "火山口雲霄賽道進階版：銀牌",
       "喷口起落赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -5160,7 +5160,7 @@
       "Vaivém da Caldeira Avançado: Ouro",
       "Ottovolante della Caldera Avanzato: Oro",
       "함몰지 연안로 고급: 금메달",
-      "火山口進階雲霄賽道：金牌",
+      "火山口雲霄賽道進階版：金牌",
       "喷口起落赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -5181,7 +5181,7 @@
       "Vaivém da Caldeira Invertido: Bronze",
       "Ottovolante della Caldera Inverso: Bronzo",
       "함몰지 연안로 역방향: 동메달",
-      "火山口逆向雲霄賽道：銅牌",
+      "火山口雲霄賽道逆向版：銅牌",
       "喷口起落赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -5202,7 +5202,7 @@
       "Vaivém da Caldeira Invertido: Prata",
       "Ottovolante della Caldera Inverso: Argento",
       "함몰지 연안로 역방향: 은메달",
-      "火山口逆向雲霄賽道：銀牌",
+      "火山口雲霄賽道逆向版：銀牌",
       "喷口起落赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -5223,7 +5223,7 @@
       "Vaivém da Caldeira Invertido: Ouro",
       "Ottovolante della Caldera Inverso: Oro",
       "함몰지 연안로 역방향: 금메달",
-      "火山口逆向雲霄賽道：金牌",
+      "火山口雲霄賽道逆向版：金牌",
       "喷口起落赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -5307,7 +5307,7 @@
       "Rota do Recôndito Proibido Avançada: Bronze",
       "Scatto dell'Isola Proibita (Avanzato): Bronzo",
       "금지된 해안 질주로 고급: 동메달",
-      "禁忌之境進階急速賽道：銅牌",
+      "禁忌之境急速賽道進階版：銅牌",
       "禁忌离岛突击赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -5328,7 +5328,7 @@
       "Rota do Recôndito Proibido Avançada: Prata",
       "Scatto dell'Isola Proibita (Avanzato): Argento",
       "금지된 해안 질주로 고급: 은메달",
-      "禁忌之境進階急速賽道：銀牌",
+      "禁忌之境急速賽道進階版：銀牌",
       "禁忌离岛突击赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -5349,7 +5349,7 @@
       "Rota do Recôndito Proibido Avançada: Ouro",
       "Scatto dell'Isola Proibita (Avanzato): Oro",
       "금지된 해안 질주로 고급: 금메달",
-      "禁忌之境進階急速賽道：金牌",
+      "禁忌之境急速賽道進階版：金牌",
       "禁忌离岛突击赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -5370,7 +5370,7 @@
       "Rota do Recôndito Proibido Invertida: Bronze",
       "Scatto dell'Isola Proibita (Inverso): Bronzo",
       "금지된 해안 질주로 역방향: 동메달",
-      "禁忌之境逆向急速賽道：銅牌",
+      "禁忌之境急速賽道逆向版：銅牌",
       "禁忌离岛突击赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -5391,7 +5391,7 @@
       "Rota do Recôndito Proibido Invertida: Prata",
       "Scatto dell'Isola Proibita (Inverso): Argento",
       "금지된 해안 질주로 역방향: 은메달",
-      "禁忌之境逆向急速賽道：銀牌",
+      "禁忌之境急速賽道逆向版：銀牌",
       "禁忌离岛突击赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -5412,7 +5412,7 @@
       "Rota do Recôndito Proibido Invertida: Ouro",
       "Scatto dell'Isola Proibita (Inverso): Oro",
       "금지된 해안 질주로 역방향: 금메달",
-      "禁忌之境逆向急速賽道：金牌",
+      "禁忌之境急速賽道逆向版：金牌",
       "禁忌离岛突击赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -5559,7 +5559,7 @@
       "Recôndito Proibido Invertido: Bronze",
       "Isola Proibita Inverso: Bronzo",
       "금지된 해안 역방향: 동메달",
-      "禁忌之境逆向賽道：銅牌",
+      "禁忌之境賽道逆向版：銅牌",
       "禁忌离岛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -5580,7 +5580,7 @@
       "Recôndito Proibido Invertido: Prata",
       "Isola Proibita Inverso: Argento",
       "금지된 해안 역방향: 은메달",
-      "禁忌之境逆向賽道：銀牌",
+      "禁忌之境賽道逆向版：銀牌",
       "禁忌离岛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -5601,7 +5601,7 @@
       "Recôndito Proibido Invertido: Ouro",
       "Isola Proibita Inverso: Oro",
       "금지된 해안 역방향: 금메달",
-      "禁忌之境逆向賽道：金牌",
+      "禁忌之境賽道逆向版：金牌",
       "禁忌离岛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -5678,7 +5678,7 @@
       "Puesto de venta: Dragonflight",
       "Posto Comercial: Dragonflight",
       "Trading Post: Dragonflight",
-      "Puesto Comercial: Dragonflight",
+      "Puesto comercial: Dragonflight",
       "Comptoir\u00A0: Dragonflight",
       "Торговая лавка: Dragonflight",
       "Handelsposten: Dragonflight",
@@ -5937,7 +5937,7 @@
       "Corredor Invertido: Bronze",
       "Corridore inverso: Bronzo",
       "역방향 경주자: 동메달",
-      "逆向競速騎師：銅牌",
+      "逆向版競速騎師：銅牌",
       "反向竞速者：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -5958,7 +5958,7 @@
       "Corredor Invertido: Prata",
       "Corridore inverso: Argento",
       "역방향 경주자: 은메달",
-      "逆向競速騎師：銀牌",
+      "逆向版競速騎師：銀牌",
       "反向竞速者：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -5979,7 +5979,7 @@
       "Corredor Invertido: Ouro",
       "Corridore inverso: Oro",
       "역방향 경주자: 금메달",
-      "逆向競速騎師：金牌",
+      "逆向版競速騎師：金牌",
       "反向竞速者：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7113,7 +7113,7 @@
       "Circuito de Cristal Avançado: Bronze",
       "Circuito di Cristallo Avanzato: Bronzo",
       "수정 순환로 고급: 동메달",
-      "水晶進階環狀賽道：銅牌",
+      "水晶環狀賽道進階版：銅牌",
       "水晶环道进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7134,7 +7134,7 @@
       "Circuito de Cristal Avançado: Prata",
       "Circuito di Cristallo Avanzato: Argento",
       "수정 순환로 고급: 은메달",
-      "水晶進階環狀賽道：銀牌",
+      "水晶環狀賽道進階版：銀牌",
       "水晶环道进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7155,7 +7155,7 @@
       "Circuito de Cristal Avançado: Ouro",
       "Circuito di Cristallo Avanzato: Oro",
       "수정 순환로 고급: 금메달",
-      "水晶進階環狀賽道：金牌",
+      "水晶環狀賽道進階版：金牌",
       "水晶环道进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7176,7 +7176,7 @@
       "Circuito de Cristal Invertido: Bronze",
       "Circuito di Cristallo Inverso: Bronzo",
       "수정 순환로 역방향: 동메달",
-      "水晶逆向環狀賽道：銅牌",
+      "水晶環狀賽道逆向版：銅牌",
       "水晶环道反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7197,7 +7197,7 @@
       "Circuito de Cristal Invertido: Prata",
       "Circuito di Cristallo Inverso: Argento",
       "수정 순환로 역방향: 은메달",
-      "水晶逆向環狀賽道：銀牌",
+      "水晶環狀賽道逆向版：銀牌",
       "水晶环道反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7218,7 +7218,7 @@
       "Circuito de Cristal Invertido: Ouro",
       "Circuito di Cristallo Inverso: Oro",
       "수정 순환로 역방향: 금메달",
-      "水晶逆向環狀賽道：金牌",
+      "水晶環狀賽道逆向版：金牌",
       "水晶环道反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7302,7 +7302,7 @@
       "Cruzeiro da Caldeira Avançado: Bronze",
       "Giro della Caldera Avanzato: Bronzo",
       "함몰지 유람로 고급: 동메달",
-      "火山口進階巡航賽道：銅牌",
+      "火山口巡航賽道進階版：銅牌",
       "喷口巡航赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7323,7 +7323,7 @@
       "Cruzeiro da Caldeira Avançado: Prata",
       "Giro della Caldera Avanzato: Argento",
       "함몰지 유람로 고급: 은메달",
-      "火山口進階巡航賽道：銀牌",
+      "火山口巡航賽道進階版：銀牌",
       "喷口巡航赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7344,7 +7344,7 @@
       "Cruzeiro da Caldeira Avançado: Ouro",
       "Giro della Caldera Avanzato: Oro",
       "함몰지 유람로 고급: 금메달",
-      "火山口進階巡航賽道：金牌",
+      "火山口巡航賽道進階版：金牌",
       "喷口巡航赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7365,7 +7365,7 @@
       "Cruzeiro da Caldeira Invertido: Bronze",
       "Giro della Caldera Inverso: Bronzo",
       "함몰지 유람로 역방향: 동메달",
-      "火山口逆向巡航賽道：銅牌",
+      "火山口巡航賽道逆向版：銅牌",
       "喷口巡航赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7386,7 +7386,7 @@
       "Cruzeiro da Caldeira Invertido: Prata",
       "Giro della Caldera Inverso: Argento",
       "함몰지 유람로 역방향: 은메달",
-      "火山口逆向巡航賽道：銀牌",
+      "火山口巡航賽道逆向版：銀牌",
       "喷口巡航赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7407,7 +7407,7 @@
       "Cruzeiro da Caldeira Invertido: Ouro",
       "Giro della Caldera Inverso: Oro",
       "함몰지 유람로 역방향: 금메달",
-      "火山口逆向巡航賽道：金牌",
+      "火山口巡航賽道逆向版：金牌",
       "喷口巡航赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7491,7 +7491,7 @@
       "Corrida do Enxofre Avançada: Bronze",
       "Scatto di Zolfo Avanzato: Bronzo",
       "유황석 급행로 고급: 동메달",
-      "磺石進階混合賽道：銅牌",
+      "磺石混合賽道進階版：銅牌",
       "燃石越野赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7512,7 +7512,7 @@
       "Corrida do Enxofre Avançada: Prata",
       "Scatto di Zolfo Avanzato: Argento",
       "유황석 급행로 고급: 은메달",
-      "磺石進階混合賽道：銀牌",
+      "磺石混合賽道進階版：銀牌",
       "燃石越野赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7533,7 +7533,7 @@
       "Corrida do Enxofre Avançada: Ouro",
       "Scatto di Zolfo Avanzato: Oro",
       "유황석 급행로 고급: 금메달",
-      "磺石進階混合賽道：金牌",
+      "磺石混合賽道進階版：金牌",
       "燃石越野赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7554,7 +7554,7 @@
       "Corrida do Enxofre Invertida: Bronze",
       "Scatto di Zolfo Inverso: Bronzo",
       "유황석 급행로 역방향: 동메달",
-      "磺石逆向混合賽道：銅牌",
+      "磺石混合賽道逆向版：銅牌",
       "燃石越野赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7575,7 +7575,7 @@
       "Corrida do Enxofre Invertida: Prata",
       "Scatto di Zolfo Inverso: Argento",
       "유황석 급행로 역방향: 은메달",
-      "磺石逆向混合賽道：銀牌",
+      "磺石混合賽道逆向版：銀牌",
       "燃石越野赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7596,7 +7596,7 @@
       "Corrida do Enxofre Invertida: Ouro",
       "Scatto di Zolfo Inverso: Oro",
       "유황석 급행로 역방향: 금메달",
-      "磺石逆向混合賽道：金牌",
+      "磺石混合賽道逆向版：金牌",
       "燃石越野赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7680,7 +7680,7 @@
       "Slalom Cintilante Avançado: Bronze",
       "Slalom Scintillante Avanzato: Bronzo",
       "일렁이는 활강로 고급: 동메달",
-      "幻光進階彎道：銅牌",
+      "幻光彎道進階版：銅牌",
       "闪光障碍赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7701,7 +7701,7 @@
       "Slalom Cintilante Avançado: Prata",
       "Slalom Scintillante Avanzato: Argento",
       "일렁이는 활강로 고급: 은메달",
-      "幻光進階彎道：銀牌",
+      "幻光彎道進階版：銀牌",
       "闪光障碍赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7722,7 +7722,7 @@
       "Slalom Cintilante Avançado: Ouro",
       "Slalom Scintillante Avanzato: Oro",
       "일렁이는 활강로 고급: 금메달",
-      "幻光進階彎道：金牌",
+      "幻光彎道進階版：金牌",
       "闪光障碍赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7743,7 +7743,7 @@
       "Slalom Cintilante Invertido: Bronze",
       "Slalom Scintillante Inverso: Bronzo",
       "일렁이는 활강로 역방향: 동메달",
-      "幻光逆向彎道：銅牌",
+      "幻光彎道逆向版：銅牌",
       "闪光障碍赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7764,7 +7764,7 @@
       "Slalom Cintilante Invertido: Prata",
       "Slalom Scintillante Inverso: Argento",
       "일렁이는 활강로 역방향: 은메달",
-      "幻光逆向彎道：銀牌",
+      "幻光彎道逆向版：銀牌",
       "闪光障碍赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7785,7 +7785,7 @@
       "Slalom Cintilante Invertido: Ouro",
       "Slalom Scintillante Inverso: Oro",
       "일렁이는 활강로 역방향: 금메달",
-      "幻光逆向彎道：金牌",
+      "幻光彎道逆向版：金牌",
       "闪光障碍赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7869,7 +7869,7 @@
       "Andarilha de Argília Avançada: Bronze",
       "Tour di Loamm Avanzato: Bronzo",
       "로암 배회로 고급: 동메달",
-      "洛姆進階漫遊賽道：銅牌",
+      "洛姆漫遊賽道進階版：銅牌",
       "峈姆飞渡进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7890,7 +7890,7 @@
       "Andarilha de Argília Avançada: Prata",
       "Tour di Loamm Avanzato: Argento",
       "로암 배회로 고급: 은메달",
-      "洛姆進階漫遊賽道：銀牌",
+      "洛姆漫遊賽道進階版：銀牌",
       "峈姆飞渡进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7911,7 +7911,7 @@
       "Andarilha de Argília Avançada: Ouro",
       "Tour di Loamm Avanzato: Oro",
       "로암 배회로 고급: 금메달",
-      "洛姆進階漫遊賽道：金牌",
+      "洛姆漫遊賽道進階版：金牌",
       "峈姆飞渡进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -7932,7 +7932,7 @@
       "Andarilha de Argília Invertida: Bronze",
       "Tour di Loamm Inverso: Bronzo",
       "로암 배회로 역방향: 동메달",
-      "洛姆逆向漫遊賽道：銅牌",
+      "洛姆漫遊賽道逆向版：銅牌",
       "峈姆飞渡反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -7953,7 +7953,7 @@
       "Andarilha de Argília Invertida: Prata",
       "Tour di Loamm Inverso: Argento",
       "로암 배회로 역방향: 은메달",
-      "洛姆逆向漫遊賽道：銀牌",
+      "洛姆漫遊賽道逆向版：銀牌",
       "峈姆飞渡反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -7974,7 +7974,7 @@
       "Andarilha de Argília Invertida: Ouro",
       "Tour di Loamm Inverso: Oro",
       "로암 배회로 역방향: 금메달",
-      "洛姆逆向漫遊賽道：金牌",
+      "洛姆漫遊賽道逆向版：金牌",
       "峈姆飞渡反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -8058,7 +8058,7 @@
       "Disparada Sulfurosa Avançada: Bronze",
       "Allungo Sulfureo Avanzato: Bronzo",
       "유황 질주로 고급: 동메달",
-      "硫化進階奔馳賽道：銅牌",
+      "硫化奔馳賽道進階版：銅牌",
       "硫磺冲刺进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -8079,7 +8079,7 @@
       "Disparada Sulfurosa Avançada: Prata",
       "Allungo Sulfureo Avanzato: Argento",
       "유황 질주로 고급: 은메달",
-      "硫化進階奔馳賽道：銀牌",
+      "硫化奔馳賽道進階版：銀牌",
       "硫磺冲刺进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -8100,7 +8100,7 @@
       "Disparada Sulfurosa Avançada: Ouro",
       "Allungo Sulfureo Avanzato: Oro",
       "유황 질주로 고급: 금메달",
-      "硫化進階奔馳賽道：金牌",
+      "硫化奔馳賽道進階版：金牌",
       "硫磺冲刺进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -8121,7 +8121,7 @@
       "Disparada Sulfurosa Invertida: Bronze",
       "Allungo Sulfureo Inverso: Bronzo",
       "유황 질주로 역방향: 동메달",
-      "硫化逆向奔馳賽道：銅牌",
+      "硫化奔馳賽道逆向版：銅牌",
       "硫磺冲刺反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -8142,7 +8142,7 @@
       "Disparada Sulfurosa Invertida: Prata",
       "Allungo Sulfureo Inverso: Argento",
       "유황 질주로 역방향: 은메달",
-      "硫化逆向奔馳賽道：銀牌",
+      "硫化奔馳賽道逆向版：銀牌",
       "硫磺冲刺反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -8163,7 +8163,7 @@
       "Disparada Sulfurosa Invertida: Ouro",
       "Allungo Sulfureo Inverso: Oro",
       "유황 질주로 역방향: 금메달",
-      "硫化逆向奔馳賽道：金牌",
+      "硫化奔馳賽道逆向版：金牌",
       "硫磺冲刺反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -8247,7 +8247,7 @@
       "Caverna Zaralek Avançada: Bronze",
       "Caverna di Zaralek Avanzato: Bronzo",
       "자랄레크 동굴 고급: 동메달",
-      "扎拉萊克洞窟進階賽道：銅牌",
+      "扎拉萊克洞窟賽道進階版：銅牌",
       "查拉雷克洞窟进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -8268,7 +8268,7 @@
       "Caverna Zaralek Avançada: Prata",
       "Caverna di Zaralek Avanzato: Argento",
       "자랄레크 동굴 고급: 은메달",
-      "扎拉萊克洞窟進階賽道：銀牌",
+      "扎拉萊克洞窟賽道進階版：銀牌",
       "查拉雷克洞窟进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -8289,7 +8289,7 @@
       "Caverna Zaralek Avançada: Ouro",
       "Caverna di Zaralek Avanzato: Oro",
       "자랄레크 동굴 고급: 금메달",
-      "扎拉萊克洞窟進階賽道：金牌",
+      "扎拉萊克洞窟賽道進階版：金牌",
       "查拉雷克洞窟进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -8310,7 +8310,7 @@
       "Caverna Zaralek Invertida: Bronze",
       "Caverna di Zaralek Inverso: Bronzo",
       "자랄레크 동굴 역방향: 동메달",
-      "扎拉萊克洞窟逆向賽道：銅牌",
+      "扎拉萊克洞窟賽道逆向版：銅牌",
       "查拉雷克洞窟反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -8331,7 +8331,7 @@
       "Caverna Zaralek Invertida: Prata",
       "Caverna di Zaralek Inverso: Argento",
       "자랄레크 동굴 역방향: 은메달",
-      "扎拉萊克洞窟逆向賽道：銀牌",
+      "扎拉萊克洞窟賽道逆向版：銀牌",
       "查拉雷克洞窟反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -8352,7 +8352,7 @@
       "Caverna Zaralek Invertida: Ouro",
       "Caverna di Zaralek Inverso: Oro",
       "자랄레크 동굴 역방향: 금메달",
-      "扎拉萊克洞窟逆向賽道：金牌",
+      "扎拉萊克洞窟賽道逆向版：金牌",
       "查拉雷克洞窟反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -9381,7 +9381,7 @@
       "Treva da Selva Maleva Avançada: Bronze",
       "Sorvolo di Vilbosco Avanzato: Bronzo",
       "악령숲 고가로 고급: 동메달",
-      "費伍德森林進階飛掠賽道：銅牌",
+      "費伍德森林飛掠賽道進階版：銅牌",
       "费伍德飞越进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -9402,7 +9402,7 @@
       "Treva da Selva Maleva Avançada: Prata",
       "Sorvolo di Vilbosco Avanzato: Argento",
       "악령숲 고가로 고급: 은메달",
-      "費伍德森林進階飛掠賽道：銀牌",
+      "費伍德森林飛掠賽道進階版：銀牌",
       "费伍德飞越进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -9423,7 +9423,7 @@
       "Treva da Selva Maleva Avançada: Ouro",
       "Sorvolo di Vilbosco Avanzato: Oro",
       "악령숲 고가로 고급: 금메달",
-      "費伍德森林進階飛掠賽道：金牌",
+      "費伍德森林飛掠賽道進階版：金牌",
       "费伍德飞越进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -9444,7 +9444,7 @@
       "Treva da Selva Maleva Invertida: Bronze",
       "Sorvolo di Vilbosco Inverso: Bronzo",
       "악령숲 고가로 역방향: 동메달",
-      "費伍德森林逆向飛掠賽道：銅牌",
+      "費伍德森林飛掠賽道逆向版：銅牌",
       "费伍德飞越反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -9465,7 +9465,7 @@
       "Treva da Selva Maleva Invertida: Prata",
       "Sorvolo di Vilbosco Inverso: Argento",
       "악령숲 고가로 역방향: 은메달",
-      "費伍德森林逆向飛掠賽道：銀牌",
+      "費伍德森林飛掠賽道逆向版：銀牌",
       "费伍德飞越反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -9486,7 +9486,7 @@
       "Treva da Selva Maleva Invertida: Ouro",
       "Sorvolo di Vilbosco Inverso: Oro",
       "악령숲 고가로 역방향: 금메달",
-      "費伍德森林逆向飛掠賽道：金牌",
+      "費伍德森林飛掠賽道逆向版：金牌",
       "费伍德飞越反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -9570,7 +9570,7 @@
       "Investida de Inverno Avançada: Bronze",
       "Passo Invernale Avanzato: Bronzo",
       "겨울 방랑로 고급: 동메달",
-      "寒冬進階漫遊賽道：銅牌",
+      "寒冬漫遊賽道進階版：銅牌",
       "冬雪观景赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -9591,7 +9591,7 @@
       "Investida de Inverno Avançada: Prata",
       "Passo Invernale Avanzato: Argento",
       "겨울 방랑로 고급: 은메달",
-      "寒冬進階漫遊賽道：銀牌",
+      "寒冬漫遊賽道進階版：銀牌",
       "冬雪观景赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -9612,7 +9612,7 @@
       "Investida de Inverno Avançada: Ouro",
       "Passo Invernale Avanzato: Oro",
       "겨울 방랑로 고급: 금메달",
-      "寒冬進階漫遊賽道：金牌",
+      "寒冬漫遊賽道進階版：金牌",
       "冬雪观景赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -9633,7 +9633,7 @@
       "Investida de Inverno Invertida: Bronze",
       "Passo Invernale Inverso: Bronzo",
       "겨울 방랑로 역방향: 동메달",
-      "寒冬逆向漫遊賽道：銅牌",
+      "寒冬漫遊賽道逆向版：銅牌",
       "冬雪观景赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -9654,7 +9654,7 @@
       "Investida de Inverno Invertida: Prata",
       "Passo Invernale Inverso: Argento",
       "겨울 방랑로 역방향: 은메달",
-      "寒冬逆向漫遊賽道：銀牌",
+      "寒冬漫遊賽道逆向版：銀牌",
       "冬雪观景赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -9675,7 +9675,7 @@
       "Investida de Inverno Invertida: Ouro",
       "Passo Invernale Inverso: Oro",
       "겨울 방랑로 역방향: 금메달",
-      "寒冬逆向漫遊賽道：金牌",
+      "寒冬漫遊賽道逆向版：金牌",
       "冬雪观景赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -9759,7 +9759,7 @@
       "Espiral de Nordrassil Avançada: Bronze",
       "Spirale di Nordrassil Avanzato: Bronzo",
       "놀드랏실 나선로 고급: 동메달",
-      "諾達希爾進階螺旋賽道：銅牌",
+      "諾達希爾螺旋賽道進階版：銅牌",
       "诺达希尔螺旋进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -9780,7 +9780,7 @@
       "Espiral de Nordrassil Avançada: Prata",
       "Spirale di Nordrassil Avanzato: Argento",
       "놀드랏실 나선로 고급: 은메달",
-      "諾達希爾進階螺旋賽道：銀牌",
+      "諾達希爾螺旋賽道進階版：銀牌",
       "诺达希尔螺旋进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -9801,7 +9801,7 @@
       "Espiral de Nordrassil Avançada: Ouro",
       "Spirale di Nordrassil Avanzato: Oro",
       "놀드랏실 나선로 고급: 금메달",
-      "諾達希爾進階螺旋賽道：金牌",
+      "諾達希爾螺旋賽道進階版：金牌",
       "诺达希尔螺旋进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -9822,7 +9822,7 @@
       "Espiral de Nordrassil Invertida: Bronze",
       "Spirale di Nordrassil Inverso: Bronzo",
       "놀드랏실 나선로 역방향: 동메달",
-      "諾達希爾逆向螺旋賽道：銅牌",
+      "諾達希爾螺旋賽道逆向版：銅牌",
       "诺达希尔螺旋反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -9843,7 +9843,7 @@
       "Espiral de Nordrassil Invertida: Prata",
       "Spirale di Nordrassil Inverso: Argento",
       "놀드랏실 나선로 역방향: 은메달",
-      "諾達希爾逆向螺旋賽道：銀牌",
+      "諾達希爾螺旋賽道逆向版：銀牌",
       "诺达希尔螺旋反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -9864,7 +9864,7 @@
       "Espiral de Nordrassil Invertida: Ouro",
       "Spirale di Nordrassil Inverso: Oro",
       "놀드랏실 나선로 역방향: 금메달",
-      "諾達希爾逆向螺旋賽道：金牌",
+      "諾達希爾螺旋賽道逆向版：金牌",
       "诺达希尔螺旋反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -9948,7 +9948,7 @@
       "Raio de Hyjal Avançado: Bronze",
       "Passaggio di Hyjal Avanzato: Bronzo",
       "하이잘 황급로 고급: 동메달",
-      "海加爾山進階急行賽道：銅牌",
+      "海加爾山急行賽道進階版：銅牌",
       "海加尔疾行进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -9969,7 +9969,7 @@
       "Raio de Hyjal Avançado: Prata",
       "Passaggio di Hyjal Avanzato: Argento",
       "하이잘 황급로 고급: 은메달",
-      "海加爾山進階急行賽道：銀牌",
+      "海加爾山急行賽道進階版：銀牌",
       "海加尔疾行进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -9990,7 +9990,7 @@
       "Raio de Hyjal Avançado: Ouro",
       "Passaggio di Hyjal Avanzato: Oro",
       "하이잘 황급로 고급: 금메달",
-      "海加爾山進階急行賽道：金牌",
+      "海加爾山急行賽道進階版：金牌",
       "海加尔疾行进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10011,7 +10011,7 @@
       "Raio de Hyjal Invertido: Bronze",
       "Passaggio di Hyjal Inverso: Bronzo",
       "하이잘 황급로 역방향: 동메달",
-      "海加爾山逆向急行賽道：銅牌",
+      "海加爾山急行賽道逆向版：銅牌",
       "海加尔疾行反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10032,7 +10032,7 @@
       "Raio de Hyjal Invertido: Prata",
       "Passaggio di Hyjal Inverso: Argento",
       "하이잘 황급로 역방향: 은메달",
-      "海加爾山逆向急行賽道：銀牌",
+      "海加爾山急行賽道逆向版：銀牌",
       "海加尔疾行反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10053,7 +10053,7 @@
       "Raio de Hyjal Invertido: Ouro",
       "Passaggio di Hyjal Inverso: Oro",
       "하이잘 황급로 역방향: 금메달",
-      "海加爾山逆向急行賽道：金牌",
+      "海加爾山急行賽道逆向版：金牌",
       "海加尔疾行反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10137,7 +10137,7 @@
       "Viagem da Foguetovia Avançada: Bronze",
       "Gara della Razzovia Avanzato: Bronzo",
       "로켓길 경로 고급: 동메달",
-      "火箭道進階兜風賽道：銅牌",
+      "火箭道兜風賽道進階版：銅牌",
       "火箭车驰骋进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10158,7 +10158,7 @@
       "Viagem da Foguetovia Avançada: Prata",
       "Gara della Razzovia Avanzato: Argento",
       "로켓길 경로 고급: 은메달",
-      "火箭道進階兜風賽道：銀牌",
+      "火箭道兜風賽道進階版：銀牌",
       "火箭车驰骋进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10179,7 +10179,7 @@
       "Viagem da Foguetovia Avançada: Ouro",
       "Gara della Razzovia Avanzato: Oro",
       "로켓길 경로 고급: 금메달",
-      "火箭道進階兜風賽道：金牌",
+      "火箭道兜風賽道進階版：金牌",
       "火箭车驰骋进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10200,7 +10200,7 @@
       "Viagem da Foguetovia Invertida: Bronze",
       "Gara della Razzovia Inverso: Bronzo",
       "로켓길 경로 역방향: 동메달",
-      "火箭道逆向兜風賽道：銅牌",
+      "火箭道兜風賽道逆向版：銅牌",
       "火箭车驰骋反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10221,7 +10221,7 @@
       "Viagem da Foguetovia Invertida: Prata",
       "Gara della Razzovia Inverso: Argento",
       "로켓길 경로 역방향: 은메달",
-      "火箭道逆向兜風賽道：銀牌",
+      "火箭道兜風賽道逆向版：銀牌",
       "火箭车驰骋反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10242,7 +10242,7 @@
       "Viagem da Foguetovia Invertida: Ouro",
       "Gara della Razzovia Inverso: Oro",
       "로켓길 경로 역방향: 금메달",
-      "火箭道逆向兜風賽道：金牌",
+      "火箭道兜風賽道逆向版：金牌",
       "火箭车驰骋反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10326,7 +10326,7 @@
       "Grid do Vale Gris Avançado: Bronze",
       "Circuito di Valtetra Avanzato: Bronzo",
       "잿빛 골짜기 일주로 고급: 동메달",
-      "梣谷進階境域賽道：銅牌",
+      "梣谷境域賽道進階版：銅牌",
       "灰谷限界进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10347,7 +10347,7 @@
       "Grid do Vale Gris Avançado: Prata",
       "Circuito di Valtetra Avanzato: Argento",
       "잿빛 골짜기 일주로 고급: 은메달",
-      "梣谷進階境域賽道：銀牌",
+      "梣谷境域賽道進階版：銀牌",
       "灰谷限界进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10368,7 +10368,7 @@
       "Grid do Vale Gris Avançado: Ouro",
       "Circuito di Valtetra Avanzato: Oro",
       "잿빛 골짜기 일주로 고급: 금메달",
-      "梣谷進階境域賽道：金牌",
+      "梣谷境域賽道進階版：金牌",
       "灰谷限界进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10389,7 +10389,7 @@
       "Grid do Vale Gris Invertido: Bronze",
       "Circuito di Valtetra Inverso: Bronzo",
       "잿빛 골짜기 일주로 역방향: 동메달",
-      "梣谷逆向境域賽道：銅牌",
+      "梣谷境域賽道逆向版：銅牌",
       "灰谷限界反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10410,7 +10410,7 @@
       "Grid do Vale Gris Invertido: Prata",
       "Circuito di Valtetra Inverso: Argento",
       "잿빛 골짜기 일주로 역방향: 은메달",
-      "梣谷逆向境域賽道：銀牌",
+      "梣谷境域賽道逆向版：銀牌",
       "灰谷限界反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10431,7 +10431,7 @@
       "Grid do Vale Gris Invertido: Ouro",
       "Circuito di Valtetra Inverso: Oro",
       "잿빛 골짜기 일주로 역방향: 금메달",
-      "梣谷逆向境域賽道：金牌",
+      "梣谷境域賽道逆向版：金牌",
       "灰谷限界反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10515,7 +10515,7 @@
       "Tour de Durotar Avançado: Bronze",
       "Giro di Durotar Avanzato: Bronzo",
       "듀로타 유람로 고급: 동메달",
-      "杜洛塔進階巡迴賽道：銅牌",
+      "杜洛塔巡迴賽道進階版：銅牌",
       "杜隆塔尔巡回赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10536,7 +10536,7 @@
       "Tour de Durotar Avançado: Prata",
       "Giro di Durotar Avanzato: Argento",
       "듀로타 유람로 고급: 은메달",
-      "杜洛塔進階巡迴賽道：銀牌",
+      "杜洛塔巡迴賽道進階版：銀牌",
       "杜隆塔尔巡回赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10557,7 +10557,7 @@
       "Tour de Durotar Avançado: Ouro",
       "Giro di Durotar Avanzato: Oro",
       "듀로타 유람로 고급: 금메달",
-      "杜洛塔進階巡迴賽道：金牌",
+      "杜洛塔巡迴賽道進階版：金牌",
       "杜隆塔尔巡回赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10578,7 +10578,7 @@
       "Tour de Durotar Invertido: Bronze",
       "Giro di Durotar Inverso: Bronzo",
       "듀로타 유람로 역방향: 동메달",
-      "杜洛塔逆向巡迴賽道：銅牌",
+      "杜洛塔巡迴賽道逆向版：銅牌",
       "杜隆塔尔巡回赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10599,7 +10599,7 @@
       "Tour de Durotar Invertido: Prata",
       "Giro di Durotar Inverso: Argento",
       "듀로타 유람로 역방향: 은메달",
-      "杜洛塔逆向巡迴賽道：銀牌",
+      "杜洛塔巡迴賽道逆向版：銀牌",
       "杜隆塔尔巡回赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10620,7 +10620,7 @@
       "Tour de Durotar Invertido: Ouro",
       "Giro di Durotar Inverso: Oro",
       "듀로타 유람로 역방향: 금메달",
-      "杜洛塔逆向巡迴賽道：金牌",
+      "杜洛塔巡迴賽道逆向版：金牌",
       "杜隆塔尔巡回赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10704,7 +10704,7 @@
       "Rede Tramateia Avançada: Bronze",
       "Tracciato di Torcitele Avanzato: Bronzo",
       "그물누비 그물로 고급: 동메달",
-      "蛛網進階迂迴賽道：銅牌",
+      "蛛網迂迴賽道進階版：銅牌",
       "织网者迂回赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10725,7 +10725,7 @@
       "Rede Tramateia Avançada: Prata",
       "Tracciato di Torcitele Avanzato: Argento",
       "그물누비 그물로 고급: 은메달",
-      "蛛網進階迂迴賽道：銀牌",
+      "蛛網迂迴賽道進階版：銀牌",
       "织网者迂回赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10746,7 +10746,7 @@
       "Rede Tramateia Avançada: Ouro",
       "Tracciato di Torcitele Avanzato: Oro",
       "그물누비 그물로 고급: 금메달",
-      "蛛網進階迂迴賽道：金牌",
+      "蛛網迂迴賽道進階版：金牌",
       "织网者迂回赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10767,7 +10767,7 @@
       "Rede Tramateia Invertida: Bronze",
       "Tracciato di Torcitele Inverso: Bronzo",
       "그물누비 그물로 역방향: 동메달",
-      "蛛網逆向迂迴賽道：銅牌",
+      "蛛網迂迴賽道逆向版：銅牌",
       "织网者迂回赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10788,7 +10788,7 @@
       "Rede Tramateia Invertida: Prata",
       "Tracciato di Torcitele Inverso: Argento",
       "그물누비 그물로 역방향: 은메달",
-      "蛛網逆向迂迴賽道：銀牌",
+      "蛛網迂迴賽道逆向版：銀牌",
       "织网者迂回赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10809,7 +10809,7 @@
       "Rede Tramateia Invertida: Ouro",
       "Tracciato di Torcitele Inverso: Oro",
       "그물누비 그물로 역방향: 금메달",
-      "蛛網逆向迂迴賽道：金牌",
+      "蛛網迂迴賽道逆向版：金牌",
       "织网者迂回赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10893,7 +10893,7 @@
       "Deriva de Desolação Avançada: Bronze",
       "Deriva di Desolanda Avanzato: Bronzo",
       "잊혀진 땅 여로 고급: 동메달",
-      "淒涼之地進階甩尾賽道：銅牌",
+      "淒涼之地甩尾賽道進階版：銅牌",
       "凄凉漂移进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10914,7 +10914,7 @@
       "Deriva de Desolação Avançada: Prata",
       "Deriva di Desolanda Avanzato: Argento",
       "잊혀진 땅 여로 고급: 은메달",
-      "淒涼之地進階甩尾賽道：銀牌",
+      "淒涼之地甩尾賽道進階版：銀牌",
       "凄凉漂移进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10935,7 +10935,7 @@
       "Deriva de Desolação Avançada: Ouro",
       "Deriva di Desolanda Avanzato: Oro",
       "잊혀진 땅 여로 고급: 금메달",
-      "淒涼之地進階甩尾賽道：金牌",
+      "淒涼之地甩尾賽道進階版：金牌",
       "凄凉漂移进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -10956,7 +10956,7 @@
       "Deriva de Desolação Invertida: Bronze",
       "Deriva di Desolanda Inverso: Bronzo",
       "잊혀진 땅 여로 역방향: 동메달",
-      "淒涼之地逆向甩尾賽道：銅牌",
+      "淒涼之地甩尾賽道逆向版：銅牌",
       "凄凉漂移反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -10977,7 +10977,7 @@
       "Deriva de Desolação Invertida: Prata",
       "Deriva di Desolanda Inverso: Argento",
       "잊혀진 땅 여로 역방향: 은메달",
-      "淒涼之地逆向甩尾賽道：銀牌",
+      "淒涼之地甩尾賽道逆向版：銀牌",
       "凄凉漂移反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -10998,7 +10998,7 @@
       "Deriva de Desolação Invertida: Ouro",
       "Deriva di Desolanda Inverso: Oro",
       "잊혀진 땅 여로 역방향: 금메달",
-      "淒涼之地逆向甩尾賽道：金牌",
+      "淒涼之地甩尾賽道逆向版：金牌",
       "凄凉漂移反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11082,7 +11082,7 @@
       "Disparada da Grande Divisória Avançada: Bronze",
       "Picchiata nella Grande Fenditura Avanzato: Bronzo",
       "대분수령 강하로 고급: 동메달",
-      "大分水嶺進階俯衝賽道：銅牌",
+      "大分水嶺俯衝賽道進階版：銅牌",
       "大裂谷俯冲赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11103,7 +11103,7 @@
       "Disparada da Grande Divisória Avançada: Prata",
       "Picchiata nella Grande Fenditura Avanzato: Argento",
       "대분수령 강하로 고급: 은메달",
-      "大分水嶺進階俯衝賽道：銀牌",
+      "大分水嶺俯衝賽道進階版：銀牌",
       "大裂谷俯冲赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11124,7 +11124,7 @@
       "Disparada da Grande Divisória Avançada: Ouro",
       "Picchiata nella Grande Fenditura Avanzato: Oro",
       "대분수령 강하로 고급: 금메달",
-      "大分水嶺進階俯衝賽道：金牌",
+      "大分水嶺俯衝賽道進階版：金牌",
       "大裂谷俯冲赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11145,7 +11145,7 @@
       "Disparada da Grande Divisória Invertida: Bronze",
       "Picchiata nella Grande Fenditura Inverso: Bronzo",
       "대분수령 강하로 역방향: 동메달",
-      "大分水嶺逆向俯衝賽道：銅牌",
+      "大分水嶺俯衝賽道逆向版：銅牌",
       "大裂谷俯冲赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11166,7 +11166,7 @@
       "Disparada da Grande Divisória Invertida: Prata",
       "Picchiata nella Grande Fenditura Inverso: Argento",
       "대분수령 강하로 역방향: 은메달",
-      "大分水嶺逆向俯衝賽道：銀牌",
+      "大分水嶺俯衝賽道逆向版：銀牌",
       "大裂谷俯冲赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11187,7 +11187,7 @@
       "Disparada da Grande Divisória Invertida: Ouro",
       "Picchiata nella Grande Fenditura Inverso: Oro",
       "대분수령 강하로 역방향: 금메달",
-      "大分水嶺逆向俯衝賽道：金牌",
+      "大分水嶺俯衝賽道逆向版：金牌",
       "大裂谷俯冲赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11271,7 +11271,7 @@
       "Zagaia do Urzal Avançada: Bronze",
       "Rondò di Lamaspina Avanzato: Bronzo",
       "가시덩굴 회전로 고급: 동메달",
-      "剃刀高地進階環形賽道：銅牌",
+      "剃刀高地環形賽道進階版：銅牌",
       "剃刀沼泽环线进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11292,7 +11292,7 @@
       "Zagaia do Urzal Avançada: Prata",
       "Rondò di Lamaspina Avanzato: Argento",
       "가시덩굴 회전로 고급: 은메달",
-      "剃刀高地進階環形賽道：銀牌",
+      "剃刀高地環形賽道進階版：銀牌",
       "剃刀沼泽环线进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11313,7 +11313,7 @@
       "Zagaia do Urzal Avançada: Ouro",
       "Rondò di Lamaspina Avanzato: Oro",
       "가시덩굴 회전로 고급: 금메달",
-      "剃刀高地進階環形賽道：金牌",
+      "剃刀高地環形賽道進階版：金牌",
       "剃刀沼泽环线进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11334,7 +11334,7 @@
       "Zagaia do Urzal Invertida: Bronze",
       "Rondò di Lamaspina Inverso: Bronzo",
       "가시덩굴 회전로 역방향: 동메달",
-      "剃刀高地逆向環形賽道：銅牌",
+      "剃刀高地環形賽道逆向版：銅牌",
       "剃刀沼泽环线反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11355,7 +11355,7 @@
       "Zagaia do Urzal Invertida: Prata",
       "Rondò di Lamaspina Inverso: Argento",
       "가시덩굴 회전로 역방향: 은메달",
-      "剃刀高地逆向環形賽道：銀牌",
+      "剃刀高地環形賽道逆向版：銀牌",
       "剃刀沼泽环线反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11376,7 +11376,7 @@
       "Zagaia do Urzal Invertida: Ouro",
       "Rondò di Lamaspina Inverso: Oro",
       "가시덩굴 회전로 역방향: 금메달",
-      "剃刀高地逆向環形賽道：金牌",
+      "剃刀高地環形賽道逆向版：金牌",
       "剃刀沼泽环线反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11460,7 +11460,7 @@
       "Linha de Mil Agulhas Avançada: Bronze",
       "Slalom di Millepicchi Avanzato: Bronzo",
       "버섯구름 봉우리 견사로 고급: 동메달",
-      "千針石林進階交織賽道：銅牌",
+      "千針石林交織賽道進階版：銅牌",
       "千针石林折返赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11481,7 +11481,7 @@
       "Linha de Mil Agulhas Avançada: Prata",
       "Slalom di Millepicchi Avanzato: Argento",
       "버섯구름 봉우리 견사로 고급: 은메달",
-      "千針石林進階交織賽道：銀牌",
+      "千針石林交織賽道進階版：銀牌",
       "千针石林折返赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11502,7 +11502,7 @@
       "Linha de Mil Agulhas Avançada: Ouro",
       "Slalom di Millepicchi Avanzato: Oro",
       "버섯구름 봉우리 견사로 고급: 금메달",
-      "千針石林進階交織賽道：金牌",
+      "千針石林交織賽道進階版：金牌",
       "千针石林折返赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11523,7 +11523,7 @@
       "Linha de Mil Agulhas Invertida: Bronze",
       "Slalom di Millepicchi Inverso: Bronzo",
       "버섯구름 봉우리 견사로 역방향: 동메달",
-      "千針石林逆向交織賽道：銅牌",
+      "千針石林交織賽道逆向版：銅牌",
       "千针石林折返赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11544,7 +11544,7 @@
       "Linha de Mil Agulhas Invertida: Prata",
       "Slalom di Millepicchi Inverso: Argento",
       "버섯구름 봉우리 견사로 역방향: 은메달",
-      "千針石林逆向交織賽道：銀牌",
+      "千針石林交織賽道逆向版：銀牌",
       "千针石林折返赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11565,7 +11565,7 @@
       "Linha de Mil Agulhas Invertida: Ouro",
       "Slalom di Millepicchi Inverso: Oro",
       "버섯구름 봉우리 견사로 역방향: 금메달",
-      "千針石林逆向交織賽道：金牌",
+      "千針石林交織賽道逆向版：金牌",
       "千针石林折返赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11649,7 +11649,7 @@
       "Escala das Ruínas de Feralas Avançada: Bronze",
       "Sfrecciata delle Rovine di Feralas Avanzato: Bronzo",
       "페랄라스 폐허 산책로 고급: 동메달",
-      "菲拉斯廢墟進階休閒賽道：銅牌",
+      "菲拉斯廢墟休閒賽道進階版：銅牌",
       "菲拉斯废墟越野赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11670,7 +11670,7 @@
       "Escala das Ruínas de Feralas Avançada: Prata",
       "Sfrecciata delle Rovine di Feralas Avanzato: Argento",
       "페랄라스 폐허 산책로 고급: 은메달",
-      "菲拉斯廢墟進階休閒賽道：銀牌",
+      "菲拉斯廢墟休閒賽道進階版：銀牌",
       "菲拉斯废墟越野赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11691,7 +11691,7 @@
       "Escala das Ruínas de Feralas Avançada: Ouro",
       "Sfrecciata delle Rovine di Feralas Avanzato: Oro",
       "페랄라스 폐허 산책로 고급: 금메달",
-      "菲拉斯廢墟進階休閒賽道：金牌",
+      "菲拉斯廢墟休閒賽道進階版：金牌",
       "菲拉斯废墟越野赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11712,7 +11712,7 @@
       "Escala das Ruínas de Feralas Invertida: Bronze",
       "Sfrecciata delle Rovine di Feralas Inverso: Bronzo",
       "페랄라스 폐허 산책로 역방향: 동메달",
-      "菲拉斯廢墟逆向休閒賽道：銅牌",
+      "菲拉斯廢墟休閒賽道逆向版：銅牌",
       "菲拉斯废墟越野赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11733,7 +11733,7 @@
       "Escala das Ruínas de Feralas Invertida: Prata",
       "Sfrecciata delle Rovine di Feralas Inverso: Argento",
       "페랄라스 폐허 산책로 역방향: 은메달",
-      "菲拉斯廢墟逆向休閒賽道：銀牌",
+      "菲拉斯廢墟休閒賽道逆向版：銀牌",
       "菲拉斯废墟越野赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11754,7 +11754,7 @@
       "Escala das Ruínas de Feralas Invertida: Ouro",
       "Sfrecciata delle Rovine di Feralas Inverso: Oro",
       "페랄라스 폐허 산책로 역방향: 금메달",
-      "菲拉斯廢墟逆向休閒賽道：金牌",
+      "菲拉斯廢墟休閒賽道逆向版：金牌",
       "菲拉斯废墟越野赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11838,7 +11838,7 @@
       "Circuito de Ahn'Qiraj Avançado: Bronze",
       "Circuito di Ahn'qiraj Avanzato: Bronzo",
       "안퀴라즈 순환로 고급: 동메달",
-      "安其拉進階環狀賽道：銅牌",
+      "安其拉環狀賽道進階版：銅牌",
       "安其拉环道进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11859,7 +11859,7 @@
       "Circuito de Ahn'Qiraj Avançado: Prata",
       "Circuito di Ahn'qiraj Avanzato: Argento",
       "안퀴라즈 순환로 고급: 은메달",
-      "安其拉進階環狀賽道：銀牌",
+      "安其拉環狀賽道進階版：銀牌",
       "安其拉环道进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11880,7 +11880,7 @@
       "Circuito de Ahn'Qiraj Avançado: Ouro",
       "Circuito di Ahn'qiraj Avanzato: Oro",
       "안퀴라즈 순환로 고급: 금메달",
-      "安其拉進階環狀賽道：金牌",
+      "安其拉環狀賽道進階版：金牌",
       "安其拉环道进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -11901,7 +11901,7 @@
       "Circuito de Ahn'Qiraj Invertido: Bronze",
       "Circuito di Ahn'qiraj Inverso: Bronzo",
       "안퀴라즈 순환로 역방향: 동메달",
-      "安其拉逆向環狀賽道：銅牌",
+      "安其拉環狀賽道逆向版：銅牌",
       "安其拉环道反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -11922,7 +11922,7 @@
       "Circuito de Ahn'Qiraj Invertido: Prata",
       "Circuito di Ahn'qiraj Inverso: Argento",
       "안퀴라즈 순환로 역방향: 은메달",
-      "安其拉逆向環狀賽道：銀牌",
+      "安其拉環狀賽道逆向版：銀牌",
       "安其拉环道反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -11943,7 +11943,7 @@
       "Circuito de Ahn'Qiraj Invertido: Ouro",
       "Circuito di Ahn'qiraj Inverso: Oro",
       "안퀴라즈 순환로 역방향: 금메달",
-      "安其拉逆向環狀賽道：金牌",
+      "安其拉環狀賽道逆向版：金牌",
       "安其拉环道反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -12027,7 +12027,7 @@
       "Tour de Uldum Avançado: Bronze",
       "Giro di Uldum Avanzato: Bronzo",
       "울둠 유람로 고급: 동메달",
-      "奧丹姆進階巡迴賽道：銅牌",
+      "奧丹姆巡迴賽道進階版：銅牌",
       "奥丹姆巡回赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -12048,7 +12048,7 @@
       "Tour de Uldum Avançado: Prata",
       "Giro di Uldum Avanzato: Argento",
       "울둠 유람로 고급: 은메달",
-      "奧丹姆進階巡迴賽道：銀牌",
+      "奧丹姆巡迴賽道進階版：銀牌",
       "奥丹姆巡回赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -12069,7 +12069,7 @@
       "Tour de Uldum Avançado: Ouro",
       "Giro di Uldum Avanzato: Oro",
       "울둠 유람로 고급: 금메달",
-      "奧丹姆進階巡迴賽道：金牌",
+      "奧丹姆巡迴賽道進階版：金牌",
       "奥丹姆巡回赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -12090,7 +12090,7 @@
       "Tour de Uldum Invertido: Bronze",
       "Giro di Uldum Inverso: Bronzo",
       "울둠 유람로 역방향: 동메달",
-      "奧丹姆逆向巡迴賽道：銅牌",
+      "奧丹姆巡迴賽道逆向版：銅牌",
       "奥丹姆巡回赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -12111,7 +12111,7 @@
       "Tour de Uldum Invertido: Prata",
       "Giro di Uldum Inverso: Argento",
       "울둠 유람로 역방향: 은메달",
-      "奧丹姆逆向巡迴賽道：銀牌",
+      "奧丹姆巡迴賽道逆向版：銀牌",
       "奥丹姆巡回赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -12132,7 +12132,7 @@
       "Tour de Uldum Invertido: Ouro",
       "Giro di Uldum Inverso: Oro",
       "울둠 유람로 역방향: 금메달",
-      "奧丹姆逆向巡迴賽道：金牌",
+      "奧丹姆巡迴賽道逆向版：金牌",
       "奥丹姆巡回赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -12216,7 +12216,7 @@
       "Circuito da Cratera Un'Goro Avançado: Bronze",
       "Circuito del Cratere di Un'Goro Avanzato: Bronzo",
       "운고로 분화구 순환로 고급: 동메달",
-      "安戈洛環形山進階環狀賽道：銅牌",
+      "安戈洛環形山環狀賽道進階版：銅牌",
       "安戈洛环形山巡回赛进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -12237,7 +12237,7 @@
       "Circuito da Cratera Un'Goro Avançado: Prata",
       "Circuito del Cratere di Un'Goro Avanzato: Argento",
       "운고로 분화구 순환로 고급: 은메달",
-      "安戈洛環形山進階環狀賽道：銀牌",
+      "安戈洛環形山環狀賽道進階版：銀牌",
       "安戈洛环形山巡回赛进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -12258,7 +12258,7 @@
       "Circuito da Cratera Un'Goro Avançado: Ouro",
       "Circuito del Cratere di Un'Goro Avanzato: Oro",
       "운고로 분화구 순환로 고급: 금메달",
-      "安戈洛環形山進階環狀賽道：金牌",
+      "安戈洛環形山環狀賽道進階版：金牌",
       "安戈洛环形山巡回赛进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -12279,7 +12279,7 @@
       "Circuito da Cratera Un'Goro Invertido: Bronze",
       "Circuito del Cratere di Un'Goro Inverso: Bronzo",
       "운고로 분화구 순환로 역방향: 동메달",
-      "安戈洛環形山逆向環狀賽道：銅牌",
+      "安戈洛環形山環狀賽道逆向版：銅牌",
       "安戈洛环形山巡回赛反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -12300,7 +12300,7 @@
       "Circuito da Cratera Un'Goro Invertido: Prata",
       "Circuito del Cratere di Un'Goro Inverso: Argento",
       "운고로 분화구 순환로 역방향: 은메달",
-      "安戈洛環形山逆向環狀賽道：銀牌",
+      "安戈洛環形山環狀賽道逆向版：銀牌",
       "安戈洛环形山巡回赛反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -12321,7 +12321,7 @@
       "Circuito da Cratera Un'Goro Invertido: Ouro",
       "Circuito del Cratere di Un'Goro Inverso: Oro",
       "운고로 분화구 순환로 역방향: 금메달",
-      "安戈洛環形山逆向環狀賽道：金牌",
+      "安戈洛環形山環狀賽道逆向版：金牌",
       "安戈洛环形山巡回赛反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -12405,7 +12405,7 @@
       "Kalimdor Avançada: Bronze",
       "Kalimdor Avanzato: Bronzo",
       "칼림도어 고급: 동메달",
-      "卡林多進階賽道：銅牌",
+      "卡林多賽道進階版：銅牌",
       "卡利姆多进阶版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -12426,7 +12426,7 @@
       "Kalimdor Avançada: Prata",
       "Kalimdor Avanzato: Argento",
       "칼림도어 고급: 은메달",
-      "卡林多進階賽道：銀牌",
+      "卡林多賽道進階版：銀牌",
       "卡利姆多进阶版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -12447,7 +12447,7 @@
       "Kalimdor Avançada: Ouro",
       "Kalimdor Avanzato: Oro",
       "칼림도어 고급: 금메달",
-      "卡林多進階賽道：金牌",
+      "卡林多賽道進階版：金牌",
       "卡利姆多进阶版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -12468,7 +12468,7 @@
       "Kalimdor Invertida: Bronze",
       "Kalimdor Inverso: Bronzo",
       "칼림도어 역방향: 동메달",
-      "卡林多逆向競速：銅牌",
+      "卡林多賽道逆向版：銅牌",
       "卡利姆多反向版：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -12489,7 +12489,7 @@
       "Kalimdor Invertida: Prata",
       "Kalimdor Inverso: Argento",
       "칼림도어 역방향: 은메달",
-      "卡林多逆向競速：銀牌",
+      "卡林多賽道逆向版：銀牌",
       "卡利姆多反向版：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -12510,7 +12510,7 @@
       "Kalimdor Invertida: Ouro",
       "Kalimdor Inverso: Oro",
       "칼림도어 역방향: 금메달",
-      "卡林多逆向競速：金牌",
+      "卡林多賽道逆向版：金牌",
       "卡利姆多反向版：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -12661,6 +12661,27 @@
       "黑曜争斗者"
     ],
     "Media": "achievement_featsofstrength_gladiator_05.jpg"
+  },
+  {
+    "TagId": 17730,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B",
+      "Random Login Variable B"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 17732,
@@ -13171,21 +13192,21 @@
     "TagType": 20,
     "Names": [
       null,
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)",
-      "<DNT> Loamm Niffen Rank 15 (Account)"
+      "Friends in Loamm Places",
+      "Amigos subterráneos en Loamm",
+      "Amizades argilosas",
+      "Friends in Loamm Places",
+      "Amigos en Loamm",
+      "Amis du terreau",
+      "Друзья в Лоамме",
+      "Freunde in Loamm",
+      "Amizades argilosas",
+      "Amici di Loamm",
+      "로암 친구들",
+      "洛姆之友",
+      "峈姆之友"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "ui_majorfaction_niffen.jpg"
   },
   {
     "TagId": 17757,
@@ -13392,7 +13413,7 @@
       "Lenda Obsidiana: Série 2 de Dragonflight",
       "Leggenda d'Ossidiana: Stagione 2 di Dragonflight",
       "흑요석 전설: 용군단 2 시즌",
-      "黑曜石傳說：巨龍崛起第2賽季",
+      "黑曜傳奇：巨龍崛起第2賽季",
       "黑曜传说：“巨龙时代”第2赛季"
     ],
     "Media": "achievement_featsofstrength_gladiator_07.jpg"
@@ -13434,7 +13455,7 @@
       "Herói da Horda: Obsidiano",
       "Eroe dell'Orda: Ossidiana",
       "흑요석 호드의 영웅",
-      "部落的英雄：黑曜石",
+      "部落的英雄：黑曜",
       "部落英雄：黑曜"
     ],
     "Media": "achievement_pvp_h_h.jpg"
@@ -13791,7 +13812,7 @@
       "Lenda: Série 2 de Dragonflight",
       "Leggenda: Stagione 2 di Dragonflight",
       "전설: 용군단 2 시즌",
-      "傳說：巨龍崛起第2賽季",
+      "傳奇：巨龍崛起第2賽季",
       "传说：“巨龙时代”第2赛季"
     ],
     "Media": "achievement_featsofstrength_gladiator_04.jpg"
@@ -14253,7 +14274,7 @@
       "Desafio Circuito do Santuário da Vida Rubi: Bronze",
       "Anello del Tempio della Vita di Rubino - Sfida: Bronzo",
       "루비 생명의 제단 윤환로 도전: 동메달",
-      "晶紅生命聖殿挑戰迴圈賽道：銅牌",
+      "晶紅生命聖殿迴圈賽道挑戰版：銅牌",
       "红玉新生圣地赛道挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14274,7 +14295,7 @@
       "Desafio Circuito do Santuário da Vida Rubi: Prata",
       "Anello del Tempio della Vita di Rubino - Sfida: Argento",
       "루비 생명의 제단 윤환로 도전: 은메달",
-      "晶紅生命聖殿挑戰迴圈賽道：銀牌",
+      "晶紅生命聖殿迴圈賽道挑戰版：銀牌",
       "红玉新生圣地赛道挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14316,7 +14337,7 @@
       "Desafio Circuito do Santuário da Vida Rubi Invertido: Bronze",
       "Anello del Tempio della Vita di Rubino - Sfida (Inverso): Bronzo",
       "루비 생명의 제단 윤환로 역방향 도전: 동메달",
-      "晶紅生命聖殿逆向挑戰迴圈賽道：銅牌",
+      "晶紅生命聖殿迴圈賽道彎道逆向挑戰版：銅牌",
       "红玉新生圣地赛道反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14337,7 +14358,7 @@
       "Desafio Circuito do Santuário da Vida Rubi Invertido: Prata",
       "Anello del Tempio della Vita di Rubino - Sfida (Inverso): Argento",
       "루비 생명의 제단 윤환로 역방향 도전: 은메달",
-      "晶紅生命聖殿逆向挑戰迴圈賽道：銀牌",
+      "晶紅生命聖殿迴圈賽道逆向挑戰版：銀牌",
       "红玉新生圣地赛道反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14358,7 +14379,7 @@
       "Desafio Circuito do Santuário da Vida Rubi Invertido: Ouro",
       "Anello del Tempio della Vita di Rubino - Sfida (Inverso): Oro",
       "루비 생명의 제단 윤환로 역방향 도전: 금메달",
-      "晶紅生命聖殿逆向挑戰迴圈賽道：金牌",
+      "晶紅生命聖殿迴圈賽道逆向挑戰版：金牌",
       "红玉新生圣地赛道反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14379,7 +14400,7 @@
       "Desafio Slalom da Reserva Selvagem: Bronze",
       "Slalom della Riserva Selvaggia - Sfida: Bronzo",
       "야생의 보존지 활강로 도전: 동메달",
-      "野生保育區挑戰彎道：銅牌",
+      "野生保育區彎道挑戰版：銅牌",
       "狂野禁猎区障碍赛挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14400,7 +14421,7 @@
       "Desafio Slalom da Reserva Selvagem: Prata",
       "Slalom della Riserva Selvaggia - Sfida: Argento",
       "야생의 보존지 활강로 도전: 은메달",
-      "野生保育區挑戰彎道：銀牌",
+      "野生保育區彎道挑戰版：銀牌",
       "狂野禁猎区障碍赛挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14421,7 +14442,7 @@
       "Desafio Slalom da Reserva Selvagem: Ouro",
       "Slalom della Riserva Selvaggia - Sfida: Oro",
       "야생의 보존지 활강로 도전: 금메달",
-      "野生保育區挑戰彎道：金牌",
+      "野生保育區彎道挑戰版：金牌",
       "狂野禁猎区障碍赛挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14442,7 +14463,7 @@
       "Desafio Slalom da Reserva Selvagem Invertido: Bronze",
       "Slalom della Riserva Selvaggia - Sfida (Inverso): Bronzo",
       "야생의 보존지 활강로 역방향 도전: 동메달",
-      "野生保育區逆向挑戰彎道：銅牌",
+      "野生保育區彎道逆向挑戰版：銅牌",
       "狂野禁猎区障碍赛反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14463,7 +14484,7 @@
       "Desafio Slalom da Reserva Selvagem Invertido: Prata",
       "Slalom della Riserva Selvaggia - Sfida (Inverso): Argento",
       "야생의 보존지 활강로 역방향 도전: 은메달",
-      "野生保育區逆向挑戰彎道：銀牌",
+      "野生保育區彎道逆向挑戰版：銀牌",
       "狂野禁猎区障碍赛反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14484,7 +14505,7 @@
       "Desafio Slalom da Reserva Selvagem Invertido: Ouro",
       "Slalom della Riserva Selvaggia - Sfida (Inverso): Oro",
       "야생의 보존지 활강로 역방향 도전: 금메달",
-      "野生保育區逆向挑戰彎道：金牌",
+      "野生保育區彎道逆向挑戰版：金牌",
       "狂野禁猎区障碍赛反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14505,7 +14526,7 @@
       "Desafio Voo de Fluibrasa: Bronze",
       "Volo del Flusso Ardente - Sfida: Bronzo",
       "잿불흐름 비행로 도전: 동메달",
-      "餘燼之流挑戰飛行賽道：銅牌",
+      "餘燼之流飛行賽道挑戰版：銅牌",
       "烬琉航线挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14526,7 +14547,7 @@
       "Desafio Voo de Fluibrasa: Prata",
       "Volo del Flusso Ardente - Sfida: Argento",
       "잿불흐름 비행로 도전: 은메달",
-      "餘燼之流挑戰飛行賽道：銀牌",
+      "餘燼之流飛行賽道挑戰版：銀牌",
       "烬琉航线挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14547,7 +14568,7 @@
       "Desafio Voo de Fluibrasa: Ouro",
       "Volo del Flusso Ardente - Sfida: Oro",
       "잿불흐름 비행로 도전: 금메달",
-      "餘燼之流挑戰飛行賽道：金牌",
+      "餘燼之流飛行賽道挑戰版：金牌",
       "烬琉航线挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14568,7 +14589,7 @@
       "Desafio Voo de Fluibrasa Invertido: Bronze",
       "Volo del Flusso Ardente - Sfida (Inverso): Bronzo",
       "잿불흐름 비행로 역방향 도전: 동메달",
-      "餘燼之流逆向挑戰飛行賽道：銅牌",
+      "餘燼之流飛行賽道逆向挑戰版：銅牌",
       "烬琉航线反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14589,7 +14610,7 @@
       "Desafio Voo de Fluibrasa Invertido: Prata",
       "Volo del Flusso Ardente - Sfida (Inverso): Argento",
       "잿불흐름 비행로 역방향 도전: 은메달",
-      "餘燼之流逆向挑戰飛行賽道：銀牌",
+      "餘燼之流飛行賽道逆向挑戰版：銀牌",
       "烬琉航线反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14610,7 +14631,7 @@
       "Desafio Voo de Fluibrasa Invertido: Ouro",
       "Volo del Flusso Ardente - Sfida (Inverso): Oro",
       "잿불흐름 비행로 역방향 도전: 금메달",
-      "餘燼之流逆向挑戰飛行賽道：金牌",
+      "餘燼之流飛行賽道逆向挑戰版：金牌",
       "烬琉航线反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14631,7 +14652,7 @@
       "Desafio Disputa do Rio do Dossel do Ápice: Bronze",
       "Gara sul Fiume della Giungla Apicale - Sfida: Bronzo",
       "최정상 거처 강변로 도전: 동메달",
-      "頂尖之冠挑戰河川賽道：銅牌",
+      "頂尖之冠河川賽道挑戰版：銅牌",
       "绝顶树冠激流冲刺挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14652,7 +14673,7 @@
       "Desafio Disputa do Rio do Dossel do Ápice: Prata",
       "Gara sul Fiume della Giungla Apicale - Sfida: Argento",
       "최정상 거처 강변로 도전: 은메달",
-      "頂尖之冠挑戰河川賽道：銀牌",
+      "頂尖之冠河川賽道挑戰版：銀牌",
       "绝顶树冠激流冲刺挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14673,7 +14694,7 @@
       "Desafio Disputa do Rio do Dossel do Ápice: Ouro",
       "Gara sul Fiume della Giungla Apicale - Sfida: Oro",
       "최정상 거처 강변로 도전: 금메달",
-      "頂尖之冠挑戰河川賽道：金牌",
+      "頂尖之冠河川賽道挑戰版：金牌",
       "绝顶树冠激流冲刺挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14694,7 +14715,7 @@
       "Desafio Disputa do Rio do Dossel do Ápice Invertida: Bronze",
       "Gara sul Fiume della Giungla Apicale - Sfida (Inverso): Bronzo",
       "최정상 거처 강변로 역방향 도전: 동메달",
-      "頂尖之冠挑戰河川賽道：銅牌",
+      "頂尖之冠河川賽道逆向挑戰版：銅牌",
       "绝顶树冠激流冲刺反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14715,7 +14736,7 @@
       "Desafio Disputa do Rio do Dossel do Ápice Invertida: Prata",
       "Gara sul Fiume della Giungla Apicale - Sfida (Inverso): Argento",
       "최정상 거처 강변로 역방향 도전: 은메달",
-      "頂尖之冠逆向挑戰河川賽道：銀牌",
+      "頂尖之冠河川賽道逆向挑戰版：銀牌",
       "绝顶树冠激流冲刺反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14736,7 +14757,7 @@
       "Desafio Disputa do Rio do Dossel do Ápice Invertida: Ouro",
       "Gara sul Fiume della Giungla Apicale - Sfida (Inverso): Oro",
       "최정상 거처 강변로 역방향 도전: 금메달",
-      "頂尖之冠逆向挑戰河川賽道：銅牌",
+      "頂尖之冠河川賽道逆向挑戰版：銅牌",
       "绝顶树冠激流冲刺反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14904,7 +14925,7 @@
       "Desafio Montanha-russa de Uktulut: Bronze",
       "Ottovolante degli Uktulut - Sfida: Bronzo",
       "우크툴루트 연안로 도전: 동메달",
-      "屋克杜魯挑戰雲霄賽道：銅牌",
+      "屋克杜魯雲霄賽道挑戰版：銅牌",
       "乌克图鲁特急流挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14925,7 +14946,7 @@
       "Desafio Montanha-russa de Uktulut: Prata",
       "Ottovolante degli Uktulut - Sfida: Argento",
       "우크툴루트 연안로 도전: 은메달",
-      "屋克杜魯挑戰雲霄賽道：銀牌",
+      "屋克杜魯雲霄賽道挑戰版：銀牌",
       "乌克图鲁特急流挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -14946,7 +14967,7 @@
       "Desafio Montanha-russa de Uktulut: Ouro",
       "Ottovolante degli Uktulut - Sfida: Oro",
       "우크툴루트 연안로 도전: 금메달",
-      "屋克杜魯挑戰雲霄賽道：金牌",
+      "屋克杜魯雲霄賽道挑戰版：金牌",
       "乌克图鲁特急流挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -14967,7 +14988,7 @@
       "Desafio Montanha-russa de Uktulut Invertida: Bronze",
       "Ottovolante degli Uktulut - Sfida (Inverso): Bronzo",
       "우크툴루트 연안로 역방향 도전: 동메달",
-      "屋克杜魯逆向挑戰雲霄賽道：銅牌",
+      "屋克杜魯雲霄賽道逆向挑戰版：銅牌",
       "乌克图鲁特急流反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -14988,7 +15009,7 @@
       "Desafio Montanha-russa de Uktulut Invertida: Prata",
       "Ottovolante degli Uktulut - Sfida (Inverso): Argento",
       "우크툴루트 연안로 역방향 도전: 은메달",
-      "屋克杜魯逆向挑戰雲霄賽道：銀牌",
+      "屋克杜魯雲霄賽道逆向挑戰版：銀牌",
       "乌克图鲁特急流反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15009,7 +15030,7 @@
       "Desafio Montanha-russa de Uktulut Invertida: Ouro",
       "Ottovolante degli Uktulut - Sfida (Inverso): Oro",
       "우크툴루트 연안로 역방향 도전: 금메달",
-      "屋克杜魯逆向挑戰雲霄賽道：金牌",
+      "屋克杜魯雲霄賽道逆向挑戰版：金牌",
       "乌克图鲁特急流反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15051,7 +15072,7 @@
       "Desafio Rotatória Pouso das Asas: Bronze",
       "Rondò di Riposo Alato - Sfida: Bronzo",
       "날개쉼터 회전로 도전: 동메달",
-      "翼息挑戰環形賽道：銅牌",
+      "翼息環形賽道挑戰版：銅牌",
       "翼眠环线挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15072,7 +15093,7 @@
       "Desafio Rotatória Pouso das Asas: Prata",
       "Rondò di Riposo Alato - Sfida: Argento",
       "날개쉼터 회전로 도전: 은메달",
-      "翼息挑戰環形賽道：銀牌",
+      "翼息環形賽道挑戰版：銀牌",
       "翼眠环线挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15093,7 +15114,7 @@
       "Desafio Rotatória Pouso das Asas: Ouro",
       "Rondò di Riposo Alato - Sfida: Oro",
       "날개쉼터 회전로 도전: 금메달",
-      "翼息挑戰環形賽道：金牌",
+      "翼息環形賽道挑戰版：金牌",
       "翼眠环线挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15114,7 +15135,7 @@
       "Desafio Rotatória Pouso das Asas Invertida: Bronze",
       "Rondò di Riposo Alato - Sfida (Inverso): Bronzo",
       "날개쉼터 회전로 역방향 도전: 동메달",
-      "翼息逆向挑戰環形賽道：銅牌",
+      "翼息環形賽道逆向挑戰版：銅牌",
       "翼眠环线反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15135,7 +15156,7 @@
       "Desafio Rotatória Pouso das Asas Invertida: Prata",
       "Rondò di Riposo Alato - Sfida (Inverso): Argento",
       "날개쉼터 회전로 역방향 도전: 은메달",
-      "翼息逆向挑戰環形賽道：銀牌",
+      "翼息環形賽道逆向挑戰版：銀牌",
       "翼眠环线反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15156,7 +15177,7 @@
       "Desafio Rotatória Pouso das Asas Invertida: Ouro",
       "Rondò di Riposo Alato - Sfida (Inverso): Oro",
       "날개쉼터 회전로 역방향 도전: 금메달",
-      "翼息逆向挑戰環形賽道：金牌",
+      "翼息環形賽道逆向挑戰版：金牌",
       "翼眠环线反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15177,7 +15198,7 @@
       "Desafio Sobrevoo do Gelo Súbito: Bronze",
       "Sorvolo dei Freddolesto - Sfida: Bronzo",
       "섬광서리 고가로 도전: 동메달",
-      "閃霜挑戰飛掠賽道：銅牌",
+      "閃霜飛掠賽道挑戰版：銅牌",
       "闪霜飞越挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15198,7 +15219,7 @@
       "Desafio Sobrevoo do Gelo Súbito: Prata",
       "Sorvolo dei Freddolesto - Sfida: Argento",
       "섬광서리 고가로 도전: 은메달",
-      "閃霜挑戰飛掠賽道：銀牌",
+      "閃霜飛掠賽道挑戰版：銀牌",
       "闪霜飞越挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15219,7 +15240,7 @@
       "Desafio Sobrevoo do Gelo Súbito: Ouro",
       "Sorvolo dei Freddolesto - Sfida: Oro",
       "섬광서리 고가로 도전: 금메달",
-      "閃霜挑戰飛掠賽道：金牌",
+      "閃霜飛掠賽道挑戰版：金牌",
       "闪霜飞越挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15240,7 +15261,7 @@
       "Desafio Sobrevoo do Gelo Súbito Invertido: Bronze",
       "Sorvolo dei Freddolesto - Sfida (Inverso): Bronzo",
       "섬광서리 고가로 역방향 도전: 동메달",
-      "閃霜逆向挑戰飛掠賽道：銅牌",
+      "閃霜飛掠賽道逆向挑戰版：銅牌",
       "闪霜飞越反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15261,7 +15282,7 @@
       "Desafio Sobrevoo do Gelo Súbito Invertido: Prata",
       "Sorvolo dei Freddolesto - Sfida (Inverso): Argento",
       "섬광서리 고가로 역방향 도전: 은메달",
-      "閃霜逆向挑戰飛掠賽道：銀牌",
+      "閃霜飛掠賽道逆向挑戰版：銀牌",
       "闪霜飞越反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15282,7 +15303,7 @@
       "Desafio Sobrevoo do Gelo Súbito Invertido: Ouro",
       "Sorvolo dei Freddolesto - Sfida (Inverso): Oro",
       "섬광서리 고가로 역방향 도전: 금메달",
-      "閃霜逆向挑戰飛掠賽道：金牌",
+      "閃霜飛掠賽道逆向挑戰版：金牌",
       "闪霜飞越反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15345,7 +15366,7 @@
       "Desafio Circuito da Reserva Selvagem: Bronze",
       "Circuito della Riserva Selvaggia - Sfida: Bronzo",
       "야생의 보존지 순환로 도전: 동메달",
-      "野生保育區挑戰環狀賽道：銅牌",
+      "野生保育區環狀賽道挑戰版：銅牌",
       "狂野禁猎区巡回赛挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15366,7 +15387,7 @@
       "Desafio Circuito da Reserva Selvagem: Prata",
       "Circuito della Riserva Selvaggia - Sfida: Argento",
       "야생의 보존지 순환로 도전: 은메달",
-      "野生保育區挑戰環狀賽道：銀牌",
+      "野生保育區環狀賽道挑戰版：銀牌",
       "狂野禁猎区巡回赛挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15387,7 +15408,7 @@
       "Desafio Circuito da Reserva Selvagem: Ouro",
       "Circuito della Riserva Selvaggia - Sfida: Oro",
       "야생의 보존지 순환로 도전: 금메달",
-      "野生保育區挑戰環狀賽道：金牌",
+      "野生保育區環狀賽道挑戰版：金牌",
       "狂野禁猎区巡回赛挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15408,7 +15429,7 @@
       "Desafio Circuito da Reserva Selvagem Invertido: Bronze",
       "Circuito della Riserva Selvaggia - Sfida (Inverso): Bronzo",
       "야생의 보존지 순환로 역방향 도전: 동메달",
-      "野生保育區逆向挑戰環狀賽道：銅牌",
+      "野生保育區環狀賽道逆向挑戰版：銅牌",
       "狂野禁猎区巡回赛反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15429,7 +15450,7 @@
       "Desafio Circuito da Reserva Selvagem Invertido: Prata",
       "Circuito della Riserva Selvaggia - Sfida (Inverso): Argento",
       "야생의 보존지 순환로 역방향 도전: 은메달",
-      "野生保育區逆向挑戰環狀賽道：銀牌",
+      "野生保育區環狀賽道逆向挑戰版：銀牌",
       "狂野禁猎区巡回赛反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15450,7 +15471,7 @@
       "Desafio Circuito da Reserva Selvagem Invertido: Ouro",
       "Circuito della Riserva Selvaggia - Sfida (Inverso): Oro",
       "야생의 보존지 순환로 역방향 도전: 금메달",
-      "野生保育區逆向挑戰環狀賽道：金牌",
+      "野生保育區環狀賽道逆向挑戰版：金牌",
       "狂野禁猎区巡回赛反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15471,7 +15492,7 @@
       "Desafio Circuito do Arvoredo Verdelume: Bronze",
       "Circuito del Boschetto Spargisole - Sfida: Bronzo",
       "아른햇살 숲 순환로 도전: 동메달",
-      "光痕叢林挑戰環狀賽道：銅牌",
+      "光痕叢林環狀賽道挑戰版：銅牌",
       "阳斑灌木林巡回赛挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15492,7 +15513,7 @@
       "Desafio Circuito do Arvoredo Verdelume: Prata",
       "Circuito del Boschetto Spargisole - Sfida: Argento",
       "아른햇살 숲 순환로 도전: 은메달",
-      "光痕叢林挑戰環狀賽道：銀牌",
+      "光痕叢林環狀賽道挑戰版：銀牌",
       "阳斑灌木林巡回赛挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15513,7 +15534,7 @@
       "Desafio Circuito do Arvoredo Verdelume: Ouro",
       "Circuito del Boschetto Spargisole - Sfida: Oro",
       "아른햇살 숲 순환로 도전: 금메달",
-      "光痕叢林挑戰環狀賽道：金牌",
+      "光痕叢林環狀賽道挑戰版：金牌",
       "阳斑灌木林巡回赛挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15618,7 +15639,7 @@
       "Desafio Circuito do Arvoredo Verdelume Invertido: Bronze",
       "Circuito del Boschetto Spargisole - Sfida (Inverso): Bronzo",
       "아른햇살 숲 순환로 역방향 도전: 동메달",
-      "光痕叢林逆向挑戰環狀賽道：銅牌",
+      "光痕叢林環狀賽道逆向挑戰版：銅牌",
       "阳斑灌木林巡回赛反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15639,7 +15660,7 @@
       "Desafio Circuito do Arvoredo Verdelume Invertido: Prata",
       "Circuito del Boschetto Spargisole - Sfida (Inverso): Argento",
       "아른햇살 숲 순환로 역방향 도전: 은메달",
-      "光痕叢林逆向挑戰環狀賽道：銀牌",
+      "光痕叢林環狀賽道逆向挑戰版：銀牌",
       "阳斑灌木林巡回赛反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15660,7 +15681,7 @@
       "Desafio Circuito do Arvoredo Verdelume Invertido: Ouro",
       "Circuito del Boschetto Spargisole - Sfida (Inverso): Oro",
       "아른햇살 숲 순환로 역방향 도전: 금메달",
-      "光痕叢林逆向挑戰環狀賽道：金牌",
+      "光痕叢林環狀賽道逆向挑戰版：金牌",
       "阳斑灌木林巡回赛反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15681,7 +15702,7 @@
       "Desafio Travessia do Charco: Bronze",
       "Volo nel Pantano - Sfida: Bronzo",
       "늪지대 경유로 도전: 동메달",
-      "沼地挑戰飛掠賽道：銅牌",
+      "沼地飛掠賽道挑戰版：銅牌",
       "泽地漫游挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15702,7 +15723,7 @@
       "Desafio Travessia do Charco: Prata",
       "Volo nel Pantano - Sfida: Argento",
       "늪지대 경유로 도전: 은메달",
-      "沼地挑戰飛掠賽道：銀牌",
+      "沼地飛掠賽道挑戰版：銀牌",
       "泽地漫游挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15723,7 +15744,7 @@
       "Desafio Travessia do Charco: Ouro",
       "Volo nel Pantano - Sfida: Oro",
       "늪지대 경유로 도전: 금메달",
-      "沼地挑戰飛掠賽道：金牌",
+      "沼地飛掠賽道挑戰版：金牌",
       "泽地漫游挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15744,7 +15765,7 @@
       "Desafio Travessia do Charco Invertida: Bronze",
       "Volo nel Pantano - Sfida (Inverso): Bronzo",
       "늪지대 경유로 역방향 도전: 동메달",
-      "沼地逆向挑戰飛掠賽道：銅牌",
+      "沼地飛掠賽道逆向挑戰版：銅牌",
       "泽地漫游反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15765,7 +15786,7 @@
       "Desafio Travessia do Charco Invertida: Prata",
       "Volo nel Pantano - Sfida (Inverso): Argento",
       "늪지대 경유로 역방향 도전: 은메달",
-      "沼地逆向挑戰飛掠賽道：銀牌",
+      "沼地飛掠賽道逆向挑戰版：銀牌",
       "泽地漫游反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15786,7 +15807,7 @@
       "Desafio Travessia do Charco Invertida: Ouro",
       "Volo nel Pantano - Sfida (Inverso): Oro",
       "늪지대 경유로 역방향 도전: 금메달",
-      "沼地逆向挑戰飛掠賽道：金牌",
+      "沼地飛掠賽道逆向挑戰版：金牌",
       "泽地漫游反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15807,7 +15828,7 @@
       "Desafio Disputa do Rio da Ravina: Bronze",
       "Gara sul Fiume della Gola - Sfida: Bronzo",
       "협곡 강변로 도전: 동메달",
-      "挑戰峽谷河川賽道：銅牌",
+      "峽谷河川賽道挑戰版：銅牌",
       "河谷冲刺挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15828,7 +15849,7 @@
       "Desafio Disputa do Rio da Ravina: Prata",
       "Gara sul Fiume della Gola - Sfida: Argento",
       "협곡 강변로 도전: 은메달",
-      "挑戰峽谷河川賽道：銀牌",
+      "峽谷河川賽道挑戰版：銀牌",
       "河谷冲刺挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15849,7 +15870,7 @@
       "Desafio Disputa do Rio da Ravina: Ouro",
       "Gara sul Fiume della Gola - Sfida: Oro",
       "협곡 강변로 도전: 금메달",
-      "挑戰峽谷河川賽道：金牌",
+      "峽谷河川賽道挑戰版：金牌",
       "河谷冲刺挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15870,7 +15891,7 @@
       "Desafio Disputa do Rio da Ravina Invertida: Bronze",
       "Gara sul Fiume della Gola - Sfida (Inverso): Bronzo",
       "협곡 강변로 역방향 도전: 동메달",
-      "逆向挑戰峽谷河川賽道：銅牌",
+      "峽谷河川賽道逆向挑戰版：銅牌",
       "河谷冲刺反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15891,7 +15912,7 @@
       "Desafio Disputa do Rio da Ravina Invertida: Prata",
       "Gara sul Fiume della Gola - Sfida (Inverso): Argento",
       "협곡 강변로 역방향 도전: 은메달",
-      "逆向挑戰峽谷河川賽道：銀牌",
+      "峽谷河川賽道逆向挑戰版：銀牌",
       "河谷冲刺反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15912,7 +15933,7 @@
       "Desafio Disputa do Rio da Ravina Invertida: Ouro",
       "Gara sul Fiume della Gola - Sfida (Inverso): Oro",
       "협곡 강변로 역방향 도전: 금메달",
-      "逆向挑戰峽谷河川賽道：金牌",
+      "峽谷河川賽道逆向挑戰版：金牌",
       "河谷冲刺反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -15954,7 +15975,7 @@
       "Desafio Elevação dos Jardins Esmeraldinos: Bronze",
       "Ascesa del Giardino di Smeraldo - Sfida: Bronzo",
       "에메랄드 정원 승천로 도전: 동메달",
-      "翡翠花園挑戰爬升賽道：銅牌",
+      "翡翠花園爬升賽道挑戰版：銅牌",
       "翡翠花园攀升赛挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -15975,7 +15996,7 @@
       "Desafio Elevação dos Jardins Esmeraldinos: Prata",
       "Ascesa del Giardino di Smeraldo - Sfida: Argento",
       "에메랄드 정원 승천로 도전: 은메달",
-      "翡翠花園挑戰爬升賽道：銀牌",
+      "翡翠花園爬升賽道挑戰版：銀牌",
       "翡翠花园攀升赛挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -15996,7 +16017,7 @@
       "Desafio Elevação dos Jardins Esmeraldinos: Ouro",
       "Ascesa del Giardino di Smeraldo - Sfida: Oro",
       "에메랄드 정원 승천로 도전: 금메달",
-      "翡翠花園挑戰爬升賽道：金牌",
+      "翡翠花園爬升賽道挑戰版：金牌",
       "翡翠花园攀升赛挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16017,7 +16038,7 @@
       "Desafio Elevação dos Jardins Esmeraldinos Invertida: Bronze",
       "Ascesa del Giardino di Smeraldo - Sfida (Inverso): Bronzo",
       "에메랄드 정원 승천로 역방향 도전: 동메달",
-      "翡翠花園逆向挑戰爬升賽道：銅牌",
+      "翡翠花園爬升賽道逆向挑戰版：銅牌",
       "翡翠花园攀升赛反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16038,7 +16059,7 @@
       "Desafio Elevação dos Jardins Esmeraldinos Invertida: Prata",
       "Ascesa del Giardino di Smeraldo - Sfida (Inverso): Argento",
       "에메랄드 정원 승천로 역방향 도전: 은메달",
-      "翡翠花園逆向挑戰爬升賽道：銀牌",
+      "翡翠花園爬升賽道逆向挑戰版：銀牌",
       "翡翠花园攀升赛反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16059,7 +16080,7 @@
       "Desafio Elevação dos Jardins Esmeraldinos Invertida: Ouro",
       "Ascesa del Giardino di Smeraldo - Sfida (Inverso): Oro",
       "에메랄드 정원 승천로 역방향 도전: 금메달",
-      "翡翠花園逆向挑戰爬升賽道：金牌",
+      "翡翠花園爬升賽道逆向挑戰版：金牌",
       "翡翠花园攀升赛反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16080,7 +16101,7 @@
       "Desafio Percurso das Corredeiras: Bronze",
       "Percorso per le Rapide - Sfida: Bronzo",
       "강 급류 비행로 도전: 동메달",
-      "挑戰激流賽道：銅牌",
+      "激流賽道挑戰版：銅牌",
       "湍流环线挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16101,7 +16122,7 @@
       "Desafio Percurso das Corredeiras: Prata",
       "Percorso per le Rapide - Sfida: Argento",
       "강 급류 비행로 도전: 은메달",
-      "挑戰激流賽道：銀牌",
+      "激流賽道挑戰版：銀牌",
       "湍流环线挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16122,7 +16143,7 @@
       "Desafio Percurso das Corredeiras: Ouro",
       "Percorso per le Rapide - Sfida: Oro",
       "강 급류 비행로 도전: 금메달",
-      "挑戰激流賽道：金牌",
+      "激流賽道挑戰版：金牌",
       "湍流环线挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16143,7 +16164,7 @@
       "Desafio Percurso das Corredeiras Invertido: Bronze",
       "Percorso per le Rapide - Sfida (Inverso): Bronzo",
       "강 급류 비행로 역방향 도전: 동메달",
-      "逆向挑戰激流賽道：銅牌",
+      "激流賽道逆向挑戰版：銅牌",
       "湍流环线反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16164,7 +16185,7 @@
       "Desafio Percurso das Corredeiras Invertido: Prata",
       "Percorso per le Rapide - Sfida (Inverso): Argento",
       "강 급류 비행로 역방향 도전: 은메달",
-      "逆向挑戰激流賽道：銀牌",
+      "激流賽道逆向挑戰版：銀牌",
       "湍流环线反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16185,7 +16206,7 @@
       "Desafio Percurso das Corredeiras Invertido: Ouro",
       "Percorso per le Rapide - Sfida (Inverso): Oro",
       "강 급류 비행로 역방향 도전: 금메달",
-      "逆向挑戰激流賽道：金牌",
+      "激流賽道逆向挑戰版：金牌",
       "湍流环线反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16206,7 +16227,7 @@
       "Desafio Arremetida de Maruukai: Bronze",
       "Scatto di Maruukai - Sfida: Bronzo",
       "마루카이 질주로 도전: 동메달",
-      "莫魯凱挑戰衝刺賽道：銅牌",
+      "莫魯凱衝刺賽道挑戰版：銅牌",
       "马鲁凯飞驰挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16227,7 +16248,7 @@
       "Desafio Arremetida de Maruukai: Prata",
       "Scatto di Maruukai - Sfida: Argento",
       "마루카이 질주로 도전: 은메달",
-      "莫魯凱挑戰衝刺賽道：銀牌",
+      "莫魯凱衝刺賽道挑戰版：銀牌",
       "马鲁凯飞驰挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16248,7 +16269,7 @@
       "Desafio Arremetida de Maruukai: Ouro",
       "Scatto di Maruukai - Sfida: Oro",
       "마루카이 질주로 도전: 금메달",
-      "莫魯凱挑戰衝刺賽道：金牌",
+      "莫魯凱衝刺賽道挑戰版：金牌",
       "马鲁凯飞驰挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16269,7 +16290,7 @@
       "Desafio Arremetida do Espelho do Céu: Bronze",
       "Scatto dello Specchio del Cielo - Sfida: Bronzo",
       "하늘의 거울 질주 도전: 동메달",
-      "空之鏡挑戰衝刺賽道：銅牌",
+      "空之鏡衝刺賽道挑戰版：銅牌",
       "镜天湖飞驰挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16290,7 +16311,7 @@
       "Desafio Arremetida do Espelho do Céu: Prata",
       "Scatto dello Specchio del Cielo - Sfida: Argento",
       "하늘의 거울 질주 도전: 은메달",
-      "空之鏡挑戰衝刺賽道：銀牌",
+      "空之鏡衝刺賽道挑戰版：銀牌",
       "镜天湖飞驰挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16311,7 +16332,7 @@
       "Desafio Arremetida do Espelho do Céu: Ouro",
       "Scatto dello Specchio del Cielo - Sfida: Oro",
       "하늘의 거울 질주 도전: 금메달",
-      "空之鏡挑戰衝刺賽道：金牌",
+      "空之鏡衝刺賽道挑戰版：金牌",
       "镜天湖飞驰挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16332,7 +16353,7 @@
       "Desafio Disparada de Vasta Lazúli: Bronze",
       "Volata della Vastità Azzurra - Sfida: Bronzo",
       "하늘빛 평원 질주로 도전: 동메달",
-      "蒼藍高地挑戰奔馳賽道：銅牌",
+      "蒼藍高地奔馳賽道挑戰版：銅牌",
       "碧蓝林海冲刺挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16353,7 +16374,7 @@
       "Desafio Disparada de Vasta Lazúli: Prata",
       "Volata della Vastità Azzurra - Sfida: Argento",
       "하늘빛 평원 질주로 도전: 은메달",
-      "蒼藍高地挑戰奔馳賽道：銀牌",
+      "蒼藍高地奔馳賽道挑戰版：銀牌",
       "碧蓝林海冲刺挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16374,7 +16395,7 @@
       "Desafio Disparada de Vasta Lazúli: Ouro",
       "Volata della Vastità Azzurra - Sfida: Oro",
       "하늘빛 평원 질주로 도전: 금메달",
-      "蒼藍高地挑戰奔馳賽道：金牌",
+      "蒼藍高地奔馳賽道挑戰版：金牌",
       "碧蓝林海冲刺挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16395,7 +16416,7 @@
       "Desafio Disparada de Vasta Lazúli Invertida: Bronze",
       "Volata della Vastità Azzurra - Sfida (Inverso): Bronzo",
       "하늘빛 평원 질주로 역방향 도전: 동메달",
-      "蒼藍高地逆向挑戰奔馳賽道：銅牌",
+      "蒼藍高地奔馳賽道逆向挑戰版：銅牌",
       "碧蓝林海冲刺反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16416,7 +16437,7 @@
       "Desafio Disparada de Vasta Lazúli Invertida: Prata",
       "Volata della Vastità Azzurra - Sfida (Inverso): Argento",
       "하늘빛 평원 질주로 역방향 도전: 은메달",
-      "蒼藍高地逆向挑戰奔馳賽道：銀牌",
+      "蒼藍高地奔馳賽道逆向挑戰版：銀牌",
       "碧蓝林海冲刺反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16437,7 +16458,7 @@
       "Desafio Disparada de Vasta Lazúli Invertida: Ouro",
       "Volata della Vastità Azzurra - Sfida (Inverso): Oro",
       "하늘빛 평원 질주로 역방향 도전: 금메달",
-      "蒼藍高地逆向挑戰奔馳賽道：金牌",
+      "蒼藍高地奔馳賽道逆向挑戰版：金牌",
       "碧蓝林海冲刺反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16458,7 +16479,7 @@
       "Desafio Slalom de Vasta Lazúli: Bronze",
       "Slalom della Vastità Azzurra - Sfida: Bronzo",
       "하늘빛 평원 활강로 도전: 동메달",
-      "蒼藍高地挑戰彎道：銅牌",
+      "蒼藍高地彎道挑戰版：銅牌",
       "碧蓝林海障碍赛挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16479,7 +16500,7 @@
       "Desafio Slalom de Vasta Lazúli: Prata",
       "Slalom della Vastità Azzurra - Sfida: Argento",
       "하늘빛 평원 활강로 도전: 은메달",
-      "蒼藍高地挑戰彎道：銀牌",
+      "蒼藍高地彎道挑戰版：銀牌",
       "碧蓝林海障碍赛挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16500,7 +16521,7 @@
       "Desafio Slalom de Vasta Lazúli: Ouro",
       "Slalom della Vastità Azzurra - Sfida: Oro",
       "하늘빛 평원 활강로 도전: 금메달",
-      "蒼藍高地挑戰彎道：金牌",
+      "蒼藍高地彎道挑戰版：金牌",
       "碧蓝林海障碍赛挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16521,7 +16542,7 @@
       "Desafio Slalom de Vasta Lazúli Invertido: Bronze",
       "Slalom della Vastità Azzurra - Sfida (Inverso): Bronzo",
       "하늘빛 평원 활강로 역방향 도전: 동메달",
-      "蒼藍高地逆向挑戰彎道：銅牌",
+      "蒼藍高地彎道逆向挑戰版：銅牌",
       "碧蓝林海障碍赛反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16542,7 +16563,7 @@
       "Desafio Slalom de Vasta Lazúli Invertido: Prata",
       "Slalom della Vastità Azzurra - Sfida (Inverso): Argento",
       "하늘빛 평원 활강로 역방향 도전: 은메달",
-      "蒼藍高地逆向挑戰彎道：銀牌",
+      "蒼藍高地彎道逆向挑戰版：銀牌",
       "碧蓝林海障碍赛反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16563,7 +16584,7 @@
       "Desafio Slalom de Vasta Lazúli Invertido: Ouro",
       "Slalom della Vastità Azzurra - Sfida (Inverso): Oro",
       "하늘빛 평원 활강로 역방향 도전: 금메달",
-      "蒼藍高地逆向挑戰彎道：金牌",
+      "蒼藍高地彎道逆向挑戰版：金牌",
       "碧蓝林海障碍赛反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16584,7 +16605,7 @@
       "Desafio Encosta de Vakthros: Bronze",
       "Ascesa di Vakthros - Sfida: Bronzo",
       "바크스로스 승천로 도전: 동메달",
-      "瓦瑟洛斯挑戰爬升賽道：銅牌",
+      "瓦瑟洛斯爬升賽道挑戰版：銅牌",
       "瓦克索斯攀升赛挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16605,7 +16626,7 @@
       "Desafio Encosta de Vakthros: Prata",
       "Ascesa di Vakthros - Sfida: Argento",
       "바크스로스 승천로 도전: 은메달",
-      "瓦瑟洛斯挑戰爬升賽道：銀牌",
+      "瓦瑟洛斯爬升賽道挑戰版：銀牌",
       "瓦克索斯攀升赛挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16626,7 +16647,7 @@
       "Desafio Encosta de Vakthros: Ouro",
       "Ascesa di Vakthros - Sfida: Oro",
       "바크스로스 승천로 도전: 금메달",
-      "瓦瑟洛斯挑戰爬升賽道：金牌",
+      "瓦瑟洛斯爬升賽道挑戰版：金牌",
       "瓦克索斯攀升赛挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16647,7 +16668,7 @@
       "Desafio Encosta de Vakthros Invertida: Bronze",
       "Ascesa di Vakthros - Sfida (Inverso): Bronzo",
       "바크스로스 승천로 역방향 도전: 동메달",
-      "瓦瑟洛斯挑戰爬升賽道：銅牌",
+      "瓦瑟洛斯爬升賽道逆向挑戰版：銅牌",
       "瓦克索斯攀升赛反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16668,7 +16689,7 @@
       "Desafio Encosta de Vakthros Invertida: Prata",
       "Ascesa di Vakthros - Sfida (Inverso): Argento",
       "바크스로스 승천로 역방향 도전: 은메달",
-      "瓦瑟洛斯逆向挑戰爬升賽道：銀牌",
+      "瓦瑟洛斯爬升賽道逆向挑戰版：銀牌",
       "瓦克索斯攀升赛反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16689,7 +16710,7 @@
       "Desafio Encosta de Vakthros Invertida: Ouro",
       "Ascesa di Vakthros - Sfida (Inverso): Oro",
       "바크스로스 승천로 역방향 도전: 금메달",
-      "瓦瑟洛斯逆向挑戰爬升賽道：金牌",
+      "瓦瑟洛斯爬升賽道逆向挑戰版：金牌",
       "瓦克索斯攀升赛反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16710,7 +16731,7 @@
       "Desafio Rota de Iskaara: Bronze",
       "Giro di Iskaara - Sfida: Bronzo",
       "이스카라 유람로 도전: 동메달",
-      "伊斯凱拉挑戰巡迴賽道：銅牌",
+      "伊斯凱拉巡迴賽道挑戰版：銅牌",
       "伊斯卡拉锦标赛挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16731,7 +16752,7 @@
       "Desafio Rota de Iskaara: Prata",
       "Giro di Iskaara - Sfida: Argento",
       "이스카라 유람로 도전: 은메달",
-      "伊斯凱拉挑戰巡迴賽道：銀牌",
+      "伊斯凱拉巡迴賽道挑戰版：銀牌",
       "伊斯卡拉锦标赛挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16752,7 +16773,7 @@
       "Desafio Rota de Iskaara: Ouro",
       "Giro di Iskaara - Sfida: Oro",
       "이스카라 유람로 도전: 금메달",
-      "伊斯凱拉挑戰巡迴賽道：金牌",
+      "伊斯凱拉巡迴賽道挑戰版：金牌",
       "伊斯卡拉锦标赛挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16773,7 +16794,7 @@
       "Desafio Rota de Iskaara Invertida: Bronze",
       "Giro di Iskaara - Sfida (Inverso): Bronzo",
       "이스카라 유람로 역방향 도전: 동메달",
-      "伊斯凱拉逆向巡迴挑戰賽道：銅牌",
+      "伊斯凱拉巡迴賽道逆向挑戰版：銅牌",
       "伊斯卡拉锦标赛反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16794,7 +16815,7 @@
       "Desafio Invertido Rota de Iskaara: Prata",
       "Giro di Iskaara - Sfida (Inverso): Argento",
       "이스카라 유람로 역방향 도전: 은메달",
-      "伊斯凱拉逆向挑戰巡迴賽道：銀牌",
+      "伊斯凱拉巡迴賽道逆向挑戰版：銀牌",
       "伊斯卡拉锦标赛反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16815,7 +16836,7 @@
       "Desafio Rota de Iskaara Invertida: Ouro",
       "Giro di Iskaara - Sfida (Inverso): Oro",
       "이스카라 유람로 역방향 도전: 금메달",
-      "伊斯凱拉逆向挑戰巡迴賽道：金牌",
+      "伊斯凱拉巡迴賽道逆向挑戰版：金牌",
       "伊斯卡拉锦标赛反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16878,7 +16899,7 @@
       "Desafio Sobrevoo das Terras Gélidas: Bronze",
       "Sorvolo delle Terre Gelide - Sfida: Bronzo",
       "서리지대 고가로 도전: 동메달",
-      "霜原挑戰飛掠賽道：銅牌",
+      "霜原飛掠賽道挑戰版：銅牌",
       "霜土飞越挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16899,7 +16920,7 @@
       "Desafio Sobrevoo das Terras Gélidas: Prata",
       "Sorvolo delle Terre Gelide - Sfida: Argento",
       "서리지대 고가로 도전: 은메달",
-      "霜原挑戰飛掠賽道：銀牌",
+      "霜原飛掠賽道挑戰版：銀牌",
       "霜土飞越挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16920,7 +16941,7 @@
       "Desafio Sobrevoo das Terras Gélidas: Ouro",
       "Sorvolo delle Terre Gelide - Sfida: Oro",
       "서리지대 고가로 도전: 금메달",
-      "霜原挑戰飛掠賽道：金牌",
+      "霜原飛掠賽道挑戰版：金牌",
       "霜土飞越挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -16941,7 +16962,7 @@
       "Desafio Sobrevoo das Terras Gélidas Invertido: Bronze",
       "Sorvolo delle Terre Gelide - Sfida (Inverso): Bronzo",
       "서리지대 고가로 역방향 도전: 동메달",
-      "霜原挑戰飛掠賽道：銅牌",
+      "霜原飛掠賽道逆向挑戰版：銅牌",
       "霜土飞越反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -16962,7 +16983,7 @@
       "Desafio Sobrevoo das Terras Gélidas Invertido: Prata",
       "Sorvolo delle Terre Gelide - Sfida (Inverso): Argento",
       "서리지대 고가로 역방향 도전: 은메달",
-      "霜原逆向挑戰飛掠賽道：銀牌",
+      "霜原飛掠賽道逆向挑戰版：銀牌",
       "霜土飞越反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -16983,7 +17004,7 @@
       "Desafio Sobrevoo das Terras Gélidas Invertido: Ouro",
       "Sorvolo delle Terre Gelide - Sfida (Inverso): Oro",
       "서리지대 고가로 역방향 도전: 금메달",
-      "霜原逆向挑戰飛掠賽道：金牌",
+      "霜原飛掠賽道逆向挑戰版：金牌",
       "霜土飞越反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -17004,7 +17025,7 @@
       "Desafio Âmbito do Arquivo: Bronze",
       "Perimetro dell'Archivio - Sfida: Bronzo",
       "기록 보관소 일주로 도전: 동메달",
-      "文庫挑戰境域賽道：銅牌",
+      "文庫境域賽道挑戰版：銅牌",
       "档案限界挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -17025,7 +17046,7 @@
       "Desafio Âmbito do Arquivo: Prata",
       "Perimetro dell'Archivio - Sfida: Argento",
       "기록 보관소 일주로 도전: 은메달",
-      "文庫挑戰境域賽道：銀牌",
+      "文庫境域賽道挑戰版：銀牌",
       "档案限界挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -17046,7 +17067,7 @@
       "Desafio Âmbito do Arquivo: Ouro",
       "Perimetro dell'Archivio - Sfida: Oro",
       "기록 보관소 일주로 도전: 금메달",
-      "文庫挑戰境域賽道：金牌",
+      "文庫境域賽道挑戰版：金牌",
       "档案限界挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -17067,7 +17088,7 @@
       "Desafio Âmbito do Arquivo Invertido: Bronze",
       "Perimetro dell'Archivio - Sfida (Inverso): Bronzo",
       "기록 보관소 일주로 역방향 도전: 동메달",
-      "文庫逆向挑戰境域賽道：銅牌",
+      "文庫境域賽道逆向挑戰版：銅牌",
       "档案限界反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -17088,7 +17109,7 @@
       "Desafio Âmbito do Arquivo Invertido: Prata",
       "Perimetro dell'Archivio - Sfida (Inverso): Argento",
       "기록 보관소 일주로 역방향 도전: 은메달",
-      "文庫逆向挑戰境域賽道：銀牌",
+      "文庫境域賽道逆向挑戰版：銀牌",
       "档案限界反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -17109,7 +17130,7 @@
       "Desafio Âmbito do Arquivo Invertido: Ouro",
       "Perimetro dell'Archivio - Sfida (Inverso): Oro",
       "기록 보관소 일주로 역방향 도전: 금메달",
-      "文庫逆向挑戰境域賽道：金牌",
+      "文庫境域賽道逆向挑戰版：金牌",
       "档案限界反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -17130,7 +17151,7 @@
       "Desafio Revoada da Floresta Fluente: Bronze",
       "Volo della Foresta Fluente - Sfida: Bronzo",
       "흐르는 숲 비행로 도전: 동메달",
-      "浮動森林挑戰飛行賽道：銅牌",
+      "浮動森林飛行賽道挑戰版：銅牌",
       "起伏森林航线挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -17151,7 +17172,7 @@
       "Desafio Revoada da Floresta Fluente: Prata",
       "Volo della Foresta Fluente - Sfida: Argento",
       "흐르는 숲 비행로 도전: 은메달",
-      "浮動森林挑戰飛行賽道：銀牌",
+      "浮動森林飛行賽道挑戰版：銀牌",
       "起伏森林航线挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -17172,7 +17193,7 @@
       "Desafio Revoada da Floresta Fluente: Ouro",
       "Volo della Foresta Fluente - Sfida: Oro",
       "흐르는 숲 비행로 도전: 금메달",
-      "浮動森林挑戰飛行賽道：金牌",
+      "浮動森林飛行賽道挑戰版：金牌",
       "起伏森林航线挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -17193,7 +17214,7 @@
       "Desafio Revoada da Floresta Fluente Invertida: Bronze",
       "Volo della Foresta Fluente - Sfida (Inverso): Bronzo",
       "흐르는 숲 비행로 역방향 도전: 동메달",
-      "浮動森林逆向挑戰飛行賽道：銅牌",
+      "浮動森林飛行賽道逆向挑戰版：銅牌",
       "起伏森林航线反向版挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -17214,7 +17235,7 @@
       "Desafio Revoada da Floresta Fluente Invertida: Prata",
       "Volo della Foresta Fluente - Sfida (Inverso): Argento",
       "흐르는 숲 비행로 역방향 도전: 은메달",
-      "浮動森林逆向挑戰飛行賽道：銀牌",
+      "浮動森林飛行賽道逆向挑戰版：銀牌",
       "起伏森林航线反向版挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -17235,7 +17256,7 @@
       "Desafio Revoada da Floresta Fluente Invertida: Ouro",
       "Volo della Foresta Fluente - Sfida (Inverso): Oro",
       "흐르는 숲 비행로 역방향 도전: 금메달",
-      "浮動森林逆向挑戰飛行賽道：金牌",
+      "浮動森林飛行賽道逆向挑戰版：金牌",
       "起伏森林航线反向版挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
@@ -17256,7 +17277,7 @@
       "Desafio Prova do Baluarte de Tyr: Bronze",
       "Prova del Forte di Tyr - Sfida: Bronzo",
       "티르홀드 시험 도전: 동메달",
-      "提爾堡挑戰考驗賽道：銅牌",
+      "提爾堡考驗賽道挑戰版：銅牌",
       "提尔要塞试炼挑战：青铜"
     ],
     "Media": "achievement_challengemode_arakkoaspires_bronze.jpg"
@@ -17277,7 +17298,7 @@
       "Desafio Prova do Baluarte de Tyr: Prata",
       "Prova del Forte di Tyr - Sfida: Argento",
       "티르홀드 시험 도전: 은메달",
-      "提爾堡挑戰考驗賽道：銀牌",
+      "提爾堡考驗賽道挑戰版：銀牌",
       "提尔要塞试炼挑战：白银"
     ],
     "Media": "achievement_challengemode_arakkoaspires_silver.jpg"
@@ -17298,7 +17319,7 @@
       "Desafio Prova do Baluarte de Tyr: Ouro",
       "Prova del Forte di Tyr - Sfida: Oro",
       "티르홀드 시험 도전: 금메달",
-      "提爾堡挑戰考驗賽道：金牌",
+      "提爾堡考驗賽道挑戰版：金牌",
       "提尔要塞试炼挑战：黄金"
     ],
     "Media": "achievement_challengemode_arakkoaspires_gold.jpg"
