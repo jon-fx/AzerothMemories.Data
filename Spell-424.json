@@ -88,20 +88,21 @@
     "TagType": 26,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ]
+      "Runebound Firelord",
+      "Señor del Fuego con vínculo rúnico",
+      "Senhor do Fogo Rúnico",
+      "Runebound Firelord",
+      "Señor del Fuego vincularrunas",
+      "Pyroseigneur runique",
+      "Скованный рунами Повелитель Огня",
+      "Runengebundener Feuerlord",
+      "Senhor do Fogo Rúnico",
+      "Signore del Fuoco Vincolato alle Rune",
+      "룬결속 불의 군주",
+      "紋縛炎魔",
+      "符契炎魔"
+    ],
+    "Media": "inv_ragnarosmount.jpg"
   },
   {
     "TagId": 424011,
@@ -293,6 +294,27 @@
     "Media": "inv_item_blizzconbanner01.jpg"
   },
   {
+    "TagId": 424024,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Symbiotic Glowspore Grip",
+      "Empuñadura de brilloesporas simbióticas",
+      "Punho de Lumesporos Simbióticos",
+      "Symbiotic Glowspore Grip",
+      "Empuñadura de esporas brillantes simbiótica",
+      "Poigne de spores lumineuses symbiotiques",
+      "Древко из симбиотических мерцающих спор",
+      "Symbiotischer Leuchtsporengriff",
+      "Punho de Lumesporos Simbióticos",
+      "Impugnatura di Spore Luminose Simbiotiche",
+      "공생 불빛포자 손아귀",
+      "共生發光孢子握把",
+      "共生光孢握柄"
+    ],
+    "Media": "inv_axe_2h_artifactarathor_d_06.jpg"
+  },
+  {
     "TagId": 424025,
     "TagType": 26,
     "Names": [
@@ -417,6 +439,27 @@
       "<DNT> Health"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424039,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disenchant",
+      "Desencantar",
+      "Desencantar",
+      "Disenchant",
+      "Desencantar",
+      "Désenchanter",
+      "Распыление",
+      "Entzaubern",
+      "Desencantar",
+      "Disincantamento",
+      "마력 추출",
+      "分解",
+      "分解"
+    ],
+    "Media": "inv_enchant_disenchant.jpg"
   },
   {
     "TagId": 424040,
@@ -1152,6 +1195,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 424094,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rage of Fyr'alath",
+      "Ira de Fyr'alath",
+      "Fúria de Fyr'alath",
+      "Rage of Fyr'alath",
+      "Ira de Fyr'alath",
+      "Rage de Fyr’alath",
+      "Ярость Фир'алата",
+      "Wut von Fyr'alath",
+      "Fúria de Fyr'alath",
+      "Rabbia di Fyr'alath",
+      "피랄라스의 분노",
+      "菲拉雷斯之怒",
+      "菲莱拉兹之怒"
+    ],
+    "Media": "inv_axe_2h_fyrakk_d_01_shadowflame.jpg"
+  },
+  {
     "TagId": 424095,
     "TagType": 26,
     "Names": [
@@ -1675,6 +1739,27 @@
       "机器人AI跟随通告"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disenchant",
+      "Desencantar",
+      "Desencantar",
+      "Disenchant",
+      "Desencantar",
+      "Désenchanter",
+      "Распыление",
+      "Entzaubern",
+      "Desencantar",
+      "Disincantamento",
+      "마력 추출",
+      "分解",
+      "分解"
+    ],
+    "Media": "inv_enchant_disenchant.jpg"
   },
   {
     "TagId": 424133,
@@ -2536,6 +2621,27 @@
       "英雄之路"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424202,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disenchant",
+      "Desencantar",
+      "Desencantar",
+      "Disenchant",
+      "Desencantar",
+      "Désenchanter",
+      "Распыление",
+      "Entzaubern",
+      "Desencantar",
+      "Disincantamento",
+      "마력 추출",
+      "分解",
+      "分解"
+    ],
+    "Media": "inv_enchant_disenchant.jpg"
   },
   {
     "TagId": 424213,
@@ -3966,6 +4072,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 424303,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lydiara's Guidance",
+      "Guía de Lydiara",
+      "Orientação de Lydiara",
+      "Lydiara's Guidance",
+      "Guía de Lydiara",
+      "Soutien de Lydiara",
+      "Наставления Лидиары",
+      "Lydiaras Führung",
+      "Orientação de Lydiara",
+      "Guida di Lydiara",
+      "리디아라의 인도",
+      "莉迪亞菈的指引",
+      "莉黛拉的指导"
+    ],
+    "Media": "inv_misc_notefolded2b.jpg"
+  },
+  {
     "TagId": 424304,
     "TagType": 26,
     "Names": [
@@ -4152,6 +4279,27 @@
       "亨利的暖意大衣"
     ],
     "Media": "inv_chest_cloth_15.jpg"
+  },
+  {
+    "TagId": 424317,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shalasar's Guidance",
+      "Guía de Shalasar",
+      "Orientação de Shalasar",
+      "Shalasar's Guidance",
+      "Guía de Shalasar",
+      "Soutien de Shalasar",
+      "Наставления Шалазар",
+      "Shalasars Führung",
+      "Orientação de Shalasar",
+      "Guida di Shalasar",
+      "살라자르의 인도",
+      "夏菈莎的指引",
+      "夏拉萨的指导"
+    ],
+    "Media": "inv_misc_notefolded3e.jpg"
   },
   {
     "TagId": 424320,
@@ -5015,6 +5163,27 @@
     "Media": "spell_frost_frostnova.jpg"
   },
   {
+    "TagId": 424385,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unbound Order",
+      "Orden desatada",
+      "Ordem Desvinculada",
+      "Unbound Order",
+      "Orden desatado",
+      "Puissance déliée",
+      "Всеобъемлющий порядок",
+      "Unbändige Ordnung",
+      "Ordem Desvinculada",
+      "Ordine Indomabile",
+      "굴레를 벗어난 질서",
+      "無縛秩序",
+      "无拘秩序"
+    ],
+    "Media": "inv_10_inscription_vellum_color1.jpg"
+  },
+  {
     "TagId": 424386,
     "TagType": 26,
     "Names": [
@@ -5032,6 +5201,27 @@
       "Ping Bunny [DNT]",
       "Ping Bunny [DNT]",
       "Ping Bunny [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424388,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unbound Order",
+      "Orden desatada",
+      "Ordem Desvinculada",
+      "Unbound Order",
+      "Orden desatado",
+      "Puissance déliée",
+      "Всеобъемлющий порядок",
+      "Unbändige Ordnung",
+      "Ordem Desvinculada",
+      "Ordine Indomabile",
+      "굴레를 벗어난 질서",
+      "無縛秩序",
+      "无拘秩序"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5159,6 +5349,90 @@
       "寐枭影罩"
     ],
     "Media": "ability_ambush.jpg"
+  },
+  {
+    "TagId": 424409,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unbound Order(Other, Slow)",
+      "Orden desatada (Otro, lenta)",
+      "Ordem Irrestrita (Outra, Lenta)",
+      "Unbound Order(Other, Slow)",
+      "Orden desatado (otro, lento)",
+      "Commande déliée(Autre, Lent)",
+      "Всеобъемлющий порядок (другое, медленно)",
+      "Unbändige Ordnung(Anderes, Langsam)",
+      "Ordem Irrestrita (Outra, Lenta)",
+      "Ordine Indomabile(Altro, Lento)",
+      "굴레를 벗어난 질서(기타, 느림)",
+      "無縛秩序(其他，減速)",
+      "无拘秩序（其他，慢速）"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424412,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unbound Order(Other, Medium)",
+      "Orden desatada (Otro, media)",
+      "Ordem Irrestrita (Outra, Média)",
+      "Unbound Order(Other, Medium)",
+      "Orden desatado (otro, medio)",
+      "Commande déliée(Autre, Moyen)",
+      "Всеобъемлющий порядок (другое, средне)",
+      "Unbändige Ordnung(Anderes, Mittel)",
+      "Ordem Irrestrita (Outra, Média)",
+      "Ordine Indomabile(Altro, Medio)",
+      "굴레를 벗어난 질서(기타, 보통)",
+      "無縛秩序(其他，普通)",
+      "无拘秩序（其他，中速）"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424413,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unbound Order(Other, Fast)",
+      "Orden desatada (Otro, rápida)",
+      "Ordem Irrestrita (Outra, Rápida)",
+      "Unbound Order(Other, Fast)",
+      "Orden desatado (otro, rápido)",
+      "Commande déliée(Autre, Rapide)",
+      "Всеобъемлющий порядок (другое, быстро)",
+      "Unbändige Ordnung(Anderes, Schnell)",
+      "Ordem Irrestrita (Outra, Rápida)",
+      "Ordine Indomabile(Altro, Veloce)",
+      "굴레를 벗어난 질서(기타, 빠름)",
+      "無縛秩序(其他，加速)",
+      "无拘秩序（其他，快速）"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424417,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unbound Order(Catch)",
+      "Orden desatada (Captura)",
+      "Ordem Irrestrita (Pegar)",
+      "Unbound Order(Catch)",
+      "Orden desatado (atrapar)",
+      "Commande déliée(Attraper)",
+      "Всеобъемлющий порядок (захват)",
+      "Unbändige Ordnung(Fangen)",
+      "Ordem Irrestrita (Pegar)",
+      "Ordine Indomabile(Cattura)",
+      "굴레를 벗어난 질서(사로잡기)",
+      "無縛秩序(捕捉)",
+      "无拘秩序（抓取）"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 424424,
@@ -7368,7 +7642,7 @@
     "Names": [
       null,
       "Singed",
-      "Chamuscado",
+      "Chamuscada",
       "Chamuscado",
       "Singed",
       "Chamuscado",
@@ -9336,6 +9610,27 @@
     "Media": "trade_enchanting_largeetherealshard.jpg"
   },
   {
+    "TagId": 424812,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taut Shadowbinding",
+      "Vinculación lóbrega tirante",
+      "Grilhão de Sombra Apertado",
+      "Taut Shadowbinding",
+      "Vínculo de las Sombras tenso",
+      "Ombrelien tendu",
+      "Тугие узы тьмы",
+      "Straffe Schattenbindung",
+      "Grilhão de Sombra Apertado",
+      "Vincolo d'Ombra Teso",
+      "팽팽한 어둠결속",
+      "緊繃影縛",
+      "紧绷缚影"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 424813,
     "TagType": 26,
     "Names": [
@@ -9546,6 +9841,27 @@
     "Media": "inv_icon_feather02d.jpg"
   },
   {
+    "TagId": 424830,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taut Shadowbinding",
+      "Vinculación lóbrega tirante",
+      "Grilhão de Sombra Apertado",
+      "Taut Shadowbinding",
+      "Vínculo de las Sombras tenso",
+      "Ombrelien tendu",
+      "Тугие узы тьмы",
+      "Straffe Schattenbindung",
+      "Grilhão de Sombra Apertado",
+      "Vincolo d'Ombra Teso",
+      "팽팽한 어둠결속",
+      "緊繃影縛",
+      "紧绷缚影"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 424831,
     "TagType": 26,
     "Names": [
@@ -9563,6 +9879,27 @@
       "<DNT> Power Essence",
       "<DNT> Power Essence",
       "<DNT> Power Essence"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424832,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taut Shadowbinding",
+      "Vinculación lóbrega tirante",
+      "Grilhão de Sombra Apertado",
+      "Taut Shadowbinding",
+      "Vínculo de las Sombras tenso",
+      "Ombrelien tendu",
+      "Тугие узы тьмы",
+      "Straffe Schattenbindung",
+      "Grilhão de Sombra Apertado",
+      "Vincolo d'Ombra Teso",
+      "팽팽한 어둠결속",
+      "緊繃影縛",
+      "紧绷缚影"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9691,6 +10028,69 @@
       "茏葱矩阵"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424843,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taut Shadowbinding",
+      "Vinculación lóbrega tirante",
+      "Grilhão de Sombra Apertado",
+      "Taut Shadowbinding",
+      "Vínculo de las Sombras tenso",
+      "Ombrelien tendu",
+      "Тугие узы тьмы",
+      "Straffe Schattenbindung",
+      "Grilhão de Sombra Apertado",
+      "Vincolo d'Ombra Teso",
+      "팽팽한 어둠결속",
+      "緊繃影縛",
+      "紧绷缚影"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424844,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taut Shadowbinding",
+      "Vinculación lóbrega tirante",
+      "Grilhão de Sombra Apertado",
+      "Taut Shadowbinding",
+      "Vínculo de las Sombras tenso",
+      "Ombrelien tendu",
+      "Тугие узы тьмы",
+      "Straffe Schattenbindung",
+      "Grilhão de Sombra Apertado",
+      "Vincolo d'Ombra Teso",
+      "팽팽한 어둠결속",
+      "緊繃影縛",
+      "紧绷缚影"
+    ],
+    "Media": "inv_misc_root_01.jpg"
+  },
+  {
+    "TagId": 424845,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tethercoil Binding",
+      "Atadura de lazorraíz",
+      "Prisão das Amarras Aprisionantes",
+      "Tethercoil Binding",
+      "Vínculo de ataduraspiral",
+      "Attache de bobine de lien",
+      "Связь крученой привязи",
+      "Haltespulenbindung",
+      "Prisão das Amarras Aprisionantes",
+      "Legame Spiravincolo",
+      "사슬똬리 결속",
+      "繫圈束縛",
+      "缠环束缚"
+    ],
+    "Media": "inv_misc_herb_liferoot_stem.jpg"
   },
   {
     "TagId": 424846,
@@ -10260,6 +10660,27 @@
     "Media": "spell_shaman_lavasurge.jpg"
   },
   {
+    "TagId": 424902,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Strict Tethercoil",
+      "Lazorraíz estrecha",
+      "Espiral Aprisionante Estrita",
+      "Strict Tethercoil",
+      "Ataduraespiral estricta",
+      "Bobine de lien stricte",
+      "Жесткая крученая привязь",
+      "Strikte Haltespule",
+      "Espiral Aprisionante Estrita",
+      "Spiravincolo Stretto",
+      "경직된 사슬똬리",
+      "絕對繫圈",
+      "缠环紧缚"
+    ],
+    "Media": "inv_legion_faction_dreamweavers.jpg"
+  },
+  {
     "TagId": 424907,
     "TagType": 26,
     "Names": [
@@ -10365,6 +10786,27 @@
     "Media": "inv_shadowflame_debuff.jpg"
   },
   {
+    "TagId": 424917,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tethercoil Binding",
+      "Atadura de lazorraíz",
+      "Prisão das Amarras Aprisionantes",
+      "Tethercoil Binding",
+      "Vínculo de ataduraspiral",
+      "Attache de bobine de lien",
+      "Связь крученой привязи",
+      "Haltespulenbindung",
+      "Prisão das Amarras Aprisionantes",
+      "Legame Spiravincolo",
+      "사슬똬리 결속",
+      "繫圈束縛",
+      "缠环束缚"
+    ],
+    "Media": "inv_enchant_disenchant.jpg"
+  },
+  {
     "TagId": 424918,
     "TagType": 26,
     "Names": [
@@ -10446,6 +10888,27 @@
       "Riddle F Correct [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424924,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen in Time",
+      "Congelado en el tiempo",
+      "Congelado no Tempo",
+      "Frozen in Time",
+      "Congelado en el tiempo",
+      "Figé dans le temps",
+      "Заморозка во времени",
+      "Gefroren in der Zeit",
+      "Congelado no Tempo",
+      "Congelato nel Tempo",
+      "시간 속에 얼어붙음",
+      "時光凍結",
+      "冻结时光"
+    ],
+    "Media": "ability_monk_forcesphere_arcane.jpg"
   },
   {
     "TagId": 424926,
@@ -10551,6 +11014,27 @@
       "[DNT] RP Chat Bubble"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424931,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowbound",
+      "Vinculasombras",
+      "Agrilhoamento Sombrio",
+      "Shadowbound",
+      "Vínculo de las Sombras",
+      "Lien d’ombre",
+      "Связь Тьмы",
+      "Schattenbund",
+      "Agrilhoamento Sombrio",
+      "Ombrovincolo",
+      "어둠결속",
+      "影縛",
+      "影缚"
+    ],
+    "Media": "inv_enchant_disenchant.jpg"
   },
   {
     "TagId": 424932,
@@ -10782,6 +11266,48 @@
       "星辰碎片"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 424946,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowbound",
+      "Vinculasombras",
+      "Agrilhoamento Sombrio",
+      "Shadowbound",
+      "Vínculo de las Sombras",
+      "Lien d’ombre",
+      "Связь Тьмы",
+      "Schattenbund",
+      "Agrilhoamento Sombrio",
+      "Ombrovincolo",
+      "어둠결속",
+      "影縛",
+      "影缚"
+    ],
+    "Media": "inv_enchant_disenchant.jpg"
+  },
+  {
+    "TagId": 424947,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowbound",
+      "Vinculasombras",
+      "Agrilhoamento Sombrio",
+      "Shadowbound",
+      "Vínculo de las Sombras",
+      "Lien d’ombre",
+      "Связь Тьмы",
+      "Schattenbund",
+      "Agrilhoamento Sombrio",
+      "Ombrovincolo",
+      "어둠결속",
+      "影縛",
+      "影缚"
+    ],
+    "Media": "inv_enchant_disenchant.jpg"
   },
   {
     "TagId": 424949,

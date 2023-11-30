@@ -1107,7 +1107,7 @@
       "Tempestade de Fogo",
       "Tempesta di Fuoco",
       "화염폭풍",
-      "火焰風暴",
+      "火颶",
       "火焰风暴"
     ],
     "Media": "spell_shadow_rainoffire.jpg"
@@ -1149,7 +1149,7 @@
       "Tempestade de Fogo",
       "Tempesta di Fuoco",
       "화염폭풍",
-      "火焰風暴",
+      "火颶",
       "火焰风暴"
     ],
     "Media": "spell_shadow_rainoffire.jpg"
@@ -1170,7 +1170,7 @@
       "Tempestade de Fogo",
       "Tempesta di Fuoco",
       "화염폭풍",
-      "火焰風暴",
+      "火颶",
       "火焰风暴"
     ],
     "Media": "ability_ironmaidens_rapidfire.jpg"
@@ -1632,7 +1632,7 @@
       "Tempestade de Fogo",
       "Tempesta di Fuoco",
       "화염폭풍",
-      "火焰風暴",
+      "火颶",
       "火焰风暴"
     ],
     "Media": "trade_engineering.jpg"
@@ -1653,7 +1653,7 @@
       "Tempestade de Fogo",
       "Tempesta di Fuoco",
       "화염폭풍",
-      "火焰風暴",
+      "火颶",
       "火焰风暴"
     ],
     "Media": "trade_engineering.jpg"
@@ -3380,6 +3380,48 @@
     "Media": "spell_shadow_lifedrain.jpg"
   },
   {
+    "TagId": 419191,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon",
+      "[DNT] Summon"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 419192,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura",
+      "[DNT] Summon T2 - Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 419193,
     "TagType": 26,
     "Names": [
@@ -3420,6 +3462,27 @@
       "梦涌呢喃"
     ],
     "Media": "spell_nature_wispsplodegreen.jpg"
+  },
+  {
+    "TagId": 419196,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Charge",
+      "Carga flamígera",
+      "Investida Flamejante",
+      "Flaming Charge",
+      "Carga llameante",
+      "Charge ardente",
+      "Пламенный рывок",
+      "Flammender Ansturm",
+      "Investida Flamejante",
+      "Carica Fiammeggiante",
+      "불타오르는 돌진",
+      "烈焰衝鋒",
+      "烈焰冲锋"
+    ],
+    "Media": "inv_shadowflames_wave.jpg"
   },
   {
     "TagId": 419197,
@@ -3464,6 +3527,27 @@
     "Media": "inv_pet_wisp_purple.jpg"
   },
   {
+    "TagId": 419199,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger",
+      "[DNT] Area Trigger"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 419200,
     "TagType": 26,
     "Names": [
@@ -3502,6 +3586,48 @@
       "Send Event [DNT]",
       "Send Event [DNT]",
       "Send Event [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 419202,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Leap",
+      "Salto",
+      "Salto",
+      "Leap",
+      "Salto",
+      "Bond",
+      "Прыжок",
+      "Sprung",
+      "Salto",
+      "Balzo",
+      "도약",
+      "跳躍",
+      "跳跃"
+    ],
+    "Media": "ability_karoz_leap.jpg"
+  },
+  {
+    "TagId": 419203,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Charge",
+      "Carga flamígera",
+      "Investida Flamejante",
+      "Flaming Charge",
+      "Carga llameante",
+      "Charge ardente",
+      "Пламенный рывок",
+      "Flammender Ansturm",
+      "Investida Flamejante",
+      "Carica Fiammeggiante",
+      "불타오르는 돌진",
+      "烈焰衝鋒",
+      "烈焰冲锋"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4534,6 +4660,27 @@
     "Media": "racial_orc_berserkerstrength.jpg"
   },
   {
+    "TagId": 419263,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Horrifying Nova",
+      "Nova horripilante",
+      "Nova Horripilante",
+      "Horrifying Nova",
+      "Nova horripilante",
+      "Nova horrifiante",
+      "Ужасающая вспышка",
+      "Entsetzliche Nova",
+      "Nova Horripilante",
+      "Nova Orripilante",
+      "섬뜩한 회오리",
+      "戰悚新星",
+      "恐惧新星"
+    ],
+    "Media": "inv_shadowflame_debuff.jpg"
+  },
+  {
     "TagId": 419264,
     "TagType": 26,
     "Names": [
@@ -4553,6 +4700,27 @@
       "Barrel Ride [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 419265,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hero's Resolve",
+      "Resolución del héroe",
+      "Determinação Heroica",
+      "Hero's Resolve",
+      "Resolución del héroe",
+      "Résolution des héros",
+      "Решимость героя",
+      "Entschlossenheit des Helden",
+      "Determinação Heroica",
+      "Risolutezza dell'Eroe",
+      "영웅의 결의",
+      "英雄的決心",
+      "英雄的决心"
+    ],
+    "Media": "spell_nature_strength.jpg"
   },
   {
     "TagId": 419267,
@@ -8789,7 +8957,7 @@
       "Tempestade de Fogo",
       "Tempesta di Fuoco",
       "화염폭풍",
-      "火焰風暴",
+      "火颶",
       "火焰风暴"
     ],
     "Media": "trade_engineering.jpg"
@@ -8810,7 +8978,7 @@
       "Tempestade de Fogo",
       "Tempesta di Fuoco",
       "화염폭풍",
-      "火焰風暴",
+      "火颶",
       "火焰风暴"
     ],
     "Media": "spell_shadow_rainoffire.jpg"
@@ -12554,6 +12722,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 419720,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Timeport to Nighthold",
+      "Portal temporal a La Fortaleza Nocturna",
+      "Cronoporte para o Baluarte da Noite",
+      "Timeport to Nighthold",
+      "Teletransporte temporal al Bastión Nocturno",
+      "Téléportation temporelle vers le palais Sacrenuit",
+      "Хронопортация: Цитадель Ночи",
+      "Zeitteleport zur Nachtfestung",
+      "Cronoporte para o Baluarte da Noite",
+      "Portale Temporale: Rocca della Notte",
+      "밤의 요새로 통하는 시간 차원문",
+      "穿越時光至暗夜堡",
+      "时光传送至暗夜要塞"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 419721,
     "TagType": 26,
     "Names": [
@@ -12636,6 +12825,27 @@
       "发芽"
     ],
     "Media": "spell_lifegivingseed.jpg"
+  },
+  {
+    "TagId": 419725,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Leave Nighthold Scenario",
+      "Salir del escenario Fortaleza Nocturna",
+      "Sair do Cenário do Baluarte da Noite",
+      "Leave Nighthold Scenario",
+      "Abandonar gesta del Bastión Nocturno",
+      "Quitter le scénario du palais Sacrenuit",
+      "Выйти из сценария Цитадели Ночи",
+      "Verlasst das Nachtfestung-Szenario",
+      "Sair do Cenário do Baluarte da Noite",
+      "Abbandono Scenario Rocca della Notte",
+      "밤의 요새 시나리오 나가기",
+      "離開暗夜堡事件",
+      "离开暗夜要塞场景"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 419726,
@@ -12741,6 +12951,27 @@
       "发芽"
     ],
     "Media": "spell_lifegivingseed.jpg"
+  },
+  {
+    "TagId": 419733,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Finish Nighthold Scenario",
+      "Finish Nighthold Scenario",
+      "Finalizar Cenário do Baluarte da Noite",
+      "Finish Nighthold Scenario",
+      "Finalizar gesta del Bastión Nocturno",
+      "Finir le scénario du palais Sacrenuit",
+      "Завершить сценарий Цитадели Ночи",
+      "Schließt das Nachtfestung-Szenario ab",
+      "Finalizar Cenário do Baluarte da Noite",
+      "Fine Scenario Rocca della Notte",
+      "밤의 요새 시나리오 완료",
+      "完成暗夜堡事件",
+      "完成暗夜要塞场景"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 419735,
@@ -14465,6 +14696,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 419835,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Discipline",
+      "Disciplina",
+      "Disciplina",
+      "Discipline",
+      "Disciplina",
+      "Discipline",
+      "Сила воли",
+      "Disziplin",
+      "Disciplina",
+      "Disciplina",
+      "수양",
+      "戒律",
+      "戒律"
+    ],
+    "Media": "ability_priest_focusedwill.jpg"
+  },
+  {
     "TagId": 419836,
     "TagType": 26,
     "Names": [
@@ -14484,6 +14736,69 @@
       "毁灭烈焰"
     ],
     "Media": "spell_shaman_lavasurge.jpg"
+  },
+  {
+    "TagId": 419837,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack",
+      "[DNT] Give 1 Stack"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 419838,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks",
+      "[DNT] Give 15 Stacks"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 419839,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Discipline",
+      "Disciplina",
+      "Disciplina",
+      "Discipline",
+      "Disciplina",
+      "Discipline",
+      "Сила воли",
+      "Disziplin",
+      "Disciplina",
+      "Disciplina",
+      "수양",
+      "戒律",
+      "戒律"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 419840,
@@ -14568,6 +14883,27 @@
       "黑龙弹药"
     ],
     "Media": "inv_misc_ammo_bullet_06.jpg"
+  },
+  {
+    "TagId": 419844,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Intangible",
+      "Intangible",
+      "Intangível",
+      "Intangible",
+      "Intangible",
+      "Immatériel",
+      "Незримое",
+      "Körperlos",
+      "Intangível",
+      "Intangibile",
+      "무형",
+      "無法觸及",
+      "难以捉摸"
+    ],
+    "Media": "inv_shadowflame_buff.jpg"
   },
   {
     "TagId": 419845,
@@ -14673,6 +15009,27 @@
       "青铜龙弹药"
     ],
     "Media": "inv_misc_ammo_bullet_03.jpg"
+  },
+  {
+    "TagId": 419852,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Discipline",
+      "Disciplina",
+      "Disciplina",
+      "Discipline",
+      "Disciplina",
+      "Discipline",
+      "Сила воли",
+      "Disziplin",
+      "Disciplina",
+      "Disciplina",
+      "수양",
+      "戒律",
+      "戒律"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 419853,
@@ -16164,6 +16521,27 @@
       "黑暗碎片"
     ],
     "Media": "inv_enchanting_wod_crystalshard2.jpg"
+  },
+  {
+    "TagId": 419937,
+    "TagType": 26,
+    "Names": [
+      null,
+      "To Tyrhold",
+      "A Fuerte Tyr",
+      "Para Baluarte de Tyr",
+      "To Tyrhold",
+      "Hacia Tyrhold",
+      "En route vers le bastion de Tyr",
+      "Тирхолд",
+      "Auf nach Tyrhold",
+      "Para Baluarte de Tyr",
+      "Al Forte di Tyr",
+      "티르홀드를 향하여",
+      "前往提爾堡",
+      "前往提尔要塞"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 419938,

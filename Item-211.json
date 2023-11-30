@@ -3125,7 +3125,8 @@
       "왕가의 폭풍망치",
       "皇家風暴戰錘",
       "皇家风暴战锤"
-    ]
+    ],
+    "Media": "inv_mace_1h_gryphonrider_d_02_silver.jpg"
   },
   {
     "TagId": 211256,
@@ -3145,7 +3146,8 @@
       "우레의 폭풍망치",
       "雷霆風暴戰錘",
       "雷霆风暴战锤"
-    ]
+    ],
+    "Media": "inv_mace_1h_gryphonrider_d_02_silver.jpg"
   },
   {
     "TagId": 211257,
@@ -3165,7 +3167,8 @@
       "병기: 폭풍기수의 폭풍망치",
       "武器庫：風暴飛騎的風暴戰錘",
       "军械：驭雷者的风暴之锤"
-    ]
+    ],
+    "Media": "inv_mace_1h_gryphonrider_d_02_silver.jpg"
   },
   {
     "TagId": 211258,
@@ -3882,6 +3885,69 @@
     "Media": "inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg"
   },
   {
+    "TagId": 211396,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Attuned Glowspore Grip",
+      "Empuñadura de brilloesporas armonizada",
+      "Punho de Lumesporos Harmonizados",
+      "Attuned Glowspore Grip",
+      "Empuñadura de esporas brillantes armonizada",
+      "Poigne de spores lumineuses harmonisée",
+      "Настроенное древко из мерцающих спор",
+      "Eingestimmter Leuchtsporengriff",
+      "Punho de Lumesporos Harmonizados",
+      "Impugnatura di Spore Luminose Sintonizzate",
+      "조율된 불빛포자 손아귀",
+      "同調發光孢子握把",
+      "调谐光孢握柄"
+    ],
+    "Media": "inv_10_skinning_leather_curedleather_fire.jpg"
+  },
+  {
+    "TagId": 211397,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Attuned Rune of Shadowbinding",
+      "Runa de vinculación lóbrega armonizada",
+      "Runa de Grilhão de Sombra Harmonizado",
+      "Attuned Rune of Shadowbinding",
+      "Runa vinculasombras armonizada",
+      "Rune d’ombrelien harmonisée",
+      "Настроенная руна уз тьмы",
+      "Eingestimmte Rune der Schattenbindung",
+      "Runa de Grilhão de Sombra Harmonizado",
+      "Runa del Vincolo d'Ombra Sintonizzata",
+      "조율된 어둠결속의 룬",
+      "同調影縛符文",
+      "调谐影缚符文"
+    ],
+    "Media": "inv_10_specialreagentfoozles_primalistrune_fire.jpg"
+  },
+  {
+    "TagId": 211398,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Attuned Sophic Vellum",
+      "Vitela sapiencial armonizada",
+      "Velino Sapiente Harmonizado",
+      "Attuned Sophic Vellum",
+      "Vitela sófica armonizada",
+      "Vélin sophique harmonisé",
+      "Настроенный пергамент высшего знания",
+      "Eingestimmtes weises Pergament",
+      "Velino Sapiente Harmonizado",
+      "Vello Sofico Sintonizzato",
+      "조율된 계도의 피지",
+      "同調授智皮紙",
+      "调谐睿智羊皮纸"
+    ],
+    "Media": "inv_10_inscription_vellum_color1.jpg"
+  },
+  {
     "TagId": 211399,
     "TagType": 21,
     "Names": [
@@ -4342,5 +4408,26 @@
       null
     ],
     "Media": "inv_axe_2h_fyrakk_d_01_shadowflame.jpg"
+  },
+  {
+    "TagId": 211927,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tattered Dreamleaf",
+      "Frondasueño raída",
+      "Folha-de-sonho Despedaçada",
+      "Tattered Dreamleaf",
+      "Frondasueño ajada",
+      "Songefeuille en lambeaux",
+      "Рваный грезолист",
+      "Ausgefranstes Traumlaub",
+      "Folha-de-sonho Despedaçada",
+      "Erbonirica Lacera",
+      "너덜너덜한 꿈잎사귀",
+      "破碎的幻夢草",
+      "入梦叶碎屑"
+    ],
+    "Media": "inv_misc_herb_torngreentealeaf.jpg"
   }
 ]

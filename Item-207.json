@@ -458,7 +458,8 @@
       "붉은십자군 광신도의 히터실드",
       "血色狂熱者尖底盾",
       "血色狂热者的灼热护盾"
-    ]
+    ],
+    "Media": "inv_shield_1h_scarletcrusade_b_01.jpg"
   },
   {
     "TagId": 207030,
@@ -3815,7 +3816,7 @@
       "Mandíbula do Grande Lobo Proscrito",
       "Fauci del Granlupo Esiliato",
       "위대한 늑대 추방자의 아귀",
-      "流亡巨狼之爪",
+      "流亡巨狼之顎",
       "巨狼流放者的锐颚"
     ],
     "Media": "inv_mail_raidshamanemerald_d_01_helm.jpg"
@@ -4088,7 +4089,7 @@
       "Capa Ornamentada Perene do Guarda-serpe",
       "Mantello Abbellito Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 치장 망토",
-      "龍族守護者的永恆綴飾披風",
+      "龍隊守護者的永恆綴飾披風",
       "军营守护者的永恒繁饰披风"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_cape.jpg"
@@ -4109,7 +4110,7 @@
       "Pulseiras Perenes do Guarda-serpe",
       "Polsiere Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 손목띠",
-      "龍族守護者的永恆腕帶",
+      "龍隊守護者的永恆腕帶",
       "军营守护者的永恒腕饰"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_bracer.jpg"
@@ -4130,7 +4131,7 @@
       "Faixa Adornada Perene do Guarda-serpe",
       "Fascia Adornata Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 장식띠",
-      "龍族守護者的永恆珍貴束帶",
+      "龍隊守護者的永恆珍貴束帶",
       "军营守护者的永恒镶饰腰带"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_belt.jpg"
@@ -4151,7 +4152,7 @@
       "Talas de Areia Perenes do Guarda-serpe",
       "Spallacci Sabbiosi Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 모래덧대",
-      "龍族守護者的永恆沙擁肩甲",
+      "龍隊守護者的永恆沙擁肩甲",
       "军营守护者的永恒沙箍"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_shoulder.jpg"
@@ -4172,7 +4173,7 @@
       "Calções Perenes do Guarda-serpe",
       "Brachette Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 짧은바지",
-      "龍族守護者的永恆馬褲",
+      "龍隊守護者的永恆馬褲",
       "军营守护者的永恒马裤"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_pant.jpg"
@@ -4193,7 +4194,7 @@
       "Dracoifa Perene do Guarda-serpe",
       "Camaglio Draconico Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 용코이프",
-      "龍族守護者的永恆龍盔",
+      "龍隊守護者的永恆龍盔",
       "军营守护者的永恒螭盔"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_helm.jpg"
@@ -4214,7 +4215,7 @@
       "Garraguardas Perenes do Guarda-serpe",
       "Guanti Artigliati Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 발톱보호대",
-      "龍族守護者的永恆護爪",
+      "龍隊守護者的永恆護爪",
       "军营守护者的永恒护爪"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_glove.jpg"
@@ -4235,7 +4236,7 @@
       "Botinas Perenes do Guarda-serpe",
       "Stivaletti Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 발보호대",
-      "龍族守護者的永恆足靴",
+      "龍隊守護者的永恆足靴",
       "军营守护者的永恒便鞋"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_boot.jpg"
@@ -4256,7 +4257,7 @@
       "Indumentária Perene do Guarda-serpe",
       "Tunica Senza Tempo del Custode dei Weyrn",
       "웨이른지기의 영원한 의복",
-      "龍族守護者的永恆衣飾",
+      "龍隊守護者的永恆衣飾",
       "军营守护者的永恒法衣"
     ],
     "Media": "inv_mail_raidevokeremerald_d_01_chest.jpg"
@@ -4529,7 +4530,7 @@
       "Efígie Esperançosa da Garça Mística",
       "Effige Speranzosa dell'Airone Mistico",
       "신비한 백로의 희망찬 입상",
-      "神秘蒼鷺希望護符",
+      "神秘蒼鷺希望肩像",
       "幽鹭冀望神像"
     ],
     "Media": "inv_shoulder_leather_raidmonkemerald_d_01.jpg"
@@ -7665,6 +7666,27 @@
   },
   {
     "TagId": 207728,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_axe_2h_fyrakk_d_01_shadowflame.jpg"
+  },
+  {
+    "TagId": 207729,
     "TagType": 21,
     "Names": [
       null,
