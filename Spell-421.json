@@ -237,13 +237,13 @@
       null,
       "Cranky Tantrum",
       "Rabieta cascarrabias",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Cranky Tantrum",
       "Rabieta de cascarrabias",
       "Caprice teigneux",
       "Приступ раздражения",
       "Launischer Wutanfall",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Eccesso Irascibile",
       "심술 가득한 발광",
       "暴跳如雷",
@@ -279,13 +279,13 @@
       null,
       "Cranky Tantrum",
       "Rabieta cascarrabias",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Cranky Tantrum",
       "Rabieta de cascarrabias",
       "Caprice teigneux",
       "Приступ раздражения",
       "Launischer Wutanfall",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Eccesso Irascibile",
       "심술 가득한 발광",
       "暴跳如雷",
@@ -804,13 +804,13 @@
       null,
       "Cranky Tantrum",
       "Rabieta cascarrabias",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Cranky Tantrum",
       "Rabieta de cascarrabias",
       "Caprice teigneux",
       "Приступ раздражения",
       "Launischer Wutanfall",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Eccesso Irascibile",
       "심술 가득한 발광",
       "暴跳如雷",
@@ -846,13 +846,13 @@
       null,
       "Cranky Tantrum",
       "Rabieta cascarrabias",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Cranky Tantrum",
       "Rabieta de cascarrabias",
       "Caprice teigneux",
       "Приступ раздражения",
       "Launischer Wutanfall",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Eccesso Irascibile",
       "심술 가득한 발광",
       "暴跳如雷",
@@ -909,13 +909,13 @@
       null,
       "Cranky Tantrum",
       "Rabieta cascarrabias",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Cranky Tantrum",
       "Rabieta de cascarrabias",
       "Caprice teigneux",
       "Приступ раздражения",
       "Launischer Wutanfall",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Eccesso Irascibile",
       "심술 가득한 발광",
       "暴跳如雷",
@@ -951,13 +951,13 @@
       null,
       "Cranky Tantrum",
       "Rabieta cascarrabias",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Cranky Tantrum",
       "Rabieta de cascarrabias",
       "Caprice teigneux",
       "Приступ раздражения",
       "Launischer Wutanfall",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Eccesso Irascibile",
       "심술 가득한 발광",
       "暴跳如雷",
@@ -1826,6 +1826,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421122,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Excavating",
+      "Excavando",
+      "Escavando",
+      "Excavating",
+      "Excavando",
+      "Extraction",
+      "Раскопки",
+      "Ausgraben",
+      "Escavando",
+      "Scavo",
+      "발굴하기",
+      "挖掘",
+      "挖掘中"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 421123,
     "TagType": 26,
     "Names": [
@@ -2161,6 +2182,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421147,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Medivh's Hearthstone",
+      "Piedra de hogar de Medivh",
+      "Pedra de Regresso de Medivh",
+      "Medivh's Hearthstone",
+      "Piedra de hogar de Medivh",
+      "Pierre de foyer de Medivh",
+      "Камень возвращения Медива",
+      "Medivhs Ruhestein",
+      "Pedra de Regresso de Medivh",
+      "Pietra del Ritorno di Medivh",
+      "메디브의 귀환석",
+      "麥迪文的爐石",
+      "麦迪文的炉石"
+    ],
+    "Media": "inv_10_specialreagentfoozles_primalistrune_earth.jpg"
+  },
+  {
     "TagId": 421149,
     "TagType": 26,
     "Names": [
@@ -2371,6 +2413,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421173,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Permafrost",
+      "Escarcha permanente",
+      "Permafrio",
+      "Permafrost",
+      "Escarcha permanente",
+      "Pergélisol",
+      "Вечная мерзлота",
+      "Permafrost",
+      "Permafrio",
+      "Permagelo",
+      "영구 동토층",
+      "極寒冰霜",
+      "永冻"
+    ],
+    "Media": "ability_mage_icewall.jpg"
+  },
+  {
     "TagId": 421175,
     "TagType": 26,
     "Names": [
@@ -2493,6 +2556,69 @@
       "Teleport to Docks (2s Delay) [DNT]",
       "Teleport to Docks (2s Delay) [DNT]",
       "Teleport to Docks (2s Delay) [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421182,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dry Spell",
+      "Hechizo de secado",
+      "Estiagem",
+      "Dry Spell",
+      "Hechizo de sequedad",
+      "Sécheresse",
+      "Засуха",
+      "Trockenzauber",
+      "Estiagem",
+      "Periodo di Secca",
+      "건조 주문",
+      "乾燥法術",
+      "干燥法术"
+    ],
+    "Media": "ability_foundryraid_demolition.jpg"
+  },
+  {
+    "TagId": 421183,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events",
+      "[DNT] Random Events"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421184,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3362,13 +3488,13 @@
       null,
       "Slumberous Roar",
       "Rugido somnoliento",
-      "Rugido do Sono Profundo",
+      "Rugido Sonado",
       "Slumberous Roar",
       "Rugido soñoliento",
       "Rugissement endormi",
       "Дремотный рев",
       "Einschläferndes Brüllen",
-      "Rugido do Sono Profundo",
+      "Rugido Sonado",
       "Ruggito Assonnato",
       "잠을 부르는 포효",
       "沉眠咆哮",
@@ -3467,13 +3593,13 @@
       null,
       "Slumberous Roar",
       "Rugido somnoliento",
-      "Rugido do Sono Profundo",
+      "Rugido Sonado",
       "Slumberous Roar",
       "Rugido soñoliento",
       "Rugissement endormi",
       "Дремотный рев",
       "Einschläferndes Brüllen",
-      "Rugido do Sono Profundo",
+      "Rugido Sonado",
       "Ruggito Assonnato",
       "잠을 부르는 포효",
       "沉眠咆哮",
@@ -3774,6 +3900,48 @@
       "林莽进迫"
     ],
     "Media": "spell_nature_stranglevines.jpg"
+  },
+  {
+    "TagId": 421309,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]",
+      "Excavate Dragon Bones [DNT]"
+    ],
+    "Media": "inv_leatherworking_90_bone.jpg"
+  },
+  {
+    "TagId": 421310,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Excavating",
+      "Excavando",
+      "Escavando",
+      "Excavating",
+      "Excavando",
+      "Extraction",
+      "Раскопки",
+      "Ausgraben",
+      "Escavando",
+      "Scavo",
+      "발굴하기",
+      "挖掘",
+      "挖掘中"
+    ],
+    "Media": "spell_nature_giftofthewaterspirit.jpg"
   },
   {
     "TagId": 421313,
@@ -4800,7 +4968,8 @@
       "물 폭발",
       "流水爆發",
       "迸裂激流"
-    ]
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 421398,
@@ -6231,6 +6400,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421482,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disturbed Phantasm",
+      "Espectro perturbado",
+      "Fantasma Perturbado",
+      "Disturbed Phantasm",
+      "Espectro perturbado",
+      "Fantasme perturbé",
+      "Потревоженный фантазм",
+      "Aufgewühltes Phantom",
+      "Fantasma Perturbado",
+      "Fantasma Disturbato",
+      "성난 환영",
+      "受打擾的魅靈",
+      "扰乱的幻影"
+    ],
+    "Media": "spell_holy_guardianspirit.jpg"
+  },
+  {
     "TagId": 421483,
     "TagType": 26,
     "Names": [
@@ -6923,6 +7113,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421522,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]",
+      "Loa wearing Mask [DNT]"
+    ],
+    "Media": "inv_helm_flowercrown_a_01_pink.jpg"
+  },
+  {
     "TagId": 421523,
     "TagType": 26,
     "Names": [
@@ -7405,6 +7616,69 @@
     "Media": "spell_nature_stormreach.jpg"
   },
   {
+    "TagId": 421549,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell",
+      "[DNT] Clue Spot - Spawn Spell"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421550,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue",
+      "Obtener pista",
+      "Obter Pista",
+      "Gain Clue",
+      "Obtener pista",
+      "Gain d’indice",
+      "Получение подсказки",
+      "Hinweis erhalten",
+      "Obter Pista",
+      "Acquisizione Indizio",
+      "단서 획득",
+      "獲得線索",
+      "获得线索"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
+    "TagId": 421551,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue",
+      "Obtener pista",
+      "Obter Pista",
+      "Gain Clue",
+      "Obtener pista",
+      "Gain d’indice",
+      "Получение подсказки",
+      "Hinweis erhalten",
+      "Obter Pista",
+      "Acquisizione Indizio",
+      "단서 획득",
+      "獲得線索",
+      "获得线索"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
     "TagId": 421552,
     "TagType": 26,
     "Names": [
@@ -7426,6 +7700,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421553,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Obter Pista Suculenta",
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Gain d’indice juteux",
+      "Получение содержательной подсказки",
+      "Saftigen Hinweis erhalten",
+      "Obter Pista Suculenta",
+      "Acquisizione Indizio Succoso",
+      "맛깔스러운 단서 획득",
+      "獲得豐富線索",
+      "获得丰富的线索"
+    ],
+    "Media": "ability_paladin_handoflight.jpg"
+  },
+  {
     "TagId": 421554,
     "TagType": 26,
     "Names": [
@@ -7445,6 +7740,27 @@
       "回溯"
     ],
     "Media": "inv_relics_hourglass.jpg"
+  },
+  {
+    "TagId": 421555,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Obter Pista Suculenta",
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Gain d’indice juteux",
+      "Получение содержательной подсказки",
+      "Saftigen Hinweis erhalten",
+      "Obter Pista Suculenta",
+      "Acquisizione Indizio Succoso",
+      "맛깔스러운 단서 획득",
+      "獲得豐富線索",
+      "获得丰富的线索"
+    ],
+    "Media": "ability_paladin_handoflight.jpg"
   },
   {
     "TagId": 421556,
@@ -7482,7 +7798,7 @@
       "Mit Licht überladen",
       "Sobrecarregado com Luz",
       "Sovraccaricato di Luce",
-      "빛으로 과부하 발생",
+      "빛의 과잉",
       "聖光超載",
       "圣光过载"
     ],
@@ -7531,6 +7847,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421560,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]",
+      "Summon Clue Morsels [DNT]"
+    ],
+    "Media": "spell_magic_managain.jpg"
+  },
+  {
+    "TagId": 421561,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue Morsels",
+      "Obtener bocados de pistas",
+      "Obter Nacos de Pista",
+      "Gain Clue Morsels",
+      "Obtener bocados de pista",
+      "Gain de morceaux d’indice",
+      "Получение любопытных подсказок",
+      "Hinweishappen erhalten",
+      "Obter Nacos de Pista",
+      "Acquisizione Bocconi Indiziari",
+      "단서 덩어리 획득",
+      "獲得線索碎塊",
+      "获得线索小食"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
     "TagId": 421562,
     "TagType": 26,
     "Names": [
@@ -7550,6 +7908,153 @@
       "梦境聚合"
     ],
     "Media": "spell_shadow_charm.jpg"
+  },
+  {
+    "TagId": 421563,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue Morsels",
+      "Obtener bocados de pistas",
+      "Obter Nacos de Pista",
+      "Gain Clue Morsels",
+      "Obtener bocados de pista",
+      "Gain de morceaux d’indice",
+      "Получение любопытных подсказок",
+      "Hinweishappen erhalten",
+      "Obter Nacos de Pista",
+      "Acquisizione Bocconi Indiziari",
+      "단서 덩어리 획득",
+      "獲得線索碎塊",
+      "获得线索小食"
+    ],
+    "Media": "spell_magic_managain.jpg"
+  },
+  {
+    "TagId": 421564,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue Morsels",
+      "Obtener bocados de pistas",
+      "Obter Nacos de Pista",
+      "Gain Clue Morsels",
+      "Obtener bocados de pista",
+      "Gain de morceaux d’indice",
+      "Получение любопытных подсказок",
+      "Hinweishappen erhalten",
+      "Obter Nacos de Pista",
+      "Acquisizione Bocconi Indiziari",
+      "단서 덩어리 획득",
+      "獲得線索碎塊",
+      "获得线索小食"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
+    "TagId": 421565,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue",
+      "Obtener pista",
+      "Obter Pista",
+      "Gain Clue",
+      "Obtener pista",
+      "Gain d’indice",
+      "Получение подсказки",
+      "Hinweis erhalten",
+      "Obter Pista",
+      "Acquisizione Indizio",
+      "단서 획득",
+      "獲得線索",
+      "获得线索"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
+    "TagId": 421566,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue",
+      "Obtener pista",
+      "Obter Pista",
+      "Gain Clue",
+      "Obtener pista",
+      "Gain d’indice",
+      "Получение подсказки",
+      "Hinweis erhalten",
+      "Obter Pista",
+      "Acquisizione Indizio",
+      "단서 획득",
+      "獲得線索",
+      "获得线索"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421567,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Clue",
+      "Obtener pista",
+      "Obter Pista",
+      "Gain Clue",
+      "Obtener pista",
+      "Gain d’indice",
+      "Получение подсказки",
+      "Hinweis erhalten",
+      "Obter Pista",
+      "Acquisizione Indizio",
+      "단서 획득",
+      "獲得線索",
+      "获得线索"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421568,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Casing the Scene",
+      "Cubriendo la escena",
+      "Reconstituição da Cena",
+      "Casing the Scene",
+      "Inspeccionando la escena",
+      "Inspection de la scène",
+      "Осмотр места действия",
+      "Umgebung untersuchen",
+      "Reconstituição da Cena",
+      "Esame della Scena",
+      "사건 탐구",
+      "探察實情",
+      "实地勘察"
+    ],
+    "Media": "inv_relics_libramofgrace.jpg"
+  },
+  {
+    "TagId": 421569,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Casing the Scene",
+      "Cubriendo la escena",
+      "Reconstituição da Cena",
+      "Casing the Scene",
+      "Inspeccionando la escena",
+      "Inspection de la scène",
+      "Осмотр места действия",
+      "Umgebung untersuchen",
+      "Reconstituição da Cena",
+      "Esame della Scena",
+      "사건 탐구",
+      "探察實情",
+      "实地勘察"
+    ],
+    "Media": "inv_relics_libramofgrace.jpg"
   },
   {
     "TagId": 421570,
@@ -7592,6 +8097,27 @@
       "拜荒者传送门"
     ],
     "Media": "spell_shadow_charm.jpg"
+  },
+  {
+    "TagId": 421572,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Casing the Scene",
+      "Cubriendo la escena",
+      "Reconstituição da Cena",
+      "Casing the Scene",
+      "Inspeccionando la escena",
+      "Inspection de la scène",
+      "Осмотр места действия",
+      "Umgebung untersuchen",
+      "Reconstituição da Cena",
+      "Esame della Scena",
+      "사건 탐구",
+      "探察實情",
+      "实地勘察"
+    ],
+    "Media": "inv_relics_libramofgrace.jpg"
   },
   {
     "TagId": 421573,
@@ -7676,6 +8202,27 @@
       "[DNT] Finale: Ceremony Witnessed"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421577,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Casing the Scene",
+      "Cubriendo la escena",
+      "Reconstituição da Cena",
+      "Casing the Scene",
+      "Inspeccionando la escena",
+      "Inspection de la scène",
+      "Осмотр места действия",
+      "Umgebung untersuchen",
+      "Reconstituição da Cena",
+      "Esame della Scena",
+      "사건 탐구",
+      "探察實情",
+      "实地勘察"
+    ],
+    "Media": "inv_relics_libramofgrace.jpg"
   },
   {
     "TagId": 421578,
@@ -7867,6 +8414,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 421589,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Obter Pista Suculenta",
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Gain d’indice juteux",
+      "Получение содержательной подсказки",
+      "Saftigen Hinweis erhalten",
+      "Obter Pista Suculenta",
+      "Acquisizione Indizio Succoso",
+      "맛깔스러운 단서 획득",
+      "獲得豐富線索",
+      "获得丰富的线索"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
+    "TagId": 421590,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Obter Pista Suculenta",
+      "Gain Juicy Clue",
+      "Obtener pista jugosa",
+      "Gain d’indice juteux",
+      "Получение содержательной подсказки",
+      "Saftigen Hinweis erhalten",
+      "Obter Pista Suculenta",
+      "Acquisizione Indizio Succoso",
+      "맛깔스러운 단서 획득",
+      "獲得豐富線索",
+      "获得丰富的线索"
+    ],
+    "Media": "ability_paladin_handoflight.jpg"
+  },
+  {
     "TagId": 421591,
     "TagType": 26,
     "Names": [
@@ -8033,6 +8622,48 @@
       "化身：烈焰之枭"
     ],
     "Media": "inv_dreamowl_firemount.jpg"
+  },
+  {
+    "TagId": 421604,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heat of Battle Participation",
+      "Participación en el calor de la batalla",
+      "Participação no Calor da Batalha",
+      "Heat of Battle Participation",
+      "Participación en Fragor de la batalla",
+      "Participation de feu de l’action",
+      "Пыл битвы – участие",
+      "Hitze der Schlacht - Teilnahme",
+      "Participação no Calor da Batalha",
+      "Partecipazione a Nel Vivo della Battaglia",
+      "전장의 열기 참여",
+      "激烈鬥爭參與",
+      "白热缠斗参与"
+    ],
+    "Media": "spell_azerite_essence_17.jpg"
+  },
+  {
+    "TagId": 421605,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heat of Battle Win",
+      "Victoria en el calor de la batalla",
+      "Vitória no Calor da Batalha",
+      "Heat of Battle Win",
+      "Victoria en Fragor de la batalla",
+      "Victoire de feu de l’action",
+      "Пыл битвы – победа",
+      "Hitze der Schlacht - Sieg",
+      "Vitória no Calor da Batalha",
+      "Vittoria a Nel Vivo della Battaglia",
+      "전장의 열기 승리",
+      "激烈鬥爭獲勝",
+      "白热缠斗获胜"
+    ],
+    "Media": "spell_azerite_essence_17.jpg"
   },
   {
     "TagId": 421606,
@@ -8313,7 +8944,7 @@
     "Names": [
       null,
       "Deciphering",
-      "Descifrando",
+      "Descifrado",
       "Decifrando",
       "Deciphering",
       "Descifrando",
@@ -8355,7 +8986,7 @@
     "Names": [
       null,
       "Deciphering",
-      "Descifrando",
+      "Descifrado",
       "Decifrando",
       "Deciphering",
       "Descifrando",
@@ -8579,6 +9210,27 @@
       "余烬之痕印记"
     ],
     "Media": "inv_knife_1h_firelandsraid_d_01.jpg"
+  },
+  {
+    "TagId": 421644,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ride Vehicle",
+      "Montar vehículo",
+      "Guiar Veículo",
+      "Ride Vehicle",
+      "Montar en vehículo",
+      "Conduire le véhicule",
+      "Езда на транспортном средстве",
+      "Transportmittel benutzen",
+      "Guiar Veículo",
+      "Utilizzo Veicolo",
+      "탈것 타기",
+      "搭乘載具",
+      "搭乘载具"
+    ],
+    "Media": "spell_nature_strength.jpg"
   },
   {
     "TagId": 421645,
@@ -8937,6 +9589,48 @@
     "Media": "inv_misc_tournaments_banner_nightelf.jpg"
   },
   {
+    "TagId": 421669,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hat Toss",
+      "Lanzar sombrero",
+      "Arremesso do Chapéu",
+      "Hat Toss",
+      "Lanzamiento de sombrero",
+      "Lancer de chapeau",
+      "Бросок шляпы",
+      "Hutwurf",
+      "Arremesso do Chapéu",
+      "Lancio del Cappello",
+      "모자 던지기",
+      "丟帽子",
+      "投掷帽子"
+    ],
+    "Media": "inv_helm_armor_explorer_d_01.jpg"
+  },
+  {
+    "TagId": 421670,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Archaeologist's Sun Hat",
+      "Sombrero de arqueólogo",
+      "Chapéu de Arqueólogo",
+      "Archaeologist's Sun Hat",
+      "Sombrero de sol de arqueólogo",
+      "Chapeau large d’archéologue",
+      "Солнцезащитная шляпа археолога",
+      "Archäologensonnenhut",
+      "Chapéu de Arqueólogo",
+      "Cappello Parasole dell'Archeologo",
+      "고고학자의 햇빛 차단 모자",
+      "考古學家的遮陽帽",
+      "考古学家的太阳帽"
+    ],
+    "Media": "inv_helm_armor_explorer_d_01.jpg"
+  },
+  {
     "TagId": 421671,
     "TagType": 26,
     "Names": [
@@ -8977,6 +9671,27 @@
       "炎蛇怒焰"
     ],
     "Media": "ability_evoker_firestorm.jpg"
+  },
+  {
+    "TagId": 421673,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Archaeologist's Sun Hat",
+      "Sombrero de arqueólogo",
+      "Chapéu de Arqueólogo",
+      "Archaeologist's Sun Hat",
+      "Sombrero de sol de arqueólogo",
+      "Chapeau large d’archéologue",
+      "Солнцезащитная шляпа археолога",
+      "Archäologensonnenhut",
+      "Chapéu de Arqueólogo",
+      "Cappello Parasole dell'Archeologo",
+      "고고학자의 햇빛 차단 모자",
+      "考古學家的遮陽帽",
+      "考古学家的太阳帽"
+    ],
+    "Media": "inv_helm_armor_explorer_d_01.jpg"
   },
   {
     "TagId": 421674,
@@ -9035,7 +9750,7 @@
       "Mit Licht überladen",
       "Sobrecarregado com Luz",
       "Sovraccaricato di Luce",
-      "빛으로 과부하 발생",
+      "빛의 과잉",
       "聖光超載",
       "圣光过载"
     ],
@@ -10761,6 +11476,27 @@
     "Media": "inv_spear_05.jpg"
   },
   {
+    "TagId": 421768,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis",
+      "[DNT] 10.2.5 AA - Traitor's Rest - Cancel Analysis"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 421769,
     "TagType": 26,
     "Names": [
@@ -10808,7 +11544,7 @@
     "Names": [
       null,
       "Recently Cared For",
-      "Recientemente cuidado",
+      "Recientemente cuidada",
       "Recebeu cuidados recentemente",
       "Recently Cared For",
       "Ha recibido cuidados recientemente",
@@ -11011,6 +11747,27 @@
       "Quest Complete [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421781,
+    "TagType": 26,
+    "Names": [
+      null,
+      "With the Loa",
+      "Con los loa",
+      "Com os Loas",
+      "With the Loa",
+      "Con los loa",
+      "Avec les Loas",
+      "С лоа",
+      "Mit dem Loa",
+      "Com os Loas",
+      "Con il Loa",
+      "로아와 함께",
+      "與羅亞同行",
+      "神灵随行"
+    ],
+    "Media": "ability_racial_wardoftheloaarcane.jpg"
   },
   {
     "TagId": 421783,
@@ -11580,6 +12337,27 @@
     "Media": "spell_nature_guardianward.jpg"
   },
   {
+    "TagId": 421812,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Travel to De Other Side",
+      "Viaje a El Otro Lado",
+      "Viaja para O Outro Lado",
+      "Travel to De Other Side",
+      "Viajar a El Otro Lado",
+      "Aller de l’Autre côté",
+      "Путешествие на Ту Сторону",
+      "Zur Andren Seite reisen",
+      "Viaja para O Outro Lado",
+      "Viaggio per l'Aldilà.",
+      "저편으로 이동",
+      "前往彼界境地",
+      "前往彼界"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 421813,
     "TagType": 26,
     "Names": [
@@ -11662,6 +12440,27 @@
       "采集草药……？"
     ],
     "Media": "ui_profession_herbalism.jpg"
+  },
+  {
+    "TagId": 421819,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Overheated!",
+      "¡Sobrecalentado!",
+      "Insolação!",
+      "Overheated!",
+      "¡Sobrecalentado!",
+      "Surchauffe\u00A0!",
+      "Перегрев!",
+      "Überhitzt!",
+      "Insolação!",
+      "Surriscaldato!",
+      "과열!",
+      "過熱！",
+      "过热！"
+    ],
+    "Media": "spell_druid_sunfall.jpg"
   },
   {
     "TagId": 421820,
@@ -12231,6 +13030,48 @@
     "Media": "spell_arcane_portalorgrimmar.jpg"
   },
   {
+    "TagId": 421854,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heat of Battle - Team Purple",
+      "Calor de la batalla - Equipo púrpura",
+      "Calor da Batalha - Equipe Roxa",
+      "Heat of Battle - Team Purple",
+      "Fragor de la batalla - Equipo morado",
+      "Feu de l’action – Équipe violette",
+      "Пыл битвы – фиолетовая команда",
+      "Hitze der Schlacht - Team Violett",
+      "Calor da Batalha - Equipe Roxa",
+      "Nel Vivo della Battaglia - Squadra Viola",
+      "전장의 열기 - 보라색 팀",
+      "激烈鬥爭 - 紫隊",
+      "白热缠斗 - 紫色队伍"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421855,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heat of Battle - Team Gold",
+      "Calor de la batalla - Equipo oro",
+      "Calor da Batalha - Equipe Dourada",
+      "Heat of Battle - Team Gold",
+      "Fragor de la batalla - Equipo dorado",
+      "Feu de l’action – Équipe or",
+      "Пыл битвы – золотая команда",
+      "Hitze der Schlacht - Team Gold",
+      "Calor da Batalha - Equipe Dourada",
+      "Nel Vivo della Battaglia - Squadra Oro",
+      "전장의 열기 - 금색 팀",
+      "激烈鬥爭 - 金隊",
+      "白热缠斗 - 金色队伍"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 421856,
     "TagType": 26,
     "Names": [
@@ -12313,6 +13154,27 @@
       "打开"
     ],
     "Media": "inv_smallazeritecluster.jpg"
+  },
+  {
+    "TagId": 421861,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Travel to Bambala",
+      "Viaja a Bambala",
+      "Viajar para Bambala",
+      "Travel to Bambala",
+      "Viaja a Bambala",
+      "Aller à Bambala",
+      "Путешествие в Бамбалу",
+      "Nach Bambala reisen",
+      "Viajar para Bambala",
+      "Viaggio per Bambala",
+      "밤발라로 이동",
+      "前往班姆巴拉",
+      "前往邦巴拉"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 421862,
@@ -12500,6 +13362,27 @@
       "[DNT] Cancel",
       "[DNT] Cancel",
       "[DNT] Cancel"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421872,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heat of Battle - Start Mechanic",
+      "Calor de la batalla - Arranque mecánico",
+      "Calor da Batalha - Mecânica de Início",
+      "Heat of Battle - Start Mechanic",
+      "Fragor de la batalla - Iniciar mecánico",
+      "Feu de l’action – Mécanisme de départ",
+      "Пыл битвы – начало механики",
+      "Hitze der Schlacht - Startmechanik",
+      "Calor da Batalha - Mecânica de Início",
+      "Nel Vivo della Battaglia - Inizio Meccanico",
+      "전장의 열기 - 메커니즘 시작",
+      "激烈鬥爭 - 開始技師",
+      "白热缠斗 - 开始机制"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -13007,19 +13890,40 @@
     "Media": "inv_cape_undercityforsaken_b_01.jpg"
   },
   {
+    "TagId": 421900,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Travel to the Tainted Forest",
+      "Viaja al Bosque Corrupto",
+      "Viajar para a Floresta Maculada",
+      "Travel to the Tainted Forest",
+      "Viajar a El Bosque Corrupto",
+      "Aller à la forêt Impure",
+      "Путешествие в Проклятый лес",
+      "Zum Besudelten Wald reisen",
+      "Viajar para a Floresta Maculada",
+      "Viaggio per il Bosco Corrotto",
+      "오염된 숲으로 이동",
+      "前往腐化之森",
+      "前往腐烂森林"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 421902,
     "TagType": 26,
     "Names": [
       null,
       "Cranky Tantrum",
       "Rabieta cascarrabias",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Cranky Tantrum",
       "Rabieta de cascarrabias",
       "Caprice teigneux",
       "Приступ раздражения",
       "Launischer Wutanfall",
-      "Descontrole Irritado",
+      "Ataque de Mal Humor",
       "Eccesso Irascibile",
       "심술 가득한 발광",
       "暴跳如雷",
@@ -13402,6 +14306,27 @@
       "Cancel Convos [DNT]",
       "Cancel Convos [DNT]",
       "Cancel Convos [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 421927,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Travel to Echo Isles",
+      "Viaje a las Islas del Eco",
+      "Viajar para as Ilhas do Eco",
+      "Travel to Echo Isles",
+      "Viajar a las Islas del Eco",
+      "Aller aux îles de l’Écho",
+      "Путешествие на острова Эха",
+      "Zu den Echoinseln reisen",
+      "Viajar para as Ilhas do Eco",
+      "Viaggio per le Isole dell'Eco",
+      "메아리 섬으로 이동",
+      "前往回音群島",
+      "前往回音群岛"
     ],
     "Media": "trade_engineering.jpg"
   },

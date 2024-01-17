@@ -1,5 +1,26 @@
 [
   {
+    "TagId": 429001,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thorns",
+      "Espinas",
+      "Espinhos",
+      "Thorns",
+      "Espinas",
+      "Épines",
+      "Шипы",
+      "Dornen",
+      "Espinhos",
+      "Spine",
+      "가시",
+      "荊棘術",
+      "荆棘"
+    ],
+    "Media": "spell_nature_thorns.jpg"
+  },
+  {
     "TagId": 429002,
     "TagType": 26,
     "Names": [
@@ -47,7 +68,7 @@
     "Names": [
       null,
       "Deciphering",
-      "Descifrando",
+      "Descifrado",
       "Decifrante",
       "Deciphering",
       "Descifrando",
@@ -82,6 +103,27 @@
       "暗影打击"
     ],
     "Media": "ability_rogue_shadowstrike.jpg"
+  },
+  {
+    "TagId": 429007,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Brilliance",
+      "Luminosidad",
+      "Brilhantismo",
+      "Brilliance",
+      "Luminosidad",
+      "Illumination",
+      "Гениальность",
+      "Brillanz",
+      "Brilhantismo",
+      "Acume",
+      "총명함",
+      "光輝",
+      "辉煌"
+    ],
+    "Media": "inv_staff_07.jpg"
   },
   {
     "TagId": 429008,
@@ -252,12 +294,117 @@
     "Media": "ability_golemthunderclap.jpg"
   },
   {
+    "TagId": 429022,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]",
+      "[DNT] Summon Mount Set [Dragonriding]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429023,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Freedom",
+      "Libertad",
+      "Liberdade",
+      "Freedom",
+      "Libertad",
+      "Liberté",
+      "Свобода",
+      "Freiheit",
+      "Liberdade",
+      "Libertà",
+      "자유",
+      "自由",
+      "自由"
+    ],
+    "Media": "spell_holy_blessedresillience.jpg"
+  },
+  {
+    "TagId": 429024,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Freedom",
+      "Libertad",
+      "Liberdade",
+      "Freedom",
+      "Libertad",
+      "Liberté",
+      "Свобода",
+      "Freiheit",
+      "Liberdade",
+      "Libertà",
+      "자유",
+      "自由",
+      "自由"
+    ],
+    "Media": "spell_holy_blessedresillience.jpg"
+  },
+  {
+    "TagId": 429025,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Freedom",
+      "Libertad",
+      "Liberdade",
+      "Freedom",
+      "Libertad",
+      "Liberté",
+      "Свобода",
+      "Freiheit",
+      "Liberdade",
+      "Libertà",
+      "자유",
+      "自由",
+      "自由"
+    ],
+    "Media": "spell_holy_blessedresillience.jpg"
+  },
+  {
+    "TagId": 429026,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Freedom",
+      "Libertad",
+      "Liberdade",
+      "Freedom",
+      "Libertad",
+      "Liberté",
+      "Свобода",
+      "Freiheit",
+      "Liberdade",
+      "Libertà",
+      "자유",
+      "自由",
+      "自由"
+    ],
+    "Media": "spell_holy_blessedresillience.jpg"
+  },
+  {
     "TagId": 429027,
     "TagType": 26,
     "Names": [
       null,
       "Deciphering",
-      "Descifrando",
+      "Descifrado",
       "Decifrante",
       "Deciphering",
       "Descifrando",
@@ -798,6 +945,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429066,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Relieving Frustration",
+      "Alivio de frustración",
+      "Frustração Revivida",
+      "Relieving Frustration",
+      "Aliviar la frustración",
+      "Soulagement de la frustration",
+      "Снятие стресса",
+      "Frustration abbauen",
+      "Frustração Revivida",
+      "Sollievo dalla Frustrazione",
+      "욕구 불만 해소 중",
+      "排解沮喪",
+      "排遣纷扰"
+    ],
+    "Media": "spell_winston_rage.jpg"
+  },
+  {
+    "TagId": 429067,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Conversation",
+      "Iniciar conversación",
+      "Conversa do Fogo",
+      "Fire Conversation",
+      "Disparar conversación",
+      "Conversation enflammée",
+      "Разговор об огне",
+      "Feuergespräch",
+      "Conversa do Fogo",
+      "Conversazione sul Fuoco",
+      "화염 대화",
+      "發射對話",
+      "启动对话"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429068,
     "TagType": 26,
     "Names": [
@@ -987,6 +1176,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429083,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Conversation",
+      "Iniciar conversación",
+      "Conversa do Fogo",
+      "Fire Conversation",
+      "Disparar conversación",
+      "Conversation enflammée",
+      "Разговор об огне",
+      "Feuergespräch",
+      "Conversa do Fogo",
+      "Conversazione sul Fuoco",
+      "화염 대화",
+      "發射對話",
+      "启动对话"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429084,
     "TagType": 26,
     "Names": [
@@ -1092,25 +1302,67 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429097,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision",
+      "[DNT] Invis Vision"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429108,
     "TagType": 26,
     "Names": [
       null,
       "Lumbering Slam",
       "Golpe pesado",
-      "Batida Claudicante",
+      "Batida Serrante",
       "Lumbering Slam",
       "Embate pesado",
       "Heurt chancelant",
       "Грузный удар",
       "Schwerfälliges Schmettern",
-      "Batida Claudicante",
+      "Batida Serrante",
       "Contusione Pesante",
       "육중한 격돌",
       "沉重猛擊",
       "笨拙猛击"
     ],
     "Media": "inv_misc_volatileearth.jpg"
+  },
+  {
+    "TagId": 429116,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel Power",
+      "Canalizar poder",
+      "Canalizar Poder",
+      "Channel Power",
+      "Canalizar poder",
+      "Canalisation de puissance",
+      "Направление энергии",
+      "Macht kanalisieren",
+      "Canalizar Poder",
+      "Canalizzazione del Potere",
+      "힘 집중",
+      "引導力量",
+      "引导力量"
+    ],
+    "Media": "spell_holy_purifyingpower.jpg"
   },
   {
     "TagId": 429119,
@@ -1769,13 +2021,13 @@
       null,
       "Lumbering Slam",
       "Golpe pesado",
-      "Batida Claudicante",
+      "Batida Serrante",
       "Lumbering Slam",
       "Embate pesado",
       "Heurt chancelant",
       "Грузный удар",
       "Schwerfälliges Schmettern",
-      "Batida Claudicante",
+      "Batida Serrante",
       "Contusione Pesante",
       "육중한 격돌",
       "沉重猛擊",
@@ -1866,6 +2118,153 @@
       "[DNT] Blazing Soul"
     ],
     "Media": "ability_mage_livingbomb.jpg"
+  },
+  {
+    "TagId": 429190,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Romantic Sunset",
+      "Atardecer romántico",
+      "Pôr do Sol Romântico",
+      "Romantic Sunset",
+      "Puesta de sol romántica",
+      "Coucher de soleil romantique",
+      "Романтичный закат",
+      "Romantischer Sonnenuntergang",
+      "Pôr do Sol Romântico",
+      "Tramonto Romantico",
+      "낭만적인 석양",
+      "浪漫日落",
+      "浪漫夕阳"
+    ],
+    "Media": "achievement_zone_tanaris_01.jpg"
+  },
+  {
+    "TagId": 429191,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maintain Romantic Sunset",
+      "Mantener atardecer romántico",
+      "Manter Pôr do Sol Romântico",
+      "Maintain Romantic Sunset",
+      "Mantener Puesta de sol romántica",
+      "Maintenir Coucher de soleil romantique",
+      "Поддержание романтичного заката",
+      "Romantischen Sonnenuntergang aufrechterhalten",
+      "Manter Pôr do Sol Romântico",
+      "Mantenimento Tramonto Romantico",
+      "낭만적인 석양 유지",
+      "呈現浪漫日落",
+      "维持浪漫夕阳"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429192,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fireflies at Midnight",
+      "Luciérnagas de medianoche",
+      "Vaga-lumes à Meia-noite",
+      "Fireflies at Midnight",
+      "Luciérnagas a medianoche",
+      "Lucioles à minuit",
+      "Полуночные светлячки",
+      "Glühwürmchen um Mitternacht",
+      "Vaga-lumes à Meia-noite",
+      "Lucciole a Mezzanotte",
+      "한밤의 반딧불이",
+      "午夜的螢火蟲",
+      "仲夜萤火"
+    ],
+    "Media": "artifactability_balancedruid_moonandstars.jpg"
+  },
+  {
+    "TagId": 429194,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maintain Fireflies at Midnight",
+      "Mantener luciérnagas de medianoche",
+      "Manter Vaga-lumes à Meia-noite",
+      "Maintain Fireflies at Midnight",
+      "Mantener Luciérnagas a medianoche",
+      "Maintenir Lucioles à minuit",
+      "Поддержание полуночных светлячков",
+      "Glühwürmchen um Mitternacht aufrechterhalten",
+      "Manter Vaga-lumes à Meia-noite",
+      "Mantenimento Lucciole a Mezzanotte",
+      "한밤의 반딧불이 유지",
+      "呈現午夜的螢火蟲",
+      "维持仲夜萤火"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429196,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rainstorm",
+      "Tempestad",
+      "Tempestade",
+      "Rainstorm",
+      "Diluvio",
+      "Pluie torrentielle",
+      "Ливень",
+      "Regenguss",
+      "Tempestade",
+      "Temporale",
+      "폭우",
+      "雨暴風",
+      "暴风雨"
+    ],
+    "Media": "shaman_pvp_ripplingwaters.jpg"
+  },
+  {
+    "TagId": 429197,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maintain Rainstorm",
+      "Mantener tempestad",
+      "Manter Tempestade",
+      "Maintain Rainstorm",
+      "Mantener Diluvio",
+      "Maintenir Pluie torrentielle",
+      "Поддержание ливня",
+      "Regenguss aufrechterhalten",
+      "Manter Tempestade",
+      "Mantenimento Temporale",
+      "폭우 유지",
+      "呈現暴風雨",
+      "维持暴风雨"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429198,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jump",
+      "Salto",
+      "Salto",
+      "Jump",
+      "Saltar",
+      "Saut",
+      "Прыжок",
+      "Sprung",
+      "Salto",
+      "Salto",
+      "도약",
+      "跳",
+      "跳跃"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 429204,
@@ -1988,6 +2387,48 @@
       "[DNT] Play Conversation",
       "[DNT] Play Conversation"
     ]
+  },
+  {
+    "TagId": 429214,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sunstrider's Flourish",
+      "Floritura de Caminante del Sol",
+      "Florescer do Andassol",
+      "Sunstrider's Flourish",
+      "Floritura de Caminante del Sol",
+      "Épanouissement de Haut-Soleil",
+      "Росчерк Солнечного Скитальца",
+      "Erblühen des Sonnenwanderers",
+      "Florescer do Andassol",
+      "Infiorescenza di Solealto",
+      "선스트라이더의 번영",
+      "逐日者之盛",
+      "逐日者的华彩"
+    ],
+    "Media": "ability_mage_firestarter.jpg"
+  },
+  {
+    "TagId": 429216,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sunstrider's Flourish",
+      "Floritura de Caminante del Sol",
+      "Florescer do Andassol",
+      "Sunstrider's Flourish",
+      "Floritura de Caminante del Sol",
+      "Épanouissement de Haut-Soleil",
+      "Росчерк Солнечного Скитальца",
+      "Erblühen des Sonnenwanderers",
+      "Florescer do Andassol",
+      "Infiorescenza di Solealto",
+      "선스트라이더의 번영",
+      "逐日者之盛",
+      "逐日者的华彩"
+    ],
+    "Media": "ability_mage_firestarter.jpg"
   },
   {
     "TagId": 429218,
@@ -2178,6 +2619,69 @@
     "Media": "achievement_dungeon_rezan.jpg"
   },
   {
+    "TagId": 429230,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tinkmaster's Shield",
+      "Escudo de maestro manitas",
+      "Escudo do Mestre-faz-tudo",
+      "Tinkmaster's Shield",
+      "Escudo del maestro manitas",
+      "Bouclier de maître-bricoleur",
+      "Щит мехмастера",
+      "Schild des Tüftlermeisters",
+      "Escudo do Mestre-faz-tudo",
+      "Scudo del Mastro Meccanista",
+      "수석땜장이의 보호막",
+      "技工大師之盾",
+      "工匠大师护盾"
+    ],
+    "Media": "inv_gizmo_electrifiedether.jpg"
+  },
+  {
+    "TagId": 429231,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tinkmaster's Shield",
+      "Escudo de maestro manitas",
+      "Escudo do Mestre-faz-tudo",
+      "Tinkmaster's Shield",
+      "Escudo del maestro manitas",
+      "Bouclier de maître-bricoleur",
+      "Щит мехмастера",
+      "Schild des Tüftlermeisters",
+      "Escudo do Mestre-faz-tudo",
+      "Scudo del Mastro Meccanista",
+      "수석땜장이의 보호막",
+      "技工大師之盾",
+      "工匠大师护盾"
+    ],
+    "Media": "inv_gizmo_electrifiedether.jpg"
+  },
+  {
+    "TagId": 429232,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tinkmaster's Shield",
+      "Escudo de maestro manitas",
+      "Escudo do Mestre-faz-tudo",
+      "Tinkmaster's Shield",
+      "Escudo del maestro manitas",
+      "Bouclier de maître-bricoleur",
+      "Щит мехмастера",
+      "Schild des Tüftlermeisters",
+      "Escudo do Mestre-faz-tudo",
+      "Scudo del Mastro Meccanista",
+      "수석땜장이의 보호막",
+      "技工大師之盾",
+      "工匠大师护盾"
+    ],
+    "Media": "inv_gizmo_electrifiedether.jpg"
+  },
+  {
     "TagId": 429233,
     "TagType": 26,
     "Names": [
@@ -2303,6 +2807,27 @@
     "Media": "ui_majorfaction_denizens.jpg"
   },
   {
+    "TagId": 429241,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mark of Arrogance",
+      "Marca de arrogancia",
+      "Marca da Arrogância",
+      "Mark of Arrogance",
+      "Marca de arrogancia",
+      "Marque d’arrogance",
+      "Знак самонадеянности",
+      "Mal der Arroganz",
+      "Marca da Arrogância",
+      "Marchio dell'Arroganza",
+      "오만의 징표",
+      "自大印記",
+      "傲慢标记"
+    ],
+    "Media": "ability_warlock_impoweredimp.jpg"
+  },
+  {
     "TagId": 429244,
     "TagType": 26,
     "Names": [
@@ -2343,6 +2868,48 @@
       "原祖源生"
     ],
     "Media": "ability_creature_poison_06.jpg"
+  },
+  {
+    "TagId": 429252,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mark of Arrogance",
+      "Marca de arrogancia",
+      "Marca da Arrogância",
+      "Mark of Arrogance",
+      "Marca de arrogancia",
+      "Marque d’arrogance",
+      "Знак самонадеянности",
+      "Mal der Arroganz",
+      "Marca da Arrogância",
+      "Marchio dell'Arroganza",
+      "오만의 징표",
+      "自大印記",
+      "傲慢标记"
+    ],
+    "Media": "ability_warlock_impoweredimp.jpg"
+  },
+  {
+    "TagId": 429253,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]",
+      "Found Special Rock [DNT]"
+    ],
+    "Media": "trade_archaeology_dwarf_runestone.jpg"
   },
   {
     "TagId": 429257,
@@ -2534,6 +3101,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429270,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanist's Edge",
+      "Ventaja de arcanista",
+      "Lâmina do Arcanista",
+      "Arcanist's Edge",
+      "Filo del arcanista",
+      "Lame d’arcaniste",
+      "Клинок чародея",
+      "Schneide des Arkanisten",
+      "Lâmina do Arcanista",
+      "Vantaggio dell'Arcanista",
+      "비전술사의 칼날",
+      "秘法師的優勢",
+      "奥术师之锋"
+    ],
+    "Media": "spell_arcane_arcanepotency.jpg"
+  },
+  {
     "TagId": 429271,
     "TagType": 26,
     "Names": [
@@ -2574,6 +3162,27 @@
       "古树逢春"
     ],
     "Media": "inv_misc_lifeblood.jpg"
+  },
+  {
+    "TagId": 429273,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanist's Edge",
+      "Ventaja de arcanista",
+      "Lâmina do Arcanista",
+      "Arcanist's Edge",
+      "Filo del arcanista",
+      "Lame d’arcaniste",
+      "Клинок чародея",
+      "Schneide des Arkanisten",
+      "Lâmina do Arcanista",
+      "Vantaggio dell'Arcanista",
+      "비전술사의 칼날",
+      "秘法師的優勢",
+      "奥术师之锋"
+    ],
+    "Media": "spell_arcane_arcanepotency.jpg"
   },
   {
     "TagId": 429274,
@@ -2807,6 +3416,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429291,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Artifact Delivery for Roska!",
+      "¡Entrega de artefactos para Roska!",
+      "Entrega de Artefato para Ruska!",
+      "Artifact Delivery for Roska!",
+      "¡Entrega de artefactos para Roska!",
+      "Livraison d’artéfacts pour Roska\u00A0!",
+      "Доставка артефактов для Роски!",
+      "Artefaktzustellung für Roska!",
+      "Entrega de Artefato para Ruska!",
+      "Consegna Manufatto per Roska!",
+      "로스카에게 유물 배달!",
+      "蘿思卡的文物快遞！",
+      "洛斯卡的神器速递！"
+    ],
+    "Media": "inv_crate_05.jpg"
+  },
+  {
     "TagId": 429292,
     "TagType": 26,
     "Names": [
@@ -2824,6 +3454,48 @@
       "Step 3: Spawn Elites [DNT]",
       "Step 3: Spawn Elites [DNT]",
       "Step 3: Spawn Elites [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429293,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Artifact Delivery for Nirobin!",
+      "¡Entrega de artefactos para Nirobin!",
+      "Entrega de Artefato para Nirobin!",
+      "Artifact Delivery for Nirobin!",
+      "¡Entrega de artefactos para Nirobin!",
+      "Livraison d’artéfacts pour Nirobin\u00A0!",
+      "Доставка артефактов для Ниробина!",
+      "Artefaktzustellung für Nirobin!",
+      "Entrega de Artefato para Nirobin!",
+      "Consegna Manufatto per Nirobin!",
+      "니로빈에게 유물 배달!",
+      "尼羅賓的文物快遞！",
+      "尼罗宾的神器速递！"
+    ],
+    "Media": "inv_crate_05.jpg"
+  },
+  {
+    "TagId": 429294,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]",
+      "Nirobin Delivery Conversation [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -2887,6 +3559,27 @@
       "줄다자르로 통하는 차원문",
       "通往祖達薩的傳送門",
       "通往祖达萨的传送门"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429299,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]",
+      "Roska Delivery Conversation [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3584,6 +4277,48 @@
     "Media": "inv_eng_bombpoison.jpg"
   },
   {
+    "TagId": 429373,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Quick Strike",
+      "Golpe rápido",
+      "Golpe Rápido",
+      "Quick Strike",
+      "Golpe rápido",
+      "Frappe rapide",
+      "Быстрый удар",
+      "Rasanter Schlag",
+      "Golpe Rápido",
+      "Assalto Lampo",
+      "속전속결",
+      "快速打擊",
+      "迅击"
+    ],
+    "Media": "ability_rogue_versatility.jpg"
+  },
+  {
+    "TagId": 429374,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Quick Strike",
+      "Golpe rápido",
+      "Golpe Rápido",
+      "Quick Strike",
+      "Golpe rápido",
+      "Frappe rapide",
+      "Быстрый удар",
+      "Rasanter Schlag",
+      "Golpe Rápido",
+      "Assalto Lampo",
+      "속전속결",
+      "快速打擊",
+      "迅击"
+    ],
+    "Media": "ability_rogue_versatility.jpg"
+  },
+  {
     "TagId": 429375,
     "TagType": 26,
     "Names": [
@@ -3603,6 +4338,69 @@
       "阿梅达希尔之心"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429377,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slay",
+      "Matar",
+      "Matar",
+      "Slay",
+      "Matar",
+      "Tuer",
+      "Убийство",
+      "Töten",
+      "Matar",
+      "Assassinio",
+      "처단",
+      "屠殺",
+      "斩除"
+    ],
+    "Media": "ability_physical_taunt_purple.jpg"
+  },
+  {
+    "TagId": 429378,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slay",
+      "Matar",
+      "Matar",
+      "Slay",
+      "Matar",
+      "Tuer",
+      "Убийство",
+      "Töten",
+      "Matar",
+      "Assassinio",
+      "처단",
+      "屠殺",
+      "斩除"
+    ],
+    "Media": "ability_physical_taunt_purple.jpg"
+  },
+  {
+    "TagId": 429379,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slay",
+      "Matar",
+      "Matar",
+      "Slay",
+      "Matar",
+      "Tuer",
+      "Убийство",
+      "Töten",
+      "Matar",
+      "Assassinio",
+      "처단",
+      "屠殺",
+      "斩除"
+    ],
+    "Media": "ability_physical_taunt_purple.jpg"
   },
   {
     "TagId": 429383,
@@ -3647,6 +4445,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429389,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fervor",
+      "Fervor",
+      "Fervor",
+      "Fervor",
+      "Fervor",
+      "Ferveur",
+      "Рвение",
+      "Eifer",
+      "Fervor",
+      "Zelo",
+      "열정",
+      "熱情",
+      "狂热"
+    ],
+    "Media": "spell_holy_greaterblessingofkings.jpg"
+  },
+  {
+    "TagId": 429392,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch",
+      "[DNT] Hitch"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429395,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals",
+      "[DNT] Heart Visuals"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429397,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura",
+      "[DNT] Heart Visual Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429398,
     "TagType": 26,
     "Names": [
@@ -3666,6 +4569,132 @@
       "扭曲之刃"
     ],
     "Media": "inv_10_specialization_blacksmithing_blades_color1.jpg"
+  },
+  {
+    "TagId": 429401,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bot AI Follow Advert",
+      "Advertencia de seguida de IA de bot",
+      "Alertar Bot de IA para Seguir",
+      "Bot AI Follow Advert",
+      "Aviso de seguimiento de IA robot",
+      "Publicité de suivi de bot d’IA",
+      "Следование ИИ",
+      "Bot-KI-Folgenanzeige",
+      "Alertar Bot de IA para Seguir",
+      "Avviso Seguace Bot IA",
+      "봇 인공지능 따라가기 안내",
+      "機器人人工智慧跟隨移轉",
+      "机器人AI跟随通告"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429409,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fervor",
+      "Fervor",
+      "Fervor",
+      "Fervor",
+      "Fervor",
+      "Ferveur",
+      "Рвение",
+      "Eifer",
+      "Fervor",
+      "Zelo",
+      "열정",
+      "熱情",
+      "狂热"
+    ],
+    "Media": "spell_holy_greaterblessingofkings.jpg"
+  },
+  {
+    "TagId": 429410,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Victory Pyre",
+      "Pira de la victoria",
+      "Pira da Vitória",
+      "Victory Pyre",
+      "Pira de la victoria",
+      "Bûcher de victoire",
+      "Победный костер",
+      "Scheiterhaufen des Sieges",
+      "Pira da Vitória",
+      "Pira della Vittoria",
+      "승리의 기염",
+      "勝利火堆",
+      "凯旋祭火"
+    ],
+    "Media": "ability_racial_fireresist.jpg"
+  },
+  {
+    "TagId": 429412,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Victory Pyre",
+      "Pira de la victoria",
+      "Pira da Vitória",
+      "Victory Pyre",
+      "Pira de la victoria",
+      "Bûcher de victoire",
+      "Победный костер",
+      "Scheiterhaufen des Sieges",
+      "Pira da Vitória",
+      "Pira della Vittoria",
+      "승리의 기염",
+      "勝利火堆",
+      "凯旋祭火"
+    ],
+    "Media": "ability_racial_fireresist.jpg"
+  },
+  {
+    "TagId": 429421,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird",
+      "[DNT] I'm on a Bird"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429423,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teele",
+      "Teele",
+      "Tile",
+      "Teele",
+      "Teele",
+      "Tilet",
+      "Бирюз",
+      "Tiele",
+      "Tile",
+      "Teino",
+      "틸리",
+      "蒂利",
+      "提伊勒"
+    ],
+    "Media": "inv_mouserock_teal.jpg"
   },
   {
     "TagId": 429424,
@@ -3710,6 +4739,448 @@
     "Media": "hunter_pvp_trackersnet.jpg"
   },
   {
+    "TagId": 429431,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Advert",
+      "Anuncio",
+      "Advertência",
+      "Advert",
+      "Aviso",
+      "Publicité",
+      "Объявление",
+      "Anzeige",
+      "Advertência",
+      "Avviso",
+      "알림",
+      "注意",
+      "通告"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429439,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Excavation - Talking Head",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Large Site - Excavation - Talking Head",
+      "Excavación grande - Excavación - Busto parlante",
+      "Grand site – Fouilles – Tête parlante",
+      "Большой участок – раскопки – говорящая голова",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Sito Grande - Scavo - Testa Parlante",
+      "대형 지점 - 발굴 - 말머리",
+      "大挖掘地 - 挖掘 - 對話頭像",
+      "大型场地 - 发掘 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429440,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Technoscrying - Talking Head",
+      "Large Site - Technoscrying - Talking Head",
+      "Sítio Grande - Tecnomancia - Cabeça Falante",
+      "Large Site - Technoscrying - Talking Head",
+      "Excavación grande - Tecnoadivinación - Busto parlante",
+      "Grand site – Bidulodivination – Tête parlante",
+      "Большой участок – техногадание – говорящая голова",
+      "Large Site - Technoscrying - Talking Head",
+      "Sítio Grande - Tecnomancia - Cabeça Falante",
+      "Sito Grande - Tecnoveggenza - Testa Parlante",
+      "대형 지점 - 기술 탐지 - 말머리",
+      "大挖掘地 - 高科技占測 - 對話頭像",
+      "大型场地 - 科技占卜 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429441,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Excavation - Talking Head",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Large Site - Excavation - Talking Head",
+      "Excavación grande - Excavación - Busto parlante",
+      "Grand site – Fouilles – Tête parlante",
+      "Большой участок – раскопки – говорящая голова",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Sito Grande - Scavo - Testa Parlante",
+      "대형 지점 - 발굴 - 말머리",
+      "大挖掘地 - 挖掘 - 對話頭像",
+      "大型场地 - 发掘 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429442,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head"
+    ]
+  },
+  {
+    "TagId": 429443,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Researching - Talking Head",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Large Site - Researching - Talking Head",
+      "Excavación grande - Investigación - Busto parlante",
+      "Grand site – Recherches – Tête parlante",
+      "Большой участок – исследование – говорящая голова",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Sito Grande - Ricerca - Testa Parlante",
+      "대형 지점 - 연구 - 말머리",
+      "大挖掘地 - 研究 - 對話頭像",
+      "大型场地 - 研究 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429444,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head"
+    ]
+  },
+  {
+    "TagId": 429445,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Researching - Talking Head",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Large Site - Researching - Talking Head",
+      "Excavación grande - Investigación - Busto parlante",
+      "Grand site – Recherches – Tête parlante",
+      "Большой участок – исследование – говорящая голова",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Sito Grande - Ricerca - Testa Parlante",
+      "대형 지점 - 연구 - 말머리",
+      "大挖掘地 - 研究 - 對話頭像",
+      "大型场地 - 研究 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429446,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Researching - Talking Head",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Large Site - Researching - Talking Head",
+      "Excavación grande - Investigación - Busto parlante",
+      "Grand site – Recherches – Tête parlante",
+      "Большой участок – исследование – говорящая голова",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Sito Grande - Ricerca - Testa Parlante",
+      "대형 지점 - 연구 - 말머리",
+      "大挖掘地 - 研究 - 對話頭像",
+      "大型场地 - 研究 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429447,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Technoscrying - Talking Head",
+      "Large Site - Technoscrying - Talking Head",
+      "Sítio Grande - Tecnomancia - Cabeça Falante",
+      "Large Site - Technoscrying - Talking Head",
+      "Excavación grande - Tecnoadivinación - Busto parlante",
+      "Grand site – Bidulodivination – Tête parlante",
+      "Большой участок – техногадание – говорящая голова",
+      "Large Site - Technoscrying - Talking Head",
+      "Sítio Grande - Tecnomancia - Cabeça Falante",
+      "Sito Grande - Tecnoveggenza - Testa Parlante",
+      "대형 지점 - 기술 탐지 - 말머리",
+      "大挖掘地 - 高科技占測 - 對話頭像",
+      "大型场地 - 科技占卜 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429448,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Excavation - Talking Head",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Large Site - Excavation - Talking Head",
+      "Excavación grande - Excavación - Busto parlante",
+      "Grand site – Fouilles – Tête parlante",
+      "Большой участок – раскопки – говорящая голова",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Sito Grande - Scavo - Testa Parlante",
+      "대형 지점 - 발굴 - 말머리",
+      "大挖掘地 - 挖掘 - 對話頭像",
+      "大型场地 - 发掘 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429449,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Technoscrying - Talking Head",
+      "Large Site - Technoscrying - Talking Head",
+      "Sítio Grande - Tecnomancia - Cabeça Falante",
+      "Large Site - Technoscrying - Talking Head",
+      "Excavación grande - Tecnoadivinación - Busto parlante",
+      "Grand site – Bidulodivination – Tête parlante",
+      "Большой участок – техногадание – говорящая голова",
+      "Large Site - Technoscrying - Talking Head",
+      "Sítio Grande - Tecnomancia - Cabeça Falante",
+      "Sito Grande - Tecnoveggenza - Testa Parlante",
+      "대형 지점 - 기술 탐지 - 말머리",
+      "大挖掘地 - 高科技占測 - 對話頭像",
+      "大型场地 - 科技占卜 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429450,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Researching - Talking Head",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Large Site - Researching - Talking Head",
+      "Excavación grande - Investigación - Busto parlante",
+      "Grand site – Recherches – Tête parlante",
+      "Большой участок – исследование – говорящая голова",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Sito Grande - Ricerca - Testa Parlante",
+      "대형 지점 - 연구 - 말머리",
+      "大挖掘地 - 研究 - 對話頭像",
+      "大型场地 - 研究 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429451,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Researching - Talking Head",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Large Site - Researching - Talking Head",
+      "Excavación grande - Investigación - Busto parlante",
+      "Grand site – Recherches – Tête parlante",
+      "Большой участок – исследование – говорящая голова",
+      "Large Site - Researching - Talking Head",
+      "Sítio Grande - Pesquisa - Cabeça Falante",
+      "Sito Grande - Ricerca - Testa Parlante",
+      "대형 지점 - 연구 - 말머리",
+      "大挖掘地 - 研究 - 對話頭像",
+      "大型场地 - 研究 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429452,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Excavation - Talking Head",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Large Site - Excavation - Talking Head",
+      "Excavación grande - Excavación - Busto parlante",
+      "Grand site – Fouilles – Tête parlante",
+      "Большой участок – раскопки – говорящая голова",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Sito Grande - Scavo - Testa Parlante",
+      "대형 지점 - 발굴 - 말머리",
+      "大挖掘地 - 挖掘 - 對話頭像",
+      "大型场地 - 发掘 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429453,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Excavation - Talking Head",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Large Site - Excavation - Talking Head",
+      "Excavación grande - Excavación - Busto parlante",
+      "Grand site – Fouilles – Tête parlante",
+      "Большой участок – раскопки – говорящая голова",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Sito Grande - Scavo - Testa Parlante",
+      "대형 지점 - 발굴 - 말머리",
+      "大挖掘地 - 挖掘 - 對話頭像",
+      "大型场地 - 发掘 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429454,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head"
+    ]
+  },
+  {
+    "TagId": 429455,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head"
+    ]
+  },
+  {
+    "TagId": 429456,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head"
+    ]
+  },
+  {
+    "TagId": 429457,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head",
+      "Large Site - Generic - Talking Head"
+    ]
+  },
+  {
+    "TagId": 429458,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Excavation - Talking Head",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Large Site - Excavation - Talking Head",
+      "Excavación grande - Excavación - Busto parlante",
+      "Grand site – Fouilles – Tête parlante",
+      "Большой участок – раскопки – говорящая голова",
+      "Large Site - Excavation - Talking Head",
+      "Sítio Grande - Escavação - Cabeça Falante",
+      "Sito Grande - Scavo - Testa Parlante",
+      "대형 지점 - 발굴 - 말머리",
+      "大挖掘地 - 挖掘 - 對話頭像",
+      "大型场地 - 发掘 - 对话头像"
+    ]
+  },
+  {
+    "TagId": 429461,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Search for Knowledge!",
+      "¡La búsqueda del conocimiento!",
+      "A busca por conhecimento!",
+      "The Search for Knowledge!",
+      "¡La búsqueda de conocimientos!",
+      "La quête du savoir\u00A0!",
+      "В поисках знаний!",
+      "Suche nach Wissen!",
+      "A busca por conhecimento!",
+      "Alla Ricerca della Conoscenza!",
+      "지식을 찾는 여정!",
+      "尋求知識！",
+      "搜寻知识！"
+    ],
+    "Media": "spell_misc_emotionhappy.jpg"
+  },
+  {
     "TagId": 429464,
     "TagType": 26,
     "Names": [
@@ -3731,6 +5202,26 @@
     "Media": "inv_eng_bombpoison.jpg"
   },
   {
+    "TagId": 429465,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Large Site - Prep for Boss - Talking Head",
+      "Large Site - Prep for Boss - Talking Head",
+      "Sítio Grande - Prep para Chefe - Cabeça Falante",
+      "Large Site - Prep for Boss - Talking Head",
+      "Excavación grande - Preparación para el jefe - Busto parlante",
+      "Grand site – Préparation pour le boss – Tête parlante",
+      "Большой участок – подготовка к боссу – говорящая голова",
+      "Large Site - Prep for Boss - Talking Head",
+      "Sítio Grande - Prep para Chefe - Cabeça Falante",
+      "Sito Grande - Preparazione per il Boss - Testa Parlante",
+      "대형 지점 - 우두머리 준비 - 말머리",
+      "大挖掘地 - 準備首領戰 - 對話頭像",
+      "大型场地 - 首领预备 - 对话头像"
+    ]
+  },
+  {
     "TagId": 429469,
     "TagType": 26,
     "Names": [
@@ -3750,6 +5241,27 @@
       "邪能冲撞"
     ],
     "Media": "ability_demonhunter_felrush.jpg"
+  },
+  {
+    "TagId": 429470,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All",
+      "[DNT] Clear All"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 429471,
@@ -3794,6 +5306,69 @@
     "Media": "ability_demonhunter_felrush.jpg"
   },
   {
+    "TagId": 429482,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor",
+      "[DNT] Alliance Approach Harbor"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429485,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bloodlust",
+      "Ansia de sangre",
+      "Sede de Sangue",
+      "Bloodlust",
+      "Ansia de sangre",
+      "Furie sanguinaire",
+      "Жажда крови",
+      "Kampfrausch",
+      "Sede de Sangue",
+      "Brama di Sangue",
+      "피의 욕망",
+      "嗜血",
+      "嗜血"
+    ],
+    "Media": "spell_nature_bloodlust.jpg"
+  },
+  {
+    "TagId": 429486,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429491,
     "TagType": 26,
     "Names": [
@@ -3836,6 +5411,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429496,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Conversation",
+      "Iniciar conversación",
+      "Conversa do Fogo",
+      "Fire Conversation",
+      "Disparar conversación",
+      "Conversation enflammée",
+      "Разговор об огне",
+      "Feuergespräch",
+      "Conversa do Fogo",
+      "Conversazione sul Fuoco",
+      "화염 대화",
+      "發射對話",
+      "启动对话"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429505,
     "TagType": 26,
     "Names": [
@@ -3855,6 +5451,90 @@
       "邪能冲撞"
     ],
     "Media": "ability_demonhunter_felrush.jpg"
+  },
+  {
+    "TagId": 429510,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01",
+      "[DNT] Spellvis for Shovel 01"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429511,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Start Conversation",
+      "Iniciar conversación",
+      "Iniciar Diálogo",
+      "Start Conversation",
+      "Iniciar conversación",
+      "Démarrer une conversation",
+      "Начало разговора",
+      "Gespräch beginnen",
+      "Iniciar Diálogo",
+      "Inizio Conversazione",
+      "대화 시작",
+      "開始對話",
+      "开始对话"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429513,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02",
+      "[DNT] Spellvis for Blacksmith Hammer 02"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429515,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02",
+      "[DNT] Spellvis for Test Tube 02"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 429519,
@@ -3904,18 +5584,18 @@
     "Names": [
       null,
       "Convo",
-      "Conversación",
-      "Convo",
-      "Convo",
-      "Conversación",
-      "Conversation",
       "Convo",
       "Convo",
       "Convo",
-      "Conversazione",
-      "대화",
-      "對話",
-      "对话"
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3925,18 +5605,18 @@
     "Names": [
       null,
       "Convo",
-      "Conversación",
-      "Convo",
-      "Convo",
-      "Conversación",
-      "Conversation",
       "Convo",
       "Convo",
       "Convo",
-      "Conversazione",
-      "대화",
-      "對話",
-      "对话"
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3946,18 +5626,18 @@
     "Names": [
       null,
       "Convo",
-      "Conversación",
-      "Convo",
-      "Convo",
-      "Conversación",
-      "Conversation",
       "Convo",
       "Convo",
       "Convo",
-      "Conversazione",
-      "대화",
-      "對話",
-      "对话"
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3967,20 +5647,41 @@
     "Names": [
       null,
       "Convo",
-      "Conversación",
-      "Convo",
-      "Convo",
-      "Conversación",
-      "Conversation",
       "Convo",
       "Convo",
       "Convo",
-      "Conversazione",
-      "대화",
-      "對話",
-      "对话"
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo",
+      "Convo"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429556,
+    "TagType": 26,
+    "Names": [
+      null,
+      "On the Case!",
+      "¡Sobre la pista!",
+      "Trabalhando no Caso!",
+      "On the Case!",
+      "¡A investigar!",
+      "Enquête ouverte",
+      "За дело!",
+      "Geht dem Fall nach!",
+      "Trabalhando no Caso!",
+      "Sul Caso!",
+      "명탐정 출동!",
+      "調查中！",
+      "查处案件！"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
   },
   {
     "TagId": 429557,
@@ -4025,6 +5726,48 @@
     "Media": "ability_mage_fierypayback.jpg"
   },
   {
+    "TagId": 429565,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Firestorm",
+      "Tormenta de fuego",
+      "Tempestade de Fogo",
+      "Firestorm",
+      "Tormenta de Fuego",
+      "Tempête de feu",
+      "Огненная буря",
+      "Feuersturm",
+      "Tempestade de Fogo",
+      "Tempesta di Fuoco",
+      "화염폭풍",
+      "火焰風暴",
+      "火焰风暴"
+    ],
+    "Media": "inv_shoulder_leather_firelandsdruid_d_01.jpg"
+  },
+  {
+    "TagId": 429566,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Firestorm",
+      "Tormenta de fuego",
+      "Tempestade de Fogo",
+      "Firestorm",
+      "Tormenta de Fuego",
+      "Tempête de feu",
+      "Огненная буря",
+      "Feuersturm",
+      "Tempestade de Fogo",
+      "Tempesta di Fuoco",
+      "화염폭풍",
+      "火焰風暴",
+      "火焰风暴"
+    ],
+    "Media": "inv_shoulder_leather_firelandsdruid_d_01.jpg"
+  },
+  {
     "TagId": 429568,
     "TagType": 26,
     "Names": [
@@ -4046,25 +5789,109 @@
     "Media": "ability_mage_fierypayback.jpg"
   },
   {
+    "TagId": 429570,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Efflorescence",
+      "Floración",
+      "Eflorescência",
+      "Efflorescence",
+      "Floración",
+      "Efflorescence",
+      "Период цветения",
+      "Erblühen",
+      "Eflorescência",
+      "Efflorescenza",
+      "꽃피우기",
+      "生命綻放",
+      "百花齐放"
+    ],
+    "Media": "inv_misc_herb_talandrasrose.jpg"
+  },
+  {
+    "TagId": 429573,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Efflorescence",
+      "Floración",
+      "Eflorescência",
+      "Efflorescence",
+      "Floración",
+      "Efflorescence",
+      "Период цветения",
+      "Erblühen",
+      "Eflorescência",
+      "Efflorescenza",
+      "꽃피우기",
+      "生命綻放",
+      "百花齐放"
+    ],
+    "Media": "inv_misc_herb_talandrasrose.jpg"
+  },
+  {
+    "TagId": 429575,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Efflorescence",
+      "Floración",
+      "Eflorescência",
+      "Efflorescence",
+      "Floración",
+      "Efflorescence",
+      "Период цветения",
+      "Erblühen",
+      "Eflorescência",
+      "Efflorescenza",
+      "꽃피우기",
+      "生命綻放",
+      "百花齐放"
+    ],
+    "Media": "inv_misc_herb_talandrasrose.jpg"
+  },
+  {
     "TagId": 429577,
     "TagType": 26,
     "Names": [
       null,
       "10.7 - promo - WAR Machine - Foil Heal up",
-      null,
-      null,
       "10.7 - promo - WAR Machine - Foil Heal up",
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up",
+      "10.7 - promo - WAR Machine - Foil Heal up"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429580,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Searing Beak",
+      "Pico abrasador",
+      "Bico Calcinante",
+      "Searing Beak",
+      "Pico abrasador",
+      "Bec incendiaire",
+      "Раскаленный клюв",
+      "Sengender Schnabel",
+      "Bico Calcinante",
+      "Beccata Rovente",
+      "불타는 부리",
+      "灼熱之喙",
+      "炽热尖喙"
+    ],
+    "Media": "inv_pet_crane.jpg"
   },
   {
     "TagId": 429583,
@@ -4086,6 +5913,90 @@
       "Hat [dnt]"
     ],
     "Media": "inv_helm_misc_starpartyhat.jpg"
+  },
+  {
+    "TagId": 429585,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01",
+      "[DNT] Spellvis for Drakonid Spoon 01"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429587,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02",
+      "[DNT] Spellvis for Drakonid Brush 02"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429590,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02",
+      "[DNT] Spellvis for Garden Shovel 02"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429591,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01",
+      "[DNT] Spellvis for Blacksmith Tongs 01"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 429592,
@@ -4172,6 +6083,27 @@
     "Media": "ability_mount_ridinghorse.jpg"
   },
   {
+    "TagId": 429599,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Searing Beak",
+      "Pico abrasador",
+      "Bico Calcinante",
+      "Searing Beak",
+      "Pico abrasador",
+      "Bec incendiaire",
+      "Раскаленный клюв",
+      "Sengender Schnabel",
+      "Bico Calcinante",
+      "Beccata Rovente",
+      "불타는 부리",
+      "灼熱之喙",
+      "炽热尖喙"
+    ],
+    "Media": "inv_pet_crane.jpg"
+  },
+  {
     "TagId": 429600,
     "TagType": 26,
     "Names": [
@@ -4191,6 +6123,27 @@
       "鞭笞者藤蔓射线"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429604,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hope's Flame",
+      "Llama de la esperanza",
+      "Chamas da Esperança",
+      "Hope's Flame",
+      "Llama de esperanza",
+      "Flamme de l’espoir",
+      "Пламя надежды",
+      "Flamme der Hoffnung",
+      "Chamas da Esperança",
+      "Fiamma della Speranza",
+      "희망의 불길",
+      "希望之焰",
+      "希望之焰"
+    ],
+    "Media": "inv_icon_feather06a.jpg"
   },
   {
     "TagId": 429607,
@@ -4235,6 +6188,27 @@
     "Media": "trade_enchanting_largeetherealshard.jpg"
   },
   {
+    "TagId": 429612,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink",
+      "[DNT] Relaxed Sit with Drink"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429615,
     "TagType": 26,
     "Names": [
@@ -4254,6 +6228,48 @@
       "织机迫近"
     ],
     "Media": "inv_10_tailoring_craftingoptionalreagent_enhancedspellthread_color3.jpg"
+  },
+  {
+    "TagId": 429617,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fan the Flames",
+      "Avivar las llamas",
+      "Ventilar as Chamas",
+      "Fan the Flames",
+      "Avivar las llamas",
+      "Attiser les flammes",
+      "Раздувание пламени",
+      "Flammen schüren",
+      "Ventilar as Chamas",
+      "Alimentare le Fiamme",
+      "야생불에 부채질",
+      "搧風助燃",
+      "煽火"
+    ],
+    "Media": "spell_fire_burnout.jpg"
+  },
+  {
+    "TagId": 429619,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flame Shock",
+      "Choque de llamas",
+      "Choque Flamejante",
+      "Flame Shock",
+      "Choque de llamas",
+      "Horion de flammes",
+      "Огненный шок",
+      "Flammenschock",
+      "Choque Flamejante",
+      "Folgore del Fuoco",
+      "화염 충격",
+      "烈焰震擊",
+      "烈焰震击"
+    ],
+    "Media": "spell_fire_flameshock.jpg"
   },
   {
     "TagId": 429620,
@@ -4296,6 +6312,69 @@
       "[DNT] Attack"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429626,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lava Burst",
+      "Ráfaga de lava",
+      "Estouro de Lava",
+      "Lava Burst",
+      "Ráfaga de lava",
+      "Explosion de lave",
+      "Выброс лавы",
+      "Lavaeruption",
+      "Estouro de Lava",
+      "Getto di Lava",
+      "용암 폭발",
+      "熔岩爆發",
+      "熔岩爆裂"
+    ],
+    "Media": "spell_shaman_lavaburst.jpg"
+  },
+  {
+    "TagId": 429627,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lava Burst",
+      "Ráfaga de lava",
+      "Estouro de Lava",
+      "Lava Burst",
+      "Ráfaga de lava",
+      "Explosion de lave",
+      "Выброс лавы",
+      "Lavaeruption",
+      "Estouro de Lava",
+      "Getto di Lava",
+      "용암 폭발",
+      "熔岩爆發",
+      "熔岩爆裂"
+    ],
+    "Media": "spell_shaman_lavaburst.jpg"
+  },
+  {
+    "TagId": 429633,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hope's Flame",
+      "Llama de la esperanza",
+      "Chamas da Esperança",
+      "Hope's Flame",
+      "Llama de esperanza",
+      "Flamme de l’espoir",
+      "Пламя надежды",
+      "Flamme der Hoffnung",
+      "Chamas da Esperança",
+      "Fiamma della Speranza",
+      "희망의 불길",
+      "希望之焰",
+      "希望之焰"
+    ],
+    "Media": "inv_icon_feather06a.jpg"
   },
   {
     "TagId": 429648,
@@ -4361,6 +6440,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 429652,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chain Lightning",
+      "Cadena de relámpagos",
+      "Cadeia de Raios",
+      "Chain Lightning",
+      "Cadena de relámpagos",
+      "Chaîne d’éclairs",
+      "Цепная молния",
+      "Kettenblitzschlag",
+      "Cadeia de Raios",
+      "Catena di Fulmini",
+      "연쇄 번개",
+      "閃電鏈",
+      "闪电链"
+    ],
+    "Media": "spell_nature_chainlightning.jpg"
+  },
+  {
+    "TagId": 429654,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chain Lightning Overload",
+      "Sobrecarga de Cadena de relámpagos",
+      "Cadeia de Raios Sobrecarregada",
+      "Chain Lightning Overload",
+      "Sobrecarga de Cadena de relámpagos",
+      "Surcharge de Chaîne d’éclairs",
+      "Перегрузка цепной молнии",
+      "Kettenblitzüberladung",
+      "Cadeia de Raios Sobrecarregada",
+      "Sovraccarico Catena di Fulmini",
+      "연쇄 번개 과부하",
+      "閃電鏈超載",
+      "闪电链过载"
+    ],
+    "Media": "spell_nature_chainlightning.jpg"
+  },
+  {
     "TagId": 429655,
     "TagType": 26,
     "Names": [
@@ -4380,6 +6501,48 @@
       "抽丝断命"
     ],
     "Media": "inv_10_tailoring_embroiderythread_color3.jpg"
+  },
+  {
+    "TagId": 429659,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Shock",
+      "Choque de escarcha",
+      "Choque Gélido",
+      "Frost Shock",
+      "Choque de Escarcha",
+      "Horion de givre",
+      "Ледяной шок",
+      "Frostschock",
+      "Choque Gélido",
+      "Folgore del Gelo",
+      "냉기 충격",
+      "冰霜震擊",
+      "冰霜震击"
+    ],
+    "Media": "spell_frost_frostshock.jpg"
+  },
+  {
+    "TagId": 429663,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lightning Bolt",
+      "Descarga de relámpagos",
+      "Raio",
+      "Lightning Bolt",
+      "Descarga de relámpagos",
+      "Éclair",
+      "Молния",
+      "Blitzschlag",
+      "Raio",
+      "Dardo Fulminante",
+      "번개 화살",
+      "閃電箭",
+      "闪电箭"
+    ],
+    "Media": "spell_nature_lightning.jpg"
   },
   {
     "TagId": 429669,
@@ -4443,6 +6606,27 @@
       "怒放"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429674,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Elemental Blast",
+      "Explosión elemental",
+      "Impacto Elemental",
+      "Elemental Blast",
+      "Explosión elemental",
+      "Explosion élémentaire",
+      "Удар духов стихий",
+      "Elementarschlag",
+      "Impacto Elemental",
+      "Detonazione Elementale",
+      "정기 작렬",
+      "元素衝擊",
+      "元素冲击"
+    ],
+    "Media": "shaman_talent_elementalblast.jpg"
   },
   {
     "TagId": 429680,
@@ -4592,6 +6776,48 @@
     "Media": "10_2_raidability_burningroots.jpg"
   },
   {
+    "TagId": 429689,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard",
+      "[DNT] Near a City Guard"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429697,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Elemental Blast Overload",
+      "Sobrecarga de Explosión elemental",
+      "Sobrecarga de Impacto Elemental",
+      "Elemental Blast Overload",
+      "Sobrecarga de Explosión elemental",
+      "Explosion élémentaire surchargée",
+      "Перегрузка удара духов стихий",
+      "Elementarschlagüberladung",
+      "Sobrecarga de Impacto Elemental",
+      "Sovraccarico Detonazione Elementale",
+      "정기 작렬 과부하",
+      "元素衝擊超載",
+      "元素冲击过载"
+    ],
+    "Media": "shaman_talent_elementalblast.jpg"
+  },
+  {
     "TagId": 429700,
     "TagType": 26,
     "Names": [
@@ -4674,6 +6900,27 @@
       "梦境的祝福"
     ],
     "Media": "spell_lifegivingspeed.jpg"
+  },
+  {
+    "TagId": 429711,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lightning Bolt Overload",
+      "Sobrecarga de Descarga de relámpagos",
+      "Raio Sobrecarregado",
+      "Lightning Bolt Overload",
+      "Sobrecarga de Descarga de relámpagos",
+      "Surcharge d’Éclair",
+      "Перегрузка молнии",
+      "Blitzschlagüberladung",
+      "Raio Sobrecarregado",
+      "Sovraccarico Dardo Fulminante",
+      "번개 화살 과부하",
+      "閃電箭超載",
+      "闪电箭过载"
+    ],
+    "Media": "spell_nature_lightning.jpg"
   },
   {
     "TagId": 429712,
@@ -4991,6 +7238,27 @@
     "Media": "hunter_pvp_trackersnet.jpg"
   },
   {
+    "TagId": 429772,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Advert",
+      "Anuncio",
+      "Advertência",
+      "Advert",
+      "Aviso",
+      "Publicité",
+      "Объявление",
+      "Anzeige",
+      "Advertência",
+      "Avviso",
+      "알림",
+      "注意",
+      "通告"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429777,
     "TagType": 26,
     "Names": [
@@ -5159,6 +7427,48 @@
     "Media": "inv_10_tailoring_craftingoptionalreagent_enhancedspellthread_color3.jpg"
   },
   {
+    "TagId": 429786,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE",
+      "[DNT] Summon ODIE"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
+    "TagId": 429789,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura",
+      "[DNT] Trade District Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 429790,
     "TagType": 26,
     "Names": [
@@ -5241,6 +7551,48 @@
       "胜利"
     ],
     "Media": "inv_summerfest_firespirit.jpg"
+  },
+  {
+    "TagId": 429795,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Start Conversation",
+      "Iniciar conversación",
+      "Iniciar Diálogo",
+      "Start Conversation",
+      "Iniciar conversación",
+      "Démarrer une conversation",
+      "Начало разговора",
+      "Gespräch beginnen",
+      "Iniciar Diálogo",
+      "Inizio Conversazione",
+      "대화 시작",
+      "開始對話",
+      "开始对话"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429796,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Advert",
+      "Anuncio",
+      "Advertência",
+      "Advert",
+      "Aviso",
+      "Publicité",
+      "Объявление",
+      "Anzeige",
+      "Advertência",
+      "Avviso",
+      "알림",
+      "注意",
+      "通告"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 429797,
@@ -5430,6 +7782,69 @@
       "胜利"
     ],
     "Media": "inv_summerfest_firespirit.jpg"
+  },
+  {
+    "TagId": 429812,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Counterspell",
+      "Contrahechizo",
+      "Contrafeitiço",
+      "Counterspell",
+      "Contrahechizo",
+      "Contresort",
+      "Антимагия",
+      "Gegenzauber",
+      "Contrafeitiço",
+      "Controincantesimo",
+      "마법 차단",
+      "法術反制",
+      "法术反制"
+    ],
+    "Media": "spell_frost_iceshock.jpg"
+  },
+  {
+    "TagId": 429813,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Start Conversation",
+      "Iniciar conversación",
+      "Iniciar Diálogo",
+      "Start Conversation",
+      "Iniciar conversación",
+      "Démarrer une conversation",
+      "Начало разговора",
+      "Gespräch beginnen",
+      "Iniciar Diálogo",
+      "Inizio Conversazione",
+      "대화 시작",
+      "開始對話",
+      "开始对话"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429815,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode",
+      "[DNT] 10.2.5 AA Technoscrying - WQ - Cancel Scrying Mode"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 429817,
@@ -5998,6 +8413,48 @@
     "Media": "inv_10_worlddroplevelingoptionalreagent_misc_orb_ice.jpg"
   },
   {
+    "TagId": 429878,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shake It Off",
+      "Libérate",
+      "Desvencilhamento",
+      "Shake It Off",
+      "Quítatelo de encima",
+      "Fuite",
+      "Стряхивание",
+      "Runter damit",
+      "Desvencilhamento",
+      "Scrollamento",
+      "떨쳐내기",
+      "甩開束縛",
+      "挣脱"
+    ],
+    "Media": "spell_mage_presenceofmind.jpg"
+  },
+  {
+    "TagId": 429887,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Initiating Research",
+      "Iniciando investigación",
+      "Início da Pesquisa",
+      "Initiating Research",
+      "Iniciando investigación",
+      "Lancement des recherches",
+      "Начало исследования",
+      "Forschung beginnen",
+      "Início da Pesquisa",
+      "Inizializzazione Ricerca",
+      "연구 시작",
+      "開始研究",
+      "启动研究"
+    ],
+    "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
     "TagId": 429891,
     "TagType": 26,
     "Names": [
@@ -6101,6 +8558,69 @@
       "蜕落之羽"
     ],
     "Media": "inv_icon_feather10a.jpg"
+  },
+  {
+    "TagId": 429913,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal: Orgrimmar",
+      "Portal: Orgrimmar",
+      "Portal: Orgrimmar",
+      "Portal: Orgrimmar",
+      "Portal: Orgrimmar",
+      "Portail\u00A0: Orgrimmar",
+      "Портал в Оргриммар",
+      "Portal: Orgrimmar",
+      "Portal: Orgrimmar",
+      "Portale: Orgrimmar",
+      "차원문: 오그리마",
+      "傳送門：奧格瑪",
+      "传送门：奥格瑞玛"
+    ],
+    "Media": "spell_arcane_teleportorgrimmar.jpg"
+  },
+  {
+    "TagId": 429915,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 429923,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]",
+      "Fire Conversation [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 429929,
@@ -6266,7 +8786,7 @@
       "Gabbia dell'Ombra",
       "어둠의 우리",
       "暗影牢籠",
-      "熔火喷涌"
+      "暗影牢笼"
     ],
     "Media": "inv_shadowflame_buff.jpg"
   },

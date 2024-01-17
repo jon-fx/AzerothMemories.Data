@@ -10068,7 +10068,7 @@
       "%s, el Durmiente",
       "%s, o Onírico",
       "%s the Dreaming",
-      "%s el Soñador",
+      "%s El Ensueño",
       "%s le songe",
       "%s Сновидец",
       "%s, der Träumende",
@@ -10234,7 +10234,7 @@
       "Tiefgrüne Legende %s",
       "Lenda Verdejante %s",
       "%s, Leggenda Verdeggiante",
-      "신록의 전설 %s",
+      "녹빛 전설 %s",
       "蒼翠傳奇%s",
       "苍郁传说 %s"
     ]
@@ -10254,7 +10254,7 @@
       "Tiefgrüner Gladiator %s",
       "Gladiador Verdejante %s",
       "Gladiatore Verdeggiante %s",
-      "늘푸른 검투사 %s",
+      "녹빛 검투사 %s",
       "蒼翠鬥士%s",
       "苍郁角斗士 %s"
     ]
@@ -10290,7 +10290,7 @@
       "%s, Famed Slayer of Fyrakk",
       "%s, Afamado Asesino de Fyrakk",
       "%s, célèbre tueur de Fyrakka",
-      "%s, прославленный победитель Азшары",
+      "%s, прославленный победитель Фиракка",
       "%s, ruhmreicher Schlächter von Fyrakk",
       "%s, Renomado Matador de Fyrakk",
       "%s, Giustiziere di Fyrakk",
@@ -10348,7 +10348,7 @@
       "%s, el Héroe durmiente",
       "%s, o Herói Onírico",
       "%s the Dreaming Hero",
-      "%s el Héroe Soñador",
+      "%s el Héroe Ensoñador",
       "%s le songe héroïque",
       "Покоритель снов %s",
       "%s, der träumende Held",
@@ -10377,6 +10377,26 @@
       "꿈 수호병 %s",
       "『夢境防衛者』%s",
       "%s, 梦境守护者"
+    ]
+  },
+  {
+    "TagId": 805,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Isles Archivist",
+      "%s, Archivista de las Islas",
+      "%s, Arquivista das Ilhas",
+      "%s, Isles Archivist",
+      "%s, Archivista de las Islas",
+      "%s, archiviste des îles",
+      "%s, архивариус островов",
+      "%s, Archivar der Inseln",
+      "%s, Arquivista das Ilhas",
+      "%s, Archivista delle Isole",
+      "섬 기록관 %s",
+      "群島文物管理員 %s",
+      "%s，群岛档案员"
     ]
   }
 ]

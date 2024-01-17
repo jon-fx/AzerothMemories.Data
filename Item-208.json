@@ -383,7 +383,7 @@
     "Names": [
       null,
       "Knot Thimblejack's Cache",
-      "Alijo de Knot Thimblejack",
+      "Alijo de Knot Llavededo",
       "Tesouro do Fiapo Agulhacerta",
       "Knot Thimblejack's Cache",
       "Alijo de Knot Llavededo",
@@ -404,7 +404,7 @@
     "Names": [
       null,
       "Scareloc Parts",
-      "Piezas de miédoc",
+      "Piezas de espantamúrlocs",
       "Peças de Medoloc",
       "Scareloc Parts",
       "Piezas de asustamúrloc",
@@ -1279,6 +1279,27 @@
       null
     ],
     "Media": "inv_shield_1h_silverhand_b_02.jpg"
+  },
+  {
+    "TagId": 208084,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Technoscryers",
+      "Tecnoráculos",
+      "Tecnoleitores",
+      "Technoscryers",
+      "Tecnoadivinadores",
+      "Divinobidules",
+      "Техногадатель",
+      "Technoseher",
+      "Tecnoleitores",
+      "Tecnovisori",
+      "기술탐지기",
+      "高科技占測鏡",
+      "科技占卜器"
+    ],
+    "Media": "inv_gizmo_newgoggles.jpg"
   },
   {
     "TagId": 208087,
@@ -3318,6 +3339,48 @@
     "Media": "inv_glyph_majorpriest.jpg"
   },
   {
+    "TagId": 208201,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paper Scraps",
+      "Restos de pergamino",
+      "Pedaços de Papel",
+      "Paper Scraps",
+      "Trozos de papel",
+      "Morceaux de papier",
+      "Обрывки бумаги",
+      "Papierfetzen",
+      "Pedaços de Papel",
+      "Brandelli di Carta",
+      "종잇조각",
+      "碎紙片",
+      "碎纸"
+    ],
+    "Media": "inv_inscription_parchment.jpg"
+  },
+  {
+    "TagId": 208202,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Neltharion Agent Instructions",
+      "Instrucciones de agente de Neltharion",
+      "Instruções para Agente de Neltharion",
+      "Neltharion Agent Instructions",
+      "Instrucciones del agente de Neltharion",
+      "Instructions d’agent de Neltharion",
+      "Инструкции агентов Нелтариона",
+      "Anweisungen für Neltharionagenten",
+      "Instruções para Agente de Neltharion",
+      "Istruzioni dell'Agente di Neltharion",
+      "넬타리온 요원 지시 사항",
+      "奈薩里奧使者指令",
+      "奈萨里奥特工指令"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_70_professions_scroll_02_uprez_color5.jpg"
+  },
+  {
     "TagId": 208203,
     "TagType": 21,
     "Names": [
@@ -3589,6 +3652,27 @@
       "神秘的信"
     ],
     "Media": "inv_letter_18.jpg"
+  },
+  {
+    "TagId": 208228,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_archaeology_orcclans_doomsdaytablet.jpg"
   },
   {
     "TagId": 208229,
@@ -5728,7 +5812,7 @@
       "Corna dell'Inviato",
       "사절의 뿔",
       "信使之角",
-      "特使犄角"
+      "使节犄角"
     ],
     "Media": "inv_mail_outdooremeralddream_d_01_helm.jpg"
   },
@@ -6484,7 +6568,7 @@
       "Ira di Talthornei",
       "탈소르네이의 분노",
       "塔索尼之怒",
-      "塔尔索内之怒"
+      "塔索涅之怒"
     ],
     "Media": "inv_staff_2h_emeralddreamoutdoor_d_01.jpg"
   },
@@ -7703,7 +7787,8 @@
       "프린",
       "小芬",
       "菲尔恩"
-    ]
+    ],
+    "Media": "5003505.jpg"
   },
   {
     "TagId": 208447,
@@ -7732,7 +7817,7 @@
     "Names": [
       null,
       "Infinitea",
-      "Infinitea",
+      "Infinité",
       "Infinichá",
       "Infinitea",
       "Infinité",
@@ -7767,6 +7852,216 @@
       "梅里的节拍检测器+++"
     ],
     "Media": "inv_misc_pocketwatch_01.jpg"
+  },
+  {
+    "TagId": 208450,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Coiled Archivist's Rope",
+      "Soga de archivista enrollada",
+      "Corda Enrolada do Arquivista",
+      "Coiled Archivist's Rope",
+      "Cuerda de archivista enrollada",
+      "Corde enroulée d’archiviste",
+      "Смотанная веревка архивариуса",
+      "Seilrolle des Archivars",
+      "Corda Enrolada do Arquivista",
+      "Corda Arrotolata dell'Archivista",
+      "돌돌 말린 기록관의 밧줄",
+      "捲起來的文物管理員繩索",
+      "卷曲的探险者之绳"
+    ],
+    "Media": "inv_misc_rope_02.jpg"
+  },
+  {
+    "TagId": 208451,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Buckled Cap",
+      "Sombrero con hebilla de archivista",
+      "Capelo com Fivela de Arquivista",
+      "Archivist's Buckled Cap",
+      "Gorro con hebilla de archivista",
+      "Chapeau à boucle d’archiviste",
+      "Шапка архивариуса с пряжкой",
+      "Schnallenkappe des Archivars",
+      "Capelo com Fivela de Arquivista",
+      "Cappello con Fibbia dell'Archivista",
+      "기록관의 죔쇠 모자",
+      "文物管理員扣帽",
+      "档案员的扣带帽"
+    ],
+    "Media": "inv_helm_armor_buckledhat_b_01_darkbrown.jpg"
+  },
+  {
+    "TagId": 208452,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Historian's Dapper Cap",
+      "Gorro elegante de historiador",
+      "Capelo Elegante do Historiador",
+      "Historian's Dapper Cap",
+      "Sombrero elegante de historiador",
+      "Coiffe élégante d’historienne",
+      "Стильная шляпа историка",
+      "Elegante Kappe des Historikers",
+      "Capelo Elegante do Historiador",
+      "Cappello Elegante dello Storico",
+      "역사가의 말쑥한 모자",
+      "歷史學家時髦帽",
+      "历史学家的整洁之帽"
+    ],
+    "Media": "inv_helm_armor_buckledhat_b_01_red.jpg"
+  },
+  {
+    "TagId": 208453,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Super Scooper",
+      "Supersocavador de archivista",
+      "Superextrator do Arquivista",
+      "Archivist's Super Scooper",
+      "Superpala de archivista",
+      "Super pelle d’archiviste",
+      "Чудо-лопата архивариуса",
+      "Superschaufler des Archivars",
+      "Superextrator do Arquivista",
+      "Super Mestolo dell'Archivista",
+      "기록관의 초강력 삽",
+      "文物管理員超強鏟子",
+      "档案员的超级挖掘铲"
+    ],
+    "Media": "inv_mace_1h_miningshovel_a_01.jpg"
+  },
+  {
+    "TagId": 208454,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Mining Pick",
+      "Pico de minería de archivista",
+      "Picareta de Mineração do Arquivista",
+      "Archivist's Mining Pick",
+      "Pico de minería de archivista",
+      "Pioche de minage d’archiviste",
+      "Кирка архивариуса",
+      "Spitzhacke des Archivars",
+      "Picareta de Mineração do Arquivista",
+      "Piccone da Minatore dell'Archivista",
+      "기록관의 채광용 곡괭이",
+      "文物管理員採礦鎬",
+      "档案员的采矿锄"
+    ],
+    "Media": "inv_axe_1h_6miningpick.jpg"
+  },
+  {
+    "TagId": 208455,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Sturdy Hook",
+      "Gancho robusto de archivista",
+      "Gancho Resistente do Arquivista",
+      "Archivist's Sturdy Hook",
+      "Gancho robusto de archivista",
+      "Crochet robuste d’archiviste",
+      "Крепкий крюк архивариуса",
+      "Robuster Haken des Archivars",
+      "Gancho Resistente do Arquivista",
+      "Gancio Resistente dell'Archivista",
+      "기록관의 튼튼한 갈고리",
+      "文物管理員強韌鉤",
+      "档案员的坚固挂钩"
+    ],
+    "Media": "inv_mace_1h_kultirasquest_b_01.jpg"
+  },
+  {
+    "TagId": 208456,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Elegant Bag",
+      "Bolsa elegante de archivista",
+      "Bolsa Elegante do Arquivista",
+      "Archivist's Elegant Bag",
+      "Bolsa elegante de archivista",
+      "Sac élégant d’archiviste",
+      "Изящная сумка архивариуса",
+      "Elegante Tasche des Archivars",
+      "Bolsa Elegante do Arquivista",
+      "Borsa Elegante dell'Archivista",
+      "기록관의 우아한 가방",
+      "文物管理員優雅背包",
+      "档案员的优雅背包"
+    ],
+    "Media": "inv_tailoring_70_silkweavebag.jpg"
+  },
+  {
+    "TagId": 208457,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Spelunking Torch",
+      "Antorcha de espeleología de archivista",
+      "Tocha de Espeleologia do Arquivista",
+      "Archivist's Spelunking Torch",
+      "Antorcha de espeleología de archivista",
+      "Torche de spéléologie d’archiviste",
+      "Спелеологический факел архивариуса",
+      "Höhlenfackel des Archivars",
+      "Tocha de Espeleologia do Arquivista",
+      "Torcia da Speleologia dell'Archivista",
+      "기록관의 동굴 탐험 횃불",
+      "文物管理員洞穴探險火把",
+      "档案员的探洞火炬"
+    ],
+    "Media": "inv_enchanting_70_pet_torch.jpg"
+  },
+  {
+    "TagId": 208458,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Extravagant Lantern",
+      "Farol extravagante de archivista",
+      "Lanterna Extravagante do Arquivista",
+      "Archivist's Extravagant Lantern",
+      "Farol extravagante de archivista",
+      "Lanterne extravagante d’archiviste",
+      "Вычурный фонарь архивариуса",
+      "Extravagante Laterne des Archivars",
+      "Lanterna Extravagante do Arquivista",
+      "Lanterna Stravagante dell'Archivista",
+      "기록관의 호화로운 등불",
+      "文物管理員奢華提燈",
+      "档案员的奢靡灯笼"
+    ],
+    "Media": "inv_offhand_outlandraid_03orange.jpg"
+  },
+  {
+    "TagId": 208459,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Improvised Cudgel",
+      "Cayada improvisada de archivista",
+      "Clava Improvisada do Arquivista",
+      "Archivist's Improvised Cudgel",
+      "Cayada improvisada de archivista",
+      "Casse-tête improvisé d’archiviste",
+      "Импровизированная дубинка архивариуса",
+      "Improvisierter Knüppel des Archivars",
+      "Clava Improvisada do Arquivista",
+      "Mazza Ferrata Improvvisata dell'Archivista",
+      "기록관의 급조 몽둥이",
+      "文物管理員臨時鬥棍",
+      "档案员的临时棍棒"
+    ],
+    "Media": "trade_archaeology_draenei candelabra.jpg"
   },
   {
     "TagId": 208460,
@@ -7977,6 +8272,90 @@
       "摊位纪念品"
     ],
     "Media": "inv_10_jewelcrafting3_rainbowgemstone_color1.jpg"
+  },
+  {
+    "TagId": 208470,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Greenstone Breastplate",
+      "Coraza de Verdemar",
+      "Peitoral da Rocha Verde",
+      "Greenstone Breastplate",
+      "Coraza de Verdemar",
+      "Cuirasse de Pierre-Verte",
+      "Кираса Зеленой Скалы",
+      "Grünsteinbrustplatte",
+      "Peitoral da Rocha Verde",
+      "Pettorale Corazzato di Pietraverde",
+      "녹옥 가슴보호갑",
+      "綠石胸甲",
+      "绿石胸甲"
+    ],
+    "Media": "inv_chest_plate_panda_b_01blue.jpg"
+  },
+  {
+    "TagId": 208471,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sentinel's Chestpiece",
+      "Pechera de centinela",
+      "Peito d'Armas da Sentinela",
+      "Sentinel's Chestpiece",
+      "Pechera de centinela",
+      "Plastron de sentinelle",
+      "Нагрудник часового",
+      "Brustharnisch der Schildwache",
+      "Peito d'Armas da Sentinela",
+      "Corazza della Sentinella",
+      "파수꾼의 가슴보호구",
+      "哨兵護軀",
+      "戒卫胸甲"
+    ],
+    "Media": "inv_chest_plate_panda_b_01.jpg"
+  },
+  {
+    "TagId": 208472,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Greenstone Gauntlets",
+      "Guanteletes de Verdemar",
+      "Manoplas da Rocha Verde",
+      "Greenstone Gauntlets",
+      "Guanteletes de Verdemar",
+      "Gantelets de Pierre-Verte",
+      "Рукавицы Зеленой Скалы",
+      "Grünsteinstulpen",
+      "Manoplas da Rocha Verde",
+      "Guanti Lunghi di Pietraverde",
+      "녹옥 건틀릿",
+      "綠石護手",
+      "绿石手甲"
+    ],
+    "Media": "inv_glove_plate_panda_b_01blue.jpg"
+  },
+  {
+    "TagId": 208473,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Greenstone Boots",
+      "Botas de Verdemar",
+      "Botas da Rocha Verde",
+      "Greenstone Boots",
+      "Botas de Verdemar",
+      "Bottes de Pierre-Verte",
+      "Сапоги Зеленой Скалы",
+      "Grünsteinstiefel",
+      "Botas da Rocha Verde",
+      "Stivali di Pietraverde",
+      "녹옥 장화",
+      "綠石長靴",
+      "绿石之靴"
+    ],
+    "Media": "inv_boot_plate_panda_b_01blue.jpg"
   },
   {
     "TagId": 208474,
@@ -8210,6 +8589,27 @@
     "Media": "inv_misc_notefolded1a.jpg"
   },
   {
+    "TagId": 208487,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stalwart Band",
+      "Sortija inquebrantable",
+      "Elo Impávido",
+      "Stalwart Band",
+      "Sortija incondicional",
+      "Bague inébranlable",
+      "Стойкое кольцо",
+      "Tapferes Band",
+      "Elo Impávido",
+      "Anello Animoso",
+      "굳건한 고리",
+      "堅實指環",
+      "坚韧指环"
+    ],
+    "Media": "inv_jewelcrafting_90_maxlvlring_red.jpg"
+  },
+  {
     "TagId": 208488,
     "TagType": 21,
     "Names": [
@@ -8229,6 +8629,27 @@
       "被遗忘者勇士的背脊之墓"
     ],
     "Media": "inv_cape_armor_forsaken_d_01.jpg"
+  },
+  {
+    "TagId": 208489,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ankh of Reincarnation",
+      "Ankh de reencarnación",
+      "Ankh da Reencarnação",
+      "Ankh of Reincarnation",
+      "Ankh de la reencarnación",
+      "Ankh de réincarnation",
+      "Крест реинкарнации",
+      "Ankh der Reinkarnation",
+      "Ankh da Reencarnação",
+      "Ankh della Reincarnazione",
+      "윤회의 십자가",
+      "復生護符",
+      "重生十字章"
+    ],
+    "Media": "inv_jewelry_talisman_06.jpg"
   },
   {
     "TagId": 208490,
@@ -8252,6 +8673,90 @@
     "Media": "achievement_dungeon_dawnoftheinfinite.jpg"
   },
   {
+    "TagId": 208491,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Theurgist's Seal",
+      "Sello de teúrgo",
+      "Selo de Teurgo",
+      "Theurgist's Seal",
+      "Sello de teúrgo",
+      "Sceau de théurge",
+      "Печатка чудотворца",
+      "Theurgensiegel",
+      "Selo de Teurgo",
+      "Anello con Sigillo del Teurgo",
+      "사술사의 인장",
+      "巫者徽印",
+      "施咒者的印戒"
+    ],
+    "Media": "inv_ring_80_01d.jpg"
+  },
+  {
+    "TagId": 208492,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Thunderpaw Gloves",
+      "Guantes de zarpa atronadora",
+      "Luvas dos Pata do Trovão",
+      "Thunderpaw Gloves",
+      "Guantes de Zarpa Atronadora",
+      "Gants de Patte-du-Tonnerre",
+      "Перчатки Громовой Лапы",
+      "Donnerpfotenhandschuhe",
+      "Luvas dos Pata do Trovão",
+      "Guanti degli Zampa Tonante",
+      "천둥발 장갑",
+      "雷爪手套",
+      "雷爪手套"
+    ],
+    "Media": "inv_gauntlets_leather_panda_b_01light.jpg"
+  },
+  {
+    "TagId": 208493,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spirit-Waker Gloves",
+      "Guantes de aunaespíritus",
+      "Luvas do Agitador de Espíritos",
+      "Spirit-Waker Gloves",
+      "Guantes de invocador espiritual",
+      "Gants d’éveilleuse d’esprits",
+      "Перчатки пробудителя духов",
+      "Handschuhe des Geistererweckers",
+      "Luvas do Agitador de Espíritos",
+      "Guanti del Destaspiriti",
+      "영혼을 깨우는 자의 장갑",
+      "喚魂者手套",
+      "唤魂者手套"
+    ],
+    "Media": "inv_gloves_cloth_panda_b_01.jpg"
+  },
+  {
+    "TagId": 208494,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spirit-Waker Robe",
+      "Toga de aunaespíritus",
+      "Veste do Agitador de Espíritos",
+      "Spirit-Waker Robe",
+      "Toga de invocador espiritual",
+      "Robe d’éveilleuse d’esprits",
+      "Одеяние пробудителя духов",
+      "Robe des Geistererweckers",
+      "Veste do Agitador de Espíritos",
+      "Tonaca del Destaspiriti",
+      "영혼을 깨우는 자의 로브",
+      "喚魂者長袍",
+      "唤魂者长袍"
+    ],
+    "Media": "inv_chest_cloth_panda_b_01.jpg"
+  },
+  {
     "TagId": 208495,
     "TagType": 21,
     "Names": [
@@ -8271,6 +8776,27 @@
       "被遗忘者勇士的风帽"
     ],
     "Media": "inv_helm_armor_forsaken_d_01.jpg"
+  },
+  {
+    "TagId": 208496,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Thunderpaw Tunic",
+      "Túnica de zarpa atronadora",
+      "Túnica dos Pata do Trovão",
+      "Thunderpaw Tunic",
+      "Guerrera de Zarpa Atronadora",
+      "Tunique de Patte-du-Tonnerre",
+      "Мундир Громовой Лапы",
+      "Donnerpfotentunika",
+      "Túnica dos Pata do Trovão",
+      "Giubba degli Zampa Tonante",
+      "천둥발 튜닉",
+      "雷爪外套",
+      "雷爪外衣"
+    ],
+    "Media": "inv_chest_leather_panda_b_01light.jpg"
   },
   {
     "TagId": 208497,
@@ -9113,6 +9639,48 @@
     "Media": "inv_elemental_mote_fire01.jpg"
   },
   {
+    "TagId": 208546,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Rose-Tinted Glasses",
+      "Gafas rosadas de archivista",
+      "Óculos Manchados de Rosa do Arquivista",
+      "Archivist's Rose-Tinted Glasses",
+      "Gafas con lentes rosas de archivista",
+      "Lunettes à verres roses d’archiviste",
+      "Розовые очки архивариуса",
+      "Rosarote Brille des Archivars",
+      "Óculos Manchados de Rosa do Arquivista",
+      "Occhiali Rosa dell'Archivista",
+      "기록관의 장밋빛 색안경",
+      "文物管理員玫瑰色眼鏡",
+      "档案员的玫瑰色眼镜"
+    ],
+    "Media": "inv_helm_glasses_b_01_gold_pink.jpg"
+  },
+  {
+    "TagId": 208547,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Archivist's Reading Spectacles",
+      "Gafas de lectura de archivista",
+      "Óculos de Leitura do Arquivista",
+      "Archivist's Reading Spectacles",
+      "Anteojos de lectura de archivista",
+      "Lunettes de lecture d’archiviste",
+      "Очки архивариуса для чтения",
+      "Lesebrille des Archivars",
+      "Óculos de Leitura do Arquivista",
+      "Occhiali da Lettura dell'Archivista",
+      "기록관의 독서용 안경",
+      "文物管理員閱讀眼鏡",
+      "档案员的老花镜"
+    ],
+    "Media": "inv_helm_glasses_b_03_silver_teal.jpg"
+  },
+  {
     "TagId": 208548,
     "TagType": 21,
     "Names": [
@@ -9216,6 +9784,90 @@
       null
     ],
     "Media": "inv_polearm_2h_firelandsraid_d_01.jpg"
+  },
+  {
+    "TagId": 208553,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Timerunner's Chalice",
+      "Cáliz de maratonista",
+      "Cálice do Trilha-tempo",
+      "Timerunner's Chalice",
+      "Cáliz de corredor temporal",
+      "Calice du cours du temps",
+      "Кубок путешественника во времени",
+      "Kelch des Zeitläufers",
+      "Cálice do Trilha-tempo",
+      "Calice del Corridore Temporale",
+      "시간질주자의 성배",
+      "時光跑者聖杯",
+      "时空飞驰者圣杯"
+    ],
+    "Media": "inv_offhand_pvealliance_d_01.jpg"
+  },
+  {
+    "TagId": 208554,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chaos Brand",
+      "Enseña del caos",
+      "Marca do Caos",
+      "Chaos Brand",
+      "Marca del caos",
+      "Marque du chaos",
+      "Печать хаоса",
+      "Chaosbrandmal",
+      "Marca do Caos",
+      "Marchio del Caos",
+      "혼돈의 낙인",
+      "混沌烙印",
+      "混乱烙印"
+    ],
+    "Media": "ability_demonhunter_metamorphasistank.jpg"
+  },
+  {
+    "TagId": 208555,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blood of Mannoroth",
+      "Sangre de Mannoroth",
+      "Sangue de Mannoroth",
+      "Blood of Mannoroth",
+      "Sangre de Mannoroth",
+      "Sang de Mannoroth",
+      "Кровь Маннорота",
+      "Blut von Mannoroth",
+      "Sangue de Mannoroth",
+      "Sangue di Mannoroth",
+      "만노로스의 피",
+      "瑪諾洛斯之血",
+      "玛诺洛斯之血"
+    ],
+    "Media": "inv_alchemy_70_potion2.jpg"
+  },
+  {
+    "TagId": 208556,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Flicker Blossom",
+      "Flor titilante",
+      "Botão Cintilante",
+      "Flicker Blossom",
+      "Floración creciente",
+      "Fleur vacillante",
+      "Искрящийся цветок",
+      "Flackerblüte",
+      "Botão Cintilante",
+      "Bocciolo Sfarfallante",
+      "명멸하는 꽃",
+      "爍光花",
+      "闪现之花"
+    ],
+    "Media": "item_herbd.jpg"
   },
   {
     "TagId": 208564,
@@ -9685,7 +10337,7 @@
     "Names": [
       null,
       "Eve's Ghastly Rider",
-      "Montura mortal de Eve",
+      "Escoba espectral de de Eve",
       "Possante Fantasmagórica da Eva",
       "Eve's Ghastly Rider",
       "Montura espectral de Eve",
@@ -12074,6 +12726,48 @@
     "Media": "inv_farm_seedofharmony.jpg"
   },
   {
+    "TagId": 208733,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonhorn Flute",
+      "Flauta de dracocuerno",
+      "Flauta de Chifre de Dragão",
+      "Dragonhorn Flute",
+      "Flauta de cuerno de dragón",
+      "Flûte en corne de Dragon",
+      "Флейта из драконьего рога",
+      "Drachenhornflöte",
+      "Flauta de Chifre de Dragão",
+      "Flauto di Corno di Drago",
+      "용뿔 피리",
+      "龍角長笛",
+      "龙角笛"
+    ],
+    "Media": "inv_misc_flute_01.jpg"
+  },
+  {
+    "TagId": 208734,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Waterlogged Ledger",
+      "Libro empapado",
+      "Registro Encharcado",
+      "Waterlogged Ledger",
+      "Libro de contabilidad empapado",
+      "Registre détrempé",
+      "Промокший журнал",
+      "Durchnässtes Hauptbuch",
+      "Registro Encharcado",
+      "Libro Mastro Fradicio",
+      "물에 젖은 장부",
+      "溼透的帳本",
+      "浸水账本"
+    ],
+    "Media": "inv_10_inscription2_book1_color5.jpg"
+  },
+  {
     "TagId": 208735,
     "TagType": 21,
     "Names": [
@@ -12093,6 +12787,48 @@
       "一桶病态零食"
     ],
     "Media": "inv_offhand_1h_candybucket_b_01.jpg"
+  },
+  {
+    "TagId": 208736,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Apprentice Astrologist Homework",
+      "Tarea de astrólogo aprendiz",
+      "Dever de Casa de Aprendiz de Astrologia",
+      "Apprentice Astrologist Homework",
+      "Deberes de aprendiz de astrología",
+      "Devoirs d’apprenti astrologue",
+      "Домашняя работа ученика-астролога",
+      "Hausaufgabe eines Astrologielehrlings",
+      "Dever de Casa de Aprendiz de Astrologia",
+      "Compiti dell'Apprendista Astrologo",
+      "수습 점성술사의 숙제",
+      "見習占星師作業",
+      "占星学徒的家庭作业"
+    ],
+    "Media": "inv_misc_map09.jpg"
+  },
+  {
+    "TagId": 208737,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hole-Punched Bakar Tooth",
+      "Diente de bakar perforado",
+      "Dente de Bakar Furado",
+      "Hole-Punched Bakar Tooth",
+      "Diente de bakar perforado",
+      "Croc de bakar percé",
+      "Продырявленный зуб бакара",
+      "Gelochter Bakarzahn",
+      "Dente de Bakar Furado",
+      "Dente di Bakar Perforato",
+      "구멍 뚫린 바카르 이빨",
+      "打孔的巴卡犬牙齒",
+      "打孔的獒犬之牙"
+    ],
+    "Media": "inv_archaeology_orcclans_grontoothnecklace.jpg"
   },
   {
     "TagId": 208738,
@@ -13290,6 +14026,27 @@
       "守护巨龙功绩奖币"
     ],
     "Media": "inv_misc_azsharacoin2.jpg"
+  },
+  {
+    "TagId": 208822,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Infinite Hearthstone",
+      "Piedra de hogar infinita",
+      "Pedra de Regresso Infinita",
+      "Infinite Hearthstone",
+      "Piedra de hogar infinita",
+      "Pierre de foyer infinie",
+      "Бесконечный камень возвращения",
+      "Ewiger Ruhestein",
+      "Pedra de Regresso Infinita",
+      "Pietra del Ritorno dell'Infinito",
+      "무한의 귀환석",
+      "無限爐石",
+      "无限炉石"
+    ],
+    "Media": "inv_10_specialreagentfoozles_primalistrune_earth.jpg"
   },
   {
     "TagId": 208824,
@@ -15418,7 +16175,7 @@
     "Names": [
       null,
       "Voidsong, Stave of the Harbinger",
-      "Voidsong, báculo de presagista",
+      "Cantovacío, báculo de presagista",
       "Sonicaos, Báculo do Emissário",
       "Voidsong, Stave of the Harbinger",
       "Canto del Vacío, báculo del presagista",
