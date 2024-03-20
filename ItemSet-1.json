@@ -1194,7 +1194,7 @@
       "Schlachtrüstung der verlorenen Katakomben",
       "Equipamento de Batalha da Catacumba Perdida",
       "Tenuta Feroce della Catacomba Perduta",
-      "잃어버진 지하묘지의 전투장비",
+      "잃어버린 지하묘지의 전투장비",
       "失落墓穴戰裝",
       "失落坟冢战甲"
     ]
@@ -1214,7 +1214,7 @@
       "Kampfplatte der verlorenen Katakomben",
       "Placas da Catacumba Perdida",
       "Piastre della Catacomba Perduta",
-      "잃어버진 지하묘지의 판금장비",
+      "잃어버린 지하묘지의 판금장비",
       "失落墓穴鎧甲",
       "失落坟冢护甲"
     ]
@@ -6877,6 +6877,346 @@
       "지옥꽃 의복",
       "煉獄花服飾",
       "狱花外衣"
+    ]
+  },
+  {
+    "TagId": 1594,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Scales of the Awakened",
+      "Escamas de los despiertos",
+      "Escamas dos Despertos",
+      "Scales of the Awakened",
+      "Escamas del Despierto",
+      "Écailles des Éveillés",
+      "Чешуя Пробудившегося",
+      "Schuppen der Erweckten",
+      "Escamas dos Despertos",
+      "Scaglie del Risvegliato",
+      "깨어난 자의 비늘",
+      "覺醒之鱗",
+      "觉醒者之鳞"
+    ]
+  },
+  {
+    "TagId": 1595,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Stormwing Harrier's Camouflage",
+      "Camuflaje de aguilucho alatormenta",
+      "Camuflagem do Tartaranhão Asatempéria",
+      "Stormwing Harrier's Camouflage",
+      "Camuflaje del hostigador Alatormenta",
+      "Camouflage de limier aile-tempête",
+      "Камуфляж штормокрыла-разорителя",
+      "Tarnung des Sturmschwingenhetzers",
+      "Camuflagem do Tartaranhão Asatempéria",
+      "Mimetizzazione del Predatore Alatempestosa",
+      "폭풍날개 유린자의 위장복",
+      "暴風之翼追獵者的偽裝",
+      "雷翼劫猎者的伪装"
+    ]
+  },
+  {
+    "TagId": 1596,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Wrappings of the Waking Fist",
+      "Envolturas del puño arrasador",
+      "Envoltórios do Punho Desperto",
+      "Wrappings of the Waking Fist",
+      "Envolturas del puño lúcido",
+      "Étoffes du poing en éveil",
+      "Обмотки пробуждающего кулака",
+      "Wickel der erwachenden Faust",
+      "Envoltórios do Punho Desperto",
+      "Fasce del Pugno del Risveglio",
+      "깨어나는 철권의 의복",
+      "喚醒之拳的裹甲",
+      "悟拳裹甲"
+    ]
+  },
+  {
+    "TagId": 1597,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Strands of the Autumn Blaze",
+      "Hebras de la llamarada otoñal",
+      "Fios da Labareda Outonal",
+      "Strands of the Autumn Blaze",
+      "Hebras de la llamarada otoñal",
+      "Fils du feu d’automne",
+      "Путы осеннего пламени",
+      "Stränge der Herbstlohen",
+      "Fios da Labareda Outonal",
+      "Filamenti della Fiamma Autunnale",
+      "가을 불길의 가닥",
+      "秋焰絲縷",
+      "秋阳余晖光缕"
+    ]
+  },
+  {
+    "TagId": 1598,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Heartfire Sentinel's Authority",
+      "Autoridad de centinela corazón de fuego",
+      "Autoridade da Sentinela Fogo do Coração",
+      "Heartfire Sentinel's Authority",
+      "Autoridad del centinela corafuego",
+      "Autorité de la sentinelle cœur de feu",
+      "Мощь сердечного огня",
+      "Autorität des Herzensfeuerwächters",
+      "Autoridade da Sentinela Fogo do Coração",
+      "Autorità della Sentinella Cuordifuoco",
+      "심장불꽃 파수꾼의 권위",
+      "心火哨兵的權威",
+      "心火哨兵的权威"
+    ]
+  },
+  {
+    "TagId": 1599,
+    "TagType": 29,
+    "Names": [
+      null,
+      "The Furnace Seraph's Verdict",
+      "Veredicto de serafín del alto horno",
+      "Veredito do Serafim da Fornalha",
+      "The Furnace Seraph's Verdict",
+      "Veredicto del serafín del horno",
+      "Verdict du séraphin de la fournaise",
+      "Вердикт пылающего серафима",
+      "Urteil des Schmelzofenseraphs",
+      "Veredito do Serafim da Fornalha",
+      "Verdetto del Serafino della Fornace",
+      "용광로 대천사의 심판",
+      "熔爐天使的裁決",
+      "炉翼炽天使之裁"
+    ]
+  },
+  {
+    "TagId": 1600,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Lurking Specter's Shadeweave",
+      "Hilosombra de espectro al acecho",
+      "Criassombras do Espectro Espreitador",
+      "Lurking Specter's Shadeweave",
+      "Tejido de sombras del espectro acechante",
+      "Tissombre du spectre rôdeur",
+      "Плетение призрака теней",
+      "Schattenzwirn des lauernden Gespensts",
+      "Criassombras do Espectro Espreitador",
+      "Tessiombre dello Spettro Inquietante",
+      "도사리는 망령의 그늘매듭",
+      "潛伏亡靈的魔影編織",
+      "隐秘魔灵的影纹战甲"
+    ]
+  },
+  {
+    "TagId": 1601,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Sinister Savant's Cursethreads",
+      "Botines malditos de sabio siniestro",
+      "Fios Malditos do Sábio Sinistro",
+      "Sinister Savant's Cursethreads",
+      "Ropas malditas del sabio siniestro",
+      "Ornements du savant sinistre",
+      "Одеяния жестокого мудреца",
+      "Fluchfäden des finsteren Gelehrten",
+      "Fios Malditos do Sábio Sinistro",
+      "Sortifila dell'Erudito Sinistro",
+      "사악한 학자의 저주실타래",
+      "邪惡學者的詛咒線",
+      "险恶学者的咒衣"
+    ]
+  },
+  {
+    "TagId": 1602,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Irons of the Onyx Crucible",
+      "Hierros del crisol de ónice",
+      "Ferros do Crisol de Ônix",
+      "Irons of the Onyx Crucible",
+      "Hierros del crisol de ónice",
+      "Fers du creuset d’onyx",
+      "Сталь из черного горнила",
+      "Eisen des Onyxtiegels",
+      "Ferros do Crisol de Ônix",
+      "Ferri del Crogiolo d'Onice",
+      "오닉스 도가니의 강철",
+      "瑪瑙實驗場之鐵",
+      "缟玛瑙熔炉铁卫"
+    ]
+  },
+  {
+    "TagId": 1603,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Risen Nightmare's Gravemantle",
+      "Manto lapidario de pesadilla revivida",
+      "Mantacumba do Pesadelo Reanimado",
+      "Risen Nightmare's Gravemantle",
+      "Mantofúnebre de la pesadilla resucitada",
+      "Mantelet funeste du cauchemar ressuscité",
+      "Погребальное облачение восставшего",
+      "Grabmantel des auferstandenen Alptraums",
+      "Mantacumba do Pesadelo Reanimado",
+      "Vesti Tombali dell'Incubo Risorto",
+      "되살아난 악몽의 무덤허물",
+      "復生夢魘的墓帳",
+      "复生梦魇的沉墓衣钵"
+    ]
+  },
+  {
+    "TagId": 1604,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Screaming Torchfiend's Brutality",
+      "Brutalidad de piromaligno aullante",
+      "Brutalidade do Demotocha Berrante",
+      "Screaming Torchfiend's Brutality",
+      "Brutalidad del malignontorcha gritón",
+      "Brutalité de l’incendiaire hurlante",
+      "Жестокость вопящего огнебеса",
+      "Brutalität des schreienden Fackelteufels",
+      "Brutalidade do Demotocha Berrante",
+      "Brutalità del Demonetorcia Urlante",
+      "절규하는 횃불마귀의 잔혹성",
+      "尖嘯焰魔之殘暴",
+      "尖嚎炬魔的暴行"
+    ]
+  },
+  {
+    "TagId": 1605,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Wayward Chronomancer's Clockwork",
+      "Relojería de cronomántico indomable",
+      "Corda do Cronomante Rebelde",
+      "Wayward Chronomancer's Clockwork",
+      "Engranajes del cronomántico díscolo",
+      "Mécanisme de chronomancienne égarée",
+      "Часы беспутного хрономанта",
+      "Uhrwerk des abtrünnigen Chronomanten",
+      "Corda do Cronomante Rebelde",
+      "Costrutto del Cronomante Ribelle",
+      "엇나간 시간술사의 태엽장치",
+      "迷途時間術師的時計",
+      "忤逆时光术师的发条"
+    ]
+  },
+  {
+    "TagId": 1606,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Vision of the Greatwolf Outcast",
+      "Visión del desterrado de gran lobo",
+      "Visão do Grande Lobo Proscrito",
+      "Vision of the Greatwolf Outcast",
+      "Visión del desterrado granlobo",
+      "Vision du grand loup exilé",
+      "Взор великого волка-изгнанника",
+      "Vision des ausgestoßenen Großwolfs",
+      "Visão do Grande Lobo Proscrito",
+      "Visione del Granlupo Esiliato",
+      "위대한 늑대 추방자의 환영",
+      "流亡巨狼的諭示",
+      "巨狼流放者的幻视"
+    ]
+  },
+  {
+    "TagId": 1614,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Draconic Warmonger's Armor",
+      "Armadura de Belicista dracónico",
+      "Armadura do Fomentador da Guerra Dracônico",
+      "Draconic Warmonger's Armor",
+      "Armadura de belicista dracónico",
+      "Armure de belliciste draconique",
+      "Доспехи драконьего наемника",
+      "Rüstung des drakonischen Kriegstreibers",
+      "Armadura do Fomentador da Guerra Dracônico",
+      "Piastre del Guerrafondaio Draconico",
+      "용족 전투사의 방어구",
+      "龍族好戰者護甲",
+      "腾龙好战者的护甲"
+    ]
+  },
+  {
+    "TagId": 1615,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Draconic Warmonger's Chainmail",
+      "Malla de anillas de Belicista dracónico",
+      "Malha de Anéis do Fomentador da Guerra Dracônico",
+      "Draconic Warmonger's Chainmail",
+      "Malla de anillas de belicista dracónico",
+      "Cotte de mailles de belliciste draconique",
+      "Кольчуга драконьего наемника",
+      "Kettenpanzer des drakonischen Kriegstreibers",
+      "Malha de Anéis do Fomentador da Guerra Dracônico",
+      "Maglia del Guerrafondaio Draconico",
+      "용족 전투사의 쇠사슬갑옷",
+      "龍族好戰者鎖子甲",
+      "腾龙好战者的链甲"
+    ]
+  },
+  {
+    "TagId": 1616,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Draconic Warmonger's Vestments",
+      "Vestimentas de Belicista dracónico",
+      "Vestimenta do Fomentador da Guerra Dracônico",
+      "Draconic Warmonger's Vestments",
+      "Vestimentas de belicista dracónico",
+      "Habits de belliciste draconique",
+      "Одежды драконьего наемника",
+      "Gewänder des drakonischen Kriegstreibers",
+      "Vestimenta do Fomentador da Guerra Dracônico",
+      "Cuoio del Guerrafondaio Draconico",
+      "용족 전투사의 예복",
+      "龍族好戰者法衣",
+      "腾龙好战者的外衣"
+    ]
+  },
+  {
+    "TagId": 1617,
+    "TagType": 29,
+    "Names": [
+      null,
+      "Draconic Warmonger's Garb",
+      "Atuendo de Belicista dracónico",
+      "Induto do Fomentador da Guerra Dracônico",
+      "Draconic Warmonger's Garb",
+      "Atuendo de belicista dracónico",
+      "Atours de belliciste draconique",
+      "Облачение драконьего наемника",
+      "Tracht des drakonischen Kriegstreibers",
+      "Induto do Fomentador da Guerra Dracônico",
+      "Stoffa del Guerrafondaio Draconico",
+      "용족 전투사의 의복",
+      "龍族好戰者裝束",
+      "腾龙好战者的外袍"
     ]
   }
 ]

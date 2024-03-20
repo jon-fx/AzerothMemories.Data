@@ -615,13 +615,13 @@
       null,
       "Warped Drakonid Jar",
       "Vasija dracónida deformada",
-      "Jarra de Draconídeo Deformada",
+      "Pote Draconídeo Deformado",
       "Warped Drakonid Jar",
       "Tarro de dracónido combado",
       "Bocal drakônide déformé",
       "Искривившийся кувшин драконидов",
       "Verzerrter Drakonidenkrug",
-      "Jarra de Draconídeo Deformada",
+      "Pote Draconídeo Deformado",
       "Vaso dei Draconidi Deforme",
       "뒤틀린 용기병 단지",
       "變形的龍獸罐子",
@@ -1239,6 +1239,27 @@
     "Media": "inv_armor_springcasual_b_01_chest.jpg"
   },
   {
+    "TagId": 213089,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Antique Bronze Bullion",
+      "Lingote de bronce antiguo",
+      "Lingote de Bronze Antigo",
+      "Antique Bronze Bullion",
+      "Lingote de bronce antiguo",
+      "Lingot de bronze antique",
+      "Старинный бронзовый слиток",
+      "Antiker Bronzebarren",
+      "Lingote de Bronze Antigo",
+      "Lingotto di Bronzo Antico",
+      "오래된 청동 주괴",
+      "古老銅條",
+      "古老的青铜锭"
+    ],
+    "Media": "inv_10_jewelcrafting_gem1leveling_titan_cut_bronze.jpg"
+  },
+  {
     "TagId": 213091,
     "TagType": 21,
     "Names": [
@@ -1621,19 +1642,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Night Elven Bow",
-      "Arco de los elfos de la noche",
-      "Arco do Elfo Noturno",
-      "Night Elven Bow",
-      "Arco de los elfos de la noche",
-      "Arc elfe de la nuit",
-      "Лук ночных эльфов",
-      "Nachtelfischer Bogen",
-      "Arco do Elfo Noturno",
-      "Arco degli Elfi della Notte",
-      "나이트 엘프 활",
-      "夜精靈之弓",
-      "暗夜精灵之弓"
+      "Kaldorei Moon Bow",
+      "Arco lunar kaldorei",
+      "Arco Lunar Kaldorei",
+      "Kaldorei Moon Bow",
+      "Arco lunar kaldorei",
+      "Arc de lune kaldorei",
+      "Калдорайский лунный лук",
+      "Kaldoreimondbogen",
+      "Arco Lunar Kaldorei",
+      "Arco della Luna dei Kaldorei",
+      "칼도레이 달의 활",
+      "卡多雷彎月弓",
+      "卡多雷月弓"
     ],
     "Media": "inv_1h_430nightelf_c_01.jpg"
   },
@@ -1678,6 +1699,27 @@
       "逐风者的祝福之弓"
     ],
     "Media": "inv_bow_1h_thunderbow_d_01.jpg"
+  },
+  {
+    "TagId": 213164,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gnomish Gravity Launcher",
+      "Lanzador de gravedad gnómico",
+      "Lançador de Gravidade Gnômico",
+      "Gnomish Gravity Launcher",
+      "Lanzador de gravedad gnómico",
+      "Lance-gravité gnome",
+      "Гномья гравитационная установка",
+      "Gnomisches Gravitationssprungbrett",
+      "Lançador de Gravidade Gnômico",
+      "Lanciatore Gravitazionale Gnomesco",
+      "노움 중력 발사대",
+      "地精重力發射器",
+      "侏儒重力发射器"
+    ],
+    "Media": "ability_karoz_leap.jpg"
   },
   {
     "TagId": 213172,
@@ -2436,6 +2478,27 @@
     "Media": "item_savageleatherhide.jpg"
   },
   {
+    "TagId": 213217,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mechano-Hog",
+      "Meca-jarly",
+      "Mecanotoca",
+      "Mechano-Hog",
+      "Meca-jarly",
+      "Mécabécane",
+      "Механоцикл",
+      "Feuerstuhl",
+      "Mecanotoca",
+      "Meccanomoto",
+      "호토바이",
+      "機械重機車",
+      "机械路霸"
+    ],
+    "Media": "inv_chopper_horde.jpg"
+  },
+  {
     "TagId": 213222,
     "TagType": 21,
     "Names": [
@@ -2497,6 +2560,27 @@
       null
     ],
     "Media": "inv_misc_hearthstonecard_common.jpg"
+  },
+  {
+    "TagId": 213232,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bottled Time",
+      "Tiempo embotellado",
+      "Tempo Engarrafado",
+      "Bottled Time",
+      "Tiempo embotellado",
+      "Temps en bouteille",
+      "Время в бутылке",
+      "Abgefüllte Zeit",
+      "Tempo Engarrafado",
+      "Tempo Imbottigliato",
+      "병에 담긴 시간",
+      "瓶裝時光",
+      "瓶装时间"
+    ],
+    "Media": "inv_10_alchemy_bottle_shape1_yellow.jpg"
   },
   {
     "TagId": 213272,
@@ -2843,7 +2927,7 @@
       "Prototipo de garra descartado",
       "Protótipo de Garra Descartado",
       "Discarded Claw Prototype",
-      "Prototipo de garra desechada",
+      "Prototipo de garra desechado",
       "Prototype de griffe abandonné",
       "Выброшенный прототип когтя",
       "Weggeworfener Krallenprototyp",
@@ -2864,7 +2948,7 @@
       "Piedra para hurgar y olfatear",
       "Pedra de Arranhar e Cheirar",
       "Scratch-and-Sniff Stone",
-      "Piedra rasca y huele",
+      "Piedra \"rasca y huele\"",
       "Pierre odorante à gratter",
       "Камень с ароматом",
       "Kratz-und-Schnüffel-Stein",
@@ -2969,7 +3053,7 @@
       "Fragmento de mapa centauro de caza",
       "Mapa de Caça Parcial de Centauro",
       "Partial Centaur Hunting Map",
-      "Parte de mapa de caza centauro",
+      "Parte de un mapa de caza de los centauros",
       "Carte de chasse centaure partielle",
       "Неполная охотничья карта кентавров",
       "Teil einer Zentaurenjagdkarte",
@@ -3095,7 +3179,7 @@
       "Diario antiguo de centauro",
       "Diário de Centauro Antigo",
       "Ancient Centaur Diary",
-      "Diario de centauro antiguo",
+      "Diario antiguo de un centauro",
       "Journal centaure ancien",
       "Древний дневник кентавра",
       "Uraltes Zentaurentagebuch",
@@ -3106,6 +3190,153 @@
       "古代半人马日记"
     ],
     "Media": "inv_misc_book_09.jpg"
+  },
+  {
+    "TagId": 213393,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Guise of the Golden Masquerade",
+      "Aspecto de mascarada dorada",
+      "Socapa do Baile de Máscaras Dourado",
+      "Guise of the Golden Masquerade",
+      "Disfraz de la mascarada dorada",
+      "Semblance de la mascarade dorée",
+      "Полумаска золотого маскарада",
+      "Gewand der goldenen Maskerade",
+      "Socapa do Baile de Máscaras Dourado",
+      "Parvenza della Festa in Maschera Dorata",
+      "황금빛 가장무도회의 가면",
+      "黃金舞會假面",
+      "黄金化装舞会假面"
+    ],
+    "Media": "inv_helm_armor_masquerade_b_02.jpg"
+  },
+  {
+    "TagId": 213394,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ebony Crown of the Red Rose",
+      "Corona de ébano de la rosa roja",
+      "Coroa de Ébano da Rosa Vermelha",
+      "Ebony Crown of the Red Rose",
+      "Corona ébano de la rosa roja",
+      "Couronne d’ébène de la Rose rouge",
+      "Эбонитовая корона красной розы",
+      "Ebenholzkrone der roten Rose",
+      "Coroa de Ébano da Rosa Vermelha",
+      "Corona d'Ebano della Rosa Rossa",
+      "붉은 장미의 칠흑 왕관",
+      "紅玫瑰烏木冠",
+      "嫣红玫瑰的黑檀王冠"
+    ],
+    "Media": "inv_helm_armor_heartcrown_c_01_helm.jpg"
+  },
+  {
+    "TagId": 213395,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gloves of the Midnight Soiree",
+      "Guantes de velada de medianoche",
+      "Luvas do Concerto da Meia-noite",
+      "Gloves of the Midnight Soiree",
+      "Guantes de velada de medianoche",
+      "Gants de soirée de minuit",
+      "Перчатки для полуночного приема",
+      "Handschuhe des Mitternachtsballs",
+      "Luvas do Concerto da Meia-noite",
+      "Guanti della Serata di Mezzanotte",
+      "한밤의 연회 장갑",
+      "午夜晚會手套",
+      "午夜晚宴手套"
+    ],
+    "Media": "inv_glove_armor_princessgloves_a_01.jpg"
+  },
+  {
+    "TagId": 213396,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Classic Midnight Tabard",
+      "Tabardo clásico de medianoche",
+      "Tabardo Noturno Clássico",
+      "Classic Midnight Tabard",
+      "Tabardo de medianoche clásico",
+      "Tabard de minuit classique",
+      "Классическая полуночная гербовая накидка",
+      "Klassischer Mitternachtswappenrock",
+      "Tabardo Noturno Clássico",
+      "Insegna di Mezzanotte Classica",
+      "전통적인 칠흑빛 휘장",
+      "經典午夜外袍",
+      "经典午夜战袍"
+    ],
+    "Media": "inv_tabard_basic_b_01_black.jpg"
+  },
+  {
+    "TagId": 213397,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Parrot Snacks",
+      "Bocadillos para loro",
+      "Lanches de Papagaio",
+      "Parrot Snacks",
+      "Tentempiés de loro",
+      "Casse-croûtes pour perroquet",
+      "Угощения для попугая",
+      "Papageienleckerlis",
+      "Lanches de Papagaio",
+      "Stuzzichini per Pappagallo",
+      "앵무새 간식",
+      "鸚鵡點心",
+      "鹦鹉点心"
+    ],
+    "Media": "inv_redbird.jpg"
+  },
+  {
+    "TagId": 213400,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Strange Snowman",
+      "Muñeco de nieve extraño",
+      "Boneco de Neve Estranho",
+      "Strange Snowman",
+      "Muñeco de nieve extraño",
+      "Étrange bonhomme de neige",
+      "Чудной снеговик",
+      "Seltsamer Schneemann",
+      "Boneco de Neve Estranho",
+      "Strano Pupazzo di Neve",
+      "이상한 눈사람",
+      "奇怪的雪人",
+      "奇怪的雪人"
+    ],
+    "Media": "inv_pet_snowman.jpg"
+  },
+  {
+    "TagId": 213428,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Loot-Stuffed Basket",
+      "Cesta atiborrada de botín",
+      "Cesta Cheia de Saque",
+      "Loot-Stuffed Basket",
+      "Cesta repleta de botín",
+      "Panier bourré de butin",
+      "Набитая добычей корзина",
+      "Prall gefüllter Korb",
+      "Cesta Cheia de Saque",
+      "Cestino Zeppo di Bottino",
+      "전리품 욱여넣은 바구니",
+      "裝滿戰利品的籃子",
+      "装满战利品的篮子"
+    ],
+    "Media": "inv_misc_easterbasket.jpg"
   },
   {
     "TagId": 213429,
@@ -3127,6 +3358,279 @@
       "一丝不苟的档案员的附录"
     ],
     "Media": "inv_inscription_80_warscroll_battleshout.jpg"
+  },
+  {
+    "TagId": 213430,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Duelist's Midnight Doublet",
+      "Jubón de medianoche de duelista",
+      "Gibão Noturno do Duelista",
+      "Duelist's Midnight Doublet",
+      "Jubón de medianoche de Duelista",
+      "Doublet de duelliste de minuit",
+      "Полуночный дублет дуэлянта",
+      "Mitternachtswams des Duellanten",
+      "Gibão Noturno do Duelista",
+      "Doppiopetto di Mezzanotte del Duellante",
+      "결투사의 칠흑빛 겹셔츠",
+      "決鬥者午夜窄衣",
+      "决斗者的午夜紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_black.jpg"
+  },
+  {
+    "TagId": 213431,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Duelist's Navy Doublet",
+      "Jubón azul marino de duelista",
+      "Gibão Marinho do Duelista",
+      "Duelist's Navy Doublet",
+      "Jubón azul marino de Duelista",
+      "Doublet de duelliste marine",
+      "Синий дублет дуэлянта",
+      "Marineblaues Wams des Duellanten",
+      "Gibão Marinho do Duelista",
+      "Doppiopetto Blu Scuro del Duellante",
+      "결투사의 군청색 겹셔츠",
+      "決鬥者藏青窄衣",
+      "决斗者的海军紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_blue.jpg"
+  },
+  {
+    "TagId": 213432,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Duelist's Cedar Doublet",
+      "Jubón de cedro de duelista",
+      "Gibão Cedrino do Duelista",
+      "Duelist's Cedar Doublet",
+      "Jubón de cedro de Duelista",
+      "Doublet de duelliste de cèdre",
+      "Кедровый дублет дуэлянта",
+      "Zedernwams des Duellanten",
+      "Gibão Cedrino do Duelista",
+      "Doppiopetto di Cedro del Duellante",
+      "결투사의 삼나무 겹셔츠",
+      "決鬥者雪松窄衣",
+      "决斗者的雪松紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_brown.jpg"
+  },
+  {
+    "TagId": 213433,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Duelist's Ivy Doublet",
+      "Jubón de hiedra de duelista",
+      "Gibão Hederáceo do Duelista",
+      "Duelist's Ivy Doublet",
+      "Jubón de hiedra de Duelista",
+      "Doublet de duelliste de lierre",
+      "Зеленый дублет дуэлянта",
+      "Efeuwams des Duellanten",
+      "Gibão Hederáceo do Duelista",
+      "Doppiopetto d'Edera del Duellante",
+      "결투사의 덩굴 겹셔츠",
+      "決鬥者綠藤窄衣",
+      "决斗者的春藤紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_green.jpg"
+  },
+  {
+    "TagId": 213434,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Duelist's Royal Doublet",
+      "Jubón real de duelista",
+      "Gibão Real do Duelista",
+      "Duelist's Royal Doublet",
+      "Jubón real de Duelista",
+      "Doublet de duelliste royal",
+      "Роскошный дублет дуэлянта",
+      "Königliches Wams des Duellanten",
+      "Gibão Real do Duelista",
+      "Doppiopetto Regale del Duellante",
+      "결투사의 왕실 겹셔츠",
+      "決鬥者皇家窄衣",
+      "决斗者的皇家紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_purple.jpg"
+  },
+  {
+    "TagId": 213435,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Duelist's Crimson Doublet",
+      "Jubón carmesí de duelista",
+      "Gibão Carmesim do Duelista",
+      "Duelist's Crimson Doublet",
+      "Jubón carmesí de Duelista",
+      "Doublet de duelliste cramoisi",
+      "Багровый дублет дуэлянта",
+      "Karminrotes Wams des Duellanten",
+      "Gibão Carmesim do Duelista",
+      "Doppiopetto Cremisi del Duellante",
+      "결투사의 진홍빛 겹셔츠",
+      "決鬥者赤紅窄衣",
+      "决斗者的深红紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_red.jpg"
+  },
+  {
+    "TagId": 213436,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fine Crimson Doublet",
+      "Jubón carmesí refinado",
+      "Gibão do Duelista Carmesim",
+      "Fine Crimson Doublet",
+      "Jubón carmesí refinado",
+      "Beau doublet cramoisi",
+      "Изящный багровый дублет",
+      "Edles karminrotes Wams",
+      "Gibão do Duelista Carmesim",
+      "Doppiopetto Cremisi Elegante",
+      "고급 진홍빛 겹셔츠",
+      "精美赤紅窄衣",
+      "精致的深红紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_scarlet.jpg"
+  },
+  {
+    "TagId": 213437,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Duelist's Marble Doublet",
+      "Jubón de mármol de duelista",
+      "Gibão Marmóreo do Duelista",
+      "Duelist's Marble Doublet",
+      "Jubón de mármol de Duelista",
+      "Doublet de duelliste marmoréen",
+      "Мраморный дублет дуэлянта",
+      "Marmoriertes Wams des Duellanten",
+      "Gibão Marmóreo do Duelista",
+      "Doppiopetto Marmoreo del Duellante",
+      "결투사의 대리석 겹셔츠",
+      "決鬥者大理石窄衣",
+      "决斗者的大理石紧身上衣"
+    ],
+    "Media": "inv_shirt_duelist_a_01_white.jpg"
+  },
+  {
+    "TagId": 213438,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Infinite Armoredon",
+      "Armaduronte infinito",
+      "Armadurado Infinito",
+      "Infinite Armoredon",
+      "Rinoceronte blindado infinito",
+      "Armoredon infini",
+      "Бесконечный бронедон",
+      "Ewiges Panzerdon",
+      "Armadurado Infinito",
+      "Coraceronte Infinito",
+      "무한의 장갑무소",
+      "無限裝甲獸",
+      "永恒厚甲龙"
+    ],
+    "Media": "inv_rhinoprimalmountinfinite.jpg"
+  },
+  {
+    "TagId": 213439,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vicious Dreamtalon",
+      "Garfaonírico sañoso",
+      "Somnigarra Cruel",
+      "Vicious Dreamtalon",
+      "Garfasueño sañoso",
+      "Serre de rêve vicieuse",
+      "Свирепый ящер из Сна",
+      "Boshafte Traumkralle",
+      "Somnigarra Cruel",
+      "Sognartiglio Malvagio",
+      "흉포한 꿈갈퀴",
+      "凶惡夢爪獸",
+      "勇猛的梦爪獍"
+    ],
+    "Media": "inv_vicioussabretoothraptor__alliance.jpg"
+  },
+  {
+    "TagId": 213440,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vicious Dreamtalon",
+      "Garfaonírico sañoso",
+      "Somnigarra Cruel",
+      "Vicious Dreamtalon",
+      "Garfasueño sañoso",
+      "Serre de rêve vicieuse",
+      "Свирепый ящер из Сна",
+      "Boshafte Traumkralle",
+      "Somnigarra Cruel",
+      "Sognartiglio Malvagio",
+      "흉포한 꿈갈퀴",
+      "凶惡夢爪獸",
+      "勇猛的梦爪獍"
+    ],
+    "Media": "inv_vicioussabretoothraptor_horde.jpg"
+  },
+  {
+    "TagId": 213441,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth Mother's Sepia Gloves",
+      "Guantes sepia de la Madre Tierra",
+      "Luvas Sépia da Mãe Terra",
+      "Earth Mother's Sepia Gloves",
+      "Guantes sepia de la Madre Tierra",
+      "Gants sépia de la terre nourricière",
+      "Светло-бурые перчатки Матери-Земли",
+      "Sepiafarbene Handschuhe der Erdenmutter",
+      "Luvas Sépia da Mãe Terra",
+      "Guanti Seppia della Madre Terra",
+      "대지모신의 적갈색 장갑",
+      "大地之母紅褐手套",
+      "大地母亲的墨黑手套"
+    ],
+    "Media": "inv_glove_armor_princessgloves_a_01.jpg"
+  },
+  {
+    "TagId": 213518,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Classic Sepia Tabard",
+      "Tabardo sepia clásico",
+      "Tabardo Sépia Clássico",
+      "Classic Sepia Tabard",
+      "Tabardo sepia clásico",
+      "Tabard sépia classique",
+      "Классическая светло-бурая гербовая накидка",
+      "Klassischer sepiafarbener Wappenrock",
+      "Tabardo Sépia Clássico",
+      "Insegna Seppia Classica",
+      "전통적인 적갈색 휘장",
+      "經典紅褐外袍",
+      "经典深褐战袍"
+    ],
+    "Media": "inv_tabard_basic_b_01_brown.jpg"
   },
   {
     "TagId": 213536,
@@ -3192,6 +3696,27 @@
     "Media": "inv_lunarrabbitpet.jpg"
   },
   {
+    "TagId": 213577,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Star Bomb",
+      "Bomba estelar",
+      "Bomba Estelar",
+      "Star Bomb",
+      "Bomba estrella",
+      "Bombe d’étoiles",
+      "Звездная бомба",
+      "Sternenbombe",
+      "Bomba Estelar",
+      "Bomba Stellare",
+      "별빛 폭탄",
+      "星辰炸彈",
+      "星辰炸弹"
+    ],
+    "Media": "inv_cosmicvoid_nova.jpg"
+  },
+  {
     "TagId": 213580,
     "TagType": 21,
     "Names": [
@@ -3232,5 +3757,215 @@
       "摧心头盔"
     ],
     "Media": "inv_helm_plate_northrend_d_01charcreate_black.jpg"
+  },
+  {
+    "TagId": 213585,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Scarf",
+      "Bufanda de jinete de dracos gélido",
+      "Cachecol do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Scarf",
+      "Bufanda de corredor de draco gélida",
+      "Foulard de pilote de drake glacé",
+      "Ледяной шарф драконьего гонщика",
+      "Schal des eisigen Drachenreiters",
+      "Cachecol do Velocista de Dracos Gélido",
+      "Sciarpa del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 목도리",
+      "冰冷飛龍競速騎師披巾",
+      "寒冰幼龙竞速者的头巾"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_cape.jpg"
+  },
+  {
+    "TagId": 213586,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Boots",
+      "Botas de jinete de dracos gélido",
+      "Botas do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Boots",
+      "Botas de corredor de draco gélidas",
+      "Bottes de pilote de drake glacées",
+      "Ледяные сапоги драконьего гонщика",
+      "Stiefel des eisigen Drachenreiters",
+      "Botas do Velocista de Dracos Gélido",
+      "Stivali del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 장화",
+      "冰冷飛龍競速騎師長靴",
+      "寒冰幼龙竞速者的靴子"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_boot.jpg"
+  },
+  {
+    "TagId": 213587,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Leggings",
+      "Leotardos de jinete de dracos gélido",
+      "Perneiras do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Leggings",
+      "Leotardos de corredor de draco gélidos",
+      "Jambières de pilote de drake glacées",
+      "Ледяные поножи драконьего гонщика",
+      "Gamaschen des eisigen Drachenreiters",
+      "Perneiras do Velocista de Dracos Gélido",
+      "Gambiere del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 다리보호구",
+      "冰冷飛龍競速騎師護腿",
+      "寒冰幼龙竞速者的护腿"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_pant.jpg"
+  },
+  {
+    "TagId": 213588,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Belt",
+      "Cinturón de jinete de dracos gélido",
+      "Cinto do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Belt",
+      "Cinturón de corredor de draco gélido",
+      "Ceinture de pilote de drake glacée",
+      "Ледяной пояс драконьего гонщика",
+      "Gürtel des eisigen Drachenreiters",
+      "Cinto do Velocista de Dracos Gélido",
+      "Cintura del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 허리띠",
+      "冰冷飛龍競速騎師腰帶",
+      "寒冰幼龙竞速者的腰带"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_belt.jpg"
+  },
+  {
+    "TagId": 213589,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Handwraps",
+      "Manijas de jinete de dracos gélido",
+      "Mitenes do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Handwraps",
+      "Manijas de corredor de draco gélidas",
+      "Protège-mains de pilote de drake glacé",
+      "Ледяные повязки драконьего гонщика",
+      "Handlappen des eisigen Drachenreiters",
+      "Mitenes do Velocista de Dracos Gélido",
+      "Mitene del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 손등싸개",
+      "冰冷飛龍競速騎師裹手",
+      "寒冰幼龙竞速者的裹手"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_glove.jpg"
+  },
+  {
+    "TagId": 213590,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Jersey",
+      "Jersey de jinete de dracos gélido",
+      "Suéter do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Jersey",
+      "Jersey de corredor de draco gélido",
+      "Maillot de pilote de drake glacé",
+      "Ледяной жакет драконьего гонщика",
+      "Trikot des eisigen Drachenreiters",
+      "Suéter do Velocista de Dracos Gélido",
+      "Giaco del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 웃옷",
+      "冰冷飛龍競速騎師套衫",
+      "寒冰幼龙竞速者的套衫"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_chest.jpg"
+  },
+  {
+    "TagId": 213591,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Shoulderpads",
+      "Hombreras de jinete de dracos gélido",
+      "Ombreiras do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Shoulderpads",
+      "Hombreras de corredor de draco gélidas",
+      "Protège-épaules de pilote de drake glacé",
+      "Ледяные наплечники драконьего гонщика",
+      "Schulterpolster des eisigen Drachenreiters",
+      "Ombreiras do Velocista de Dracos Gélido",
+      "Spalletti del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 어깨덧대",
+      "冰冷飛龍競速騎師肩墊",
+      "寒冰幼龙竞速者的护肩"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_shoulder.jpg"
+  },
+  {
+    "TagId": 213592,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Icy Drake Racer's Helmet",
+      "Casco de jinete de dracos gélido",
+      "Capacete do Velocista de Dracos Gélido",
+      "Icy Drake Racer's Helmet",
+      "Casco de corredor de draco gélido",
+      "Casque de pilote de drake glacé",
+      "Ледяной шлем драконьего гонщика",
+      "Helm des eisigen Drachenreiters",
+      "Capacete do Velocista de Dracos Gélido",
+      "Elmetto del Cavalcadrachi Gelido",
+      "싸늘한 비룡 경주자의 보호모",
+      "冰冷飛龍競速騎師盔帽",
+      "寒冰幼龙竞速者的头盔"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_helm.jpg"
+  },
+  {
+    "TagId": 213593,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Frosted Riders of Azeroth Tabard",
+      "Tabardo de Jinetes congelados de Azeroth",
+      "Tabardo dos Cavalgantes de Azeroth Gélidos",
+      "Frosted Riders of Azeroth Tabard",
+      "Tabardo de los jinetes de Azeroth helado",
+      "Tabard givré des Chevaucheurs d’Azeroth",
+      "Заиндевелая гербовая накидка всадников Азерота",
+      "Wappenrock der frostigen Reiter von Azeroth",
+      "Tabardo dos Cavalgantes de Azeroth Gélidos",
+      "Insegna dei Cavalieri di Azeroth Ghiacciata",
+      "서리 아제로스의 기수 휘장",
+      "艾澤拉斯冰霜騎士外袍",
+      "艾泽拉斯骑手会的结霜战袍"
+    ],
+    "Media": "inv_tabard_dragonrider_b_01_blue.jpg"
+  },
+  {
+    "TagId": 213635,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Checkered Pennant",
+      "Grímpola a cuadros",
+      "Galhardete Quadriculado",
+      "Checkered Pennant",
+      "Grímpola a cuadros",
+      "Pennon à damier",
+      "Клетчатое знамя",
+      "Karierter Wimpel",
+      "Galhardete Quadriculado",
+      "Vessillo a Scacchi",
+      "체크무늬 깃발",
+      "格紋錦旗",
+      "方格旌旗"
+    ],
+    "Media": "inv_cape_special_racingflag_c_01.jpg"
   }
 ]

@@ -887,7 +887,7 @@
     "Names": [
       null,
       "Whelpling's Shadowflame Crest Fragment",
-      "Fragmento de cresta de llama de las sombras de vástago",
+      "Fragmento de emblema de llama de las sombras de vástago",
       "Fragmento de Brasão da Chama Sombria do Dragonetinho",
       "Whelpling's Shadowflame Crest Fragment",
       "Fragmento de blasón de Pirosombra de vástago",
@@ -908,7 +908,7 @@
     "Names": [
       null,
       "Drake's Shadowflame Crest Fragment",
-      "Fragmento de cresta de llama de las sombras de draco",
+      "Fragmento de emblema de llama de las sombras de draco",
       "Fragmento de Brasão da Chama Sombria do Draco",
       "Drake's Shadowflame Crest Fragment",
       "Fragmento de blasón de Pirosombra de draco",
@@ -929,7 +929,7 @@
     "Names": [
       null,
       "Wyrm's Shadowflame Crest Fragment",
-      "Fragmento de cresta de llama de las sombras de vermis",
+      "Fragmento de emblema de llama de las sombras de vermis",
       "Fragmento de Brasão da Chama Sombria da Serpe",
       "Wyrm's Shadowflame Crest Fragment",
       "Fragmento de blasón de Pirosombra de vermis",
@@ -950,7 +950,7 @@
     "Names": [
       null,
       "Aspect's Shadowflame Crest Fragment",
-      "Fragmento de cresta de llama de las sombras de Aspecto",
+      "Fragmento de emblema de llama de las sombras de Aspecto",
       "Fragmento de Brasão da Chama Sombria do Aspecto",
       "Aspect's Shadowflame Crest Fragment",
       "Fragmento de blasón de Pirosombra de Aspecto",
@@ -2919,6 +2919,27 @@
     "Media": "inv_shadowflame_orb.jpg"
   },
   {
+    "TagId": 204176,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_punchcards_prismatic.jpg"
+  },
+  {
     "TagId": 204177,
     "TagType": 21,
     "Names": [
@@ -3281,7 +3302,7 @@
     "Names": [
       null,
       "Aspect's Shadowflame Crest",
-      "Cresta de llama de las sombras de Aspecto",
+      "Emblema de llama de las sombras de Aspecto",
       "Brasão da Chama Sombria do Aspecto",
       "Aspect's Shadowflame Crest",
       "Blasón de Pirosombra de Aspecto",
@@ -3302,7 +3323,7 @@
     "Names": [
       null,
       "Drake's Shadowflame Crest",
-      "Cresta de llama de las sombras de draco",
+      "Emblema de llama de las sombras de draco",
       "Brasão da Chama Sombria do Draco",
       "Drake's Shadowflame Crest",
       "Blasón de Pirosombra de draco",
@@ -3323,7 +3344,7 @@
     "Names": [
       null,
       "Wyrm's Shadowflame Crest",
-      "Cresta de llama de las sombras de vermis",
+      "Emblema de llama de las sombras de vermis",
       "Brasão da Chama Sombria da Serpe",
       "Wyrm's Shadowflame Crest",
       "Blasón de Pirosombra de vermis",
@@ -4620,6 +4641,27 @@
     "Media": "inv_axe_1h_dragonraid_d_01.jpg"
   },
   {
+    "TagId": 204280,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_enchant_dustillusion.jpg"
+  },
+  {
     "TagId": 204281,
     "TagType": 21,
     "Names": [
@@ -5689,6 +5731,48 @@
       "贾拉丁石柱碎片"
     ],
     "Media": "inv_ore_blackrock_ore.jpg"
+  },
+  {
+    "TagId": 204332,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_relics_totemofrage.jpg"
+  },
+  {
+    "TagId": 204333,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_warrior_shieldmastery.jpg"
   },
   {
     "TagId": 204334,
@@ -8440,6 +8524,27 @@
       "坏掉的龙洞发生器"
     ],
     "Media": "inv_10_engineering_device_gadget3_color3.jpg"
+  },
+  {
+    "TagId": 204479,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_questionmark.jpg"
   },
   {
     "TagId": 204480,
@@ -12626,7 +12731,7 @@
     "Names": [
       null,
       "Enchanted Whelpling's Shadowflame Crest",
-      "Cresta de llama de las sombras de vástago encantado",
+      "Emblema de llama de las sombras de vástago encantado",
       "Brasão da Chama Sombria do Dragonetinho Encantado",
       "Enchanted Whelpling's Shadowflame Crest",
       "Blasón de Pirosombra de vástago encantado",
@@ -12647,7 +12752,7 @@
     "Names": [
       null,
       "Enchanted Wyrm's Shadowflame Crest",
-      "Cresta de llama de las sombras de vermis encantado",
+      "Emblema de llama de las sombras de vermis encantado",
       "Brasão da Chama Sombria da Serpe Encantado",
       "Enchanted Wyrm's Shadowflame Crest",
       "Blasón de Pirosombra de vermis encantado",
@@ -12836,7 +12941,7 @@
     "Names": [
       null,
       "Enchanted Aspect's Shadowflame Crest",
-      "Cresta de llama de las sombras de aspecto encantado",
+      "Emblema de llama de las sombras de aspecto encantado",
       "Brasão da Chama Sombria do Aspecto Encantado",
       "Enchanted Aspect's Shadowflame Crest",
       "Blasón de Pirosombra de Aspecto encantado",

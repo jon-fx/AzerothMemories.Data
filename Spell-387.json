@@ -2016,6 +2016,48 @@
     "Media": "spell_shadow_scourgebuild.jpg"
   },
   {
+    "TagId": 387111,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "spell_druid_astralstorm.jpg"
+  },
+  {
+    "TagId": 387112,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
     "TagId": 387113,
     "TagType": 26,
     "Names": [
@@ -4465,6 +4507,27 @@
       "激励生长"
     ],
     "Media": "spell_lifegivingseed.jpg"
+  },
+  {
+    "TagId": 387238,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slash",
+      "Tajo",
+      "Talho",
+      "Slash",
+      "Tajo",
+      "Entaille",
+      "Удар сплеча",
+      "Schlitzen",
+      "Talho",
+      "Taglio",
+      "베기",
+      "斬擊",
+      "挥砍"
+    ],
+    "Media": "ability_meleedamage.jpg"
   },
   {
     "TagId": 387240,
@@ -10156,6 +10219,27 @@
     "Media": "inv_10_enchanting2_magicswirl_blue.jpg"
   },
   {
+    "TagId": 387566,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Glider",
+      "Planeador",
+      "Planador",
+      "Glider",
+      "Planeador",
+      "Planeur",
+      "Планер",
+      "Gleiter",
+      "Planador",
+      "Aliante",
+      "글라이더",
+      "滑翔",
+      "滑翔"
+    ],
+    "Media": "inv_misc_bag_08.jpg"
+  },
+  {
     "TagId": 387567,
     "TagType": 26,
     "Names": [
@@ -14166,6 +14250,27 @@
     "Media": "spell_arcane_starfire.jpg"
   },
   {
+    "TagId": 387780,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boat Teleport",
+      "Teletransporte de barco",
+      "Teleporte de Barco",
+      "Boat Teleport",
+      "Teletransporte de barco",
+      "Téléportation de bateau",
+      "Телепортация на корабль",
+      "Bootteleport",
+      "Teleporte de Barco",
+      "Teletrasporto: Nave",
+      "배 순간이동",
+      "船傳送",
+      "船只传送"
+    ],
+    "Media": "item_azereansphere.jpg"
+  },
+  {
     "TagId": 387781,
     "TagType": 26,
     "Names": [
@@ -15094,19 +15199,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Heavy Slash",
-      "Tajo pesado",
-      "Talho Profundo",
-      "Heavy Slash",
-      "Tajo pesado",
-      "Entaille profonde",
-      "Сильный удар сплеча",
-      "Schweres Schlitzen",
-      "Talho Profundo",
-      "Taglio Pesante",
-      "묵직한 베기",
-      "重斬",
-      "沉重挥砍"
+      "Sundering Slash",
+      "Tajo lacerante",
+      "Borrifo de Cisão",
+      "Sundering Slash",
+      "Tajo destructor",
+      "Entaille de fracture",
+      "Раскалывающий удар",
+      "Zerreißendes Schlitzen",
+      "Borrifo de Cisão",
+      "Taglio Scindente",
+      "분리의 베기",
+      "破甲斬擊",
+      "崩解挥斩"
     ],
     "Media": "ability_hunter_swiftstrike.jpg"
   },
@@ -16119,6 +16224,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 387883,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fel Reaver Knockback",
+      "Repulsión de atracador vil",
+      "Repulsão de Aníquilus",
+      "Fel Reaver Knockback",
+      "Repulsión de atracador vil",
+      "Repoussement de saccageur gangrené",
+      "Отбрасывание сквернобота",
+      "Teufelshäscher-Rückstoß",
+      "Repulsão de Aníquilus",
+      "Respinta del Vilrazziatore",
+      "지옥절단기 밀쳐내기",
+      "惡魔劫奪者擊退",
+      "魔能机甲击退"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 387884,
     "TagType": 26,
     "Names": [
@@ -16201,6 +16327,27 @@
       "[DNT] Dismount Gerithus"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 387888,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reaver Punt",
+      "Repeler atracador",
+      "Pontapé do Aniquilador",
+      "Reaver Punt",
+      "Puntapié de atracador",
+      "Coup de volée de saccageur",
+      "Пинок сквернобота",
+      "Häschertritt",
+      "Pontapé do Aniquilador",
+      "Calcio del Razziatore",
+      "절단기 차내기",
+      "斬掠踹擊",
+      "魔能机甲踢击"
+    ],
+    "Media": "ability_demonhunter_felrush.jpg"
   },
   {
     "TagId": 387889,

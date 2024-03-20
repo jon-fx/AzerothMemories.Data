@@ -970,19 +970,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Shadowflame Hellbike",
-      "Motocicleta infernal de llama de las sombras",
-      "Moto Infernal de Chama Sombria",
-      "Shadowflame Hellbike",
-      "Infernocicleta de llama de las Sombras",
-      "Moto infernale d’ombreflamme",
-      "Адоцикл пламени Тьмы",
-      "Schattenflammenhöllenrad",
-      "Moto Infernal de Chama Sombria",
-      "Infernocicletta d'Ombrofuoco",
-      "암흑불길 지옥차",
-      "暗焰地獄車",
-      "暗影烈焰狱摩"
+      "Hateforged Blazecycle",
+      "Igniciclomotor forjado en odio",
+      "Motobrasa Forjada em Ódio",
+      "Hateforged Blazecycle",
+      "Motoinfernal odioforjada",
+      "Cyclobraise forgé par la haine",
+      "Закаленный ненавистью жароцикл",
+      "Hassgeschmiedetes Feuerrad",
+      "Motobrasa Forjada em Ódio",
+      "Moto Fiammante Forgiata dall'Odio",
+      "증오벼림 불꽃이륜차",
+      "恨鑄熾焰機車",
+      "仇铸炽火摩托"
     ],
     "Media": "inv_motorcyclefelreavermount_fire.jpg"
   },
@@ -6143,7 +6143,7 @@
       "Бинты путешественника во времени",
       "Bandage des Zeitläufers",
       "Bandagem do Trilha-tempo",
-      "Bendaggio del Corridore Temporale",
+      "Bendaggio del Corridore nel Tempo",
       "시간질주자의 붕대",
       "時光跑者繃帶",
       "时空飞驰者绷带"
@@ -9172,6 +9172,48 @@
     "Media": "ability_mage_waterjet.jpg"
   },
   {
+    "TagId": 428669,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scratch",
+      "Rasguño",
+      "Arranhão",
+      "Scratch",
+      "Arañar",
+      "Griffure",
+      "Царапание",
+      "Kratzen",
+      "Arranhão",
+      "Unghiata",
+      "긁기",
+      "猛抓",
+      "抓挠"
+    ],
+    "Media": "artifactability_survivalhunter_eaglesbite.jpg"
+  },
+  {
+    "TagId": 428671,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack",
+      "[DNT] Void Zone - Creature Control - Aura - Disable Autoattack"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 428672,
     "TagType": 26,
     "Names": [
@@ -9233,6 +9275,27 @@
       "涤荡旋流"
     ],
     "Media": "ability_mage_waterjet.jpg"
+  },
+  {
+    "TagId": 428679,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slash",
+      "Tajo",
+      "Talho",
+      "Slash",
+      "Tajo",
+      "Entaille",
+      "Удар сплеча",
+      "Schlitzen",
+      "Talho",
+      "Taglio",
+      "베기",
+      "斬擊",
+      "挥砍"
+    ],
+    "Media": "ability_rogue_ambush.jpg"
   },
   {
     "TagId": 428680,
@@ -9359,6 +9422,27 @@
       "中毒"
     ],
     "Media": "spell_nature_nullifypoison.jpg"
+  },
+  {
+    "TagId": 428689,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flame Drop",
+      "Gota de llama",
+      "Respingo de Chama",
+      "Flame Drop",
+      "Soltar llama",
+      "Largage de flammes",
+      "Огненное падение",
+      "Flammenbeute",
+      "Respingo de Chama",
+      "Goccia Fiammante",
+      "불꽃 낙하",
+      "落火",
+      "掷火"
+    ],
+    "Media": "inv_elemental_mote_fire01.jpg"
   },
   {
     "TagId": 428691,
@@ -10240,6 +10324,27 @@
       "[DNT] Explosion",
       "[DNT] Explosion"
     ]
+  },
+  {
+    "TagId": 428775,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crash Down",
+      "Aterrizaje forzado",
+      "Queda",
+      "Crash Down",
+      "Estrellarse",
+      "Impact",
+      "Сокрушительное падение",
+      "Einschlag",
+      "Queda",
+      "Schianto",
+      "내리찍기",
+      "向下撞擊",
+      "毁灭坠击"
+    ],
+    "Media": "ability_hanzandfranz_bodyslam.jpg"
   },
   {
     "TagId": 428780,

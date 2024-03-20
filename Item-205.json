@@ -5307,7 +5307,7 @@
       "Óculos de Malha do Combatente Obsidiano",
       "Occhiali di Maglia del Combattente d'Ossidiana",
       "흑요석 전투원의 사슬 고글",
-      "黑曜戰鬥者的鍊甲護目鏡",
+      "黑曜戰鬥者的鎖甲護目鏡",
       "黑曜争斗者的锁甲护目镜"
     ],
     "Media": "inv_helm_armor_engineering_b_02_gnome.jpg"
@@ -5391,7 +5391,7 @@
       "Diagrama: Óculos de Malha do Combatente Obsidiano",
       "Schema: Occhiali di Maglia del Combattente d'Ossidiana",
       "설계도: 흑요석 전투원의 사슬 고글",
-      "結構圖：黑曜戰鬥者的鍊甲護目鏡",
+      "結構圖：黑曜戰鬥者的鎖甲護目鏡",
       "结构图：黑曜争斗者的锁甲护目镜"
     ],
     "Media": "inv_misc_scrollrolled03b.jpg"
@@ -6494,7 +6494,7 @@
     "Names": [
       null,
       "Formula: Enchanted Whelpling's Shadowflame Crest",
-      "Fórmula: Cresta de llama de las sombras de vástago encantado",
+      "Fórmula: Emblema de llama de las sombras de vástago encantado",
       "Fórmula: Brasão da Chama Sombria do Dragonetinho Encantado",
       "Formula: Enchanted Whelpling's Shadowflame Crest",
       "Fórmula: blasón de llama de las Sombras de vástago encantado",
@@ -6515,7 +6515,7 @@
     "Names": [
       null,
       "Formula: Enchanted Wyrm's Shadowflame Crest",
-      "Fórmula: Cresta de llama de las sombras de vermis encantado",
+      "Fórmula: Emblema de llama de las sombras de vermis encantado",
       "Fórmula: Brasão da Chama Sombria da Serpe Encantado",
       "Formula: Enchanted Wyrm's Shadowflame Crest",
       "Fórmula: blasón de llama de las Sombras de vermis encantado",
@@ -6536,7 +6536,7 @@
     "Names": [
       null,
       "Formula: Enchanted Aspect's Shadowflame Crest",
-      "Fórmula: Cresta de llama de las sombras de Aspecto encantado",
+      "Fórmula: Emblema de llama de las sombras de Aspecto encantado",
       "Fórmula: Brasão da Chama Sombria do Aspecto Encantado",
       "Formula: Enchanted Aspect's Shadowflame Crest",
       "Fórmula: blasón de llama de las Sombras de Aspecto encantado",
@@ -13734,6 +13734,27 @@
     "Media": "inv_mushroom_09.jpg"
   },
   {
+    "TagId": 205694,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "xp_icon.jpg"
+  },
+  {
     "TagId": 205695,
     "TagType": 21,
     "Names": [
@@ -14085,7 +14106,7 @@
       "Signo de Adaptação do Gladiador Obsidiano",
       "Sigillo dell'Adattamento del Gladiatore d'Ossidiana",
       "흑요석 검투사의 적응 인장",
-      "黑曜鬥士的適者生存符印",
+      "黑曜鬥士適應徽章",
       "黑曜角斗士的适应魔印"
     ],
     "Media": "sha_ability_rogue_sturdyrecuperate.jpg"
@@ -15534,7 +15555,7 @@
       "Signo de Adaptação do Aspirante Obsidiano",
       "Sigillo dell'Adattamento del Pretendente d'Ossidiana",
       "흑요석 지원자의 적응 인장",
-      "黑曜志士適者生存符印",
+      "黑曜志士適應徽章",
       "黑曜候选者的适应魔印"
     ],
     "Media": "sha_ability_rogue_sturdyrecuperate.jpg"

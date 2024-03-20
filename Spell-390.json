@@ -1,5 +1,26 @@
 [
   {
+    "TagId": 390000,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Motorcycle",
+      "Motocicleta",
+      "Motocicleta",
+      "Motorcycle",
+      "Motocicleta",
+      "Moto",
+      "Мотоцикл",
+      "Motorrad",
+      "Motocicleta",
+      "Motocicletta",
+      "오토바이",
+      "摩托車",
+      "摩托车"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
     "TagId": 390001,
     "TagType": 26,
     "Names": [
@@ -1974,6 +1995,26 @@
     "Media": "inv_glaive_1h_artifactaldrochi_d_03dual.jpg"
   },
   {
+    "TagId": 390156,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mole Machine",
+      "Máquina topo",
+      "Máquina Toupeira",
+      "Mole Machine",
+      "Máquina topo",
+      "Taupe mécanique",
+      "Буровая установка",
+      "Maulwurfmaschine",
+      "Máquina Toupeira",
+      "Trivella",
+      "굴착기",
+      "鑽地機",
+      "钻探机"
+    ]
+  },
+  {
     "TagId": 390157,
     "TagType": 26,
     "Names": [
@@ -2035,6 +2076,27 @@
       "火山喷发"
     ],
     "Media": "spell_fire_volcano.jpg"
+  },
+  {
+    "TagId": 390160,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warmth",
+      "Calor",
+      "Calor",
+      "Warmth",
+      "Calidez",
+      "Chaleur",
+      "Тепло",
+      "Wärme",
+      "Calor",
+      "Calore",
+      "온기",
+      "溫暖",
+      "暖愈"
+    ],
+    "Media": "inv_elemental_mote_fire01.jpg"
   },
   {
     "TagId": 390161,
@@ -4577,6 +4639,27 @@
     "Media": "ability_skyreach_wind_wall.jpg"
   },
   {
+    "TagId": 390289,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Generator",
+      "Generador de escudo",
+      "Gerador de Escudo",
+      "Shield Generator",
+      "Generador de escudo",
+      "Générateur de bouclier",
+      "Генератор защитного поля",
+      "Schildgenerator",
+      "Gerador de Escudo",
+      "Generatore dello Scudo",
+      "보호막 생성기",
+      "護盾產生器",
+      "护盾发生器"
+    ],
+    "Media": "ability_vehicle_shellshieldgenerator.jpg"
+  },
+  {
     "TagId": 390290,
     "TagType": 26,
     "Names": [
@@ -5396,6 +5479,48 @@
     "Media": "inv_10_elementalcombinedfoozles_fire.jpg"
   },
   {
+    "TagId": 390343,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flame Cannon",
+      "Cañón de llamas",
+      "Canhão de Chamas",
+      "Flame Cannon",
+      "Cañón de llamas",
+      "Canon lance-flammes",
+      "Пламенная пушка",
+      "Flammenkanone",
+      "Canhão de Chamas",
+      "Cannone delle Fiamme",
+      "화염포",
+      "烈焰火砲",
+      "烈焰火炮"
+    ],
+    "Media": "ability_mage_firestarter.jpg"
+  },
+  {
+    "TagId": 390344,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flame Cannon",
+      "Cañón de llamas",
+      "Canhão de Chamas",
+      "Flame Cannon",
+      "Cañón de llamas",
+      "Canon lance-flammes",
+      "Пламенная пушка",
+      "Flammenkanone",
+      "Canhão de Chamas",
+      "Cannone delle Fiamme",
+      "화염포",
+      "烈焰火砲",
+      "烈焰火炮"
+    ],
+    "Media": "ability_mage_firestarter.jpg"
+  },
+  {
     "TagId": 390345,
     "TagType": 26,
     "Names": [
@@ -5478,6 +5603,27 @@
       "大地之祈"
     ],
     "Media": "inv_10_elementalcombinedfoozles_earth.jpg"
+  },
+  {
+    "TagId": 390349,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crankshot Blaster",
+      "Artificiero Manivela",
+      "Detonador do Manitiro",
+      "Crankshot Blaster",
+      "Metrallenivela acribilladora",
+      "Mitrailleur de Tirlevier",
+      "Пушка Кривошпура",
+      "Kurbelknallblaster",
+      "Detonador do Manitiro",
+      "Fucile di Raschiacolpi",
+      "크랭크샷 파괴포",
+      "擊軸衝擊火炮",
+      "轴枪冲击炮"
+    ],
+    "Media": "inv_weapon_rifle_16.jpg"
   },
   {
     "TagId": 390350,
@@ -5774,6 +5920,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 390366,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rocket Blast",
+      "Explosión de cohetes",
+      "Impacto do Foguete",
+      "Rocket Blast",
+      "Explosión de cohetes",
+      "Ignition",
+      "Выстрел ракетой",
+      "Raketenschlag",
+      "Impacto do Foguete",
+      "Lancio Razzo",
+      "폭탄 로켓",
+      "火箭噴射",
+      "火箭爆炸"
+    ],
+    "Media": "inv_weapon_rifle_16.jpg"
+  },
+  {
     "TagId": 390369,
     "TagType": 26,
     "Names": [
@@ -5919,6 +6086,27 @@
       "Placeholder Talent"
     ],
     "Media": "garrison_building_workshop.jpg"
+  },
+  {
+    "TagId": 390377,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rocket Blast",
+      "Explosión de cohetes",
+      "Impacto do Foguete",
+      "Rocket Blast",
+      "Explosión de cohetes",
+      "Ignition",
+      "Выстрел ракетой",
+      "Raketenschlag",
+      "Impacto do Foguete",
+      "Lancio Razzo",
+      "폭탄 로켓",
+      "火箭噴射",
+      "火箭爆炸"
+    ],
+    "Media": "inv_weapon_rifle_16.jpg"
   },
   {
     "TagId": 390378,
@@ -6866,6 +7054,27 @@
     "Media": "spell_frost_icestorm.jpg"
   },
   {
+    "TagId": 390434,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Self Destruct",
+      "Autodestrucción",
+      "Autodestruição",
+      "Self Destruct",
+      "Autodestrucción",
+      "Autodestruction",
+      "Самоуничтожение",
+      "Selbstzerstörung",
+      "Autodestruição",
+      "Autodistruzione",
+      "자폭",
+      "自毀",
+      "自毁"
+    ],
+    "Media": "spell_fire_selfdestruct.jpg"
+  },
+  {
     "TagId": 390435,
     "TagType": 26,
     "Names": [
@@ -6929,6 +7138,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 390442,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Explosion",
+      "Explosión",
+      "Explosão",
+      "Explosion",
+      "Deflagración",
+      "Explosion",
+      "Взрыв",
+      "Explosion",
+      "Explosão",
+      "Esplosione",
+      "폭발",
+      "爆炸",
+      "爆炸"
+    ],
+    "Media": "spell_fire_selfdestruct.jpg"
+  },
+  {
+    "TagId": 390443,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Destroyed",
+      "Destruido",
+      "Destruído",
+      "Destroyed",
+      "Destruido",
+      "Détruit",
+      "Уничтожение",
+      "Zerstört",
+      "Destruído",
+      "Distrutto",
+      "파괴됨",
+      "摧毀",
+      "被摧毁"
+    ],
+    "Media": "inv_gizmo_supersappercharge.jpg"
+  },
+  {
     "TagId": 390444,
     "TagType": 26,
     "Names": [
@@ -6969,6 +7220,27 @@
       "开始迷离谷第2阶段任务"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 390446,
+    "TagType": 26,
+    "Names": [
+      null,
+      "New friend",
+      "Nuevo amigo",
+      "Amigo novo",
+      "New friend",
+      "Nuevo amigo",
+      "Nouvel ami",
+      "Новый друг",
+      "Neuer Freund",
+      "Amigo novo",
+      "Nuovo Amico",
+      "새로운 친구",
+      "新朋友",
+      "新朋友"
+    ],
+    "Media": "inv_pet_babymurlocs_white.jpg"
   },
   {
     "TagId": 390447,
@@ -8462,6 +8734,27 @@
     "Media": "ability_socererking_arcanewrath.jpg"
   },
   {
+    "TagId": 390523,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hammer of Retribution",
+      "Martillo de reprensión",
+      "Martelo da Retaliação",
+      "Hammer of Retribution",
+      "Martillo de reprensión",
+      "Marteau de vindicte",
+      "Молот воздаяния",
+      "Hammer der Vergeltung",
+      "Martelo da Retaliação",
+      "Martello del Castigo",
+      "응보의 망치",
+      "懲戒之錘",
+      "惩戒之锤"
+    ],
+    "Media": "spell_paladin_lightshammer.jpg"
+  },
+  {
     "TagId": 390524,
     "TagType": 26,
     "Names": [
@@ -9533,6 +9826,27 @@
     "Media": "ability_skyreach_wind.jpg"
   },
   {
+    "TagId": 390578,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Landmine Explosion",
+      "Explosión de mina terrestre",
+      "Explosão de Mina Terrestre",
+      "Landmine Explosion",
+      "Explosión de mina terrestre",
+      "Explosion de mine",
+      "Взрыв мины",
+      "Tretminenexplosion",
+      "Explosão de Mina Terrestre",
+      "Esplosione Mina",
+      "지뢰 폭발",
+      "地雷爆炸",
+      "地雷爆炸"
+    ],
+    "Media": "ability_racial_rocketjump.jpg"
+  },
+  {
     "TagId": 390579,
     "TagType": 26,
     "Names": [
@@ -9552,6 +9866,27 @@
       "原始火花"
     ],
     "Media": "inv_10_elementalcombinedfoozles_primordial.jpg"
+  },
+  {
+    "TagId": 390580,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Goblin Landmine",
+      "Mina terrestre goblin",
+      "Mina Goblínica",
+      "Goblin Landmine",
+      "Mina terrestre goblin",
+      "Mine gobeline",
+      "Гоблинская противопехотная мина",
+      "Goblintretmine",
+      "Mina Goblínica",
+      "Mina dei Goblin",
+      "고블린 지뢰",
+      "哥布林地雷",
+      "地精暗雷"
+    ],
+    "Media": "ability_blackhand_slagbombs.jpg"
   },
   {
     "TagId": 390581,
@@ -17612,21 +17947,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Harmonious Apparatus",
-      "Aparato armonioso",
-      "Aparato Harmonioso",
-      "Harmonious Apparatus",
-      "Aparato armonioso",
-      "Appareil harmonieux",
-      "Аппарат гармонии",
-      "Harmonischer Apparat",
-      "Aparato Harmonioso",
-      "Apparato Armonioso",
-      "조화의 장치",
-      "和諧器械",
-      "谐律装置"
+      "Voice of Harmony",
+      "Voz de armonía",
+      "Voz da Harmonia",
+      "Voice of Harmony",
+      "Voz de la armonía",
+      "Voix d’harmonie",
+      "Голос гармонии",
+      "Stimme der Harmonie",
+      "Voz da Harmonia",
+      "Voce dell'Armonia",
+      "조화의 목소리",
+      "和諧之聲",
+      "和谐之声"
     ],
-    "Media": "spell_holy_serendipity.jpg"
+    "Media": "ability_priest_heavanlyvoice.jpg"
   },
   {
     "TagId": 390995,

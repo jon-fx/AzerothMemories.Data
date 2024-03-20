@@ -8013,6 +8013,27 @@
     "Media": "spell_nature_earthquake.jpg"
   },
   {
+    "TagId": 381612,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Despawn Loot Objects",
+      "Desaparición de objetivos de botín",
+      "Sumir com Objetos de Saque",
+      "Despawn Loot Objects",
+      "Desaparición de objetos de botín",
+      "Disparition des objets de butin",
+      "Исчезновение объектов добычи",
+      "Plünderobjekte verschwinden lassen",
+      "Sumir com Objetos de Saque",
+      "Sparizione Oggetti Bottino",
+      "전리품 물체 소환 해제",
+      "消除戰利品物件",
+      "拾取物件消失"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 381613,
     "TagType": 26,
     "Names": [
@@ -8074,6 +8095,48 @@
       "静电充能"
     ],
     "Media": "spell_shaman_staticshock.jpg"
+  },
+  {
+    "TagId": 381616,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Illidari Warglaive",
+      "Guja de guerra illidari",
+      "Glaive de Guerra Illidari",
+      "Illidari Warglaive",
+      "Guja de guerra Illidari",
+      "Glaive de guerre illidari",
+      "Боевые клинки иллидари",
+      "Kriegsgleve der Illidari",
+      "Glaive de Guerra Illidari",
+      "Lame da Guerra degli Illidari",
+      "일리다리 전투검",
+      "伊利達瑞戰刃",
+      "伊利达雷战刃"
+    ],
+    "Media": "ability_demonhunter_chaosstrike.jpg"
+  },
+  {
+    "TagId": 381618,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warglaives of Azzinoth",
+      "Gujas de guerra de Azzinoth",
+      "Glaives de Guerra de Azzinoth",
+      "Warglaives of Azzinoth",
+      "Gujas de guerra de Azzinoth",
+      "Glaives de guerre d’Azzinoth",
+      "Боевые клинки Аззинота",
+      "Kriegsgleven von Azzinoth",
+      "Glaives de Guerra de Azzinoth",
+      "Lame da Guerra di Azzinoth",
+      "아지노스의 쌍날검",
+      "埃辛諾斯戰刃",
+      "埃辛诺斯战刃"
+    ],
+    "Media": "inv_weapon_glave_01.jpg"
   },
   {
     "TagId": 381619,
@@ -9248,6 +9311,27 @@
       "독액",
       "毒液噴吐",
       "毒液喷吐"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 381677,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Air Drop",
+      "Incursión aérea",
+      "Reforço Aéreo",
+      "Air Drop",
+      "Entrega aérea",
+      "Largage aérien",
+      "Сброс груза",
+      "Fallschirmabwurf",
+      "Reforço Aéreo",
+      "Rifornimento Aereo",
+      "공중 투하",
+      "空投",
+      "空投"
     ],
     "Media": "trade_engineering.jpg"
   },

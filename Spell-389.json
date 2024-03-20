@@ -4825,6 +4825,27 @@
     "Media": "inv_axe_35.jpg"
   },
   {
+    "TagId": 389246,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mirror Name",
+      "Nombre de espejo",
+      "Espelhar Nome",
+      "Mirror Name",
+      "Nombre de espejo",
+      "Reflet du nom",
+      "Зеркальное имя",
+      "Namen spiegeln",
+      "Espelhar Nome",
+      "Nome Speculare",
+      "이름 복제",
+      "鏡像名稱",
+      "镜像名称"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 389247,
     "TagType": 26,
     "Names": [
@@ -5618,6 +5639,27 @@
       "冰川风暴"
     ],
     "Media": "spell_frost_icestorm.jpg"
+  },
+  {
+    "TagId": 389290,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mechano-Hog Keys",
+      "Llaves de meca-jarly",
+      "Chaves de Mecanotoca",
+      "Mechano-Hog Keys",
+      "Llaves de meca-jarly",
+      "Clés de mécabécane",
+      "Ключи от механоцикла",
+      "Feuerstuhlschlüssel",
+      "Chaves de Mecanotoca",
+      "Chiavi della Meccanomoto",
+      "호토바이 열쇠",
+      "機械重機車鑰匙",
+      "机械路霸的钥匙"
+    ],
+    "Media": "inv_misc_key_06.jpg"
   },
   {
     "TagId": 389292,
@@ -9141,7 +9183,7 @@
       "Wutentbranntes Serevitvorkommen",
       "Depósito de Serevita em Fúria",
       "Deposito Impetuoso di Serevite",
-      "핏빛 세레바이트 광맥",
+      "분노의 세레바이트 광맥",
       "忿怒賽若拜岩礦床",
       "震怒宁铁矿脉"
     ],
@@ -10807,6 +10849,27 @@
     "Media": "spell_shaman_staticshock.jpg"
   },
   {
+    "TagId": 389545,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal",
+      "Portal",
+      "Portal",
+      "Portal",
+      "Portal",
+      "Portail",
+      "Портал",
+      "Portal",
+      "Portal",
+      "Portale",
+      "차원문",
+      "傳送門",
+      "传送门"
+    ],
+    "Media": "spell_arcane_teleportdalaran.jpg"
+  },
+  {
     "TagId": 389546,
     "TagType": 26,
     "Names": [
@@ -11540,6 +11603,27 @@
       "深度冻结"
     ],
     "Media": "spell_fire_blueflamebreath.jpg"
+  },
+  {
+    "TagId": 389588,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Portal",
+      "Invocar portal",
+      "Evocar Portal",
+      "Summon Portal",
+      "Invocar portal",
+      "Invocation de portail",
+      "Открытие портала",
+      "Portal beschwören",
+      "Evocar Portal",
+      "Evocazione: Portale",
+      "차원문 소환",
+      "召喚傳送門",
+      "召唤传送门"
+    ],
+    "Media": "spell_warlock_demonicportal_purple.jpg"
   },
   {
     "TagId": 389589,
@@ -12780,6 +12864,27 @@
     "Media": "ability_warrior_bloodfrenzy.jpg"
   },
   {
+    "TagId": 389652,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowrush",
+      "Arremetida sombría",
+      "Ímpeto Sombrio",
+      "Shadowrush",
+      "Carga sombría",
+      "Ruée de l’ombre",
+      "Теневой рывок",
+      "Schattenansturm",
+      "Ímpeto Sombrio",
+      "Scatto d'Ombra",
+      "그림자 질주",
+      "暗影衝刺",
+      "暗影疾奔"
+    ],
+    "Media": "ability_rogue_shadowstep.jpg"
+  },
+  {
     "TagId": 389654,
     "TagType": 26,
     "Names": [
@@ -12799,6 +12904,27 @@
       "驯兽大师"
     ],
     "Media": "ability_hunter_beastwithin.jpg"
+  },
+  {
+    "TagId": 389655,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowrush",
+      "Arremetida sombría",
+      "Ímpeto Sombrio",
+      "Shadowrush",
+      "Carga sombría",
+      "Ruée de l’ombre",
+      "Теневой рывок",
+      "Schattenansturm",
+      "Ímpeto Sombrio",
+      "Scatto d'Ombra",
+      "그림자 질주",
+      "暗影衝刺",
+      "暗影疾奔"
+    ],
+    "Media": "ability_demonhunter_felrush.jpg"
   },
   {
     "TagId": 389656,
@@ -12862,6 +12988,27 @@
       "Summon Bubbled Duckling 4 [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 389659,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fel Rush",
+      "Acometida vil",
+      "Impulso Vil",
+      "Fel Rush",
+      "Carga vil",
+      "Ruée fulgurante",
+      "Рывок Скверны",
+      "Teufelsrausch",
+      "Impulso Vil",
+      "Vilscatto",
+      "지옥 돌진",
+      "魔化衝刺",
+      "邪能冲撞"
+    ],
+    "Media": "ability_demonhunter_felrush.jpg"
   },
   {
     "TagId": 389660,
@@ -12969,6 +13116,48 @@
     "Media": "ui_majorfaction_expedition.jpg"
   },
   {
+    "TagId": 389665,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corrupted Missiles",
+      "Misiles corruptos",
+      "Mísseis Corrompidos",
+      "Corrupted Missiles",
+      "Misiles corrompidos",
+      "Projectiles corrompus",
+      "Снаряды порчи",
+      "Verderbte Geschosse",
+      "Mísseis Corrompidos",
+      "Missili Corrotti",
+      "오염된 투사체",
+      "腐化飛彈",
+      "腐化飞弹"
+    ],
+    "Media": "spell_shadow_deathcoil.jpg"
+  },
+  {
+    "TagId": 389666,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corrupted Missiles",
+      "Misiles corruptos",
+      "Mísseis Corrompidos",
+      "Corrupted Missiles",
+      "Misiles corrompidos",
+      "Projectiles corrompus",
+      "Снаряды порчи",
+      "Verderbte Geschosse",
+      "Mísseis Corrompidos",
+      "Missili Corrotti",
+      "오염된 투사체",
+      "腐化飛彈",
+      "腐化飞弹"
+    ],
+    "Media": "spell_shadow_deathcoil.jpg"
+  },
+  {
     "TagId": 389667,
     "TagType": 26,
     "Names": [
@@ -13053,6 +13242,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 389671,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corrupted Coil",
+      "Espiral corrupta",
+      "Espiral Corrompida",
+      "Corrupted Coil",
+      "Espiral corrupta",
+      "Anneaux corrompus",
+      "Виток порчи",
+      "Verderbnismantel",
+      "Espiral Corrompida",
+      "Spira Corrotta",
+      "타락한 감줄",
+      "腐化纏繞",
+      "腐化缠绕"
+    ],
+    "Media": "spell_shadow_deathcoil.jpg"
+  },
+  {
     "TagId": 389672,
     "TagType": 26,
     "Names": [
@@ -13072,6 +13282,48 @@
       "无友可依"
     ],
     "Media": "spell_misc_emotionsad.jpg"
+  },
+  {
+    "TagId": 389675,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bouncing Bolt",
+      "Descarga frenética",
+      "Seta Propagante",
+      "Bouncing Bolt",
+      "Descarga frenética",
+      "Éclair bondissant",
+      "Блуждающий разряд",
+      "Sprungblitz",
+      "Seta Propagante",
+      "Dardo Rimbalzante",
+      "튀어오르는 화살",
+      "彈跳閃電",
+      "弹跳闪电"
+    ],
+    "Media": "spell_nature_stormreach.jpg"
+  },
+  {
+    "TagId": 389678,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bouncing Bolt",
+      "Descarga frenética",
+      "Seta Propagante",
+      "Bouncing Bolt",
+      "Descarga frenética",
+      "Éclair bondissant",
+      "Блуждающий разряд",
+      "Sprungblitz",
+      "Seta Propagante",
+      "Dardo Rimbalzante",
+      "튀어오르는 화살",
+      "彈跳閃電",
+      "弹跳闪电"
+    ],
+    "Media": "spell_nature_stormreach.jpg"
   },
   {
     "TagId": 389679,
@@ -14543,6 +14795,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 389757,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Strength of Arms",
+      "Fuerza de armas",
+      "Braços Fortes",
+      "Strength of Arms",
+      "Fuerza de las armas",
+      "Force des armes",
+      "Сила оружия",
+      "Starker Waffenarm",
+      "Braços Fortes",
+      "Forza delle Armi",
+      "강력한 무기",
+      "武裝戰力",
+      "神兵之力"
+    ],
+    "Media": "ability_warrior_strengthofarms.jpg"
+  },
+  {
     "TagId": 389758,
     "TagType": 26,
     "Names": [
@@ -15340,6 +15613,27 @@
     "Media": "spell_nature_astralrecalgroup.jpg"
   },
   {
+    "TagId": 389798,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mole Machine",
+      "Máquina topo",
+      "Máquina Toupeira",
+      "Mole Machine",
+      "Máquina topo",
+      "Taupe mécanique",
+      "Буровая установка",
+      "Maulwurfmaschine",
+      "Máquina Toupeira",
+      "Trivella",
+      "굴착기",
+      "鑽地機",
+      "钻探机"
+    ],
+    "Media": "spell_arcane_teleportdalaran.jpg"
+  },
+  {
     "TagId": 389799,
     "TagType": 26,
     "Names": [
@@ -16029,6 +16323,27 @@
       "10.0 Dragonriding - Lithragosa Enable Passengers",
       "10.0 Dragonriding - Lithragosa Enable Passengers",
       "10.0 Dragonriding - Lithragosa Enable Passengers"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 389835,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mole Machine",
+      "Máquina topo",
+      "Máquina Toupeira",
+      "Mole Machine",
+      "Máquina topo",
+      "Taupe mécanique",
+      "Буровая установка",
+      "Maulwurfmaschine",
+      "Máquina Toupeira",
+      "Trivella",
+      "굴착기",
+      "鑽地機",
+      "钻探机"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -18423,6 +18738,27 @@
       "[DNT] Summon Magic Broom"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 389991,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Knowledge and Power",
+      "Conocimiento y poder",
+      "Conhecimento e Poder",
+      "Knowledge and Power",
+      "Conocimiento y poder",
+      "Savoir et pouvoir",
+      "Знание и сила",
+      "Wissen und Macht",
+      "Conhecimento e Poder",
+      "Conoscenza e Potere",
+      "지식과 힘",
+      "知識與力量",
+      "知识与力量"
+    ],
+    "Media": "spell_mage_overpowered.jpg"
   },
   {
     "TagId": 389992,

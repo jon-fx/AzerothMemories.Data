@@ -210,6 +210,27 @@
     "Media": "spell_mage_altertime.jpg"
   },
   {
+    "TagId": 395014,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanguard Sword",
+      "Espada de vanguardia",
+      "Espada de Vanguarda",
+      "Vanguard Sword",
+      "Espada de vanguardia",
+      "Épée de l’avant-garde",
+      "Авангардный меч",
+      "Schwert des Vorpostens",
+      "Espada de Vanguarda",
+      "Spada dell'Avanguardia",
+      "선봉대 검",
+      "先鋒利劍",
+      "先锋利剑"
+    ],
+    "Media": "inv_sword_1h_newplayer_a_03.jpg"
+  },
+  {
     "TagId": 395015,
     "TagType": 26,
     "Names": [
@@ -294,6 +315,27 @@
     "Media": "ability_warlock_demonicpower.jpg"
   },
   {
+    "TagId": 395021,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poke",
+      "Golpecito",
+      "Cutucar",
+      "Poke",
+      "Toquecito",
+      "Titiller",
+      "Тычок",
+      "Pieken",
+      "Cutucar",
+      "Pacca",
+      "쿡쿡 찌르기",
+      "戳刺",
+      "戳刺"
+    ],
+    "Media": "inv_sword_1h_newplayer_a_03.jpg"
+  },
+  {
     "TagId": 395022,
     "TagType": 26,
     "Names": [
@@ -376,6 +418,69 @@
       "时光洪流"
     ],
     "Media": "spell_holy_borrowedtime.jpg"
+  },
+  {
+    "TagId": 395026,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Combo",
+      "Combo",
+      "Combo",
+      "Combo",
+      "Combo",
+      "Combo",
+      "Прием",
+      "Combo",
+      "Combo",
+      "Combo",
+      "연계",
+      "連續攻擊",
+      "连击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 395027,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_butcher_whirl.jpg"
+  },
+  {
+    "TagId": 395028,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slash",
+      "Tajo",
+      "Talho",
+      "Slash",
+      "Tajo",
+      "Entaille",
+      "Удар сплеча",
+      "Schlitzen",
+      "Talho",
+      "Taglio",
+      "베기",
+      "斬擊",
+      "挥砍"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
   },
   {
     "TagId": 395029,
@@ -1050,6 +1155,27 @@
     "Media": "ability_evoker_bronze_01.jpg"
   },
   {
+    "TagId": 395063,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hitstop",
+      "Freno de golpe",
+      "Parada ao Acertar",
+      "Hitstop",
+      "Parálisis por impacto",
+      "Fin des frappes",
+      "Пауза при ударе",
+      "Trefferstopp",
+      "Parada ao Acertar",
+      "Fine",
+      "적중 중단",
+      "攻擊攔截",
+      "硬直"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 395064,
     "TagType": 26,
     "Names": [
@@ -1279,6 +1405,48 @@
     "Media": "inv_misc_trinket6oih_lanterna1.jpg"
   },
   {
+    "TagId": 395076,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Spikes",
+      "Azote de escudo",
+      "Espigões de Escudo",
+      "Shield Spikes",
+      "Puntas de escudo",
+      "Pointes de bouclier",
+      "Шипы для щита",
+      "Schildstacheln",
+      "Espigões de Escudo",
+      "Chiodature per Scudo",
+      "방패 쐐기",
+      "盾刺",
+      "盾刺"
+    ],
+    "Media": "inv_titanium_shield_spike.jpg"
+  },
+  {
+    "TagId": 395077,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Spikes",
+      "Azote de escudo",
+      "Espigões de Escudo",
+      "Shield Spikes",
+      "Puntas de escudo",
+      "Pointes de bouclier",
+      "Шипы для щита",
+      "Schildstacheln",
+      "Espigões de Escudo",
+      "Chiodature per Scudo",
+      "방패 쐐기",
+      "盾刺",
+      "盾刺"
+    ],
+    "Media": "inv_titanium_shield_spike.jpg"
+  },
+  {
     "TagId": 395078,
     "TagType": 26,
     "Names": [
@@ -1340,6 +1508,27 @@
       "熔火喷吐"
     ],
     "Media": "spell_shadow_rainoffire.jpg"
+  },
+  {
+    "TagId": 395081,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recompense",
+      "Recompensa",
+      "Recompensa",
+      "Recompense",
+      "Recompensa",
+      "Récompense",
+      "Компенсация",
+      "Wiedergutmachung",
+      "Recompensa",
+      "Ricompensa",
+      "배상",
+      "回報",
+      "牺牲报偿"
+    ],
+    "Media": "ability_warrior_battleshout.jpg"
   },
   {
     "TagId": 395082,
@@ -1468,6 +1657,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 395093,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bulwark",
+      "Baluarte",
+      "Baluarte",
+      "Bulwark",
+      "Baluarte",
+      "Barricade",
+      "Бастион",
+      "Bollwerk",
+      "Baluarte",
+      "Barricata",
+      "보루",
+      "壁壘",
+      "壁垒"
+    ],
+    "Media": "ability_warrior_criticalblock.jpg"
+  },
+  {
     "TagId": 395094,
     "TagType": 26,
     "Names": [
@@ -1550,6 +1760,27 @@
       "等待失落的阿威罗"
     ],
     "Media": "inv_misc_fish_turtle_03.jpg"
+  },
+  {
+    "TagId": 395099,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bargain Hunter",
+      "Cazador de ofertas",
+      "Caçador de Barganha",
+      "Bargain Hunter",
+      "Cazagangas",
+      "Chasse aux prix",
+      "Охотник за скидками",
+      "Schnäppchenjäger",
+      "Caçador de Barganha",
+      "Cacciatore d'Affari",
+      "특가품 사냥꾼",
+      "交易獵人",
+      "优惠猎手"
+    ],
+    "Media": "inv_misc_herb_goldclover.jpg"
   },
   {
     "TagId": 395100,
@@ -1909,6 +2140,27 @@
     "Media": "ability_dragonriding_thrilloftheskies01.jpg"
   },
   {
+    "TagId": 395117,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanguard",
+      "Vanguardia",
+      "Vanguarda",
+      "Vanguard",
+      "Vanguardia",
+      "Avant-garde",
+      "Авангард",
+      "Frontkämpfer",
+      "Vanguarda",
+      "Avanguardia",
+      "선봉대",
+      "守禦先鋒",
+      "先锋"
+    ],
+    "Media": "ability_warrior_swordandboard.jpg"
+  },
+  {
     "TagId": 395118,
     "TagType": 26,
     "Names": [
@@ -2201,6 +2453,69 @@
       "暴君统治"
     ],
     "Media": "ability_bossdarkvindicator_auraofoppression.jpg"
+  },
+  {
+    "TagId": 395132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stomp",
+      "Pisotón",
+      "Pisão",
+      "Stomp",
+      "Pisotón",
+      "Piétinement",
+      "Топот",
+      "Stampfen",
+      "Pisão",
+      "Urto a Terra",
+      "발구르기",
+      "踐踏",
+      "践踏"
+    ],
+    "Media": "ability_smash.jpg"
+  },
+  {
+    "TagId": 395133,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stomp",
+      "Pisotón",
+      "Pisão",
+      "Stomp",
+      "Pisotón",
+      "Piétinement",
+      "Топот",
+      "Stampfen",
+      "Pisão",
+      "Urto a Terra",
+      "발구르기",
+      "踐踏",
+      "践踏"
+    ],
+    "Media": "ability_smash.jpg"
+  },
+  {
+    "TagId": 395134,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Persistence",
+      "Perseverancia",
+      "Persistência",
+      "Persistence",
+      "Perseverancia",
+      "Persévérance",
+      "Упорство",
+      "Hartnäckigkeit",
+      "Persistência",
+      "Persistenza",
+      "끈기",
+      "持之以恒",
+      "延绵不断"
+    ],
+    "Media": "ability_warrior_unrelentingassault.jpg"
   },
   {
     "TagId": 395138,
@@ -3064,6 +3379,48 @@
     "Media": "ui_majorfaction_expedition.jpg"
   },
   {
+    "TagId": 395182,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stalwart Defender",
+      "Defensa adepta",
+      "Defensor Impávido",
+      "Stalwart Defender",
+      "Defensor incondicional",
+      "Fidèle défenseur",
+      "Стойкий защитник",
+      "Tapferer Verteidiger",
+      "Defensor Impávido",
+      "Difensore Animoso",
+      "강인한 수호자",
+      "堅實防衛者",
+      "坚定防御者"
+    ],
+    "Media": "ability_warrior_defensivestance.jpg"
+  },
+  {
+    "TagId": 395183,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Abandon",
+      "Abandono temerario",
+      "Desenvoltura Arrojada",
+      "Reckless Abandon",
+      "Desenfreno temerario",
+      "Fougue téméraire",
+      "Безрассудный раж",
+      "Waghalsigkeit",
+      "Desenvoltura Arrojada",
+      "Abbandono Avventato",
+      "막무가내",
+      "盡情放縱",
+      "肆意放纵"
+    ],
+    "Media": "ability_warrior_rampage.jpg"
+  },
+  {
     "TagId": 395184,
     "TagType": 26,
     "Names": [
@@ -3547,6 +3904,27 @@
     "Media": "ui_majorfaction_valdrakken.jpg"
   },
   {
+    "TagId": 395212,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Bleeding",
+      "Sangrado temerario",
+      "Sangramento Imprudente",
+      "Reckless Bleeding",
+      "Hemorragia temeraria",
+      "Saignement téméraire",
+      "Безрассудное кровотечение",
+      "Tollkühne Blutung",
+      "Sangramento Imprudente",
+      "Sanguinamento Incauto",
+      "무모한 출혈",
+      "盡情流血",
+      "鲁莽流血"
+    ],
+    "Media": "inv_artifact_bloodoftheassassinated.jpg"
+  },
+  {
     "TagId": 395214,
     "TagType": 26,
     "Names": [
@@ -3692,6 +4070,27 @@
       "粉碎烈焰"
     ],
     "Media": "ability_mage_firestarter.jpg"
+  },
+  {
+    "TagId": 395223,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vendor Respawn",
+      "Reaparición de vendedor",
+      "Reaparecimento de Comerciante",
+      "Vendor Respawn",
+      "Reaparición de vendedor",
+      "Réapparition de vendeur",
+      "Возрождение продавца",
+      "Verkäufer erschaffen",
+      "Reaparecimento de Comerciante",
+      "Ricomparsa Mercante",
+      "상인 재생성",
+      "商人重生",
+      "商人刷新"
+    ],
+    "Media": "inv_misc_bomb_08.jpg"
   },
   {
     "TagId": 395224,
@@ -6065,6 +6464,27 @@
     "Media": "ability_hunter_traplauncher.jpg"
   },
   {
+    "TagId": 395362,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Salted Wounds",
+      "Heridas con sal",
+      "Feridas Salgadas",
+      "Salted Wounds",
+      "Heridas con sal",
+      "Blessures salées",
+      "Соль на раны",
+      "Gesalzene Wunden",
+      "Feridas Salgadas",
+      "Ferite Suppurate",
+      "상처에 소금 뿌리기",
+      "加鹽傷口",
+      "伤口浸盐"
+    ],
+    "Media": "ability_butcher_gushingwounds.jpg"
+  },
+  {
     "TagId": 395363,
     "TagType": 26,
     "Names": [
@@ -6084,6 +6504,27 @@
       "酸蚀喷发"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 395364,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Salted Wounds",
+      "Heridas con sal",
+      "Feridas Salgadas",
+      "Salted Wounds",
+      "Heridas con sal",
+      "Blessures salées",
+      "Соль на раны",
+      "Gesalzene Wunden",
+      "Feridas Salgadas",
+      "Ferite Suppurate",
+      "상처에 소금 뿌리기",
+      "加鹽傷口",
+      "伤口浸盐"
+    ],
+    "Media": "ability_butcher_gushingwounds.jpg"
   },
   {
     "TagId": 395365,
@@ -6149,6 +6590,27 @@
     "Media": "spell_shaman_staticshock.jpg"
   },
   {
+    "TagId": 395368,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeat Defender",
+      "Defensor de repetición",
+      "Repetir Defensor",
+      "Repeat Defender",
+      "Defensor constante",
+      "Défense répétée",
+      "Повторный защитник",
+      "Wiederholungsverteidiger",
+      "Repetir Defensor",
+      "Strenuo Difensore",
+      "반복되는 방어",
+      "重複防衛者",
+      "往复防御者"
+    ],
+    "Media": "ability_warrior_shieldwall.jpg"
+  },
+  {
     "TagId": 395369,
     "TagType": 26,
     "Names": [
@@ -6168,6 +6630,27 @@
       "Fishing Tool Equipped (DNT)"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 395370,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeat Defender",
+      "Defensor de repetición",
+      "Repetir Defensor",
+      "Repeat Defender",
+      "Defensor constante",
+      "Défense répétée",
+      "Повторный защитник",
+      "Wiederholungsverteidiger",
+      "Repetir Defensor",
+      "Strenuo Difensore",
+      "반복되는 방어",
+      "重複防衛者",
+      "往复防御者"
+    ],
+    "Media": "ability_warrior_shieldwall.jpg"
   },
   {
     "TagId": 395371,
@@ -7030,6 +7513,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 395416,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contact Medicine",
+      "Medicina de contacto",
+      "Remédio de Contato",
+      "Contact Medicine",
+      "Medicina de contacto",
+      "Remède de contact",
+      "Контактное лекарство",
+      "Kontaktmedizin",
+      "Remédio de Contato",
+      "Medicina di Contatto",
+      "접촉 치유",
+      "接觸醫療",
+      "接触医学"
+    ],
+    "Media": "ability_warrior_devastate.jpg"
+  },
+  {
     "TagId": 395421,
     "TagType": 26,
     "Names": [
@@ -7175,6 +7679,27 @@
       "燃烧咆哮"
     ],
     "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 395428,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contact Medicine",
+      "Medicina de contacto",
+      "Remédio de Contato",
+      "Contact Medicine",
+      "Medicina de contacto",
+      "Remède de contact",
+      "Контактное лекарство",
+      "Kontaktmedizin",
+      "Remédio de Contato",
+      "Medicina di Contatto",
+      "접촉 치유",
+      "接觸醫療",
+      "接触医学"
+    ],
+    "Media": "inv_holiday_tow_spicebandage.jpg"
   },
   {
     "TagId": 395430,
@@ -7555,6 +8080,27 @@
     "Media": "ability_druid_galewinds.jpg"
   },
   {
+    "TagId": 395452,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Interceptor",
+      "Interceptor",
+      "Interceptador",
+      "Interceptor",
+      "Interceptor",
+      "Intercepteur",
+      "Перехватчик",
+      "Abfänger",
+      "Interceptador",
+      "Intercettore",
+      "요격병",
+      "攔截者",
+      "拦截者"
+    ],
+    "Media": "ability_heroicleap.jpg"
+  },
+  {
     "TagId": 395453,
     "TagType": 26,
     "Names": [
@@ -7763,6 +8309,27 @@
       "升流冲击"
     ],
     "Media": "spell_druid_astralstorm.jpg"
+  },
+  {
+    "TagId": 395466,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Restraint",
+      "Restricción",
+      "Contido",
+      "Restraint",
+      "Control",
+      "Entrave",
+      "Сдерживание",
+      "Beeinträchtigt",
+      "Contido",
+      "Costrizione",
+      "절제",
+      "克制",
+      "钳制"
+    ],
+    "Media": "ability_shockwave.jpg"
   },
   {
     "TagId": 395467,
@@ -8057,6 +8624,27 @@
       "升流冲击"
     ],
     "Media": "spell_druid_astralstorm.jpg"
+  },
+  {
+    "TagId": 395482,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Restraint",
+      "Restricción",
+      "Contido",
+      "Restraint",
+      "Control",
+      "Entrave",
+      "Сдерживание",
+      "Beeinträchtigt",
+      "Contido",
+      "Costrizione",
+      "절제",
+      "克制",
+      "钳制"
+    ],
+    "Media": "ability_shockwave.jpg"
   },
   {
     "TagId": 395484,
@@ -8374,6 +8962,27 @@
     "Media": "petbattle_speed.jpg"
   },
   {
+    "TagId": 395499,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blender",
+      "Picadora",
+      "Processador",
+      "Blender",
+      "Trituradora",
+      "Mixeur",
+      "Измельчитель",
+      "Zerstückler",
+      "Processador",
+      "Frullatore",
+      "분쇄기",
+      "融入",
+      "搅刃"
+    ],
+    "Media": "ability_warrior_bladestorm.jpg"
+  },
+  {
     "TagId": 395500,
     "TagType": 26,
     "Names": [
@@ -8584,6 +9193,27 @@
     "Media": "spell_nature_lightningoverload.jpg"
   },
   {
+    "TagId": 395510,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Resonance",
+      "Resonancia",
+      "Ressonância",
+      "Resonance",
+      "Resonancia",
+      "Résonance",
+      "Резонанс",
+      "Resonanz",
+      "Ressonância",
+      "Risonanza",
+      "공명",
+      "共鳴",
+      "共振"
+    ],
+    "Media": "inv_misc_bell_01.jpg"
+  },
+  {
     "TagId": 395511,
     "TagType": 26,
     "Names": [
@@ -8603,6 +9233,27 @@
       "雷霆混沌"
     ],
     "Media": "spell_nature_lightningoverload.jpg"
+  },
+  {
+    "TagId": 395512,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Resonance",
+      "Resonancia",
+      "Ressonância",
+      "Resonance",
+      "Resonancia",
+      "Résonance",
+      "Резонанс",
+      "Resonanz",
+      "Ressonância",
+      "Risonanza",
+      "공명",
+      "共鳴",
+      "共振"
+    ],
+    "Media": "inv_misc_bell_01.jpg"
   },
   {
     "TagId": 395513,
@@ -12877,6 +13528,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 395724,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arclight Cannon",
+      "Cañón arcoluz",
+      "Canhão de Arco Voltaico",
+      "Arclight Cannon",
+      "Cañón arcoluz",
+      "Canon à arc-électrique",
+      "Пушка дугового света",
+      "Bogenlichtkanone",
+      "Canhão de Arco Voltaico",
+      "Cannone ad Arco",
+      "전깃불 대포",
+      "魔光火炮",
+      "弧光火炮"
+    ],
+    "Media": "inv_weapon_rifle_33.jpg"
+  },
+  {
     "TagId": 395725,
     "TagType": 26,
     "Names": [
@@ -12960,6 +13632,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 395729,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arclight Cannon",
+      "Cañón arcoluz",
+      "Canhão de Arco Voltaico",
+      "Arclight Cannon",
+      "Cañón arcoluz",
+      "Canon à arc-électrique",
+      "Пушка дугового света",
+      "Bogenlichtkanone",
+      "Canhão de Arco Voltaico",
+      "Cannone ad Arco",
+      "전깃불 대포",
+      "魔光火炮",
+      "弧光火炮"
+    ],
+    "Media": "spell_mage_flameorb_blue.jpg"
+  },
+  {
     "TagId": 395730,
     "TagType": 26,
     "Names": [
@@ -12979,6 +13672,69 @@
       "动荡闪现"
     ],
     "Media": "spell_arcane_blink.jpg"
+  },
+  {
+    "TagId": 395731,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 395732,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 395733,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 395734,
@@ -13254,6 +14010,27 @@
     "Media": "ability_ironmaidens_whirlofblood.jpg"
   },
   {
+    "TagId": 395748,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set",
+      "Anim Replacement Set"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 395749,
     "TagType": 26,
     "Names": [
@@ -13401,6 +14178,27 @@
     "Media": "inv_misc_food_164_fish_seadog.jpg"
   },
   {
+    "TagId": 395758,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattensperrfeuer",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
+  },
+  {
     "TagId": 395759,
     "TagType": 26,
     "Names": [
@@ -13441,6 +14239,27 @@
       "岩浆箭雨"
     ],
     "Media": "spell_fire_ragnaros_lavabolt.jpg"
+  },
+  {
+    "TagId": 395761,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattenbeschuss",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
   },
   {
     "TagId": 395762,
@@ -13546,6 +14365,68 @@
       "同意"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 395769,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tinker",
+      "Manitas",
+      "Criar",
+      "Tinker",
+      "Manitas",
+      "Bricoler",
+      "Механик",
+      "Tüfteln",
+      "Criar",
+      "Meccanista",
+      "땜질",
+      "技工",
+      "修补匠"
+    ],
+    "Media": "inv_engineering_815_uberspanner.jpg"
+  },
+  {
+    "TagId": 395770,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arclight Gear",
+      "Equipo arcoluz",
+      "Equipamentos de Arco Voltaico",
+      "Arclight Gear",
+      "Equipamiento de arcoluz",
+      "Clé plate",
+      "Тангенциальная шестеренка",
+      "Bogenlichtausrüstung",
+      "Equipamentos de Arco Voltaico",
+      "Ingranaggio ad Arco",
+      "전깃불 톱니바퀴",
+      "魔光齒輪",
+      "弧光装备"
+    ]
+  },
+  {
+    "TagId": 395771,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gravity Well",
+      "Pozo de gravedad",
+      "Poço Gravitacional",
+      "Gravity Well",
+      "Pozo de gravedad",
+      "Puits de gravité",
+      "Гравитационный колодец",
+      "Gravitationsbrunnen",
+      "Poço Gravitacional",
+      "Pozzo Gravitazionale",
+      "중력 우물",
+      "重力井",
+      "重力井"
+    ],
+    "Media": "inv_misc_enggizmos_23.jpg"
   },
   {
     "TagId": 395772,
@@ -17515,6 +18396,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 395990,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arclight Spanner",
+      "Llave de tuerca arcoluz",
+      "Chave de Arco Voltaico",
+      "Arclight Spanner",
+      "Llave de tuerca arcoluz",
+      "Clé plate",
+      "Тангенциальный вращатель",
+      "Bogenlichtschraubenschlüssel",
+      "Chave de Arco Voltaico",
+      "Chiave ad Arco",
+      "만능 스패너",
+      "魔光扳手",
+      "弧光扳手"
+    ],
+    "Media": "inv_engineering_815_uberspanner.jpg"
+  },
+  {
     "TagId": 395991,
     "TagType": 26,
     "Names": [
@@ -17534,6 +18436,48 @@
       "奔流撞击"
     ],
     "Media": "spell_frost_summonwaterelemental.jpg"
+  },
+  {
+    "TagId": 395992,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Generator",
+      "Generador de escudo",
+      "Gerador de Escudo",
+      "Shield Generator",
+      "Generador de escudo",
+      "Générateur de bouclier",
+      "Генератор защитного поля",
+      "Schildgenerator",
+      "Gerador de Escudo",
+      "Generatore dello Scudo",
+      "보호막 생성기",
+      "護盾產生器",
+      "护盾发生器"
+    ],
+    "Media": "ability_vehicle_shellshieldgenerator.jpg"
+  },
+  {
+    "TagId": 395993,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Generator",
+      "Generador de escudo",
+      "Gerador de Escudo",
+      "Shield Generator",
+      "Generador de escudo",
+      "Générateur de bouclier",
+      "Генератор защитного поля",
+      "Schildgenerator",
+      "Gerador de Escudo",
+      "Generatore dello Scudo",
+      "보호막 생성기",
+      "護盾產生器",
+      "护盾发生器"
+    ],
+    "Media": "ability_vehicle_shellshieldgenerator.jpg"
   },
   {
     "TagId": 395995,

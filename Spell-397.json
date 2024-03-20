@@ -126,6 +126,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397007,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Honorless Target",
+      "Objetivo sin honor",
+      "Alvo Sem Honra",
+      "Honorless Target",
+      "Objetivo sin honor",
+      "Cible sans honneur",
+      "Беззащитная цель",
+      "Ehrenloses Ziel",
+      "Alvo Sem Honra",
+      "Bersaglio Disonorevole",
+      "명예 점수 없음",
+      "無榮譽目標",
+      "无荣誉目标"
+    ],
+    "Media": "spell_magic_lesserinvisibilty.jpg"
+  },
+  {
     "TagId": 397008,
     "TagType": 26,
     "Names": [
@@ -2717,6 +2738,27 @@
     "Media": "inv_checkered_flag.jpg"
   },
   {
+    "TagId": 397132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sleight of Hand",
+      "Prestidigitación",
+      "Mão Leve",
+      "Sleight of Hand",
+      "Prestidigitación",
+      "Tour de main",
+      "Ловкость рук",
+      "Fingerfertigkeit",
+      "Mão Leve",
+      "Gioco di Prestigio",
+      "날렵한 손재주",
+      "精妙手法",
+      "手法娴熟"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 397134,
     "TagType": 26,
     "Names": [
@@ -3011,6 +3053,27 @@
     "Media": "inv_checkered_flag.jpg"
   },
   {
+    "TagId": 397156,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
+  },
+  {
     "TagId": 397157,
     "TagType": 26,
     "Names": [
@@ -3133,6 +3196,27 @@
       "[DNT] Dirt Cloud Spell Visual",
       "[DNT] Dirt Cloud Spell Visual"
     ]
+  },
+  {
+    "TagId": 397163,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
   },
   {
     "TagId": 397164,
@@ -3406,6 +3490,27 @@
       "石笋爆裂"
     ],
     "Media": "ability_earthen_pillar.jpg"
+  },
+  {
+    "TagId": 397178,
+    "TagType": 26,
+    "Names": [
+      null,
+      "New friend",
+      "Nuevo amigo",
+      "Amigo novo",
+      "New friend",
+      "Nuevo amigo",
+      "Nouvelle amitié",
+      "Новый друг",
+      "Neuer Freund",
+      "Amigo novo",
+      "Nuovo Amico",
+      "새로운 친구",
+      "新朋友",
+      "新朋友"
+    ],
+    "Media": "inv_pet_babymurlocs_white.jpg"
   },
   {
     "TagId": 397179,
@@ -3828,6 +3933,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397207,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_fire_playingwithfire.jpg"
+  },
+  {
+    "TagId": 397208,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_fire_playingwithfire.jpg"
+  },
+  {
+    "TagId": 397209,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
     "TagId": 397210,
     "TagType": 26,
     "Names": [
@@ -4122,6 +4290,573 @@
     "Media": "spell_nature_earthquake.jpg"
   },
   {
+    "TagId": 397224,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Death Grip",
+      "Atracción letal",
+      "Garra da Morte",
+      "Death Grip",
+      "Atracción letal",
+      "Poigne de la mort",
+      "Хватка смерти",
+      "Todesgriff",
+      "Garra da Morte",
+      "Presa Mortale",
+      "죽음의 손아귀",
+      "死亡之握",
+      "死亡之握"
+    ],
+    "Media": "spell_deathknight_strangulate.jpg"
+  },
+  {
+    "TagId": 397225,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Death Grip",
+      "Atracción letal",
+      "Garra da Morte",
+      "Death Grip",
+      "Atracción letal",
+      "Poigne de la mort",
+      "Хватка смерти",
+      "Todesgriff",
+      "Garra da Morte",
+      "Presa Mortale",
+      "죽음의 손아귀",
+      "死亡之握",
+      "死亡之握"
+    ],
+    "Media": "spell_deathknight_strangulate.jpg"
+  },
+  {
+    "TagId": 397226,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Death Grip",
+      "Atracción letal",
+      "Garra da Morte",
+      "Death Grip",
+      "Atracción letal",
+      "Poigne de la mort",
+      "Хватка смерти",
+      "Todesgriff",
+      "Garra da Morte",
+      "Presa Mortale",
+      "죽음의 손아귀",
+      "死亡之握",
+      "死亡之握"
+    ],
+    "Media": "spell_deathknight_strangulate.jpg"
+  },
+  {
+    "TagId": 397227,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Static Charge",
+      "Carga estática",
+      "Carga Estática",
+      "Static Charge",
+      "Carga estática",
+      "Charge statique",
+      "Статический разряд",
+      "Statische Aufladung",
+      "Carga Estática",
+      "Carica Statica",
+      "전하 충전",
+      "靜電能量",
+      "静电充能"
+    ],
+    "Media": "spell_nature_brilliance.jpg"
+  },
+  {
+    "TagId": 397228,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Static Charge",
+      "Carga estática",
+      "Carga Estática",
+      "Static Charge",
+      "Carga estática",
+      "Charge statique",
+      "Статический разряд",
+      "Statische Aufladung",
+      "Carga Estática",
+      "Carica Statica",
+      "전하 충전",
+      "靜電能量",
+      "静电充能"
+    ],
+    "Media": "spell_nature_brilliance.jpg"
+  },
+  {
+    "TagId": 397229,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Static Charge",
+      "Carga estática",
+      "Carga Estática",
+      "Static Charge",
+      "Carga estática",
+      "Charge statique",
+      "Статический разряд",
+      "Statische Aufladung",
+      "Carga Estática",
+      "Carica Statica",
+      "전하 충전",
+      "靜電能量",
+      "静电充能"
+    ],
+    "Media": "spell_nature_brilliance.jpg"
+  },
+  {
+    "TagId": 397230,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Capacitor Totem",
+      "Tótem capacitador",
+      "Totem Capacitor",
+      "Capacitor Totem",
+      "Tótem capacitador",
+      "Totem condensateur",
+      "Тотем конденсации",
+      "Totem der Energiespeicherung",
+      "Totem Capacitor",
+      "Totem della Condensazione Elettrica",
+      "축전 토템",
+      "電容圖騰",
+      "电能图腾"
+    ],
+    "Media": "spell_nature_brilliance.jpg"
+  },
+  {
+    "TagId": 397231,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Capacitor Totem",
+      "Tótem capacitador",
+      "Totem Capacitor",
+      "Capacitor Totem",
+      "Tótem capacitador",
+      "Totem condensateur",
+      "Тотем конденсации",
+      "Totem der Energiespeicherung",
+      "Totem Capacitor",
+      "Totem della Condensazione Elettrica",
+      "축전 토템",
+      "電容圖騰",
+      "电能图腾"
+    ],
+    "Media": "spell_nature_brilliance.jpg"
+  },
+  {
+    "TagId": 397232,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Capacitor Totem",
+      "Tótem capacitador",
+      "Totem Capacitor",
+      "Capacitor Totem",
+      "Tótem capacitador",
+      "Totem condensateur",
+      "Тотем конденсации",
+      "Totem der Energiespeicherung",
+      "Totem Capacitor",
+      "Totem della Condensazione Elettrica",
+      "축전 토템",
+      "電容圖騰",
+      "电能图腾"
+    ],
+    "Media": "spell_nature_brilliance.jpg"
+  },
+  {
+    "TagId": 397233,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dragon's Breath",
+      "Aliento de dragón",
+      "Sopro do Dragão",
+      "Dragon's Breath",
+      "Aliento de dragón",
+      "Souffle du dragon",
+      "Дыхание дракона",
+      "Drachenodem",
+      "Sopro do Dragão",
+      "Soffio del Drago",
+      "용의 숨결",
+      "龍之吐息",
+      "龙息术"
+    ],
+    "Media": "inv_misc_head_dragon_01.jpg"
+  },
+  {
+    "TagId": 397234,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dragon's Breath",
+      "Aliento de dragón",
+      "Sopro do Dragão",
+      "Dragon's Breath",
+      "Aliento de dragón",
+      "Souffle du dragon",
+      "Дыхание дракона",
+      "Drachenodem",
+      "Sopro do Dragão",
+      "Soffio del Drago",
+      "용의 숨결",
+      "龍之吐息",
+      "龙息术"
+    ],
+    "Media": "inv_misc_head_dragon_01.jpg"
+  },
+  {
+    "TagId": 397235,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dragon's Breath",
+      "Aliento de dragón",
+      "Sopro do Dragão",
+      "Dragon's Breath",
+      "Aliento de dragón",
+      "Souffle du dragon",
+      "Дыхание дракона",
+      "Drachenodem",
+      "Sopro do Dragão",
+      "Soffio del Drago",
+      "용의 숨결",
+      "龍之吐息",
+      "龙息术"
+    ],
+    "Media": "inv_misc_head_dragon_01.jpg"
+  },
+  {
+    "TagId": 397236,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Nova",
+      "Nova de escarcha",
+      "Nova Congelante",
+      "Frost Nova",
+      "Nova de Escarcha",
+      "Nova de givre",
+      "Кольцо льда",
+      "Frostnova",
+      "Nova Congelante",
+      "Esplosione Gelida",
+      "얼음 회오리",
+      "冰霜新星",
+      "冰霜新星"
+    ],
+    "Media": "spell_frost_frostnova.jpg"
+  },
+  {
+    "TagId": 397237,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Nova",
+      "Nova de escarcha",
+      "Nova Congelante",
+      "Frost Nova",
+      "Nova de Escarcha",
+      "Nova de givre",
+      "Кольцо льда",
+      "Frostnova",
+      "Nova Congelante",
+      "Esplosione Gelida",
+      "얼음 회오리",
+      "冰霜新星",
+      "冰霜新星"
+    ],
+    "Media": "spell_frost_frostnova.jpg"
+  },
+  {
+    "TagId": 397238,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Nova",
+      "Nova de escarcha",
+      "Nova Congelante",
+      "Frost Nova",
+      "Nova de Escarcha",
+      "Nova de givre",
+      "Кольцо льда",
+      "Frostnova",
+      "Nova Congelante",
+      "Esplosione Gelida",
+      "얼음 회오리",
+      "冰霜新星",
+      "冰霜新星"
+    ],
+    "Media": "spell_frost_frostnova.jpg"
+  },
+  {
+    "TagId": 397239,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ice Wall",
+      "Muro de hielo",
+      "Muralha de Gelo",
+      "Ice Wall",
+      "Muro de hielo",
+      "Mur de glace",
+      "Ледяная стена",
+      "Eiswall",
+      "Muralha de Gelo",
+      "Muro di Ghiaccio",
+      "얼음 벽",
+      "冰牆",
+      "冰墙"
+    ],
+    "Media": "ability_mage_icewall.jpg"
+  },
+  {
+    "TagId": 397240,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ice Wall",
+      "Muro de hielo",
+      "Muralha de Gelo",
+      "Ice Wall",
+      "Muro de hielo",
+      "Mur de glace",
+      "Ледяная стена",
+      "Eiswall",
+      "Muralha de Gelo",
+      "Muro di Ghiaccio",
+      "얼음 벽",
+      "冰牆",
+      "冰墙"
+    ],
+    "Media": "ability_mage_icewall.jpg"
+  },
+  {
+    "TagId": 397241,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ice Wall",
+      "Muro de hielo",
+      "Muralha de Gelo",
+      "Ice Wall",
+      "Muro de hielo",
+      "Mur de glace",
+      "Ледяная стена",
+      "Eiswall",
+      "Muralha de Gelo",
+      "Muro di Ghiaccio",
+      "얼음 벽",
+      "冰牆",
+      "冰墙"
+    ],
+    "Media": "ability_mage_icewall.jpg"
+  },
+  {
+    "TagId": 397242,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Intimidating Shout",
+      "Grito intimidante",
+      "Brado Intimidador",
+      "Intimidating Shout",
+      "Grito intimidador",
+      "Cri d’intimidation",
+      "Устрашающий крик",
+      "Drohruf",
+      "Brado Intimidador",
+      "Urlo Intimidatorio",
+      "위협의 외침",
+      "破膽怒吼",
+      "破胆怒吼"
+    ],
+    "Media": "ability_golemthunderclap.jpg"
+  },
+  {
+    "TagId": 397243,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Intimidating Shout",
+      "Grito intimidante",
+      "Brado Intimidador",
+      "Intimidating Shout",
+      "Grito intimidador",
+      "Cri d’intimidation",
+      "Устрашающий крик",
+      "Drohruf",
+      "Brado Intimidador",
+      "Urlo Intimidatorio",
+      "위협의 외침",
+      "破膽怒吼",
+      "破胆怒吼"
+    ],
+    "Media": "ability_golemthunderclap.jpg"
+  },
+  {
+    "TagId": 397244,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Intimidating Shout",
+      "Grito intimidante",
+      "Brado Intimidador",
+      "Intimidating Shout",
+      "Grito intimidador",
+      "Cri d’intimidation",
+      "Устрашающий крик",
+      "Drohruf",
+      "Brado Intimidador",
+      "Urlo Intimidatorio",
+      "위협의 외침",
+      "破膽怒吼",
+      "破胆怒吼"
+    ],
+    "Media": "ability_golemthunderclap.jpg"
+  },
+  {
+    "TagId": 397245,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Knockback",
+      "Repeler",
+      "Repulsão",
+      "Knockback",
+      "Repeler",
+      "Repoussement",
+      "Отбрасывание",
+      "Rückstoß",
+      "Repulsão",
+      "Respinta",
+      "밀쳐내기",
+      "擊退",
+      "击退"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397246,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Knockback",
+      "Repeler",
+      "Repulsão",
+      "Knockback",
+      "Repeler",
+      "Repoussement",
+      "Отбрасывание",
+      "Rückstoß",
+      "Repulsão",
+      "Respinta",
+      "밀쳐내기",
+      "擊退",
+      "击退"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397247,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Knockback",
+      "Repeler",
+      "Repulsão",
+      "Knockback",
+      "Repeler",
+      "Repoussement",
+      "Отбрасывание",
+      "Rückstoß",
+      "Repulsão",
+      "Respinta",
+      "밀쳐내기",
+      "擊退",
+      "击退"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397248,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mighty Ox Kick",
+      "Poderosa Patada del Buey",
+      "Coice Potente do Boi",
+      "Mighty Ox Kick",
+      "Patada del buey poderoso",
+      "Coup de pied surpuissant du buffle",
+      "Удар могучего быка",
+      "Tritt des mächtigen Ochsen",
+      "Coice Potente do Boi",
+      "Calcio Potente dello Yak",
+      "힘센 황소의 발차기",
+      "玄牛踢",
+      "蛮牛踢"
+    ],
+    "Media": "ability_monk_mightyoxkick.jpg"
+  },
+  {
+    "TagId": 397249,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mighty Ox Kick",
+      "Poderosa Patada del Buey",
+      "Coice Potente do Boi",
+      "Mighty Ox Kick",
+      "Patada del buey poderoso",
+      "Coup de pied surpuissant du buffle",
+      "Удар могучего быка",
+      "Tritt des mächtigen Ochsen",
+      "Coice Potente do Boi",
+      "Calcio Potente dello Yak",
+      "힘센 황소의 발차기",
+      "玄牛踢",
+      "蛮牛踢"
+    ],
+    "Media": "ability_monk_mightyoxkick.jpg"
+  },
+  {
+    "TagId": 397250,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mighty Ox Kick",
+      "Poderosa Patada del Buey",
+      "Coice Potente do Boi",
+      "Mighty Ox Kick",
+      "Patada del buey poderoso",
+      "Coup de pied surpuissant du buffle",
+      "Удар могучего быка",
+      "Tritt des mächtigen Ochsen",
+      "Coice Potente do Boi",
+      "Calcio Potente dello Yak",
+      "힘센 황소의 발차기",
+      "玄牛踢",
+      "蛮牛踢"
+    ],
+    "Media": "ability_monk_mightyoxkick.jpg"
+  },
+  {
     "TagId": 397251,
     "TagType": 26,
     "Names": [
@@ -4141,6 +4876,237 @@
       "唤神令"
     ],
     "Media": "ability_bastion_monk.jpg"
+  },
+  {
+    "TagId": 397252,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397253,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397254,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397255,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397256,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397257,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397258,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397259,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397260,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397261,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 397262,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icebind",
+      "Amarre de hielo",
+      "Prisão de Gelo",
+      "Icebind",
+      "Cadenas de Escarcha",
+      "Lien de glace",
+      "Оковы льда",
+      "Eisbindung",
+      "Prisão de Gelo",
+      "Vincolo Gelido",
+      "얼음결속",
+      "寒冰束縛",
+      "寒冰之缚"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
   },
   {
     "TagId": 397263,
@@ -4185,6 +5151,132 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397265,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Tempestade Relampejante",
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Orage",
+      "Гром и молния",
+      "Gewitter",
+      "Tempestade Relampejante",
+      "Tempesta Tonante",
+      "천둥폭풍",
+      "雷霆風暴",
+      "雷霆风暴"
+    ],
+    "Media": "spell_shaman_thunderstorm.jpg"
+  },
+  {
+    "TagId": 397266,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Tempestade Relampejante",
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Orage",
+      "Гром и молния",
+      "Gewitter",
+      "Tempestade Relampejante",
+      "Tempesta Tonante",
+      "천둥폭풍",
+      "雷霆風暴",
+      "雷霆风暴"
+    ],
+    "Media": "spell_shaman_thunderstorm.jpg"
+  },
+  {
+    "TagId": 397267,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Tempestade Relampejante",
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Orage",
+      "Гром и молния",
+      "Gewitter",
+      "Tempestade Relampejante",
+      "Tempesta Tonante",
+      "천둥폭풍",
+      "雷霆風暴",
+      "雷霆风暴"
+    ],
+    "Media": "spell_shaman_thunderstorm.jpg"
+  },
+  {
+    "TagId": 397268,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gorefiend's Grasp",
+      "Abrazo de Sanguino",
+      "Garra de Sanguinávido",
+      "Gorefiend's Grasp",
+      "Abrazo de Sanguino",
+      "Emprise de Fielsang",
+      "Хватка Кровожада",
+      "Blutschattens Griff",
+      "Garra de Sanguinávido",
+      "Presa di Malacarne",
+      "고어핀드의 손아귀",
+      "血魔之握",
+      "血魔之握"
+    ],
+    "Media": "ability_deathknight_aoedeathgrip.jpg"
+  },
+  {
+    "TagId": 397269,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gorefiend's Grasp",
+      "Abrazo de Sanguino",
+      "Garra de Sanguinávido",
+      "Gorefiend's Grasp",
+      "Abrazo de Sanguino",
+      "Emprise de Fielsang",
+      "Хватка Кровожада",
+      "Blutschattens Griff",
+      "Garra de Sanguinávido",
+      "Presa di Malacarne",
+      "고어핀드의 손아귀",
+      "血魔之握",
+      "血魔之握"
+    ],
+    "Media": "ability_deathknight_aoedeathgrip.jpg"
+  },
+  {
+    "TagId": 397270,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gorefiend's Grasp",
+      "Abrazo de Sanguino",
+      "Garra de Sanguinávido",
+      "Gorefiend's Grasp",
+      "Abrazo de Sanguino",
+      "Emprise de Fielsang",
+      "Хватка Кровожада",
+      "Blutschattens Griff",
+      "Garra de Sanguinávido",
+      "Presa di Malacarne",
+      "고어핀드의 손아귀",
+      "血魔之握",
+      "血魔之握"
+    ],
+    "Media": "ability_deathknight_aoedeathgrip.jpg"
+  },
+  {
     "TagId": 397271,
     "TagType": 26,
     "Names": [
@@ -4206,6 +5298,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397272,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Shell",
+      "Caparazón antimagia",
+      "Carapaça Antimagia",
+      "Anti-Magic Shell",
+      "Caparazón antimagia",
+      "Carapace anti-magie",
+      "Антимагический панцирь",
+      "Antimagische Hülle",
+      "Carapaça Antimagia",
+      "Scudo Antimagia",
+      "대마법 보호막",
+      "反魔法護罩",
+      "反魔法护罩"
+    ],
+    "Media": "spell_shadow_antimagicshell.jpg"
+  },
+  {
+    "TagId": 397273,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Shell",
+      "Caparazón antimagia",
+      "Carapaça Antimagia",
+      "Anti-Magic Shell",
+      "Caparazón antimagia",
+      "Carapace anti-magie",
+      "Антимагический панцирь",
+      "Antimagische Hülle",
+      "Carapaça Antimagia",
+      "Scudo Antimagia",
+      "대마법 보호막",
+      "反魔法護罩",
+      "反魔法护罩"
+    ],
+    "Media": "spell_shadow_antimagicshell.jpg"
+  },
+  {
+    "TagId": 397274,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Shell",
+      "Caparazón antimagia",
+      "Carapaça Antimagia",
+      "Anti-Magic Shell",
+      "Caparazón antimagia",
+      "Carapace anti-magie",
+      "Антимагический панцирь",
+      "Antimagische Hülle",
+      "Carapaça Antimagia",
+      "Scudo Antimagia",
+      "대마법 보호막",
+      "反魔法護罩",
+      "反魔法护罩"
+    ],
+    "Media": "spell_shadow_antimagicshell.jpg"
+  },
+  {
+    "TagId": 397275,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersion",
+      "Dispersión",
+      "Dispersão",
+      "Dispersion",
+      "Dispersión",
+      "Dispersion",
+      "Слияние с Тьмой",
+      "Dispersion",
+      "Dispersão",
+      "Dispersione",
+      "분산",
+      "影散",
+      "消散"
+    ],
+    "Media": "spell_shadow_dispersion.jpg"
+  },
+  {
+    "TagId": 397276,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersion",
+      "Dispersión",
+      "Dispersão",
+      "Dispersion",
+      "Dispersión",
+      "Dispersion",
+      "Слияние с Тьмой",
+      "Dispersion",
+      "Dispersão",
+      "Dispersione",
+      "분산",
+      "影散",
+      "消散"
+    ],
+    "Media": "spell_shadow_dispersion.jpg"
+  },
+  {
     "TagId": 397277,
     "TagType": 26,
     "Names": [
@@ -4225,6 +5422,90 @@
       "营救"
     ],
     "Media": "ability_evoker_flywithme.jpg"
+  },
+  {
+    "TagId": 397278,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersion",
+      "Dispersión",
+      "Dispersão",
+      "Dispersion",
+      "Dispersión",
+      "Dispersion",
+      "Слияние с Тьмой",
+      "Dispersion",
+      "Dispersão",
+      "Dispersione",
+      "분산",
+      "影散",
+      "消散"
+    ],
+    "Media": "spell_shadow_dispersion.jpg"
+  },
+  {
+    "TagId": 397279,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Feign Death",
+      "Fingir muerte",
+      "Fingir de Morto",
+      "Feign Death",
+      "Fingir muerte",
+      "Feindre la mort",
+      "Притвориться мертвым",
+      "Totstellen",
+      "Fingir de Morto",
+      "Morte Apparente",
+      "죽은 척하기",
+      "假死",
+      "假死"
+    ],
+    "Media": "ability_rogue_feigndeath.jpg"
+  },
+  {
+    "TagId": 397280,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Feign Death",
+      "Fingir muerte",
+      "Fingir de Morto",
+      "Feign Death",
+      "Fingir muerte",
+      "Feindre la mort",
+      "Притвориться мертвым",
+      "Totstellen",
+      "Fingir de Morto",
+      "Morte Apparente",
+      "죽은 척하기",
+      "假死",
+      "假死"
+    ],
+    "Media": "ability_rogue_feigndeath.jpg"
+  },
+  {
+    "TagId": 397281,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Feign Death",
+      "Fingir muerte",
+      "Fingir de Morto",
+      "Feign Death",
+      "Fingir muerte",
+      "Feindre la mort",
+      "Притвориться мертвым",
+      "Totstellen",
+      "Fingir de Morto",
+      "Morte Apparente",
+      "죽은 척하기",
+      "假死",
+      "假死"
+    ],
+    "Media": "ability_rogue_feigndeath.jpg"
   },
   {
     "TagId": 397282,
@@ -4416,6 +5697,195 @@
     "Media": "spell_arcane_teleportshattrath.jpg"
   },
   {
+    "TagId": 397291,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloco de Gelo",
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloc de glace",
+      "Ледяная глыба",
+      "Eisblock",
+      "Bloco de Gelo",
+      "Blocco di Ghiaccio",
+      "얼음 방패",
+      "寒冰屏障",
+      "寒冰屏障"
+    ],
+    "Media": "spell_frost_frost.jpg"
+  },
+  {
+    "TagId": 397292,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloco de Gelo",
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloc de glace",
+      "Ледяная глыба",
+      "Eisblock",
+      "Bloco de Gelo",
+      "Blocco di Ghiaccio",
+      "얼음 방패",
+      "寒冰屏障",
+      "寒冰屏障"
+    ],
+    "Media": "spell_frost_frost.jpg"
+  },
+  {
+    "TagId": 397293,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloco de Gelo",
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloc de glace",
+      "Ледяная глыба",
+      "Eisblock",
+      "Bloco de Gelo",
+      "Blocco di Ghiaccio",
+      "얼음 방패",
+      "寒冰屏障",
+      "寒冰屏障"
+    ],
+    "Media": "spell_frost_frost.jpg"
+  },
+  {
+    "TagId": 397294,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Reflexão de Feitiço",
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Renvoi de sort",
+      "Отражение заклинаний",
+      "Zauberreflexion",
+      "Reflexão de Feitiço",
+      "Rifletti Incantesimo",
+      "주문 반사",
+      "法術反射",
+      "法术反射"
+    ],
+    "Media": "ability_warrior_shieldreflection.jpg"
+  },
+  {
+    "TagId": 397295,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Reflexão de Feitiço",
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Renvoi de sort",
+      "Отражение заклинаний",
+      "Zauberreflexion",
+      "Reflexão de Feitiço",
+      "Rifletti Incantesimo",
+      "주문 반사",
+      "法術反射",
+      "法术反射"
+    ],
+    "Media": "ability_warrior_shieldreflection.jpg"
+  },
+  {
+    "TagId": 397296,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Reflexão de Feitiço",
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Renvoi de sort",
+      "Отражение заклинаний",
+      "Zauberreflexion",
+      "Reflexão de Feitiço",
+      "Rifletti Incantesimo",
+      "주문 반사",
+      "法術反射",
+      "法术反射"
+    ],
+    "Media": "ability_warrior_shieldreflection.jpg"
+  },
+  {
+    "TagId": 397297,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
+    "TagId": 397298,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
+    "TagId": 397299,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
     "TagId": 397300,
     "TagType": 26,
     "Names": [
@@ -4435,6 +5905,552 @@
       "梦境之箭"
     ],
     "Media": "inv_enchant_essencenetherlarge.jpg"
+  },
+  {
+    "TagId": 397301,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
+    "TagId": 397302,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
+    "TagId": 397303,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zona Antimagia",
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zone anti-magie",
+      "Зона антимагии",
+      "Antimagisches Feld",
+      "Zona Antimagia",
+      "Area Antimagia",
+      "대마법 지대",
+      "反魔法力場",
+      "反魔法领域"
+    ],
+    "Media": "spell_deathknight_antimagiczone.jpg"
+  },
+  {
+    "TagId": 397304,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zona Antimagia",
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zone anti-magie",
+      "Зона антимагии",
+      "Antimagisches Feld",
+      "Zona Antimagia",
+      "Area Antimagia",
+      "대마법 지대",
+      "反魔法力場",
+      "反魔法领域"
+    ],
+    "Media": "spell_deathknight_antimagiczone.jpg"
+  },
+  {
+    "TagId": 397305,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zona Antimagia",
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zone anti-magie",
+      "Зона антимагии",
+      "Antimagisches Feld",
+      "Zona Antimagia",
+      "Area Antimagia",
+      "대마법 지대",
+      "反魔法力場",
+      "反魔法领域"
+    ],
+    "Media": "spell_deathknight_antimagiczone.jpg"
+  },
+  {
+    "TagId": 397306,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zona Antimagia",
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zone anti-magie",
+      "Зона антимагии",
+      "Antimagisches Feld",
+      "Zona Antimagia",
+      "Area Antimagia",
+      "대마법 지대",
+      "反魔法力場",
+      "反魔法领域"
+    ],
+    "Media": "spell_deathknight_antimagiczone.jpg"
+  },
+  {
+    "TagId": 397307,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zona Antimagia",
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zone anti-magie",
+      "Зона антимагии",
+      "Antimagisches Feld",
+      "Zona Antimagia",
+      "Area Antimagia",
+      "대마법 지대",
+      "反魔法力場",
+      "反魔法领域"
+    ],
+    "Media": "spell_deathknight_antimagiczone.jpg"
+  },
+  {
+    "TagId": 397308,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zona Antimagia",
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zone anti-magie",
+      "Зона антимагии",
+      "Antimagisches Feld",
+      "Zona Antimagia",
+      "Area Antimagia",
+      "대마법 지대",
+      "反魔法力場",
+      "反魔法领域"
+    ],
+    "Media": "spell_deathknight_antimagiczone.jpg"
+  },
+  {
+    "TagId": 397309,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Darkness",
+      "Oscuridad",
+      "Escuridão",
+      "Darkness",
+      "Oscuridad",
+      "Ténèbres",
+      "Мрак",
+      "Dunkelheit",
+      "Escuridão",
+      "Oscurità",
+      "어둠",
+      "黑暗",
+      "黑暗"
+    ],
+    "Media": "ability_demonhunter_darkness.jpg"
+  },
+  {
+    "TagId": 397310,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Darkness",
+      "Oscuridad",
+      "Escuridão",
+      "Darkness",
+      "Oscuridad",
+      "Ténèbres",
+      "Мрак",
+      "Dunkelheit",
+      "Escuridão",
+      "Oscurità",
+      "어둠",
+      "黑暗",
+      "黑暗"
+    ],
+    "Media": "ability_demonhunter_darkness.jpg"
+  },
+  {
+    "TagId": 397311,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Darkness",
+      "Oscuridad",
+      "Escuridão",
+      "Darkness",
+      "Oscuridad",
+      "Ténèbres",
+      "Мрак",
+      "Dunkelheit",
+      "Escuridão",
+      "Oscurità",
+      "어둠",
+      "黑暗",
+      "黑暗"
+    ],
+    "Media": "ability_demonhunter_darkness.jpg"
+  },
+  {
+    "TagId": 397312,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bomba de Fumaça",
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bombe fumigène",
+      "Дымовая шашка",
+      "Rauchbombe",
+      "Bomba de Fumaça",
+      "Bomba Fumogena",
+      "연막탄",
+      "煙霧彈",
+      "烟雾弹"
+    ],
+    "Media": "ability_rogue_smoke.jpg"
+  },
+  {
+    "TagId": 397313,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bomba de Fumaça",
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bombe fumigène",
+      "Дымовая шашка",
+      "Rauchbombe",
+      "Bomba de Fumaça",
+      "Bomba Fumogena",
+      "연막탄",
+      "煙霧彈",
+      "烟雾弹"
+    ],
+    "Media": "ability_rogue_smoke.jpg"
+  },
+  {
+    "TagId": 397314,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bomba de Fumaça",
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bombe fumigène",
+      "Дымовая шашка",
+      "Rauchbombe",
+      "Bomba de Fumaça",
+      "Bomba Fumogena",
+      "연막탄",
+      "煙霧彈",
+      "烟雾弹"
+    ],
+    "Media": "ability_rogue_smoke.jpg"
+  },
+  {
+    "TagId": 397315,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 397316,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 397317,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 397318,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 397319,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 397320,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 397321,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime_active.jpg"
+  },
+  {
+    "TagId": 397322,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime_active.jpg"
+  },
+  {
+    "TagId": 397323,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime_active.jpg"
+  },
+  {
+    "TagId": 397324,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de Aterramento",
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de glèbe",
+      "Тотем заземления",
+      "Totem der Erdung",
+      "Totem de Aterramento",
+      "Totem dell'Adescamento Magico",
+      "마법흡수 토템",
+      "根基圖騰",
+      "根基图腾"
+    ],
+    "Media": "spell_nature_groundingtotem.jpg"
+  },
+  {
+    "TagId": 397325,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de Aterramento",
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de glèbe",
+      "Тотем заземления",
+      "Totem der Erdung",
+      "Totem de Aterramento",
+      "Totem dell'Adescamento Magico",
+      "마법흡수 토템",
+      "根基圖騰",
+      "根基图腾"
+    ],
+    "Media": "spell_nature_groundingtotem.jpg"
+  },
+  {
+    "TagId": 397326,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de Aterramento",
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de glèbe",
+      "Тотем заземления",
+      "Totem der Erdung",
+      "Totem de Aterramento",
+      "Totem dell'Adescamento Magico",
+      "마법흡수 토템",
+      "根基圖騰",
+      "根基图腾"
+    ],
+    "Media": "spell_nature_groundingtotem.jpg"
   },
   {
     "TagId": 397328,
@@ -8545,6 +10561,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397536,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Base Equipment",
+      "Equipamiento básico",
+      "Equipamento Básico",
+      "Base Equipment",
+      "Equipo básico",
+      "Équipement de base",
+      "Базовое снаряжение",
+      "Grundausrüstung",
+      "Equipamento Básico",
+      "Equipaggiamento di Base",
+      "기본 장비",
+      "基本裝備",
+      "基础装备"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 397537,
     "TagType": 26,
     "Names": [
@@ -10219,6 +12256,321 @@
     "Media": "trade_archaeology_apexisscroll.jpg"
   },
   {
+    "TagId": 397622,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "ability_mage_arcanosphere.jpg"
+  },
+  {
+    "TagId": 397623,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "ability_mage_arcanosphere.jpg"
+  },
+  {
+    "TagId": 397624,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "ability_mage_arcanosphere.jpg"
+  },
+  {
+    "TagId": 397625,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spitfire",
+      "Escupefuego",
+      "Cospefogo",
+      "Spitfire",
+      "Escupir fuego",
+      "Crache-feu",
+      "Огнеполох",
+      "Feuerspeier",
+      "Cospefogo",
+      "Sputafuoco",
+      "화염분사",
+      "噴火",
+      "喷火"
+    ],
+    "Media": "ability_warlock_fireandbrimstone.jpg"
+  },
+  {
+    "TagId": 397626,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spitfire",
+      "Escupefuego",
+      "Cospefogo",
+      "Spitfire",
+      "Escupir fuego",
+      "Crache-feu",
+      "Огнеполох",
+      "Feuerspeier",
+      "Cospefogo",
+      "Sputafuoco",
+      "화염분사",
+      "噴火",
+      "喷火"
+    ],
+    "Media": "ability_warlock_fireandbrimstone.jpg"
+  },
+  {
+    "TagId": 397627,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spitfire",
+      "Escupefuego",
+      "Cospefogo",
+      "Spitfire",
+      "Escupir fuego",
+      "Crache-feu",
+      "Огнеполох",
+      "Feuerspeier",
+      "Cospefogo",
+      "Sputafuoco",
+      "화염분사",
+      "噴火",
+      "喷火"
+    ],
+    "Media": "ability_warlock_fireandbrimstone.jpg"
+  },
+  {
+    "TagId": 397628,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spitfire",
+      "Escupefuego",
+      "Cospefogo",
+      "Spitfire",
+      "Escupir fuego",
+      "Crache-feu",
+      "Огнеполох",
+      "Feuerspeier",
+      "Cospefogo",
+      "Sputafuoco",
+      "화염분사",
+      "噴火",
+      "喷火"
+    ],
+    "Media": "ability_warlock_fireandbrimstone.jpg"
+  },
+  {
+    "TagId": 397629,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spitfire",
+      "Escupefuego",
+      "Cospefogo",
+      "Spitfire",
+      "Escupir fuego",
+      "Crache-feu",
+      "Огнеполох",
+      "Feuerspeier",
+      "Cospefogo",
+      "Sputafuoco",
+      "화염분사",
+      "噴火",
+      "喷火"
+    ],
+    "Media": "ability_warlock_fireandbrimstone.jpg"
+  },
+  {
+    "TagId": 397630,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spitfire",
+      "Escupefuego",
+      "Cospefogo",
+      "Spitfire",
+      "Escupir fuego",
+      "Crache-feu",
+      "Огнеполох",
+      "Feuerspeier",
+      "Cospefogo",
+      "Sputafuoco",
+      "화염분사",
+      "噴火",
+      "喷火"
+    ],
+    "Media": "ability_warlock_fireandbrimstone.jpg"
+  },
+  {
+    "TagId": 397631,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Star",
+      "Estrella de la oscuridad",
+      "Estrela Negra",
+      "Dark Star",
+      "Estrella oscura",
+      "Étoile noire",
+      "Темная звезда",
+      "Dunkler Stern",
+      "Estrela Negra",
+      "Stella Oscura",
+      "검은 별",
+      "黑暗之星",
+      "黑暗之星"
+    ],
+    "Media": "spell_priest_divinestar_shadow.jpg"
+  },
+  {
+    "TagId": 397632,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Star",
+      "Estrella de la oscuridad",
+      "Estrela Negra",
+      "Dark Star",
+      "Estrella oscura",
+      "Étoile noire",
+      "Темная звезда",
+      "Dunkler Stern",
+      "Estrela Negra",
+      "Stella Oscura",
+      "검은 별",
+      "黑暗之星",
+      "黑暗之星"
+    ],
+    "Media": "spell_priest_divinestar_shadow.jpg"
+  },
+  {
+    "TagId": 397633,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Star",
+      "Estrella de la oscuridad",
+      "Estrela Negra",
+      "Dark Star",
+      "Estrella oscura",
+      "Étoile noire",
+      "Темная звезда",
+      "Dunkler Stern",
+      "Estrela Negra",
+      "Stella Oscura",
+      "검은 별",
+      "黑暗之星",
+      "黑暗之星"
+    ],
+    "Media": "spell_priest_divinestar_shadow.jpg"
+  },
+  {
+    "TagId": 397634,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Star",
+      "Estrella de la oscuridad",
+      "Estrela Negra",
+      "Dark Star",
+      "Estrella oscura",
+      "Étoile noire",
+      "Темная звезда",
+      "Dunkler Stern",
+      "Estrela Negra",
+      "Stella Oscura",
+      "검은 별",
+      "黑暗之星",
+      "黑暗之星"
+    ],
+    "Media": "spell_priest_divinestar_shadow.jpg"
+  },
+  {
+    "TagId": 397635,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Star",
+      "Estrella de la oscuridad",
+      "Estrela Negra",
+      "Dark Star",
+      "Estrella oscura",
+      "Étoile noire",
+      "Темная звезда",
+      "Dunkler Stern",
+      "Estrela Negra",
+      "Stella Oscura",
+      "검은 별",
+      "黑暗之星",
+      "黑暗之星"
+    ],
+    "Media": "spell_priest_divinestar_shadow.jpg"
+  },
+  {
+    "TagId": 397636,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Star",
+      "Estrella de la oscuridad",
+      "Estrela Negra",
+      "Dark Star",
+      "Estrella oscura",
+      "Étoile noire",
+      "Темная звезда",
+      "Dunkler Stern",
+      "Estrela Negra",
+      "Stella Oscura",
+      "검은 별",
+      "黑暗之星",
+      "黑暗之星"
+    ],
+    "Media": "spell_priest_divinestar_shadow.jpg"
+  },
+  {
     "TagId": 397637,
     "TagType": 26,
     "Names": [
@@ -10238,6 +12590,132 @@
       "召唤安波莎"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397638,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shockwave",
+      "Ola de choque",
+      "Onda de Choque",
+      "Shockwave",
+      "Ola de choque",
+      "Onde de choc",
+      "Ударная волна",
+      "Schockwelle",
+      "Onda de Choque",
+      "Onda d'Urto",
+      "충격파",
+      "衝擊波",
+      "震荡波"
+    ],
+    "Media": "inv_ore_blackrock_nugget.jpg"
+  },
+  {
+    "TagId": 397639,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Earthbreaker",
+      "Rompetierras",
+      "Rompe-terra",
+      "Earthbreaker",
+      "Rompesuelos",
+      "Brise-Terre",
+      "Землелом",
+      "Erdbrecher",
+      "Rompe-terra",
+      "Spaccaterra",
+      "대지파괴자",
+      "裂地者",
+      "碎地猛击"
+    ],
+    "Media": "inv_ore_blackrock_nugget.jpg"
+  },
+  {
+    "TagId": 397640,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shockwave",
+      "Ola de choque",
+      "Onda de Choque",
+      "Shockwave",
+      "Ola de choque",
+      "Onde de choc",
+      "Ударная волна",
+      "Schockwelle",
+      "Onda de Choque",
+      "Onda d'Urto",
+      "충격파",
+      "衝擊波",
+      "震荡波"
+    ],
+    "Media": "inv_ore_blackrock_nugget.jpg"
+  },
+  {
+    "TagId": 397641,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Earthbreaker",
+      "Rompetierras",
+      "Rompe-terra",
+      "Earthbreaker",
+      "Rompesuelos",
+      "Brise-Terre",
+      "Землелом",
+      "Erdbrecher",
+      "Rompe-terra",
+      "Spaccaterra",
+      "대지파괴자",
+      "裂地者",
+      "碎地猛击"
+    ],
+    "Media": "inv_ore_blackrock_nugget.jpg"
+  },
+  {
+    "TagId": 397642,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shockwave",
+      "Ola de choque",
+      "Onda de Choque",
+      "Shockwave",
+      "Ola de choque",
+      "Onde de choc",
+      "Ударная волна",
+      "Schockwelle",
+      "Onda de Choque",
+      "Onda d'Urto",
+      "충격파",
+      "衝擊波",
+      "震荡波"
+    ],
+    "Media": "inv_ore_blackrock_nugget.jpg"
+  },
+  {
+    "TagId": 397643,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Earthbreaker",
+      "Rompetierras",
+      "Rompe-terra",
+      "Earthbreaker",
+      "Rompesuelos",
+      "Brise-Terre",
+      "Землелом",
+      "Erdbrecher",
+      "Rompe-terra",
+      "Spaccaterra",
+      "대지파괴자",
+      "裂地者",
+      "碎地猛击"
+    ],
+    "Media": "inv_ore_blackrock_nugget.jpg"
   },
   {
     "TagId": 397644,
@@ -10261,6 +12739,300 @@
     "Media": "ability_mage_coldasice.jpg"
   },
   {
+    "TagId": 397645,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe Congelado",
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe gelé",
+      "Ледяной шар",
+      "Gefrorene Kugel",
+      "Orbe Congelado",
+      "Globo Congelato",
+      "얼어붙은 구슬",
+      "冰霜之球",
+      "寒冰宝珠"
+    ],
+    "Media": "spell_frost_frozenorb.jpg"
+  },
+  {
+    "TagId": 397646,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe Congelado",
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe gelé",
+      "Ледяной шар",
+      "Gefrorene Kugel",
+      "Orbe Congelado",
+      "Globo Congelato",
+      "얼어붙은 구슬",
+      "冰霜之球",
+      "寒冰宝珠"
+    ],
+    "Media": "spell_frost_frozenorb.jpg"
+  },
+  {
+    "TagId": 397647,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Soco do Dragão Sagrado",
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Coup de poing du dragon sacré",
+      "Удар святого дракона",
+      "Heiliger Drachenschlag",
+      "Soco do Dragão Sagrado",
+      "Pugno del Drago Sacro",
+      "신룡의 주먹",
+      "神龍升天破",
+      "圣龙霸"
+    ],
+    "Media": "ability_monk_hurricanestrike.jpg"
+  },
+  {
+    "TagId": 397648,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Soco do Dragão Sagrado",
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Coup de poing du dragon sacré",
+      "Удар святого дракона",
+      "Heiliger Drachenschlag",
+      "Soco do Dragão Sagrado",
+      "Pugno del Drago Sacro",
+      "신룡의 주먹",
+      "神龍升天破",
+      "圣龙霸"
+    ],
+    "Media": "ability_monk_hurricanestrike.jpg"
+  },
+  {
+    "TagId": 397649,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Soco do Dragão Sagrado",
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Coup de poing du dragon sacré",
+      "Удар святого дракона",
+      "Heiliger Drachenschlag",
+      "Soco do Dragão Sagrado",
+      "Pugno del Drago Sacro",
+      "신룡의 주먹",
+      "神龍升天破",
+      "圣龙霸"
+    ],
+    "Media": "ability_monk_hurricanestrike.jpg"
+  },
+  {
+    "TagId": 397650,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Soco do Dragão Sagrado",
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Coup de poing du dragon sacré",
+      "Удар святого дракона",
+      "Heiliger Drachenschlag",
+      "Soco do Dragão Sagrado",
+      "Pugno del Drago Sacro",
+      "신룡의 주먹",
+      "神龍升天破",
+      "圣龙霸"
+    ],
+    "Media": "ability_monk_hurricanestrike.jpg"
+  },
+  {
+    "TagId": 397651,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Soco do Dragão Sagrado",
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Coup de poing du dragon sacré",
+      "Удар святого дракона",
+      "Heiliger Drachenschlag",
+      "Soco do Dragão Sagrado",
+      "Pugno del Drago Sacro",
+      "신룡의 주먹",
+      "神龍升天破",
+      "圣龙霸"
+    ],
+    "Media": "ability_monk_hurricanestrike.jpg"
+  },
+  {
+    "TagId": 397652,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Soco do Dragão Sagrado",
+      "Holy Dragon Punch",
+      "Puñetazo de dragón sagrado",
+      "Coup de poing du dragon sacré",
+      "Удар святого дракона",
+      "Heiliger Drachenschlag",
+      "Soco do Dragão Sagrado",
+      "Pugno del Drago Sacro",
+      "신룡의 주먹",
+      "神龍升天破",
+      "圣龙霸"
+    ],
+    "Media": "ability_monk_hurricanestrike.jpg"
+  },
+  {
+    "TagId": 397653,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 397654,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "spell_druid_astralstorm.jpg"
+  },
+  {
+    "TagId": 397655,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 397656,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "spell_druid_astralstorm.jpg"
+  },
+  {
+    "TagId": 397657,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 397658,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Storm",
+      "Tormenta arcana",
+      "Tempestade Arcana",
+      "Arcane Storm",
+      "Tormenta Arcana",
+      "Tempête arcanique",
+      "Чародейская буря",
+      "Arkaner Sturm",
+      "Tempestade Arcana",
+      "Tempesta Arcana",
+      "비전 폭풍",
+      "秘法風暴",
+      "奥术风暴"
+    ],
+    "Media": "spell_druid_astralstorm.jpg"
+  },
+  {
     "TagId": 397659,
     "TagType": 26,
     "Names": [
@@ -10280,6 +13052,699 @@
       "召唤安波莎"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397660,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Martelo Abençoado",
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Marteau béni",
+      "Благословенный молот",
+      "Gesegneter Hammer",
+      "Martelo Abençoado",
+      "Martello Benedetto",
+      "축복받은 망치",
+      "祝福之錘",
+      "祝福之锤"
+    ],
+    "Media": "paladin_retribution.jpg"
+  },
+  {
+    "TagId": 397661,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Martelo Abençoado",
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Marteau béni",
+      "Благословенный молот",
+      "Gesegneter Hammer",
+      "Martelo Abençoado",
+      "Martello Benedetto",
+      "축복받은 망치",
+      "祝福之錘",
+      "祝福之锤"
+    ],
+    "Media": "paladin_retribution.jpg"
+  },
+  {
+    "TagId": 397662,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Martelo Abençoado",
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Marteau béni",
+      "Благословенный молот",
+      "Gesegneter Hammer",
+      "Martelo Abençoado",
+      "Martello Benedetto",
+      "축복받은 망치",
+      "祝福之錘",
+      "祝福之锤"
+    ],
+    "Media": "paladin_retribution.jpg"
+  },
+  {
+    "TagId": 397663,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Martelo Abençoado",
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Marteau béni",
+      "Благословенный молот",
+      "Gesegneter Hammer",
+      "Martelo Abençoado",
+      "Martello Benedetto",
+      "축복받은 망치",
+      "祝福之錘",
+      "祝福之锤"
+    ],
+    "Media": "paladin_retribution.jpg"
+  },
+  {
+    "TagId": 397664,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Martelo Abençoado",
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Marteau béni",
+      "Благословенный молот",
+      "Gesegneter Hammer",
+      "Martelo Abençoado",
+      "Martello Benedetto",
+      "축복받은 망치",
+      "祝福之錘",
+      "祝福之锤"
+    ],
+    "Media": "paladin_retribution.jpg"
+  },
+  {
+    "TagId": 397665,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Martelo Abençoado",
+      "Blessed Hammer",
+      "Martillo bendito",
+      "Marteau béni",
+      "Благословенный молот",
+      "Gesegneter Hammer",
+      "Martelo Abençoado",
+      "Martello Benedetto",
+      "축복받은 망치",
+      "祝福之錘",
+      "祝福之锤"
+    ],
+    "Media": "paladin_retribution.jpg"
+  },
+  {
+    "TagId": 397666,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hellfire",
+      "Fuego infernal",
+      "Fogo do Inferno",
+      "Hellfire",
+      "Llamas infernales",
+      "Flammes infernales",
+      "Адское пламя",
+      "Höllenfeuer",
+      "Fogo do Inferno",
+      "Fuoco Infernale",
+      "지옥 화염",
+      "地獄烈焰",
+      "地狱火"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 397667,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hellfire",
+      "Fuego infernal",
+      "Fogo do Inferno",
+      "Hellfire",
+      "Llamas infernales",
+      "Flammes infernales",
+      "Адское пламя",
+      "Höllenfeuer",
+      "Fogo do Inferno",
+      "Fuoco Infernale",
+      "지옥 화염",
+      "地獄烈焰",
+      "地狱火"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 397668,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hellfire",
+      "Fuego infernal",
+      "Fogo do Inferno",
+      "Hellfire",
+      "Llamas infernales",
+      "Flammes infernales",
+      "Адское пламя",
+      "Höllenfeuer",
+      "Fogo do Inferno",
+      "Fuoco Infernale",
+      "지옥 화염",
+      "地獄烈焰",
+      "地狱火"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 397669,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hellfire",
+      "Fuego infernal",
+      "Fogo do Inferno",
+      "Hellfire",
+      "Llamas infernales",
+      "Flammes infernales",
+      "Адское пламя",
+      "Höllenfeuer",
+      "Fogo do Inferno",
+      "Fuoco Infernale",
+      "지옥 화염",
+      "地獄烈焰",
+      "地狱火"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 397670,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hellfire",
+      "Fuego infernal",
+      "Fogo do Inferno",
+      "Hellfire",
+      "Llamas infernales",
+      "Flammes infernales",
+      "Адское пламя",
+      "Höllenfeuer",
+      "Fogo do Inferno",
+      "Fuoco Infernale",
+      "지옥 화염",
+      "地獄烈焰",
+      "地狱火"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 397671,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hellfire",
+      "Fuego infernal",
+      "Fogo do Inferno",
+      "Hellfire",
+      "Llamas infernales",
+      "Flammes infernales",
+      "Адское пламя",
+      "Höllenfeuer",
+      "Fogo do Inferno",
+      "Fuoco Infernale",
+      "지옥 화염",
+      "地獄烈焰",
+      "地狱火"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 397672,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattensperrfeuer",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
+  },
+  {
+    "TagId": 397673,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattensperrfeuer",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
+  },
+  {
+    "TagId": 397674,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattensperrfeuer",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
+  },
+  {
+    "TagId": 397675,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattensperrfeuer",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
+  },
+  {
+    "TagId": 397676,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattensperrfeuer",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
+  },
+  {
+    "TagId": 397677,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Barrage",
+      "Tromba de las sombras",
+      "Barragem de Sombras",
+      "Shadow Barrage",
+      "Tromba de las Sombras",
+      "Barrage d’ombre",
+      "Шквал Тени",
+      "Schattensperrfeuer",
+      "Barragem de Sombras",
+      "Raffica d'Ombra",
+      "암흑 탄막",
+      "暗影彈幕",
+      "暗影弹幕"
+    ],
+    "Media": "spell_fire_twilightrainoffire.jpg"
+  },
+  {
+    "TagId": 397678,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
+  },
+  {
+    "TagId": 397679,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
+  },
+  {
+    "TagId": 397680,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "ability_monk_flyingdragonkick.jpg"
+  },
+  {
+    "TagId": 397681,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
+  },
+  {
+    "TagId": 397682,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
+  },
+  {
+    "TagId": 397683,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "ability_monk_flyingdragonkick.jpg"
+  },
+  {
+    "TagId": 397684,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
+  },
+  {
+    "TagId": 397685,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "priest_icon_chakra_green.jpg"
+  },
+  {
+    "TagId": 397686,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Chute Voador da Serpente",
+      "Flying Serpent Kick",
+      "Patada del dragón volador",
+      "Coup du serpent volant",
+      "Удар летящего змея",
+      "Fliegender Schlangentritt",
+      "Chute Voador da Serpente",
+      "Calcio Volante della Serpe",
+      "비룡차기",
+      "翔龍腳",
+      "翔龙在天"
+    ],
+    "Media": "ability_monk_flyingdragonkick.jpg"
+  },
+  {
+    "TagId": 397689,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397690,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "spell_mage_supernova_nightborne.jpg"
+  },
+  {
+    "TagId": 397693,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397694,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "spell_mage_supernova_nightborne.jpg"
+  },
+  {
+    "TagId": 397697,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397698,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "spell_mage_supernova_nightborne.jpg"
   },
   {
     "TagId": 397699,
@@ -10492,6 +13957,90 @@
     "Media": "inv_sword_48.jpg"
   },
   {
+    "TagId": 397709,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe Congelado",
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe gelé",
+      "Ледяной шар",
+      "Gefrorene Kugel",
+      "Orbe Congelado",
+      "Globo Congelato",
+      "얼어붙은 구슬",
+      "冰霜之球",
+      "寒冰宝珠"
+    ],
+    "Media": "spell_frost_frozenorb.jpg"
+  },
+  {
+    "TagId": 397710,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe Congelado",
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe gelé",
+      "Ледяной шар",
+      "Gefrorene Kugel",
+      "Orbe Congelado",
+      "Globo Congelato",
+      "얼어붙은 구슬",
+      "冰霜之球",
+      "寒冰宝珠"
+    ],
+    "Media": "spell_frost_frozenorb.jpg"
+  },
+  {
+    "TagId": 397711,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe Congelado",
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe gelé",
+      "Ледяной шар",
+      "Gefrorene Kugel",
+      "Orbe Congelado",
+      "Globo Congelato",
+      "얼어붙은 구슬",
+      "冰霜之球",
+      "寒冰宝珠"
+    ],
+    "Media": "spell_frost_frozenorb.jpg"
+  },
+  {
+    "TagId": 397712,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe Congelado",
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe gelé",
+      "Ледяной шар",
+      "Gefrorene Kugel",
+      "Orbe Congelado",
+      "Globo Congelato",
+      "얼어붙은 구슬",
+      "冰霜之球",
+      "寒冰宝珠"
+    ],
+    "Media": "spell_frost_frozenorb.jpg"
+  },
+  {
     "TagId": 397713,
     "TagType": 26,
     "Names": [
@@ -10511,6 +14060,90 @@
       "狂暴地狱火"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397714,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_fire_playingwithfire.jpg"
+  },
+  {
+    "TagId": 397715,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_fire_playingwithfire.jpg"
+  },
+  {
+    "TagId": 397716,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_fire_playingwithfire.jpg"
+  },
+  {
+    "TagId": 397717,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_fire_playingwithfire.jpg"
   },
   {
     "TagId": 397718,
@@ -11369,6 +15002,27 @@
       "苦寒残伤"
     ],
     "Media": "ability_deathknight_frozencenter.jpg"
+  },
+  {
+    "TagId": 397762,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Onboarding",
+      "Inducción",
+      "Embarque",
+      "Onboarding",
+      "Embarcando",
+      "Introduction",
+      "Вводный курс",
+      "Einsteigen",
+      "Embarque",
+      "Imbarco",
+      "초기 학습",
+      "初始訓練",
+      "上船"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 397763,
@@ -12379,6 +16033,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397817,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash",
+      "[DNT] Hit Flash"
+    ],
+    "Media": "ability_skyreach_flash_bang.jpg"
+  },
+  {
     "TagId": 397818,
     "TagType": 26,
     "Names": [
@@ -12505,6 +16180,27 @@
     "Media": "ability_rhyolith_magmaflow_wave.jpg"
   },
   {
+    "TagId": 397824,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hitstop",
+      "Freno de golpe",
+      "Parada ao Acertar",
+      "Hitstop",
+      "Parálisis por impacto",
+      "Fin des frappes",
+      "Пауза при ударе",
+      "Trefferstopp",
+      "Parada ao Acertar",
+      "Fine",
+      "적중 중단",
+      "攻擊攔截",
+      "硬直"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 397825,
     "TagType": 26,
     "Names": [
@@ -12566,6 +16262,48 @@
       "巨型鱼漂"
     ],
     "Media": "achievement_profession_fishing_outlandangler.jpg"
+  },
+  {
+    "TagId": 397828,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "ability_racial_haymaker.jpg"
+  },
+  {
+    "TagId": 397829,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "ability_racial_haymaker.jpg"
   },
   {
     "TagId": 397831,
@@ -12652,6 +16390,69 @@
     "Media": "talentspec_druid_feral_bear.jpg"
   },
   {
+    "TagId": 397835,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "artifactability_balancedruid_halfmoon.jpg"
+  },
+  {
+    "TagId": 397836,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "artifactability_balancedruid_halfmoon.jpg"
+  },
+  {
+    "TagId": 397837,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "artifactability_balancedruid_halfmoon.jpg"
+  },
+  {
     "TagId": 397838,
     "TagType": 26,
     "Names": [
@@ -12673,6 +16474,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 397839,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "artifactability_balancedruid_halfmoon.jpg"
+  },
+  {
+    "TagId": 397840,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "artifactability_balancedruid_halfmoon.jpg"
+  },
+  {
+    "TagId": 397841,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "artifactability_balancedruid_halfmoon.jpg"
+  },
+  {
     "TagId": 397842,
     "TagType": 26,
     "Names": [
@@ -12692,6 +16556,69 @@
       "[DNT] Crosswinds"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397843,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sword and Board",
+      "Escudo y espada",
+      "Espada e Escudo",
+      "Sword and Board",
+      "Escudo y espada",
+      "Épée et bouclier",
+      "Щит и меч",
+      "Schwert und Schild",
+      "Espada e Escudo",
+      "Scudo e Spada",
+      "검과 방패",
+      "劍盾合璧",
+      "剑盾猛攻"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
+    "TagId": 397844,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sword and Board",
+      "Escudo y espada",
+      "Espada e Escudo",
+      "Sword and Board",
+      "Escudo y espada",
+      "Épée et bouclier",
+      "Щит и меч",
+      "Schwert und Schild",
+      "Espada e Escudo",
+      "Scudo e Spada",
+      "검과 방패",
+      "劍盾合璧",
+      "剑盾猛攻"
+    ],
+    "Media": "ability_butcher_whirl.jpg"
+  },
+  {
+    "TagId": 397845,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override",
+      "Anular",
+      "Passar por Cima",
+      "Override",
+      "Anular",
+      "Supplanter",
+      "Перехват управления",
+      "Überschreiben",
+      "Passar por Cima",
+      "Annullamento",
+      "무효화",
+      "操控",
+      "覆盖"
+    ],
+    "Media": "artifactability_balancedruid_halfmoon.jpg"
   },
   {
     "TagId": 397846,
@@ -13448,6 +17375,27 @@
       "钥匙视觉效果"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 397885,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arclight Cannon",
+      "Cañón arcoluz",
+      "Canhão de Arco Voltaico",
+      "Arclight Cannon",
+      "Cañón arcoluz",
+      "Canon à arc-électrique",
+      "Пушка дугового света",
+      "Bogenlichtkanone",
+      "Canhão de Arco Voltaico",
+      "Cannone ad Arco",
+      "전깃불 대포",
+      "魔光火炮",
+      "弧光火炮"
+    ],
+    "Media": "inv_weapon_rifle_33.jpg"
   },
   {
     "TagId": 397886,

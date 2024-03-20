@@ -231,6 +231,27 @@
     "Media": "spell_animamaw_orb.jpg"
   },
   {
+    "TagId": 361013,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lobby Teleport",
+      "Teletransporte de sala",
+      "Teleporte de Saguão",
+      "Lobby Teleport",
+      "Teletransporte de sala",
+      "Téléportation au salon",
+      "Телепортация в лобби",
+      "Lobbyteleport",
+      "Teleporte de Saguão",
+      "Teletrasporto alla Lobby",
+      "대기실 순간이동",
+      "大廳傳送",
+      "大厅传送"
+    ],
+    "Media": "item_azereansphere.jpg"
+  },
+  {
     "TagId": 361014,
     "TagType": 26,
     "Names": [
@@ -481,6 +502,27 @@
       "时间膨胀"
     ],
     "Media": "ability_evoker_timedilation.jpg"
+  },
+  {
+    "TagId": 361030,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boat Teleport",
+      "Teletransporte de barco",
+      "Teleporte de Barco",
+      "Boat Teleport",
+      "Teletransporte de barco",
+      "Téléportation de bateau",
+      "Телепортация на корабль",
+      "Bootteleport",
+      "Teleporte de Barco",
+      "Teletrasporto: Nave",
+      "배 순간이동",
+      "船傳送",
+      "船只传送"
+    ],
+    "Media": "item_azereansphere.jpg"
   },
   {
     "TagId": 361033,
@@ -796,6 +838,216 @@
       "岩石吐息"
     ],
     "Media": "inv_elemental_crystal_earth.jpg"
+  },
+  {
+    "TagId": 361054,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Game Over!",
+      "¡Fin del juego!",
+      "Fim de Jogo!",
+      "Game Over!",
+      "¡Fin de juego!",
+      "Partie terminée\u00A0!",
+      "Игра окончена!",
+      "Game Over!",
+      "Fim de Jogo!",
+      "Fine dei Giochi!",
+      "게임 종료!",
+      "遊戲結束！",
+      "游戏结束！"
+    ],
+    "Media": "inv_chicken2_dirty.jpg"
+  },
+  {
+    "TagId": 361056,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Aimed Shot",
+      "Disparo de puntería",
+      "Tiro Certo",
+      "Aimed Shot",
+      "Disparo de puntería",
+      "Visée",
+      "Прицельный выстрел",
+      "Gezielter Schuss",
+      "Tiro Certo",
+      "Tiro Mirato",
+      "조준 사격",
+      "瞄準射擊",
+      "瞄准射击"
+    ],
+    "Media": "inv_spear_07.jpg"
+  },
+  {
+    "TagId": 361057,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Slice",
+      "Tajo de las sombras",
+      "Fatia Sombria",
+      "Shadow Slice",
+      "Corte de sombras",
+      "Taillade des ombres",
+      "Темное рассечение",
+      "Schattenschnitt",
+      "Fatia Sombria",
+      "Fendente d'Ombra",
+      "그림자 베기",
+      "暗影削切",
+      "暗影切割"
+    ],
+    "Media": "ability_backstab.jpg"
+  },
+  {
+    "TagId": 361058,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fireball",
+      "Bola de fuego",
+      "Bola de Fogo",
+      "Fireball",
+      "Bola de Fuego",
+      "Boule de feu",
+      "Огненный шар",
+      "Feuerball",
+      "Bola de Fogo",
+      "Palla di Fuoco",
+      "화염구",
+      "火球術",
+      "火球术"
+    ],
+    "Media": "inv_wand_11.jpg"
+  },
+  {
+    "TagId": 361059,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloco de Gelo",
+      "Ice Block",
+      "Bloque de hielo",
+      "Bloc de glace",
+      "Ледяная глыба",
+      "Eisblock",
+      "Bloco de Gelo",
+      "Blocco di Ghiaccio",
+      "얼음 방패",
+      "寒冰屏障",
+      "寒冰屏障"
+    ],
+    "Media": "spell_frost_frost.jpg"
+  },
+  {
+    "TagId": 361060,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cloak of Shadows",
+      "Capa de las sombras",
+      "Manto das Sombras",
+      "Cloak of Shadows",
+      "Capa de las Sombras",
+      "Cape d’ombre",
+      "Плащ теней",
+      "Mantel der Schatten",
+      "Manto das Sombras",
+      "Manto d'Ombra",
+      "그림자 망토",
+      "暗影披風",
+      "暗影斗篷"
+    ],
+    "Media": "spell_shadow_nethercloak.jpg"
+  },
+  {
+    "TagId": 361061,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
+    "TagId": 361062,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Reflexão de Feitiço",
+      "Spell Reflection",
+      "Reflejo de hechizos",
+      "Renvoi de sort",
+      "Отражение заклинаний",
+      "Zauberreflexion",
+      "Reflexão de Feitiço",
+      "Rifletti Incantesimo",
+      "주문 반사",
+      "法術反射",
+      "法术反射"
+    ],
+    "Media": "ability_warrior_shieldreflection.jpg"
+  },
+  {
+    "TagId": 361063,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Feign Death",
+      "Fingir muerte",
+      "Fingir de Morto",
+      "Feign Death",
+      "Fingir muerte",
+      "Feindre la mort",
+      "Притвориться мертвым",
+      "Totstellen",
+      "Fingir de Morto",
+      "Morte Apparente",
+      "죽은 척하기",
+      "假死",
+      "假死"
+    ],
+    "Media": "ability_rogue_feigndeath.jpg"
+  },
+  {
+    "TagId": 361064,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mortal Coil",
+      "Espiral mortal",
+      "Espiral da Morte",
+      "Mortal Coil",
+      "Espiral mortal",
+      "Voile de mort",
+      "Лик тлена",
+      "Weltliche Ängste",
+      "Espiral da Morte",
+      "Spira Letale",
+      "필멸의 고리",
+      "死影纏繞",
+      "死亡缠绕"
+    ],
+    "Media": "ability_warlock_mortalcoil.jpg"
   },
   {
     "TagId": 361065,
@@ -1428,6 +1680,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361095,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mass Polymorph",
+      "Polimorfia en masa",
+      "Polimorfia em Massa",
+      "Mass Polymorph",
+      "Polimorfia en masa",
+      "Métamorphose de masse",
+      "Массовое превращение",
+      "Massenverwandlung",
+      "Polimorfia em Massa",
+      "Metamorfosi di Massa",
+      "대규모 변이",
+      "群體變形",
+      "群体变形"
+    ],
+    "Media": "spell_nature_doublepolymorph2.jpg"
+  },
+  {
     "TagId": 361096,
     "TagType": 26,
     "Names": [
@@ -1995,6 +2268,48 @@
     "Media": "inv_hermitcrab_darkred.jpg"
   },
   {
+    "TagId": 361126,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Death Grip",
+      "Atracción letal",
+      "Garra da Morte",
+      "Death Grip",
+      "Atracción letal",
+      "Poigne de la mort",
+      "Хватка смерти",
+      "Todesgriff",
+      "Garra da Morte",
+      "Presa Mortale",
+      "죽음의 손아귀",
+      "死亡之握",
+      "死亡之握"
+    ],
+    "Media": "spell_deathknight_strangulate.jpg"
+  },
+  {
+    "TagId": 361127,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tracker's Net",
+      "Red del rastreador",
+      "Rede do Rastreador",
+      "Tracker's Net",
+      "Red de rastreador",
+      "Filet de pisteur",
+      "Сеть следопыта",
+      "Netz des Fährtenlesers",
+      "Rede do Rastreador",
+      "Rete del Braccatore",
+      "추적자의 그물",
+      "陷捕獵網",
+      "追踪者之网"
+    ],
+    "Media": "hunter_pvp_trackersnet.jpg"
+  },
+  {
     "TagId": 361129,
     "TagType": 26,
     "Names": [
@@ -2100,6 +2415,279 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361135,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Freezing Trap",
+      "Trampa congelante",
+      "Armadilha Congelante",
+      "Freezing Trap",
+      "Trampa congelante",
+      "Piège givrant",
+      "Замораживающая ловушка",
+      "Eiskältefalle",
+      "Armadilha Congelante",
+      "Trappola Congelante",
+      "빙결 덫",
+      "冰凍陷阱",
+      "冰冻陷阱"
+    ],
+    "Media": "spell_frost_chainsofice.jpg"
+  },
+  {
+    "TagId": 361136,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Freezing Trap",
+      "Trampa congelante",
+      "Armadilha Congelante",
+      "Freezing Trap",
+      "Trampa congelante",
+      "Piège givrant",
+      "Замораживающая ловушка",
+      "Eiskältefalle",
+      "Armadilha Congelante",
+      "Trappola Congelante",
+      "빙결 덫",
+      "冰凍陷阱",
+      "冰冻陷阱"
+    ],
+    "Media": "spell_frost_chainsofice.jpg"
+  },
+  {
+    "TagId": 361137,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blink",
+      "Traslación",
+      "Lampejo",
+      "Blink",
+      "Traslación",
+      "Transfert",
+      "Скачок",
+      "Blinzeln",
+      "Lampejo",
+      "Traslazione",
+      "점멸",
+      "閃現術",
+      "闪现术"
+    ],
+    "Media": "spell_arcane_blink.jpg"
+  },
+  {
+    "TagId": 361138,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roll",
+      "Rodar",
+      "Rolamento",
+      "Roll",
+      "Rodar",
+      "Roulade",
+      "Кувырок",
+      "Rollen",
+      "Rolamento",
+      "Capriola",
+      "구르기",
+      "翻滾",
+      "滚地翻"
+    ],
+    "Media": "ability_monk_roll.jpg"
+  },
+  {
+    "TagId": 361139,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Charge",
+      "Cargar",
+      "Investida",
+      "Charge",
+      "Cargar",
+      "Charge",
+      "Рывок",
+      "Ansturm",
+      "Investida",
+      "Carica",
+      "돌진",
+      "衝鋒",
+      "冲锋"
+    ],
+    "Media": "ability_warrior_charge.jpg"
+  },
+  {
+    "TagId": 361141,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heroic Leap",
+      "Salto heroico",
+      "Salto Heroico",
+      "Heroic Leap",
+      "Salto heroico",
+      "Bond héroïque",
+      "Героический прыжок",
+      "Heldenhafter Sprung",
+      "Salto Heroico",
+      "Balzo Eroico",
+      "영웅의 도약",
+      "英勇躍擊",
+      "英勇飞跃"
+    ],
+    "Media": "ability_heroicleap.jpg"
+  },
+  {
+    "TagId": 361142,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon",
+      "Arpón",
+      "Arpão",
+      "Harpoon",
+      "Arpón",
+      "Harpon",
+      "Гарпун",
+      "Harpune",
+      "Arpão",
+      "Arpione",
+      "작살",
+      "魚叉",
+      "鱼叉猛刺"
+    ],
+    "Media": "ability_hunter_harpoon.jpg"
+  },
+  {
+    "TagId": 361143,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Clash",
+      "Colisión",
+      "Colisão",
+      "Clash",
+      "Colisión",
+      "Fracas",
+      "Столкновение",
+      "Aufprall",
+      "Colisão",
+      "Scontro",
+      "충돌",
+      "天引躍擊",
+      "对冲"
+    ],
+    "Media": "ability_monk_clashingoxcharge.jpg"
+  },
+  {
+    "TagId": 361147,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alter Time",
+      "Alterar el tiempo",
+      "Alterar Tempo",
+      "Alter Time",
+      "Alterar el tiempo",
+      "Altérer le temps",
+      "Манипуляции со временем",
+      "Zeitverschiebung",
+      "Alterar Tempo",
+      "Riavvolgimento Temporale",
+      "시간 돌리기",
+      "時光倒轉",
+      "操控时间"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 361148,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Air Vortex",
+      "Vórtice de viento",
+      "Vórtice de Ar",
+      "Air Vortex",
+      "Vórtice de aire",
+      "Vortex aérien",
+      "Воздушная воронка",
+      "Luftvortex",
+      "Vórtice de Ar",
+      "Vortice d'Aria",
+      "바람의 소용돌이",
+      "空氣漩渦",
+      "空气涡流"
+    ],
+    "Media": "spell_druid_ursolsvortex.jpg"
+  },
+  {
+    "TagId": 361149,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gust of Wind",
+      "Racha de viento",
+      "Vendaval",
+      "Gust of Wind",
+      "Racha de viento",
+      "Bourrasque",
+      "Порыв ветра",
+      "Rückenwind",
+      "Vendaval",
+      "Folata di Vento",
+      "돌풍",
+      "陣風",
+      "阵风"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 361150,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bomba de Fumaça",
+      "Smoke Bomb",
+      "Bomba de humo",
+      "Bombe fumigène",
+      "Дымовая шашка",
+      "Rauchbombe",
+      "Bomba de Fumaça",
+      "Bomba Fumogena",
+      "연막탄",
+      "煙霧彈",
+      "烟雾弹"
+    ],
+    "Media": "ability_rogue_smoke.jpg"
+  },
+  {
+    "TagId": 361151,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disengage",
+      "Separación",
+      "Desvencilhar",
+      "Disengage",
+      "Separación",
+      "Désengagement",
+      "Отрыв",
+      "Rückzug",
+      "Desvencilhar",
+      "Disimpegno",
+      "철수",
+      "逃脫",
+      "逃脱"
+    ],
+    "Media": "ability_rogue_feint.jpg"
+  },
+  {
     "TagId": 361153,
     "TagType": 26,
     "Names": [
@@ -2142,6 +2730,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361156,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Winter's Chill",
+      "Escalofrío invernal",
+      "Calafrio do Inverno",
+      "Winter's Chill",
+      "Escalofrío invernal",
+      "Froid de l’hiver",
+      "Зимняя стужа",
+      "Winterkälte",
+      "Calafrio do Inverno",
+      "Gelo Invernale",
+      "혹한의 추위",
+      "深冬之寒",
+      "深冬之寒"
+    ],
+    "Media": "ability_mage_chilledtothebone.jpg"
+  },
+  {
     "TagId": 361157,
     "TagType": 26,
     "Names": [
@@ -2161,6 +2770,27 @@
       "召唤求生原型"
     ],
     "Media": "pet_type_critter.jpg"
+  },
+  {
+    "TagId": 361158,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deep Freeze",
+      "Congelación profunda",
+      "Congelamento Profundo",
+      "Deep Freeze",
+      "Congelación profunda",
+      "Congélation",
+      "Глубокая заморозка",
+      "Tieffrieren",
+      "Congelamento Profundo",
+      "Gelo Profondo",
+      "동결",
+      "極度冰凍",
+      "深度冻结"
+    ],
+    "Media": "ability_mage_deepfreeze.jpg"
   },
   {
     "TagId": 361159,
@@ -2203,6 +2833,27 @@
       "[DNT] Accept Quest QID64778"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361163,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vehicle",
+      "Vehículo",
+      "Veículo",
+      "Vehicle",
+      "Vehículo",
+      "Véhicule",
+      "Транспорт",
+      "Transportmittel",
+      "Veículo",
+      "Veicolo",
+      "차량",
+      "載具",
+      "载具"
+    ],
+    "Media": "inv_horse3saddle008_donkey.jpg"
   },
   {
     "TagId": 361164,
@@ -2499,6 +3150,27 @@
     "Media": "ability_evoker_return2.jpg"
   },
   {
+    "TagId": 361179,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Startled",
+      "Alarmada",
+      "Espantado",
+      "Startled",
+      "Sobresaltada",
+      "Surprise",
+      "Испуг",
+      "Erschrocken",
+      "Espantado",
+      "Spaventato",
+      "놀람",
+      "受驚",
+      "受惊"
+    ],
+    "Media": "spell_shadow_possession.jpg"
+  },
+  {
     "TagId": 361180,
     "TagType": 26,
     "Names": [
@@ -2560,6 +3232,27 @@
       "Not Enough Energy"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361184,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Feed",
+      "Alimentar",
+      "Alimentar",
+      "Feed",
+      "Alimentar",
+      "Nourrir",
+      "Кормление",
+      "Fressen",
+      "Alimentar",
+      "Nutrimento",
+      "먹이 주기",
+      "餵食",
+      "喂食"
+    ],
+    "Media": "inv_misc_food_54.jpg"
   },
   {
     "TagId": 361185,
@@ -3129,6 +3822,27 @@
     "Media": "spell_broker_nova.jpg"
   },
   {
+    "TagId": 361217,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soothed",
+      "Calmada",
+      "Confortado",
+      "Soothed",
+      "En calma",
+      "Apaisée",
+      "Успокоение",
+      "Besänftigt",
+      "Confortado",
+      "Placato",
+      "진정됨",
+      "受到安撫",
+      "被安抚"
+    ],
+    "Media": "ability_hunter_beastsoothe.jpg"
+  },
+  {
     "TagId": 361218,
     "TagType": 26,
     "Names": [
@@ -3148,6 +3862,27 @@
       "残肢的召唤"
     ],
     "Media": "inv_mawguardhandmountblack.jpg"
+  },
+  {
+    "TagId": 361219,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ignite",
+      "Ignición",
+      "Incendiar",
+      "Ignite",
+      "Ignición",
+      "Embrasement",
+      "Воспламенение",
+      "Entzünden",
+      "Incendiar",
+      "Incendio",
+      "작열",
+      "點燃",
+      "点燃"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
   },
   {
     "TagId": 361221,
@@ -3523,6 +4258,111 @@
       "Automa Core Summoned by Oracle (DNT)"
     ],
     "Media": "spell_progenitor_orb2.jpg"
+  },
+  {
+    "TagId": 361241,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Void",
+      "El Vacío",
+      "O Caos",
+      "The Void",
+      "El Vacío",
+      "Le Vide",
+      "Бездна",
+      "Die Leere",
+      "O Caos",
+      "Il Vuoto",
+      "공허",
+      "虛無",
+      "虚空"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361242,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Void",
+      "El Vacío",
+      "O Caos",
+      "The Void",
+      "El Vacío",
+      "Le Vide",
+      "Бездна",
+      "Die Leere",
+      "O Caos",
+      "Il Vuoto",
+      "공허",
+      "虛無",
+      "虚空"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361245,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jet Pack",
+      "Cinturón cohete",
+      "Mochila a Jato",
+      "Jet Pack",
+      "Cinturón cohete",
+      "Propulseurs",
+      "Реактивный ранец",
+      "Tragbarer Düsenantrieb",
+      "Mochila a Jato",
+      "Zaino Razzo",
+      "도약기",
+      "噴射背包",
+      "喷气背包"
+    ],
+    "Media": "inv_gizmo_rocketlauncher.jpg"
+  },
+  {
+    "TagId": 361246,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thrust",
+      "Propulsión",
+      "Propulsão",
+      "Thrust",
+      "Avanzar",
+      "Coup de lance",
+      "Рывок",
+      "Beschleunigen",
+      "Propulsão",
+      "Affondo",
+      "추진",
+      "推進",
+      "助推"
+    ],
+    "Media": "ability_racial_rocketbarrage.jpg"
+  },
+  {
+    "TagId": 361247,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Skydive Override",
+      "Anulación de paracaidismo",
+      "Cancelar Salto",
+      "Skydive Override",
+      "Anular Paracaidismo",
+      "Annulation chute libre",
+      "Прыжок с парашютом – отмена",
+      "Sturzflug überschreiben",
+      "Cancelar Salto",
+      "Annullamento Picchiata",
+      "하늘 강하 무효화",
+      "跳傘手動操控",
+      "跳伞覆盖"
+    ],
+    "Media": "inv_gizmo_rocketlauncher.jpg"
   },
   {
     "TagId": 361251,
@@ -5604,6 +6444,90 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361372,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe Congelado",
+      "Frozen Orb",
+      "Orbe congelado",
+      "Orbe gelé",
+      "Ледяной шар",
+      "Gefrorene Kugel",
+      "Orbe Congelado",
+      "Globo Congelato",
+      "얼어붙은 구슬",
+      "冰霜之球",
+      "寒冰宝珠"
+    ],
+    "Media": "spell_frost_frozenorb.jpg"
+  },
+  {
+    "TagId": 361382,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "ability_mage_arcanosphere.jpg"
+  },
+  {
+    "TagId": 361383,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361384,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcanosphere",
+      "Esferarcana",
+      "Arcanosfera",
+      "Arcanosphere",
+      "Arcanosfera",
+      "Arcanosphère",
+      "Чародейская сфера",
+      "Arkanosphäre",
+      "Arcanosfera",
+      "Arcanosfera",
+      "비전의 구슬",
+      "秘法魔球",
+      "奥能之球"
+    ],
+    "Media": "spell_mage_supernova_nightborne.jpg"
+  },
+  {
     "TagId": 361385,
     "TagType": 26,
     "Names": [
@@ -5875,6 +6799,27 @@
       "神圣冲锋"
     ],
     "Media": "warrior_talent_icon_skirmisher.jpg"
+  },
+  {
+    "TagId": 361399,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Haymaker",
+      "Mazazo",
+      "Apagão",
+      "Haymaker",
+      "Gancho",
+      "Main lourde",
+      "Удар с размаху",
+      "Schwinger",
+      "Apagão",
+      "Martellata",
+      "비장의 주먹",
+      "奮力一擊",
+      "强力一击"
+    ],
+    "Media": "ability_racial_haymaker.jpg"
   },
   {
     "TagId": 361400,
@@ -6297,6 +7242,90 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361426,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slow Time",
+      "Tiempo de ralentización",
+      "Tempo Desacelerado",
+      "Slow Time",
+      "Tiempo ralentizado",
+      "Temps ralenti",
+      "Замедление времени",
+      "Langsame Zeit",
+      "Tempo Desacelerado",
+      "Tempo Lento",
+      "느린 시간",
+      "時光遲緩",
+      "减缓时间"
+    ],
+    "Media": "spell_mage_altertime_active.jpg"
+  },
+  {
+    "TagId": 361427,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slow Time",
+      "Tiempo de ralentización",
+      "Tempo Desacelerado",
+      "Slow Time",
+      "Tiempo ralentizado",
+      "Temps ralenti",
+      "Замедление времени",
+      "Langsame Zeit",
+      "Tempo Desacelerado",
+      "Tempo Lento",
+      "느린 시간",
+      "時光遲緩",
+      "减缓时间"
+    ],
+    "Media": "petbattle_speed-down.jpg"
+  },
+  {
+    "TagId": 361428,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fast Time",
+      "Tiempo rápido",
+      "Tempo Acelerado",
+      "Fast Time",
+      "Tiempo acelerado",
+      "Temps accéléré",
+      "Ускорение времени",
+      "Schnelle Zeit",
+      "Tempo Acelerado",
+      "Tempo Rapido",
+      "빠른 시간",
+      "時光飛快",
+      "时间加速"
+    ],
+    "Media": "spell_mage_altertime.jpg"
+  },
+  {
+    "TagId": 361429,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fast Time",
+      "Tiempo rápido",
+      "Tempo Acelerado",
+      "Fast Time",
+      "Tiempo acelerado",
+      "Temps accéléré",
+      "Ускорение времени",
+      "Schnelle Zeit",
+      "Tempo Acelerado",
+      "Tempo Rapido",
+      "빠른 시간",
+      "時光飛快",
+      "时间加速"
+    ],
+    "Media": "petbattle_speed.jpg"
+  },
+  {
     "TagId": 361432,
     "TagType": 26,
     "Names": [
@@ -6444,6 +7473,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361441,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Crash",
+      "Fragor de sombra",
+      "Colisão de Sombras",
+      "Shadow Crash",
+      "Fragor de las Sombras",
+      "Déferlante d’ombre",
+      "Темное сокрушение",
+      "Schattengeschoss",
+      "Colisão de Sombras",
+      "Schianto d'Ombra",
+      "어둠 붕괴",
+      "暗影暴擊",
+      "暗影冲撞"
+    ],
+    "Media": "spell_shadow_shadowfury.jpg"
+  },
+  {
     "TagId": 361442,
     "TagType": 26,
     "Names": [
@@ -6570,6 +7620,27 @@
     "Media": "ability_earthenfury_giftofearth.jpg"
   },
   {
+    "TagId": 361451,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_fire_playingwithfire.jpg"
+  },
+  {
     "TagId": 361452,
     "TagType": 26,
     "Names": [
@@ -6610,6 +7681,27 @@
       "硬化痰液"
     ],
     "Media": "ability_earthenfury_giftofearth.jpg"
+  },
+  {
+    "TagId": 361454,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eye Beam",
+      "Haz ocular",
+      "Raio Ocular",
+      "Eye Beam",
+      "Haz ocular",
+      "Rayon accablant",
+      "Пронзающий взгляд",
+      "Augenstrahl",
+      "Raio Ocular",
+      "Raggio Oculare",
+      "안광",
+      "魔眼光束",
+      "眼棱"
+    ],
+    "Media": "ability_demonhunter_eyebeam.jpg"
   },
   {
     "TagId": 361455,
@@ -6673,6 +7765,69 @@
       "Magic Fractal Channel to Oracle Bunny (DNT)"
     ],
     "Media": "ability_mage_waterjet.jpg"
+  },
+  {
+    "TagId": 361458,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roll",
+      "Rodar",
+      "Rolamento",
+      "Roll",
+      "Rodar",
+      "Roulade",
+      "Кувырок",
+      "Rollen",
+      "Rolamento",
+      "Capriola",
+      "구르기",
+      "翻滾",
+      "滚地翻"
+    ],
+    "Media": "ability_monk_roll.jpg"
+  },
+  {
+    "TagId": 361459,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roll",
+      "Rodar",
+      "Rolamento",
+      "Roll",
+      "Rodar",
+      "Roulade",
+      "Кувырок",
+      "Rollen",
+      "Rolamento",
+      "Capriola",
+      "구르기",
+      "翻滾",
+      "滚地翻"
+    ],
+    "Media": "ability_monk_roll.jpg"
+  },
+  {
+    "TagId": 361460,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Word: Death",
+      "Palabra de las sombras: muerte",
+      "Palavra Sombria: Morte",
+      "Shadow Word: Death",
+      "Palabra de las Sombras: muerte",
+      "Mot de l’ombre\u00A0: Mort",
+      "Слово Тьмы: Смерть",
+      "Schattenwort: Tod",
+      "Palavra Sombria: Morte",
+      "Parola d'Ombra: Morte",
+      "어둠의 권능: 죽음",
+      "暗言術：死",
+      "暗言术：灭"
+    ],
+    "Media": "spell_shadow_demonicfortitude.jpg"
   },
   {
     "TagId": 361461,
@@ -6988,6 +8143,27 @@
       "传送"
     ],
     "Media": "spell_holy_borrowedtime.jpg"
+  },
+  {
+    "TagId": 361476,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Searching for Players",
+      "Buscando jugadores",
+      "Procurando Jogadores",
+      "Searching for Players",
+      "Buscando jugadores",
+      "Recherche de personnages-joueurs",
+      "Поиск игроков",
+      "Suche nach Spielercharakteren",
+      "Procurando Jogadores",
+      "Ricerca Giocatori",
+      "플레이어 탐색 중",
+      "玩家搜尋中",
+      "正在搜寻玩家"
+    ],
+    "Media": "achievement_guildperk_everybodysfriend.jpg"
   },
   {
     "TagId": 361477,
@@ -7431,6 +8607,27 @@
     "Media": "ability_evoker_livingflame.jpg"
   },
   {
+    "TagId": 361501,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Void",
+      "El Vacío",
+      "O Caos",
+      "The Void",
+      "El Vacío",
+      "Le Vide",
+      "Бездна",
+      "Die Leere",
+      "O Caos",
+      "Il Vuoto",
+      "공허",
+      "虛無",
+      "虚空"
+    ],
+    "Media": "ability_warlock_voidzone.jpg"
+  },
+  {
     "TagId": 361502,
     "TagType": 26,
     "Names": [
@@ -7704,6 +8901,27 @@
     "Media": "ability_evoker_essenceburst.jpg"
   },
   {
+    "TagId": 361520,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drop",
+      "Botín",
+      "Saque",
+      "Drop",
+      "Soltar",
+      "Lâcher",
+      "Бросок",
+      "Fallen lassen",
+      "Saque",
+      "Rilascio",
+      "전리품 획득",
+      "掉落",
+      "掉落"
+    ],
+    "Media": "inv_misc_throwingball_01.jpg"
+  },
+  {
     "TagId": 361521,
     "TagType": 26,
     "Names": [
@@ -7828,6 +9046,27 @@
       "[DNT] Set Keystone Map: Eye of Azshara"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361527,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drop",
+      "Botín",
+      "Saque",
+      "Drop",
+      "Soltar",
+      "Lâcher",
+      "Бросок",
+      "Fallen lassen",
+      "Saque",
+      "Rilascio",
+      "떨어뜨리기",
+      "掉落",
+      "放下"
+    ],
+    "Media": "inv_misc_throwingball_01.jpg"
   },
   {
     "TagId": 361528,
@@ -9111,6 +10350,48 @@
     "Media": "spell_progenitor_buff.jpg"
   },
   {
+    "TagId": 361595,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Air Drop",
+      "Incursión aérea",
+      "Reforço Aéreo",
+      "Air Drop",
+      "Entrega aérea",
+      "Largage aérien",
+      "Сброс груза",
+      "Fallschirmabwurf",
+      "Reforço Aéreo",
+      "Rifornimento Aereo",
+      "공중 투하",
+      "空投",
+      "空投"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361596,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Air Drop",
+      "Incursión aérea",
+      "Reforço Aéreo",
+      "Air Drop",
+      "Entrega aérea",
+      "Largage aérien",
+      "Сброс груза",
+      "Fallschirmabwurf",
+      "Reforço Aéreo",
+      "Rifornimento Aereo",
+      "공중 투하",
+      "空投",
+      "空投"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 361597,
     "TagType": 26,
     "Names": [
@@ -9447,6 +10728,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361618,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mighty Ox Kick",
+      "Poderosa Patada del Buey",
+      "Coice Potente do Boi",
+      "Mighty Ox Kick",
+      "Patada del buey poderoso",
+      "Coup de pied surpuissant du buffle",
+      "Удар могучего быка",
+      "Tritt des mächtigen Ochsen",
+      "Coice Potente do Boi",
+      "Calcio Potente dello Yak",
+      "힘센 황소의 발차기",
+      "玄牛踢",
+      "蛮牛踢"
+    ],
+    "Media": "ability_monk_mightyoxkick.jpg"
+  },
+  {
     "TagId": 361619,
     "TagType": 26,
     "Names": [
@@ -9466,6 +10768,48 @@
       "Kill Credit"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361620,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ghost Wolf",
+      "Lobo fantasmal",
+      "Lobo Fantasma",
+      "Ghost Wolf",
+      "Lobo fantasmal",
+      "Loup fantôme",
+      "Призрачный волк",
+      "Geisterwolf",
+      "Lobo Fantasma",
+      "Lupo Spettrale",
+      "늑대 정령",
+      "鬼魂之狼",
+      "幽魂之狼"
+    ],
+    "Media": "spell_nature_spiritwolf.jpg"
+  },
+  {
+    "TagId": 361622,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fists of Earthen Fury",
+      "Puños de furia terránea",
+      "Punhos da Fúria Terrana",
+      "Fists of Earthen Fury",
+      "Puños de furia terránea",
+      "Poings de furie de la Terre",
+      "Кулаки ярости земли",
+      "Fäuste des Erdzorns",
+      "Punhos da Fúria Terrana",
+      "Pugni della Furia Terrigena",
+      "대지 분노의 주먹",
+      "大地怒靈之拳",
+      "大地之怒重拳"
+    ],
+    "Media": "monk_ability_fistoffury.jpg"
   },
   {
     "TagId": 361623,
@@ -9510,6 +10854,27 @@
     "Media": "inv_plate_raiddeathknightprogenitor_d_01_shoulder.jpg"
   },
   {
+    "TagId": 361625,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hammer of Justice",
+      "Martillo de justicia",
+      "Martelo da Justiça",
+      "Hammer of Justice",
+      "Martillo de Justicia",
+      "Marteau de la justice",
+      "Молот правосудия",
+      "Hammer der Gerechtigkeit",
+      "Martelo da Justiça",
+      "Martello della Giustizia",
+      "심판의 망치",
+      "制裁之錘",
+      "制裁之锤"
+    ],
+    "Media": "spell_holy_sealofmight.jpg"
+  },
+  {
     "TagId": 361627,
     "TagType": 26,
     "Names": [
@@ -9529,6 +10894,48 @@
       "元螈粘液"
     ],
     "Media": "inv_inscription_pigment_sapphire.jpg"
+  },
+  {
+    "TagId": 361628,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Darkness",
+      "Oscuridad",
+      "Escuridão",
+      "Darkness",
+      "Oscuridad",
+      "Ténèbres",
+      "Мрак",
+      "Dunkelheit",
+      "Escuridão",
+      "Oscurità",
+      "어둠",
+      "黑暗",
+      "黑暗"
+    ],
+    "Media": "ability_demonhunter_darkness.jpg"
+  },
+  {
+    "TagId": 361629,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zona Antimagia",
+      "Anti-Magic Zone",
+      "Zona antimagia",
+      "Zone anti-magie",
+      "Зона антимагии",
+      "Antimagisches Feld",
+      "Zona Antimagia",
+      "Area Antimagia",
+      "대마법 지대",
+      "反魔法力場",
+      "反魔法领域"
+    ],
+    "Media": "spell_deathknight_antimagiczone.jpg"
   },
   {
     "TagId": 361630,
@@ -12113,6 +13520,27 @@
     "Media": "spell_fire_firebolt02.jpg"
   },
   {
+    "TagId": 361762,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ghost",
+      "Fantasma",
+      "Fantasma",
+      "Ghost",
+      "Fantasma",
+      "Fantôme",
+      "Призрак",
+      "Geist",
+      "Fantasma",
+      "Fantasma",
+      "유령",
+      "鬼魂",
+      "鬼魂"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
     "TagId": 361763,
     "TagType": 26,
     "Names": [
@@ -13476,6 +14904,27 @@
     "Media": "inv_misc_enchantedpearlf.jpg"
   },
   {
+    "TagId": 361832,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Void",
+      "El Vacío",
+      "O Caos",
+      "The Void",
+      "El Vacío",
+      "Le Vide",
+      "Бездна",
+      "Die Leere",
+      "O Caos",
+      "Il Vuoto",
+      "공허",
+      "虛無",
+      "虚空"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 361833,
     "TagType": 26,
     "Names": [
@@ -13495,6 +14944,27 @@
       "宇宙能量冲斥"
     ],
     "Media": "spell_progenitor_missile.jpg"
+  },
+  {
+    "TagId": 361834,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Void",
+      "El Vacío",
+      "O Caos",
+      "The Void",
+      "El Vacío",
+      "Le Vide",
+      "Бездна",
+      "Die Leere",
+      "O Caos",
+      "Il Vuoto",
+      "공허",
+      "虛無",
+      "虚空"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 361835,
@@ -14757,6 +16227,27 @@
     "Media": "inv_trinket_progenitorraid_04_yellow.jpg"
   },
   {
+    "TagId": 361901,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slam",
+      "Embate",
+      "Batida",
+      "Slam",
+      "Embate",
+      "Heurtoir",
+      "Мощный удар",
+      "Zerschmettern",
+      "Batida",
+      "Contusione",
+      "내려치기",
+      "猛擊",
+      "猛击"
+    ],
+    "Media": "inv_misc_fish_88.jpg"
+  },
+  {
     "TagId": 361902,
     "TagType": 26,
     "Names": [
@@ -14776,6 +16267,48 @@
       "[DNT] Progenitor Dissolve"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361903,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
+    "TagId": 361904,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
   },
   {
     "TagId": 361906,
@@ -14988,6 +16521,27 @@
     "Media": "inv_inscription_80_distilledwater.jpg"
   },
   {
+    "TagId": 361920,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bounty",
+      "Recompensa",
+      "Contrato",
+      "Bounty",
+      "Recompensa",
+      "Prime",
+      "Награда",
+      "Beute",
+      "Contrato",
+      "Taglia",
+      "현상금",
+      "賞金",
+      "赏金"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 361921,
     "TagType": 26,
     "Names": [
@@ -15051,6 +16605,48 @@
     "Media": "spell_shadow_devouringplague.jpg"
   },
   {
+    "TagId": 361924,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jump Pad",
+      "Plataforma de salto",
+      "Plataforma de Salto",
+      "Jump Pad",
+      "Plataforma de salto",
+      "Plateforme de saut",
+      "Прыжковая платформа",
+      "Sprungplattform",
+      "Plataforma de Salto",
+      "Piattaforma di Salto",
+      "도약 장치",
+      "跳躍平台",
+      "跳板"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361925,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jump Pad",
+      "Plataforma de salto",
+      "Plataforma de Salto",
+      "Jump Pad",
+      "Plataforma de salto",
+      "Plateforme de saut",
+      "Прыжковая платформа",
+      "Sprungplattform",
+      "Plataforma de Salto",
+      "Piattaforma di Salto",
+      "도약 장치",
+      "跳躍平台",
+      "跳板"
+    ],
+    "Media": "spell_magic_featherfall.jpg"
+  },
+  {
     "TagId": 361926,
     "TagType": 26,
     "Names": [
@@ -15112,6 +16708,27 @@
       "洞察的波可波克"
     ],
     "Media": "inv_mawexpansionfliermountgreen.jpg"
+  },
+  {
+    "TagId": 361929,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rocket Parachute",
+      "Paracaídas a propulsión",
+      "Paraquedas Foguete",
+      "Rocket Parachute",
+      "Paracaídas propulsor",
+      "Parachute de fusée",
+      "Ракетный парашют",
+      "Raketenfallschirm",
+      "Paraquedas Foguete",
+      "Paracadute a Razzo",
+      "로켓 낙하산",
+      "火箭降落傘",
+      "火箭降落伞"
+    ],
+    "Media": "inv_gizmo_rocketlauncher.jpg"
   },
   {
     "TagId": 361932,
@@ -15196,6 +16813,27 @@
       "翻滚！"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361937,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jump Pad",
+      "Plataforma de salto",
+      "Plataforma de Salto",
+      "Jump Pad",
+      "Plataforma de salto",
+      "Plateforme de saut",
+      "Прыжковая платформа",
+      "Sprungplattform",
+      "Plataforma de Salto",
+      "Piattaforma di Salto",
+      "도약 장치",
+      "跳躍平台",
+      "跳板"
+    ],
+    "Media": "inv_gizmo_rocketbootextreme.jpg"
   },
   {
     "TagId": 361938,
@@ -15597,6 +17235,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 361960,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poison Zone",
+      "Zona de veneno",
+      "Área Venenosa",
+      "Poison Zone",
+      "Zona de veneno",
+      "Zone d’empoisonnement",
+      "Отравленная зона",
+      "Giftzone",
+      "Área Venenosa",
+      "Zona Velenosa",
+      "독성 지대",
+      "毒之領域",
+      "剧毒地带"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
+  },
+  {
     "TagId": 361961,
     "TagType": 26,
     "Names": [
@@ -15616,6 +17275,27 @@
       "口语 I"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361962,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poison Zone",
+      "Zona de veneno",
+      "Área Venenosa",
+      "Poison Zone",
+      "Zona de veneno",
+      "Zone d’empoisonnement",
+      "Отравленная зона",
+      "Giftzone",
+      "Área Venenosa",
+      "Zona Velenosa",
+      "독성 지대",
+      "毒之領域",
+      "剧毒地带"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
   },
   {
     "TagId": 361963,
@@ -15952,6 +17632,111 @@
       "[DNT] Ritual Effect"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 361983,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Attack Combo",
+      "Combinación de ataque",
+      "Combo de Ataque",
+      "Attack Combo",
+      "Combo de ataque",
+      "Combo d’attaque",
+      "Серия атак",
+      "Angriffscombo",
+      "Combo de Ataque",
+      "Combo d'Attacco",
+      "공격 연계",
+      "攻擊連擊",
+      "连续攻击"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
+    "TagId": 361984,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vehicle",
+      "Vehículo",
+      "Veículo",
+      "Vehicle",
+      "Vehículo",
+      "Véhicule",
+      "Транспорт",
+      "Fahrzeug",
+      "Veículo",
+      "Veicolo",
+      "차량",
+      "載具",
+      "载具"
+    ],
+    "Media": "inv_horse3saddle008_donkey.jpg"
+  },
+  {
+    "TagId": 361985,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vehicle",
+      "Vehículo",
+      "Veículo",
+      "Vehicle",
+      "Vehículo",
+      "Véhicule",
+      "Транспорт",
+      "Fahrzeug",
+      "Veículo",
+      "Veicolo",
+      "차량",
+      "載具",
+      "载具"
+    ],
+    "Media": "inv_horse3saddle008_donkey.jpg"
+  },
+  {
+    "TagId": 361986,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Exhausted",
+      "Agotada",
+      "Exausto",
+      "Exhausted",
+      "Agotado",
+      "Épuisement",
+      "Изнеможение",
+      "Erschöpft",
+      "Exausto",
+      "Sfinimento",
+      "기력 소진",
+      "精疲力盡",
+      "精疲力竭"
+    ],
+    "Media": "spell_frost_stun.jpg"
+  },
+  {
+    "TagId": 361987,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Crash",
+      "Fragor de sombra",
+      "Colisão de Sombras",
+      "Shadow Crash",
+      "Fragor de las Sombras",
+      "Déferlante d’ombre",
+      "Темное сокрушение",
+      "Schattengeschoss",
+      "Colisão de Sombras",
+      "Schianto d'Ombra",
+      "어둠 붕괴",
+      "暗影暴擊",
+      "暗影冲撞"
+    ],
+    "Media": "spell_shadow_shadowfury.jpg"
   },
   {
     "TagId": 361988,

@@ -126,6 +126,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372009,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bandage",
+      "Venda",
+      "Bandagem",
+      "Bandage",
+      "Venda",
+      "Bandage",
+      "Перевязка",
+      "Verband",
+      "Bandagem",
+      "Bendaggio",
+      "붕대",
+      "繃帶",
+      "绷带"
+    ],
+    "Media": "inv_misc_bandage_17.jpg"
+  },
+  {
+    "TagId": 372010,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Potion",
+      "Poción de escudo",
+      "Poção de Proteção",
+      "Shield Potion",
+      "Poción de escudo",
+      "Potion de bouclier",
+      "Зелье щита",
+      "Schildtrank",
+      "Poção de Proteção",
+      "Pozione dello Scudo",
+      "보호막 물약",
+      "護盾藥水",
+      "护盾药水"
+    ],
+    "Media": "trade_alchemy_potiona5.jpg"
+  },
+  {
+    "TagId": 372011,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taste of Blood",
+      "Sabor a sangre",
+      "Gosto de Sangue",
+      "Taste of Blood",
+      "Sabor a sangre",
+      "Goût du sang",
+      "Вкус крови",
+      "Verlangen nach Blut",
+      "Gosto de Sangue",
+      "Sapore del Sangue",
+      "피의 풍미",
+      "鮮血體驗",
+      "鲜血气息"
+    ],
+    "Media": "ability_ironmaidens_whirlofblood.jpg"
+  },
+  {
+    "TagId": 372012,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taste of Blood",
+      "Sabor a sangre",
+      "Gosto de Sangue",
+      "Taste of Blood",
+      "Sabor a sangre",
+      "Goût du sang",
+      "Вкус крови",
+      "Verlangen nach Blut",
+      "Gosto de Sangue",
+      "Sapore del Sangue",
+      "피의 풍미",
+      "鮮血體驗",
+      "鲜血气息"
+    ],
+    "Media": "ability_ironmaidens_whirlofblood.jpg"
+  },
+  {
+    "TagId": 372013,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Critical Focus",
+      "Enfoque crítico",
+      "Foco Crítico",
+      "Critical Focus",
+      "Enfoque crítico",
+      "Focalisation critique",
+      "Предельная концентрация",
+      "Kritischer Fokus",
+      "Foco Crítico",
+      "Concentrazione Critica",
+      "극도의 집중력",
+      "致命專注",
+      "爆击专注"
+    ],
+    "Media": "rogue_shadowfocus.jpg"
+  },
+  {
     "TagId": 372014,
     "TagType": 26,
     "Names": [
@@ -1575,6 +1680,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372105,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Error",
+      "Error",
+      "Erro",
+      "Error",
+      "Error",
+      "Erreur",
+      "Ошибка",
+      "Fehler",
+      "Erro",
+      "Errore",
+      "오류",
+      "錯誤",
+      "错误"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372106,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Endurance",
+      "Robustez",
+      "Resistência",
+      "Endurance",
+      "Robustez",
+      "Endurance",
+      "Стойкость",
+      "Durchhaltevermögen",
+      "Resistência",
+      "Vigore",
+      "인내력",
+      "耐力",
+      "坚韧"
+    ],
+    "Media": "spell_holy_blessingofstamina.jpg"
+  },
+  {
     "TagId": 372107,
     "TagType": 26,
     "Names": [
@@ -1846,6 +1993,48 @@
       "蛛网冲击"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372126,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Face Your Foes",
+      "Enfrenta a tus enemigos",
+      "Encarar seus Inimigos",
+      "Face Your Foes",
+      "Enfréntate a tus enemigos",
+      "Face au danger",
+      "Лицом к лицу с врагами",
+      "Dem Feind trotzen",
+      "Encarar seus Inimigos",
+      "Sfida ai Nemici",
+      "정면승부",
+      "面對敵人",
+      "勇面敌人"
+    ],
+    "Media": "ability_garrosh_touch_of_yshaarj.jpg"
+  },
+  {
+    "TagId": 372127,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Face Your Foes",
+      "Enfrenta a tus enemigos",
+      "Encarar seus Inimigos",
+      "Face Your Foes",
+      "Enfréntate a tus enemigos",
+      "Face au danger",
+      "Лицом к лицу с врагами",
+      "Dem Feind trotzen",
+      "Encarar seus Inimigos",
+      "Sfida ai Nemici",
+      "정면승부",
+      "面對敵人",
+      "勇面敌人"
+    ],
+    "Media": "ability_garrosh_touch_of_yshaarj.jpg"
   },
   {
     "TagId": 372129,
@@ -2434,6 +2623,27 @@
       "昏迷"
     ],
     "Media": "spell_frost_stun.jpg"
+  },
+  {
+    "TagId": 372163,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reverse Harm",
+      "Daño inverso",
+      "Reverter Ameaça",
+      "Reverse Harm",
+      "Invertir daño",
+      "Inversion du mal",
+      "Обращение вреда",
+      "Schadensumkehr",
+      "Reverter Ameaça",
+      "Dolore Inverso",
+      "해악 역전",
+      "反轉傷害",
+      "逆转伤害"
+    ],
+    "Media": "ability_monk_expelharm.jpg"
   },
   {
     "TagId": 372164,
@@ -3213,6 +3423,27 @@
     "Media": "ability_monk_breathoffire.jpg"
   },
   {
+    "TagId": 372204,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reverse Harm",
+      "Daño inverso",
+      "Reverter Ameaça",
+      "Reverse Harm",
+      "Invertir daño",
+      "Inversion du mal",
+      "Обращение вреда",
+      "Schadensumkehr",
+      "Reverter Ameaça",
+      "Dolore Inverso",
+      "해악 역전",
+      "反轉傷害",
+      "逆转伤害"
+    ],
+    "Media": "ability_monk_expelharm.jpg"
+  },
+  {
     "TagId": 372206,
     "TagType": 26,
     "Names": [
@@ -3400,6 +3631,27 @@
       "抓住一颗星星2"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372215,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reverse Harm",
+      "Daño inverso",
+      "Reverter Ameaça",
+      "Reverse Harm",
+      "Invertir daño",
+      "Inversion du mal",
+      "Обращение вреда",
+      "Schadensumkehr",
+      "Reverter Ameaça",
+      "Dolore Inverso",
+      "해악 역전",
+      "反轉傷害",
+      "逆转伤害"
+    ],
+    "Media": "ability_monk_expelharm.jpg"
   },
   {
     "TagId": 372217,
@@ -4158,6 +4410,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372254,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cloak and Dagger",
+      "Capa y daga",
+      "Capa e Espada",
+      "Cloak and Dagger",
+      "Capa y daga",
+      "Poignards volants",
+      "Рыцарь плаща и кинжала",
+      "Mantel und Degen",
+      "Capa e Espada",
+      "Spionaggio",
+      "암살자의 몸가짐",
+      "影襲",
+      "暗里藏刀"
+    ],
+    "Media": "ability_stealth.jpg"
+  },
+  {
     "TagId": 372255,
     "TagType": 26,
     "Names": [
@@ -4177,6 +4450,27 @@
       "Generic Ping to Self"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372256,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cloak and Dagger",
+      "Capa y daga",
+      "Capa e Espada",
+      "Cloak and Dagger",
+      "Capa y daga",
+      "Poignards volants",
+      "Рыцарь плаща и кинжала",
+      "Mantel und Degen",
+      "Capa e Espada",
+      "Spionaggio",
+      "암살자의 몸가짐",
+      "影襲",
+      "暗里藏刀"
+    ],
+    "Media": "ability_stealth.jpg"
   },
   {
     "TagId": 372257,
@@ -4240,6 +4534,48 @@
       "新手料理师帽子"
     ],
     "Media": "achievement_cooking_pandarianmasterchef.jpg"
+  },
+  {
+    "TagId": 372260,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Glass Cannon",
+      "Cañón de cristal",
+      "Canhão de Cristal",
+      "Glass Cannon",
+      "Cañón de cristal",
+      "Canon en verre",
+      "Хрупкий разрушитель",
+      "Glaskanone",
+      "Canhão de Cristal",
+      "Cannone di Vetro",
+      "유리 대포",
+      "玻璃大砲",
+      "玻璃大炮"
+    ],
+    "Media": "inv_jewelcrafting_dragonseye02.jpg"
+  },
+  {
+    "TagId": 372261,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Executioner",
+      "Verdugo",
+      "Carrasco",
+      "Executioner",
+      "Verdugo",
+      "L’Exécutrice",
+      "Палач",
+      "Scharfrichter",
+      "Carrasco",
+      "Carnefice",
+      "집행자",
+      "處決者",
+      "刽子手"
+    ],
+    "Media": "inv_sword_48.jpg"
   },
   {
     "TagId": 372262,
@@ -5480,6 +5816,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372331,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frostscythe",
+      "Guadaña de escarcha",
+      "Foice Gélida",
+      "Frostscythe",
+      "Guadaña de Escarcha",
+      "Faux de givre",
+      "Ледяная коса",
+      "Frostsichel",
+      "Foice Gélida",
+      "Falce del Signore del Gelo",
+      "서리낫",
+      "冰霜鐮刀",
+      "冰霜之镰"
+    ],
+    "Media": "inv_staff_78.jpg"
+  },
+  {
+    "TagId": 372332,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Water Elemental",
+      "Invocar elemental de agua",
+      "Evocar Elemental da Água",
+      "Summon Water Elemental",
+      "Invocar elemental de agua",
+      "Invocation d’un élémentaire d’eau",
+      "Призыв элементаля воды",
+      "Wasserelementar beschwören",
+      "Evocar Elemental da Água",
+      "Evocazione: Elementale dell'Acqua",
+      "물의 정령 소환",
+      "召喚水元素",
+      "召唤水元素"
+    ],
+    "Media": "spell_frost_summonwaterelemental_2.jpg"
+  },
+  {
     "TagId": 372333,
     "TagType": 26,
     "Names": [
@@ -5519,6 +5897,27 @@
       "拉希奥变形"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372335,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Fire Elemental",
+      "Invocar elemental de fuego",
+      "Evocar Elemental do Fogo",
+      "Summon Fire Elemental",
+      "Invocar elemental de fuego",
+      "Invocation d’un élémentaire de feu",
+      "Призыв элементаля огня",
+      "Feuerelementar beschwören",
+      "Evocar Elemental do Fogo",
+      "Evocazione: Elementale del Fuoco",
+      "불의 정령 소환",
+      "召喚火元素",
+      "召唤火元素"
+    ],
+    "Media": "spell_fire_elemental_totem.jpg"
   },
   {
     "TagId": 372336,
@@ -5835,6 +6234,27 @@
     ]
   },
   {
+    "TagId": 372352,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sniper Rifle",
+      "Rifle de francotirador",
+      "Rifle de Franco-atirador",
+      "Sniper Rifle",
+      "Rifle de francotirador",
+      "Carabine de précision",
+      "Снайперская винтовка",
+      "Scharfschützengewehr",
+      "Rifle de Franco-atirador",
+      "Archibugio di Precisione",
+      "저격용 총",
+      "狙擊槍",
+      "狙击步枪"
+    ],
+    "Media": "inv_weapon_rifle_11.jpg"
+  },
+  {
     "TagId": 372353,
     "TagType": 26,
     "Names": [
@@ -5917,6 +6337,27 @@
       "乘坐巨龙到顶峰"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372357,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Explosive Shot",
+      "Disparo explosivo",
+      "Tiro Explosivo",
+      "Explosive Shot",
+      "Disparo explosivo",
+      "Tir explosif",
+      "Разрывной выстрел",
+      "Explosivschuss",
+      "Tiro Explosivo",
+      "Tiro Esplosivo",
+      "폭발 사격",
+      "爆裂射擊",
+      "爆炸射击"
+    ],
+    "Media": "ability_hunter_explosiveshot.jpg"
   },
   {
     "TagId": 372358,
@@ -6150,6 +6591,69 @@
     "Media": "spell_shaman_improvedfirenova.jpg"
   },
   {
+    "TagId": 372373,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Supernova",
+      "Supernova",
+      "Supernova",
+      "Supernova",
+      "Supernova",
+      "Supernova",
+      "Сверхновая",
+      "Supernova",
+      "Supernova",
+      "Supernova",
+      "초신성",
+      "超級新星",
+      "超级新星"
+    ],
+    "Media": "spell_mage_supernova.jpg"
+  },
+  {
+    "TagId": 372375,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shieldbreaker",
+      "Rompescudos",
+      "Quebra-Escudos",
+      "Shieldbreaker",
+      "Romperescudos",
+      "Brise-bouclier",
+      "Разбиватель щитов",
+      "Schildbrecher",
+      "Quebra-Escudos",
+      "Spezzascudo",
+      "방패 파괴자",
+      "破盾兵",
+      "破盾者"
+    ],
+    "Media": "ability_warrior_shieldbreak.jpg"
+  },
+  {
+    "TagId": 372377,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shieldbreaker",
+      "Rompescudos",
+      "Quebra-Escudos",
+      "Shieldbreaker",
+      "Romperescudos",
+      "Brise-bouclier",
+      "Разбиватель щитов",
+      "Schildbrecher",
+      "Quebra-Escudos",
+      "Spezzascudo",
+      "방패 파괴자",
+      "破盾兵",
+      "破盾者"
+    ],
+    "Media": "ability_warrior_shieldbreak.jpg"
+  },
+  {
     "TagId": 372379,
     "TagType": 26,
     "Names": [
@@ -6192,6 +6696,27 @@
     "Media": "achievement_quests_completed_08.jpg"
   },
   {
+    "TagId": 372381,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nature's Wrath",
+      "Ira de la Naturaleza",
+      "Fúria da Natureza",
+      "Nature's Wrath",
+      "Cólera de la Naturaleza",
+      "Courroux de la nature",
+      "Ярость природы",
+      "Zorn der Natur",
+      "Fúria da Natureza",
+      "Ira Naturale",
+      "자연의 격노",
+      "自然之怒",
+      "自然之怒"
+    ],
+    "Media": "spell_nature_thorns.jpg"
+  },
+  {
     "TagId": 372382,
     "TagType": 26,
     "Names": [
@@ -6213,6 +6738,27 @@
     "Media": "ability_warrior_colossussmash.jpg"
   },
   {
+    "TagId": 372384,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thorns",
+      "Espinas",
+      "Espinhos",
+      "Thorns",
+      "Espinas",
+      "Épines",
+      "Шипы",
+      "Dornen",
+      "Espinhos",
+      "Spine",
+      "가시",
+      "荊棘術",
+      "荆棘"
+    ],
+    "Media": "spell_nature_thorns.jpg"
+  },
+  {
     "TagId": 372386,
     "TagType": 26,
     "Names": [
@@ -6232,6 +6778,27 @@
       "[DNT] Enable Secondary Attack"
     ],
     "Media": "achievement_pvp_g_08.jpg"
+  },
+  {
+    "TagId": 372387,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thorns",
+      "Espinas",
+      "Espinhos",
+      "Thorns",
+      "Espinas",
+      "Épines",
+      "Шипы",
+      "Dornen",
+      "Espinhos",
+      "Spine",
+      "가시",
+      "荊棘術",
+      "荆棘"
+    ],
+    "Media": "spell_nature_thorns.jpg"
   },
   {
     "TagId": 372388,
@@ -6274,6 +6841,27 @@
       "闪电箭"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372390,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Accursed Hexxer",
+      "Aojador maldito",
+      "Bagateiro Amaldiçoado",
+      "Accursed Hexxer",
+      "Aojador detestable",
+      "Maléficieur maudit",
+      "Проклятый проклинатель",
+      "Verfluchter Verhexer",
+      "Bagateiro Amaldiçoado",
+      "Malefico Maledetto",
+      "저주받은 사술사",
+      "被詛咒的妖術師",
+      "被诅咒的妖术师"
+    ],
+    "Media": "spell_shadow_curseoftounges.jpg"
   },
   {
     "TagId": 372391,
@@ -6381,6 +6969,27 @@
     "Media": "spell_deathknight_gnaw_ghoul.jpg"
   },
   {
+    "TagId": 372399,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shattering Throw",
+      "Lanzamiento destrozador",
+      "Arremesso Estilhaçante",
+      "Shattering Throw",
+      "Lanzamiento destrozador",
+      "Lancer fracassant",
+      "Сокрушительный бросок",
+      "Zerschmetternder Wurf",
+      "Arremesso Estilhaçante",
+      "Lancio Frantumante",
+      "분쇄의 투척",
+      "碎甲投擲",
+      "碎裂投掷"
+    ],
+    "Media": "ability_warrior_shatteringthrow.jpg"
+  },
+  {
     "TagId": 372400,
     "TagType": 26,
     "Names": [
@@ -6444,6 +7053,111 @@
     "Media": "spell_shadow_plaguecloud.jpg"
   },
   {
+    "TagId": 372403,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tournament Banner",
+      "Estandarte del torneo",
+      "Estandarte do Torneio",
+      "Tournament Banner",
+      "Estandarte de torneo",
+      "Bannière du tournoi",
+      "Знамя турнира",
+      "Turnierbanner",
+      "Estandarte do Torneio",
+      "Stendardo del Torneo",
+      "토너먼트 깃발",
+      "聯賽旗幟",
+      "群英会横幅"
+    ],
+    "Media": "inv_misc_cape_darkmoonfaire_c_01.jpg"
+  },
+  {
+    "TagId": 372404,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rend",
+      "Desgarrar",
+      "Dilacerar",
+      "Rend",
+      "Desgarrar",
+      "Pourfendre",
+      "Кровопускание",
+      "Verwunden",
+      "Dilacerar",
+      "Squartamento",
+      "분쇄",
+      "撕裂",
+      "撕裂"
+    ],
+    "Media": "ability_warrior_bloodbath.jpg"
+  },
+  {
+    "TagId": 372405,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Intimidating Shout",
+      "Grito intimidante",
+      "Brado Intimidador",
+      "Intimidating Shout",
+      "Grito intimidador",
+      "Cri d’intimidation",
+      "Устрашающий крик",
+      "Drohruf",
+      "Brado Intimidador",
+      "Urlo Intimidatorio",
+      "위협의 외침",
+      "破膽怒吼",
+      "破胆怒吼"
+    ],
+    "Media": "ability_golemthunderclap.jpg"
+  },
+  {
+    "TagId": 372406,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Wall",
+      "Muro de escudo",
+      "Muralha de Escudos",
+      "Shield Wall",
+      "Muro de escudo",
+      "Mur protecteur",
+      "Глухая оборона",
+      "Schildwall",
+      "Muralha de Escudos",
+      "Muro di Scudi",
+      "방패의 벽",
+      "盾牆",
+      "盾墙"
+    ],
+    "Media": "ability_warrior_shieldwall.jpg"
+  },
+  {
+    "TagId": 372407,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blind",
+      "Ceguera",
+      "Cegar",
+      "Blind",
+      "Ceguera",
+      "Cécité",
+      "Ослепление",
+      "Blenden",
+      "Cegar",
+      "Accecamento",
+      "실명",
+      "致盲",
+      "致盲"
+    ],
+    "Media": "spell_shadow_mindsteal.jpg"
+  },
+  {
     "TagId": 372408,
     "TagType": 26,
     "Names": [
@@ -6465,6 +7179,111 @@
     "Media": "ability_druid_prowl.jpg"
   },
   {
+    "TagId": 372409,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rapid Retreat",
+      "Retirada rápida",
+      "Retirada Rápida",
+      "Rapid Retreat",
+      "Retirada rápida",
+      "Retraite rapide",
+      "Стремительное отступление",
+      "Schneller Rückzug",
+      "Retirada Rápida",
+      "Ritirata Rapida",
+      "신속한 후퇴",
+      "迅速撤退",
+      "快速撤退"
+    ],
+    "Media": "ability_rogue_sprint_blue.jpg"
+  },
+  {
+    "TagId": 372410,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gouge",
+      "Gubia",
+      "Esfaquear",
+      "Gouge",
+      "Gubia",
+      "Surin",
+      "Парализующий удар",
+      "Solarplexus",
+      "Esfaquear",
+      "Sfregio Oculare",
+      "후려치기",
+      "鑿擊",
+      "凿击"
+    ],
+    "Media": "ability_gouge.jpg"
+  },
+  {
+    "TagId": 372412,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Consecration",
+      "Consagración",
+      "Consagração",
+      "Consecration",
+      "Consagración",
+      "Consécration",
+      "Освящение",
+      "Weihe",
+      "Consagração",
+      "Consacrazione",
+      "신성화",
+      "奉獻",
+      "奉献"
+    ],
+    "Media": "spell_holy_innerfire.jpg"
+  },
+  {
+    "TagId": 372413,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Consecration",
+      "Consagración",
+      "Consagração",
+      "Consecration",
+      "Consagración",
+      "Consécration",
+      "Освящение",
+      "Weihe",
+      "Consagração",
+      "Consacrazione",
+      "신성화",
+      "奉獻",
+      "奉献"
+    ],
+    "Media": "spell_holy_innerfire.jpg"
+  },
+  {
+    "TagId": 372414,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Judgment",
+      "Sentencia",
+      "Julgamento",
+      "Judgment",
+      "Sentencia",
+      "Jugement",
+      "Правосудие",
+      "Richturteil",
+      "Julgamento",
+      "Giudizio",
+      "심판",
+      "審判",
+      "审判"
+    ],
+    "Media": "spell_holy_righteousfury.jpg"
+  },
+  {
     "TagId": 372415,
     "TagType": 26,
     "Names": [
@@ -6484,6 +7303,48 @@
       "群体裂解"
     ],
     "Media": "ability_evoker_disintegrate.jpg"
+  },
+  {
+    "TagId": 372416,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Judgment",
+      "Sentencia",
+      "Julgamento",
+      "Judgment",
+      "Sentencia",
+      "Jugement",
+      "Правосудие",
+      "Richturteil",
+      "Julgamento",
+      "Giudizio",
+      "심판",
+      "審判",
+      "审判"
+    ],
+    "Media": "spell_holy_righteousfury.jpg"
+  },
+  {
+    "TagId": 372417,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Judgment Driver",
+      "Impulsor de Sentencia",
+      "Mais Julgamento",
+      "Judgment Driver",
+      "Controlador de Sentencia",
+      "Jugement catégorique",
+      "Правосудие – управление эффектом",
+      "Richturteilstreiber",
+      "Mais Julgamento",
+      "Guida del Giudizio",
+      "심판의 주도자",
+      "審判駕馭者",
+      "审判驱动"
+    ],
+    "Media": "ability_mage_hotstreak.jpg"
   },
   {
     "TagId": 372418,
@@ -7116,6 +7977,48 @@
     "Media": "inv_mace_2h_artifactsilverhand_d_03.jpg"
   },
   {
+    "TagId": 372463,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Experience",
+      "Experiencia",
+      "Experiência",
+      "Experience",
+      "Experiencia",
+      "Expérience",
+      "Опыт",
+      "Erfahrung",
+      "Experiência",
+      "Esperienza",
+      "경험치",
+      "經驗值",
+      "经验值"
+    ],
+    "Media": "xp_icon.jpg"
+  },
+  {
+    "TagId": 372464,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Experience",
+      "Experiencia",
+      "Experiência",
+      "Experience",
+      "Experiencia",
+      "Expérience",
+      "Опыт",
+      "Erfahrung",
+      "Experiência",
+      "Esperienza",
+      "경험치",
+      "經驗值",
+      "经验值"
+    ],
+    "Media": "xp_icon.jpg"
+  },
+  {
     "TagId": 372465,
     "TagType": 26,
     "Names": [
@@ -7135,6 +8038,27 @@
       "Channel: Play Harp (Nightborne Female) [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372466,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Experience",
+      "Experiencia",
+      "Experiência",
+      "Experience",
+      "Experiencia",
+      "Expérience",
+      "Опыт",
+      "Erfahrung",
+      "Experiência",
+      "Esperienza",
+      "경험치",
+      "經驗值",
+      "经验值"
+    ],
+    "Media": "xp_icon.jpg"
   },
   {
     "TagId": 372467,
@@ -7872,6 +8796,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372508,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Wand",
+      "Varita de las Sombras",
+      "Varinha Sombria",
+      "Shadow Wand",
+      "Varita de las Sombras",
+      "Baguette d’ombre",
+      "Жезл тени",
+      "Schattenzauberstab",
+      "Varinha Sombria",
+      "Bacchetta d'Ombra",
+      "그림자 마법봉",
+      "暗影魔杖",
+      "暗影魔杖"
+    ],
+    "Media": "inv_wand_12.jpg"
+  },
+  {
     "TagId": 372509,
     "TagType": 26,
     "Names": [
@@ -7977,6 +8922,27 @@
     "Media": "ability_mage_coldasice.jpg"
   },
   {
+    "TagId": 372515,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Tome",
+      "Tomo sagrado",
+      "Tomo Sagrado",
+      "Holy Tome",
+      "Libro sagrado",
+      "Tome sacré",
+      "Священная книга",
+      "Heiliger Foliant",
+      "Tomo Sagrado",
+      "Tomo Sacro",
+      "성서",
+      "聖書",
+      "神圣书卷"
+    ],
+    "Media": "inv_7xp_inscription_talenttome01.jpg"
+  },
+  {
     "TagId": 372516,
     "TagType": 26,
     "Names": [
@@ -8040,6 +9006,27 @@
     "Media": "inv_dracthyrhead06.jpg"
   },
   {
+    "TagId": 372519,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de Aterramento",
+      "Grounding Totem",
+      "Tótem derribador",
+      "Totem de glèbe",
+      "Тотем заземления",
+      "Totem der Erdung",
+      "Totem de Aterramento",
+      "Totem dell'Adescamento Magico",
+      "마법흡수 토템",
+      "根基圖騰",
+      "根基图腾"
+    ],
+    "Media": "spell_nature_groundingtotem.jpg"
+  },
+  {
     "TagId": 372520,
     "TagType": 26,
     "Names": [
@@ -8082,6 +9069,27 @@
     "Media": "achievement_dungeon_coablackdragonflight.jpg"
   },
   {
+    "TagId": 372522,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lightning Bolt",
+      "Descarga de relámpagos",
+      "Raio",
+      "Lightning Bolt",
+      "Descarga de relámpagos",
+      "Éclair",
+      "Молния",
+      "Blitzschlag",
+      "Raio",
+      "Dardo Fulminante",
+      "번개 화살",
+      "閃電箭",
+      "闪电箭"
+    ],
+    "Media": "spell_nature_lightning.jpg"
+  },
+  {
     "TagId": 372523,
     "TagType": 26,
     "Names": [
@@ -8103,6 +9111,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372524,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crashing Storm",
+      "Tormenta estruendosa",
+      "Tempestade Poderosa",
+      "Crashing Storm",
+      "Tormenta aplastante",
+      "Tempête écrasante",
+      "Сокрушающая буря",
+      "Tosender Sturm",
+      "Tempestade Poderosa",
+      "Tempesta Infuriante",
+      "몰아치는 폭풍",
+      "暴風轟擊",
+      "毁灭风暴"
+    ],
+    "Media": "spell_nature_unrelentingstorm.jpg"
+  },
+  {
     "TagId": 372525,
     "TagType": 26,
     "Names": [
@@ -8122,6 +9151,27 @@
       "Create Decay Puddle [DNT]"
     ],
     "Media": "spell_shadow_plaguecloud.jpg"
+  },
+  {
+    "TagId": 372526,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crashing Storm",
+      "Tormenta estruendosa",
+      "Tempestade Poderosa",
+      "Crashing Storm",
+      "Tormenta aplastante",
+      "Tempête écrasante",
+      "Сокрушающая буря",
+      "Tosender Sturm",
+      "Tempestade Poderosa",
+      "Tempesta Infuriante",
+      "몰아치는 폭풍",
+      "暴風轟擊",
+      "毁灭风暴"
+    ],
+    "Media": "spell_nature_unrelentingstorm.jpg"
   },
   {
     "TagId": 372527,
@@ -8206,6 +9256,27 @@
       "清理"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372532,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Tempestade Relampejante",
+      "Thunderstorm",
+      "Tormenta de truenos",
+      "Orage",
+      "Гром и молния",
+      "Gewitter",
+      "Tempestade Relampejante",
+      "Tempesta Tonante",
+      "천둥폭풍",
+      "雷霆風暴",
+      "雷霆风暴"
+    ],
+    "Media": "spell_shaman_thunderstorm.jpg"
   },
   {
     "TagId": 372533,
@@ -8586,6 +9657,48 @@
     "Media": "inv_hyena2mount_white.jpg"
   },
   {
+    "TagId": 372555,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Killer Instinct",
+      "Instinto asesino",
+      "Instinto Assassino",
+      "Killer Instinct",
+      "Instinto asesino",
+      "Instinct du tueur",
+      "Инстинкт убийцы",
+      "Raubtierinstinkt",
+      "Instinto Assassino",
+      "Istinto Omicida",
+      "살수의 본능",
+      "殺戮本能",
+      "杀手本能"
+    ],
+    "Media": "achievement_bg_killingblow_most.jpg"
+  },
+  {
+    "TagId": 372556,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Killer Instinct",
+      "Instinto asesino",
+      "Instinto Assassino",
+      "Killer Instinct",
+      "Instinto asesino",
+      "Instinct du tueur",
+      "Инстинкт убийцы",
+      "Raubtierinstinkt",
+      "Instinto Assassino",
+      "Istinto Omicida",
+      "살수의 본능",
+      "殺戮本能",
+      "杀手本能"
+    ],
+    "Media": "achievement_bg_killingblow_most.jpg"
+  },
+  {
     "TagId": 372557,
     "TagType": 26,
     "Names": [
@@ -8899,6 +10012,27 @@
       "Crystal King (DND)"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372575,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Earth Shock",
+      "Choque de tierra",
+      "Choque Terreno",
+      "Earth Shock",
+      "Choque de tierra",
+      "Horion de terre",
+      "Земной шок",
+      "Erdschock",
+      "Choque Terreno",
+      "Folgore della Terra",
+      "대지 충격",
+      "大地震擊",
+      "大地震击"
+    ],
+    "Media": "spell_nature_earthshock.jpg"
   },
   {
     "TagId": 372576,
@@ -12508,6 +13642,27 @@
     "Media": "inv_misc_herb_dreamingglory.jpg"
   },
   {
+    "TagId": 372777,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Immolate",
+      "Inmolar",
+      "Imolação",
+      "Immolate",
+      "Inmolar",
+      "Immoler",
+      "Жертвенный огонь",
+      "Feuerbrand",
+      "Imolação",
+      "Immolazione",
+      "제물",
+      "獻祭",
+      "献祭"
+    ],
+    "Media": "spell_fire_immolation.jpg"
+  },
+  {
     "TagId": 372778,
     "TagType": 26,
     "Names": [
@@ -12653,6 +13808,27 @@
       "神言术：佑"
     ],
     "Media": "priest_icon_chakra_blue.jpg"
+  },
+  {
+    "TagId": 372785,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Equipped Item Pet Tracker",
+      "Rastreador de mascota de objeto equipado",
+      "Item Equipado Rastreador de Mascote",
+      "Equipped Item Pet Tracker",
+      "Rastreador de mascotas de equipo equipado",
+      "Suivi d’objet familier équipé",
+      "Экипированный предмет – отслеживание питомцев",
+      "Ausgerüsteter Gegenstand Begleiterverfolger",
+      "Item Equipado Rastreador de Mascote",
+      "Individuatore Famiglio Equipaggiato",
+      "장착한 아이템 애완동물 추적기",
+      "裝備物品寵物追蹤器",
+      "已装备物品宠物追踪"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 372786,
@@ -12844,6 +14020,27 @@
     "Media": "inv_axe_1h_deathwingraiddw_d_01.jpg"
   },
   {
+    "TagId": 372795,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Light Bonfire",
+      "Encender fogata",
+      "Acender Fogueira",
+      "Light Bonfire",
+      "Encender fogata",
+      "Allumer Feu de joie",
+      "Разведение костра",
+      "Feuer entzünden",
+      "Acender Fogueira",
+      "Accensione Falò",
+      "모닥불 피우기",
+      "光之篝火",
+      "点燃篝火"
+    ],
+    "Media": "ability_mage_fierypayback.jpg"
+  },
+  {
     "TagId": 372796,
     "TagType": 26,
     "Names": [
@@ -12926,6 +14123,27 @@
       "射击"
     ],
     "Media": "ability_marksmanship.jpg"
+  },
+  {
+    "TagId": 372801,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warmth",
+      "Calor",
+      "Calor",
+      "Warmth",
+      "Calidez",
+      "Chaleur",
+      "Тепло",
+      "Wärme",
+      "Calor",
+      "Calore",
+      "온기",
+      "溫暖",
+      "暖愈"
+    ],
+    "Media": "inv_elemental_mote_fire01.jpg"
   },
   {
     "TagId": 372802,
@@ -13369,6 +14587,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372826,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Raise Dead",
+      "Resucitar muerto",
+      "Reviver Morto",
+      "Raise Dead",
+      "Levantar muerto",
+      "Réanimation morbide",
+      "Воскрешение мертвых",
+      "Totenerweckung",
+      "Reviver Morto",
+      "Rianimazione Cadavere",
+      "시체 되살리기",
+      "死者復生",
+      "亡者复生"
+    ],
+    "Media": "inv_pet_ghoul.jpg"
+  },
+  {
     "TagId": 372828,
     "TagType": 26,
     "Names": [
@@ -13430,6 +14669,27 @@
       "寒冰之息"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 372831,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Raise Dead",
+      "Resucitar muerto",
+      "Reviver Morto",
+      "Raise Dead",
+      "Levantar muerto",
+      "Réanimation morbide",
+      "Воскрешение мертвых",
+      "Totenerweckung",
+      "Reviver Morto",
+      "Rianimazione Cadavere",
+      "시체 되살리기",
+      "死者復生",
+      "亡者复生"
+    ],
+    "Media": "inv_pet_ghoul.jpg"
   },
   {
     "TagId": 372832,
@@ -13541,19 +14801,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Lightwell Charges",
-      "Cargas de Pozo de Luz",
-      "Cargas da Fonte de Luz",
-      "Lightwell Charges",
-      "Cargas de Pozo de Luz",
-      "Charges de Puits de lumière",
-      "Заряды колодца Света",
-      "Aufladungen des Lichtbrunnens",
-      "Cargas da Fonte de Luz",
-      "Cariche del Pozzo di Luce",
-      "빛샘 충전 횟수",
-      "光束泉使用次數",
-      "光明之泉次数"
+      "Lightwell",
+      "Pozo de Luz",
+      "Fonte de Luz",
+      "Lightwell",
+      "Pozo de Luz",
+      "Puits de lumière",
+      "Колодец Света",
+      "Lichtbrunnen",
+      "Fonte de Luz",
+      "Pozzo di Luce",
+      "빛샘",
+      "光束泉",
+      "光明之泉"
     ],
     "Media": "spell_holy_summonlightwell.jpg"
   },
@@ -13663,6 +14923,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 372844,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Raise Dead",
+      "Resucitar muerto",
+      "Reviver Morto",
+      "Raise Dead",
+      "Levantar muerto",
+      "Réanimation morbide",
+      "Воскрешение мертвых",
+      "Totenerweckung",
+      "Reviver Morto",
+      "Rianimazione Cadavere",
+      "시체 되살리기",
+      "死者復生",
+      "亡者复生"
+    ],
+    "Media": "inv_pet_ghoul.jpg"
+  },
+  {
     "TagId": 372845,
     "TagType": 26,
     "Names": [
@@ -13709,21 +14990,42 @@
     "TagType": 26,
     "Names": [
       null,
-      "Lightwell Renew",
-      "Renovar Pozo de Luz",
-      "Renovação da Fonte de Luz",
-      "Lightwell Renew",
-      "Renovar de Pozo de Luz",
-      "Rénovation du Puits de lumière",
-      "Обновление колодца Света",
-      "Erneuerung des Lichtbrunnens",
-      "Renovação da Fonte de Luz",
-      "Rinnovamento del Pozzo di Luce",
-      "빛샘의 소생",
-      "光束泉恢復",
-      "光明之泉恢复"
+      "Blessed Bolt",
+      "Saeta bendecida",
+      "Seta Abençoada",
+      "Blessed Bolt",
+      "Descarga bendita",
+      "Éclair béni",
+      "Благословенная стрела",
+      "Gesegneter Blitz",
+      "Seta Abençoada",
+      "Dardo Benedetto",
+      "축복받은 화살",
+      "庇佑箭",
+      "蒙恩飞弹"
     ],
     "Media": "spell_holy_summonlightwell.jpg"
+  },
+  {
+    "TagId": 372848,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Equipped Item Totem Tracker",
+      "Rastreador de tótem de objeto equipado",
+      "Item Equipado Rastreador de Totem",
+      "Equipped Item Totem Tracker",
+      "Rastreador de tótems de equipo equipado",
+      "Suivi d’objet totem équipé",
+      "Экипированный предмет – отслеживание тотемов",
+      "Ausgerüsteter Gegenstand Totemverfolger",
+      "Item Equipado Rastreador de Totem",
+      "Individuatore Totem Equipaggiato",
+      "장착한 아이템 토템 추적기",
+      "裝備物品圖騰追蹤器",
+      "已装备物品图腾追踪"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 372849,
@@ -15066,6 +16368,27 @@
       "饕餮大餐"
     ],
     "Media": "inv_misc_food_legion_heartyfeast.jpg"
+  },
+  {
+    "TagId": 372924,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Experience",
+      "Experiencia",
+      "Experiência",
+      "Experience",
+      "Experiencia",
+      "Expérience",
+      "Опыт",
+      "Erfahrung",
+      "Experiência",
+      "Esperienza",
+      "경험치",
+      "經驗值",
+      "经验值"
+    ],
+    "Media": "xp_icon.jpg"
   },
   {
     "TagId": 372925,

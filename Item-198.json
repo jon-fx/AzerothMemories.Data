@@ -7912,7 +7912,7 @@
       "Pelli delle Isole dei Draghi Raffinate",
       "용의 섬 생가죽 가공",
       "精煉巨龍群島毛皮",
-      "精制巨龙群岛皮革"
+      "精制巨龙群岛之皮"
     ],
     "Media": "inv_10_skinning_leather_rarehide_color1.jpg"
   },
@@ -7933,7 +7933,7 @@
       "Cuoio delle Isole dei Draghi Raffinato",
       "용의 섬 가죽 가공",
       "精煉巨龍群島皮革",
-      "精制巨龙群岛之皮"
+      "精制巨龙群岛之革"
     ],
     "Media": "inv_10_skinning_leather_basicleather_color1.jpg"
   },
@@ -8602,7 +8602,7 @@
       "Выкройка: роскошный рюкзак травника",
       "Muster: Großzügige Blumentasche",
       "Molde: Bolsa Floral Luxuosa",
-      "Modello: Zaino di Fiori di Lava",
+      "Modello: Zaino di Fiori di Sontuoso",
       "도안: 호화로운 꽃 가방",
       "圖樣：奢華的花草包",
       "图样：奢华植物背包"
@@ -14973,6 +14973,27 @@
     "Media": "inv_tabard_craftingorder_c_01.jpg"
   },
   {
+    "TagId": 198803,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "priest_spell_leapoffaith_a.jpg"
+  },
+  {
     "TagId": 198804,
     "TagType": 21,
     "Names": [
@@ -15351,6 +15372,27 @@
     "Media": "inv_misc_xmassled.jpg"
   },
   {
+    "TagId": 198829,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_weapon_bow_07.jpg"
+  },
+  {
     "TagId": 198830,
     "TagType": 21,
     "Names": [
@@ -15580,6 +15622,27 @@
       "翡翠花园探索者的笔记"
     ],
     "Media": "inv_misc_notescript1c.jpg"
+  },
+  {
+    "TagId": 198846,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "paladin_retribution.jpg"
   },
   {
     "TagId": 198847,

@@ -1,5 +1,26 @@
 [
   {
+    "TagId": 212097,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion",
+      "[DNT] Starter Pirate Gear - Health Potion"
+    ],
+    "Media": "inv_cask_02.jpg"
+  },
+  {
     "TagId": 212154,
     "TagType": 21,
     "Names": [
@@ -84,6 +105,27 @@
     "Media": "inv_letter_07.jpg"
   },
   {
+    "TagId": 212175,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Draconic Commendation",
+      "Mención dracónica",
+      "Comenda Dracônica",
+      "Draconic Commendation",
+      "Mención honorífica dracónica",
+      "Recommandation draconique",
+      "Драконий знак признания",
+      "Drakonische Belobigung",
+      "Comenda Dracônica",
+      "Encomio Draconico",
+      "용족 훈장",
+      "龍族表揚令",
+      "腾龙嘉奖"
+    ],
+    "Media": "inv_10_inscription_glyphs_color3.jpg"
+  },
+  {
     "TagId": 212179,
     "TagType": 21,
     "Names": [
@@ -109,19 +151,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Dreadlord's Shadowsbane Cloak",
-      "Capa de ruina sombría de señor del terror",
-      "Manto Sombrio do Senhor do Medo",
-      "Dreadlord's Shadowsbane Cloak",
-      "Capa de sombraflagelo de Señor del Terror",
-      "Cape plaie-des-ombres de seigneur de l’effroi",
-      "Плащ темной погибели повелителей ужаса",
-      "Schattenbannumhang des Schreckenslords",
-      "Manto Sombrio do Senhor do Medo",
-      "Mantello Ombrale del Signore del Terrore",
-      "공포의 군주의 어둠파멸 망토",
-      "驚懼領主影禍披風",
-      "恐惧魔王的影灾披风"
+      "Dreadlord's Shadowsbane Wings",
+      "Alas de ruina sombría de señor del terror",
+      "Asas Sombrias do Senhor do Medo",
+      "Dreadlord's Shadowsbane Wings",
+      "Alas de sombraflagelo de Señor del Terror",
+      "Ailes plaie-des-ombres de seigneur de l’effroi",
+      "Крылья темной погибели повелителей ужаса",
+      "Schattenbannflügel des Schreckenslords",
+      "Asas Sombrias do Senhor do Medo",
+      "Ali Ombrali del Signore del Terrore",
+      "공포의 군주의 어둠파멸 날개",
+      "驚懼領主影禍之翼",
+      "恐惧魔王的影灾之翼"
     ],
     "Media": "inv_cape_special_dreadlordsregalia_c_01.jpg"
   },
@@ -298,19 +340,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Dreadlord's Venombane Cloak",
-      "Capa de ruina venenosa de señor del terror",
-      "Manto Venenoso do Senhor do Medo",
-      "Dreadlord's Venombane Cloak",
-      "Capa de venenoflagelo de Señor del Terror",
-      "Cape plaie-des-venins de seigneur de l’effroi",
-      "Плащ ядовитой погибели повелителей ужаса",
-      "Giftbannumhang des Schreckenslords",
-      "Manto Venenoso do Senhor do Medo",
-      "Mantello Venefico del Signore del Terrore",
-      "공포의 군주의 맹독파멸 망토",
-      "驚懼領主毒禍披風",
-      "恐惧魔王的毒灾披风"
+      "Dreadlord's Venombane Wings",
+      "Alas de ruina venenosa de señor del terror",
+      "Asas Venenosas do Senhor do Medo",
+      "Dreadlord's Venombane Wings",
+      "Alas de venenoflagelo de Señor del Terror",
+      "Ailes plaie-des-venins de seigneur de l’effroi",
+      "Крылья ядовитой погибели повелителей ужаса",
+      "Giftbannflügel des Schreckenslords",
+      "Asas Venenosas do Senhor do Medo",
+      "Ali Venefiche del Signore del Terrore",
+      "공포의 군주의 맹독파멸 날개",
+      "驚懼領主毒禍之翼",
+      "恐惧魔王的毒灾之翼"
     ],
     "Media": "inv_cape_special_dreadlordsregalia_c_01.jpg"
   },
@@ -761,7 +803,7 @@
     "Names": [
       null,
       "Twilight Witch's Blouse",
-      "Blusa de bruja del ocaso",
+      "Blusa de bruja del crepúsculo",
       "Blusa da Bruxa do Crepúsculo",
       "Twilight Witch's Blouse",
       "Blusa de bruja crepuscular",
@@ -782,7 +824,7 @@
     "Names": [
       null,
       "Twilight Witch's Boots",
-      "Botas de bruja del ocaso",
+      "Botas de bruja del crepúsculo",
       "Botas da Bruxa do Crepúsculo",
       "Twilight Witch's Boots",
       "Botas de bruja crepuscular",
@@ -803,7 +845,7 @@
     "Names": [
       null,
       "Twilight Witch's Gloves",
-      "Guantes de bruja del ocaso",
+      "Guantes de bruja del crepúsculo",
       "Luvas da Bruxa do Crepúsculo",
       "Twilight Witch's Gloves",
       "Guantes de bruja crepuscular",
@@ -824,7 +866,7 @@
     "Names": [
       null,
       "Twilight Witch's Hat",
-      "Sombrero de bruja del ocaso",
+      "Sombrero de bruja del crepúsculo",
       "Chapéu da Bruxa do Crepúsculo",
       "Twilight Witch's Hat",
       "Sombrero de bruja crepuscular",
@@ -845,7 +887,7 @@
     "Names": [
       null,
       "Twilight Witch's Skirt",
-      "Saya de bruja del ocaso",
+      "Saya de bruja del crepúsculo",
       "Saia da Bruxa do Crepúsculo",
       "Twilight Witch's Skirt",
       "Falda de bruja crepuscular",
@@ -866,7 +908,7 @@
     "Names": [
       null,
       "Twilight Witch's Shoulders",
-      "Sobrehombros de bruja del ocaso",
+      "Sobrehombros de bruja del crepúsculo",
       "Omoplatas da Bruxa do Crepúsculo",
       "Twilight Witch's Shoulders",
       "Sobrehombros de bruja crepuscular",
@@ -887,7 +929,7 @@
     "Names": [
       null,
       "Twilight Witch's Sash",
-      "Fajín de bruja del ocaso",
+      "Fajín de bruja del crepúsculo",
       "Faixa da Bruxa do Crepúsculo",
       "Twilight Witch's Sash",
       "Fajín de bruja crepuscular",
@@ -992,7 +1034,7 @@
     "Names": [
       null,
       "Ensemble: Twilight Witch's Attire",
-      "Conjunto: Ropajes de bruja del ocaso",
+      "Conjunto: Ropajes de bruja del crepúsculo",
       "Indumentária: Traje da Bruxa do Crepúsculo",
       "Ensemble: Twilight Witch's Attire",
       "Indumentaria: Atuendo de bruja crepuscular",
@@ -1197,6 +1239,27 @@
     "Media": "inv_sword_1h_dragonquest_b_02.jpg"
   },
   {
+    "TagId": 212367,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Clutch of Wyrm's Awakened Crests",
+      "Nidada de emblemas del despertar de vermis",
+      "Carteira de Brasões Despertos da Serpe",
+      "Clutch of Wyrm's Awakened Crests",
+      "Nidada de blasones despiertos de vermis",
+      "Pogne d’écus éveillés de wyrm",
+      "Пригоршня пробужденных гребней змея",
+      "Tasche mit erweckten Wappen des Wyrms",
+      "Carteira de Brasões Despertos da Serpe",
+      "Involucro di Emblemi Risvegliati del Dragone",
+      "고룡의 각성 문장 꾸러미",
+      "一把巨龍覺醒紋章",
+      "一把魔龙的觉醒纹章"
+    ],
+    "Media": "inv_10_gearupgrade_wyrmsawakenedcrest.jpg"
+  },
+  {
     "TagId": 212369,
     "TagType": 21,
     "Names": [
@@ -1255,7 +1318,7 @@
       "Guanti da Mascherata Magenta",
       "자홍색 가장무도회 장갑",
       "洋紅化裝舞會手套",
-      "品红化妆舞会手套"
+      "品红化装舞会手套"
     ],
     "Media": "inv_glove_armor_princessgloves_a_01.jpg"
   },
@@ -1370,7 +1433,7 @@
     "Names": [
       null,
       "Twilight Witch's Gothic Scepter",
-      "Cetro gótico de bruja del ocaso",
+      "Cetro gótico de bruja del crepúsculo",
       "Cetro Gótico da Bruxa do Crepúsculo",
       "Twilight Witch's Gothic Scepter",
       "Cetro gótico de bruja crepuscular",
@@ -1412,7 +1475,7 @@
     "Names": [
       null,
       "Twilight Witch's Gothic Stave",
-      "Báculo gótico de bruja del ocaso",
+      "Báculo gótico de bruja del crepúsculo",
       "Báculo Gótico da Bruxa do Crepúsculo",
       "Twilight Witch's Gothic Stave",
       "Báculo gótico de bruja crepuscular",
@@ -1468,6 +1531,69 @@
       "荧光裂刃"
     ],
     "Media": "inv_sword_88.jpg"
+  },
+  {
+    "TagId": 212383,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Yawning Basket of Aspect's Awakened Crests",
+      "Cesta letárgica de emblemas del despertar de Aspecto",
+      "Cesta Tediosa de Brasões Despertos do Aspecto",
+      "Yawning Basket of Aspect's Awakened Crests",
+      "Cesta amplia de blasones despiertos de Aspecto",
+      "Panier béant d’écus éveillés d’Aspect",
+      "Зевающая корзина с пробужденными гребнями Аспекта",
+      "Gähnender Korb mit erweckten Wappen des Aspekts",
+      "Cesta Tediosa de Brasões Despertos do Aspecto",
+      "Cestino Sbadigliante degli Emblemi Risvegliati dell'Aspetto",
+      "하품하는 위상의 각성 문장 바구니",
+      "一籃疲倦的守護巨龍覺醒紋章",
+      "一篮疲惫守护巨龙的觉醒纹章"
+    ],
+    "Media": "inv_10_gearupgrade_aspectsawakenedcrest.jpg"
+  },
+  {
+    "TagId": 212384,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Restless Satchel of Drake's Awakened Crests",
+      "Cartera inquieta de emblemas del despertar de draco",
+      "Algibeira Agitada de Brasões Despertos do Draco",
+      "Restless Satchel of Drake's Awakened Crests",
+      "Bolsa inquieta de blasones despiertos de draco",
+      "Sacoche agitée d’écus éveillés de drake",
+      "Неспокойная сумка с пробужденными гребнями дракона",
+      "Rastloser Beutel mit erweckten Wappen des Drachen",
+      "Algibeira Agitada de Brasões Despertos do Draco",
+      "Borsa Irrequieta degli Emblemi Risvegliati del Draco",
+      "거침없는 비룡의 각성 문장 주머니",
+      "一袋無眠的飛龍覺醒紋章",
+      "一袋不眠幼龙的觉醒纹章"
+    ],
+    "Media": "inv_10_gearupgrade_drakesawakenedcrest.jpg"
+  },
+  {
+    "TagId": 212458,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Awakened Flightstone",
+      "Piedra de vuelo del despertar",
+      "Pedra Volante Desperta",
+      "Awakened Flightstone",
+      "Piedra de vuelo despierta",
+      "Pierre de Vol éveillée",
+      "Пробужденный драконий камень",
+      "Erweckter Flugstein",
+      "Pedra Volante Desperta",
+      "Pietra dello Stormo Risvegliata",
+      "각성의 군단석",
+      "覺醒龍石",
+      "觉醒飞珑石"
+    ],
+    "Media": "flightstone-dragonflight.jpg"
   },
   {
     "TagId": 212459,
@@ -2142,6 +2268,27 @@
     "Media": "inv_misc_1h_umbrella_b_01.jpg"
   },
   {
+    "TagId": 212517,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Barrel",
+      "Barril",
+      "Barril",
+      "Barrel",
+      "Barrica",
+      "Tonneau",
+      "Бочка",
+      "Fass",
+      "Barril",
+      "Barile",
+      "통",
+      "桶子",
+      "木桶"
+    ],
+    "Media": "inv_cask_01.jpg"
+  },
+  {
     "TagId": 212518,
     "TagType": 21,
     "Names": [
@@ -2720,7 +2867,7 @@
       "Manto de justicia implacable",
       "Mantelet de justice implacable",
       "Оплечье безжалостного возмездия",
-      "Mantel der unnachgiebigen Gerechtigkeit",
+      "Mantel der unerbittlichen Gerechtigkeit",
       "Dragonas da Justiça Implacável",
       "Coprispalle della Giustizia Implacabile",
       "굴하지 않는 정의의 어깨덧옷",
@@ -2741,7 +2888,7 @@
       "Botines de justicia implacable",
       "Bottines de justice implacable",
       "Ботфорты безжалостного возмездия",
-      "Treter der unnachgiebigen Gerechtigkeit",
+      "Treter der unerbittlichen Gerechtigkeit",
       "Botinas da Justiça Implacável",
       "Stivaletti della Giustizia Implacabile",
       "굴하지 않는 정의의 발보호대",
@@ -2833,6 +2980,27 @@
       "鸭子药水"
     ],
     "Media": "inv_alchemy_elixir_02.jpg"
+  },
+  {
+    "TagId": 212609,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_axe_2h_draenorraid_d_01.jpg"
   },
   {
     "TagId": 212610,
@@ -3250,7 +3418,7 @@
       "Redini del Pavone Azzurro Maestoso",
       "위풍당당한 하늘빛 공작새 고삐",
       "高貴蒼藍孔雀韁繩",
-      "威严碧蓝孔禽的缰绳"
+      "威严碧蓝雌孔雀的缰绳"
     ],
     "Media": "inv_peacockmount_blue.jpg"
   },
@@ -3271,7 +3439,7 @@
       "Redini del Pavone Radioso Brillante",
       "찬란한 햇빛 공작새 고삐",
       "亮麗日芒孔雀韁繩",
-      "夺目日冕孔禽的缰绳"
+      "夺目日冕雌孔雀的缰绳"
     ],
     "Media": "inv_peacockmount_orange.jpg"
   },
@@ -3292,7 +3460,7 @@
       "Redini del Pavone del Crepuscolo Stellato",
       "별빛 황혼의 공작새 고삐",
       "星辰暮光孔雀韁繩",
-      "繁星暮色孔禽的缰绳"
+      "繁星暮色雌孔雀的缰绳"
     ],
     "Media": "inv_peacockmount_purple.jpg"
   },
@@ -3673,6 +3841,300 @@
       "纹身墨水罐"
     ],
     "Media": "inv_inscription_warpaint_blue.jpg"
+  },
+  {
+    "TagId": 212655,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mana Sphere",
+      "Esfera de maná",
+      "Esfera de Mana",
+      "Mana Sphere",
+      "Esfera de maná",
+      "Sphère de mana",
+      "Сфера маны",
+      "Manasphäre",
+      "Esfera de Mana",
+      "Sfera di Mana",
+      "마나 구슬",
+      "法力魔球",
+      "法力之球"
+    ],
+    "Media": "ability_monk_forcesphere_arcane.jpg"
+  },
+  {
+    "TagId": 212656,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Searing Axe",
+      "Hacha abrasadora",
+      "Machado Calcinante",
+      "Searing Axe",
+      "Hacha abrasadora",
+      "Hache incandescente",
+      "Опаляющий топор",
+      "Sengende Axt",
+      "Machado Calcinante",
+      "Ascia Rovente",
+      "이글거리는 도끼",
+      "灼熱之斧",
+      "灼热之斧"
+    ],
+    "Media": "inv_axe_1h_pvp400_c_01.jpg"
+  },
+  {
+    "TagId": 212657,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rime Arrow",
+      "Flecha escarchada",
+      "Flecha da Geada",
+      "Rime Arrow",
+      "Flecha de hielo",
+      "Flèche glaçante",
+      "Стрела инея",
+      "Raureifpfeil",
+      "Flecha da Geada",
+      "Freccia Brinosa",
+      "된서리 화살",
+      "凝霜箭矢",
+      "雾凇之箭"
+    ],
+    "Media": "spell_frost_iceshard.jpg"
+  },
+  {
+    "TagId": 212658,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Redemoinho Ígneo",
+      "Fire Whirl",
+      "Remolino de fuego",
+      "Tourbillon de feu",
+      "Огневорот",
+      "Feuerwirbel",
+      "Redemoinho Ígneo",
+      "Turbinio di Fuoco",
+      "불의 소용돌이",
+      "火旋風",
+      "火焰旋风"
+    ],
+    "Media": "spell_shaman_stormearthfire.jpg"
+  },
+  {
+    "TagId": 212659,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fade to Shadow",
+      "Fundirse en las sombras",
+      "Sumir nas Sombras",
+      "Fade to Shadow",
+      "Fundido a sombra",
+      "Disparition dans l’ombre",
+      "Исчезновение в тени",
+      "In die Schatten verschwinden",
+      "Sumir nas Sombras",
+      "Dissolvenza in Ombra",
+      "그림자 소실",
+      "融入暗影",
+      "遁入暗影"
+    ],
+    "Media": "ability_rogue_vigor.jpg"
+  },
+  {
+    "TagId": 212660,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Steel Traps",
+      "Trampas de acero",
+      "Armadilhas de Aço",
+      "Steel Traps",
+      "Trampas de acero",
+      "Pièges d’acier",
+      "Капканы",
+      "Stahlfallen",
+      "Armadilhas de Aço",
+      "Trappole d'Acciaio",
+      "강철 덫",
+      "鋼鐵陷阱",
+      "精钢陷阱"
+    ],
+    "Media": "ability_hunter_steeltrap.jpg"
+  },
+  {
+    "TagId": 212661,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Faeform",
+      "Forma feérica",
+      "Forma Feérica",
+      "Faeform",
+      "Forma de sílfide",
+      "Faëmorphe",
+      "Облик пикси",
+      "Feengestalt",
+      "Forma Feérica",
+      "Forma da Silfo",
+      "페이 변신",
+      "妖精之形",
+      "法夜形态"
+    ],
+    "Media": "ability_nightfae_flicker.jpg"
+  },
+  {
+    "TagId": 212662,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Explosive Caltrops",
+      "Abrojos explosivos",
+      "Estrepes Explosivos",
+      "Explosive Caltrops",
+      "Abrojos explosivos",
+      "Chausse-trapes explosives",
+      "Взрывные шипы",
+      "Explosive Krähenfüße",
+      "Estrepes Explosivos",
+      "Triboli Esplosivi",
+      "폭발성 마름쇠 덫",
+      "爆裂釘爪刺",
+      "爆裂铁蒺藜"
+    ],
+    "Media": "inv_misc_bomb_02.jpg"
+  },
+  {
+    "TagId": 212663,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Quaking Leap",
+      "Salto sísmico",
+      "Salto Estremecedor",
+      "Quaking Leap",
+      "Salto sísmico",
+      "Bond sismique",
+      "Сотрясающий землю прыжок",
+      "Bebensprung",
+      "Salto Estremecedor",
+      "Balzo Sismico",
+      "지진의 도약",
+      "震地躍擊",
+      "震地之跃"
+    ],
+    "Media": "ability_hanzandfranz_bodyslam.jpg"
+  },
+  {
+    "TagId": 212682,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Water's Beating Heart",
+      "Corazón palpitante de agua",
+      "Coração Pulsante de Água",
+      "Water's Beating Heart",
+      "Corazón palpitante del agua",
+      "Cœur d’eau palpitant",
+      "Бьющееся сердце воды",
+      "Schlagendes Herz des Wassers",
+      "Coração Pulsante de Água",
+      "Cuore Pulsante dell'Acqua",
+      "맥동하는 물의 심장",
+      "水之跳動心臟",
+      "流水脉动之心"
+    ],
+    "Media": "inv_heart_of_the_thunder king_icon.jpg"
+  },
+  {
+    "TagId": 212683,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Globe of Jagged Ice",
+      "Globo de hielo serrado",
+      "Globo de Gelo Serrilhado",
+      "Globe of Jagged Ice",
+      "Globo de hielo dentado",
+      "Globe de glace tranchante",
+      "Шар зубчатого льда",
+      "Kugel aus gezacktem Eis",
+      "Globo de Gelo Serrilhado",
+      "Globo di Ghiaccio Scheggiato",
+      "뾰족한 얼음 구체",
+      "鋸齒冰球",
+      "锯齿寒冰之球"
+    ],
+    "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 212684,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Umbrelskul's Fractured Heart",
+      "Corazón fracturado de Umbrelskul",
+      "Coração Fraturado de Umbracrânio",
+      "Umbrelskul's Fractured Heart",
+      "Corazón fracturado de Umbracráneo",
+      "Cœur fracturé de Krânombrel",
+      "Расколотое сердце Мраскула",
+      "Umbrelskuls gebrochenes Herz",
+      "Coração Fraturado de Umbracrânio",
+      "Cuore Spezzato di Umbrelskul",
+      "엄브렐스컬의 조각난 심장",
+      "安珀斯庫的破裂之心",
+      "安布雷斯库的破裂之心"
+    ],
+    "Media": "inv_elemental_eternal_air.jpg"
+  },
+  {
+    "TagId": 212685,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tome of Unstable Power",
+      "Tomo de poder inestable",
+      "Tomo de Poder Instável",
+      "Tome of Unstable Power",
+      "Tomo de poder inestable",
+      "Tome de pouvoir instable",
+      "Фолиант ускользающего могущества",
+      "Foliant der instabilen Macht",
+      "Tomo de Poder Instável",
+      "Tomo del Potere Instabile",
+      "불안정한 마력의 고서",
+      "能量無常秘典",
+      "无常能量魔典"
+    ],
+    "Media": "inv_jewelry_trinket_17.jpg"
+  },
+  {
+    "TagId": 212686,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Azure Riders of Azeroth Tabard",
+      "Tabardo de Jinetes Azur de Azeroth",
+      "Tabardo dos Cavalgantes de Azeroth Lazúli",
+      "Azure Riders of Azeroth Tabard",
+      "Tabardo de los jinetes de Azeroth azur",
+      "Tabard azur des Chevaucheurs d’Azeroth",
+      "Лазурная гербовая накидка всадников Азерота",
+      "Azurwappenrock der Reiter von Azeroth",
+      "Tabardo dos Cavalgantes de Azeroth Lazúli",
+      "Insegna dei Cavalieri di Azeroth Azzurri",
+      "하늘빛 아제로스의 기수 휘장",
+      "艾澤拉斯蒼藍騎士外袍",
+      "艾泽拉斯骑手会的碧蓝战袍"
+    ],
+    "Media": "inv_tabard_dragonrider_b_01_blue.jpg"
   },
   {
     "TagId": 212687,
@@ -4090,7 +4552,7 @@
       "Vestito Color Tarassaco del Festaiolo Primaverile",
       "봄 나들이꾼의 민들레 드레스",
       "春日狂歡者蒲公英禮服",
-      "春季狂欢者的蒲公英礼服"
+      "春季狂欢者的蒲公英长裙"
     ],
     "Media": "inv_armor_springdress_b_01_robe.jpg"
   },
@@ -4219,6 +4681,48 @@
       "魔典：上古眼魔"
     ],
     "Media": "inv_misc_book_01.jpg"
+  },
+  {
+    "TagId": 212756,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Inexorable Resonator",
+      "Resonador inexorable",
+      "Ressonador Inexorável",
+      "Inexorable Resonator",
+      "Resonador inexorable",
+      "Résonateur inexorable",
+      "Беспощадный резонатор",
+      "Unerbittlicher Schwinger",
+      "Ressonador Inexorável",
+      "Risonatore Inesorabile",
+      "거침없는 공명기",
+      "無情共鳴",
+      "不屈共鸣器"
+    ],
+    "Media": "inv_60pvp_trinket3b.jpg"
+  },
+  {
+    "TagId": 212757,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Granyth's Enduring Scale",
+      "Escama resistente de Granyth",
+      "Escama Perpétua de Granyth",
+      "Granyth's Enduring Scale",
+      "Escama duradera de Granyth",
+      "Écaille durable de Granyth",
+      "Прочная чешуйка Гранита",
+      "Granyths robuste Schuppe",
+      "Escama Perpétua de Granyth",
+      "Scaglia Duratura di Granyth",
+      "그라니스의 인내하는 비늘",
+      "葛蘭尼斯的堅毅鱗片",
+      "格拉尼斯的劲久之鳞"
+    ],
+    "Media": "inv_skinning_80_shimmerscale.jpg"
   },
   {
     "TagId": 212761,
@@ -4830,6 +5334,27 @@
     "Media": "inv_cape_armor_explorer_d_01_backpack.jpg"
   },
   {
+    "TagId": 212869,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Slicing Winds",
+      "Vientos cortantes",
+      "Ventos Cortantes",
+      "Slicing Winds",
+      "Vientos cortantes",
+      "Vents tranchants",
+      "Пронизывающие ветра",
+      "Schneidende Winde",
+      "Ventos Cortantes",
+      "Venti Taglienti",
+      "날카로운 바람",
+      "風刃斬",
+      "切削之风"
+    ],
+    "Media": "ability_skyreach_wind_wall.jpg"
+  },
+  {
     "TagId": 212870,
     "TagType": 21,
     "Names": [
@@ -4891,6 +5416,216 @@
       null
     ],
     "Media": "inv_misc_hearthstonecard_epic.jpg"
+  },
+  {
+    "TagId": 212873,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earthbreaker",
+      "Rompetierras",
+      "Rompe-terra",
+      "Earthbreaker",
+      "Rompesuelos",
+      "Brise-Terre",
+      "Землелом",
+      "Erdbrecher",
+      "Rompe-terra",
+      "Spaccaterra",
+      "대지파괴자",
+      "裂地者",
+      "碎地猛击"
+    ],
+    "Media": "ability_earthen_pillar.jpg"
+  },
+  {
+    "TagId": 212874,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Jersey",
+      "Jersey azur de jinete de dracos",
+      "Suéter Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Jersey",
+      "Jersey azur de corredor de draco",
+      "Maillot azur de pilote de drake",
+      "Лазурный жакет драконьего гонщика",
+      "Azurtrikot des Drachenreiters",
+      "Suéter Lazúli do Velocista de Dracos",
+      "Giaco del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 셔츠",
+      "飛龍競速騎師蒼藍套衫",
+      "幼龙竞速者的碧蓝套衫"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_chest.jpg"
+  },
+  {
+    "TagId": 212875,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Handwraps",
+      "Manijas azur de jinete de dracos",
+      "Mitenes Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Handwraps",
+      "Manijas azures de corredor de draco",
+      "Protège-mains azur de pilote de drake",
+      "Лазурные повязки драконьего гонщика",
+      "Azurhandlappen des Drachenreiters",
+      "Mitenes Lazúli do Velocista de Dracos",
+      "Mitene del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 손등싸개",
+      "飛龍競速騎師蒼藍裹手",
+      "幼龙竞速者的碧蓝裹手"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_glove.jpg"
+  },
+  {
+    "TagId": 212876,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Belt",
+      "Cinturón azur de jinete de dracos",
+      "Cinto Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Belt",
+      "Cinturón azur de corredor de draco",
+      "Ceinture azur de pilote de drake",
+      "Лазурный пояс драконьего гонщика",
+      "Azurgürtel des Drachenreiters",
+      "Cinto Lazúli do Velocista de Dracos",
+      "Cintura del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 허리띠",
+      "飛龍競速騎師蒼藍腰帶",
+      "幼龙竞速者的碧蓝腰带"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_belt.jpg"
+  },
+  {
+    "TagId": 212877,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Leggings",
+      "Leotardos azur de jinete de dracos",
+      "Perneiras Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Leggings",
+      "Leotardos azures de corredor de draco",
+      "Jambières azur de pilote de drake",
+      "Лазурные поножи драконьего гонщика",
+      "Azurgamaschen des Drachenreiters",
+      "Perneiras Lazúli do Velocista de Dracos",
+      "Gambiere del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 다리보호구",
+      "飛龍競速騎師蒼藍護腿",
+      "幼龙竞速者的碧蓝护腿"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_pant.jpg"
+  },
+  {
+    "TagId": 212878,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Boots",
+      "Botas azures de jinete de dracos",
+      "Botas Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Boots",
+      "Botas azures de corredor de draco",
+      "Bottes azur de pilote de drake",
+      "Лазурные сапоги драконьего гонщика",
+      "Azurstiefel des Drachenreiters",
+      "Botas Lazúli do Velocista de Dracos",
+      "Stivali del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 장화",
+      "飛龍競速騎師蒼藍長靴",
+      "幼龙竞速者的碧蓝靴子"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_boot.jpg"
+  },
+  {
+    "TagId": 212879,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Scarf",
+      "Bufanda azur de jinete de dracos",
+      "Cachecol Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Scarf",
+      "Bufanda azur de corredor de draco",
+      "Foulard azur de pilote de drake",
+      "Лазурный шарф драконьего гонщика",
+      "Azurschal des Drachenreiters",
+      "Cachecol Lazúli do Velocista de Dracos",
+      "Sciarpa del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 목도리",
+      "飛龍競速騎師蒼藍披巾",
+      "幼龙竞速者的碧蓝头巾"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_cape.jpg"
+  },
+  {
+    "TagId": 212880,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Shoulderpads",
+      "Hombreras azures de jinete de dracos",
+      "Ombreiras Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Shoulderpads",
+      "Hombreras azures de corredor de draco",
+      "Protège-épaules azur de pilote de drake",
+      "Лазурные наплечники драконьего гонщика",
+      "Azurschulterpolster des Drachenreiters",
+      "Ombreiras Lazúli do Velocista de Dracos",
+      "Spalletti del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 어깨덧대",
+      "飛龍競速騎師蒼藍肩墊",
+      "幼龙竞速者的碧蓝护肩"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_shoulder.jpg"
+  },
+  {
+    "TagId": 212881,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drake Racer's Azure Helmet",
+      "Casco azur de jinete de dracos",
+      "Capacete Lazúli do Velocista de Dracos",
+      "Drake Racer's Azure Helmet",
+      "Casco azur de corredor de draco",
+      "Casque azur de pilote de drake",
+      "Лазурный шлем драконьего гонщика",
+      "Azurhelm des Drachenreiters",
+      "Capacete Lazúli do Velocista de Dracos",
+      "Elmetto del Cavalcadrachi Azzurro",
+      "비룡 경주자의 하늘빛 보호모",
+      "飛龍競速騎師蒼藍盔帽",
+      "幼龙竞速者的碧蓝头盔"
+    ],
+    "Media": "inv_armor_dragonrider_b_01_helm.jpg"
+  },
+  {
+    "TagId": 212917,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Windstorm",
+      "Tormenta de viento",
+      "Tempestade de Vento",
+      "Windstorm",
+      "Tormenta de viento",
+      "Tempête de vent",
+      "Бушующий шторм",
+      "Windhose",
+      "Tempestade de Vento",
+      "Tempesta di Vento",
+      "폭풍바람",
+      "暴風",
+      "劲烈风暴"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
   },
   {
     "TagId": 212920,
@@ -5355,6 +6090,27 @@
     "Media": "inv_firearm_2h_vulperapirate_d_01.jpg"
   },
   {
+    "TagId": 212975,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Snowdrift",
+      "Ventisquero",
+      "Monte de Neve",
+      "Snowdrift",
+      "Ventisquero",
+      "Éclat de glace",
+      "Снежный занос",
+      "Schneewehe",
+      "Monte de Neve",
+      "Cumulo di Neve",
+      "눈더미",
+      "雪堆",
+      "雪流"
+    ],
+    "Media": "spell_frost_ring of frost.jpg"
+  },
+  {
     "TagId": 212976,
     "TagType": 21,
     "Names": [
@@ -5710,5 +6466,26 @@
       "魔典：呢喃眼魔"
     ],
     "Media": "inv_misc_book_01.jpg"
+  },
+  {
+    "TagId": 212998,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Shield",
+      "Escudo sagrado",
+      "Escudo Sagrado",
+      "Holy Shield",
+      "Escudo Sagrado",
+      "Bouclier sacré",
+      "Щит небес",
+      "Heiliger Schild",
+      "Escudo Sagrado",
+      "Scudo Benedetto",
+      "신성한 방패",
+      "神聖之盾",
+      "神圣之盾"
+    ],
+    "Media": "inv_shield_1h_hyrja_d_01.jpg"
   }
 ]

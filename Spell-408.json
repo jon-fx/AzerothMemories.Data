@@ -11279,19 +11279,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Shalewing, Fire (Yellow) [PH]",
-      "Shalewing, Fire (Yellow) [PH]",
-      "Asaxisto, Fogo (Amarelo)",
-      "Shalewing, Fire (Yellow) [PH]",
-      "Alaesquisto, fuego (amarillo) [PH]",
-      "Shalewing, Fire (Yellow) [PH]",
-      "Желтый огненный глинокрыл",
-      "Schieferschwinge, Feuer (Gelb) [PH]",
-      "Asaxisto, Fogo (Amarelo)",
-      "Shalewing, Fire (Yellow) [PH]",
-      "Shalewing, Fire (Yellow) [PH]",
-      "Shalewing, Fire (Yellow) [PH]",
-      "Shalewing, Fire (Yellow) [PH]"
+      "Calescent Shalewing",
+      "Alaesquisto incandescente",
+      "Asaxisto Esquentado",
+      "Calescent Shalewing",
+      "Alaesquisto escaldante",
+      "Aile-de-schiste incandescent",
+      "Пышущий жаром глинокрыл",
+      "Erwärmende Schieferschwinge",
+      "Asaxisto Esquentado",
+      "Alaroccia Coalescente",
+      "고열 혈암날개",
+      "加溫岩翼蝠",
+      "升温岩翼蝠"
     ],
     "Media": "inv_sporebatrock_yellow.jpg"
   },
@@ -13457,6 +13457,27 @@
     "Media": "spell_druid_massentanglement.jpg"
   },
   {
+    "TagId": 408778,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Completely Safe Rocket",
+      "Cohete absolutamente seguro",
+      "Foguete Completamente Seguro",
+      "Completely Safe Rocket",
+      "Cohete totalmente seguro",
+      "Fusée parfaitement sûre",
+      "Совершенно безопасная ракета",
+      "Vollkommen sichere Rakete",
+      "Foguete Completamente Seguro",
+      "Razzo Assolutamente Sicuro",
+      "전적으로 안전한 로켓",
+      "超安全火箭",
+      "绝对安全的火箭"
+    ],
+    "Media": "ability_mount_rocketmount.jpg"
+  },
+  {
     "TagId": 408779,
     "TagType": 26,
     "Names": [
@@ -13476,6 +13497,27 @@
       "纠缠"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 408780,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stop Observing",
+      "Dejar de mirar",
+      "Parar de Observar",
+      "Stop Observing",
+      "Dejar de observar",
+      "Fin de l’observation",
+      "Прекращение наблюдения",
+      "Beobachtung beenden",
+      "Parar de Observar",
+      "Interruzione Osservazione",
+      "관찰 중단",
+      "停止觀察",
+      "停止观察"
+    ],
+    "Media": "spell_shadow_sacrificialshield.jpg"
   },
   {
     "TagId": 408781,

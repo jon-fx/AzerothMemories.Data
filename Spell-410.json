@@ -126,6 +126,111 @@
     "Media": "ability_socererking_arcanereplication.jpg"
   },
   {
+    "TagId": 410020,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Infernal Eruption",
+      "Erupción infernal",
+      "Erupção Infernal",
+      "Infernal Eruption",
+      "Erupción infernal",
+      "Éruption infernale",
+      "Инфернальное извержение",
+      "Höllische Eruption",
+      "Erupção Infernal",
+      "Eruzione Infernale",
+      "지옥불 분출",
+      "煉獄爆發",
+      "地狱喷发"
+    ],
+    "Media": "ability_rhyolith_lavapool.jpg"
+  },
+  {
+    "TagId": 410022,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Natural Celerity",
+      "Celeridad natural",
+      "Celeridade Natural",
+      "Natural Celerity",
+      "Celeridad natural",
+      "Célérité naturelle",
+      "Природная стремительность",
+      "Natürliche Schnelligkeit",
+      "Celeridade Natural",
+      "Rapidità Naturale",
+      "자연의 기민함",
+      "自然迅敏",
+      "自然敏捷"
+    ],
+    "Media": "spell_lifegivingspeed.jpg"
+  },
+  {
+    "TagId": 410024,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Umbral Incantation",
+      "Encantamiento umbrío",
+      "Encantamento Umbrático",
+      "Umbral Incantation",
+      "Conjuro umbrío",
+      "Incantation ombreuse",
+      "Теневое заклятие",
+      "Umbrazauberformel",
+      "Encantamento Umbrático",
+      "Incantamento Ombrale",
+      "암영의 주문",
+      "晦影魔咒",
+      "晦暗咒言"
+    ],
+    "Media": "ability_creature_cursed_03.jpg"
+  },
+  {
+    "TagId": 410026,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Replication",
+      "Replicación",
+      "Replicação",
+      "Replication",
+      "Replicación",
+      "Réplication",
+      "Репликация",
+      "Replikation",
+      "Replicação",
+      "Replica",
+      "자기 복제",
+      "複製",
+      "复制"
+    ],
+    "Media": "achievement_reputation_kirintor.jpg"
+  },
+  {
+    "TagId": 410031,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Annulment",
+      "Anulación",
+      "Anulamento",
+      "Annulment",
+      "Revocación",
+      "Annulation",
+      "Ликвидация",
+      "Aufhebung",
+      "Anulamento",
+      "Annullamento",
+      "소멸",
+      "消袪",
+      "废除"
+    ],
+    "Media": "inv_shield_1h_bastionquest_b_01.jpg"
+  },
+  {
     "TagId": 410035,
     "TagType": 26,
     "Names": [
@@ -4448,6 +4553,27 @@
       "Quest Launch"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 410293,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Build",
+      "Build",
+      "Construir",
+      "Build",
+      "Construir",
+      "Construire",
+      "Постройка",
+      "Bauen",
+      "Construir",
+      "Costruisci",
+      "제작",
+      "建造",
+      "建造"
+    ],
+    "Media": "garrison_build.jpg"
   },
   {
     "TagId": 410294,
@@ -8964,6 +9090,48 @@
     "Media": "inv_shadowflame_debuff.jpg"
   },
   {
+    "TagId": 410519,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Wand",
+      "Varita de fuego",
+      "Varinha de Fogo",
+      "Fire Wand",
+      "Varita de fuego",
+      "Baguette de feu",
+      "Огненный жезл",
+      "Feuerzauberstab",
+      "Varinha de Fogo",
+      "Bacchetta di Fuoco",
+      "화염 마법봉",
+      "火焰魔杖",
+      "火焰魔杖"
+    ],
+    "Media": "inv_wand_31.jpg"
+  },
+  {
+    "TagId": 410520,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fireball",
+      "Bola de fuego",
+      "Bola de Fogo",
+      "Fireball",
+      "Bola de Fuego",
+      "Boule de feu",
+      "Огненный шар",
+      "Feuerball",
+      "Bola de Fogo",
+      "Palla di Fuoco",
+      "화염구",
+      "火球術",
+      "火球术"
+    ],
+    "Media": "spell_fire_flamebolt.jpg"
+  },
+  {
     "TagId": 410521,
     "TagType": 26,
     "Names": [
@@ -9069,6 +9237,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 410526,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Axe",
+      "Hacha",
+      "Machado",
+      "Axe",
+      "Hachazo",
+      "Hache",
+      "Топор",
+      "Axt",
+      "Machado",
+      "Ascia",
+      "도끼",
+      "斧頭",
+      "斧"
+    ],
+    "Media": "inv_axe_1h_newplayer_a_02.jpg"
+  },
+  {
     "TagId": 410527,
     "TagType": 26,
     "Names": [
@@ -9088,6 +9277,27 @@
       "萨卡雷斯"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 410528,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cleave",
+      "Rajar",
+      "Cutilada",
+      "Cleave",
+      "Rajar",
+      "Enchaînement",
+      "Рассекающий удар",
+      "Spalten",
+      "Cutilada",
+      "Fendente",
+      "회전베기",
+      "順劈斬",
+      "顺劈斩"
+    ],
+    "Media": "ability_warrior_cleave.jpg"
   },
   {
     "TagId": 410530,
@@ -9172,6 +9382,27 @@
       "恶臭孢云"
     ],
     "Media": "inv_mushroom_09.jpg"
+  },
+  {
+    "TagId": 410534,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Start",
+      "Iniciar",
+      "Início",
+      "Start",
+      "Iniciar",
+      "Démarrage",
+      "Начало",
+      "Start",
+      "Início",
+      "Inizio",
+      "시작",
+      "開始",
+      "开始"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 410535,
@@ -9298,6 +9529,27 @@
       "卡扎拉开场"
     ],
     "Media": "inv_dragonelementiummount.jpg"
+  },
+  {
+    "TagId": 410542,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flame Orbs",
+      "Orbes de llamas",
+      "Orbes Flamejantes",
+      "Flame Orbs",
+      "Orbes de llamas",
+      "Orbes enflammés",
+      "Огненные сферы",
+      "Flammenkugeln",
+      "Orbes Flamejantes",
+      "Globi delle Fiamme",
+      "화염 구슬",
+      "烈焰之球",
+      "烈焰宝珠"
+    ],
+    "Media": "ability_vehicle_demolisherflamecatapult.jpg"
   },
   {
     "TagId": 410543,
@@ -11311,6 +11563,27 @@
     "Media": "spell_shaman_improvedfirenova.jpg"
   },
   {
+    "TagId": 410640,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessed Hammers",
+      "Martillos benditos",
+      "Martelos Abençoados",
+      "Blessed Hammers",
+      "Martillos benditos",
+      "Marteaux bénis",
+      "Благословенные молоты",
+      "Gesegnete Hämmer",
+      "Martelos Abençoados",
+      "Martelli Benedetti",
+      "축복받은 망치",
+      "祝福之錘",
+      "祝福之锤"
+    ],
+    "Media": "paladin_retribution.jpg"
+  },
+  {
     "TagId": 410641,
     "TagType": 26,
     "Names": [
@@ -11542,6 +11815,26 @@
     "Media": "inv_enchanting_wod_dust.jpg"
   },
   {
+    "TagId": 410653,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Infused",
+      "Infusión de sombras",
+      "Infuso em Sombra",
+      "Shadow Infused",
+      "Imbuido de Sombras",
+      "Imprégnation d’ombre",
+      "Усиление Тьмой",
+      "Schattenerfüllt",
+      "Infuso em Sombra",
+      "Infuso d'Ombra",
+      "어둠 주입",
+      "暗影灌注",
+      "暗影灌注"
+    ]
+  },
+  {
     "TagId": 410654,
     "TagType": 26,
     "Names": [
@@ -11666,6 +11959,27 @@
       "[DNT] P1 Energy Controller"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 410664,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fireball",
+      "Bola de fuego",
+      "Bola de Fogo",
+      "Fireball",
+      "Bola de Fuego",
+      "Boule de feu",
+      "Огненный шар",
+      "Feuerball",
+      "Bola de Fogo",
+      "Palla di Fuoco",
+      "화염구",
+      "火球術",
+      "火球术"
+    ],
+    "Media": "spell_fire_flamebolt.jpg"
   },
   {
     "TagId": 410665,
@@ -11794,6 +12108,26 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 410671,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Infused",
+      "Infusión de fuego",
+      "Infuso em Fogo",
+      "Fire Infused",
+      "Imbuido de Fuego",
+      "Imprégnation de feu",
+      "Усиление огнем",
+      "Feuererfüllt",
+      "Infuso em Fogo",
+      "Infuso di Fuoco",
+      "화염 주입",
+      "火焰灌注",
+      "火焰灌注"
+    ]
+  },
+  {
     "TagId": 410672,
     "TagType": 26,
     "Names": [
@@ -11834,6 +12168,26 @@
       "风暴编织者"
     ],
     "Media": "spell_shadow_soulleech_2.jpg"
+  },
+  {
+    "TagId": 410674,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Infused",
+      "Infusión de escarcha",
+      "Infuso em Gelo",
+      "Frost Infused",
+      "Imbuido de Escarcha",
+      "Imprégnation de givre",
+      "Усиление льдом",
+      "Frosterfüllt",
+      "Infuso em Gelo",
+      "Infuso di Gelo",
+      "냉기 주입",
+      "冰霜灌注",
+      "冰霜灌注"
+    ]
   },
   {
     "TagId": 410675,
@@ -11899,6 +12253,26 @@
     "Media": "timelesscoin.jpg"
   },
   {
+    "TagId": 410678,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Infused",
+      "Infusión arcana",
+      "Infuso em Arcano",
+      "Arcane Infused",
+      "Infundir Arcano",
+      "Imprégnation des arcanes",
+      "Усиление тайной магией",
+      "Arkanerfüllt",
+      "Infuso em Arcano",
+      "Infuso d'Arcano",
+      "비전 주입",
+      "秘法灌注",
+      "奥术灌注"
+    ]
+  },
+  {
     "TagId": 410679,
     "TagType": 26,
     "Names": [
@@ -11918,6 +12292,26 @@
       "传送"
     ],
     "Media": "timelesscoin.jpg"
+  },
+  {
+    "TagId": 410680,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Infused",
+      "Infusión sagrada",
+      "Infuso em Sagrado",
+      "Holy Infused",
+      "Imbuido de poder Sagrado",
+      "Imprégnation sacrée",
+      "Усиление Светом",
+      "Heiligerfüllt",
+      "Infuso em Sagrado",
+      "Infuso di Sacro",
+      "신성 주입",
+      "神聖灌注",
+      "神圣灌注"
+    ]
   },
   {
     "TagId": 410681,
@@ -12928,6 +13322,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 410739,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reset Markers",
+      "Restablecer marcadores",
+      "Redefinir Marcadores",
+      "Reset Markers",
+      "Restablecer marcadores",
+      "Réinitialiser les marqueurs",
+      "Сбросить метки",
+      "Markierungen zurücksetzen",
+      "Redefinir Marcadores",
+      "Azzeramento Indicatori",
+      "표지 초기화",
+      "重置標記",
+      "重置标记"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 410740,
     "TagType": 26,
     "Names": [
@@ -13512,6 +13927,27 @@
       "Summon Light [DNT]",
       "Summon Light [DNT]",
       "Summon Light [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 410772,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reset All",
+      "Restablecer todo",
+      "Redefinir Tudo",
+      "Reset All",
+      "Restablecer todo",
+      "Tout réinitialiser",
+      "Сбросить все",
+      "Alle zurücksetzen",
+      "Redefinir Tudo",
+      "Azzeramento Totale",
+      "초기화",
+      "全部重置",
+      "全部重置"
     ],
     "Media": "trade_engineering.jpg"
   },

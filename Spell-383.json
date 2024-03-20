@@ -2953,7 +2953,7 @@
       "Executar",
       "Esecuzione",
       "마무리 일격",
-      "處決",
+      "斬殺",
       "斩杀"
     ],
     "Media": "inv_sword_48.jpg"
@@ -6298,6 +6298,48 @@
     "Media": "spell_paladin_hammerofwrath.jpg"
   },
   {
+    "TagId": 383330,
+    "TagType": 26,
+    "Names": [
+      null,
+      "On Transport",
+      "En transporte",
+      "Em Transporte",
+      "On Transport",
+      "En transporte",
+      "En transport",
+      "На транспорте",
+      "Auf Transportmittel",
+      "Em Transporte",
+      "Sul Trasporto",
+      "수송선 탑승 중",
+      "在交通工具上",
+      "搭乘载具"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
+    "TagId": 383331,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jet Pack",
+      "Cinturón cohete",
+      "Mochila a Jato",
+      "Jet Pack",
+      "Cinturón cohete",
+      "Propulseurs",
+      "Реактивный ранец",
+      "Tragbarer Düsenantrieb",
+      "Mochila a Jato",
+      "Zaino Razzo",
+      "도약기",
+      "噴射背包",
+      "喷气背包"
+    ],
+    "Media": "inv_gizmo_rocketlauncher.jpg"
+  },
+  {
     "TagId": 383332,
     "TagType": 26,
     "Names": [
@@ -7033,6 +7075,48 @@
     "Media": "ability_dragonriding_thrilloftheskies01.jpg"
   },
   {
+    "TagId": 383367,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vehicle",
+      "Vehículo",
+      "Veículo",
+      "Vehicle",
+      "Vehículo",
+      "Véhicule",
+      "Транспорт",
+      "Transportmittel",
+      "Veículo",
+      "Veicolo",
+      "차량",
+      "載具",
+      "载具"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 383368,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eject Override",
+      "Anular Eyectar",
+      "Cancelar Ejeção",
+      "Eject Override",
+      "Anular eyectar",
+      "Commande d’éjection",
+      "Отмена катапультирования",
+      "Ausstiegsüberschreibung",
+      "Cancelar Ejeção",
+      "Annullamento Espulsione",
+      "탈출 무효화",
+      "手動彈出",
+      "弹射覆盖"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
     "TagId": 383369,
     "TagType": 26,
     "Names": [
@@ -7073,6 +7157,27 @@
       "召唤翡翠雏龙"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 383371,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gyrocopter Controls",
+      "Controles de girocóptero",
+      "Controles do Girocóptero",
+      "Gyrocopter Controls",
+      "Controles del girocóptero",
+      "Commandes de gyrocoptère",
+      "Управление гирокоптером",
+      "Gyrokoptersteuerung",
+      "Controles do Girocóptero",
+      "Controlli del Girocottero",
+      "자이로콥터 조작",
+      "旋翼機控制儀",
+      "旋翼机控制"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
   },
   {
     "TagId": 383372,
@@ -7703,6 +7808,27 @@
       "深刺匕首"
     ],
     "Media": "ability_rogue_focusedattacks.jpg"
+  },
+  {
+    "TagId": 383407,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Speed",
+      "Velocidad",
+      "Acelerar",
+      "Speed",
+      "Velocidad",
+      "Vitesse",
+      "Скорость",
+      "Geschwindigkeit",
+      "Acelerar",
+      "Velocità",
+      "속도",
+      "速度",
+      "加速"
+    ],
+    "Media": "ability_vehicle_rocketboost.jpg"
   },
   {
     "TagId": 383408,
@@ -8919,6 +9045,27 @@
       "雏龙训练"
     ],
     "Media": "achievement_bg_killflagcarriers_grabflag_capit.jpg"
+  },
+  {
+    "TagId": 383484,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Gyrocopter",
+      "Invocar girocóptero",
+      "Evocar Girocóptero",
+      "Summon Gyrocopter",
+      "Invocar girocóptero",
+      "Invocation de gyrocoptère",
+      "Призыв гирокоптера",
+      "Gyrokopter beschwören",
+      "Evocar Girocóptero",
+      "Evocazione: Girocottero",
+      "자이로콥터 소환",
+      "召喚旋翼機",
+      "召唤旋翼机"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 383485,
@@ -13955,6 +14102,27 @@
     "Media": "ability_skyreach_wind.jpg"
   },
   {
+    "TagId": 383741,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Gyrocopter",
+      "Invocar girocóptero",
+      "Evocar Girocóptero",
+      "Summon Gyrocopter",
+      "Invocar girocóptero",
+      "Invocation de gyrocoptère",
+      "Призыв гирокоптера",
+      "Gyrokopter beschwören",
+      "Evocar Girocóptero",
+      "Evocazione: Girocottero",
+      "자이로콥터 소환",
+      "召喚旋翼機",
+      "召唤旋翼机"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 383742,
     "TagType": 26,
     "Names": [
@@ -13972,6 +14140,27 @@
       "거북이 폭발",
       "海龜爆炸",
       "海龟爆炸"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 383743,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vehicle",
+      "Vehículo",
+      "Veículo",
+      "Vehicle",
+      "Vehículo",
+      "Véhicule",
+      "Транспорт",
+      "Transportmittel",
+      "Veículo",
+      "Veicolo",
+      "차량",
+      "載具",
+      "载具"
     ],
     "Media": "trade_engineering.jpg"
   },

@@ -210,6 +210,27 @@
     "Media": "ui_profession_skinning.jpg"
   },
   {
+    "TagId": 394012,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Glider Vehicle",
+      "Vehículo planeador",
+      "Veículo Planador",
+      "Glider Vehicle",
+      "Vehículo planeador",
+      "Véhicule planeur",
+      "Транспортный планер",
+      "Gleiterfahrzeug",
+      "Veículo Planador",
+      "Veicolo Aliante",
+      "글라이더 차량",
+      "滑翔載具",
+      "滑翔伞载具"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 394013,
     "TagType": 26,
     "Names": [
@@ -292,6 +313,69 @@
       "艺术家的旧衣服"
     ],
     "Media": "ui_profession_inscription.jpg"
+  },
+  {
+    "TagId": 394017,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sweep",
+      "Barrido",
+      "Rasteira",
+      "Sweep",
+      "Barrer",
+      "Balayage",
+      "Взмах",
+      "Feger",
+      "Rasteira",
+      "Spazzata",
+      "휩쓸기",
+      "掃擊",
+      "横扫"
+    ],
+    "Media": "ability_monk_roundhousekick.jpg"
+  },
+  {
+    "TagId": 394018,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kick",
+      "Patada",
+      "Chute",
+      "Kick",
+      "Patada",
+      "Coup de pied",
+      "Удар ногой",
+      "Tritt",
+      "Chute",
+      "Calcio",
+      "발차기",
+      "腳踢",
+      "脚踢"
+    ],
+    "Media": "ability_kick.jpg"
+  },
+  {
+    "TagId": 394019,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fisticuffs",
+      "Pugilismo",
+      "Punhada",
+      "Fisticuffs",
+      "Puños",
+      "Coups de poing",
+      "Удары кулаками",
+      "Faustschläge",
+      "Punhada",
+      "Cazzotti",
+      "주먹 치기",
+      "鬥拳",
+      "掌击"
+    ],
+    "Media": "inv_relics_totemofrage.jpg"
   },
   {
     "TagId": 394020,
@@ -1405,6 +1489,27 @@
       "巨龙群岛觅踪者"
     ],
     "Media": "ability_hunter_improvedtracking.jpg"
+  },
+  {
+    "TagId": 394078,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hitstop",
+      "Freno de golpe",
+      "Parada ao Acertar",
+      "Hitstop",
+      "Parálisis por impacto",
+      "Fin des frappes",
+      "Пауза при ударе",
+      "Trefferstopp",
+      "Parada ao Acertar",
+      "Fine",
+      "적중 중단",
+      "攻擊攔截",
+      "硬直"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 394079,
@@ -7660,6 +7765,48 @@
     "Media": "ability_thunderking_lightningwhip.jpg"
   },
   {
+    "TagId": 394407,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Secondary Passenger Override",
+      "Anulación de pasajero secundario",
+      "Substituição de Passageiro Secundário",
+      "Secondary Passenger Override",
+      "Anular pasajero secundario",
+      "Contrôle du passager secondaire",
+      "Смена второго пассажира",
+      "Sekundäre Passagierüberschreibung",
+      "Substituição de Passageiro Secundário",
+      "Annullamento Passeggero Secondario",
+      "보조 탑승자 무효화",
+      "第二乘客手動操控",
+      "次级乘客覆盖"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
+    "TagId": 394408,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Let Go",
+      "Soltarse",
+      "Desistir",
+      "Let Go",
+      "Soltarse",
+      "Abandon",
+      "Отпустить",
+      "Loslassen",
+      "Desistir",
+      "Mollare la Presa",
+      "놓아주기",
+      "放手",
+      "放手"
+    ],
+    "Media": "ability_demonhunter_vengefulretreat2.jpg"
+  },
+  {
     "TagId": 394409,
     "TagType": 26,
     "Names": [
@@ -9400,6 +9547,27 @@
       "熔火剧变"
     ],
     "Media": "spell_fire_volcano.jpg"
+  },
+  {
+    "TagId": 394500,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Glacial Advance",
+      "Avance glacial",
+      "Avanço Glacial",
+      "Glacial Advance",
+      "Avance glacial",
+      "Avancée glaciale",
+      "Ледяной натиск",
+      "Unaufhaltbarer Gletscher",
+      "Avanço Glacial",
+      "Avanzata Glaciale",
+      "빙하 진군",
+      "冰川突進",
+      "冰川突进"
+    ],
+    "Media": "ability_hunter_glacialtrap.jpg"
   },
   {
     "TagId": 394501,
@@ -15258,6 +15426,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 394809,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Block",
+      "Bloquear con escudo",
+      "Levantar Escudo",
+      "Shield Block",
+      "Bloquear con escudo",
+      "Maîtrise du blocage",
+      "Блок щитом",
+      "Schildblock",
+      "Levantar Escudo",
+      "Scudo Saldo",
+      "방패 올리기",
+      "盾牌格擋",
+      "盾牌格挡"
+    ],
+    "Media": "inv_shield_1h_newplayer_a_01.jpg"
+  },
+  {
     "TagId": 394810,
     "TagType": 26,
     "Names": [
@@ -15741,6 +15930,27 @@
     "Media": "spell_nature_earthquake.jpg"
   },
   {
+    "TagId": 394834,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Retaliation",
+      "Represalias",
+      "Retaliação",
+      "Retaliation",
+      "Represalias",
+      "Représailles",
+      "Возмездие",
+      "Gegenschlag",
+      "Retaliação",
+      "Rappresaglia",
+      "보복",
+      "反擊風暴",
+      "以牙还牙"
+    ],
+    "Media": "ability_warrior_revenge.jpg"
+  },
+  {
     "TagId": 394835,
     "TagType": 26,
     "Names": [
@@ -16159,6 +16369,27 @@
       "风暴扰动"
     ],
     "Media": "ability_skyreach_wind.jpg"
+  },
+  {
+    "TagId": 394857,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hitstop",
+      "Freno de golpe",
+      "Parada ao Acertar",
+      "Hitstop",
+      "Parálisis por impacto",
+      "Fin des frappes",
+      "Пауза при ударе",
+      "Trefferstopp",
+      "Parada ao Acertar",
+      "Fine",
+      "적중 중단",
+      "攻擊攔截",
+      "硬直"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 394859,

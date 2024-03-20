@@ -10380,6 +10380,66 @@
     ]
   },
   {
+    "TagId": 802,
+    "TagType": 31,
+    "Names": [
+      null,
+      "The Forbidden %s",
+      "%s, el Prohibido",
+      "%s, o Proibido",
+      "The Forbidden %s",
+      "%s el Olvidado",
+      "%s de l’Interdit",
+      "Запретный %s",
+      "%s, der Verbotene",
+      "%s, o Proibido",
+      "%s il Proibito",
+      "금지된 자 %s",
+      "『禁忌之人』%s",
+      "禁忌的%s"
+    ]
+  },
+  {
+    "TagId": 803,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Draconic Gladiator %s",
+      "Gladiador dracónico %s",
+      "%s, o Gladiador Dracônico",
+      "Draconic Gladiator %s",
+      "Gladiador dracónico %s",
+      "Gladiateur draconique %s",
+      "Драконий гладиатор %s",
+      "Drakonischer Gladiator %s",
+      "%s, o Gladiador Dracônico",
+      "Gladiatore Draconico %s",
+      "용족 검투사 %s",
+      "龍族鬥士%s",
+      "腾龙角斗士 %s"
+    ]
+  },
+  {
+    "TagId": 804,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Draconic Legend %s",
+      "Leyenda dracónica %s",
+      "%s, a Lenda Dracônica",
+      "Draconic Legend %s",
+      "Leyenda dracónica %s",
+      "Légende draconique %s",
+      "Драконья легенда %s",
+      "Drakonische Legende %s",
+      "%s, a Lenda Dracônica",
+      "Leggenda Draconica %s",
+      "용족의 전설 %s",
+      "龍族傳奇%s",
+      "腾龙传说 %s"
+    ]
+  },
+  {
     "TagId": 805,
     "TagType": 31,
     "Names": [
@@ -10397,6 +10457,186 @@
       "섬 기록관 %s",
       "群島文物管理員 %s",
       "%s，群岛档案员"
+    ]
+  },
+  {
+    "TagId": 806,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Draconic",
+      "%s el Dracónico",
+      "%s, o Dracônico",
+      "%s the Draconic",
+      "%s el Dracónico",
+      "%s le draconique",
+      "Драконий %s",
+      "%s der Drakonische",
+      "%s, o Dracônico",
+      "%s il Draconico",
+      "용족의 %s",
+      "龍族%s",
+      "腾龙者 %s"
+    ]
+  },
+  {
+    "TagId": 807,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Draconic Hero",
+      "%s el Héroe dracónico",
+      "%s, o Herói Dracônico",
+      "%s the Draconic Hero",
+      "%s el Héroe Dracónico",
+      "%s le héros draconique",
+      "Драконий герой %s",
+      "%s, der drakonische Held",
+      "%s, o Herói Dracônico",
+      "Eroe Draconico %s",
+      "용족의 영웅 %s",
+      "『龍族英雄』%s",
+      "%s，腾龙英雄"
+    ]
+  },
+  {
+    "TagId": 809,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Northrend Racer %s",
+      "Corredor de Rasganorte %s",
+      "%s, o Corredor de Nortúndria",
+      "Northrend Racer %s",
+      "Corredor de Rasganorte %s",
+      "Pilote du Norfendre %s",
+      "Гонщик Нордскола %s",
+      "%s, Rennreiter von Nordend",
+      "%s, o Corredor de Nortúndria",
+      "Corridore di Nordania %s",
+      "노스렌드 경주자 %s",
+      "北裂境競速騎師%s",
+      "诺森德竞速者 %s"
+    ]
+  },
+  {
+    "TagId": 810,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Plunderlord %s",
+      "Amo del saqueo %s",
+      "Senhor da Pilhagem %s",
+      "Plunderlord %s",
+      "%s, Adalid del Botín",
+      "Seigneur du pillage %s",
+      "Владыка грабежа %s",
+      "Plünderfürst %s",
+      "Senhor da Pilhagem %s",
+      "Signore del Saccheggio %s",
+      "약탈왕 %s",
+      "強襲之王%s",
+      "霸业枭雄 %s"
+    ]
+  },
+  {
+    "TagId": 815,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Swabbie %s",
+      "Bisoño %s",
+      "Grumete %s",
+      "Swabbie %s",
+      "Grumete %s",
+      "Moussaillon %s",
+      "Юнга %s",
+      "Deckhand %s",
+      "Grumete %s",
+      "Mozzo %s",
+      "뱃사람 %s",
+      "水兵%s",
+      "海盗杂兵 %s"
+    ]
+  },
+  {
+    "TagId": 816,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Deck Hand %s",
+      "Marinero de cubierta %s",
+      "Marujo %s",
+      "Deck Hand %s",
+      "Marinero de cubierta %s",
+      "Matelot %s",
+      "Матрос %s",
+      "Matrose %s",
+      "Marujo %s",
+      "Marinaio %s",
+      "갑판 일손 %s",
+      "水手%s",
+      "甲板水手 %s"
+    ]
+  },
+  {
+    "TagId": 817,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Swashbuckler %s",
+      "Espadachín %s",
+      "Espadachim %s",
+      "Swashbuckler %s",
+      "Espadachín %s",
+      "Bretteur %s",
+      "Сорвиголова %s",
+      "Säbelrassler %s",
+      "Espadachim %s",
+      "Spadaccino %s",
+      "무모한 칼잡이 %s",
+      "劍客%s",
+      "侠义剑士 %s"
+    ]
+  },
+  {
+    "TagId": 818,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Buccaneer %s",
+      "Bucanero %s",
+      "Bucaneiro %s",
+      "Buccaneer %s",
+      "Bucanero %s",
+      "Boucanier %s",
+      "Буканьер %s",
+      "Bukanier %s",
+      "Bucaneiro %s",
+      "Bucaniere %s",
+      "해적단원 %s",
+      "海盜%s",
+      "逍遥浪客 %s"
+    ]
+  },
+  {
+    "TagId": 819,
+    "TagType": 31,
+    "Names": [
+      null,
+      "First Mate %s",
+      "Contramaestre %s",
+      "Imediato %s",
+      "First Mate %s",
+      "Contramaestre %s",
+      "Second %s",
+      "Старпом %s",
+      "Erster Maat %s",
+      "Imediato %s",
+      "Primo Ufficiale %s",
+      "일등항해사 %s",
+      "大副%s",
+      "大副 %s"
     ]
   },
   {

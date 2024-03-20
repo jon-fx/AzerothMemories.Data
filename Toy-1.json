@@ -6164,7 +6164,7 @@
       "Tenebroformador mágico",
       "Bourbomorpheur magique",
       "Магический мурковерть",
-      "Magischer Düsterwandler",
+      "Magischer Murkwandler",
       "Macabrador Mágico",
       "Murlocchizzatore Magico",
       "마법의 아옳변형기",
@@ -6277,6 +6277,27 @@
       "华美的爱情之船"
     ],
     "Media": "inv_misc_love_gondola.jpg"
+  },
+  {
+    "TagId": 1448,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Draconic Legend's Pennant",
+      "Grímpola de leyenda dracónica",
+      "Galhardete da Lenda Dracônica",
+      "Draconic Legend's Pennant",
+      "Grímpola de Leyenda dracónica",
+      "Pennon de légende draconique",
+      "Флаг драконьей легенды",
+      "Standarte der drakonischen Legende",
+      "Galhardete da Lenda Dracônica",
+      "Vessillo della Leggenda Draconica",
+      "용족의 전설의 깃발",
+      "龍族傳奇錦旗",
+      "腾龙传说的旌旗"
+    ],
+    "Media": "inv_soloshufflepennantreward_icons_red.jpg"
   },
   {
     "TagId": 1450,
@@ -6405,6 +6426,48 @@
     "Media": "inv_hearthstone_gold.jpg"
   },
   {
+    "TagId": 1461,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Duck Disguiser",
+      "Disfraz de pato",
+      "Disfarçador de Pato",
+      "Duck Disguiser",
+      "Disfrazador de pato",
+      "Déguiseur en canard",
+      "Утиный маскировщик",
+      "Entenverkleidungsspielzeug",
+      "Disfarçador de Pato",
+      "Camuffatore da Anatra",
+      "오리 변장 도구",
+      "鴨子偽裝器",
+      "鸭鸭伪装器"
+    ],
+    "Media": "inv_10_specialreagentfoozles_coolegg_bronze.jpg"
+  },
+  {
+    "TagId": 1464,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Swarthy Warning Sign",
+      "Señal de advertencia salobre",
+      "Placa de Aviso Capenga",
+      "Swarthy Warning Sign",
+      "Señal de advertencia atezada",
+      "Panneau d’avertissement brun",
+      "Потемневший предупредительный знак",
+      "Dunkles Warnschild",
+      "Placa de Aviso Capenga",
+      "Segnale di Pericolo Scuro",
+      "거무스름한 경고 표지",
+      "黝黑警告標誌",
+      "黑心警告标志"
+    ],
+    "Media": "inv_helm_cloth_b_01pirate_black.jpg"
+  },
+  {
     "TagId": 1466,
     "TagType": 30,
     "Names": [
@@ -6424,5 +6487,26 @@
       "无尽龙鳞之瓶"
     ],
     "Media": "inv_misc_craftingreagent_vial01.jpg"
+  },
+  {
+    "TagId": 1472,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Draconic Banner of the Aspects",
+      "Estandarte dracónico de los Aspectos",
+      "Estandarte Dracônico dos Aspectos",
+      "Draconic Banner of the Aspects",
+      "Estandarte dracónico de los Aspectos",
+      "Bannière draconique des Aspects",
+      "Драконье знамя Аспектов",
+      "Drakonisches Banner der Aspekte",
+      "Estandarte Dracônico dos Aspectos",
+      "Stendardo Draconico degli Aspetti",
+      "용족 위상의 깃발",
+      "守護巨龍的龍族旌旗",
+      "守护巨龙的腾龙旗帜"
+    ],
+    "Media": "inv_mdi_awc_bannerreward_icons_red.jpg"
   }
 ]
