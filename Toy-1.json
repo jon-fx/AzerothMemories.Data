@@ -3397,7 +3397,7 @@
       "Icore Infetto",
       "감염된 수액",
       "感染膿液",
-      "感染脓液"
+      "僵化药水"
     ],
     "Media": "spell_shadow_deathcoil.jpg"
   },
@@ -4342,7 +4342,7 @@
       "Bandiera della Vittoria della Demolizione",
       "승리의 파괴자 깃발",
       "破壞者勝利戰旗",
-      "破坏者的胜利旗帜"
+      "恶龙克星的胜利旗帜"
     ],
     "Media": "inv_10_dungeonjewelry_dragon_trinket_3djardintrophy_black.jpg"
   },
@@ -5023,18 +5023,18 @@
     "TagType": 30,
     "Names": [
       null,
-      "Titan's Containment Device",
+      "Titan Containment Device",
       "Dispositivo de contención de titán",
       "Dispositivo de Contenção Titânico",
-      "Titan's Containment Device",
+      "Titan Containment Device",
       "Dispositivo de contención de los titanes",
       "Dispositif de confinement des Titans",
       "Сдерживающее устройство титанов",
       "Titanisches Eindämmungsgerät",
       "Dispositivo de Contenção Titânico",
       "Dispositivo di Contenimento del Titano",
-      "티탄 격리 장치",
-      "泰坦的隔離裝置",
+      "티탄 봉쇄 장치",
+      "泰坦隔離裝置",
       "泰坦禁锢装置"
     ],
     "Media": "inv_10_dungeonjewelry_titan_necklace_1_color3.jpg"
@@ -5394,7 +5394,7 @@
       "黑曜傳奇錦旗",
       "黑曜传说的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_red.jpg"
+    "Media": "inv_soloshufflepennantreward_icons_blue.jpg"
   },
   {
     "TagId": 1331,
@@ -6087,7 +6087,7 @@
       "蒼翠傳奇錦旗",
       "苍郁传说的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_red.jpg"
+    "Media": "inv_soloshufflepennantreward_icons_green.jpg"
   },
   {
     "TagId": 1435,
@@ -6297,7 +6297,7 @@
       "龍族傳奇錦旗",
       "腾龙传说的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_red.jpg"
+    "Media": "inv_soloshufflepennantreward_icons_purple.jpg"
   },
   {
     "TagId": 1450,
@@ -6468,6 +6468,27 @@
     "Media": "inv_helm_cloth_b_01pirate_black.jpg"
   },
   {
+    "TagId": 1465,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Draenic Hologem",
+      "Hologema draénica",
+      "Hologema Draenoriana",
+      "Draenic Hologem",
+      "Hologema draénica",
+      "Hologemme draenique",
+      "Дренейский голографоцвет",
+      "Draenischer Holostein",
+      "Hologema Draenoriana",
+      "Ologemma Draenoriana",
+      "드레나이 투영석",
+      "德萊尼全像寶石",
+      "德莱尼全息宝石"
+    ],
+    "Media": "inv_jewelcrafting_argusgemcut_purple_miscicons.jpg"
+  },
+  {
     "TagId": 1466,
     "TagType": 30,
     "Names": [
@@ -6489,6 +6510,111 @@
     "Media": "inv_misc_craftingreagent_vial01.jpg"
   },
   {
+    "TagId": 1467,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Kindness of Chi-ji",
+      "Amabilidad de Chi-Ji",
+      "Bondade de Chi-Ji",
+      "Kindness of Chi-ji",
+      "Amabilidad de Chi-Ji",
+      "Bonté de Chi Ji",
+      "Доброта Чи-Цзи",
+      "Güte von Chi-Ji",
+      "Bondade de Chi-Ji",
+      "Gentilezza di Chi-Ji",
+      "츠지의 호의",
+      "赤吉之善",
+      "赤精之仁"
+    ],
+    "Media": "monk_stance_redcrane.jpg"
+  },
+  {
+    "TagId": 1468,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Fortitude of Niuzao",
+      "Entereza de Niuzao",
+      "Fortitude de Niuzao",
+      "Fortitude of Niuzao",
+      "Entereza de Niuzao",
+      "Robustesse de Niuzao",
+      "Стойкость Нюцзао",
+      "Niuzaos Ausdauer",
+      "Fortitude de Niuzao",
+      "Fermezza di Niuzao",
+      "니우짜오의 인내",
+      "怒兆之韌",
+      "砮皂之韧"
+    ],
+    "Media": "monk_stance_drunkenox.jpg"
+  },
+  {
+    "TagId": 1469,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Fury of Xuen",
+      "Furia de Xuen",
+      "Fúria de Xuen",
+      "Fury of Xuen",
+      "Furia de Xuen",
+      "Fureur de Xuen",
+      "Ярость Сюэня",
+      "Xuens Zorn",
+      "Fúria de Xuen",
+      "Furia di Xuen",
+      "쉬엔의 분노",
+      "雪怒狂暴",
+      "雪怒之怒"
+    ],
+    "Media": "monk_stance_whitetiger.jpg"
+  },
+  {
+    "TagId": 1470,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Essence of Yu'lon",
+      "Esencia de Yu'lon",
+      "Essência de Yu'lon",
+      "Essence of Yu'lon",
+      "Esencia de Yu'lon",
+      "Essence de Yu’lon",
+      "Сущность Юй-лун",
+      "Essenz von Yu'lon",
+      "Essência de Yu'lon",
+      "Essenza di Yu'lon",
+      "위론의 정수",
+      "玉龍精華",
+      "玉珑之精"
+    ],
+    "Media": "monk_stance_wiseserpent.jpg"
+  },
+  {
+    "TagId": 1471,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Colorful Beach Chair",
+      "Silla de playa colorida",
+      "Cadeira de Praia Colorida",
+      "Colorful Beach Chair",
+      "Tumbona playera colorida",
+      "Chaise de plage colorée",
+      "Яркий пляжный шезлонг",
+      "Farbenfroher Strandstuhl",
+      "Cadeira de Praia Colorida",
+      "Sdraio Colorata",
+      "알록달록한 해변 의자",
+      "繽紛的海灘椅",
+      "五彩斑斓的海滩椅"
+    ],
+    "Media": "inv_fishingchair.jpg"
+  },
+  {
     "TagId": 1472,
     "TagType": 30,
     "Names": [
@@ -6508,5 +6634,68 @@
       "守护巨龙的腾龙旗帜"
     ],
     "Media": "inv_mdi_awc_bannerreward_icons_red.jpg"
+  },
+  {
+    "TagId": 1475,
+    "TagType": 30,
+    "Names": [
+      null,
+      "X-treme Water Blaster Display",
+      "Demostración de Cañón de agua eXtremo",
+      "Mostruário de Disparágua X-tremo",
+      "X-treme Water Blaster Display",
+      "Escaparate de pistolas de agua extremas",
+      "Affichage canon à eau extrême",
+      "Стойка с ИКС-ключительным брызгателем",
+      "X-trem-Wasserstrahleranzeige",
+      "Mostruário de Disparágua X-tremo",
+      "Schermo dell'Acquadator Extremo",
+      "초강력 물대포 전시대",
+      "超強勁水流衝擊器顯示幕",
+      "X极水波爆裂枪展示架"
+    ],
+    "Media": "inv_firearm_2h_waterblaster_c_01.jpg"
+  },
+  {
+    "TagId": 1476,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Cherry Blossom Trail",
+      "Rastro de flores de cerezo",
+      "Trilha de Flores de Cerejeira",
+      "Cherry Blossom Trail",
+      "Reguero de flores de cerezo",
+      "Traînée de fleurs de cerisier",
+      "След из лепестков вишни",
+      "Kirschblütenspur",
+      "Trilha de Flores de Cerejeira",
+      "Scia di Boccioli di Ciliegio",
+      "벚꽃 만개의 자취",
+      "櫻花之徑",
+      "樱花之路"
+    ],
+    "Media": "inv_misc_herb_talandrasrose.jpg"
+  },
+  {
+    "TagId": 1479,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Satchel of Stormborn Seeds",
+      "Cartera de semillas natormento",
+      "Algibeira de Sementes Nascidas da Tempestade",
+      "Satchel of Stormborn Seeds",
+      "Bolsa de semillas de la tormenta",
+      "Sacoche de graines issues des tempêtes",
+      "Мешочек с семенами бури",
+      "Säckchen mit sturmgeborenen Samenkörnern",
+      "Algibeira de Sementes Nascidas da Tempestade",
+      "Borsa di Semi Tempestosi",
+      "폭풍살이 씨앗 주머니",
+      "颶裔之種背袋",
+      "一袋雷裔之种"
+    ],
+    "Media": "inv_misc_bag_herbpouch.jpg"
   }
 ]

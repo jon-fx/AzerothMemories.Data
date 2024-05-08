@@ -1,5 +1,488 @@
 [
   {
+    "TagId": 218003,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Leap of Faith",
+      "Salto de fe",
+      "Salto da Fé",
+      "Leap of Faith",
+      "Salto de fe",
+      "Saut de foi",
+      "Духовное рвение",
+      "Glaubenssprung",
+      "Salto da Fé",
+      "Balzo della Fede",
+      "신의의 도약",
+      "虔信之躍",
+      "信仰飞跃"
+    ],
+    "Media": "priest_spell_leapoffaith_a.jpg"
+  },
+  {
+    "TagId": 218004,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vanish",
+      "Esfumarse",
+      "Sumir",
+      "Vanish",
+      "Esfumarse",
+      "Disparition",
+      "Исчезновение",
+      "Verschwinden",
+      "Sumir",
+      "Sparizione",
+      "소멸",
+      "消失",
+      "消失"
+    ],
+    "Media": "ability_vanish.jpg"
+  },
+  {
+    "TagId": 218005,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stampeding Roar",
+      "Rugido de estampida",
+      "Estouro da Manada",
+      "Stampeding Roar",
+      "Rugido de estampida",
+      "Ruée rugissante",
+      "Тревожный рев",
+      "Anstachelndes Gebrüll",
+      "Estouro da Manada",
+      "Ruggito Impetuoso",
+      "쇄도의 포효",
+      "奔竄咆哮",
+      "狂奔怒吼"
+    ],
+    "Media": "spell_druid_stamedingroar.jpg"
+  },
+  {
+    "TagId": 218007,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Battlestraps of the Horde",
+      "Correas de batalla Lanza Negra de la Horda",
+      "Correias de Batalha da Horda Lançanegra",
+      "Darkspear Battlestraps of the Horde",
+      "Arnés de batalla Lanza Negra de la Horda",
+      "Sangles de combat sombrelances de la Horde",
+      "Ордынские боевые ремни Черного Копья",
+      "Hordenkampfgurte der Dunkelspeere",
+      "Correias de Batalha da Horda Lançanegra",
+      "Nastri da Battaglia dei Lanciascura dell'Orda",
+      "호드의 검은창 전투끈",
+      "部落之暗矛戰鬥綁帶",
+      "部落暗矛战带"
+    ],
+    "Media": "inv_chest_armor_troll_d_01.jpg"
+  },
+  {
+    "TagId": 218009,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Tusked Barrier of the Horde",
+      "Barrera con colmillos Lanza Negra de la Horda",
+      "Barreira de Presas da Horda Lançanegra",
+      "Darkspear Tusked Barrier of the Horde",
+      "Barrera con colmillos Lanza Negra de la Horda",
+      "Barrière à défenses sombrelance de la Horde",
+      "Ордынский клыкастый барьер Черного Копья",
+      "Hauerbesetzte Hordenbarriere der Dunkelspeere",
+      "Barreira de Presas da Horda Lançanegra",
+      "Barriera Zannuta dei Lanciascura dell'Orda",
+      "호드의 검은창 엄니 방벽 방패",
+      "部落之暗矛獠牙屏障",
+      "部落暗矛獠牙屏障"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_cape.jpg"
+  },
+  {
+    "TagId": 218010,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Greaves of the Horde",
+      "Grebas Lanza Negra de la Horda",
+      "Grevas da Horda Lançanegra",
+      "Darkspear Greaves of the Horde",
+      "Grebas Lanza Negra de la Horda",
+      "Grèves sombrelances de la Horde",
+      "Ордынские наголенники Черного Копья",
+      "Hordenbeinschützer der Dunkelspeere",
+      "Grevas da Horda Lançanegra",
+      "Schinieri dei Lanciascura dell'Orda",
+      "호드의 검은창 경갑",
+      "部落之暗矛護脛",
+      "部落暗矛护胫"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_boot.jpg"
+  },
+  {
+    "TagId": 218011,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Grips of the Horde",
+      "Mandiletes Lanza Negra de la Horda",
+      "Guantes da Horda Lançanegra",
+      "Darkspear Grips of the Horde",
+      "Mandiletes Lanza Negra de la Horda",
+      "Poignes sombrelances de la Horde",
+      "Ордынские захваты Черного Копья",
+      "Hordenhandschutz der Dunkelspeere",
+      "Guantes da Horda Lançanegra",
+      "Paramani dei Lanciascura dell'Orda",
+      "호드의 검은창 손장갑",
+      "部落之暗矛纏手",
+      "部落暗矛之握"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_glove.jpg"
+  },
+  {
+    "TagId": 218012,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Rush'kah of the Horde",
+      "Rush'kah Lanza Negra de la Horda",
+      "Rush'kah da Horda Lançanegra",
+      "Darkspear Rush'kah of the Horde",
+      "Rush'kah Lanza Negra de la Horda",
+      "Rush’kah sombrelance de la Horde",
+      "Ордынская руш'ка Черного Копья",
+      "Hordenrush'kah der Dunkelspeere",
+      "Rush'kah da Horda Lançanegra",
+      "Rush'kah dei Lanciascura dell'Orda",
+      "호드의 검은창 러쉬카",
+      "部落之暗矛拉許卡",
+      "部落暗矛鲁希卡"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_helm.jpg"
+  },
+  {
+    "TagId": 218013,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear War-Skirt of the Horde",
+      "Falda de guerra Lanza Negra de la Horda",
+      "Saiote de Guerra da Horda Lançanegra",
+      "Darkspear War-Skirt of the Horde",
+      "Saya de guerra Lanza Negra-Saya de la Horda",
+      "Jupe de guerre sombrelance de la Horde",
+      "Ордынская боевая юбка Черного Копья",
+      "Hordenkriegsrock der Dunkelspeere",
+      "Saiote de Guerra da Horda Lançanegra",
+      "Gonna da Guerra dei Lanciascura dell'Orda",
+      "호드의 검은창 전쟁 치마",
+      "部落之暗矛戰裙",
+      "部落暗矛战裙"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_pant.jpg"
+  },
+  {
+    "TagId": 218014,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Shoulderguards of the Horde",
+      "Guardahombros Lanza Negra de la Horda",
+      "Guarda-ombros da Horda Lançanegra",
+      "Darkspear Shoulderguards of the Horde",
+      "Guardahombros Lanza Negra de la Horda",
+      "Garde-épaules sombrelances de la Horde",
+      "Ордынские наплечные щитки Черного Копья",
+      "Hordenschulterschützer der Dunkelspeere",
+      "Guarda-ombros da Horda Lançanegra",
+      "Spallacci Foderati dei Lanciascura dell'Orda",
+      "호드의 검은창 어깨보호대",
+      "部落之暗矛肩衛",
+      "部落暗矛护肩"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_shoulder.jpg"
+  },
+  {
+    "TagId": 218015,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Belt of the Horde",
+      "Cinturón Lanza Negra de la Horda",
+      "Cinto da Horda Lançanegra",
+      "Darkspear Belt of the Horde",
+      "Cinturón Lanza Negra de la Horda",
+      "Ceinture sombrelance de la Horde",
+      "Ордынский пояс Черного Копья",
+      "Hordengürtel der Dunkelspeere",
+      "Cinto da Horda Lançanegra",
+      "Cintura dei Lanciascura dell'Orda",
+      "호드의 검은창 허리띠",
+      "部落之暗矛腰帶",
+      "部落暗矛腰带"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_belt.jpg"
+  },
+  {
+    "TagId": 218016,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Bracers of the Horde",
+      "Brazales Lanza Negra de la Horda",
+      "Braçadeiras da Horda Lançanegra",
+      "Darkspear Bracers of the Horde",
+      "Brazales Lanza Negra de la Horda",
+      "Brassards sombrelances de la Horde",
+      "Ордынские наручи Черного Копья",
+      "Hordenarmschienen der Dunkelspeere",
+      "Braçadeiras da Horda Lançanegra",
+      "Bracciali dei Lanciascura dell'Orda",
+      "호드의 검은창 팔보호구",
+      "部落之暗矛護腕",
+      "部落暗矛护腕"
+    ],
+    "Media": "inv_armor_troll_d_01_horde_bracer.jpg"
+  },
+  {
+    "TagId": 218043,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wild Charge",
+      "Carga salvaje",
+      "Investida Selvagem",
+      "Wild Charge",
+      "Carga salvaje",
+      "Charge sauvage",
+      "Стремительный рывок",
+      "Wilde Attacke",
+      "Investida Selvagem",
+      "Carica Selvaggia",
+      "야생의 돌진",
+      "狂野衝鋒",
+      "野性冲锋"
+    ],
+    "Media": "spell_druid_wildcharge.jpg"
+  },
+  {
+    "TagId": 218044,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pursuit of Justice",
+      "Búsqueda de justicia",
+      "Busca de Justiça",
+      "Pursuit of Justice",
+      "Búsqueda de justicia",
+      "Poursuite de la justice",
+      "Погоня за справедливостью",
+      "Streben nach Gerechtigkeit",
+      "Busca de Justiça",
+      "In Cerca di Giustizia",
+      "심판의 추격",
+      "正義追擊",
+      "正义追击"
+    ],
+    "Media": "ability_paladin_veneration.jpg"
+  },
+  {
+    "TagId": 218045,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Door of Shadows",
+      "Puerta de sombras",
+      "Porta das Sombras",
+      "Door of Shadows",
+      "Puerta de las Sombras",
+      "Porte des ombres",
+      "Врата теней",
+      "Schattentor",
+      "Porta das Sombras",
+      "Porta delle Ombre",
+      "어둠의 문",
+      "暗影之門",
+      "暗影之门"
+    ],
+    "Media": "ability_venthyr_doorofshadows.jpg"
+  },
+  {
+    "TagId": 218046,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spirit Walk",
+      "Caminata espiritual",
+      "Andar Espiritual",
+      "Spirit Walk",
+      "Camino de espíritu",
+      "Marche de l’esprit",
+      "Поступь духа",
+      "Geisterpfoten",
+      "Andar Espiritual",
+      "Movimento Spirituale",
+      "정령의 걸음",
+      "幽魂步伐",
+      "灵魂行走"
+    ],
+    "Media": "ability_tracking.jpg"
+  },
+  {
+    "TagId": 218082,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spiritwalker's Grace",
+      "Gracia del caminaespíritus",
+      "Graça do Andarilho Espiritual",
+      "Spiritwalker's Grace",
+      "Gracia del caminaespíritus",
+      "Grâce du marcheur des esprits",
+      "Благосклонность духостранника",
+      "Gunst des Geistwandlers",
+      "Graça do Andarilho Espiritual",
+      "Grazia dello Spiritista",
+      "영혼나그네의 은총",
+      "靈行者之賜",
+      "灵魂行者的恩赐"
+    ],
+    "Media": "spell_shaman_spiritwalkersgrace.jpg"
+  },
+  {
+    "TagId": 218105,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Loa's Blade-Blessing",
+      "Hoja bendita de loa",
+      "Bênção de Lâmina dos Loas",
+      "Loa's Blade-Blessing",
+      "Hoja-bendición de los loa",
+      "Bénédiction de lame de loa",
+      "Клинок-благословение лоа",
+      "Klingensegen der Loa",
+      "Bênção de Lâmina dos Loas",
+      "Benedizione della Lama del Loa",
+      "로아의 칼날 축복",
+      "羅亞的祝福之刃",
+      "洛阿神灵的利刃赐福"
+    ],
+    "Media": "inv_sword_2h_troll_c_01.jpg"
+  },
+  {
+    "TagId": 218108,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dark Pact",
+      "Pacto oscuro",
+      "Pacto Sombrio",
+      "Dark Pact",
+      "Pacto oscuro",
+      "Sombre pacte",
+      "Темный пакт",
+      "Dunkler Pakt",
+      "Pacto Sombrio",
+      "Patto Oscuro",
+      "암흑 서약",
+      "黑暗契約",
+      "黑暗契约"
+    ],
+    "Media": "spell_shadow_deathpact.jpg"
+  },
+  {
+    "TagId": 218109,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Death's Advance",
+      "Avance de la muerte",
+      "Avanço da Morte",
+      "Death's Advance",
+      "Avance de la Muerte",
+      "Avancée de la mort",
+      "Поступь смерти",
+      "Unaufhaltsamer Tod",
+      "Avanço da Morte",
+      "Ineluttabilità della Morte",
+      "죽음의 진군",
+      "死神逼近",
+      "死亡脚步"
+    ],
+    "Media": "spell_shadow_demonicempathy.jpg"
+  },
+  {
+    "TagId": 218110,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soulshape",
+      "Forma de alma",
+      "Forma da Alma",
+      "Soulshape",
+      "Forma de alma",
+      "Forme d’âme",
+      "Облик души",
+      "Seelengestalt",
+      "Forma da Alma",
+      "Animorfosi",
+      "영혼형상",
+      "靈魂幻體",
+      "灵魂变形"
+    ],
+    "Media": "ability_nightfae_flicker.jpg"
+  },
+  {
+    "TagId": 218111,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reins of the Amber Pterrordax",
+      "Riendas del pterrordáctilo ámbar",
+      "Rédeas do Pterrordax Âmbar",
+      "Reins of the Amber Pterrordax",
+      "Riendas del pterrordáctilo ámbar",
+      "Rênes de pterreurdactyle d’ambre",
+      "Поводья янтарного терродактиля",
+      "Zügel des Bernpterrordax",
+      "Rédeas do Pterrordax Âmbar",
+      "Redini dello Pterrordattilo d'Ambra",
+      "호박석 테러닥스 고삐",
+      "琥珀翼手龍韁繩",
+      "琥珀翼手龙的缰绳"
+    ],
+    "Media": "ability_mount_pterodactylmount.jpg"
+  },
+  {
+    "TagId": 218112,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Colorful Beach Chair",
+      "Silla de playa colorida",
+      "Cadeira de Praia Colorida",
+      "Colorful Beach Chair",
+      "Tumbona playera colorida",
+      "Chaise de plage colorée",
+      "Яркий пляжный шезлонг",
+      "Farbenfroher Strandstuhl",
+      "Cadeira de Praia Colorida",
+      "Sdraio Colorata",
+      "알록달록한 해변 의자",
+      "繽紛的海灘椅",
+      "五彩斑斓的海滩椅"
+    ],
+    "Media": "inv_fishingchair.jpg"
+  },
+  {
     "TagId": 218114,
     "TagType": 21,
     "Names": [
@@ -21,6 +504,69 @@
     "Media": "inv_jewelcrafting_dragonseye02.jpg"
   },
   {
+    "TagId": 218118,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lukou's Mask of Regeneration",
+      "Máscara de regeneración de Lukou",
+      "Máscara da Regeneração de Lukou",
+      "Lukou's Mask of Regeneration",
+      "Máscara de regeneración de Lukou",
+      "Masque de régénération de Lukou",
+      "Маска регенерации Луку",
+      "Lukous Maske der Regeneration",
+      "Máscara da Regeneração de Lukou",
+      "Maschera della Rigenerazione di Lukou",
+      "루코우의 재생의 가면",
+      "盧考的重生面具",
+      "露可的再生面具"
+    ],
+    "Media": "inv_helm_armor_loamask_b_01.jpg"
+  },
+  {
+    "TagId": 218119,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kevo ya Siti's Mask of Cunning",
+      "Máscara de astucia de Kevo ya Siti",
+      "Máscara da Astúcia de Kevo ya Siti",
+      "Kevo ya Siti's Mask of Cunning",
+      "Máscara de astucia de Kevo ya Siti",
+      "Masque de ruse de Kevo ya Siti",
+      "Маска хитрости Кево йа Сити",
+      "Kevo ya Sitis Maske der Gerissenheit",
+      "Máscara da Astúcia de Kevo ya Siti",
+      "Maschera della Scaltrezza di Kevo ya Siti",
+      "케보 야 시티의 계략의 가면",
+      "凱弗亞西帝的狡詐面具",
+      "希蒂-柯沃的狡诈面具"
+    ],
+    "Media": "inv_helm_armor_loamask_b_02.jpg"
+  },
+  {
+    "TagId": 218120,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Exodar Peacekeeper's Armaments",
+      "Arsenal: Armamentos del pacificador del Exodar",
+      "Arsenal: Armamentos do Pacificador da Exodar",
+      "Arsenal: Exodar Peacekeeper's Armaments",
+      "Arsenal: armamentos de pacificador del Exodar",
+      "Arsenal\u00A0: armements de garde-paix de l’Exodar",
+      "Арсенал: оружие экзодарского миротворца",
+      "Arsenal: Waffen des Friedensbewahrers der Exodar",
+      "Arsenal: Armamentos do Pacificador da Exodar",
+      "Arsenale: Armamenti del Pacificatore di Exodar",
+      "병기: 엑소다르 평화감시단의 무장",
+      "武器庫：艾克索達保安官的武裝",
+      "军械：埃索达护卫的武装"
+    ],
+    "Media": "inv_sword_draenei_04.jpg"
+  },
+  {
     "TagId": 218128,
     "TagType": 21,
     "Names": [
@@ -40,6 +586,69 @@
       "守护巨龙的腾龙旗帜"
     ],
     "Media": "inv_mdi_awc_bannerreward_icons_red.jpg"
+  },
+  {
+    "TagId": 218130,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Footlocker",
+      "Baúl del aventurero",
+      "Maleta do Aventureiro",
+      "Adventurer's Footlocker",
+      "Baúl del aventurero",
+      "Cantine d’aventurier",
+      "Ларь искателя приключений",
+      "Schließkiste des Abenteurers",
+      "Maleta do Aventureiro",
+      "Scrigno dell'Avventuriero",
+      "모험가의 사물함",
+      "冒險者的置物箱",
+      "冒险者的床头柜"
+    ],
+    "Media": "inv_box_03.jpg"
+  },
+  {
+    "TagId": 218247,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chen Stormstout's Bamboo Hat",
+      "Sombrero de bambú de Chen Cerveza de Trueno",
+      "Chapéu de Bambu de Chen Malte do Trovão",
+      "Chen Stormstout's Bamboo Hat",
+      "Sombrero de bambú de Chen Cerveza de Trueno",
+      "Chapeau en bambou de Chen Brune d’Orage",
+      "Бамбуковая шляпа Чэня Буйного Портера",
+      "Chen Sturmbräus Bambushut",
+      "Chapéu de Bambu de Chen Malte do Trovão",
+      "Cappello di Bambù di Chen Triplo Malto",
+      "첸 스톰스타우트의 대나무 모자",
+      "老陳‧風暴烈酒的斗笠",
+      "陈·风暴烈酒的竹帽"
+    ],
+    "Media": "inv_helm_armor_bamboohat_c_01.jpg"
+  },
+  {
+    "TagId": 218248,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chen Stormstout's Bamboo Hat",
+      "Sombrero de bambú de Chen Cerveza de Trueno",
+      "Chapéu de Bambu de Chen Malte do Trovão",
+      "Chen Stormstout's Bamboo Hat",
+      "Sombrero de bambú de Chen Cerveza de Trueno",
+      "Chapeau en bambou de Chen Brune d’Orage",
+      "Бамбуковая шляпа Чэня Буйного Портера",
+      "Chen Sturmbräus Bambushut",
+      "Chapéu de Bambu de Chen Malte do Trovão",
+      "Cappello di Bambù di Chen Triplo Malto",
+      "첸 스톰스타우트의 대나무 모자",
+      "老陳‧風暴烈酒的斗笠",
+      "陈·风暴烈酒的竹帽"
+    ],
+    "Media": "inv_helm_armor_bamboohat_c_01.jpg"
   },
   {
     "TagId": 218269,

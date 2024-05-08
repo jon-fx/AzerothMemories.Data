@@ -7543,19 +7543,19 @@
     "TagType": 22,
     "Names": [
       null,
-      "White Riding Yak",
-      "Yak de montar blanco",
-      "Iaque de Montaria Branco",
-      "White Riding Yak",
-      "Yak de montar blanco",
-      "Yack de monte blanc",
-      "Белый ездовой як",
-      "Weißes Reityak",
-      "Iaque de Montaria Branco",
-      "Yak Cavalcabile Bianco",
-      "길들인 흰색 야크",
-      "白色騎乘犛牛",
-      "白色骑乘牦牛"
+      "Kafa Yak",
+      "Yak de kafa",
+      "Iaque de Kafa",
+      "Kafa Yak",
+      "Yak de kafa",
+      "Yack de Kafa",
+      "Кафовый як",
+      "Kafayak",
+      "Iaque de Kafa",
+      "Yak di Kafa",
+      "카파 야크",
+      "卡法氂牛",
+      "咔啡牦牛"
     ],
     "Media": "ability_mount_yakmount.jpg"
   },
@@ -7959,6 +7959,27 @@
     "Media": "ability_mount_cranemountpurple.jpg"
   },
   {
+    "TagId": 482,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Jungle Riding Crane",
+      "Grulla de montar de la selva",
+      "Garça Selvagem de Montaria",
+      "Jungle Riding Crane",
+      "Grulla de montar de la selva",
+      "Grue de monte de la jungle",
+      "Тропический ездовой журавль",
+      "Dschungelreitkranich",
+      "Garça Selvagem de Montaria",
+      "Gru Cavalcabile della Giungla",
+      "길들인 밀림 학",
+      "密林騎乘鶴",
+      "丛林骑乘仙鹤"
+    ],
+    "Media": "ability_mount_cranemount.jpg"
+  },
+  {
     "TagId": 484,
     "TagType": 22,
     "Names": [
@@ -7984,19 +8005,19 @@
     "TagType": 22,
     "Names": [
       null,
-      "Brown Riding Yak",
-      "Yak de montar marrón",
-      "Iaque de Montaria Castanho",
-      "Brown Riding Yak",
-      "Yak de montar marrón",
-      "Yack de monte brun",
-      "Бурый ездовой як",
-      "Braunes Reityak",
-      "Iaque de Montaria Castanho",
-      "Yak Cavalcabile Bruno",
-      "길들인 갈색 야크",
-      "棕色騎乘犛牛",
-      "棕色骑乘牦牛"
+      "Modest Expedition Yak",
+      "Yak de expedición modesta",
+      "Modesto Iaque da Expedição",
+      "Modest Expedition Yak",
+      "Yak de expedición modesto",
+      "Yack de l’expédition intermédiaire",
+      "Небольшой экспедиционный як",
+      "Bescheidenes Expeditionsyak",
+      "Modesto Iaque da Expedição",
+      "Yak della Modesta Spedizione",
+      "수수한 원정용 야크",
+      "中型遠征犛牛",
+      "谦逊远足牦牛"
     ],
     "Media": "ability_mount_yakmountwhite.jpg"
   },
@@ -12615,7 +12636,7 @@
       "Destriero dell'Ira Caotico del Signore del Fatuo",
       "황천군주의 혼돈에 찬 분노마",
       "虛空領主混沌憤怒戰馬",
-      "虚空领主的混沌愤怒战马"
+      "虚空之王的混沌愤怒战马"
     ],
     "Media": "inv_warlockmount.jpg"
   },
@@ -12783,7 +12804,7 @@
       "Destriero dell'Ira Sulfureo del Signore del Fatuo",
       "황천군주의 유황 분노마",
       "虛空領主硫磺憤怒戰馬",
-      "虚空领主的硫磺愤怒战马"
+      "虚空之王的硫磺愤怒战马"
     ],
     "Media": "inv_warlockmountfire.jpg"
   },
@@ -12804,7 +12825,7 @@
       "Destriero dell'Ira Maledetto del Signore del Fatuo",
       "황천군주의 저주받은 분노마",
       "虛空領主厄運憤怒戰馬",
-      "虚空领主的诅咒愤怒战马"
+      "虚空之王的诅咒愤怒战马"
     ],
     "Media": "inv_warlockmountshadow.jpg"
   },
@@ -13203,7 +13224,7 @@
       "Cercavene Guizzante",
       "정맥수색 펄떡이",
       "跳躍嗜血蛛",
-      "跃泽吮血蛛"
+      "跃泽巨蛛"
     ],
     "Media": "ability_mount_bloodtick_red.jpg"
   },

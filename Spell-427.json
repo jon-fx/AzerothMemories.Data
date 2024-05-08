@@ -309,7 +309,7 @@
       "Rolamento",
       "Capriola",
       "구르기",
-      "翻滾",
+      "迅空翻",
       "滚地翻"
     ],
     "Media": "ability_monk_roll.jpg"
@@ -792,7 +792,7 @@
       "Oportunista",
       "Opportunista",
       "기회주의자",
-      "投機主義者",
+      "伺機而動",
       "趁虚而入"
     ],
     "Media": "spell_druid_savagery.jpg"
@@ -813,7 +813,7 @@
       "Oportunista",
       "Opportunista",
       "기회주의자",
-      "投機主義者",
+      "伺機而動",
       "趁虚而入"
     ],
     "Media": "spell_druid_savagery.jpg"
@@ -1406,6 +1406,69 @@
     "Media": "inv_misc_fish_72.jpg"
   },
   {
+    "TagId": 427131,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]",
+      "Kill Credit [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Connecting",
+      "Conectando",
+      "Conexão",
+      "Connecting",
+      "Conectando",
+      "Connexion",
+      "Подключение",
+      "Verbindung wird hergestellt...",
+      "Conexão",
+      "Connessione",
+      "연결 중",
+      "連接中",
+      "连接"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427133,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Connecting",
+      "Conectando",
+      "Conexão",
+      "Connecting",
+      "Conectando",
+      "Connexion",
+      "Подключение",
+      "Verbindung wird hergestellt...",
+      "Conexão",
+      "Connessione",
+      "연결 중",
+      "連接中",
+      "连接"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427134,
     "TagType": 26,
     "Names": [
@@ -1784,6 +1847,27 @@
     "Media": "inv_turtlemount2_01.jpg"
   },
   {
+    "TagId": 427171,
+    "TagType": 26,
+    "Names": [
+      null,
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]",
+      "L1 Credit [DNT]"
+    ],
+    "Media": "spell_arcane_arcane03.jpg"
+  },
+  {
     "TagId": 427173,
     "TagType": 26,
     "Names": [
@@ -1845,6 +1929,69 @@
       "焖燃树人幼苗"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427178,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]",
+      "Crystal Beams [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427179,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mixing",
+      "Mezclando",
+      "Mistura",
+      "Mixing",
+      "Mezclando",
+      "Mélange",
+      "Смешивание",
+      "Zusammenmischen",
+      "Mistura",
+      "Mescolatura",
+      "혼합 중",
+      "混合中",
+      "混合"
+    ],
+    "Media": "inv_gauntlets_16.jpg"
+  },
+  {
+    "TagId": 427181,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Infusing Mojo into Rush'kah",
+      "Infunde mojo en la rush'kah",
+      "Imbuir Mojo na Rush'kah",
+      "Infusing Mojo into Rush'kah",
+      "Imbuyendo el rush'kah de mojo",
+      "Imprégnation de mojo dans le rush’kah",
+      "Насыщение руш'ки моджо",
+      "Rush'kah mit Mojo anreichern",
+      "Imbuir Mojo na Rush'kah",
+      "Infusione di Mojo sulla Rush'kah",
+      "러쉬카에 모조 주입 중",
+      "將魔精灌注至拉許卡",
+      "向鲁希卡注入魔精"
+    ],
+    "Media": "inv_gauntlets_16.jpg"
   },
   {
     "TagId": 427182,
@@ -2708,6 +2855,27 @@
     "Media": "inv_checkered_flag.jpg"
   },
   {
+    "TagId": 427232,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427233,
     "TagType": 26,
     "Names": [
@@ -2997,6 +3165,27 @@
       "음식 수레 내용물",
       "餐車內容物",
       "餐车货物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427249,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]",
+      "Commune Visual [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4513,6 +4702,27 @@
     "Media": "spell_burningsoul.jpg"
   },
   {
+    "TagId": 427340,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]",
+      "Spirit Return [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427341,
     "TagType": 26,
     "Names": [
@@ -5164,6 +5374,27 @@
     "Media": "spell_misc_emotionangry.jpg"
   },
   {
+    "TagId": 427386,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Commune",
+      "Comulgar",
+      "Comungar",
+      "Commune",
+      "Comunión",
+      "Communier",
+      "Общение",
+      "Zwiesprache halten",
+      "Comungar",
+      "Comunione",
+      "교감",
+      "溝通",
+      "通灵"
+    ],
+    "Media": "spell_misc_zandalari_council_soulswap.jpg"
+  },
+  {
     "TagId": 427387,
     "TagType": 26,
     "Names": [
@@ -5351,6 +5582,27 @@
       "Spawn Spell - Repeatable - Artifact Bunny 2 [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Commune",
+      "Comulgar",
+      "Comungar",
+      "Commune",
+      "Comunión",
+      "Communier",
+      "Общение",
+      "Zwiesprache halten",
+      "Comungar",
+      "Comunione",
+      "교감",
+      "溝通",
+      "通灵"
+    ],
+    "Media": "spell_misc_zandalari_council_soulswap.jpg"
   },
   {
     "TagId": 427397,
@@ -6002,6 +6254,27 @@
       "猩红烁裘狐"
     ],
     "Media": "inv_fox2_darkred.jpg"
+  },
+  {
+    "TagId": 427436,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]",
+      "Memory Credit [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 427437,
@@ -7873,6 +8146,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 427548,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Loa Shadow",
+      "Sombra loa",
+      "Sombra dos Loas",
+      "Loa Shadow",
+      "Sombra de loa",
+      "Ombre des Loas",
+      "Тень лоа",
+      "Loaschatten",
+      "Sombra dos Loas",
+      "Loa d'Ombra",
+      "로아의 어둠",
+      "羅亞幻影",
+      "神灵之影"
+    ],
+    "Media": "spell_holy_prayerofshadowprotection.jpg"
+  },
+  {
     "TagId": 427549,
     "TagType": 26,
     "Names": [
@@ -8289,6 +8583,90 @@
       "[DNT] Conversation Ping",
       "[DNT] Conversation Ping",
       "[DNT] Conversation Ping"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427572,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Begin Ritual",
+      "Comenzar ritual",
+      "Iniciar Ritual",
+      "Begin Ritual",
+      "Comenzar el ritual",
+      "Commencer le rituel",
+      "Начало ритуала",
+      "Ritual starten",
+      "Iniciar Ritual",
+      "Inizio Rituale",
+      "의식 시작",
+      "開始進行儀式",
+      "开始仪式"
+    ],
+    "Media": "spell_shadow_shadesofdarkness.jpg"
+  },
+  {
+    "TagId": 427573,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Loa Trial Ritual",
+      "Ritual de prueba loa",
+      "Ritual de Prova dos Loas",
+      "Loa Trial Ritual",
+      "Ritual de la prueba de los loa",
+      "Épreuve rituelle des Loas",
+      "Ритуал испытания лоа",
+      "Prüfungsritual der Loa",
+      "Ritual de Prova dos Loas",
+      "Rituale della Prova dei Loa",
+      "로아의 시련 의식",
+      "羅亞試煉儀式",
+      "神灵试炼仪式"
+    ],
+    "Media": "spell_shadow_shadesofdarkness.jpg"
+  },
+  {
+    "TagId": 427574,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]",
+      "Kill Credit Timer [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427575,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]",
+      "Ritual Done [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -8797,6 +9175,27 @@
     "Media": "ability_heroicleap.jpg"
   },
   {
+    "TagId": 427608,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]",
+      "Faction Override [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427610,
     "TagType": 26,
     "Names": [
@@ -8858,6 +9257,27 @@
       "洛斯卡的火焰图腾"
     ],
     "Media": "spell_fire_totemofwrath.jpg"
+  },
+  {
+    "TagId": 427614,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn",
+      "[DNT] Clone Despawn"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 427615,
@@ -9131,6 +9551,27 @@
       "装满瓶子"
     ],
     "Media": "ability_shawaterelemental_reform.jpg"
+  },
+  {
+    "TagId": 427636,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]",
+      "Taxi Follower [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 427637,
@@ -10624,6 +11065,48 @@
     "Media": "spell_shaman_lavaburst.jpg"
   },
   {
+    "TagId": 427730,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]",
+      "Start Convo [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427734,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]",
+      "Fel Visual [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427741,
     "TagType": 26,
     "Names": [
@@ -10664,6 +11147,27 @@
       "邪能冲撞"
     ],
     "Media": "ability_felarakkoa_focusedblast.jpg"
+  },
+  {
+    "TagId": 427749,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]",
+      "Distance Tracker [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 427756,
@@ -11695,6 +12199,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 427824,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sargerite Shard",
+      "Fragmento de sargerita",
+      "Estilhaço de Sarguerita",
+      "Sargerite Shard",
+      "Fragmento de sargerita",
+      "Éclat de sargerite",
+      "Осколок саргерита",
+      "Sargeritsplitter",
+      "Estilhaço de Sarguerita",
+      "Scheggia di Sargerite",
+      "살게라이트 조각",
+      "薩格萊特裂片",
+      "萨格里特碎片"
+    ],
+    "Media": "inv_rod_enchantedfelsteel.jpg"
+  },
+  {
+    "TagId": 427826,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sentry Poker",
+      "Vara del centinela",
+      "Cutucador Sentinela",
+      "Sentry Poker",
+      "Señalador de centinela",
+      "Vérification de factionnaire",
+      "Проверка часового",
+      "Wächterstecher",
+      "Cutucador Sentinela",
+      "Spuntone della Sentinella",
+      "파수기 찌르기",
+      "哨衛戳刺者",
+      "哨岗标记"
+    ],
+    "Media": "inv_rod_enchantedfelsteel.jpg"
+  },
+  {
     "TagId": 427827,
     "TagType": 26,
     "Names": [
@@ -11756,6 +12302,132 @@
       "[DNT] Send O.D.I.E."
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427831,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427832,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427833,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427834,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427835,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]",
+      "Crystal Ping [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427836,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Immunity Empowerment",
+      "Poderío de inmunidad",
+      "Potencializar Imunidade",
+      "Immunity Empowerment",
+      "Potenciación de inmunidad",
+      "Renforcement de l’immunité",
+      "Усиление невосприимчивости",
+      "Immunitätsermächtigung",
+      "Potencializar Imunidade",
+      "Potenziamento Immunità",
+      "면역 강화",
+      "免疫強化",
+      "免疫强化"
+    ],
+    "Media": "inv_misc_volatilewater.jpg"
   },
   {
     "TagId": 427839,
@@ -11863,6 +12535,27 @@
     "Media": "inv_misc_enggizmos_03.jpg"
   },
   {
+    "TagId": 427848,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cleansing",
+      "Purificando",
+      "Purificando",
+      "Cleansing",
+      "Purificando",
+      "Purification",
+      "Очищение",
+      "Läutern",
+      "Purificando",
+      "Purificazione",
+      "정화 중",
+      "淨化",
+      "净化"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427850,
     "TagType": 26,
     "Names": [
@@ -11903,6 +12596,27 @@
       "进食"
     ],
     "Media": "inv_holiday_thanksgiving_cornucopia.jpg"
+  },
+  {
+    "TagId": 427855,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]",
+      "Crystal Visible [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 427856,
@@ -12052,6 +12766,27 @@
     "Media": "ability_felarakkoa_focusedblast.jpg"
   },
   {
+    "TagId": 427881,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]",
+      "Crystal Credit [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427884,
     "TagType": 26,
     "Names": [
@@ -12157,6 +12892,27 @@
     "Media": "spell_shaman_tidalwaves.jpg"
   },
   {
+    "TagId": 427896,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stealth",
+      "Sigilo",
+      "Furtividade",
+      "Stealth",
+      "Sigilo",
+      "Camouflage",
+      "Незаметность",
+      "Verstohlenheit",
+      "Furtividade",
+      "Furtività",
+      "은신",
+      "潛行",
+      "潜行"
+    ],
+    "Media": "ability_stealth.jpg"
+  },
+  {
     "TagId": 427899,
     "TagType": 26,
     "Names": [
@@ -12216,6 +12972,27 @@
       "[DNT] Ping Birds G01",
       "[DNT] Ping Birds G01",
       "[DNT] Ping Birds G01"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427903,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -12766,6 +13543,27 @@
     "Media": "ability_heroicleap.jpg"
   },
   {
+    "TagId": 427935,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]",
+      "Crystal Location [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427936,
     "TagType": 26,
     "Names": [
@@ -13186,6 +13984,27 @@
     "Media": "ability_mage_moltenarmor.jpg"
   },
   {
+    "TagId": 427965,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]",
+      "Reveal Felspreaders [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 427966,
     "TagType": 26,
     "Names": [
@@ -13226,6 +14045,27 @@
       "滑栓查案中"
     ],
     "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
+    "TagId": 427968,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Charm of Kevo ya Siti",
+      "Talismán de Kevo ya Siti",
+      "Patuá de Kevo ya Siti",
+      "Charm of Kevo ya Siti",
+      "Talismán de Kevo ya Siti",
+      "Charme de Kevo ya Siti",
+      "Оберег Кево йа Сити",
+      "Amulett von Kevo ya Siti",
+      "Patuá de Kevo ya Siti",
+      "Talismano di Kevo ya Siti",
+      "케보 야 시티의 부적",
+      "凱弗亞西帝的符咒",
+      "希蒂-柯沃的护符"
+    ],
+    "Media": "ability_rogue_rollthebones.jpg"
   },
   {
     "TagId": 427969,

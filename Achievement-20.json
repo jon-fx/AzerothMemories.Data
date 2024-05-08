@@ -1,5 +1,635 @@
 [
   {
+    "TagId": 20000,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Elusive Foes: Isle of Thunder",
+      "Enemigos esquivos: Isla del Trueno",
+      "Inimigos esquivos: Ilha do Trovão",
+      "Elusive Foes: Isle of Thunder",
+      "Enemigos esquivos: Isla del Trueno",
+      "Adversaires insaisissables\u00A0: île du Tonnerre",
+      "Неуловимые враги: остров Грома",
+      "Flüchtige Feinde: Insel des Donners",
+      "Inimigos esquivos: Ilha do Trovão",
+      "Nemici elusivi: Isola del Tuono",
+      "신출귀몰한 적: 천둥의 섬",
+      "難以捉摸的敵人：雷王島",
+      "匿踪之敌：雷神岛"
+    ],
+    "Media": "inv_pandarenserpentmount_blue.jpg"
+  },
+  {
+    "TagId": 20001,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Elusive Foes: Timeless Isle",
+      "Enemigos esquivos: Isla Intemporal",
+      "Inimigos esquivos: Ilha Perene",
+      "Elusive Foes: Timeless Isle",
+      "Enemigos esquivos: Isla Intemporal",
+      "Adversaires insaisissables\u00A0: île du Temps figé",
+      "Неуловимые враги: Вневременный остров",
+      "Flüchtige Feinde: Zeitlose Insel",
+      "Inimigos esquivos: Ilha Perene",
+      "Nemici elusivi: Isola Senza Tempo",
+      "신출귀몰한 적: 영원의 섬",
+      "難以捉摸的敵人：永恆之島",
+      "匿踪之敌：永恒岛"
+    ],
+    "Media": "inv_crab2pirate.jpg"
+  },
+  {
+    "TagId": 20002,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Powerful Enemies: Timeless Isle",
+      "Enemigos poderosos: Isla Intemporal",
+      "Inimigos poderosos: Ilha Perene",
+      "Powerful Enemies: Timeless Isle",
+      "Enemigos poderosos: Isla Intemporal",
+      "Adversaires puissants\u00A0: île du Temps figé",
+      "Сильные противники: Вневременный остров",
+      "Mächtige Gegner: Zeitlose Insel",
+      "Inimigos poderosos: Ilha Perene",
+      "Nemici potenti: Isola Senza Tempo",
+      "강력한 적: 영원의 섬",
+      "強大的敵人：永恆之島",
+      "绝世强敌：永恒岛"
+    ],
+    "Media": "inv_giantsnake_orange.jpg"
+  },
+  {
+    "TagId": 20003,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Timeless Isle",
+      "Isla Intemporal",
+      "Ilha Perene",
+      "Timeless Isle",
+      "Isla Intemporal",
+      "Île du Temps figé",
+      "Вневременный остров",
+      "Zeitlose Insel",
+      "Ilha Perene",
+      "Isola Senza Tempo",
+      "영원의 섬",
+      "永恆之島",
+      "永恒岛"
+    ],
+    "Media": "inv_staff_2h_pandarenmonk_c_01.jpg"
+  },
+  {
+    "TagId": 20004,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic: Pandaria Scenarios",
+      "Heroico: Gestas de Pandaria",
+      "Heroico: Cenários de Pandária",
+      "Heroic: Pandaria Scenarios",
+      "Heroica: gestas de Pandaria",
+      "Héroïque\u00A0: scénarios de Pandarie",
+      "Героический режим: сценарии Пандарии",
+      "Heroisch: Szenarien von Pandaria",
+      "Heroico: Cenários de Pandária",
+      "Eroica: Scenari di Pandaria",
+      "영웅: 판다리아 시나리오",
+      "英雄難度：潘達利亞事件",
+      "潘达利亚场景战役（英雄难度）"
+    ],
+    "Media": "achievement_scenario_greenstone.jpg"
+  },
+  {
+    "TagId": 20005,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic: Pandaria Dungeons",
+      "Heroico: Calabozos de Pandaria",
+      "Heroico: Masmorras de Pandária",
+      "Heroic: Pandaria Dungeons",
+      "Heroica: mazmorras de Pandaria",
+      "Héroïque\u00A0: donjons de Pandarie",
+      "Героический режим: подземелья Пандарии",
+      "Heroisch: Dungeons von Pandaria",
+      "Heroico: Masmorras de Pandária",
+      "Eroica: Spedizioni di Pandaria",
+      "영웅: 판다리아 던전",
+      "英雄難度：潘達利亞地城",
+      "潘达利亚地下城（英雄难度）"
+    ],
+    "Media": "achievement_jadeserpent.jpg"
+  },
+  {
+    "TagId": 20006,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Pandaria Raids",
+      "Bandas de Pandaria",
+      "Raides de Pandária",
+      "Pandaria Raids",
+      "Bandas de Pandaria",
+      "Raids de Pandarie",
+      "Рейды Пандарии",
+      "Schlachtzüge von Pandaria",
+      "Raides de Pandária",
+      "Incursioni di Pandaria",
+      "판다리아 공격대",
+      "潘達利亞團隊副本",
+      "潘达利亚团队副本"
+    ],
+    "Media": "achievement_raid_mantidraid01.jpg"
+  },
+  {
+    "TagId": 20007,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic: Pandaria Raids",
+      "Heroico: Bandas de Pandaria",
+      "Heroico: Raides de Pandária",
+      "Heroic: Pandaria Raids",
+      "Heroica: bandas de Pandaria",
+      "Héroïque\u00A0: raids de Pandarie",
+      "Героический режим: рейды Пандарии",
+      "Heroisch: Schlachtzüge von Pandaria",
+      "Heroico: Raides de Pandária",
+      "Eroica: Incursioni di Pandaria",
+      "영웅: 판다리아 공격대",
+      "英雄難度：潘達利亞團隊副本",
+      "潘达利亚团队副本（英雄难度）"
+    ],
+    "Media": "achievement_raid_terraceofendlessspring04.jpg"
+  },
+  {
+    "TagId": 20008,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Looking For Group: The Jade Forest",
+      "Buscador de grupo: El Bosque de Jade",
+      "Procurando grupo: Floresta de Jade",
+      "Looking For Group: The Jade Forest",
+      "Buscar grupo: Bosque de Jade",
+      "Recherche de groupe\u00A0: forêt de Jade",
+      "Поиск группы: Нефритовый лес",
+      "Suche nach Gruppe: Jadewald",
+      "Procurando grupo: Floresta de Jade",
+      "Ricerca gruppi: Foresta di Giada",
+      "파티 찾기: 비취 숲",
+      "搜尋團體：翠玉林",
+      "寻求组队：翡翠林"
+    ],
+    "Media": "achievement_scenario_brewingstorm.jpg"
+  },
+  {
+    "TagId": 20009,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Looking For Group: Valley of the Four Winds",
+      "Buscador de grupo: Valle de los Cuatro Vientos",
+      "Procurando grupo: Vale dos Quatro Ventos",
+      "Looking For Group: Valley of the Four Winds",
+      "Buscar grupo: Valle de los Cuatro Vientos",
+      "Recherche de groupe\u00A0: vallée des Quatre vents",
+      "Поиск группы: долина Четырех Ветров",
+      "Suche nach Gruppe: Tal der Vier Winde",
+      "Procurando grupo: Vale dos Quatro Ventos",
+      "Ricerca gruppi: Valle dei Quattro Venti",
+      "파티 찾기: 네 바람의 계곡",
+      "搜尋團隊：四風峽",
+      "寻求组队：四风谷"
+    ],
+    "Media": "achievement_brewery.jpg"
+  },
+  {
+    "TagId": 20011,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Looking For Group: Kun-Lai Summit",
+      "Buscador de grupo: Cima Kun-Lai",
+      "Procurando grupo: Monte Kun-Lai",
+      "Looking For Group: Kun-Lai Summit",
+      "Buscar grupo: Cima Kun-Lai",
+      "Recherche de groupe\u00A0: sommet de Kun-Lai",
+      "Поиск группы: вершина Кунь-Лай",
+      "Suche nach Gruppe: Kun-Lai-Gipfel",
+      "Procurando grupo: Monte Kun-Lai",
+      "Ricerca gruppi: Massiccio del Kun-Lai",
+      "파티 찾기: 쿤라이 봉우리",
+      "搜尋團隊：崑萊峰",
+      "寻求组队：昆莱山"
+    ],
+    "Media": "achievement_shadowpan_hideout_1.jpg"
+  },
+  {
+    "TagId": 20012,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Looking For Group: Townlong Steppes",
+      "Buscador de grupo: Estepas de Tong Long",
+      "Procurando grupo: Estepes de Taolong",
+      "Looking For Group: Townlong Steppes",
+      "Buscar grupo: Estepas de Tong Long",
+      "Recherche de groupe\u00A0: steppes de Tanglong",
+      "Поиск группы: Танлунские степи",
+      "Suche nach Gruppe: Tonlongsteppe",
+      "Procurando grupo: Estepes de Taolong",
+      "Ricerca gruppi: Steppe di Tong Long",
+      "파티 찾기: 탕랑 평원",
+      "搜尋團隊：螳螂荒原",
+      "寻求组队：螳螂高原"
+    ],
+    "Media": "achievement_dungeon_siegeofniuzaotemple.jpg"
+  },
+  {
+    "TagId": 20014,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Looking For Group: Vale of Eternal Blossoms",
+      "Buscador de grupo: Valle de la Flor Eterna",
+      "Procurando grupo: Vale das Flores Eternas",
+      "Looking For Group: Vale of Eternal Blossoms",
+      "Buscar grupo: Valle de la Flor Eterna",
+      "Recherche de groupe\u00A0: val de l’Éternel printemps",
+      "Поиск группы: Вечноцветущий дол",
+      "Suche nach Gruppe: Tal der Ewigen Blüten",
+      "Procurando grupo: Vale das Flores Eternas",
+      "Ricerca gruppi: Vallata dell'Eterna Primavera",
+      "파티 찾기: 영원꽃 골짜기",
+      "搜尋團隊：恆春谷",
+      "寻求组队：锦绣谷"
+    ],
+    "Media": "achievement_dungeon_mogupalace.jpg"
+  },
+  {
+    "TagId": 20015,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Looking For Group: Isle of Thunder",
+      "Buscador de grupo: Isla del Trueno",
+      "Procurando grupo: Ilha do Trovão",
+      "Looking For Group: Isle of Thunder",
+      "Buscar grupo: Isla del Trueno",
+      "Recherche de groupe\u00A0: île du Tonnerre",
+      "Поиск группы: остров Грома",
+      "Suche nach Gruppe: Insel des Donners",
+      "Procurando grupo: Ilha do Trovão",
+      "Ricerca gruppi: Isola del Tuono",
+      "파티 찾기: 천둥의 섬",
+      "搜尋團隊：雷王島",
+      "寻求组队：雷神岛"
+    ],
+    "Media": "achievement_boss_leishen.jpg"
+  },
+  {
+    "TagId": 20016,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Looking For Group: Timeless Isle",
+      "Buscador de grupo: Isla Intemporal",
+      "Procurando grupo: Ilha Perene",
+      "Looking For Group: Timeless Isle",
+      "Buscar grupo: Isla Intemporal",
+      "Recherche de groupe\u00A0: île du Temps figé",
+      "Поиск группы: Вневременный остров",
+      "Suche nach Gruppe: Zeitlose Insel",
+      "Procurando grupo: Ilha Perene",
+      "Ricerca gruppi: Isola Senza Tempo",
+      "파티 찾기: 영원의 섬",
+      "搜尋團隊：永恆之島",
+      "寻求组队：永恒岛"
+    ],
+    "Media": "achievment_boss_blackhorn.jpg"
+  },
+  {
+    "TagId": 20017,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Salyis's Warband",
+      "Legión de Salyis",
+      "Bando Guerreiro de Salyis",
+      "Salyis's Warband",
+      "Banda guerrera de Salyis",
+      "Troupe de guerre de Salyis",
+      "Отряд Сальиса",
+      "Salyis' Kriegsmeute",
+      "Bando Guerreiro de Salyis",
+      "Brigata di Salyis",
+      "살리스의 전투부대",
+      "沙利斯的劫掠兵團",
+      "萨莱斯的兵团"
+    ],
+    "Media": "inv_thunderlizardprimal_green.jpg"
+  },
+  {
+    "TagId": 20018,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Sha of Anger",
+      "Sha de la ira",
+      "Sha da Raiva",
+      "Sha of Anger",
+      "Sha de la ira",
+      "Sha de la colère",
+      "Ша Злости",
+      "Sha des Zorns",
+      "Sha da Raiva",
+      "Sha della Rabbia",
+      "분노의 샤",
+      "憤怒之煞",
+      "怒之煞"
+    ],
+    "Media": "sha_spell_fire_felfirenova.jpg"
+  },
+  {
+    "TagId": 20019,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Nalak, the Storm Lord",
+      "Nalak, el Señor de la Tormenta",
+      "Nalak, o Senhor da Tempestade",
+      "Nalak, the Storm Lord",
+      "Nalak, el Señor de la Tormenta",
+      "Nalak, le seigneur des tempêtes",
+      "Налак, Повелитель Гроз",
+      "Nalak, der Sturmfürst",
+      "Nalak, o Senhor da Tempestade",
+      "Nalak il Signore della Tempesta",
+      "폭풍 군주 나락크",
+      "『風暴龍王』納拉卡",
+      "暴风领主纳拉克"
+    ],
+    "Media": "inv_pandarenserpentgodmount_black.jpg"
+  },
+  {
+    "TagId": 20020,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Oondasta",
+      "Oondasta",
+      "Oondasta",
+      "Oondasta",
+      "Oondasta",
+      "Oondasta",
+      "Ундаста",
+      "Oondasta",
+      "Oondasta",
+      "Undasta",
+      "운다스타",
+      "烏達斯塔",
+      "乌达斯塔"
+    ],
+    "Media": "ability_hunter_pet_devilsaur.jpg"
+  },
+  {
+    "TagId": 20021,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Chi-ji, the Red Crane",
+      "Chi-Ji, la Grulla Roja",
+      "Chi-Ji, a Garça Vermelha",
+      "Chi-ji, the Red Crane",
+      "Chi-Ji, la Grulla Roja",
+      "Chi Ji, la Grue rouge",
+      "Чи-Цзи, Красный Журавль",
+      "Chi-Ji, der Rote Kranich",
+      "Chi-Ji, a Garça Vermelha",
+      "Chi-Ji, la Gru Rossa",
+      "주학 츠지",
+      "『紅鶴』赤吉",
+      "朱鹤赤精"
+    ],
+    "Media": "inv_pet_cranegod.jpg"
+  },
+  {
+    "TagId": 20022,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Yu'lon, the Jade Serpent",
+      "Yu'lon, la Dragona de Jade",
+      "Yu'lon, a Serpente de Jade",
+      "Yu'lon, the Jade Serpent",
+      "Yu'lon, el Dragón de Jade",
+      "Yu’lon, le Serpent de jade",
+      "Юй-лун, Нефритовая Змея",
+      "Yu'lon, die Jadeschlange",
+      "Yu'lon, a Serpente de Jade",
+      "Yu'lon, la Serpe di Giada",
+      "옥룡 위론",
+      "『玉蛟』玉龍",
+      "青龙玉珑"
+    ],
+    "Media": "inv_pandarenserpentgodmount_gold.jpg"
+  },
+  {
+    "TagId": 20023,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Niuzao, the Black Ox",
+      "Niuzao, el Buey Negro",
+      "Niuzao, o Boi Negro",
+      "Niuzao, the Black Ox",
+      "Niuzao, el Buey Negro",
+      "Niuzao, le Buffle noir",
+      "Нюцзао, Черный Бык",
+      "Niuzao, der Schwarze Ochse",
+      "Niuzao, o Boi Negro",
+      "Niuzao, lo Yak Nero",
+      "흑우 니우짜오",
+      "『玄牛』怒兆",
+      "玄牛砮皂"
+    ],
+    "Media": "inv_pet_yakgod.jpg"
+  },
+  {
+    "TagId": 20024,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Xuen, the White Tiger",
+      "Xuen, el Tigre Blanco",
+      "Xuen, o Tigre Branco",
+      "Xuen, the White Tiger",
+      "Xuen, el Tigre Blanco",
+      "Xuen, le Tigre blanc",
+      "Сюэнь, Белый Тигр",
+      "Xuen, der Weiße Tiger",
+      "Xuen, o Tigre Branco",
+      "Xuen, la Tigre Bianca",
+      "백호 쉬엔",
+      "『白虎』雪怒",
+      "白虎雪怒"
+    ],
+    "Media": "inv_pet_tigergodcub.jpg"
+  },
+  {
+    "TagId": 20025,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Ordos",
+      "Ordos",
+      "Ordos",
+      "Ordos",
+      "Ordos",
+      "Ordos",
+      "Ордос",
+      "Ordos",
+      "Ordos",
+      "Ordos",
+      "오르도스",
+      "歐朵斯",
+      "斡耳朵斯"
+    ],
+    "Media": "inv_misc_head_tauren_01.jpg"
+  },
+  {
+    "TagId": 20026,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Explore Jade Forest",
+      "Explora el Bosque de Jade",
+      "Explorar a Floresta de Jade",
+      "Explore Jade Forest",
+      "Explora el Bosque de Jade",
+      "Exploration de la forêt de Jade",
+      "Нефритовый лес",
+      "Erkundet den Jadewald",
+      "Explorar a Floresta de Jade",
+      "Esplora la Foresta di Giada",
+      "비취 숲 탐험",
+      "探索翠玉林",
+      "探索翡翠林"
+    ],
+    "Media": "achievement_zone_jadeforest.jpg"
+  },
+  {
+    "TagId": 20027,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Explore Valley of the Four Winds",
+      "Explora el Valle de los Cuatro Vientos",
+      "Explorar o Vale dos Quatro Ventos",
+      "Explore Valley of the Four Winds",
+      "Explorar el Valle de los Cuatro Vientos",
+      "Exploration de la vallée des Quatre vents",
+      "Долина Четырех Ветров",
+      "Erkundet das Tal der Vier Winde",
+      "Explorar o Vale dos Quatro Ventos",
+      "Esplora la Valle dei Quattro Venti",
+      "네 바람의 계곡 탐험",
+      "探索四風峽",
+      "探索四风谷"
+    ],
+    "Media": "achievement_zone_valleyoffourwinds.jpg"
+  },
+  {
+    "TagId": 20028,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Explore Krasarang Wilds",
+      "Explora la Espesura Krasarang",
+      "Explorar a Selva de Krasarang",
+      "Explore Krasarang Wilds",
+      "Explorar la Espesura Krasarang",
+      "Exploration des étendues sauvages de Krasarang",
+      "Красарангские джунгли",
+      "Erkundet die Krasarangwildnis",
+      "Explorar a Selva de Krasarang",
+      "Esplora la Giungla di Krasarang",
+      "크라사랑 밀림 탐험",
+      "探索喀撒朗蠻荒",
+      "探索卡桑琅丛林"
+    ],
+    "Media": "achievement_zone_krasarangwilds.jpg"
+  },
+  {
+    "TagId": 20029,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Explore Kun-Lai Summit",
+      "Explora Cima Kun-Lai",
+      "Explorar o Monte Kun-Lai",
+      "Explore Kun-Lai Summit",
+      "Explorar la Cima Kun-Lai",
+      "Exploration du sommet de Kun-Lai",
+      "Вершина Кунь-Лай",
+      "Erkundet den Kun-Lai-Gipfel",
+      "Explorar o Monte Kun-Lai",
+      "Esplora il Massiccio del Kun-Lai",
+      "쿤라이 봉우리 탐험",
+      "探索崑萊峰",
+      "探索昆莱山"
+    ],
+    "Media": "achievement_zone_kunlaisummit.jpg"
+  },
+  {
+    "TagId": 20030,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Explore Townlong Steppes",
+      "Explora las Estepas de Tong Long",
+      "Explorar as Estepes de Taolong",
+      "Explore Townlong Steppes",
+      "Explorar las Estepas de Tong Long",
+      "Exploration des steppes de Tanglong",
+      "Танлунские степи",
+      "Erkundet die Tonlongsteppe",
+      "Explorar as Estepes de Taolong",
+      "Esplora le Steppe di Tong Long",
+      "탕랑 평원 탐험",
+      "探索螳螂荒原",
+      "探索螳螂高原"
+    ],
+    "Media": "achievement_zone_townlongsteppes.jpg"
+  },
+  {
+    "TagId": 20031,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Explore Dread Wastes",
+      "Explora el Desierto del Pavor",
+      "Explorar o Ermo do Medo",
+      "Explore Dread Wastes",
+      "Explorar el Desierto del Pavor",
+      "Exploration des terres de l’Angoisse",
+      "Жуткие пустоши",
+      "Erkundet die Schreckensöde",
+      "Explorar o Ermo do Medo",
+      "Esplora le Distese del Terrore",
+      "공포의 황무지 탐험",
+      "探索悚然荒野",
+      "探索恐惧废土"
+    ],
+    "Media": "achievement_zone_dreadwastes.jpg"
+  },
+  {
     "TagId": 20033,
     "TagType": 20,
     "Names": [
@@ -19,6 +649,531 @@
       "炉石萌新"
     ],
     "Media": "inv_hearthstone_gameboard.jpg"
+  },
+  {
+    "TagId": 20039,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid",
+      "[DNT] Damage - Humanoid"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20046,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast",
+      "[DNT] Damage - Beast"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20047,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration",
+      "[DNT] Damage - Aberration"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20048,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon",
+      "[DNT] Damage - Demon"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20049,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin",
+      "[DNT] Damage - Dragonkin"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20050,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental",
+      "[DNT] Damage - Elemental"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20051,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant",
+      "[DNT] Damage - Giant"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20052,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical",
+      "[DNT] Damage - Mechanical"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20053,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead",
+      "[DNT] Damage - Undead"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20054,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane",
+      "[DNT] Resistance - Arcane"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20055,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire",
+      "[DNT] Resistance - Fire"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20056,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost",
+      "[DNT] Resistance - Frost"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20057,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy",
+      "[DNT] Resistance - Holy"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20058,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature",
+      "[DNT] Resistance - Nature"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20059,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical",
+      "[DNT] Resistance - Physical"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20060,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow",
+      "[DNT] Resistance - Shadow"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20061,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike",
+      "[DNT] Stat - Critical Strike"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20062,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste",
+      "[DNT] Stat - Haste"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20063,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech",
+      "[DNT] Stat - Leech"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20064,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery",
+      "[DNT] Stat - Mastery"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20065,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary",
+      "[DNT] Stat - Primary"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20066,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed",
+      "[DNT] Stat - Speed"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20067,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina",
+      "[DNT] Stat - Stamina"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20068,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility",
+      "[DNT] Stat - Versatility"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 20069,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Elusive Foes: Vale of Eternal Blossoms",
+      "Enemigos esquivos: Valle de la Flor Eterna",
+      "Inimigos esquivos: Vale das Flores Eternas",
+      "Elusive Foes: Vale of Eternal Blossoms",
+      "Enemigos esquivos: Valle de la Flor Eterna",
+      "Adversaires insaisissables\u00A0: val de l’Éternel printemps",
+      "Неуловимые враги: Вечноцветущий дол",
+      "Flüchtige Feinde: Tal der Ewigen Blüten",
+      "Inimigos esquivos: Vale das Flores Eternas",
+      "Nemici elusivi: Vallata dell'Eterna Primavera",
+      "신출귀몰한 적: 영원꽃 골짜기",
+      "難以捉摸的敵人：恆春谷",
+      "匿踪之敌：锦绣谷"
+    ],
+    "Media": "achievement_moguraid_02.jpg"
   },
   {
     "TagId": 20087,
@@ -378,6 +1533,27 @@
     "Media": "tradingpostcurrency.jpg"
   },
   {
+    "TagId": 20477,
+    "TagType": 20,
+    "Names": [
+      null,
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience",
+      "[DNT] Stat - Experience"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 20480,
     "TagType": 20,
     "Names": [
@@ -418,6 +1594,27 @@
       "“巨龙时代”第4赛季大师"
     ],
     "Media": "10_2_raidability_bronze.jpg"
+  },
+  {
+    "TagId": 20500,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Lion's Landing",
+      "Desembarco del León",
+      "Ancoradouro do Leão",
+      "Lion's Landing",
+      "Desembarco del León",
+      "Le territoire du Lion",
+      "Львиный лагерь",
+      "Die Löwenlandung",
+      "Ancoradouro do Leão",
+      "Approdo del Leone",
+      "사자의 상륙지",
+      "雄獅灘",
+      "雄狮港"
+    ],
+    "Media": "inv_shield_pvphorde_a_01_upres.jpg"
   },
   {
     "TagId": 20501,
@@ -467,7 +1664,7 @@
     "Names": [
       null,
       "Plunder Wonder",
-      "Saqueos por doquier",
+      "Tesoros y robos",
       "Butim das maravilhas",
       "Plunder Wonder",
       "Fiera del pillaje",
@@ -586,5 +1783,278 @@
       "<Hidden> 10.2.6 Void Zone - Quest <DNT>"
     ],
     "Media": "tradingpostcurrency.jpg"
+  },
+  {
+    "TagId": 20527,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power I",
+      "Poder infinito I",
+      "Poder Infinito I",
+      "Infinite Power I",
+      "Poder infinito I",
+      "Pouvoir infini\u00A0I",
+      "Бесконечная сила I",
+      "Unendliche Macht I",
+      "Poder Infinito I",
+      "Potenza Infinita I",
+      "무한한 마력 I",
+      "恆龍之力I",
+      "永恒能量 I"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20528,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power II",
+      "Poder infinito II",
+      "Poder Infinito II",
+      "Infinite Power II",
+      "Poder infinito II",
+      "Pouvoir infini\u00A0II",
+      "Бесконечная сила II",
+      "Unendliche Macht II",
+      "Poder Infinito II",
+      "Potenza Infinita II",
+      "무한한 마력 II",
+      "恆龍之力II",
+      "永恒能量 II"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20529,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power III",
+      "Poder infinito III",
+      "Poder Infinito III",
+      "Infinite Power III",
+      "Poder infinito III",
+      "Pouvoir infini\u00A0III",
+      "Бесконечная сила III",
+      "Unendliche Macht III",
+      "Poder Infinito III",
+      "Potenza Infinita III",
+      "무한한 마력 III",
+      "恆龍之力III",
+      "永恒能量 III"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20530,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power IV",
+      "Poder infinito IV",
+      "Poder Infinito IV",
+      "Infinite Power IV",
+      "Poder infinito IV",
+      "Pouvoir infini\u00A0IV",
+      "Бесконечная сила IV",
+      "Unendliche Macht IV",
+      "Poder Infinito IV",
+      "Potenza Infinita IV",
+      "무한한 마력 IV",
+      "恆龍之力IV",
+      "永恒能量 IV"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20531,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power V",
+      "Poder infinito V",
+      "Poder Infinito V",
+      "Infinite Power V",
+      "Poder infinito V",
+      "Pouvoir infini\u00A0V",
+      "Бесконечная сила V",
+      "Unendliche Macht V",
+      "Poder Infinito V",
+      "Potenza Infinita V",
+      "무한한 마력 V",
+      "恆龍之力V",
+      "永恒能量 V"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20532,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power VI",
+      "Poder infinito VI",
+      "Poder Infinito VI",
+      "Infinite Power VI",
+      "Poder infinito VI",
+      "Pouvoir infini\u00A0VI",
+      "Бесконечная сила VI",
+      "Unendliche Macht VI",
+      "Poder Infinito VI",
+      "Potenza Infinita VI",
+      "무한한 마력 VI",
+      "恆龍之力VI",
+      "永恒能量 VI"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20533,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power VII",
+      "Poder infinito VII",
+      "Poder Infinito VII",
+      "Infinite Power VII",
+      "Poder infinito VII",
+      "Pouvoir infini\u00A0VII",
+      "Бесконечная сила VII",
+      "Unendliche Macht VII",
+      "Poder Infinito VII",
+      "Potenza Infinita VII",
+      "무한한 마력 VII",
+      "恆龍之力VII",
+      "永恒能量 VII"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20534,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power VIII",
+      "Poder infinito VIII",
+      "Poder Infinito VIII",
+      "Infinite Power VIII",
+      "Poder infinito VIII",
+      "Pouvoir infini\u00A0VIII",
+      "Бесконечная сила VIII",
+      "Unendliche Macht VIII",
+      "Poder Infinito VIII",
+      "Potenza Infinita VIII",
+      "무한한 마력 VIII",
+      "恆龍之力VIII",
+      "永恒能量 VIII"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20535,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power IX",
+      "Poder infinito IX",
+      "Poder Infinito IX",
+      "Infinite Power IX",
+      "Poder infinito IX",
+      "Pouvoir infini\u00A0IX",
+      "Бесконечная сила IX",
+      "Unendliche Macht IX",
+      "Poder Infinito IX",
+      "Potenza Infinita IX",
+      "무한한 마력 IX",
+      "恆龍之力IX",
+      "永恒能量 IX"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20536,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power X",
+      "Poder infinito X",
+      "Poder Infinito X",
+      "Infinite Power X",
+      "Poder infinito X",
+      "Pouvoir infini\u00A0X",
+      "Бесконечная сила X",
+      "Unendliche Macht X",
+      "Poder Infinito X",
+      "Potenza Infinita X",
+      "무한한 마력 X",
+      "恆龍之力X",
+      "永恒能量 X"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20537,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power XI",
+      "Poder infinito XI",
+      "Poder Infinito XI",
+      "Infinite Power XI",
+      "Poder infinito XI",
+      "Pouvoir infini\u00A0XI",
+      "Бесконечная сила XI",
+      "Unendliche Macht XI",
+      "Poder Infinito XI",
+      "Potenza Infinita XI",
+      "무한한 마력 XI",
+      "恆龍之力XI",
+      "永恒能量 XI"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20538,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Infinite Power XII",
+      "Poder infinito XII",
+      "Poder Infinito XII",
+      "Infinite Power XII",
+      "Poder infinito XII",
+      "Pouvoir infini\u00A0XII",
+      "Бесконечная сила XII",
+      "Unendliche Macht XII",
+      "Poder Infinito XII",
+      "Potenza Infinita XII",
+      "무한한 마력 XII",
+      "恆龍之力XII",
+      "永恒能量 XII"
+    ],
+    "Media": "achievement_boss_infinitecorruptor.jpg"
+  },
+  {
+    "TagId": 20593,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Time Trial",
+      "Desafío contrarreloj",
+      "Prova de Tempo",
+      "Time Trial",
+      "Prueba de tiempo",
+      "Contre la montre",
+      "Испытание временем",
+      "Zeitprüfung",
+      "Prova de Tempo",
+      "Prova a tempo",
+      "최단 시간 도전",
+      "時光試煉",
+      "时光试炼"
+    ],
+    "Media": "ability_evoker_timedilation.jpg"
   }
 ]

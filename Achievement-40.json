@@ -404,20 +404,41 @@
     "Names": [
       null,
       "Into the Storm (copy)",
-      "Hacia la tormenta",
-      "Dentro da tempestade",
+      "Hacia la tormenta (copia)",
+      "Dentro da tempestade (cópia)",
       "Into the Storm (copy)",
-      "Hacia la tormenta",
-      "Dans la tempête",
-      "В сердце бури",
-      "In den Sturm",
-      "Dentro da tempestade",
+      "Hacia la tormenta (copia)",
+      "Dans la tempête (copie)",
+      "В сердце бури (копия)",
+      "In den Sturm (Kopie)",
+      "Dentro da tempestade (cópia)",
       "Nella tempesta",
-      "폭풍 속으로",
-      "勇闖風暴",
-      "踏入风暴"
+      "폭풍 속으로 (복사)",
+      "勇闖風暴(複製)",
+      "踏入风暴（复制）"
     ],
     "Media": "ability_shaman_echooftheelements.jpg"
+  },
+  {
+    "TagId": 40223,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Timerunner",
+      "Cronoaventurero",
+      "Trilha-tempo",
+      "Timerunner",
+      "Asaltante temporal",
+      "Cours du temps",
+      "Путешественник во времени",
+      "Zeitläufer",
+      "Trilha-tempo",
+      "Corridore nel Tempo",
+      "시간질주자",
+      "時光奔走者",
+      "时空奔行者"
+    ],
+    "Media": "ability_evoker_timedilation.jpg"
   },
   {
     "TagId": 40315,
@@ -425,18 +446,18 @@
     "Names": [
       null,
       "[HIDDEN] Now THIS is Dragon Racing!",
+      "[OCULTO] ¡Esto SÍ es una carrera de dragones!",
+      "[OCULTO] ISSO é que é corrida de dragões!",
       "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!",
-      "[HIDDEN] Now THIS is Dragon Racing!"
+      "¡Esto sí que son carreras de dragones!",
+      "[MASQUÉ] ÇA, c’est de la course de Dragons\u00A0!",
+      "[СКРЫТО] Настоящая гонка!",
+      "[Versteckt] DAS nenne ich Drachenrennen!",
+      "[OCULTO] ISSO é que é corrida de dragões!",
+      "QUESTA sì che è una Corsa dei Draghi!",
+      "[숨겨짐] 이게 바로 용 경주지!",
+      "[隱藏]這才叫飛龍競速！",
+      "[HIDDEN]这才叫巨龙竞赛！"
     ],
     "Media": "ability_dragonriding_dragonriding01.jpg"
   }
