@@ -3564,19 +3564,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Bloodthirsty",
+      "%s the Bloodthirsty",
       "%s, el Sanguinario",
-      "%s, o Sedento por Sangue",
-      "%s, the Bloodthirsty",
-      "%s, el Sanguinario",
+      "%s, o Sedento de Sangue",
+      "%s the Bloodthirsty",
+      "%s el Sanguinario",
       "%s, le Sanguinaire",
-      "Кровожадный %s",
+      "%s Кровожадный",
       "%s, der Blutrünstige",
-      "%s, o Sedento por Sangue",
+      "%s, o Sedento de Sangue",
       "%s il Sanguinario",
       "피에 굶주린 자 %s",
-      "『嗜血者』 %s",
-      "%s, 嗜血者"
+      "『嗜血者』%s",
+      "嗜血者 %s"
     ]
   },
   {
@@ -5064,19 +5064,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "Timber Lord %s",
-      "Señor de la Madera %s",
-      "Mestre das Toras %s",
-      "Timber Lord %s",
-      "Señor leñador %s",
-      "Seigneur du bois %s",
-      "Командир лесозаготовок %s",
-      "Holzherr %s",
-      "Mestre das Toras %s",
-      "%s il Signore del Legno",
-      "목재 군주 %s",
-      "木材之王 %s",
-      "木材大王 %s"
+      "Echochaser %s",
+      "Cazaecos %s",
+      "Ecocêntrico %s",
+      "Echochaser %s",
+      "Buscaecos %s",
+      "Chasse-échos %s",
+      "Ловец отголосков %s",
+      "Echojäger %s",
+      "Ecocêntrico %s",
+      "Cercaechi %s",
+      "메아리추적자 %s",
+      "回音追逐者%s",
+      "回响追寻者 %s"
     ]
   },
   {
@@ -7044,19 +7044,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Tomb Raider",
-      "%s, Cazador de tumbas",
+      "%s the Tomb Raider",
+      "%s, el Cazador de tumbas",
       "%s, o Saqueador de Tumbas",
-      "%s, the Tomb Raider",
-      "%s, el Asaltatumbas",
-      "%s, le pilleur de tombes",
+      "%s the Tomb Raider",
+      "%s el Asaltatumbas",
+      "%s, le Pilleur de tombes",
       "%s, расхититель гробниц",
-      "%s der Grabräuber",
+      "%s, der Grabräuber",
       "%s, o Saqueador de Tumbas",
       "Incursore della Tomba %s",
       "무덤 공격대원 %s",
       "『古墓神兵』%s",
-      "%s, 古墓奇兵"
+      "古墓奇兵 %s"
     ]
   },
   {
@@ -7124,19 +7124,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Lightbringer",
+      "%s the Lightbringer",
       "%s, el Iluminado",
       "%s, o Arauto da Luz",
-      "%s, the Lightbringer",
-      "%s, el Iluminado",
+      "%s the Lightbringer",
+      "%s el Iluminado",
       "%s, le Porteur de Lumière",
       "%s Светоносный",
-      "%s der Lichtbringer",
+      "%s, der Lichtbringer",
       "%s, o Arauto da Luz",
       "%s, l'Araldo della Luce",
       "빛의 수호자 %s",
       "『光明使者』%s",
-      "%s，光明使者"
+      "光明使者 %s"
     ]
   },
   {
@@ -7304,19 +7304,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Horde Slayer",
+      "%s the Horde Slayer",
       "%s, el Matahordas",
-      "%s, Exterminador da Horda",
-      "%s, the Horde Slayer",
+      "%s, o Assassino da Horda",
+      "%s the Horde Slayer",
       "%s el Asesino de la Horda",
       "%s, le cauchemar de la Horde",
       "%s, гроза Орды",
       "%s, der Hordenschlächter",
-      "%s, Exterminador da Horda",
-      "%s l'Assassino dell'Orda",
+      "%s, o Assassino da Horda",
+      "%s, l'Assassino dell'Orda",
       "호드 학살자 %s",
-      "部落剋星%s",
-      "%s, 部落的克星"
+      "『部落剋星』%s",
+      "部落的克星 %s"
     ]
   },
   {
@@ -7324,19 +7324,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Alliance Slayer",
+      "%s the Alliance Slayer",
       "%s, el Mataalianzas",
-      "%s, Exterminador da Aliança",
-      "%s, the Alliance Slayer",
+      "%s, o Assassino da Aliança",
+      "%s the Alliance Slayer",
       "%s el Asesino de la Alianza",
       "%s, le cauchemar de l’Alliance",
       "%s, гроза Альянса",
       "%s, der Allianzschlächter",
-      "%s, Exterminador da Aliança",
-      "%s l'Assassino dell'Alleanza",
+      "%s, o Assassino da Aliança",
+      "%s, l'Assassino dell'Alleanza",
       "얼라이언스 학살자 %s",
-      "聯盟剋星%s",
-      "%s, 联盟的克星"
+      "『聯盟剋星』%s",
+      "联盟的克星 %s"
     ]
   },
   {
@@ -8404,11 +8404,11 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Party Herald",
+      "%s the Party Herald",
       "%s, el Heraldo de la fiesta",
       "%s, o Arauto da Festa",
-      "%s, the Party Herald",
-      "%s, el heraldo de la fiesta",
+      "%s the Party Herald",
+      "%s el Heraldo de la Fiesta",
       "%s, héraut des festivités",
       "%s, Глашатай вечеринки",
       "%s, der Festherold",
@@ -8416,7 +8416,7 @@
       "%s, l'Alfiere della Festa",
       "연회의 전령 %s",
       "『派對使者』%s",
-      "%s, 聚会通报官"
+      "聚会通报官 %s"
     ]
   },
   {
@@ -8764,19 +8764,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Tormented Hero",
+      "%s the Tormented Hero",
       "%s, el Héroe atormentado",
       "%s, o Herói Atormentado",
-      "%s, the Tormented Hero",
+      "%s the Tormented Hero",
       "%s el Héroe Atormentado",
-      "%s le héros tourmenté",
+      "%s, le héros tourmenté",
       "%s, истерзанный герой",
       "%s, der gequälte Held",
       "%s, o Herói Atormentado",
       "%s, l'Eroe Tormentato",
       "고통받는 영웅 %s",
       "『受難英雄』%s",
-      "%s, 磨难英雄"
+      "磨难英雄 %s"
     ]
   },
   {
@@ -8904,11 +8904,11 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Cryptic Hero",
+      "%s the Cryptic Hero",
       "%s, el Héroe críptico",
       "%s, o Herói Críptico",
-      "%s, the Cryptic Hero",
-      "%s, el Héroe Críptico",
+      "%s the Cryptic Hero",
+      "%s el Héroe Críptico",
       "%s, le cryptomancien héroïque",
       "Загадочный герой %s",
       "%s, der kryptische Held",
@@ -8916,7 +8916,7 @@
       "%s, l'Eroe Criptico",
       "불가사의한 영웅 %s",
       "『神秘英雄』%s",
-      "%s, 隐秘英雄"
+      "隐秘英雄 %s"
     ]
   },
   {
@@ -9064,19 +9064,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Shrouded Hero",
+      "%s the Shrouded Hero",
       "%s, el Héroe velado",
       "%s, o Herói Amortalhado",
-      "%s, the Shrouded Hero",
-      "%s, el Héroe Velado",
+      "%s the Shrouded Hero",
+      "%s el Héroe Velado",
       "%s, l’ombre héroïque",
       "%s, замаскированный герой",
       "%s, der verhüllte Held",
       "%s, o Herói Amortalhado",
       "%s, l'Eroe Ammantato",
-      "장막에 가려진 영웅, %s",
+      "장막에 가려진 영웅 %s",
       "『隱蔽英雄』%s",
-      "%s, 伪装英雄"
+      "伪装英雄 %s"
     ]
   },
   {
@@ -9124,19 +9124,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the Worldbreaker",
+      "%s the Worldbreaker",
       "%s, el Rompemundos",
       "%s, o Quebramundo",
-      "%s, the Worldbreaker",
+      "%s the Worldbreaker",
       "%s el Rompemundos",
-      "%s le Brise-monde",
+      "%s, le Brise-monde",
       "%s, разрушитель миров",
       "%s, der Weltenbrecher",
       "%s, o Quebramundo",
       "%s, il Devastamondi",
       "세계파괴자 %s",
       "『碎界者』%s",
-      "%s, 灭世者"
+      "灭世者 %s"
     ]
   },
   {
@@ -10660,6 +10660,66 @@
     ]
   },
   {
+    "TagId": 822,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero",
+      "%s, the [PH] Hero"
+    ]
+  },
+  {
+    "TagId": 823,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Immortal Spelunker %s",
+      "Espeleólogo inmortal %s",
+      "Espeleologista Imortal %s",
+      "Immortal Spelunker %s",
+      "Espeleólogo Inmortal %s",
+      "Spéléologue immortel %s",
+      "Бессмертный спелеолог %s",
+      "Unsterblicher Höhlenforscher %s",
+      "Espeleologista Imortal %s",
+      "%s, Speleologo Immortale",
+      "불멸의 동굴탐험가 %s",
+      "不朽探勘者%s",
+      "不朽探地者 %s"
+    ]
+  },
+  {
+    "TagId": 824,
+    "TagType": 31,
+    "Names": [
+      null,
+      "High Explorer %s",
+      "Alto expedicionario %s",
+      "Explorador-mor %s",
+      "High Explorer %s",
+      "Alto Expedicionario %s",
+      "Grand explorateur %s",
+      "Главный исследователь %s",
+      "Hochforscher %s",
+      "Explorador-mor %s",
+      "Gran Esploratore %s",
+      "고위 탐험가 %s",
+      "高階探險者%s",
+      "大探险家 %s"
+    ]
+  },
+  {
     "TagId": 825,
     "TagType": 31,
     "Names": [
@@ -10720,6 +10780,86 @@
     ]
   },
   {
+    "TagId": 828,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Strategist %s",
+      "Estratega %s",
+      "Estrategista %s",
+      "Strategist %s",
+      "Estratega %s",
+      "Stratège %s",
+      "Стратег %s",
+      "Stratege %s",
+      "Estrategista %s",
+      "Stratega %s",
+      "전략가 %s",
+      "戰略家%s",
+      "战略专家 %s"
+    ]
+  },
+  {
+    "TagId": 829,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Forged Warlord %s",
+      "Señor de la guerra forjado %s",
+      "Senhor da Guerra Forjado %s",
+      "Forged Warlord %s",
+      "Señor de la Guerra Forjado %s",
+      "Seigneur de guerre forgé %s",
+      "Закаленный полководец %s",
+      "Geschmiedeter Kriegsfürst %s",
+      "Senhor da Guerra Forjado %s",
+      "Signore della Guerra Forgiato %s",
+      "제련된 대장군 %s",
+      "百鍊督軍%s",
+      "炉铸督军 %s"
+    ]
+  },
+  {
+    "TagId": 830,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Forged Marshall %s",
+      "Mariscal forjado %s",
+      "Marechal Forjado %s",
+      "Forged Marshall %s",
+      "Mariscal Forjado %s",
+      "Maréchal forgé %s",
+      "Закаленный маршал %s",
+      "Geschmiedeter Marschall %s",
+      "Marechal Forjado %s",
+      "Maresciallo Forgiato %s",
+      "제련된 사령관 %s",
+      "百鍊元帥%s",
+      "炉铸元帅 %s"
+    ]
+  },
+  {
+    "TagId": 831,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Queenslayer %s",
+      "Matarreinas %s",
+      "Matador de Rainhas %s",
+      "Queenslayer %s",
+      "Matarreinas %s",
+      "Régicide %s",
+      "Убийца королевы %s",
+      "Königinnenmörder %s",
+      "Matador de Rainhas %s",
+      "%s lo Sterminatore di Regine",
+      "여왕을 쓰러뜨린 자 %s",
+      "女王殺手%s",
+      "女王灾星 %s"
+    ]
+  },
+  {
     "TagId": 832,
     "TagType": 31,
     "Names": [
@@ -10737,6 +10877,246 @@
       "각성한 영웅 %s",
       "覺醒英雄 %s",
       "%s，觉醒英雄"
+    ]
+  },
+  {
+    "TagId": 833,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Forged Gladiator %s",
+      "Gladiador forjado %s",
+      "Gladiador Forjado %s",
+      "Forged Gladiator %s",
+      "Gladiador Forjado %s",
+      "Gladiateur forgé %s",
+      "Закаленный гладиатор %s",
+      "Geschmiedeter Gladiator %s",
+      "Gladiador Forjado %s",
+      "Gladiatore Forgiato %s",
+      "제련된 검투사 %s",
+      "百鍊鬥士%s",
+      "炉铸角斗士 %s"
+    ]
+  },
+  {
+    "TagId": 834,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Forged Legend %s",
+      "Leyenda forjada %s",
+      "Lenda Forjada %s",
+      "Forged Legend %s",
+      "Leyenda Forjada %s",
+      "Légende forgée %s",
+      "Закаленная легенда %s",
+      "Geschmiedete Legende %s",
+      "Lenda Forjada %s",
+      "Leggenda Forgiata %s",
+      "제련된 전설 %s",
+      "百鍊傳奇%s",
+      "炉铸传奇 %s"
+    ]
+  },
+  {
+    "TagId": 835,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s Ascension Breaker",
+      "%s, Rompeascensiones",
+      "%s, Rompedor de Ascensão",
+      "%s Ascension Breaker",
+      "Quiebrascensiones %s",
+      "%s le brise-Sublimation",
+      "%s, крушитель вознесенных",
+      "Aufstiegsbrecher %s",
+      "%s, Rompedor de Ascensão",
+      "Sventa-ascensione %s",
+      "승천 파괴자 %s",
+      "晉升破壞者%s",
+      "%s 扬升破灭者"
+    ]
+  },
+  {
+    "TagId": 836,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Famed Slayer of Ansurek",
+      "%s, asesino de Ansurek renombrado",
+      "%s, Renomado Matador de Ansurek",
+      "%s, Famed Slayer of Ansurek",
+      "%s, Afamado Asesino de Ansurek",
+      "%s, célèbre tueur d’Ansurek",
+      "%s, прославленный победитель Ансурек",
+      "%s, ruhmreicher Bezwinger von Ansurek",
+      "%s, Renomado Matador de Ansurek",
+      "%s, Giustiziere di Ansurek",
+      "명예로운 안수레크 학살자 %s",
+      "安蘇芮克剋星%s",
+      "%s, 闻名遐迩的安苏雷克杀手"
+    ]
+  },
+  {
+    "TagId": 837,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Slayer of the Deeps",
+      "%s, asesino de las profundidades",
+      "%s, Matador das Profundezas",
+      "%s, Slayer of the Deeps",
+      "%s, Asesino de las Zonas Profundas",
+      "%s, tueur des profondeurs",
+      "%s, истребитель из глубин",
+      "%s, Bezwinger der Tiefen",
+      "%s, Matador das Profundezas",
+      "%s, Carnefice delle Profondità",
+      "심연의 학살자 %s",
+      "深淵殺手%s",
+      "%s, 邃渊屠夫"
+    ]
+  },
+  {
+    "TagId": 838,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Deephauler %s",
+      "Infraestibador %s",
+      "Carregador %s",
+      "Deephauler %s",
+      "Cargahondo %s",
+      "Abondabîmien %s",
+      "Златоносец %s",
+      "Tiefbeuter %s",
+      "Carregador %s",
+      "Esploratore di Cavafonda %s",
+      "깊은광혈 운반꾼 %s",
+      "深谷搬運工%s",
+      "御渊搬运工 %s"
+    ]
+  },
+  {
+    "TagId": 839,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Machine Whisperer %s",
+      "Susurrador de Máquinas %s",
+      "Encantador de Máquinas %s",
+      "Machine Whisperer %s",
+      "Susurramáquinas %s",
+      "Dompteur de machines %s",
+      "Заклинатель механизмов %s",
+      "Maschinenflüsterer %s",
+      "Encantador de Máquinas %s",
+      "Sussurratore delle Macchine %s",
+      "기계 교감자 %s",
+      "機械低語者%s",
+      "机械呢喃者 %s"
+    ]
+  },
+  {
+    "TagId": 840,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Honorary Councilmember %s",
+      "Miembro honorario del consejo %s",
+      "Membro do Conselho Honorário %s",
+      "Honorary Councilmember %s",
+      "Miembro Honorífico del Consejo %s",
+      "Membre honoraire du conseil %s",
+      "Почетный член совета %s",
+      "Ehrenratsmitglied %s",
+      "Membro do Conselho Honorário %s",
+      "Membro Onorario del Concilio %s",
+      "명예 의원 %s",
+      "榮譽議員%s",
+      "荣誉议员 %s"
+    ]
+  },
+  {
+    "TagId": 841,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Lamplighter %s",
+      "Farolero %s",
+      "Luminar %s",
+      "Lamplighter %s",
+      "Prendelámparas %s",
+      "Falotier %s",
+      "Фонарщик %s",
+      "Lampenanzünder %s",
+      "Luminar %s",
+      "Lampionaio %s",
+      "점등원 %s",
+      "燈火者%s",
+      "燃灯者 %s"
+    ]
+  },
+  {
+    "TagId": 842,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Thread-Spinner %s",
+      "Enhebrador %s",
+      "Urdidor %s",
+      "Thread-Spinner %s",
+      "Hilandero %s",
+      "Fileur %s",
+      "Прядильщик %s",
+      "Fadenspinner %s",
+      "Urdidor %s",
+      "Tessitore dei Fili %s",
+      "실을 엮는 자 %s",
+      "紡絲者%s",
+      "纺线者 %s"
+    ]
+  },
+  {
+    "TagId": 843,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Machine-Warden",
+      "%s, Guardián de la Máquina",
+      "%s, Guardião da Máquina",
+      "%s, Machine-Warden",
+      "%s, Celador de Máquinas",
+      "%s, gardien mécanique",
+      "%s, страж механизмов",
+      "%s, Maschinenwart",
+      "%s, Guardião da Máquina",
+      "%s, Custode delle Macchine",
+      "기계 감시관 %s",
+      "機械看守者%s",
+      "%s，主机守护者"
+    ]
+  },
+  {
+    "TagId": 845,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Seeker of Loot",
+      "%s, Buscador de botín",
+      "%s, Perscrutador de Saque",
+      "%s, Seeker of Loot",
+      "%s, Buscador de Botín",
+      "%s, chercheur de butin",
+      "Искатель сокровищ %s",
+      "Beutesucher %s",
+      "%s, Perscrutador de Saque",
+      "%s, Cercatore di Bottino",
+      "전리품의 탐구자 %s",
+      "『戰利品追尋者』%s",
+      "%s，觅财者"
     ]
   }
 ]

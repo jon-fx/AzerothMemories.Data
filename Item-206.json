@@ -819,6 +819,27 @@
     "Media": "inv_7_0raid_trinket_07c.jpg"
   },
   {
+    "TagId": 206134,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Potion of Healing",
+      "Poción de sanación",
+      "Poção de Cura",
+      "Potion of Healing",
+      "Poción de sanación",
+      "Potion de soins",
+      "Зелье исцеления",
+      "Trank der Heilung",
+      "Poção de Cura",
+      "Pozione di Cura",
+      "치유의 물약",
+      "治療藥水",
+      "治疗药水"
+    ],
+    "Media": "trade_alchemy_dpotion_c29.jpg"
+  },
+  {
     "TagId": 206135,
     "TagType": 21,
     "Names": [
@@ -1869,6 +1890,27 @@
     "Media": "inv_misc_treasurechest01d.jpg"
   },
   {
+    "TagId": 206203,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dauntless Draught",
+      "Jarabe intrépido",
+      "Grogue Inabalável",
+      "Dauntless Draught",
+      "Jarabe intrépido",
+      "Breuvage de l’Audacieux",
+      "Храбрый хмель",
+      "Trunk der Furchtloser Funke",
+      "Grogue Inabalável",
+      "Spina dell'Impavida",
+      "용맹주",
+      "無懼藥水",
+      "无畏饮剂"
+    ],
+    "Media": "inv_drink_10.jpg"
+  },
+  {
     "TagId": 206204,
     "TagType": 21,
     "Names": [
@@ -2014,6 +2056,27 @@
       "鳞卫的布质束带"
     ],
     "Media": "inv_cloth_outdoorblackdragon_d_01_belt.jpg"
+  },
+  {
+    "TagId": 206211,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Onyx Annulet",
+      "Anillete de ónice",
+      "Anelete de Ônix",
+      "Onyx Annulet",
+      "Amuleto de ónice",
+      "Annelet d’onyx",
+      "Ониксовое колечко",
+      "Onyxsockelring",
+      "Anelete de Ônix",
+      "Anellino d'Onice",
+      "흑마노 반지",
+      "瑪瑙環飾",
+      "缟玛瑙环箍"
+    ],
+    "Media": "inv_10_alchemy_bottle_shape4_red.jpg"
   },
   {
     "TagId": 206212,
@@ -2914,7 +2977,7 @@
       "Clava del Guardiascaglie",
       "비늘감시관의 몽둥이",
       "鱗衛棒錘",
-      "鳞卫的棍棒"
+      "鳞卫之棍"
     ],
     "Media": "inv_mace_1h_blackdragonoutdoor_d_01.jpg"
   },
@@ -2956,7 +3019,7 @@
       "Mazza Ferrata del Guardiascaglie",
       "비늘감시관의 곤봉",
       "鱗衛鬥棍",
-      "鳞卫的木槌"
+      "鳞卫的轻棍"
     ],
     "Media": "inv_mace_1h_blackdragonoutdoor_b_02.jpg"
   },
@@ -2977,7 +3040,7 @@
       "Egida del Guardiascaglie",
       "비늘감시관의 아이기스",
       "鱗衛禦盾",
-      "鳞卫的庇护之盾"
+      "鳞卫之庇"
     ],
     "Media": "inv_shield_1h_blackdragonoutdoor_d_01.jpg"
   },
@@ -2998,7 +3061,7 @@
       "Impalatore del Guardiascaglie",
       "비늘감시관의 송곳창",
       "鱗衛刺刀",
-      "鳞卫的穿刺之矛"
+      "鳞卫的刺戟"
     ],
     "Media": "inv_polearm_2h_blackdragonoutdoor_d_01.jpg"
   },
@@ -3019,7 +3082,7 @@
       "Lancia del Guardiascaglie",
       "비늘감시관의 창",
       "鱗衛長矛",
-      "鳞卫之矛"
+      "鳞卫长矛"
     ],
     "Media": "inv_polearm_2h_blackdragonoutdoor_d_01.jpg"
   },
@@ -3061,7 +3124,7 @@
       "Mazza del Guardiascaglie",
       "비늘감시관의 철퇴",
       "鱗衛釘錘",
-      "鳞卫之锤"
+      "鳞卫之槌"
     ],
     "Media": "inv_mace_1h_blackdragonoutdoor_d_01.jpg"
   },
@@ -3082,7 +3145,7 @@
       "Frantumatore del Guardiascaglie",
       "비늘감시관의 분쇄기",
       "鱗衛粉碎錘",
-      "鳞卫的碎击者"
+      "鳞卫的碎击锤"
     ],
     "Media": "inv_mace_1h_blackdragonoutdoor_d_01.jpg"
   },
@@ -3103,7 +3166,7 @@
       "Scettro del Guardiascaglie",
       "비늘감시관의 홀",
       "鱗衛權杖",
-      "鳞卫的权杖"
+      "鳞卫的节杖"
     ],
     "Media": "inv_mace_1h_blackdragonoutdoor_b_02.jpg"
   },
@@ -3124,7 +3187,7 @@
       "Sciabola del Guardiascaglie",
       "비늘감시관의 사브르",
       "鱗衛軍刀",
-      "鳞卫的利刃"
+      "鳞卫的利剑"
     ],
     "Media": "inv_sword_1h_blackdragonoutdoor_d_01.jpg"
   },
@@ -4723,6 +4786,69 @@
       "假人护符"
     ],
     "Media": "tradingpostcurrency.jpg"
+  },
+  {
+    "TagId": 206348,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fragmented Flame",
+      "Llama fragmentada",
+      "Chama Fragmentada",
+      "Fragmented Flame",
+      "Llama fragmentada",
+      "Flamme fragmentée",
+      "Фрагмент пламени",
+      "Fragmentierte Flamme",
+      "Chama Fragmentada",
+      "Fiamma Frammentata",
+      "조각난 불꽃",
+      "破碎烈焰",
+      "碎散烈焰"
+    ],
+    "Media": "inv_elemental_mote_fire01.jpg"
+  },
+  {
+    "TagId": 206349,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fragmented Reagent",
+      "Componente fragmentado",
+      "Reagente Fragmentado",
+      "Fragmented Reagent",
+      "Componente fragmentado",
+      "Composant fragmenté",
+      "Фрагмент реагента",
+      "Fragmentiertes Reagenz",
+      "Reagente Fragmentado",
+      "Reagente Frammentato",
+      "조각난 재료",
+      "破碎材料",
+      "碎散材料"
+    ],
+    "Media": "inv_tradeskillitem_sorcerersfire.jpg"
+  },
+  {
+    "TagId": 206350,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Remnant",
+      "Remanente radiante",
+      "Resquício Radiante",
+      "Radiant Remnant",
+      "Remanente radiante",
+      "Vestige radieux",
+      "Сияющие останки",
+      "Strahlendes Überbleibsel",
+      "Resquício Radiante",
+      "Residuo Radioso",
+      "광휘의 잔재",
+      "輻光殘骸",
+      "光耀残渣"
+    ],
+    "Media": "inv_radiant_remnant.jpg"
   },
   {
     "TagId": 206351,
@@ -7833,6 +7959,48 @@
     "Media": "inv_mace_2h_titankeepertyrboss_d_01.jpg"
   },
   {
+    "TagId": 206518,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gyro-Optic Spring",
+      "Resorte de giroóptica",
+      "Mola de Giro-óptica",
+      "Gyro-Optic Spring",
+      "Resorte giróptico",
+      "Ressort gyro-optique",
+      "Пружина гироокуляра",
+      "Gyro-optische Feder",
+      "Mola de Giro-óptica",
+      "Molla Giro-Ottica",
+      "자이로 광학 용수철",
+      "陀螺光學彈簧",
+      "光纤陀螺弹簧"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_spring_uprez.jpg"
+  },
+  {
+    "TagId": 206519,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cleanbrass Bolts",
+      "Tuercas broncelimpio",
+      "Latafusos Polidos",
+      "Cleanbrass Bolts",
+      "Tornillos de broncebrillo",
+      "Boulons en laiton-franc",
+      "Чистомедные болты",
+      "Reinmessingbolzen",
+      "Latafusos Polidos",
+      "Bulloni di Purottone",
+      "무결황동 나사",
+      "淨銅螺栓",
+      "亮铜螺钉"
+    ],
+    "Media": "inv_engineering_90_bolts.jpg"
+  },
+  {
     "TagId": 206520,
     "TagType": 21,
     "Names": [
@@ -9093,6 +9261,27 @@
     "Media": "trade_alchemy_foldedghostiron.jpg"
   },
   {
+    "TagId": 206581,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Harvester Core",
+      "Núcleo cosechador",
+      "Núcleo de Colheitadeira",
+      "Harvester Core",
+      "Núcleo de cosechador",
+      "Noyau de moissonneur",
+      "Ядро уборочного голема",
+      "Ernterkern",
+      "Núcleo de Colheitadeira",
+      "Nucleo del Mietitore",
+      "수확자 핵",
+      "收割者核心",
+      "收割者核心"
+    ],
+    "Media": "inv_eng_gizmo2.jpg"
+  },
+  {
     "TagId": 206582,
     "TagType": 21,
     "Names": [
@@ -9469,6 +9658,27 @@
       "一条线索"
     ],
     "Media": "inv_misc_bandage_18.jpg"
+  },
+  {
+    "TagId": 206601,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dark-Nurtured Scallions",
+      "Cebolletas oscuronutridas",
+      "Cebolinhas Trevosas",
+      "Dark-Nurtured Scallions",
+      "Cebolletas cultivadas en la oscuridad",
+      "Échalotes nourries par les ombres",
+      "Вскормленный Тьмой лук-шалот",
+      "Dunkelheitsgenährte Frühlingszwiebeln",
+      "Cebolinhas Trevosas",
+      "Scalogni Coltivati nell'Oscurità",
+      "암흑 양분 파",
+      "暗育青蔥",
+      "暗育之葱"
+    ],
+    "Media": "inv_misc_food_legion_riveronion.jpg"
   },
   {
     "TagId": 206602,
@@ -10456,6 +10666,27 @@
       "邪能松果"
     ],
     "Media": "inv_misc_herb_nightmareseed.jpg"
+  },
+  {
+    "TagId": 206670,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkroot Grippers",
+      "Pinzas raizoscuras",
+      "Pegadores de Raiz Sombria",
+      "Darkroot Grippers",
+      "Apretadores de Raíz Oscura",
+      "Préhenseurs sombracine",
+      "Темноземные ухваты",
+      "Finsterwurzelgreifer",
+      "Pegadores de Raiz Sombria",
+      "Guanti di Cepposcuro",
+      "암흑뿌리 손장갑",
+      "暗根握爪",
+      "暗根抓握手套"
+    ],
+    "Media": "inv_gauntlets_24.jpg"
   },
   {
     "TagId": 206671,
@@ -12196,7 +12427,7 @@
       "Stiletto del Guardiascaglie",
       "비늘감시관의 단검",
       "鱗衛短匕",
-      "鳞卫的短刃"
+      "鳞卫的短匕"
     ],
     "Media": "inv_knife_1h_blackdragonoutdoor_d_01.jpg"
   },
@@ -12742,7 +12973,7 @@
       "Fibbia del Guerrafondaio",
       "전투사의 죔쇠띠",
       "好戰者扣環",
-      "好战者的攫握手套"
+      "好战者的腰铠"
     ],
     "Media": "inv_belt_mail_warfrontshorde_c_01.jpg"
   },

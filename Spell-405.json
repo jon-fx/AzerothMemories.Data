@@ -11458,7 +11458,7 @@
       "法官、陪審團和執行者",
       "判罚处刑人"
     ],
-    "Media": "inv_axe_1h_warfrontsalliance_c_01.jpg"
+    "Media": "spell_paladin_inquisition.jpg"
   },
   {
     "TagId": 405608,
@@ -11755,6 +11755,27 @@
     "Media": "spell_fire_blueflamebolt.jpg"
   },
   {
+    "TagId": 405623,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Armadillo Roller",
+      "Armadillo rodante",
+      "Tatu-rolador",
+      "Armadillo Roller",
+      "Armadillo rodador",
+      "Tatou rouleur",
+      "Броненосец-волчок",
+      "Gürteltierroller",
+      "Tatu-rolador",
+      "Armadillo Rotolante",
+      "아르마딜로 굴림꾼",
+      "犰狳翻滾者",
+      "犰狳滚轮车"
+    ],
+    "Media": "inv_mechacycle.jpg"
+  },
+  {
     "TagId": 405624,
     "TagType": 26,
     "Names": [
@@ -11774,6 +11795,27 @@
       "Black Dragonflight Cover [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 405625,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sky Screamer",
+      "Vociferador de los cielos",
+      "Estridente Celeste",
+      "Sky Screamer",
+      "Vociferador celeste",
+      "Hurleciel",
+      "Небесный крикун",
+      "Himmelskreischer",
+      "Estridente Celeste",
+      "Urlacieli",
+      "비명날개",
+      "嘯天者",
+      "啸天者"
+    ],
+    "Media": "inv_hordezeppelinmount.jpg"
   },
   {
     "TagId": 405626,
@@ -11814,6 +11856,27 @@
       "알 바구니",
       "蛋籃",
       "彩蛋篮"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 405629,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deploy Sky Screamer",
+      "Desplegar vociferador de los cielos",
+      "Acionar Estridente Celeste",
+      "Deploy Sky Screamer",
+      "Desplegar vociferador celeste",
+      "Déployer le Hurleciel",
+      "Запуск небесного крикуна",
+      "Himmelskreischer einsetzen",
+      "Acionar Estridente Celeste",
+      "Schieramento Urlacieli",
+      "비명날개 배치",
+      "佈署嘯天者",
+      "部署啸天者"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -13624,6 +13687,47 @@
     "Media": "inv_ore_blacktrilliumnugget.jpg"
   },
   {
+    "TagId": 405722,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Armadillo Riding Basics",
+      "Guía básica para montar armadillos",
+      "Fundamentos da Montaria de Tatu",
+      "Armadillo Riding Basics",
+      "Conceptos básicos del armadillo de montar",
+      "Bases de la monte de tatou",
+      "Основы езды на броненосце",
+      "Grundlagen des Gürteltierrollers",
+      "Fundamentos da Montaria de Tatu",
+      "Basi del Movimento dell'Armadillo",
+      "아르마딜로 구르기 기본",
+      "犰狳騎乘基本技巧",
+      "犰狳驾驶基础"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 405723,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boost Forward",
+      "Aceleración frontal",
+      "Propulsão à Frente",
+      "Boost Forward",
+      "Impulso hacia delante",
+      "Accélération vers l’avant",
+      "Ускорение вперед",
+      "Vorwärtsbeschleunigung",
+      "Propulsão à Frente",
+      "Spinta in Avanti",
+      "전방 급가속",
+      "加速前進",
+      "向前助推"
+    ]
+  },
+  {
     "TagId": 405724,
     "TagType": 26,
     "Names": [
@@ -13664,6 +13768,27 @@
       "就在附近"
     ],
     "Media": "inv_legion_faction_dreamweavers.jpg"
+  },
+  {
+    "TagId": 405726,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rev Engines",
+      "Acelerar motores",
+      "Acelerar Motores",
+      "Rev Engines",
+      "Revolucionar motores",
+      "Moteurs vrombissants",
+      "Ускорение моторов",
+      "Triebwerksheulen",
+      "Acelerar Motores",
+      "Su di Giri",
+      "동력장치 역행",
+      "加速引擎",
+      "回旋引擎"
+    ],
+    "Media": "6bf_rolling_fury.jpg"
   },
   {
     "TagId": 405727,
@@ -14231,6 +14356,48 @@
       "[DNT] Alexstrasza Advice Script"
     ],
     "Media": "spell_progenitor_areadenial.jpg"
+  },
+  {
+    "TagId": 405754,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rolling Boost",
+      "Aceleración rodante",
+      "Propulsão de Rolamento",
+      "Rolling Boost",
+      "Impulso rodante",
+      "Accélération enroulée",
+      "Ускоряющее вращение",
+      "Rollender Schub",
+      "Propulsão de Rolamento",
+      "Spinta Rotolante",
+      "구르기 급가속",
+      "翻滾加速",
+      "滚动推进"
+    ],
+    "Media": "6bf_rolling_fury.jpg"
+  },
+  {
+    "TagId": 405755,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Impulsive Leap",
+      "Salto impulsivo",
+      "Salto Impulsivo",
+      "Impulsive Leap",
+      "Salto espontáneo",
+      "Bond impulsif",
+      "Спонтанный прыжок",
+      "Impulsiver Satz",
+      "Salto Impulsivo",
+      "Balzo Impulsivo",
+      "충동적인 도약",
+      "噴射跳躍",
+      "劲冲飞跃"
+    ],
+    "Media": "ability_racial_rocketjump.jpg"
   },
   {
     "TagId": 405756,

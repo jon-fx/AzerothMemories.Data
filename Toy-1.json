@@ -4078,10 +4078,10 @@
     "TagType": 30,
     "Names": [
       null,
-      "Explorer's League Banner",
+      "Explorers' League Banner",
       "Estandarte de la Liga de Expedicionarios",
       "Estandarte da Liga dos Exploradores",
-      "Explorer's League Banner",
+      "Explorers' League Banner",
       "Estandarte de la Liga de Expedicionarios",
       "Bannière de la Ligue des explorateurs",
       "Знамя Лиги исследователей",
@@ -4404,7 +4404,7 @@
       "Boia Gigante Reutilizável",
       "Galleggiante Eccessivo Riutilizzabile",
       "재활용 가능한 심하게 큰 낚시찌",
-      "可回收的超大浮標",
+      "可重複使用的超大浮標",
       "可重复使用的巨型鱼漂"
     ],
     "Media": "achievement_profession_fishing_outlandangler.jpg"
@@ -6300,6 +6300,27 @@
     "Media": "inv_soloshufflepennantreward_icons_purple.jpg"
   },
   {
+    "TagId": 1449,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Abyss Caller Horn",
+      "Cuerno clamaabismos",
+      "Trompa do Chamado Abissal",
+      "Abyss Caller Horn",
+      "Cuerno de clamasimas",
+      "Cor des abysses",
+      "Рог призывателя глубин",
+      "Abgrundruferhorn",
+      "Trompa do Chamado Abissal",
+      "Corno Invocatore dell'Abisso",
+      "심연의 소환사 뿔피리",
+      "深淵呼喚者號角",
+      "深渊呼唤号角"
+    ],
+    "Media": "inv_misc_coin_14.jpg"
+  },
+  {
     "TagId": 1450,
     "TagType": 30,
     "Names": [
@@ -6319,6 +6340,27 @@
       "炉石游戏桌"
     ],
     "Media": "inv_hearthstone_gameboard.jpg"
+  },
+  {
+    "TagId": 1451,
+    "TagType": 30,
+    "Names": [
+      null,
+      "The Warband Map to Everywhere All At Once",
+      "El mapa de tropa de todas partes al mismo tiempo",
+      "Mapa do Bando de Guerra de Tudo Que É Lugar ao Mesmo Tempo",
+      "The Warband Map to Everywhere All At Once",
+      "Mapa de banda guerrera de todo a la vez en todas partes",
+      "La carte de bataillon de Partout en même temps",
+      "Карта отряда для всего, везде и сразу",
+      "Die Kriegsmeutenkarte für überall gleichzeitig",
+      "Mapa do Bando de Guerra de Tudo Que É Lugar ao Mesmo Tempo",
+      "Mappa della Brigata: Ovunque Contemporaneamente",
+      "모든 것과 모든 곳을 아우르는 전투부대 지도",
+      "萬應戰隊地圖",
+      "瞬息全战团地图"
+    ],
+    "Media": "inv_misc_map08.jpg"
   },
   {
     "TagId": 1452,
@@ -6426,6 +6468,48 @@
     "Media": "inv_hearthstone_gold.jpg"
   },
   {
+    "TagId": 1457,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Beautification Iris",
+      "Embellecimiento del iris",
+      "Íris do Embelezamento",
+      "Beautification Iris",
+      "Iris de embellecimiento",
+      "Iris d’embellissement",
+      "Линза красоты",
+      "Verschönerungsiris",
+      "Íris do Embelezamento",
+      "Iride dell'Abbellimento",
+      "미화의 동공",
+      "美化虹膜",
+      "美化之虹"
+    ],
+    "Media": "inv_misc_gem_variety_02.jpg"
+  },
+  {
+    "TagId": 1458,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Remembrance Stone",
+      "Piedra de recuerdos",
+      "Pedra Memorial",
+      "Remembrance Stone",
+      "Piedra de recuerdos",
+      "Pierre de réminiscence",
+      "Камень памяти",
+      "Gedenkstein",
+      "Pedra Memorial",
+      "Pietra della Rimembranza",
+      "회상의 돌",
+      "憶往石",
+      "纪念之石"
+    ],
+    "Media": "achievement_bg_xkills_avgraveyard.jpg"
+  },
+  {
     "TagId": 1461,
     "TagType": 30,
     "Names": [
@@ -6445,6 +6529,27 @@
       "鸭鸭伪装器"
     ],
     "Media": "inv_10_specialreagentfoozles_coolegg_bronze.jpg"
+  },
+  {
+    "TagId": 1462,
+    "TagType": 30,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_treasurechest03b.jpg"
   },
   {
     "TagId": 1464,
@@ -6514,10 +6619,10 @@
     "TagType": 30,
     "Names": [
       null,
-      "Kindness of Chi-ji",
+      "Kindness of Chi-Ji",
       "Amabilidad de Chi-Ji",
       "Bondade de Chi-Ji",
-      "Kindness of Chi-ji",
+      "Kindness of Chi-Ji",
       "Amabilidad de Chi-Ji",
       "Bonté de Chi Ji",
       "Доброта Чи-Цзи",
@@ -6636,12 +6741,33 @@
     "Media": "inv_mdi_awc_bannerreward_icons_red.jpg"
   },
   {
+    "TagId": 1473,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Box of Puntables",
+      "Caja de pateables",
+      "Caixa de Chutáveis",
+      "Box of Puntables",
+      "Caja de cosas pateables",
+      "Boîte de jouets à lancer",
+      "Пни-коробка",
+      "Kiste des Ver-Tretbaren",
+      "Caixa de Chutáveis",
+      "Scatola di Lanciabili",
+      "발로차 상자",
+      "踹踹之盒",
+      "一箱可踢物"
+    ],
+    "Media": "inv_misc_gift_01.jpg"
+  },
+  {
     "TagId": 1475,
     "TagType": 30,
     "Names": [
       null,
       "X-treme Water Blaster Display",
-      "Demostración de Cañón de agua eXtremo",
+      "Expositor de cañón de agua eXtremo",
       "Mostruário de Disparágua X-tremo",
       "X-treme Water Blaster Display",
       "Escaparate de pistolas de agua extremas",
@@ -6649,7 +6775,7 @@
       "Стойка с ИКС-ключительным брызгателем",
       "X-trem-Wasserstrahleranzeige",
       "Mostruário de Disparágua X-tremo",
-      "Schermo dell'Acquadator Extremo",
+      "Supporto dell'Acquadator Extremo",
       "초강력 물대포 전시대",
       "超強勁水流衝擊器顯示幕",
       "X极水波爆裂枪展示架"
@@ -6678,6 +6804,48 @@
     "Media": "inv_misc_herb_talandrasrose.jpg"
   },
   {
+    "TagId": 1477,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Barrel of Fireworks",
+      "Barril de fuegos artificiales",
+      "Barril de Fogos de Artifício",
+      "Barrel of Fireworks",
+      "Barril de fuegos artificiales",
+      "Tonneau de feux d’artifice",
+      "Бочка с фейерверками",
+      "Fass mit Feuerwerkskörpern",
+      "Barril de Fogos de Artifício",
+      "Barili di Fuochi d'Artificio",
+      "폭죽통",
+      "一桶煙火",
+      "一桶烟花"
+    ],
+    "Media": "inv_eng_crate.jpg"
+  },
+  {
+    "TagId": 1478,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Wormhole Generator: Khaz Algar",
+      "Generador de agujeros de gusano: Khaz Algar",
+      "Gerador de Buraco de Minhoca: Khaz Algar",
+      "Wormhole Generator: Khaz Algar",
+      "Generador de agujeros de gusano: Khaz Algar",
+      "Générateur de tunnel spatiotemporel\u00A0: Khaz Algar",
+      "Генератор червоточин: Каз Алгар",
+      "Wurmlochgenerator: Khaz Algar",
+      "Gerador de Buraco de Minhoca: Khaz Algar",
+      "Generatore di Tunnel Spaziotemporali: Khaz Algar",
+      "웜홀 생성기: 카즈 알가르",
+      "蟲洞產生器：卡茲阿爾加",
+      "虫洞发生器：卡兹阿加"
+    ],
+    "Media": "inv_10_engineering_device_gadget3_color2.jpg"
+  },
+  {
     "TagId": 1479,
     "TagType": 30,
     "Names": [
@@ -6697,5 +6865,530 @@
       "一袋雷裔之种"
     ],
     "Media": "inv_misc_bag_herbpouch.jpg"
+  },
+  {
+    "TagId": 1480,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Trusty Hat",
+      "Sombrero confiable",
+      "Chapéu de Estimação",
+      "Trusty Hat",
+      "Sombrero fiable",
+      "Fidèle chapeau",
+      "Верная шляпа",
+      "Treuer Hut",
+      "Chapéu de Estimação",
+      "Cappello Fidato",
+      "믿음직한 모자",
+      "信任之帽",
+      "可靠之帽"
+    ],
+    "Media": "inv_helm_armor_luckyhat_c_01_brown.jpg"
+  },
+  {
+    "TagId": 1483,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Memory Chord",
+      "Acorde de recuerdos",
+      "Acorde de Memória",
+      "Memory Chord",
+      "Acorde de recuerdo",
+      "Accord mémoriel",
+      "Аккорд памяти",
+      "Erinnerungsakkord",
+      "Acorde de Memória",
+      "Accordo di Ricordo",
+      "기억의 화음",
+      "記憶和音",
+      "记忆和弦"
+    ],
+    "Media": "spell_azerite_essence09.jpg"
+  },
+  {
+    "TagId": 1484,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Stuffed Bear",
+      "Oso disecado",
+      "Urso de Pelúcia",
+      "Stuffed Bear",
+      "Oso de peluche",
+      "Ours empaillé",
+      "Чучело медведя",
+      "Plüschbär",
+      "Urso de Pelúcia",
+      "Orso di Pezza",
+      "곰인형",
+      "填充熊",
+      "填充之熊"
+    ],
+    "Media": "ability_hunter_pet_bear.jpg"
+  },
+  {
+    "TagId": 1485,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Defective Escape Pod",
+      "Cápsula de escape defectuosa",
+      "Cápsula de Fuga com Defeito",
+      "Defective Escape Pod",
+      "Cápsula de escape defectuosa",
+      "Capsule de sauvetage défectueuse",
+      "Дефектная спасательная капсула",
+      "Defekte Rettungskapsel",
+      "Cápsula de Fuga com Defeito",
+      "Capsula di Salvataggio Difettosa",
+      "결함 있는 구명정",
+      "有瑕疵的逃生艙",
+      "逃生舱残次品"
+    ],
+    "Media": "ability_vehicle_siegeengineram.jpg"
+  },
+  {
+    "TagId": 1486,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Cave Spelunker's Torch",
+      "Antorcha de espeleólogo de cueva",
+      "Tocha do Espeleologista",
+      "Cave Spelunker's Torch",
+      "Antorcha de espeleólogo",
+      "Torche de spéléologue",
+      "Факел спелеолога",
+      "Fackel des Höhlenforschers",
+      "Tocha do Espeleologista",
+      "Torcia dello Speleologo",
+      "동굴 탐험가의 횃불",
+      "洞穴探勘者的火炬",
+      "洞穴探索者的火炬"
+    ],
+    "Media": "inv_torch_lit.jpg"
+  },
+  {
+    "TagId": 1487,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Silver Linin' Scepter",
+      "Cetro positivo",
+      "Cetro da Brisa Boa",
+      "Silver Linin' Scepter",
+      "Cetro de resquicio de esperanza",
+      "Sceptre des lueurs d’espoir",
+      "Скипетр позитивного взгляда",
+      "Silberstreifszepter",
+      "Cetro da Brisa Boa",
+      "Scettro del Lato Positivo",
+      "밝은 희망의 홀",
+      "凌雲權杖",
+      "银白核丝节杖"
+    ],
+    "Media": "inv_wand_16.jpg"
+  },
+  {
+    "TagId": 1488,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Stonebound Lantern",
+      "Farol vinculado a la piedra",
+      "Lanterna Pétrea",
+      "Stonebound Lantern",
+      "Farol petrificado",
+      "Lanterne liée à la pierre",
+      "Каменный фонарь",
+      "Steingebundene Laterne",
+      "Lanterna Pétrea",
+      "Lanterna Legapietra",
+      "바위속박 등불",
+      "石縛燈籠",
+      "石缚提灯"
+    ],
+    "Media": "inv_misc_trinket6oih_lanterna1.jpg"
+  },
+  {
+    "TagId": 1489,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Hanna's Locket",
+      "Guardapelo de Hanna",
+      "Medalhão de Hanna",
+      "Hanna's Locket",
+      "Guardapelo de Hanna",
+      "Médaillon de Hanna",
+      "Медальон Ханны",
+      "Hannas Medaillon",
+      "Medalhão de Hanna",
+      "Medaglione di Hanna",
+      "한나의 펜던트",
+      "漢娜的墜盒",
+      "汉娜的吊坠"
+    ],
+    "Media": "inv_jewelry_amulet_04.jpg"
+  },
+  {
+    "TagId": 1490,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Pet-Sized Candle",
+      "Vela para mascotas",
+      "Vela Tamanho Mascote",
+      "Pet-Sized Candle",
+      "Vela para mascotas",
+      "Bougie de taille mascotte",
+      "Свечка для питомца",
+      "Kerze in Haustiergröße",
+      "Vela Tamanho Mascote",
+      "Candela per Mascotte",
+      "애완동물 크기 양초",
+      "寵物用蠟燭",
+      "适合宠物的蜡烛"
+    ],
+    "Media": "inv_helm_misc_candle_a_01.jpg"
+  },
+  {
+    "TagId": 1491,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Sovereign's Finery Chest",
+      "Cofre de galas soberano",
+      "Baú de Ornatos do Soberano",
+      "Sovereign's Finery Chest",
+      "Cofre de galas soberanas",
+      "Coffre de tenues royales",
+      "Сундук с убранством знати",
+      "Truhe des adeligen Aufputzes",
+      "Baú de Ornatos do Soberano",
+      "Scrigno di Sfarzosità del Sovrano",
+      "군주의 예복 보관함",
+      "統御者的華服寶箱",
+      "君主华服之箱"
+    ],
+    "Media": "inv_cape_special_treasure_c_01.jpg"
+  },
+  {
+    "TagId": 1493,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Web-Vandal's Spinning Wheel",
+      "Rueca de vándalo de telarañas",
+      "Roda de Fiar da Vandateia",
+      "Web-Vandal's Spinning Wheel",
+      "Rueca de vándalo de telaraña",
+      "Rouet de vandale de la toile",
+      "Прялка паутинного вандала",
+      "Spinnrad der Webvandalen",
+      "Roda de Fiar da Vandateia",
+      "Filatoio del Vandalo della Tela",
+      "거미줄 난봉꾼의 물레",
+      "絲網破壞蟲的紡車",
+      "蛛网破坏者的纺织之轮"
+    ],
+    "Media": "inv_tailoring_modifiedcraftingreagent_indigo.jpg"
+  },
+  {
+    "TagId": 1494,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Filmless Camera",
+      "Cámara sin rollo",
+      "Câmera Sem Filme",
+      "Filmless Camera",
+      "Cámara sin carrete",
+      "Appareil photo sans pellicule",
+      "Камера без пленки",
+      "Filmlose Kamera",
+      "Câmera Sem Filme",
+      "Fotocamera Senza Pellicola",
+      "필름 없는 사진기",
+      "沒有底片的相機",
+      "无胶卷相机"
+    ],
+    "Media": "inv_misc_ selfiecamera_02.jpg"
+  },
+  {
+    "TagId": 1495,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Toxic Victory",
+      "Victoria tóxica",
+      "Vitória Tóxica",
+      "Toxic Victory",
+      "Victoria tóxica",
+      "Victoire toxique",
+      "Ядовитая победа",
+      "Toxischer Sieg",
+      "Vitória Tóxica",
+      "Vittoria Tossica",
+      "유독한 승리",
+      "劇毒勝利",
+      "剧毒凯旋"
+    ],
+    "Media": "inv_ability_poison_buff.jpg"
+  },
+  {
+    "TagId": 1496,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Illusive Kobyss Lure",
+      "Cebo kobismal engañoso",
+      "Isca Kobyss Ilusiva",
+      "Illusive Kobyss Lure",
+      "Cebo kobismal ilusorio",
+      "Appât kobyss illusoire",
+      "Иллюзорная приманка для кобиссов",
+      "Trügerischer Kobyssköder",
+      "Isca Kobyss Ilusiva",
+      "Esca per Kobyss Illusoria",
+      "교묘한 코비스 미끼",
+      "幻影寇拜斯誘餌",
+      "幻象蜃鱼人诱饵"
+    ],
+    "Media": "inv_helm_armor_kobyssangler_d_01.jpg"
+  },
+  {
+    "TagId": 1497,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Arathi Book Collection",
+      "Colección de libros arathi",
+      "Coleção de Livros Arathi",
+      "Arathi Book Collection",
+      "Colección de libros arathi",
+      "Collection de livres arathis",
+      "Коллекция аратийских книг",
+      "Arathi-Buchsammlung",
+      "Coleção de Livros Arathi",
+      "Collezione di Libri degli Arathi",
+      "아라시 책 수집품",
+      "阿拉希書籍收藏",
+      "阿拉索书集"
+    ],
+    "Media": "inv_toy_booklibrary.jpg"
+  },
+  {
+    "TagId": 1498,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Pileus Delight",
+      "Delicia de píleo",
+      "Deleite de Píleo",
+      "Pileus Delight",
+      "Delicia de píleo",
+      "Délice de poils",
+      "Чудесная шляпка",
+      "Pileus-Freude",
+      "Deleite de Píleo",
+      "Delizia del Pileo",
+      "버섯의 환희",
+      "菌蓋歡愉",
+      "美味菌伞"
+    ],
+    "Media": "inv_misc_herb_tornfoolscap.jpg"
+  },
+  {
+    "TagId": 1499,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Forged Legend's Pennant",
+      "Grímpola de leyenda forjada",
+      "Galhardete da Lenda Forjada",
+      "Forged Legend's Pennant",
+      "Grímpola de Leyenda Forjada",
+      "Pennon de légende forgé",
+      "Флаг кованой легенды",
+      "Wimpel der geschmiedeten Legende",
+      "Galhardete da Lenda Forjada",
+      "Vessillo della Leggenda Forgiata",
+      "제련된 전설의 깃발",
+      "百鍊傳奇錦旗",
+      "炉铸传说的旌旗"
+    ],
+    "Media": "inv_soloshufflepennantreward_icons_red.jpg"
+  },
+  {
+    "TagId": 1500,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Forged Flag of Victory",
+      "Bandera de victoria forjada",
+      "Bandeira da Vitória Forjada",
+      "Forged Flag of Victory",
+      "Bandera de victoria forjada",
+      "Drapeau de la victoire forgé",
+      "Кованый флаг победы",
+      "Geschmiedete Siegesflagge",
+      "Bandeira da Vitória Forjada",
+      "Bandiera della Vittoria Forgiata",
+      "제련된 승리의 깃발",
+      "百鍊勝利戰旗",
+      "炉铸胜利旗帜"
+    ],
+    "Media": "inv_axe_2h_kobold_pickaxe_a_01.jpg"
+  },
+  {
+    "TagId": 1501,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Ancient Construct",
+      "Ensamblaje antiguo",
+      "Constructo Antigo",
+      "Ancient Construct",
+      "Ensamblaje anciano",
+      "Assemblage ancien",
+      "Древний голем",
+      "Uraltes Konstrukt",
+      "Constructo Antigo",
+      "Costrutto Antico",
+      "고대의 피조물",
+      "遠古傀儡",
+      "上古构造体"
+    ],
+    "Media": "archaeology_5_0_anatomicaldummy.jpg"
+  },
+  {
+    "TagId": 1502,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Web Pet Leash",
+      "Correa para mascotas de telaraña",
+      "Coleira de Teia",
+      "Web Pet Leash",
+      "Correa de telaraña para mascotas",
+      "Laisse en toile pour mascotte",
+      "Паутинный поводок для питомца",
+      "Netztierleine",
+      "Coleira de Teia",
+      "Guinzaglio di Ragnatela per Mascotte",
+      "애완동물 거미줄 목줄",
+      "蛛網寵物鍊",
+      "网宠绳"
+    ],
+    "Media": "inv_ability_web_beam.jpg"
+  },
+  {
+    "TagId": 1503,
+    "TagType": 30,
+    "Names": [
+      null,
+      "General's Expertise",
+      "Pericia del general",
+      "Conhecimento de General",
+      "General's Expertise",
+      "Pericia del general",
+      "Expertise du général",
+      "Опыт генерала",
+      "Expertise des Generals",
+      "Conhecimento de General",
+      "Perizia del Generale",
+      "장군의 노련함",
+      "將軍的專長",
+      "将军的专长"
+    ],
+    "Media": "inv_10_inscription2_book2_color1.jpg"
+  },
+  {
+    "TagId": 1504,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Infiltrator's Shroud",
+      "Sudario de infiltrado",
+      "Mortalha do Infiltrador",
+      "Infiltrator's Shroud",
+      "Sudario de infiltrado",
+      "Voile d’infiltration",
+      "Покров шпиона",
+      "Schleier des Infiltrators",
+      "Mortalha do Infiltrador",
+      "Manto dell'Infiltrato",
+      "침투자의 장막",
+      "滲透者罩氅",
+      "渗透者遮罩"
+    ],
+    "Media": "achievement_boss_triumvirate_shadowguardetherealmelee.jpg"
+  },
+  {
+    "TagId": 1505,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Unbound Legend's Pennant",
+      "Grímpola de leyenda desatada",
+      "Galhardete da Lenda Desvinculada",
+      "Unbound Legend's Pennant",
+      "Grímpola de Leyenda desvinculada",
+      "Pennon de légende déliée",
+      "Флаг освобожденной легенды",
+      "Wimpel der ungebundenen Legende",
+      "Galhardete da Lenda Desvinculada",
+      "Vessillo della Leggenda Svincolata",
+      "해방된 전설의 깃발",
+      "無縛者傳奇錦旗",
+      "无缚传说的旌旗"
+    ],
+    "Media": "inv_soloshufflepennantreward_icons_green.jpg"
+  },
+  {
+    "TagId": 1506,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Unbound Strategist's Pennant",
+      "Grímpola de estratega desatado",
+      "Galhardete do Estrategista Desvinculado",
+      "Unbound Strategist's Pennant",
+      "Grímpola de Estratega desvinculada",
+      "Pennon de stratège délié",
+      "Флаг освобожденного стратега",
+      "Wimpel des ungebundenen Strategen",
+      "Galhardete do Estrategista Desvinculado",
+      "Vessillo dello Stratega Svincolato",
+      "해방된 전략가의 깃발",
+      "無縛者謀略家錦旗",
+      "无缚战略家的旌旗"
+    ],
+    "Media": "inv_soloshufflepennantreward_icons_teal.jpg"
+  },
+  {
+    "TagId": 1508,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Lampyridae Caller",
+      "Invocalampíridos",
+      "Invocador de Lampirídeos",
+      "Lampyridae Caller",
+      "Invocador de lampíridos",
+      "Appel de lampyrides",
+      "Призыв светляков",
+      "Leuchtkäferrufer",
+      "Invocador de Lampirídeos",
+      "Richiamo per Lampiridi",
+      "점등원 호출기",
+      "螢火蟲呼叫器",
+      "飞萤呼唤者"
+    ],
+    "Media": "inv_misc_lantern_01.jpg"
   }
 ]

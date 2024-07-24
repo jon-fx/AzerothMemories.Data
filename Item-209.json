@@ -6599,7 +6599,7 @@
     "Names": [
       null,
       "Thundering Stormrider's Helmet",
-      "Casco atronador de jinete de la tormenta",
+      "Casco de jinete de la tormenta atronador",
       "Capacete do Cavalgaventos Trovejante",
       "Thundering Stormrider's Helmet",
       "Casco de jinete de la tormenta atronador",
@@ -6620,7 +6620,7 @@
     "Names": [
       null,
       "Thundering Stormrider's Epaulets",
-      "Cubrehombros atronadores de jinete de la tormenta",
+      "Cubrehombros de jinete de la tormenta atronador",
       "Palas do Cavalgaventos Trovejante",
       "Thundering Stormrider's Epaulets",
       "Cubrehombros de jinete de la tormenta atronador",
@@ -6641,7 +6641,7 @@
     "Names": [
       null,
       "Thundering Stormrider's Buckle",
-      "Hebilla atronadora de jinete de la tormenta",
+      "Hebilla de jinete de la tormenta atronador",
       "Fivela do Cavalgaventos Trovejante",
       "Thundering Stormrider's Buckle",
       "Hebilla de jinete de la tormenta atronador",
@@ -8300,7 +8300,7 @@
     "Names": [
       null,
       "Ensemble: Thundering Stormrider's Attire",
-      "Conjunto: Ropajes atronadores de jinete de la tormenta",
+      "Conjunto: Ropajes de jinete de la tormenta atronador",
       "Indumentária: Traje do Cavalgaventos Trovejante",
       "Ensemble: Thundering Stormrider's Attire",
       "Indumentaria: Atuendo de jinete de la tormenta atronador",
@@ -8398,6 +8398,90 @@
       "熊灵之石"
     ],
     "Media": "inv_misc_druidstone03.jpg"
+  },
+  {
+    "TagId": 209431,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fungal Scraper",
+      "Quitahongos",
+      "Raspador Fúngico",
+      "Fungal Scraper",
+      "Rascador fúngico",
+      "Grattoir fongique",
+      "Грибковый скребок",
+      "Pilzschaber",
+      "Raspador Fúngico",
+      "Grattafunghi",
+      "균류 싸움꾼",
+      "真菌刮刀",
+      "真菌刮擦器"
+    ],
+    "Media": "inv_misc_1h_ironhordetools_a_01.jpg"
+  },
+  {
+    "TagId": 209433,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_starspecklemushroom.jpg"
+  },
+  {
+    "TagId": 209434,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "druid_ability_wildmushroom_b.jpg"
+  },
+  {
+    "TagId": 209435,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_mushroom_06.jpg"
   },
   {
     "TagId": 209437,
@@ -10689,6 +10773,27 @@
     "Media": "ability_druid_manatree.jpg"
   },
   {
+    "TagId": 209605,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_enchant_voidcrystal.jpg"
+  },
+  {
     "TagId": 209609,
     "TagType": 21,
     "Names": [
@@ -12432,6 +12537,27 @@
     "Media": "inv_gizmo_07.jpg"
   },
   {
+    "TagId": 209788,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dispersion Crystal",
+      "Cristal de dispersión",
+      "Cristal de Dispersão",
+      "Dispersion Crystal",
+      "Cristal de dispersión",
+      "Cristal de dispersion",
+      "Кристалл рассеивания",
+      "Zerstreuungskristall",
+      "Cristal de Dispersão",
+      "Cristallo di Dispersione",
+      "분산 수정",
+      "散射水晶",
+      "消散水晶"
+    ],
+    "Media": "inv_datacrystal02.jpg"
+  },
+  {
     "TagId": 209795,
     "TagType": 21,
     "Names": [
@@ -12705,6 +12831,27 @@
     "Media": "inv_potionf_4.jpg"
   },
   {
+    "TagId": 209854,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hillhelm Remnant Supply",
+      "Suministros de remanentes de Yelmonte",
+      "Suprimento Restante de Montelmo",
+      "Hillhelm Remnant Supply",
+      "Suministros de restos de Yelmocolina",
+      "Ravitaillement de vestige de Heaume-Colline",
+      "Остатки запасов Хиллхельма",
+      "Überrestevorrat des Hügelpinnenhofs",
+      "Suprimento Restante de Montelmo",
+      "Rifornimenti di Residui di Elmocolle",
+      "힐헬름 잔여 보급품",
+      "西爾海姆殘渣補給",
+      "希尔海姆残存补给"
+    ],
+    "Media": "inv_crate_01.jpg"
+  },
+  {
     "TagId": 209856,
     "TagType": 21,
     "Names": [
@@ -12724,6 +12871,27 @@
       "膨胀时间之荚"
     ],
     "Media": "inv_belt_armor_waistoftime_d_01.jpg"
+  },
+  {
+    "TagId": 209857,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Unusual Seeds",
+      "Semillas inusuales",
+      "Sementes Incomuns",
+      "Unusual Seeds",
+      "Semillas inusuales",
+      "Graines insolites",
+      "Необычные семена",
+      "Ungewöhnliche Samen",
+      "Sementes Incomuns",
+      "Semi Insoliti",
+      "특이한 씨앗",
+      "不尋常的種子",
+      "异常之种"
+    ],
+    "Media": "inv_farm_kypariteseed.jpg"
   },
   {
     "TagId": 209858,

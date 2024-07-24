@@ -21,6 +21,27 @@
     "Media": "spell_fire_burningspeed.jpg"
   },
   {
+    "TagId": 418004,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stun",
+      "Aturdimiento",
+      "Atordoar",
+      "Stun",
+      "Aturdir",
+      "Étourdissement",
+      "Оглушение",
+      "Betäuben",
+      "Atordoar",
+      "Stordimento",
+      "기절",
+      "昏迷",
+      "昏迷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 418005,
     "TagType": 26,
     "Names": [
@@ -1951,6 +1972,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 418108,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Living Flame",
+      "Llama viva",
+      "Chama Viva",
+      "Living Flame",
+      "Llama viva",
+      "Living Flame",
+      "Живой жар",
+      "Lebende Flamme",
+      "Chama Viva",
+      "Fiamma Vivente",
+      "살아있는 불꽃",
+      "生命烈焰",
+      "活化烈焰"
+    ],
+    "Media": "ability_evoker_livingflame.jpg"
+  },
+  {
     "TagId": 418109,
     "TagType": 26,
     "Names": [
@@ -2012,6 +2054,27 @@
       "[DNT] Update"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 418112,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Orb of Devastation",
+      "Orbe de devastación",
+      "Orbe da Devastação",
+      "Orb of Devastation",
+      "Orbe de devastación",
+      "Orbe de dévastation",
+      "Сфера опустошения",
+      "Kugel der Verheerung",
+      "Orbe da Devastação",
+      "Globo della Devastazione",
+      "황폐의 보주",
+      "毀滅球體",
+      "毁灭宝珠"
+    ],
+    "Media": "spell_mage_arcaneorb_nightborne.jpg"
   },
   {
     "TagId": 418113,
@@ -3799,6 +3862,48 @@
     "Media": "shaman_talent_elementalblast.jpg"
   },
   {
+    "TagId": 418217,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fiery Destruction",
+      "Destrucción ígnea",
+      "Destruição de Fogo",
+      "Fiery Destruction",
+      "Destrucción ígnea",
+      "Destruction embrasée",
+      "Огненное разрушение",
+      "Feurige Vernichtung",
+      "Destruição de Fogo",
+      "Distruzione Ardente",
+      "불타는 파괴",
+      "熾熱毀滅",
+      "火焰毁灭"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 418218,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area Denial",
+      "Restricción de acceso",
+      "Negação de Área",
+      "Area Denial",
+      "Restricción de zona",
+      "Condamnation de zone",
+      "Огонь на воспрещение",
+      "Gefahrenzone",
+      "Negação de Área",
+      "Area di Negazione",
+      "지역 봉쇄",
+      "拒斥區域",
+      "区域拒止"
+    ],
+    "Media": "inv_fyrakk_dragonbreath.jpg"
+  },
+  {
     "TagId": 418219,
     "TagType": 26,
     "Names": [
@@ -4534,6 +4639,27 @@
     "Media": "spell_arcane_portalashran.jpg"
   },
   {
+    "TagId": 418262,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Grasp",
+      "Yugo del Vacío",
+      "Garra do Caos",
+      "Void Grasp",
+      "Agarre del Vacío",
+      "Emprise du Vide",
+      "Хватка Бездны",
+      "Leerenpacken",
+      "Garra do Caos",
+      "Stretta del Vuoto",
+      "공허 손아귀",
+      "虛無攫取",
+      "虚空之握"
+    ],
+    "Media": "spell_priest_voidsear.jpg"
+  },
+  {
     "TagId": 418263,
     "TagType": 26,
     "Names": [
@@ -4826,6 +4952,27 @@
       "击碎时光锁"
     ],
     "Media": "spell_paladin_lightshammer.jpg"
+  },
+  {
+    "TagId": 418277,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)",
+      "Summon (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 418278,
@@ -5122,6 +5269,27 @@
     "Media": "ability_mage_massinvisibility.jpg"
   },
   {
+    "TagId": 418292,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Bolt",
+      "Descarga del Vacío",
+      "Seta Caótica",
+      "Void Bolt",
+      "Descarga del Vacío",
+      "Éclair de Vide",
+      "Стрела Бездны",
+      "Leerenblitz",
+      "Seta Caótica",
+      "Dardo del Vuoto",
+      "공허의 화살",
+      "虛無箭",
+      "虚空箭"
+    ],
+    "Media": "spell_priest_voidsear.jpg"
+  },
+  {
     "TagId": 418293,
     "TagType": 26,
     "Names": [
@@ -5141,6 +5309,90 @@
       "Dowsing - Igira's Watch - Trader Scene [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 418294,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Umbral Slash",
+      "Corte umbrío",
+      "Talho Umbrático",
+      "Umbral Slash",
+      "Tajo umbrío",
+      "Entaille ombreuse",
+      "Теневой удар",
+      "Umbralschlitzer",
+      "Talho Umbrático",
+      "Taglio Ombroso",
+      "암영 베기",
+      "陰晦爪擊",
+      "幽影斩击"
+    ],
+    "Media": "spell_arcane_blink.jpg"
+  },
+  {
+    "TagId": 418295,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Umbral Slash",
+      "Corte umbrío",
+      "Talho Umbrático",
+      "Umbral Slash",
+      "Tajo umbrío",
+      "Entaille ombreuse",
+      "Теневой удар",
+      "Umbralschlitzer",
+      "Talho Umbrático",
+      "Taglio Ombroso",
+      "암영 베기",
+      "陰晦爪擊",
+      "幽影斩击"
+    ],
+    "Media": "inv_weapon_shortblade_52.jpg"
+  },
+  {
+    "TagId": 418296,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Umbral Slash",
+      "Corte umbrío",
+      "Talho Umbrático",
+      "Umbral Slash",
+      "Tajo umbrío",
+      "Entaille ombreuse",
+      "Теневой удар",
+      "Umbralschlitzer",
+      "Talho Umbrático",
+      "Taglio Ombroso",
+      "암영 베기",
+      "陰晦爪擊",
+      "幽影斩击"
+    ],
+    "Media": "inv_weapon_shortblade_52.jpg"
+  },
+  {
+    "TagId": 418297,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Castigate",
+      "Castigar",
+      "Castigar",
+      "Castigate",
+      "Reprender",
+      "Châtier",
+      "Бичевание",
+      "Züchtigen",
+      "Castigar",
+      "Rimprovero",
+      "혹독",
+      "嚴罰",
+      "严惩"
+    ],
+    "Media": "spell_shadow_mindshear.jpg"
   },
   {
     "TagId": 418298,
@@ -8817,6 +9069,27 @@
     "Media": "creatureportrait_bubble.jpg"
   },
   {
+    "TagId": 418512,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]",
+      "Assign Kill Credit to Player Target ONLY - Points 0 [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 418513,
     "TagType": 26,
     "Names": [
@@ -10326,6 +10599,27 @@
       "[DNT] Gnolls Defeated",
       "[DNT] Gnolls Defeated"
     ]
+  },
+  {
+    "TagId": 418596,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]",
+      "Assign Kill Credit to Player and Group - Points 0 [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 418597,
@@ -13818,19 +14112,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Blade Rush",
-      "Arremetida filosa",
-      "Ímpeto da Lâmina",
-      "Blade Rush",
-      "Carga de hojas",
-      "Volée de lames",
-      "Натиск клинка",
-      "Klingenansturm",
-      "Ímpeto da Lâmina",
-      "Scatto Tagliente",
-      "질풍 칼날",
-      "劍刃猛攻",
-      "刀锋冲刺"
+      "Blade Toss",
+      "Lanzamiento de hoja",
+      "Arremesso de Lâmina",
+      "Blade Toss",
+      "Lanzar hoja",
+      "Lancer de lame",
+      "Бросок клинка",
+      "Klingenwurf",
+      "Arremesso de Lâmina",
+      "Lancio Lama",
+      "칼날 던지기",
+      "刀刃投擲",
+      "刀锋飞掷"
     ],
     "Media": "inv_sword_1h_mantidarch_c_01.jpg"
   },
@@ -13839,19 +14133,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Blade Rush",
-      "Arremetida filosa",
-      "Ímpeto da Lâmina",
-      "Blade Rush",
-      "Carga de hojas",
-      "Volée de lames",
-      "Натиск клинка",
-      "Klingenansturm",
-      "Ímpeto da Lâmina",
-      "Scatto Tagliente",
-      "질풍 칼날",
-      "劍刃猛攻",
-      "刀锋冲刺"
+      "Blade Toss",
+      "Lanzamiento de hoja",
+      "Arremesso de Lâmina",
+      "Blade Toss",
+      "Lanzar hoja",
+      "Lancer de lame",
+      "Бросок клинка",
+      "Klingenwurf",
+      "Arremesso de Lâmina",
+      "Lancio Lama",
+      "칼날 던지기",
+      "刀刃投擲",
+      "刀锋飞掷"
     ],
     "Media": "inv_sword_1h_mantidarch_c_01.jpg"
   },
@@ -13860,19 +14154,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Blade Rush",
-      "Arremetida filosa",
-      "Ímpeto da Lâmina",
-      "Blade Rush",
-      "Carga de hojas",
-      "Volée de lames",
-      "Натиск клинка",
-      "Klingenansturm",
-      "Ímpeto da Lâmina",
-      "Scatto Tagliente",
-      "질풍 칼날",
-      "劍刃猛攻",
-      "刀锋冲刺"
+      "Blade Toss",
+      "Lanzamiento de hoja",
+      "Arremesso de Lâmina",
+      "Blade Toss",
+      "Lanzar hoja",
+      "Lancer de lame",
+      "Бросок клинка",
+      "Klingenwurf",
+      "Arremesso de Lâmina",
+      "Lancio Lama",
+      "칼날 던지기",
+      "刀刃投擲",
+      "刀锋飞掷"
     ],
     "Media": "inv_sword_1h_mantidarch_c_01.jpg"
   },

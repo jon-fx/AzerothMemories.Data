@@ -735,6 +735,69 @@
     "Media": "inv_shadebeastmount_gray.jpg"
   },
   {
+    "TagId": 2115,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Soar",
+      "Elevarse",
+      "Voar Alto",
+      "Soar",
+      "Remontar",
+      "Envol",
+      "Парение",
+      "Segeln",
+      "Voar Alto",
+      "Volteggio",
+      "비상",
+      "飛騰",
+      "翱翔"
+    ],
+    "Media": "ability_racial_soar.jpg"
+  },
+  {
+    "TagId": 2116,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Remembered Golden Gryphon",
+      "Grifo dorado recordado",
+      "Grifo Dourado Lembrado",
+      "Remembered Golden Gryphon",
+      "Grifo dorado recordado",
+      "Griffon doré remémoré",
+      "Золотистый грифон из воспоминания",
+      "Unvergessener goldener Greif",
+      "Grifo Dourado Lembrado",
+      "Ricordo di Grifone Dorato",
+      "기억 속의 황금빛 그리핀",
+      "記憶中的金色獅鷲獸",
+      "旧忆金色狮鹫"
+    ],
+    "Media": "ability_mount_goldengryphon.jpg"
+  },
+  {
+    "TagId": 2117,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Remembered Wind Rider",
+      "Jinete del viento recordado",
+      "Mantícora Lembrada",
+      "Remembered Wind Rider",
+      "Jinete del viento recordado",
+      "Coursier du vent remémoré",
+      "Ветрокрыл из воспоминания",
+      "Unvergessener Windreiter",
+      "Mantícora Lembrada",
+      "Ricordo di Viverna dei Venti",
+      "기억 속의 와이번",
+      "記憶中的蠍尾獅",
+      "旧忆双足飞龙"
+    ],
+    "Media": "ability_mount_tawnywindrider.jpg"
+  },
+  {
     "TagId": 2118,
     "TagType": 22,
     "Names": [
@@ -754,6 +817,27 @@
       "琥珀翼手龙"
     ],
     "Media": "ability_mount_pterodactylmount.jpg"
+  },
+  {
+    "TagId": 2119,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Stonevault Mechsuit",
+      "Mecatraje de la Bóveda de Piedra",
+      "Batedor de Traje de Meca",
+      "Stonevault Mechsuit",
+      "Mecatraje Grutacanto",
+      "Mécarmure cavepierre",
+      "Мехакостюм из Каменного Свода",
+      "Steingewölbemechanzug",
+      "Batedor de Traje de Meca",
+      "Meccanotuta della Volta di Pietra",
+      "바위금고 기계복",
+      "石庫機甲",
+      "矶石宝库机甲"
+    ],
+    "Media": "inv_dwarvenmechboss.jpg"
   },
   {
     "TagId": 2140,
@@ -819,6 +903,27 @@
     "Media": "inv_celestialserpentmount_gold.jpg"
   },
   {
+    "TagId": 2144,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Delver's Dirigible",
+      "Dirigible de surcabismos",
+      "Dirigível do Imersor",
+      "Delver's Dirigible",
+      "Dirigible de explorador de profundidades",
+      "Dirigeable des archéologues",
+      "Дирижабль для вылазок",
+      "Luftschiff des Tiefenforschers",
+      "Dirigível do Imersor",
+      "Dirigibile delle Scorribande",
+      "구렁 탐험가의 비행선",
+      "探究者飛船",
+      "地下堡行者的飞船"
+    ],
+    "Media": "ability_mount_gyrocoptorelite.jpg"
+  },
+  {
     "TagId": 2145,
     "TagType": 22,
     "Names": [
@@ -840,6 +945,48 @@
     "Media": "inv_goblinsurfboardmount_blue.jpg"
   },
   {
+    "TagId": 2148,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Smoldering Cinderbee",
+      "Cenizabeja abrasadora",
+      "Cinzabelha Fumegante",
+      "Smoldering Cinderbee",
+      "Cenizabeja humeante",
+      "Cendrabeille fumante",
+      "Тлеющая золопчела",
+      "Qualmende Glutbiene",
+      "Cinzabelha Fumegante",
+      "Ape di Cenere Infuocata",
+      "이글거리는 잿불벌",
+      "悶燃燼蜂",
+      "焖燃燧烬蜂"
+    ],
+    "Media": "inv_firebeemount_.jpg"
+  },
+  {
+    "TagId": 2150,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Skyflayer",
+      "Azotador celestial sañoso",
+      "Esfolador-celeste Cruel",
+      "Vicious Skyflayer",
+      "Despellejador del cielo sañoso",
+      "Écorcheur-céleste vicieux",
+      "Злобный неборез",
+      "Brutaler Himmelsschinder",
+      "Esfolador-celeste Cruel",
+      "Sfregiacieli Malvagio",
+      "흉포한 하늘약탈자",
+      "兇惡天劫蟲",
+      "勇猛的剥天者"
+    ],
+    "Media": "inv_viciousflyingnerubian2_horde.jpg"
+  },
+  {
     "TagId": 2152,
     "TagType": 22,
     "Names": [
@@ -859,6 +1006,153 @@
       "珠辉地精斩浪者"
     ],
     "Media": "inv_goblinsurfboardmount_white.jpg"
+  },
+  {
+    "TagId": 2158,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crowd Pummeler 2-30",
+      "Aporreador masivo 2-30",
+      "Espanca-gente 2-30",
+      "Crowd Pummeler 2-30",
+      "Golpeamasa 2-30",
+      "Disperseur de foule 2-30",
+      "\"Толпогон 2-30\"",
+      "Meuteverprügler 2-30",
+      "Espanca-gente 2-30",
+      "Pungolatore 2-30",
+      "고철 압축기 2-30",
+      "群體打擊者2-30",
+      "群体打击者2-30"
+    ],
+    "Media": "inv_dwarvenmechboss_gold.jpg"
+  },
+  {
+    "TagId": 2159,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Machine Defense Unit 1-11",
+      "Unidad de defensa mecánica 1-11",
+      "Unidade de Defesa Mecânica 1-11",
+      "Machine Defense Unit 1-11",
+      "Unidad de defensa mecanizada 1-11",
+      "Unité de défense mécanique\u00A01-11",
+      "Оборонительный модуль 1-11",
+      "Maschinenverteidigungseinheit 1-11",
+      "Unidade de Defesa Mecânica 1-11",
+      "Unità di Difesa della Macchina 1-11",
+      "기계 방어 장치 1-11",
+      "機械防禦單位1-11",
+      "主机防御单位1-11"
+    ],
+    "Media": "inv_dwarvenmechboss_bronze.jpg"
+  },
+  {
+    "TagId": 2162,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Cyan Glowmite",
+      "Brillácaro cian",
+      "Luminácaro Ciano",
+      "Cyan Glowmite",
+      "Polibrilla cian",
+      "Mite luisante cyan",
+      "Бирюзовый светлячок",
+      "Türkisfarbene Glühmilbe",
+      "Luminácaro Ciano",
+      "Luminacaro Ciano",
+      "청록색 발광진드기",
+      "青藍微光蜱蟲",
+      "天蓝萤光螨"
+    ],
+    "Media": "inv_firefly2mount_blue.jpg"
+  },
+  {
+    "TagId": 2176,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Alunira",
+      "Alunira",
+      "Alunira",
+      "Alunira",
+      "Alunira",
+      "Alunira",
+      "Алунира",
+      "Alunira",
+      "Alunira",
+      "Alunira",
+      "알루니라",
+      "阿盧尼拉",
+      "阿鲁尼拉"
+    ],
+    "Media": "inv_gryphon_air_mount_grey.jpg"
+  },
+  {
+    "TagId": 2177,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Aquamarine Swarmite",
+      "Enjambróptero aguamarina",
+      "Enxamito Água-marinha",
+      "Aquamarine Swarmite",
+      "Enjambrille de aguamarina",
+      "Essaimite aigue-marine",
+      "Аквамариновый летающий роевик",
+      "Wasserblaue Schwärmilbe",
+      "Enxamito Água-marinha",
+      "Acaro Sciamante d'Acquamarina",
+      "남옥 무리진드기",
+      "青綠蜱群",
+      "青绿石群聚虫"
+    ],
+    "Media": "inv_flyingnerubian2mount_green.jpg"
+  },
+  {
+    "TagId": 2180,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Shadowed Swarmite",
+      "Enjambróptero ensombrecido",
+      "Enxamito Obscuro",
+      "Shadowed Swarmite",
+      "Enjambrille ensombrecido",
+      "Essaimite ombreuse",
+      "Помраченный летающий роевик",
+      "Schattenhafte Schwärmilbe",
+      "Enxamito Obscuro",
+      "Acaro Sciamante Adombrato",
+      "어둠에 물든 무리진드기",
+      "暗影蜱群",
+      "影遁群聚虫"
+    ],
+    "Media": "inv_flyingnerubian2mount_black.jpg"
+  },
+  {
+    "TagId": 2184,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ferocious Jawcrawler",
+      "Gnatorreptador feroz",
+      "Rastaqueixo Feroz",
+      "Ferocious Jawcrawler",
+      "Reptafauces feroz",
+      "Rampegueule féroce",
+      "Яростный червегрыз",
+      "Wilder Kieferkrabbler",
+      "Rastaqueixo Feroz",
+      "Strisciafauci Feroce",
+      "흉포한 아귀벌레",
+      "兇猛的爬顎者",
+      "凶猛的利颚爬行者"
+    ],
+    "Media": "inv_caveborerwormmount_orange.jpg"
   },
   {
     "TagId": 2186,
@@ -943,6 +1237,69 @@
       "幽光腐化巨兽"
     ],
     "Media": "inv_oldgodfishmount_purple.jpg"
+  },
+  {
+    "TagId": 2191,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Shackled Shadow",
+      "Sombra encadenada",
+      "Sombra Agrilhoada",
+      "Shackled Shadow",
+      "Sombra encadenada",
+      "Ombre entravée",
+      "Скованная тень",
+      "Gefesselter Schatten",
+      "Sombra Agrilhoada",
+      "Ombra Incatenata",
+      "구속당한 어둠",
+      "桎梏暗影",
+      "被缚暗影"
+    ],
+    "Media": "inv_shadowelementalmount_gold.jpg"
+  },
+  {
+    "TagId": 2192,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Beledar's Spawn",
+      "Engendro de Beledar",
+      "Cria de Beledar",
+      "Beledar's Spawn",
+      "Engendro de Beledar",
+      "Engeance de Beledar",
+      "Порождение Беледар",
+      "Beledars Brut",
+      "Cria de Beledar",
+      "Prole di Beledar",
+      "벨레다르의 자손",
+      "巴雷達爾的產物",
+      "贝雷达尔之裔"
+    ],
+    "Media": "inv_shadowelementalmount_purple.jpg"
+  },
+  {
+    "TagId": 2193,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vermillion Imperial Lynx",
+      "Lince imperial bermellón",
+      "Lince Imperial Rubro",
+      "Vermillion Imperial Lynx",
+      "Lince imperial bermellón",
+      "Lynx impérial vermillon",
+      "Красно-рыжая императорская рысь",
+      "Zinnoberroter Kaiserluchs",
+      "Lince Imperial Rubro",
+      "Lince Imperiale Vermiglia",
+      "주홍빛 제국 스라소니",
+      "朱紅帝王山貓",
+      "朱红帝国山猫"
+    ],
+    "Media": "inv_arathilynxmount_red.jpg"
   },
   {
     "TagId": 2198,
@@ -1071,6 +1428,237 @@
     "Media": "inv_alliancewolfmount2_purple.jpg"
   },
   {
+    "TagId": 2204,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Wick",
+      "Lito",
+      "Pavio",
+      "Wick",
+      "Mecha",
+      "Mèche",
+      "Фитиль",
+      "Docht",
+      "Pavio",
+      "Miccia",
+      "위크",
+      "維克",
+      "烛芯"
+    ],
+    "Media": "inv_molemount_brown.jpg"
+  },
+  {
+    "TagId": 2205,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ol' Mole Rufus",
+      "Viejo topo Rufus",
+      "Velha Toupeira Rufo",
+      "Ol' Mole Rufus",
+      "Rufus, el viejo topo",
+      "Rufus la vieille taupe",
+      "Старина Руфус",
+      "Alter Maulwurf Rufus",
+      "Velha Toupeira Rufo",
+      "Rufus la Vecchia Talpa",
+      "늙은 두더지 루푸스",
+      "老鼴鼠魯法斯",
+      "老鼹鼠鲁夫斯"
+    ],
+    "Media": "inv_molemount_dark.jpg"
+  },
+  {
+    "TagId": 2209,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crimson Mudnose",
+      "Rinolodo carmesí",
+      "Rinolama Carmesim",
+      "Crimson Mudnose",
+      "Morrolodo carmesí",
+      "Nez-de-boue cramoisie",
+      "Алый грязенос",
+      "Karmesinrote Matschnase",
+      "Rinolama Carmesim",
+      "Grugnofango Cremisi",
+      "진홍빛 진흙코",
+      "赤紅泥鼻鼴鼠",
+      "赤红泥鼻鼹"
+    ],
+    "Media": "inv_molemount_light.jpg"
+  },
+  {
+    "TagId": 2211,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Skyflayer",
+      "Azotador celestial sañoso",
+      "Esfolador-celeste Cruel",
+      "Vicious Skyflayer",
+      "Despellejador del cielo sañoso",
+      "Écorcheur-céleste vicieux",
+      "Злобный неборез",
+      "Brutaler Himmelsschinder",
+      "Esfolador-celeste Cruel",
+      "Sfregiacieli Malvagio",
+      "흉포한 하늘약탈자",
+      "兇惡天劫蟲",
+      "勇猛的剥天者"
+    ],
+    "Media": "inv_viciousflyingnerubian2_alliance.jpg"
+  },
+  {
+    "TagId": 2213,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Shale Ramolith",
+      "Carnerolito de esquisto",
+      "Agnolito de Xisto",
+      "Shale Ramolith",
+      "Cabrolito de esquisto",
+      "Béliérithe de schiste",
+      "Сланцевый баранолит",
+      "Schieferramolith",
+      "Agnolito de Xisto",
+      "Montone Litico di Scisto",
+      "혈암 돌산양",
+      "頁岩大岩羊",
+      "页岩磐羊"
+    ],
+    "Media": "inv_protoramearthen_blue.jpg"
+  },
+  {
+    "TagId": 2214,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Slatestone Ramolith",
+      "Carnerolito de pizarra",
+      "Agnolito de Ardósia",
+      "Slatestone Ramolith",
+      "Cabrolito de pizarra",
+      "Béliérithe d’ardoise",
+      "Сланцепородный баранолит",
+      "Schiefersteinramolith",
+      "Agnolito de Ardósia",
+      "Montone Litico d'Ardesia",
+      "서판암 돌산양",
+      "板石大岩羊",
+      "板岩磐羊"
+    ],
+    "Media": "inv_protoramearthen_grey.jpg"
+  },
+  {
+    "TagId": 2218,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Forged Gladiator's Fel Bat",
+      "Murciélago vil de Gladiador forjado",
+      "Morcevil do Gladiador Forjado",
+      "Forged Gladiator's Fel Bat",
+      "Murciélago vil de Gladiador forjado",
+      "Gangroptère du gladiateur forgé",
+      "Сквернотопырь кованого гладиатора",
+      "Teufelsfledermaus des geschmiedeten Gladiators",
+      "Morcevil do Gladiador Forjado",
+      "Vilpipistrello del Gladiatore Forgiato",
+      "제련된 검투사의 지옥 박쥐",
+      "百鍊鬥士魔蝠",
+      "炉铸角斗士的魔蝠"
+    ],
+    "Media": "inv_felbatgladiatormount_gold.jpg"
+  },
+  {
+    "TagId": 2219,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sureki Skyrazor",
+      "Cuchilla del cielo sureki",
+      "Cindecéus Sureki",
+      "Sureki Skyrazor",
+      "Cuchilla del cielo sureki",
+      "Rasoir-céleste sureki",
+      "Суреки – рассекатель небес",
+      "Himmelsreißer der Sureki",
+      "Cindecéus Sureki",
+      "Sferzacieli Sureki",
+      "수레키 하늘발톱",
+      "蘇芮基天銳者",
+      "苏雷吉剃天者"
+    ],
+    "Media": "inv_nerubianwarbeastmount_blue.jpg"
+  },
+  {
+    "TagId": 2222,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Siesbarg",
+      "Siesbarg",
+      "Siesbarg",
+      "Siesbarg",
+      "Siesbarg",
+      "Siesbarg",
+      "Зисбарг",
+      "Siesbarg",
+      "Siesbarg",
+      "Siesbarg",
+      "시스바르그",
+      "希思芭",
+      "赛斯巴格"
+    ],
+    "Media": "inv_nerubianwarbeastmount_dark.jpg"
+  },
+  {
+    "TagId": 2223,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ascendant Skyrazor",
+      "Cuchilla del cielo ascendiente",
+      "Cindecéus Ascendente",
+      "Ascendant Skyrazor",
+      "Cuchilla del cielo ascendente",
+      "Rasoir-céleste ascendant",
+      "Вознесенный рассекатель небес",
+      "Aufsteigender Himmelsreißer",
+      "Cindecéus Ascendente",
+      "Sferzacieli Ascendente",
+      "승천자 하늘발톱",
+      "晉升天銳者",
+      "扬升剃天者"
+    ],
+    "Media": "inv_nerubianwarbeastmount_white.jpg"
+  },
+  {
+    "TagId": 2230,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ivory Goliathus",
+      "Goliathus de marfil",
+      "Goliathos de Marfim",
+      "Ivory Goliathus",
+      "Goliathus de marfil",
+      "Goliath d’ivoire",
+      "Костяной голиаф",
+      "Elfenbeinfarbener Goliathus",
+      "Goliathos de Marfim",
+      "Goliathus d'Avorio",
+      "상아 골리아투스",
+      "象牙金龜",
+      "象牙巨蜢"
+    ],
+    "Media": "inv_nerubianbeetlelargemount_tan.jpg"
+  },
+  {
     "TagId": 2232,
     "TagType": 22,
     "Names": [
@@ -1090,5 +1678,152 @@
       "野乌战龟"
     ],
     "Media": "inv_turtlemount2_dark.jpg"
+  },
+  {
+    "TagId": 2233,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith",
+      "Earthen Ordinant's Ramolith"
+    ],
+    "Media": "inv_earthenpaladinmount.jpg"
+  },
+  {
+    "TagId": 2238,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Plunderlord's Golden Crocolisk",
+      "Crocolisco dorado de amo del saqueo",
+      "Crocolisco Dourado do Senhor da Pilhagem",
+      "Plunderlord's Golden Crocolisk",
+      "Crocolisco dorado de Adalid del Botín",
+      "Crocilisque doré de seigneur du pillage",
+      "Золотой кроколиск владыки грабежа",
+      "Goldener Krokilisk des Plünderfürsten",
+      "Crocolisco Dourado do Senhor da Pilhagem",
+      "Crocolisco Dorato del Signore del Saccheggio",
+      "약탈왕의 황금 악어",
+      "強襲之王的黃金鱷魚",
+      "霸业枭雄的黄金鳄鱼"
+    ],
+    "Media": "inv_treasurebasiliskmount_tan.jpg"
+  },
+  {
+    "TagId": 2239,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Keg Leg's Radiant Crocolisk",
+      "Crocolisco radiante de Pata de Barril",
+      "Crocolisco Radiante do Barrileiro",
+      "Keg Leg's Radiant Crocolisk",
+      "Crocolisco radiante de Patabarril",
+      "Crocilisque radieux de Labarrique",
+      "Сияющий кроколиск Бочконога",
+      "Strahlender Krokilisk von Fasshaxe",
+      "Crocolisco Radiante do Barrileiro",
+      "Crocolisco Radioso di Gambafusto",
+      "술통다리의 광휘 악어",
+      "桶腿的光輝鱷魚",
+      "桶腿的光耀鳄鱼"
+    ],
+    "Media": "inv_treasurebasiliskmount_green.jpg"
+  },
+  {
+    "TagId": 2240,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Plunderlord's Midnight Crocolisk",
+      "Crocolisco de medianoche de amo del saqueo",
+      "Crocolisco da Meia-noite do Senhor da Pilhagem",
+      "Plunderlord's Midnight Crocolisk",
+      "Crocolisco de medianoche de Adalid del Botín",
+      "Crocilisque nocturne de seigneur du pillage",
+      "Полуночный кроколиск владыки грабежа",
+      "Mitternachtskrokilisk des Plünderfürsten",
+      "Crocolisco da Meia-noite do Senhor da Pilhagem",
+      "Crocolisco di Mezzanotte del Signore del Saccheggio",
+      "약탈왕의 한밤 악어",
+      "強襲之王的午夜鱷魚",
+      "霸业枭雄的午夜鳄鱼"
+    ],
+    "Media": "inv_treasurebasiliskmount_black.jpg"
+  },
+  {
+    "TagId": 2241,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Plunderlord's Weathered Crocolisk",
+      "Crocolisco maltrecho de amo del saqueo",
+      "Crocolisco Desgastado do Senhor da Pilhagem",
+      "Plunderlord's Weathered Crocolisk",
+      "Crocolisco curtido de Adalid del Botín",
+      "Crocilisque buriné de seigneur du pillage",
+      "Обветренный кроколиск владыки грабежа",
+      "Verwitterter Krokilisk des Plünderfürsten",
+      "Crocolisco Desgastado do Senhor da Pilhagem",
+      "Crocolisco Logoro del Signore del Saccheggio",
+      "약탈왕의 산전수전 악어",
+      "強襲之王的滄桑鱷魚",
+      "霸业枭雄的风霜鳄鱼"
+    ],
+    "Media": "inv_treasurebasiliskmount_white.jpg"
+  },
+  {
+    "TagId": 2244,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Diamond Mechsuit",
+      "Mecatraje de diamante",
+      "Traje de Meca de Diamante",
+      "Diamond Mechsuit",
+      "Mecatraje de diamante",
+      "Mécarmure diamant",
+      "Алмазный мехакостюм",
+      "Diamantener Mechanzug",
+      "Traje de Meca de Diamante",
+      "Meccanotuta Adamantina",
+      "다이아몬드 기계복",
+      "鑽石機甲",
+      "钻石机甲"
+    ],
+    "Media": "inv_crystalmech_teal.jpg"
+  },
+  {
+    "TagId": 2249,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Hand of Reshkigaal",
+      "Mano de Reshkigaal",
+      "Mão de Reshkigaal",
+      "Hand of Reshkigaal",
+      "Mano de Reshkigaal",
+      "Main de Reshkigaal",
+      "Рука Решкигаал",
+      "Hand von Reshkigaal",
+      "Mão de Reshkigaal",
+      "Mano di Reshkigaal",
+      "레쉬키갈의 손",
+      "瑞許奇加之手",
+      "雷什基加尔之手"
+    ],
+    "Media": "inv_mawguardhandmountwhite.jpg"
   }
 ]

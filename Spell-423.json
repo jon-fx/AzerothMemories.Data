@@ -126,6 +126,27 @@
     "Media": "inv_ore_feliron.jpg"
   },
   {
+    "TagId": 423015,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Castigator's Shield",
+      "Escudo castigador",
+      "Escudo do Castigador",
+      "Castigator's Shield",
+      "Escudo de castigador",
+      "Bouclier de fustigateur",
+      "Щит бичевателя",
+      "Schild des Züchtigers",
+      "Escudo do Castigador",
+      "Scudo del Castigatore",
+      "징벌자의 보호막",
+      "懲戒者的盾牌",
+      "谴罚者之盾"
+    ],
+    "Media": "spell_holy_avengersshield.jpg"
+  },
+  {
     "TagId": 423017,
     "TagType": 26,
     "Names": [
@@ -145,6 +166,48 @@
       "坠星"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423018,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Castigator's Detonation",
+      "Detonación castigadora",
+      "Detonação do Castigador",
+      "Castigator's Detonation",
+      "Detonación de castigador",
+      "Détonation de fustigateur",
+      "Взрыв бичевателя",
+      "Detonation des Züchtigers",
+      "Detonação do Castigador",
+      "Detonazione del Castigatore",
+      "징벌자의 폭발",
+      "懲戒者的引爆",
+      "谴罚者爆破"
+    ],
+    "Media": "inv_ability_holyfire_groundstate.jpg"
+  },
+  {
+    "TagId": 423019,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Castigator's Detonation",
+      "Detonación castigadora",
+      "Detonação do Castigador",
+      "Castigator's Detonation",
+      "Detonación de castigador",
+      "Détonation de fustigateur",
+      "Взрыв бичевателя",
+      "Detonation des Züchtigers",
+      "Detonação do Castigador",
+      "Detonazione del Castigatore",
+      "징벌자의 폭발",
+      "懲戒者的引爆",
+      "谴罚者爆破"
+    ],
+    "Media": "inv_ability_holyfire_groundstate.jpg"
   },
   {
     "TagId": 423020,
@@ -483,6 +546,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423037,
+    "TagType": 26,
+    "Names": [
+      null,
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED",
+      "NOT USED"
+    ],
+    "Media": "spell_holy_divineshield.jpg"
+  },
+  {
     "TagId": 423038,
     "TagType": 26,
     "Names": [
@@ -502,6 +586,27 @@
       "魔焰汇流"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423039,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Luring Candleflame",
+      "Cebo ígneo",
+      "Chama de Vela Atrativa",
+      "Luring Candleflame",
+      "Llamavela atrayente",
+      "Flammebougie attirante",
+      "Свечеприманка",
+      "Köderkerze",
+      "Chama de Vela Atrativa",
+      "Candelfiamma Adescante",
+      "유인의 양초불꽃",
+      "誘引燭焰",
+      "诱引烛焰"
+    ],
+    "Media": "ability_fixated_state_red.jpg"
   },
   {
     "TagId": 423040,
@@ -691,6 +796,27 @@
       "火焰之地的恩泽"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423051,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burning Light",
+      "Luz abrasadora",
+      "Luz Ardente",
+      "Burning Light",
+      "Luz abrasadora",
+      "Lumière ardente",
+      "Обжигающий свет",
+      "Brennendes Licht",
+      "Luz Ardente",
+      "Luce Bruciante",
+      "타오르는 빛",
+      "燃燒之光",
+      "灼烧之光"
+    ],
+    "Media": "paladin_holy.jpg"
   },
   {
     "TagId": 423052,
@@ -903,6 +1029,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423062,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Martelo da Pureza",
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Marteau de pureté",
+      "Молот чистоты",
+      "Hammer der Reinheit",
+      "Martelo da Pureza",
+      "Martello della Purezza",
+      "순수의 망치",
+      "純淨之錘",
+      "纯洁之锤"
+    ],
+    "Media": "ability_paladin_hammeroftherighteous.jpg"
+  },
+  {
+    "TagId": 423063,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Charge",
+      "Carga imprudente",
+      "Investida Impensada",
+      "Reckless Charge",
+      "Carga imprudente",
+      "Charge téméraire",
+      "Безрассудный рывок",
+      "Tollkühner Ansturm",
+      "Investida Impensada",
+      "Carica Sprezzante",
+      "무모한 돌진",
+      "無畏衝鋒",
+      "鲁莽冲锋"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423064,
     "TagType": 26,
     "Names": [
@@ -987,6 +1155,69 @@
     "Media": "ability_druid_manatree.jpg"
   },
   {
+    "TagId": 423068,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Charge",
+      "Carga imprudente",
+      "Investida Impensada",
+      "Reckless Charge",
+      "Carga imprudente",
+      "Charge téméraire",
+      "Безрассудный рывок",
+      "Tollkühner Ansturm",
+      "Investida Impensada",
+      "Carica Sprezzante",
+      "무모한 돌진",
+      "無畏衝鋒",
+      "鲁莽冲锋"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423070,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Charge",
+      "Carga imprudente",
+      "Investida Impensada",
+      "Reckless Charge",
+      "Carga imprudente",
+      "Charge téméraire",
+      "Безрассудный рывок",
+      "Tollkühner Ansturm",
+      "Investida Impensada",
+      "Carica Sprezzante",
+      "무모한 돌진",
+      "無畏衝鋒",
+      "鲁莽冲锋"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423072,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Martelo da Pureza",
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Marteau de pureté",
+      "Молот чистоты",
+      "Hammer der Reinheit",
+      "Martelo da Pureza",
+      "Martello della Purezza",
+      "순수의 망치",
+      "純淨之錘",
+      "纯洁之锤"
+    ],
+    "Media": "ability_paladin_hammeroftherighteous.jpg"
+  },
+  {
     "TagId": 423073,
     "TagType": 26,
     "Names": [
@@ -1008,6 +1239,69 @@
     "Media": "spell_fel_incinerate.jpg"
   },
   {
+    "TagId": 423074,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shimmering Crystal",
+      "Cristal resplandeciente",
+      "Cristal Cintilante",
+      "Shimmering Crystal",
+      "Cristal fulgurante",
+      "Cristal chatoyant",
+      "Мерцающий кристалл",
+      "Schimmernder Kristall",
+      "Cristal Cintilante",
+      "Cristallo Scintillante",
+      "일렁이는 수정",
+      "幻光水晶",
+      "闪烁的水晶"
+    ],
+    "Media": "inv_enchant_voidcrystal.jpg"
+  },
+  {
+    "TagId": 423075,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Charge",
+      "Carga imprudente",
+      "Investida Impensada",
+      "Reckless Charge",
+      "Carga imprudente",
+      "Charge téméraire",
+      "Безрассудный рывок",
+      "Tollkühner Ansturm",
+      "Investida Impensada",
+      "Carica Sprezzante",
+      "무모한 돌진",
+      "無畏衝鋒",
+      "鲁莽冲锋"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423076,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Martelo da Pureza",
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Marteau de pureté",
+      "Молот чистоты",
+      "Hammer der Reinheit",
+      "Martelo da Pureza",
+      "Martello della Purezza",
+      "순수의 망치",
+      "純淨之錘",
+      "纯洁之锤"
+    ],
+    "Media": "ability_paladin_hammeroftherighteous.jpg"
+  },
+  {
     "TagId": 423077,
     "TagType": 26,
     "Names": [
@@ -1027,6 +1321,90 @@
       "窃取能量"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423078,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Charge",
+      "Carga imprudente",
+      "Investida Impensada",
+      "Reckless Charge",
+      "Carga imprudente",
+      "Charge téméraire",
+      "Безрассудный рывок",
+      "Tollkühner Ansturm",
+      "Investida Impensada",
+      "Carica Sprezzante",
+      "무모한 돌진",
+      "無畏衝鋒",
+      "鲁莽冲锋"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423080,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Extinguishing Gust",
+      "Ráfaga extintora",
+      "Rajada Extintora",
+      "Extinguishing Gust",
+      "Soplo extintor",
+      "Bourrasque d’extinction",
+      "Тушащий порыв",
+      "Auslöschender Windstoß",
+      "Rajada Extintora",
+      "Raffica Estinguente",
+      "진화의 돌풍",
+      "滅焰狂風",
+      "灭火强风"
+    ],
+    "Media": "ability_fixated_state_red.jpg"
+  },
+  {
+    "TagId": 423081,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cave-In",
+      "Derrumbamiento",
+      "Desmoronamento",
+      "Cave-In",
+      "Derrumbamiento",
+      "Éboulement",
+      "Завал",
+      "Einsturz",
+      "Desmoronamento",
+      "Crollo",
+      "함몰",
+      "坍塌的落石",
+      "塌方点"
+    ],
+    "Media": "shaman_pvp_rockshield.jpg"
+  },
+  {
+    "TagId": 423082,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lâmina Dançante",
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lame dansante",
+      "Танцующий клинок",
+      "Tanzende Klinge",
+      "Lâmina Dançante",
+      "Lama Danzante",
+      "춤추는 칼날",
+      "舞動之刃",
+      "舞动之刃"
+    ],
+    "Media": "inv_sword_98.jpg"
   },
   {
     "TagId": 423083,
@@ -1092,6 +1470,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423086,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lâmina Dançante",
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lame dansante",
+      "Танцующий клинок",
+      "Tanzende Klinge",
+      "Lâmina Dançante",
+      "Lama Danzante",
+      "춤추는 칼날",
+      "舞動之刃",
+      "舞动之刃"
+    ],
+    "Media": "inv_sword_98.jpg"
+  },
+  {
     "TagId": 423087,
     "TagType": 26,
     "Names": [
@@ -1111,6 +1510,27 @@
       "邪能冲击"
     ],
     "Media": "ability_warlock_impoweredimp.jpg"
+  },
+  {
+    "TagId": 423089,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lâmina Dançante",
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lame dansante",
+      "Танцующий клинок",
+      "Tanzende Klinge",
+      "Lâmina Dançante",
+      "Lama Danzante",
+      "춤추는 칼날",
+      "舞動之刃",
+      "舞动之刃"
+    ],
+    "Media": "inv_sword_98.jpg"
   },
   {
     "TagId": 423090,
@@ -1155,6 +1575,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423092,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lâmina Dançante",
+      "Dancing Blade",
+      "Hoja danzante",
+      "Lame dansante",
+      "Танцующий клинок",
+      "Tanzende Klinge",
+      "Lâmina Dançante",
+      "Lama Danzante",
+      "춤추는 칼날",
+      "舞動之刃",
+      "舞动之刃"
+    ],
+    "Media": "inv_sword_98.jpg"
+  },
+  {
     "TagId": 423093,
     "TagType": 26,
     "Names": [
@@ -1197,6 +1638,48 @@
     "Media": "inv_10_tailoring_embroiderythread_color3.jpg"
   },
   {
+    "TagId": 423095,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Target Mole Target",
+      "Target Mole Target",
+      "Selecionar Alvo Toupeira",
+      "Target Mole Target",
+      "Objetivo de topo objetivo",
+      "Cible de la cible de taupe",
+      "Прицеливание в цель крота",
+      "Maulwurfziel anvisieren",
+      "Selecionar Alvo Toupeira",
+      "Bersaglio della Talpa Bersaglio",
+      "표적 두더지 대상",
+      "鎖定鼴鼠目標",
+      "选中鼹鼠目标"
+    ],
+    "Media": "ability_hunter_aspectoftheviper.jpg"
+  },
+  {
+    "TagId": 423096,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Target Mole Target",
+      "Target Mole Target",
+      "Selecionar Alvo Toupeira",
+      "Target Mole Target",
+      "Objetivo de topo objetivo",
+      "Cible de la cible de taupe",
+      "Прицеливание в цель крота",
+      "Maulwurfziel anvisieren",
+      "Selecionar Alvo Toupeira",
+      "Bersaglio della Talpa Bersaglio",
+      "표적 두더지 대상",
+      "鎖定鼴鼠目標",
+      "选中鼹鼠目标"
+    ],
+    "Media": "ability_hunter_aspectoftheviper.jpg"
+  },
+  {
     "TagId": 423097,
     "TagType": 26,
     "Names": [
@@ -1237,6 +1720,27 @@
       "10.1.5 Secrets - Influencer - Lightning Thief Spawn in"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423099,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Inferno Ateador",
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Fournaise d’embrasement",
+      "Зажигающее пекло",
+      "Entzündendes Inferno",
+      "Inferno Ateador",
+      "Inferno Infiammante",
+      "타오르는 지옥불",
+      "點燃地獄火",
+      "燃焰地狱火"
+    ],
+    "Media": "inv_summerfest_firespirit.jpg"
   },
   {
     "TagId": 423100,
@@ -1426,6 +1930,27 @@
       "恶意挥扫"
     ],
     "Media": "ability_warlock_jinx.jpg"
+  },
+  {
+    "TagId": 423109,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Inferno Ateador",
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Fournaise d’embrasement",
+      "Зажигающее пекло",
+      "Entzündendes Inferno",
+      "Inferno Ateador",
+      "Inferno Infiammante",
+      "타오르는 지옥불",
+      "點燃地獄火",
+      "燃焰地狱火"
+    ],
+    "Media": "inv_summerfest_firespirit.jpg"
   },
   {
     "TagId": 423110,
@@ -1657,6 +2182,27 @@
       "挑衅怒吼"
     ],
     "Media": "ability_warrior_dragonroar.jpg"
+  },
+  {
+    "TagId": 423121,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Martelo da Pureza",
+      "Hammer of Purity",
+      "Martillo de pureza",
+      "Marteau de pureté",
+      "Молот чистоты",
+      "Hammer der Reinheit",
+      "Martelo da Pureza",
+      "Martello della Purezza",
+      "순수의 망치",
+      "純淨之錘",
+      "纯洁之锤"
+    ],
+    "Media": "ability_paladin_hammeroftherighteous.jpg"
   },
   {
     "TagId": 423122,
@@ -1932,6 +2478,27 @@
     "Media": "spell_brokenheart.jpg"
   },
   {
+    "TagId": 423145,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Null Upheaval",
+      "Levantamiento nulo",
+      "Revolta Nula",
+      "Null Upheaval",
+      "Agitación nula",
+      "Bouleversement du Néant",
+      "Нуль-сотрясение",
+      "Nullemporstoßen",
+      "Revolta Nula",
+      "Sollevazione Terrestre Nulla",
+      "무효화의 지각 변동",
+      "空無激變",
+      "虚无颠覆"
+    ],
+    "Media": "inv_chest_armor_voidelf_d_01.jpg"
+  },
+  {
     "TagId": 423146,
     "TagType": 26,
     "Names": [
@@ -1972,6 +2539,27 @@
       "盘曲烈焰"
     ],
     "Media": "ability_mage_flamecannon.jpg"
+  },
+  {
+    "TagId": 423149,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cave-In",
+      "Derrumbamiento",
+      "Desmoronamento",
+      "Cave-In",
+      "Derrumbamiento",
+      "Éboulement",
+      "Завал",
+      "Einsturz",
+      "Desmoronamento",
+      "Crollo",
+      "함몰",
+      "坍塌的落石",
+      "塌方点"
+    ],
+    "Media": "shaman_pvp_rockshield.jpg"
   },
   {
     "TagId": 423150,
@@ -2182,6 +2770,27 @@
       "转移能量"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423164,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recovering",
+      "Recuperando",
+      "Recuperação",
+      "Recovering",
+      "Recuperando",
+      "Récupération",
+      "Восстановление",
+      "Bergen",
+      "Recuperação",
+      "Recupero",
+      "회복 중",
+      "恢復中",
+      "获取"
+    ],
+    "Media": "talentspec_druid_restoration.jpg"
   },
   {
     "TagId": 423165,
@@ -2560,6 +3169,111 @@
       "繁花盛绽"
     ],
     "Media": "inv_misc_trailofflowers.jpg"
+  },
+  {
+    "TagId": 423196,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Dispersed",
+      "Vacío disperso",
+      "Caos Disperso",
+      "Void Dispersed",
+      "Vacío dispersado",
+      "Dispersion du Vide",
+      "Рассеянная Бездна",
+      "Leere zerstreut",
+      "Caos Disperso",
+      "Dispersione del Vuoto",
+      "공허 분산",
+      "虛無驅散",
+      "虚空消散"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423197,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispering Void",
+      "Dispersión del Vacío",
+      "Dispersar Caos",
+      "Dispering Void",
+      "Vacío dispersante",
+      "Dispersion du Vide",
+      "Рассеивание Бездны",
+      "Zerstreuende Leere",
+      "Dispersar Caos",
+      "Dispersione del Vuoto",
+      "공허 분산",
+      "驅散虛無",
+      "消散虚空"
+    ],
+    "Media": "inv_enchant_voidsphere.jpg"
+  },
+  {
+    "TagId": 423198,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Decay Ritual",
+      "Ritual de descomposición",
+      "Ritual de Decomposição",
+      "Decay Ritual",
+      "Ritual de descomposición",
+      "Rituel de putréfaction",
+      "Ритуал разложения",
+      "Fäulnisritual",
+      "Ritual de Decomposição",
+      "Rituale del Decadimento",
+      "부패의 의식",
+      "腐朽儀式",
+      "腐朽仪式"
+    ],
+    "Media": "ability_deathwing_sealarmorbreachgreen.jpg"
+  },
+  {
+    "TagId": 423199,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pull Back",
+      "Alejarse",
+      "Retirada",
+      "Pull Back",
+      "Tirar hacia atrás",
+      "Tirer",
+      "Отойти",
+      "Zurückziehen",
+      "Retirada",
+      "Ritirata",
+      "잡아당기기",
+      "撤退",
+      "撤回"
+    ],
+    "Media": "ability_vehicle_launchplayer.jpg"
+  },
+  {
+    "TagId": 423200,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reclaim",
+      "Recolectar",
+      "Retomar",
+      "Reclaim",
+      "Recuperar",
+      "Réappropriation",
+      "Сбор",
+      "Zurückgewinnen",
+      "Retomar",
+      "Recupero",
+      "되찾기",
+      "回收",
+      "回收"
+    ],
+    "Media": "inv_datacrystal07.jpg"
   },
   {
     "TagId": 423201,
@@ -2961,6 +3675,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423221,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispering Void",
+      "Dispersión del Vacío",
+      "Dispersar Caos",
+      "Dispering Void",
+      "Vacío dispersante",
+      "Dispersion du Vide",
+      "Рассеивание Бездны",
+      "Zerstreuende Leere",
+      "Dispersar Caos",
+      "Dispersione del Vuoto",
+      "공허 분산",
+      "驅散虛無",
+      "消散虚空"
+    ],
+    "Media": "inv_enchant_voidsphere.jpg"
+  },
+  {
     "TagId": 423222,
     "TagType": 26,
     "Names": [
@@ -3066,6 +3801,27 @@
     "Media": "inv_misc_ammo_arrow_05.jpg"
   },
   {
+    "TagId": 423228,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crumbling Shell",
+      "Caparazón derruido",
+      "Escudo Esfacelado",
+      "Crumbling Shell",
+      "Caparazón desmoronado",
+      "Carapace en miettes",
+      "Рассыпающийся панцирь",
+      "Zerbröckelnder Panzer",
+      "Escudo Esfacelado",
+      "Guscio Fatiscente",
+      "바스러지는 보호막",
+      "粉碎外殼",
+      "崩解护壳"
+    ],
+    "Media": "inv_datacrystal07.jpg"
+  },
+  {
     "TagId": 423229,
     "TagType": 26,
     "Names": [
@@ -3085,6 +3841,27 @@
       "捐献 N"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423230,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispering Void",
+      "Dispersión del Vacío",
+      "Dispersar Caos",
+      "Dispering Void",
+      "Vacío dispersante",
+      "Dispersion du Vide",
+      "Рассеивание Бездны",
+      "Zerstreuende Leere",
+      "Dispersar Caos",
+      "Dispersione del Vuoto",
+      "공허 분산",
+      "驅散虛無",
+      "消散虚空"
+    ],
+    "Media": "inv_enchant_voidsphere.jpg"
   },
   {
     "TagId": 423231,
@@ -3379,6 +4156,27 @@
       "Torch Area Trigger"
     ],
     "Media": "inv_10_engineering_manufacturedparts_gear_bronze.jpg"
+  },
+  {
+    "TagId": 423246,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shattered Shell",
+      "Caparazón destruido",
+      "Escudo Estilhaçado",
+      "Shattered Shell",
+      "Caparazón destrozado",
+      "Carapace fracassée",
+      "Расколотый панцирь",
+      "Zerschmetterter Panzer",
+      "Escudo Estilhaçado",
+      "Guscio Infranto",
+      "부서진 보호막",
+      "碎裂外殼",
+      "破碎护壳"
+    ],
+    "Media": "spell_frost_stun.jpg"
   },
   {
     "TagId": 423247,
@@ -4368,6 +5166,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423305,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Null Upheaval",
+      "Levantamiento nulo",
+      "Revolta Nula",
+      "Null Upheaval",
+      "Agitación nula",
+      "Bouleversement du Néant",
+      "Нуль-сотрясение",
+      "Nullemporstoßen",
+      "Revolta Nula",
+      "Sollevazione Terrestre Nulla",
+      "무효화의 지각 변동",
+      "空無激變",
+      "虚无颠覆"
+    ],
+    "Media": "inv_chest_armor_voidelf_d_01.jpg"
+  },
+  {
     "TagId": 423306,
     "TagType": 26,
     "Names": [
@@ -4662,6 +5481,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423321,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Alchemy",
+      "Alquimia de Khaz Algar",
+      "Alquimia de Khaz Algar",
+      "Khaz Algar Alchemy",
+      "Alquimia de Khaz Algar",
+      "Alchimie de Khaz Algar",
+      "Алхимия Каз Алгара",
+      "Alchemie von Khaz Algar",
+      "Alquimia de Khaz Algar",
+      "Alchimia di Khaz Algar",
+      "카즈 알가르 연금술",
+      "卡茲阿爾加鍊金術",
+      "卡兹阿加炼金"
+    ],
+    "Media": "ui_profession_alchemy.jpg"
+  },
+  {
+    "TagId": 423322,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Alchemy",
+      "Alquimia de Khaz Algar",
+      "Alquimia de Khaz Algar",
+      "Khaz Algar Alchemy",
+      "Alquimia de Khaz Algar",
+      "Alchimie de Khaz Algar",
+      "Алхимия Каз Алгара",
+      "Alchemie von Khaz Algar",
+      "Alquimia de Khaz Algar",
+      "Alchimia di Khaz Algar",
+      "카즈 알가르 연금술",
+      "卡茲阿爾加鍊金術",
+      "卡兹阿加炼金"
+    ],
+    "Media": "ui_profession_alchemy.jpg"
+  },
+  {
     "TagId": 423323,
     "TagType": 26,
     "Names": [
@@ -4681,6 +5542,27 @@
       "硬化之壳"
     ],
     "Media": "inv_shield_21.jpg"
+  },
+  {
+    "TagId": 423324,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Discharge",
+      "Expulsión del Vacío",
+      "Rajada de Caos",
+      "Void Discharge",
+      "Descarga de Vacío",
+      "Décharge du Vide",
+      "Выброс Бездны",
+      "Leerenentladung",
+      "Rajada de Caos",
+      "Scarica del Vuoto",
+      "공허 점액",
+      "虛無黏液",
+      "虚空释能"
+    ],
+    "Media": "ability_warlock_voidzone.jpg"
   },
   {
     "TagId": 423325,
@@ -4725,6 +5607,27 @@
     "Media": "ability_creature_cursed_02.jpg"
   },
   {
+    "TagId": 423327,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Discharge",
+      "Expulsión del Vacío",
+      "Rajada de Caos",
+      "Void Discharge",
+      "Descarga de Vacío",
+      "Décharge du Vide",
+      "Выброс Бездны",
+      "Leerenentladung",
+      "Rajada de Caos",
+      "Scarica del Vuoto",
+      "공허 점액",
+      "虛無黏液",
+      "虚空释能"
+    ],
+    "Media": "ability_warlock_voidzone.jpg"
+  },
+  {
     "TagId": 423328,
     "TagType": 26,
     "Names": [
@@ -4746,6 +5649,27 @@
     "Media": "ability_creature_cursed_02.jpg"
   },
   {
+    "TagId": 423329,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The War Within Scaling Aura",
+      "Aura de ajuste de The War Within",
+      "The War Within Aura Autoajustável",
+      "The War Within Scaling Aura",
+      "Aura de escalado de The War Within",
+      "Aura d’échelonnage de The War Within",
+      "Аура масштабирования The War Within",
+      "The War Within - Skalierungsaura",
+      "The War Within Aura Autoajustável",
+      "Adeguamento Aura The War Within",
+      "내부 전쟁 보정 오라",
+      "地心之戰調幅光環",
+      "“地心之战”调整光环"
+    ],
+    "Media": "spell_nature_web.jpg"
+  },
+  {
     "TagId": 423331,
     "TagType": 26,
     "Names": [
@@ -4765,6 +5689,510 @@
       "Instant Shield [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423332,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Blacksmithing",
+      "Herrería de Khaz Algar",
+      "Ferraria de Khaz Algar",
+      "Khaz Algar Blacksmithing",
+      "Herrería de Khaz Algar",
+      "Forge de Khaz Algar",
+      "Кузнечное дело Каз Алгара",
+      "Schmiedekunst von Khaz Algar",
+      "Ferraria de Khaz Algar",
+      "Forgiatura di Khaz Algar",
+      "카즈 알가르 대장기술",
+      "卡茲阿爾加鍛造",
+      "卡兹阿加锻造"
+    ],
+    "Media": "ui_profession_blacksmithing.jpg"
+  },
+  {
+    "TagId": 423333,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Cooking",
+      "Cocina de Khaz Algar",
+      "Culinária de Khaz Algar",
+      "Khaz Algar Cooking",
+      "Cocina de Khaz Algar",
+      "Cuisine de Khaz Algar",
+      "Кулинария Каз Алгара",
+      "Kochkunst von Khaz Algar",
+      "Culinária de Khaz Algar",
+      "Cucina di Khaz Algar",
+      "카즈 알가르 요리",
+      "卡茲阿爾加烹飪",
+      "卡兹阿加烹饪"
+    ],
+    "Media": "ui_profession_cooking.jpg"
+  },
+  {
+    "TagId": 423334,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Enchanting",
+      "Encantamiento de Khaz Algar",
+      "Encantamento de Khaz Algar",
+      "Khaz Algar Enchanting",
+      "Encantamiento de Khaz Algar",
+      "Enchantement de Khaz Algar",
+      "Наложение чар Каз Алгара",
+      "Verzauberkunst von Khaz Algar",
+      "Encantamento de Khaz Algar",
+      "Incantamento di Khaz Algar",
+      "카즈 알가르 마법부여",
+      "卡茲阿爾加附魔",
+      "卡兹阿加附魔"
+    ],
+    "Media": "ui_profession_enchanting.jpg"
+  },
+  {
+    "TagId": 423335,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Engineering",
+      "Ingeniería de Khaz Algar",
+      "Engenharia de Khaz Algar",
+      "Khaz Algar Engineering",
+      "Ingeniería de Khaz Algar",
+      "Ingénierie de Khaz Algar",
+      "Инженерное дело Каз Алгара",
+      "Ingenieurskunst von Khaz Algar",
+      "Engenharia de Khaz Algar",
+      "Ingegneria di Khaz Algar",
+      "카즈 알가르 기계공학",
+      "卡茲阿爾加工程學",
+      "卡兹阿加工程学"
+    ],
+    "Media": "ui_profession_engineering.jpg"
+  },
+  {
+    "TagId": 423336,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Fishing",
+      "Pesca de Khaz Algar",
+      "Pescaria de Khaz Algar",
+      "Khaz Algar Fishing",
+      "Pesca de Khaz Algar",
+      "Pêche de Khaz Algar",
+      "Рыбная ловля Каз Алгара",
+      "Angeln von Khaz Algar",
+      "Pescaria de Khaz Algar",
+      "Pesca di Khaz Algar",
+      "카즈 알가르 낚시",
+      "卡茲阿爾加釣魚",
+      "卡兹阿加钓鱼"
+    ],
+    "Media": "ui_profession_fishing.jpg"
+  },
+  {
+    "TagId": 423338,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Inscription",
+      "Inscripción de Khaz Algar",
+      "Escrivania de Khaz Algar",
+      "Khaz Algar Inscription",
+      "Inscripción de Khaz Algar",
+      "Calligraphie de Khaz Algar",
+      "Начертание Каз Алгара",
+      "Inschriftenkunde von Khaz Algar",
+      "Escrivania de Khaz Algar",
+      "Runografia di Khaz Algar",
+      "카즈 알가르 주문각인",
+      "卡茲阿爾加銘文學",
+      "卡兹阿加铭文"
+    ],
+    "Media": "ui_profession_inscription.jpg"
+  },
+  {
+    "TagId": 423339,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Jewelcrafting",
+      "Joyería de Khaz Algar",
+      "Joalheria de Khaz Algar",
+      "Khaz Algar Jewelcrafting",
+      "Joyería de Khaz Algar",
+      "Joaillerie de Khaz Algar",
+      "Ювелирное дело Каз Алгара",
+      "Juwelierskunst von Khaz Algar",
+      "Joalheria de Khaz Algar",
+      "Oreficeria di Khaz Algar",
+      "카즈 알가르 보석세공",
+      "卡茲阿爾加珠寶設計",
+      "卡兹阿加珠宝加工"
+    ],
+    "Media": "ui_profession_jewelcrafting.jpg"
+  },
+  {
+    "TagId": 423340,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Leatherworking",
+      "Peletería de Khaz Algar",
+      "Couraria de Khaz Algar",
+      "Khaz Algar Leatherworking",
+      "Peletería de Khaz Algar",
+      "Travail du cuir de Khaz Algar",
+      "Кожевничество Каз Алгара",
+      "Lederverarbeitung von Khaz Algar",
+      "Couraria de Khaz Algar",
+      "Conciatura di Khaz Algar",
+      "카즈 알가르 가죽세공",
+      "卡茲阿爾加製皮",
+      "卡兹阿加制皮"
+    ],
+    "Media": "ui_profession_leatherworking.jpg"
+  },
+  {
+    "TagId": 423341,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Mining",
+      "Minería de Khaz Algar",
+      "Mineração de Khaz Algar",
+      "Khaz Algar Mining",
+      "Minería de Khaz Algar",
+      "Minage de Khaz Algar",
+      "Горное дело Каз Алгара",
+      "Bergbau von Khaz Algar",
+      "Mineração de Khaz Algar",
+      "Estrazione di Khaz Algar",
+      "카즈 알가르 채광",
+      "卡茲阿爾加採礦",
+      "卡兹阿加采矿"
+    ],
+    "Media": "ui_profession_mining.jpg"
+  },
+  {
+    "TagId": 423342,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Skinning",
+      "Desuello de Khaz Algar",
+      "Esfolamento de Khaz Algar",
+      "Khaz Algar Skinning",
+      "Desuello de Khaz Algar",
+      "Dépeçage de Khaz Algar",
+      "Снятие шкур Каз Алгара",
+      "Kürschnerei von Khaz Algar",
+      "Esfolamento de Khaz Algar",
+      "Scuoiatura di Khaz Algar",
+      "카즈 알가르 무두질",
+      "卡茲阿爾加剝皮",
+      "卡兹阿加剥皮"
+    ],
+    "Media": "ui_profession_skinning.jpg"
+  },
+  {
+    "TagId": 423343,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Tailoring",
+      "Sastrería de Khaz Algar",
+      "Alfaiataria de Khaz Algar",
+      "Khaz Algar Tailoring",
+      "Sastrería de Khaz Algar",
+      "Couture de Khaz Algar",
+      "Портняжное дело Каз Алгара",
+      "Schneiderei von Khaz Algar",
+      "Alfaiataria de Khaz Algar",
+      "Sartoria di Khaz Algar",
+      "카즈 알가르 재봉술",
+      "卡茲阿爾加裁縫",
+      "卡兹阿加裁缝"
+    ],
+    "Media": "ui_profession_tailoring.jpg"
+  },
+  {
+    "TagId": 423344,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Blacksmithing",
+      "Herrería de Khaz Algar",
+      "Ferraria de Khaz Algar",
+      "Khaz Algar Blacksmithing",
+      "Herrería de Khaz Algar",
+      "Forge de Khaz Algar",
+      "Кузнечное дело Каз Алгара",
+      "Schmiedekunst von Khaz Algar",
+      "Ferraria de Khaz Algar",
+      "Forgiatura di Khaz Algar",
+      "카즈 알가르 대장기술",
+      "卡茲阿爾加鍛造",
+      "卡兹阿加锻造"
+    ],
+    "Media": "ui_profession_blacksmithing.jpg"
+  },
+  {
+    "TagId": 423345,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Cooking",
+      "Cocina de Khaz Algar",
+      "Culinária de Khaz Algar",
+      "Khaz Algar Cooking",
+      "Cocina de Khaz Algar",
+      "Cuisine de Khaz Algar",
+      "Кулинария Каз Алгара",
+      "Kochkunst von Khaz Algar",
+      "Culinária de Khaz Algar",
+      "Cucina di Khaz Algar",
+      "카즈 알가르 요리",
+      "卡茲阿爾加烹飪",
+      "卡兹阿加烹饪"
+    ],
+    "Media": "ui_profession_cooking.jpg"
+  },
+  {
+    "TagId": 423346,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Enchanting",
+      "Encantamiento de Khaz Algar",
+      "Encantamento de Khaz Algar",
+      "Khaz Algar Enchanting",
+      "Encantamiento de Khaz Algar",
+      "Enchantement de Khaz Algar",
+      "Наложение чар Каз Алгара",
+      "Verzauberkunst von Khaz Algar",
+      "Encantamento de Khaz Algar",
+      "Incantamento di Khaz Algar",
+      "카즈 알가르 마법부여",
+      "卡茲阿爾加附魔",
+      "卡兹阿加附魔"
+    ],
+    "Media": "ui_profession_enchanting.jpg"
+  },
+  {
+    "TagId": 423347,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Engineering",
+      "Ingeniería de Khaz Algar",
+      "Engenharia de Khaz Algar",
+      "Khaz Algar Engineering",
+      "Ingeniería de Khaz Algar",
+      "Ingénierie de Khaz Algar",
+      "Инженерное дело Каз Алгара",
+      "Ingenieurskunst von Khaz Algar",
+      "Engenharia de Khaz Algar",
+      "Ingegneria di Khaz Algar",
+      "카즈 알가르 기계공학",
+      "卡茲阿爾加工程學",
+      "卡兹阿加工程学"
+    ],
+    "Media": "ui_profession_engineering.jpg"
+  },
+  {
+    "TagId": 423348,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Fishing",
+      "Pesca de Khaz Algar",
+      "Pescaria de Khaz Algar",
+      "Khaz Algar Fishing",
+      "Pesca de Khaz Algar",
+      "Pêche de Khaz Algar",
+      "Рыбная ловля Каз Алгара",
+      "Angeln von Khaz Algar",
+      "Pescaria de Khaz Algar",
+      "Pesca di Khaz Algar",
+      "카즈 알가르 낚시",
+      "卡茲阿爾加釣魚",
+      "卡兹阿加钓鱼"
+    ],
+    "Media": "ui_profession_fishing.jpg"
+  },
+  {
+    "TagId": 423349,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Herbalism",
+      "Herboristería de Khaz Algar",
+      "Herborismo de Khaz Algar",
+      "Khaz Algar Herbalism",
+      "Herboristería de Khaz Algar",
+      "Herboristerie de Khaz Algar",
+      "Травничество Каз Алгара",
+      "Kräuterkunde von Khaz Algar",
+      "Herborismo de Khaz Algar",
+      "Erbalismo di Khaz Algar",
+      "카즈 알가르 약초채집",
+      "卡茲阿爾加草藥學",
+      "卡兹阿加草药学"
+    ],
+    "Media": "ui_profession_herbalism.jpg"
+  },
+  {
+    "TagId": 423350,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Inscription",
+      "Inscripción de Khaz Algar",
+      "Escrivania de Khaz Algar",
+      "Khaz Algar Inscription",
+      "Inscripción de Khaz Algar",
+      "Calligraphie de Khaz Algar",
+      "Начертание Каз Алгара",
+      "Inschriftenkunde von Khaz Algar",
+      "Escrivania de Khaz Algar",
+      "Runografia di Khaz Algar",
+      "카즈 알가르 주문각인",
+      "卡茲阿爾加銘文學",
+      "卡兹阿加铭文"
+    ],
+    "Media": "ui_profession_inscription.jpg"
+  },
+  {
+    "TagId": 423351,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Jewelcrafting",
+      "Joyería de Khaz Algar",
+      "Joalheria de Khaz Algar",
+      "Khaz Algar Jewelcrafting",
+      "Joyería de Khaz Algar",
+      "Joaillerie de Khaz Algar",
+      "Ювелирное дело Каз Алгара",
+      "Juwelierskunst von Khaz Algar",
+      "Joalheria de Khaz Algar",
+      "Oreficeria di Khaz Algar",
+      "카즈 알가르 보석세공",
+      "卡茲阿爾加珠寶設計",
+      "卡兹阿加珠宝加工"
+    ],
+    "Media": "ui_profession_jewelcrafting.jpg"
+  },
+  {
+    "TagId": 423352,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Leatherworking",
+      "Peletería de Khaz Algar",
+      "Couraria de Khaz Algar",
+      "Khaz Algar Leatherworking",
+      "Peletería de Khaz Algar",
+      "Travail du cuir de Khaz Algar",
+      "Кожевничество Каз Алгара",
+      "Lederverarbeitung von Khaz Algar",
+      "Couraria de Khaz Algar",
+      "Conciatura di Khaz Algar",
+      "카즈 알가르 가죽세공",
+      "卡茲阿爾加製皮",
+      "卡兹阿加制皮"
+    ],
+    "Media": "ui_profession_leatherworking.jpg"
+  },
+  {
+    "TagId": 423353,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Mining",
+      "Minería de Khaz Algar",
+      "Mineração de Khaz Algar",
+      "Khaz Algar Mining",
+      "Minería de Khaz Algar",
+      "Minage de Khaz Algar",
+      "Горное дело Каз Алгара",
+      "Bergbau von Khaz Algar",
+      "Mineração de Khaz Algar",
+      "Estrazione di Khaz Algar",
+      "카즈 알가르 채광",
+      "卡茲阿爾加採礦",
+      "卡兹阿加采矿"
+    ],
+    "Media": "ui_profession_mining.jpg"
+  },
+  {
+    "TagId": 423354,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Skinning",
+      "Desuello de Khaz Algar",
+      "Esfolamento de Khaz Algar",
+      "Khaz Algar Skinning",
+      "Desuello de Khaz Algar",
+      "Dépeçage de Khaz Algar",
+      "Снятие шкур Каз Алгара",
+      "Kürschnerei von Khaz Algar",
+      "Esfolamento de Khaz Algar",
+      "Scuoiatura di Khaz Algar",
+      "카즈 알가르 무두질",
+      "卡茲阿爾加剝皮",
+      "卡兹阿加剥皮"
+    ],
+    "Media": "ui_profession_skinning.jpg"
+  },
+  {
+    "TagId": 423355,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Khaz Algar Tailoring",
+      "Sastrería de Khaz Algar",
+      "Alfaiataria de Khaz Algar",
+      "Khaz Algar Tailoring",
+      "Sastrería de Khaz Algar",
+      "Couture de Khaz Algar",
+      "Портняжное дело Каз Алгара",
+      "Schneiderei von Khaz Algar",
+      "Alfaiataria de Khaz Algar",
+      "Sartoria di Khaz Algar",
+      "카즈 알가르 재봉술",
+      "卡茲阿爾加裁縫",
+      "卡兹阿加裁缝"
+    ],
+    "Media": "ui_profession_tailoring.jpg"
+  },
+  {
+    "TagId": 423356,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Null Upheaval",
+      "Levantamiento nulo",
+      "Revolta Nula",
+      "Null Upheaval",
+      "Agitación nula",
+      "Bouleversement du Néant",
+      "Нуль-сотрясение",
+      "Nullemporstoßen",
+      "Revolta Nula",
+      "Sollevazione Terrestre Nulla",
+      "무효화의 지각 변동",
+      "空無激變",
+      "虚无颠覆"
+    ],
+    "Media": "inv_chest_armor_voidelf_d_01.jpg"
   },
   {
     "TagId": 423357,
@@ -4893,6 +6321,111 @@
     "Media": "ability_priest_cascade_shadow.jpg"
   },
   {
+    "TagId": 423363,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
+    "TagId": 423364,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
+    "TagId": 423365,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
+    "TagId": 423366,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
+    "TagId": 423367,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
     "TagId": 423369,
     "TagType": 26,
     "Names": [
@@ -4975,6 +6508,27 @@
       "复制体消失并取消对话"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423374,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Throw Dynamite!",
+      "¡Lanzar dinamita!",
+      "Arremessar Dinamite!",
+      "Throw Dynamite!",
+      "¡Lanzar dinamita!",
+      "Lancer de dynamite\u00A0!",
+      "Бросок динамита!",
+      "Dynamit werfen!",
+      "Arremessar Dinamite!",
+      "Lancio Dinamite!",
+      "다이너마이트 던지기!",
+      "投擲火藥！",
+      "投掷炸药！"
+    ],
+    "Media": "inv_misc_bomb_03.jpg"
   },
   {
     "TagId": 423375,
@@ -5166,6 +6720,48 @@
     "Media": "inv_checkered_flag.jpg"
   },
   {
+    "TagId": 423384,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Throw Dynamite!",
+      "¡Lanzar dinamita!",
+      "Arremessar Dinamite!",
+      "Throw Dynamite!",
+      "¡Lanzar dinamita!",
+      "Lancer de dynamite\u00A0!",
+      "Бросок динамита!",
+      "Dynamit werfen!",
+      "Arremessar Dinamite!",
+      "Lancio Dinamite!",
+      "다이너마이트 던지기!",
+      "投擲火藥！",
+      "投掷炸药！"
+    ],
+    "Media": "inv_misc_bomb_03.jpg"
+  },
+  {
+    "TagId": 423385,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersal Crystal",
+      "Cristal de dispersión",
+      "Cristal de Dispersão",
+      "Dispersal Crystal",
+      "Cristal de diseminación",
+      "Cristal de dispersement",
+      "Кристалл рассеивания",
+      "Zerstreuungskristall",
+      "Cristal de Dispersão",
+      "Cristallo della Dispersione",
+      "분산 수정",
+      "散射水晶",
+      "消散水晶"
+    ],
+    "Media": "inv_datacrystal02.jpg"
+  },
+  {
     "TagId": 423386,
     "TagType": 26,
     "Names": [
@@ -5227,6 +6823,69 @@
       "[DNT]Cancel Heal Barrier Aura"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423393,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Entropy",
+      "Entropía",
+      "Entropia",
+      "Entropy",
+      "Entropía",
+      "Entropie",
+      "Энтропия",
+      "Entropie",
+      "Entropia",
+      "Entropia",
+      "무질서",
+      "無序",
+      "熵灭"
+    ],
+    "Media": "ability_priest_voidentropy.jpg"
+  },
+  {
+    "TagId": 423394,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Overload Empowered Deposit",
+      "Sobrecarga de depósito potenciado",
+      "Sobrecarga de Depósito Potencializado",
+      "Overload Empowered Deposit",
+      "Sobrecargar depósito potenciado",
+      "Surcharge de gisement renforcée",
+      "Перегрузка усиленного месторождения",
+      "Ermächtigtes Erzvorkommen überladen",
+      "Sobrecarga de Depósito Potencializado",
+      "Sovraccarico Deposito Potenziato",
+      "강화된 광맥 과부하",
+      "超載強化礦床",
+      "过载强化矿脉"
+    ],
+    "Media": "inv_10_elementalcombinedfoozles_lightning.jpg"
+  },
+  {
+    "TagId": 423395,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Overload Empowered Herb",
+      "Sobrecarga de hierba potenciada",
+      "Sobrecarga de Planta Potencializada",
+      "Overload Empowered Herb",
+      "Sobrecargar hierba potenciada",
+      "Surcharge d’herbe renforcée",
+      "Перегрузка усиленной травы",
+      "Ermächtigtes Kraut überladen",
+      "Sobrecarga de Planta Potencializada",
+      "Sovraccarico Erba Potenziata",
+      "강화된 약초 과부하",
+      "超載強化草藥",
+      "过载强化草药"
+    ],
+    "Media": "inv_10_elementalcombinedfoozles_water.jpg"
   },
   {
     "TagId": 423396,
@@ -5332,6 +6991,27 @@
       "猛击"
     ],
     "Media": "ability_rhyolith_magmaflow_wave.jpg"
+  },
+  {
+    "TagId": 423404,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersion Crystal Looted",
+      "Cristal de dispersión despojado",
+      "Cristal de Dispersão Saqueado",
+      "Dispersion Crystal Looted",
+      "Cristal de dispersión despojado",
+      "Cristal de dispersion pillé",
+      "Кристалл рассеивания добыт",
+      "Zerstreuungskristall erbeutet",
+      "Cristal de Dispersão Saqueado",
+      "Cristallo della Dispersione Depredato",
+      "분산 수정 획득",
+      "奪取散射水晶",
+      "已拾取消散水晶"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423405,
@@ -5584,6 +7264,27 @@
       "阿梅达希尔之花"
     ],
     "Media": "inv_misc_herb_starflower.jpg"
+  },
+  {
+    "TagId": 423419,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thirty Yards of Rope",
+      "Treinta metros de cuerda",
+      "Trinta Metros de Corda",
+      "Thirty Yards of Rope",
+      "Treinta metros de cuerda",
+      "Trente mètres de corde",
+      "Тридцатиметровая веревка",
+      "Dreißig Meter Seil",
+      "Trinta Metros de Corda",
+      "Trenta Metri di Corda",
+      "30미터 밧줄",
+      "三十碼繩索",
+      "三十码长绳"
+    ],
+    "Media": "inv_misc_rope_02.jpg"
   },
   {
     "TagId": 423420,
@@ -6363,6 +8064,69 @@
     "Media": "ability_hunter_mastermarksman.jpg"
   },
   {
+    "TagId": 423479,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wicklighter Bolt",
+      "Descarga prendemechas",
+      "Seta Acende-pavio",
+      "Wicklighter Bolt",
+      "Descarga prendemechas",
+      "Éclair brûlemèche",
+      "Стрела зажигателя",
+      "Dochtzündlerblitz",
+      "Seta Acende-pavio",
+      "Dardo Attizzamicce",
+      "심지점화 화살",
+      "持燈者之箭",
+      "点芯箭"
+    ],
+    "Media": "spell_fire_fireball02.jpg"
+  },
+  {
+    "TagId": 423480,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Meltdown",
+      "Fusión",
+      "Fusão",
+      "Meltdown",
+      "Fusión",
+      "Fusion",
+      "Оплавление",
+      "Schmelze",
+      "Fusão",
+      "Scioglimento",
+      "용해",
+      "熔化",
+      "消融"
+    ],
+    "Media": "inv_elemental_mote_fire01.jpg"
+  },
+  {
+    "TagId": 423482,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Meltdown",
+      "Fusión",
+      "Fusão",
+      "Meltdown",
+      "Fusión",
+      "Fusion",
+      "Оплавление",
+      "Schmelze",
+      "Fusão",
+      "Scioglimento",
+      "용해",
+      "熔化",
+      "消融"
+    ],
+    "Media": "inv_elemental_mote_fire01.jpg"
+  },
+  {
     "TagId": 423483,
     "TagType": 26,
     "Names": [
@@ -6380,6 +8144,27 @@
       "산양 구이",
       "炙烤公羊旅店",
       "脆烤山羊"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423485,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Picking Up...",
+      "Recogiendo...",
+      "Pegando...",
+      "Picking Up...",
+      "Recogiendo...",
+      "Ramassage…",
+      "Поднятие...",
+      "Aufheben...",
+      "Pegando...",
+      "Raccolta...",
+      "집는 중",
+      "正在拾取…",
+      "拾起……"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -6445,6 +8230,27 @@
       "迷魂终曲"
     ],
     "Media": "inv_farm_herbseed.jpg"
+  },
+  {
+    "TagId": 423490,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Picking Up...",
+      "Recogiendo...",
+      "Pegando...",
+      "Picking Up...",
+      "Recogiendo...",
+      "Ramassage…",
+      "Поднятие...",
+      "Aufheben...",
+      "Pegando...",
+      "Raccolta...",
+      "집는 중",
+      "正在拾取…",
+      "拾起……"
+    ],
+    "Media": "inv_misc_bomb_05.jpg"
   },
   {
     "TagId": 423491,
@@ -6531,6 +8337,48 @@
     "Media": "spell_shaman_lavaburst.jpg"
   },
   {
+    "TagId": 423497,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Focus",
+      "Enfoque",
+      "Concentração",
+      "Focus",
+      "Enfoque",
+      "Focalisation",
+      "Концентрация",
+      "Fokus",
+      "Concentração",
+      "Concentrazione",
+      "집중 장치",
+      "集中",
+      "集中值"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423498,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Waxy Wallop",
+      "Paliza de cera",
+      "Bofetada de Cera",
+      "Waxy Wallop",
+      "Paliza cerúlea",
+      "Torgnole de cire",
+      "Восковое буйство",
+      "Wachsprügel",
+      "Bofetada de Cera",
+      "Botta Cerosa",
+      "밀랍 맹타",
+      "蠟液痛擊",
+      "飞蜡冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423499,
     "TagType": 26,
     "Names": [
@@ -6550,6 +8398,27 @@
       "埃德霍的笔记"
     ],
     "Media": "inv_7xp_inscription_talenttome02.jpg"
+  },
+  {
+    "TagId": 423501,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wild Wallop",
+      "Golpazo salvaje",
+      "Bofetada Animal",
+      "Wild Wallop",
+      "Golpetazo salvaje",
+      "Torgnole sauvage",
+      "Дикое молотилово",
+      "Wildprügel",
+      "Bofetada Animal",
+      "Botta Selvaggia",
+      "날뛰는 맹타",
+      "狂野痛擊",
+      "狂野抽打"
+    ],
+    "Media": "inv_hammer_31.jpg"
   },
   {
     "TagId": 423502,
@@ -6699,6 +8568,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423509,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "spell_magic_magearmor.jpg"
+  },
+  {
     "TagId": 423510,
     "TagType": 26,
     "Names": [
@@ -6846,6 +8736,27 @@
     "Media": "spell_shaman_tidalwaves.jpg"
   },
   {
+    "TagId": 423517,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burning Fuse",
+      "Mecha ardiente",
+      "Pavio Aceso",
+      "Burning Fuse",
+      "Mecha encendida",
+      "Fusible ardent",
+      "Горящий запал",
+      "Brennende Lunte",
+      "Pavio Aceso",
+      "Miccia Bruciante",
+      "불타는 융해",
+      "燃燒引信",
+      "燃烧引线"
+    ],
+    "Media": "spell_shadow_mindbomb.jpg"
+  },
+  {
     "TagId": 423518,
     "TagType": 26,
     "Names": [
@@ -6884,6 +8795,48 @@
       "놓는 중",
       "放置",
       "放置"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423520,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423521,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -6991,6 +8944,27 @@
       "[DNT] Award Kill Credit Periodic"
     ],
     "Media": "spell_progenitor_areadenial.jpg"
+  },
+  {
+    "TagId": 423527,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423528,
@@ -7140,6 +9114,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423536,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Smite",
+      "Punición sagrada",
+      "Punição Sagrada",
+      "Holy Smite",
+      "Punición Sagrada",
+      "Châtiment sacré",
+      "Божественная кара",
+      "Heilige Pein",
+      "Punição Sagrada",
+      "Punizione Sacra",
+      "성스러운 일격",
+      "聖光懲擊",
+      "神圣惩击"
+    ],
+    "Media": "spell_holy_holysmite.jpg"
+  },
+  {
     "TagId": 423537,
     "TagType": 26,
     "Names": [
@@ -7159,6 +9154,48 @@
       "真切的酣梦轻语"
     ],
     "Media": "inv_legion_faction_dreamweavers.jpg"
+  },
+  {
+    "TagId": 423538,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unstable Crash",
+      "Colisión inestable",
+      "Colisão Instável",
+      "Unstable Crash",
+      "Colisión inestable",
+      "Impact instable",
+      "Нестабильное сокрушение",
+      "Instabiler Sturz",
+      "Colisão Instável",
+      "Schianto Instabile",
+      "불안정한 충돌",
+      "不穩定撞擊",
+      "无常碾压"
+    ],
+    "Media": "spell_priest_void blast.jpg"
+  },
+  {
+    "TagId": 423539,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Inner Light",
+      "Luz interna",
+      "Luz Interior",
+      "Inner Light",
+      "Luz interior",
+      "Lumière intérieure",
+      "Внутренний свет",
+      "Inneres Licht",
+      "Luz Interior",
+      "Luce Interiore",
+      "내면의 빛",
+      "內在之光",
+      "心灵之光"
+    ],
+    "Media": "spell_holy_devineaegis.jpg"
   },
   {
     "TagId": 423540,
@@ -7222,6 +9259,48 @@
       "[DNT] Maintain Summon Daughter"
     ],
     "Media": "inv_polearm_2h_ardenwealdnpc_a_01.jpg"
+  },
+  {
+    "TagId": 423543,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Inner Light",
+      "Luz interna",
+      "Luz Interior",
+      "Inner Light",
+      "Luz interior",
+      "Lumière intérieure",
+      "Внутренний свет",
+      "Inneres Licht",
+      "Luz Interior",
+      "Luce Interiore",
+      "내면의 빛",
+      "內在之光",
+      "心灵之光"
+    ],
+    "Media": "spell_holy_devineaegis.jpg"
+  },
+  {
+    "TagId": 423547,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Inner Light",
+      "Luz interna",
+      "Luz Interior",
+      "Inner Light",
+      "Luz interior",
+      "Lumière intérieure",
+      "Внутренний свет",
+      "Inneres Licht",
+      "Luz Interior",
+      "Luce Interiore",
+      "내면의 빛",
+      "內在之光",
+      "心灵之光"
+    ],
+    "Media": "spell_holy_devineaegis.jpg"
   },
   {
     "TagId": 423548,
@@ -7329,6 +9408,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423557,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Fragment",
+      "Fragmento del Vacío",
+      "Fragmento do Caos",
+      "Void Fragment",
+      "Fragmento del Vacío",
+      "Fragment du Vide",
+      "Фрагмент Бездны",
+      "Leerenfragment",
+      "Fragmento do Caos",
+      "Frammento del Vuoto",
+      "공허 조각",
+      "虛無碎片",
+      "虚空碎片"
+    ],
+    "Media": "spell_priest_void blast.jpg"
+  },
+  {
     "TagId": 423559,
     "TagType": 26,
     "Names": [
@@ -7434,6 +9534,27 @@
     "Media": "spell_nature_chainlightning.jpg"
   },
   {
+    "TagId": 423566,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowy Cloak",
+      "Capa sombría",
+      "Manto Sombrio",
+      "Shadowy Cloak",
+      "Capa tenebrosa",
+      "Cape ténébreuse",
+      "Теневой плащ",
+      "Schattenhafter Umhang",
+      "Manto Sombrio",
+      "Mantello Ombroso",
+      "어둠의 망토",
+      "幽影披風",
+      "影幕斗篷"
+    ],
+    "Media": "ability_rogue_envelopingshadows.jpg"
+  },
+  {
     "TagId": 423567,
     "TagType": 26,
     "Names": [
@@ -7474,6 +9595,48 @@
       "竞速开始"
     ],
     "Media": "inv_checkered_flag.jpg"
+  },
+  {
+    "TagId": 423572,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Empowerment",
+      "Potenciación del Vacío",
+      "Potencialização do Caos",
+      "Void Empowerment",
+      "Potenciación del Vacío",
+      "Renforcement du Vide",
+      "Наделение силой Бездны",
+      "Leerenermächtigung",
+      "Potencialização do Caos",
+      "Potenziamento del Vuoto",
+      "공허의 강화",
+      "虛空賦能",
+      "虚空增效"
+    ],
+    "Media": "spell_priest_void blast.jpg"
+  },
+  {
+    "TagId": 423573,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Extinguishing Gust",
+      "Ráfaga extintora",
+      "Rajada Extintora",
+      "Extinguishing Gust",
+      "Soplo extintor",
+      "Bourrasque d’extinction",
+      "Тушащий порыв",
+      "Auslöschender Windstoß",
+      "Rajada Extintora",
+      "Raffica Estinguente",
+      "진화의 돌풍",
+      "滅焰狂風",
+      "灭火强风"
+    ],
+    "Media": "ability_skyreach_wind.jpg"
   },
   {
     "TagId": 423574,
@@ -7644,6 +9807,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423582,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Inferno Ateador",
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Fournaise d’embrasement",
+      "Зажигающее пекло",
+      "Entzündendes Inferno",
+      "Inferno Ateador",
+      "Inferno Infiammante",
+      "타오르는 지옥불",
+      "點燃地獄火",
+      "燃焰地狱火"
+    ],
+    "Media": "inv_summerfest_firespirit.jpg"
+  },
+  {
     "TagId": 423583,
     "TagType": 26,
     "Names": [
@@ -7726,6 +9910,27 @@
       "邪能箭"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423588,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Barrier of Light",
+      "Barrera de Luz",
+      "Barreira de Luz",
+      "Barrier of Light",
+      "Barrera de Luz",
+      "Barrière de lumière",
+      "Барьер Света",
+      "Lichtbarriere",
+      "Barreira de Luz",
+      "Barriera di Luce",
+      "빛의 보호막",
+      "光明屏障",
+      "圣光屏障"
+    ],
+    "Media": "ability_racial_holyresistance.jpg"
   },
   {
     "TagId": 423589,
@@ -8001,6 +10206,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423605,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Cart",
+      "Vagoneta",
+      "Vagonete da Mina",
+      "Mine Cart",
+      "Vagoneta",
+      "Chariot de mine",
+      "Вагонетка",
+      "Minenlore",
+      "Vagonete da Mina",
+      "Carrello Minerario",
+      "광산 수레",
+      "礦坑推車",
+      "采矿车"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423607,
     "TagType": 26,
     "Names": [
@@ -8020,6 +10246,27 @@
       "奥术脉冲"
     ],
     "Media": "ability_racial_forceshield.jpg"
+  },
+  {
+    "TagId": 423609,
+    "TagType": 26,
+    "Names": [
+      null,
+      "End of Run",
+      "Fin de ronda",
+      "Percurso Concluído",
+      "End of Run",
+      "Fin de carrera",
+      "Fin de course",
+      "Конец захода",
+      "Ende des Durchlaufs",
+      "Percurso Concluído",
+      "Fine della Corsa",
+      "회차 종료",
+      "列車終點",
+      "挑战结束"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423610,
@@ -8337,6 +10584,26 @@
     "Media": "spell_fire_incinerate.jpg"
   },
   {
+    "TagId": 423627,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Inferno Ateador",
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Fournaise d’embrasement",
+      "Зажигающее пекло",
+      "Entzündendes Inferno",
+      "Inferno Ateador",
+      "Inferno Infiammante",
+      "타오르는 지옥불",
+      "點燃地獄火",
+      "燃焰地狱火"
+    ]
+  },
+  {
     "TagId": 423628,
     "TagType": 26,
     "Names": [
@@ -8356,6 +10623,27 @@
       "神秘射线"
     ],
     "Media": "spell_arcane_arcane03.jpg"
+  },
+  {
+    "TagId": 423629,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Explosion!",
+      "¡Explosión!",
+      "Explosão!",
+      "Explosion!",
+      "¡Deflagración!",
+      "Explosion\u00A0!",
+      "Взрыв!",
+      "Explosion!",
+      "Explosão!",
+      "Esplosione!",
+      "폭발!",
+      "爆炸！",
+      "爆炸！"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423630,
@@ -8631,6 +10919,27 @@
     "Media": "ability_rogue_ghostpirate.jpg"
   },
   {
+    "TagId": 423648,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Explosive Ejection",
+      "Eyección explosiva",
+      "Ejeção Explosiva",
+      "Explosive Ejection",
+      "Eyección explosiva",
+      "Éjection explosive",
+      "Взрывное катапультирование",
+      "Explosiver Ausstieg",
+      "Ejeção Explosiva",
+      "Espulsione Esplosiva",
+      "폭발 사출",
+      "炸藥彈射",
+      "炸药弹射"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423649,
     "TagType": 26,
     "Names": [
@@ -8652,6 +10961,69 @@
     "Media": "ability_mage_firestarter.jpg"
   },
   {
+    "TagId": 423650,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Explosive Ejection",
+      "Eyección explosiva",
+      "Ejeção Explosiva",
+      "Explosive Ejection",
+      "Eyección explosiva",
+      "Éjection explosive",
+      "Взрывное катапультирование",
+      "Explosiver Ausstieg",
+      "Ejeção Explosiva",
+      "Espulsione Esplosiva",
+      "폭발 사출",
+      "炸藥彈射",
+      "炸药弹射"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423651,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Explosive Ejection",
+      "Eyección explosiva",
+      "Ejeção Explosiva",
+      "Explosive Ejection",
+      "Eyección explosiva",
+      "Éjection explosive",
+      "Взрывное катапультирование",
+      "Explosiver Ausstieg",
+      "Ejeção Explosiva",
+      "Espulsione Esplosiva",
+      "폭발 사출",
+      "炸藥彈射",
+      "炸药弹射"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423652,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Radiant Remnant",
+      "Remanente radiante",
+      "Resquício Radiante",
+      "Radiant Remnant",
+      "Remanente radiante",
+      "Vestige radieux",
+      "Сияющие останки",
+      "Strahlendes Überbleibsel",
+      "Resquício Radiante",
+      "Residuo Radioso",
+      "광휘의 잔재",
+      "輻光殘骸",
+      "光耀残渣"
+    ],
+    "Media": "inv_elemental_crystal_fire.jpg"
+  },
+  {
     "TagId": 423653,
     "TagType": 26,
     "Names": [
@@ -8671,6 +11043,27 @@
       "火焰光束"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423654,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ouch!",
+      "¡Auch!",
+      "Ai!",
+      "Ouch!",
+      "¡Ay!",
+      "Ouille\u00A0!",
+      "Ой!",
+      "Autsch!",
+      "Ai!",
+      "Ahia!",
+      "아야!",
+      "好痛！",
+      "真疼！"
+    ],
+    "Media": "spell_frost_stun.jpg"
   },
   {
     "TagId": 423655,
@@ -8818,6 +11211,69 @@
       "静影遮蔽"
     ],
     "Media": "ability_rogue_shroudofconcealment.jpg"
+  },
+  {
+    "TagId": 423663,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Smashing Impact",
+      "Impacto machacante",
+      "Impacto Esmagador",
+      "Smashing Impact",
+      "Impacto destructor",
+      "Impact fracassant",
+      "Мощное столкновение",
+      "Zertrümmernder Einschlag",
+      "Impacto Esmagador",
+      "Impatto Schiantante",
+      "강타의 충격",
+      "強烈撞擊",
+      "碾压撞击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423664,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Embrace the Light",
+      "Abraza la Luz",
+      "Abraçar a Luz",
+      "Embrace the Light",
+      "Abrazar la Luz",
+      "Étreinte de la Lumière",
+      "В объятиях Света",
+      "Umarmung des Lichts",
+      "Abraçar a Luz",
+      "Abbraccio della Luce",
+      "빛의 포용",
+      "擁抱聖光",
+      "拥抱圣光"
+    ],
+    "Media": "spell_holy_fanaticism.jpg"
+  },
+  {
+    "TagId": 423665,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Embrace the Light",
+      "Abraza la Luz",
+      "Abraçar a Luz",
+      "Embrace the Light",
+      "Abrazar la Luz",
+      "Étreinte de la Lumière",
+      "В объятиях Света",
+      "Umarmung des Lichts",
+      "Abraçar a Luz",
+      "Abbraccio della Luce",
+      "빛의 포용",
+      "擁抱聖光",
+      "拥抱圣光"
+    ],
+    "Media": "spell_holy_fanaticism.jpg"
   },
   {
     "TagId": 423666,
@@ -9093,6 +11549,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423680,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersion Crystal",
+      "Cristal de dispersión",
+      "Cristal de Dispersão",
+      "Dispersion Crystal",
+      "Cristal de dispersión",
+      "Cristal de dispersion",
+      "Кристалл рассеивания",
+      "Zerstreuungskristall",
+      "Cristal de Dispersão",
+      "Cristallo della Dispersione",
+      "분산 수정",
+      "散射水晶",
+      "消散水晶"
+    ],
+    "Media": "inv_datacrystal02.jpg"
+  },
+  {
     "TagId": 423681,
     "TagType": 26,
     "Names": [
@@ -9112,6 +11589,27 @@
       "[DNT] Area Trigger: Maiev Point At Me"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423682,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Embrace the Light",
+      "Abraza la Luz",
+      "Abraçar a Luz",
+      "Embrace the Light",
+      "Abrazar la Luz",
+      "Étreinte de la Lumière",
+      "В объятиях Света",
+      "Umarmung des Lichts",
+      "Abraçar a Luz",
+      "Abbraccio della Luce",
+      "빛의 포용",
+      "擁抱聖光",
+      "拥抱圣光"
+    ],
+    "Media": "ability_priest_archangel.jpg"
   },
   {
     "TagId": 423683,
@@ -9156,6 +11654,48 @@
     "Media": "spell_holy_dizzy.jpg"
   },
   {
+    "TagId": 423686,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Essence",
+      "Esencia del Vacío",
+      "Essência do Caos",
+      "Void Essence",
+      "Esencia del Vacío",
+      "Essence du Vide",
+      "Сущность Бездны",
+      "Leerenessenz",
+      "Essência do Caos",
+      "Essenza del Vuoto",
+      "공허 정수",
+      "虛無精華",
+      "虚空精华"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423687,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Decay Burst",
+      "Ráfaga de descomposición",
+      "Explosão de Decomposição",
+      "Decay Burst",
+      "Chorro de descomposición",
+      "Explosion de putréfaction",
+      "Взрыв гнили",
+      "Verfallsexplosion",
+      "Explosão de Decomposição",
+      "Scarica del Decadimento",
+      "부패 폭발",
+      "腐朽爆發",
+      "腐朽迸发"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423688,
     "TagType": 26,
     "Names": [
@@ -9175,6 +11715,27 @@
       "奥术粉碎"
     ],
     "Media": "spell_arcane_arcanetorrent.jpg"
+  },
+  {
+    "TagId": 423689,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Essence",
+      "Esencia del Vacío",
+      "Essência do Caos",
+      "Void Essence",
+      "Esencia del Vacío",
+      "Essence du Vide",
+      "Сущность Бездны",
+      "Leerenessenz",
+      "Essência do Caos",
+      "Essenza del Vuoto",
+      "공허 정수",
+      "虛無精華",
+      "虚空精华"
+    ],
+    "Media": "ability_argus_soulburst.jpg"
   },
   {
     "TagId": 423690,
@@ -9217,6 +11778,69 @@
       "灰烬焦土"
     ],
     "Media": "achievement_zone_cataclysm.jpg"
+  },
+  {
+    "TagId": 423692,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Decay Burst",
+      "Ráfaga de descomposición",
+      "Explosão de Decomposição",
+      "Decay Burst",
+      "Chorro de descomposición",
+      "Explosion de putréfaction",
+      "Взрыв гнили",
+      "Verfallsexplosion",
+      "Explosão de Decomposição",
+      "Scarica del Decadimento",
+      "부패 폭발",
+      "腐朽爆發",
+      "腐朽迸发"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423693,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Luring Candleflame",
+      "Cebo ígneo",
+      "Chama de Vela Atrativa",
+      "Luring Candleflame",
+      "Llamavela atrayente",
+      "Flammebougie attirante",
+      "Свечеприманка",
+      "Köderkerze",
+      "Chama de Vela Atrativa",
+      "Candelfiamma Adescante",
+      "유인의 양초불꽃",
+      "誘引燭焰",
+      "诱引烛焰"
+    ],
+    "Media": "ability_fixated_state_red.jpg"
+  },
+  {
+    "TagId": 423694,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Decay Burst",
+      "Ráfaga de descomposición",
+      "Explosão de Decomposição",
+      "Decay Burst",
+      "Chorro de descomposición",
+      "Explosion de putréfaction",
+      "Взрыв гнили",
+      "Verfallsexplosion",
+      "Explosão de Decomposição",
+      "Scarica del Decadimento",
+      "부패 폭발",
+      "腐朽爆發",
+      "腐朽迸发"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423695,
@@ -9786,6 +12410,48 @@
     "Media": "spell_fire_firebolt02.jpg"
   },
   {
+    "TagId": 423723,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone",
+      "Light Maintain Aura - Kyron Warstone"
+    ],
+    "Media": "ability_paladin_blindinglight2.jpg"
+  },
+  {
+    "TagId": 423724,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter",
+      "Light Trigger - Lamplighter"
+    ],
+    "Media": "ability_paladin_blindinglight2.jpg"
+  },
+  {
     "TagId": 423725,
     "TagType": 26,
     "Names": [
@@ -9889,6 +12555,27 @@
       "标记任务"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423733,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Start",
+      "Iniciar",
+      "Início",
+      "Start",
+      "Iniciar",
+      "Démarrage",
+      "Начало",
+      "Start",
+      "Início",
+      "Inizio",
+      "시작",
+      "開始",
+      "开始"
+    ],
+    "Media": "inv_prg_icon_puzzle04.jpg"
   },
   {
     "TagId": 423734,
@@ -10101,6 +12788,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423745,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Inferno Ateador",
+      "Enkindling Inferno",
+      "Inferno incendiario",
+      "Fournaise d’embrasement",
+      "Зажигающее пекло",
+      "Entzündendes Inferno",
+      "Inferno Ateador",
+      "Inferno Infiammante",
+      "타오르는 지옥불",
+      "點燃地獄火",
+      "燃焰地狱火"
+    ],
+    "Media": "inv_summerfest_firespirit.jpg"
+  },
+  {
     "TagId": 423746,
     "TagType": 26,
     "Names": [
@@ -10248,6 +12956,69 @@
     "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
   },
   {
+    "TagId": 423753,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersal Blast",
+      "Explosión de dispersión",
+      "Impacto de Dispersão",
+      "Dispersal Blast",
+      "Explosión de dispersión",
+      "Explosion dispersive",
+      "Рассеивающий взрыв",
+      "Zerstreuungsschlag",
+      "Impacto de Dispersão",
+      "Detonazione Dispersiva",
+      "분산 작렬",
+      "驅逐爆破",
+      "消散冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423754,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02",
+      "Area trigger 02"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423755,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03",
+      "Area trigger 03"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423756,
     "TagType": 26,
     "Names": [
@@ -10267,6 +13038,48 @@
       "[DNT] Discovered 33%"
     ],
     "Media": "inv_professions_inscription_scribesmagnifyingglass_gold.jpg"
+  },
+  {
+    "TagId": 423757,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04",
+      "Area trigger 04"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423758,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05",
+      "Area trigger 05"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423759,
@@ -10311,6 +13124,69 @@
     "Media": "spell_shadow_deathsembrace.jpg"
   },
   {
+    "TagId": 423761,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06",
+      "Area trigger 06"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423762,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07",
+      "Area trigger 07"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423763,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08",
+      "Area trigger 08"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423764,
     "TagType": 26,
     "Names": [
@@ -10353,6 +13229,27 @@
     "Media": "inv_shadowflame_orb.jpg"
   },
   {
+    "TagId": 423766,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fracturing Blows",
+      "Golpes fracturantes",
+      "Arcos Rachados",
+      "Fracturing Blows",
+      "Golpes fisuradores",
+      "Coups fracturant",
+      "Разбивающие удары",
+      "Brechende Hiebe",
+      "Arcos Rachados",
+      "Colpi Fratturanti",
+      "분쇄 강타",
+      "斷裂猛擊",
+      "破碎打击"
+    ],
+    "Media": "inv_10_blacksmithing_consumable_repairhammer_color2.jpg"
+  },
+  {
     "TagId": 423767,
     "TagType": 26,
     "Names": [
@@ -10370,6 +13267,27 @@
       "이름 무효화",
       "Name Override",
       "名称覆盖"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423768,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dispersal Blast",
+      "Explosión de dispersión",
+      "Impacto de Dispersão",
+      "Dispersal Blast",
+      "Explosión de dispersión",
+      "Explosion dispersive",
+      "Рассеивающий взрыв",
+      "Zerstreuungsschlag",
+      "Impacto de Dispersão",
+      "Detonazione Dispersiva",
+      "분산 작렬",
+      "驅逐爆破",
+      "消散冲击"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10498,6 +13416,69 @@
       "名称覆盖"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423777,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Just Die",
+      "Muere y ya",
+      "Caia Morto",
+      "Just Die",
+      "Muérete",
+      "À mort",
+      "Умрите уже",
+      "Sterbt endlich",
+      "Caia Morto",
+      "E Muori",
+      "순순히 죽어라",
+      "死去",
+      "死去"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423778,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Blast",
+      "Explosión del Vacío",
+      "Impacto do Caos",
+      "Void Blast",
+      "Explosión del Vacío",
+      "Trait de Vide",
+      "Вспышка Бездны",
+      "Leerenschlag",
+      "Impacto do Caos",
+      "Detonazione del Vuoto",
+      "공허의 폭발",
+      "虛無衝擊",
+      "虚空冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423779,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Blast",
+      "Explosión del Vacío",
+      "Impacto do Caos",
+      "Void Blast",
+      "Explosión del Vacío",
+      "Trait de Vide",
+      "Вспышка Бездны",
+      "Leerenschlag",
+      "Impacto do Caos",
+      "Detonazione del Vuoto",
+      "공허의 폭발",
+      "虛無衝擊",
+      "虚空冲击"
+    ],
+    "Media": "spell_arcane_invocation.jpg"
   },
   {
     "TagId": 423780,
@@ -10710,6 +13691,27 @@
     "Media": "inv_mace_2h_titankeepertyr_d_01.jpg"
   },
   {
+    "TagId": 423793,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Exit",
+      "Salir",
+      "Saída",
+      "Exit",
+      "Salir",
+      "Quitter",
+      "Выход",
+      "Ausgang",
+      "Saída",
+      "Uscita",
+      "나가기",
+      "退出",
+      "退出"
+    ],
+    "Media": "misc_rnrredxbutton.jpg"
+  },
+  {
     "TagId": 423794,
     "TagType": 26,
     "Names": [
@@ -10727,6 +13729,48 @@
       "[DNT]Periodic Trigger - Suzska Water Missiles",
       "[DNT]Periodic Trigger - Suzska Water Missiles",
       "[DNT]Periodic Trigger - Suzska Water Missiles"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423795,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Restart",
+      "Reiniciar",
+      "Reiniciar",
+      "Restart",
+      "Reiniciar",
+      "Redémarrer",
+      "Перезапуск",
+      "Neu starten",
+      "Reiniciar",
+      "Riavvio",
+      "재시작",
+      "重新啟動",
+      "重新开始"
+    ],
+    "Media": "misc_rnrredxbutton.jpg"
+  },
+  {
+    "TagId": 423796,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Win",
+      "Victoria",
+      "Vitória",
+      "Win",
+      "Victoria",
+      "Victoire",
+      "Победа",
+      "Sieg",
+      "Vitória",
+      "Vittoria",
+      "승리",
+      "獲勝",
+      "胜利"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10750,6 +13794,27 @@
       "派对必需品"
     ],
     "Media": "inv_helm_misc_starpartyhat.jpg"
+  },
+  {
+    "TagId": 423798,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Web Wrap",
+      "Trampa arácnida",
+      "Invólucro de Teia",
+      "Web Wrap",
+      "Trampa arácnida",
+      "Entoilage",
+      "Кокон",
+      "Fangnetz",
+      "Invólucro de Teia",
+      "Ragnatela Avvolgente",
+      "거미줄 감싸기",
+      "纏繞之網",
+      "裹体之网"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423799,
@@ -10792,6 +13857,27 @@
       "[DNT]Periodic Trigger - Buri Wind Missiles"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423801,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Web Wrap",
+      "Trampa arácnida",
+      "Invólucro de Teia",
+      "Web Wrap",
+      "Trampa arácnida",
+      "Entoilage",
+      "Кокон",
+      "Fangnetz",
+      "Invólucro de Teia",
+      "Ragnatela Avvolgente",
+      "거미줄 감싸기",
+      "纏繞之網",
+      "裹体之网"
+    ],
+    "Media": "spell_nature_earthbind.jpg"
   },
   {
     "TagId": 423802,
@@ -10899,6 +13985,27 @@
     "Media": "ability_evoker_dreambreath.jpg"
   },
   {
+    "TagId": 423809,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Escape",
+      "Escapar",
+      "Fuga",
+      "Escape",
+      "Escapar",
+      "Fuir",
+      "Бегство",
+      "Flucht",
+      "Fuga",
+      "Fuga",
+      "탈출",
+      "逃脫",
+      "逃脱"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 423810,
     "TagType": 26,
     "Names": [
@@ -10962,6 +14069,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423813,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Missile",
+      "Lanzar misil",
+      "Projétil de Fogo",
+      "Fire Missile",
+      "Misil de fuego",
+      "Tir de projectile",
+      "Огненная стрела",
+      "Feuergeschoss",
+      "Projétil de Fogo",
+      "Lancio Missile",
+      "미사일 발사",
+      "發射飛彈",
+      "烈焰飞弹"
+    ],
+    "Media": "inv_inscription_inkyellow03.jpg"
+  },
+  {
     "TagId": 423814,
     "TagType": 26,
     "Names": [
@@ -10981,6 +14109,48 @@
       "焖燃窒息"
     ],
     "Media": "warlock_pvp_cursefragility.jpg"
+  },
+  {
+    "TagId": 423816,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Web Break",
+      "Romper telaraña",
+      "Partir Teia",
+      "Web Break",
+      "Rotura de telaraña",
+      "Évase-toile",
+      "Разрыв паутины",
+      "Netzbruch",
+      "Partir Teia",
+      "Rottura Ragnatela",
+      "거미줄 끊기",
+      "突破網羅",
+      "蛛网破碎"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423817,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slow Fall",
+      "Caída lenta",
+      "Queda Lenta",
+      "Slow Fall",
+      "Caída lenta",
+      "Chute lente",
+      "Замедленное падение",
+      "Langsamer Fall",
+      "Queda Lenta",
+      "Caduta Lenta",
+      "저속 낙하",
+      "緩落術",
+      "缓落"
+    ],
+    "Media": "spell_magic_featherfall.jpg"
   },
   {
     "TagId": 423818,
@@ -11177,7 +14347,7 @@
     "Names": [
       null,
       "Riding Along",
-      "Montando",
+      "Montando en compañía",
       "Companhia de Montaria",
       "Riding Along",
       "Montando",
@@ -11198,7 +14368,7 @@
     "Names": [
       null,
       "Riding Along",
-      "Montando",
+      "Montando en compañía",
       "Companhia de Montaria",
       "Riding Along",
       "Montando",
@@ -11219,7 +14389,7 @@
     "Names": [
       null,
       "Riding Along",
-      "Montando",
+      "Montando en compañía",
       "Companhia de Montaria",
       "Riding Along",
       "Montando",
@@ -11340,6 +14510,27 @@
     "Media": "warlock_pvp_cursefragility.jpg"
   },
   {
+    "TagId": 423839,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Electrocuted",
+      "Electrocutado",
+      "Eletrocutado",
+      "Electrocuted",
+      "Electrocución",
+      "Électrocution",
+      "Поражение током",
+      "Geschockt",
+      "Eletrocutado",
+      "Elettrizzato",
+      "감전 충격",
+      "過度電擊",
+      "电晕"
+    ],
+    "Media": "spell_shaman_staticshock.jpg"
+  },
+  {
     "TagId": 423840,
     "TagType": 26,
     "Names": [
@@ -11401,6 +14592,48 @@
       "狂乱激涌"
     ],
     "Media": "spell_fire_twilightflamebreath.jpg"
+  },
+  {
+    "TagId": 423851,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Construct Canker",
+      "Úlcera de ensamblaje",
+      "Corroedor de Constructos",
+      "Construct Canker",
+      "Cancro de ensamblaje",
+      "Chancre des assemblages",
+      "Создание язвы",
+      "Konstruktwucherung",
+      "Corroedor de Constructos",
+      "Sporiasi",
+      "궤양버섯 피조물",
+      "紅瘡蘑菇",
+      "构造溃疡"
+    ],
+    "Media": "spell_druid_wildmushroom_frenzy.jpg"
+  },
+  {
+    "TagId": 423852,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dormouse Ecila",
+      "Lirón Ecila",
+      "Arganaz Eclia",
+      "Dormouse Ecila",
+      "Lirón Aicila",
+      "Loir Écila",
+      "Соня Асила",
+      "Haselmaus Ecila",
+      "Arganaz Eclia",
+      "Ecila il Ghiro",
+      "겨울잠쥐 스리앨",
+      "菇蘑絲麗愛",
+      "榛睡鼠丝丽爱"
+    ],
+    "Media": "spell_druid_wildmushroom_bloom.jpg"
   },
   {
     "TagId": 423853,
@@ -11928,6 +15161,27 @@
     "Media": "inv_pet_ancientprotector_spring.jpg"
   },
   {
+    "TagId": 423882,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit",
+      "Overload Test Deposit"
+    ],
+    "Media": "ability_bossfelmagnaron_hand.jpg"
+  },
+  {
     "TagId": 423883,
     "TagType": 26,
     "Names": [
@@ -12283,6 +15537,27 @@
       "潮汐热浪"
     ],
     "Media": "spell_shaman_lavaburst.jpg"
+  },
+  {
+    "TagId": 423901,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Small Light",
+      "Luz pequeña",
+      "Luz Fraca",
+      "Small Light",
+      "Luz pequeña",
+      "Petite lueur",
+      "Небольшой источник света",
+      "Kleines Licht",
+      "Luz Fraca",
+      "Luce Piccola",
+      "작은 불빛",
+      "微弱聖光",
+      "微弱光芒"
+    ],
+    "Media": "ability_paladin_blindinglight2.jpg"
   },
   {
     "TagId": 423902,
@@ -12789,6 +16064,26 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 423931,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wax pool",
+      "Charco de cera",
+      "Poço de cera",
+      "Wax pool",
+      "Charco de cera",
+      "Flaque de cire",
+      "Лужа воска",
+      "Wachspfütze",
+      "Poço de cera",
+      "Pozza di Cera",
+      "밀랍 웅덩이",
+      "蠟池",
+      "蜡油滩"
+    ]
+  },
+  {
     "TagId": 423932,
     "TagType": 26,
     "Names": [
@@ -12808,6 +16103,27 @@
       "莫拉夫最喜欢的石头"
     ],
     "Media": "talentspec_druid_feral_bear.jpg"
+  },
+  {
+    "TagId": 423934,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wax pool",
+      "Charco de cera",
+      "Poço de cera",
+      "Wax pool",
+      "Charco de cera",
+      "Flaque de cire",
+      "Лужа воска",
+      "Wachspfütze",
+      "Poço de cera",
+      "Pozza di Cera",
+      "밀랍 웅덩이",
+      "蠟池",
+      "蜡油滩"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 423935,
@@ -12913,6 +16229,48 @@
       "利斧投掷"
     ],
     "Media": "ability_hunter_swiftstrike.jpg"
+  },
+  {
+    "TagId": 423940,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Weaver's Glue",
+      "Pegote de tejedor",
+      "Cola do Tecelão",
+      "Weaver's Glue",
+      "Pegamento de tejedora",
+      "Colle de Tisserande",
+      "Клей ткача",
+      "Weberkleber",
+      "Cola do Tecelão",
+      "Colla del Tessitela",
+      "방직공의 접착제",
+      "編織者黏液",
+      "纺织者黏胶"
+    ],
+    "Media": "inv_misc_web_01.jpg"
+  },
+  {
+    "TagId": 423941,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poison Lash",
+      "Latigazo venenoso",
+      "Açoite Venenoso",
+      "Poison Lash",
+      "Latigazo venenoso",
+      "Fouet empoisonné",
+      "Ядовитый хлыст",
+      "Giftpeitsche",
+      "Açoite Venenoso",
+      "Sferzata Avvelenata",
+      "독 채찍",
+      "劇毒鞭笞",
+      "剧毒鞭笞"
+    ],
+    "Media": "ability_creature_poison_02.jpg"
   },
   {
     "TagId": 423942,
@@ -13650,6 +17008,69 @@
     "Media": "inv_misc_herb_liferoot_stem.jpg"
   },
   {
+    "TagId": 423979,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Implosion",
+      "Implosión",
+      "Implosão",
+      "Implosion",
+      "Implosión",
+      "Implosion",
+      "Имплозия",
+      "Implosion",
+      "Implosão",
+      "Implosione",
+      "파열",
+      "內爆",
+      "内爆"
+    ],
+    "Media": "spell_priest_void blast.jpg"
+  },
+  {
+    "TagId": 423980,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Implosion",
+      "Implosión",
+      "Implosão",
+      "Implosion",
+      "Implosión",
+      "Implosion",
+      "Имплозия",
+      "Implosion",
+      "Implosão",
+      "Implosione",
+      "파열",
+      "內爆",
+      "内爆"
+    ],
+    "Media": "spell_priest_void blast.jpg"
+  },
+  {
+    "TagId": 423981,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Implosion",
+      "Implosión",
+      "Implosão",
+      "Implosion",
+      "Implosión",
+      "Implosion",
+      "Имплозия",
+      "Implosion",
+      "Implosão",
+      "Implosione",
+      "파열",
+      "內爆",
+      "内爆"
+    ],
+    "Media": "spell_priest_void blast.jpg"
+  },
+  {
     "TagId": 423982,
     "TagType": 26,
     "Names": [
@@ -13858,6 +17279,27 @@
       "菜单普通 Q"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 423992,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blast Charge",
+      "Carga explosiva",
+      "Carga Explosiva",
+      "Blast Charge",
+      "Carga súbita",
+      "Charge explosive",
+      "Заряд взрывчатки",
+      "Stoßansturm",
+      "Carga Explosiva",
+      "Carica Esplosiva",
+      "작렬 돌진",
+      "爆炸衝鋒",
+      "起爆炸药"
+    ],
+    "Media": "inv_offhand_1h_dynamite_a_01.jpg"
   },
   {
     "TagId": 423993,

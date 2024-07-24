@@ -294,12 +294,33 @@
     "Media": "ability_ambush.jpg"
   },
   {
+    "TagId": 210017,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fungal Fish",
+      "Pez fúngico",
+      "Peixe Fúngico",
+      "Fungal Fish",
+      "Pez fúngico",
+      "Poisson fongique",
+      "Гриборыба",
+      "Fungusfisch",
+      "Peixe Fúngico",
+      "Pesce Fungino",
+      "곰팡이 생선",
+      "真菌魚",
+      "真菌鱼"
+    ],
+    "Media": "druid_ability_wildmushroom_b.jpg"
+  },
+  {
     "TagId": 210020,
     "TagType": 21,
     "Names": [
       null,
       "Thundering Stormrider's Grips",
-      "Mandiletes atronadores de jinete de la tormenta",
+      "Mandiletes de jinete de la tormenta atronador",
       "Guantes do Cavalgaventos Trovejante",
       "Thundering Stormrider's Grips",
       "Mandiletes de jinete de la tormenta atronador",
@@ -320,7 +341,7 @@
     "Names": [
       null,
       "Thundering Stormrider's Breastplate",
-      "Coraza atronadora de jinete de la tormenta",
+      "Coraza de jinete de la tormenta atronador",
       "Peitoral do Cavalgaventos Trovejante",
       "Thundering Stormrider's Breastplate",
       "Coraza de jinete de la tormenta atronador",
@@ -775,6 +796,27 @@
       "神秘之种"
     ],
     "Media": "spell_lifegivingseed.jpg"
+  },
+  {
+    "TagId": 210051,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spark Feather",
+      "Pluma chispeante",
+      "Pena de Centelha",
+      "Spark Feather",
+      "Pluma de chispas",
+      "Plume d’étincelle",
+      "Сверкающее перо",
+      "Funkenfeder",
+      "Pena de Centelha",
+      "Piuma di Scintilla",
+      "불꽃 깃털",
+      "火花羽毛",
+      "火花羽毛"
+    ],
+    "Media": "inv_feather_13.jpg"
   },
   {
     "TagId": 210052,
@@ -3448,19 +3490,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Handful of Pebbles",
+      "Handful of Tiny Pebbles",
       "Puñado de piedritas",
-      "Punhado de Pedras",
-      "Handful of Pebbles",
-      "Puñado de guijarros",
-      "Poignée de gravillons",
-      "Горсть камней",
-      "Handvoll Kiesel",
-      "Punhado de Pedras",
-      "Manciata di Sassolini",
-      "조약돌 한 줌",
+      "Punhado de Pedrinhas",
+      "Handful of Tiny Pebbles",
+      "Puñado de guijarros minúsculos",
+      "Poignée de petits gravillons",
+      "Горсть камушков",
+      "Handvoll winziger Kiesel",
+      "Punhado de Pedrinhas",
+      "Manciata di Piccoli Sassolini",
+      "작은 조약돌 한 줌",
       "一把小石頭",
-      "一把砾石"
+      "一把小卵石"
     ],
     "Media": "archaeology_5_0_crackedmogurunestone.jpg"
   },
@@ -3738,6 +3780,48 @@
     "Media": "inv_misc_bag_04.jpg"
   },
   {
+    "TagId": 210220,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Resilient Mask",
+      "Máscara resistente",
+      "Máscara Resiliente",
+      "Resilient Mask",
+      "Máscara resistente",
+      "Masque résistant",
+      "Эластичная маска",
+      "Widerstandsfähige Maske",
+      "Máscara Resiliente",
+      "Maschera Resiliente",
+      "견고한 가면",
+      "強韌面具",
+      "强韧面具"
+    ],
+    "Media": "inv_leather_dragonquest_b_01_helm.jpg"
+  },
+  {
+    "TagId": 210221,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forged Combatant's Heraldry",
+      "Heráldica del combatiente forjada",
+      "Heráldica do Combatente Forjado",
+      "Forged Combatant's Heraldry",
+      "Heráldica de Combatiente forjado",
+      "Blason de combattante forgé",
+      "Геральдика кованого бойца",
+      "Wappenbuch des geschmiedeten Kämpfers",
+      "Heráldica do Combatente Forjado",
+      "Stemma del Combattente Forgiato",
+      "제련된 전투원의 표상",
+      "百鍊戰鬥者徽章",
+      "炉铸争斗者的纹章"
+    ],
+    "Media": "inv_competition_placement_ribbon_green.jpg"
+  },
+  {
     "TagId": 210222,
     "TagType": 21,
     "Names": [
@@ -3904,6 +3988,48 @@
       "永燃之核"
     ],
     "Media": "inv_elemental_mote_fire01.jpg"
+  },
+  {
+    "TagId": 210232,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forged Aspirant's Heraldry",
+      "Heráldica del aspirante forjada",
+      "Heráldica do Aspirante Forjado",
+      "Forged Aspirant's Heraldry",
+      "Heráldica de aspirante forjado",
+      "Blason d’aspirant forgé",
+      "Геральдика кованого претендента",
+      "Wappenbuch des geschmiedeten Aspiranten",
+      "Heráldica do Aspirante Forjado",
+      "Stemma del Pretendente Forgiato",
+      "제련된 지원자의 표상",
+      "百鍊志士徽章",
+      "炉铸候选者的纹章"
+    ],
+    "Media": "inv_competition_placement_ribbon_blue.jpg"
+  },
+  {
+    "TagId": 210233,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forged Gladiator's Heraldry",
+      "Heráldica del gladiador forjada",
+      "Heráldica do Gladiador Forjado",
+      "Forged Gladiator's Heraldry",
+      "Heráldica de Gladiador forjado",
+      "Blason du gladiateur forgé",
+      "Геральдика кованого гладиатора",
+      "Wappenbuch des geschmiedeten Gladiators",
+      "Heráldica do Gladiador Forjado",
+      "Stemma del Gladiatore Forgiato",
+      "제련된 검투사의 표상",
+      "百鍊鬥士徽章",
+      "炉铸角斗士的纹章"
+    ],
+    "Media": "inv_competition_placement_ribbon_purple.jpg"
   },
   {
     "TagId": 210234,
@@ -5611,19 +5737,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Medal of Honor",
-      "Medalla de honor",
-      "Medalha da Honra",
-      "Medal of Honor",
-      "Medalla de honor",
-      "Médaille d’honneur",
-      "Почетная медаль",
-      "Ehrenmedaille",
-      "Medalha da Honra",
-      "Medaglia d'Onore",
-      "명예의 훈장",
-      "榮譽勳章",
-      "荣誉勋章"
+      "Cracked Medal of Honor",
+      "Medalla de honor quebrada",
+      "Medalha da Honra Rachada",
+      "Cracked Medal of Honor",
+      "Medalla de honor rota",
+      "Médaille d’honneur craquelée",
+      "Надтреснутая почетная медаль",
+      "Gesprungene Ehrenmedaille",
+      "Medalha da Honra Rachada",
+      "Medaglia d'Onore Incrinata",
+      "금이 간 명예의 훈장",
+      "裂開的榮耀勳章",
+      "开裂的荣誉勋章"
     ],
     "Media": "pvpcurrency-conquest-alliance.jpg"
   },
@@ -5632,19 +5758,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Medal of Honor",
-      "Medalla de honor",
-      "Medalha da Honra",
-      "Medal of Honor",
-      "Medalla de honor",
-      "Médaille d’honneur",
-      "Почетная медаль",
-      "Ehrenmedaille",
-      "Medalha da Honra",
-      "Medaglia d'Onore",
-      "명예의 훈장",
-      "榮譽勳章",
-      "荣誉勋章"
+      "Cracked Medal of Honor",
+      "Medalla de honor quebrada",
+      "Medalha da Honra Rachada",
+      "Cracked Medal of Honor",
+      "Medalla de honor rota",
+      "Médaille d’honneur craquelée",
+      "Надтреснутая почетная медаль",
+      "Gesprungene Ehrenmedaille",
+      "Medalha da Honra Rachada",
+      "Medaglia d'Onore Incrinata",
+      "금이 간 명예의 훈장",
+      "裂開的榮耀勳章",
+      "开裂的荣誉勋章"
     ],
     "Media": "pvpcurrency-conquest-horde.jpg"
   },
@@ -7396,19 +7522,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Formula: Intoxicating Toxic Perfume",
-      "Fórmula: Perfume tóxico intoxicante",
-      "Fórmula: Perfume Tóxico Intoxicante",
-      "Formula: Intoxicating Toxic Perfume",
-      "Fórmula: perfume tóxico embriagador",
-      "Formule\u00A0: parfum entêtant toxique",
-      "Формула: дурманящий ядовитый парфюм",
-      "Formel: Berauschendes giftiges Parfüm",
-      "Fórmula: Perfume Tóxico Intoxicante",
-      "Formula: Profumo Tossico Inebriante",
-      "주문식: 중독적인 독성 향수",
-      "公式：令人陶醉的毒香水",
-      "公式：醉毒香水"
+      "Intoxicating Toxic Perfume Formula",
+      "Fórmula de perfume tóxico intoxicante",
+      "Fórmula de Perfume Tóxico e Intoxicante",
+      "Intoxicating Toxic Perfume Formula",
+      "Fórmula de perfume tóxico embriagador",
+      "Formule de parfum toxique enivrant",
+      "Формула дурманящего ядовитого парфюма",
+      "Formel für berauschendes toxisches Parfüm",
+      "Fórmula de Perfume Tóxico e Intoxicante",
+      "Formula del Profumo Tossico Inebriante",
+      "중독적인 독성 향수 조제식",
+      "令人陶醉的毒香水配方",
+      "醉毒香水公式"
     ],
     "Media": "inv_misc_paperbundle04b.jpg"
   },
@@ -8820,6 +8946,27 @@
     "Media": "inv_sword_2h_dragonpvp_01.jpg"
   },
   {
+    "TagId": 210489,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lodestone",
+      "Magnetita",
+      "Magnetita",
+      "Lodestone",
+      "Magnetita",
+      "Magnétite",
+      "Магнетит",
+      "Leitstein",
+      "Magnetita",
+      "Magnetite",
+      "자철석",
+      "磁石",
+      "磁石"
+    ],
+    "Media": "inv_stone_sharpeningstone_06.jpg"
+  },
+  {
     "TagId": 210490,
     "TagType": 21,
     "Names": [
@@ -9484,7 +9631,7 @@
       "Амулет путешественника во времени",
       "Amulett des Zeitläufers",
       "Amuleto do Trilha-tempo",
-      "Amuleto del Corridore Temporale",
+      "Amuleto del Corridore nel Tempo",
       "시간질주자의 아뮬렛",
       "時光奔走者護符",
       "时空奔行者的项链"
@@ -10414,6 +10561,27 @@
       "苍郁装备箱"
     ],
     "Media": "inv_misc_treasurechest01d.jpg"
+  },
+  {
+    "TagId": 210574,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_bluearmor.jpg"
   },
   {
     "TagId": 210575,
@@ -11527,6 +11695,27 @@
       "阿莎曼的虬枝"
     ],
     "Media": "inv_staff_91.jpg"
+  },
+  {
+    "TagId": 210632,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Auebry's Farshooter",
+      "Lontarifle de Auebry",
+      "Tirolongo de Aubril",
+      "Auebry's Farshooter",
+      "Rifle de tirador de Auebry",
+      "Tire-loin d’Auebry",
+      "Дальнострел Обри",
+      "Auebrys Fernbüchse",
+      "Tirolongo de Aubril",
+      "Sparalungo di Auebry",
+      "오브리의 장거리 발사기",
+      "奧布雷的遠程發射器",
+      "奥布雷的远射枪"
+    ],
+    "Media": "inv_weapon_rifle_40.jpg"
   },
   {
     "TagId": 210633,
@@ -12663,6 +12852,27 @@
     "Media": "ability_ardenweald_paladin_winter.jpg"
   },
   {
+    "TagId": 210693,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Delves Keystone",
+      "Piedra angular de abismo",
+      "Pedra-chave dos Grotões",
+      "Delves Keystone",
+      "Piedra angular de las profundidades",
+      "Clé mythique du Gouffre",
+      "Ключ вылазки",
+      "Tiefenschlüsselstein",
+      "Pedra-chave dos Grotões",
+      "Pietra delle Scorribande",
+      "구렁 쐐기돌",
+      "探究鑰石",
+      "地下堡钥石"
+    ],
+    "Media": "inv_relics_hourglass_02.jpg"
+  },
+  {
     "TagId": 210694,
     "TagType": 21,
     "Names": [
@@ -12703,6 +12913,69 @@
       "欢愉巧克力样本"
     ],
     "Media": "inv_valentineschocolate01.jpg"
+  },
+  {
+    "TagId": 210697,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Luckstone",
+      "Piedra de la suerte",
+      "Pedra da Sorte",
+      "Luckstone",
+      "Piedra de la suerte",
+      "Pierre de chance",
+      "Камень удачи",
+      "Glücksstein",
+      "Pedra da Sorte",
+      "Pietra della Fortuna",
+      "행운돌",
+      "運氣石",
+      "幸运石"
+    ],
+    "Media": "inv_10_alchemy_alchemystone_color3.jpg"
+  },
+  {
+    "TagId": 210698,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rare Delve Key",
+      "Llave de abismo rara",
+      "Chave Rara dos Grotões",
+      "Rare Delve Key",
+      "Llave de las profundidades poco común",
+      "Clé du Gouffre rare",
+      "Редкий ключ вылазок",
+      "Seltener Tiefenschlüssel",
+      "Chave Rara dos Grotões",
+      "Chiave delle Scorribande Rara",
+      "희귀 구렁 열쇠",
+      "精良探究鑰匙",
+      "精良地下堡钥匙"
+    ],
+    "Media": "inv_misc_key_08.jpg"
+  },
+  {
+    "TagId": 210699,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Epic Delve Key",
+      "Llave de abismo épica",
+      "Chave Épica dos Grotões",
+      "Epic Delve Key",
+      "Llave de las profundidades épica",
+      "Clé du Gouffre épique",
+      "Эпический ключ вылазок",
+      "Epischer Tiefenschlüssel",
+      "Chave Épica dos Grotões",
+      "Chiave delle Scorribande Epica",
+      "영웅 구렁 열쇠",
+      "史詩探究鑰匙",
+      "史诗地下堡钥匙"
+    ],
+    "Media": "inv_misc_key_02.jpg"
   },
   {
     "TagId": 210700,
@@ -13230,6 +13503,69 @@
     "Media": "inv_titan_runestones_icon.jpg"
   },
   {
+    "TagId": 210732,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Machinist's Calipers",
+      "Compás de maquinista",
+      "Paquímetros do Maquinista",
+      "Machinist's Calipers",
+      "Calibrador de maquinista",
+      "Compas de machiniste",
+      "Штангенциркуль механика",
+      "Messschieber des Maschinisten",
+      "Paquímetros do Maquinista",
+      "Calibro del Macchinista",
+      "기계공의 밀림자",
+      "機械工的卡尺",
+      "机械师的卡尺"
+    ],
+    "Media": "inv_misc_1h_caliper_b_01.jpg"
+  },
+  {
+    "TagId": 210733,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Machinist's Gauge",
+      "Medidor de maquinista",
+      "Medidor do Maquinista",
+      "Machinist's Gauge",
+      "Medidor de maquinista",
+      "Jauge de machiniste",
+      "Манометр механика",
+      "Anzeige des Maschinisten",
+      "Medidor do Maquinista",
+      "Misuratore del Macchinista",
+      "기계공의 계량기",
+      "機械工的量錶",
+      "机械师的测量仪"
+    ],
+    "Media": "inv_gizmo_bronzeframework_01.jpg"
+  },
+  {
+    "TagId": 210734,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Machinist's Wrench",
+      "Llave de maquinista",
+      "Chave de Boca do Maquinista",
+      "Machinist's Wrench",
+      "Llave de maquinista",
+      "Clé à molette de machiniste",
+      "Ключ механика",
+      "Schraubenschlüssel des Maschinisten",
+      "Chave de Boca do Maquinista",
+      "Chiave Meccanica del Macchinista",
+      "기계공의 스패너",
+      "機械工的扳手",
+      "机械师的扳手"
+    ],
+    "Media": "inv_misc_wrench_01.jpg"
+  },
+  {
     "TagId": 210735,
     "TagType": 21,
     "Names": [
@@ -13335,6 +13671,27 @@
     "Media": "inv_titan_runestones_icon.jpg"
   },
   {
+    "TagId": 210740,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Machinist's Calibrated Weight",
+      "Pesa calibrada de maquinista",
+      "Peso Calibrado do Maquinista",
+      "Machinist's Calibrated Weight",
+      "Peso de calibración de maquinista",
+      "Poids de calibrage de machiniste",
+      "Калибровочная гиря механика",
+      "Kalibriertes Gewicht des Maschinisten",
+      "Peso Calibrado do Maquinista",
+      "Peso Calibrato del Macchinista",
+      "기계공의 조정된 무게추",
+      "機械工的校準砝碼",
+      "机械师的精调砝码"
+    ],
+    "Media": "inv_stone_weightstone_07.jpg"
+  },
+  {
     "TagId": 210743,
     "TagType": 21,
     "Names": [
@@ -13354,6 +13711,27 @@
       "借来的照相机"
     ],
     "Media": "inv_misc_ selfiecamera_01.jpg"
+  },
+  {
+    "TagId": 210745,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Firelight Spud",
+      "Trufa de lumbre",
+      "Batata Flamaluz",
+      "Firelight Spud",
+      "Patata Fuegoluz",
+      "Pomme de terre lumiflamme",
+      "Огненный картофель",
+      "Feuerscheinknolle",
+      "Batata Flamaluz",
+      "Patata di Fuocoluce",
+      "불빛 감자",
+      "火光馬鈴薯",
+      "焰光马铃薯"
+    ],
+    "Media": "inv_cooking_80_brownpotato.jpg"
   },
   {
     "TagId": 210751,
@@ -14091,6 +14469,405 @@
     "Media": "inv_trinket_fragmentofsulfuras.jpg"
   },
   {
+    "TagId": 210796,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mycobloom",
+      "Micobrote",
+      "Micoflorescência",
+      "Mycobloom",
+      "Micoflor",
+      "Champifleur",
+      "Микоцвет",
+      "Mykopracht",
+      "Micoflorescência",
+      "Micofiore",
+      "진균꽃",
+      "真菌花",
+      "菌丝花"
+    ],
+    "Media": "inv_misc_herb_mycobloom.jpg"
+  },
+  {
+    "TagId": 210797,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mycobloom",
+      "Micobrote",
+      "Micoflorescência",
+      "Mycobloom",
+      "Micoflor",
+      "Champifleur",
+      "Микоцвет",
+      "Mykopracht",
+      "Micoflorescência",
+      "Micofiore",
+      "진균꽃",
+      "真菌花",
+      "菌丝花"
+    ],
+    "Media": "inv_misc_herb_mycobloom.jpg"
+  },
+  {
+    "TagId": 210798,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mycobloom",
+      "Micobrote",
+      "Micoflorescência",
+      "Mycobloom",
+      "Micoflor",
+      "Champifleur",
+      "Микоцвет",
+      "Mykopracht",
+      "Micoflorescência",
+      "Micofiore",
+      "진균꽃",
+      "真菌花",
+      "菌丝花"
+    ],
+    "Media": "inv_misc_herb_mycobloom.jpg"
+  },
+  {
+    "TagId": 210799,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Luredrop",
+      "Cebolumos",
+      "Gotisca",
+      "Luredrop",
+      "Cebo mortal",
+      "Pose-appât",
+      "Блесница",
+      "Reiztropfen",
+      "Gotisca",
+      "Gocciaricca",
+      "유혹방울",
+      "誘滴草",
+      "惑露堇"
+    ],
+    "Media": "inv_misc_herb_luredrop.jpg"
+  },
+  {
+    "TagId": 210800,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Luredrop",
+      "Cebolumos",
+      "Gotisca",
+      "Luredrop",
+      "Cebo mortal",
+      "Pose-appât",
+      "Блесница",
+      "Reiztropfen",
+      "Gotisca",
+      "Gocciaricca",
+      "유혹방울",
+      "誘滴草",
+      "惑露堇"
+    ],
+    "Media": "inv_misc_herb_luredrop.jpg"
+  },
+  {
+    "TagId": 210801,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Luredrop",
+      "Cebolumos",
+      "Gotisca",
+      "Luredrop",
+      "Cebo mortal",
+      "Pose-appât",
+      "Блесница",
+      "Reiztropfen",
+      "Gotisca",
+      "Gocciaricca",
+      "유혹방울",
+      "誘滴草",
+      "惑露堇"
+    ],
+    "Media": "inv_misc_herb_luredrop.jpg"
+  },
+  {
+    "TagId": 210802,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Orbinid",
+      "Orbínida",
+      "Orbinídea",
+      "Orbinid",
+      "Orbínida",
+      "Orbinide",
+      "Кольчатка",
+      "Orbinid",
+      "Orbinídea",
+      "Orbinide",
+      "구슬꽃",
+      "錐頭草",
+      "球首兰"
+    ],
+    "Media": "inv_misc_herb_orbinid.jpg"
+  },
+  {
+    "TagId": 210803,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Orbinid",
+      "Orbínida",
+      "Orbinídea",
+      "Orbinid",
+      "Orbínida",
+      "Orbinide",
+      "Кольчатка",
+      "Orbinid",
+      "Orbinídea",
+      "Orbinide",
+      "구슬꽃",
+      "錐頭草",
+      "球首兰"
+    ],
+    "Media": "inv_misc_herb_orbinid.jpg"
+  },
+  {
+    "TagId": 210804,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Orbinid",
+      "Orbínida",
+      "Orbinídea",
+      "Orbinid",
+      "Orbínida",
+      "Orbinide",
+      "Кольчатка",
+      "Orbinid",
+      "Orbinídea",
+      "Orbinide",
+      "구슬꽃",
+      "錐頭草",
+      "球首兰"
+    ],
+    "Media": "inv_misc_herb_orbinid.jpg"
+  },
+  {
+    "TagId": 210805,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blessing Blossom",
+      "Flor fantástica",
+      "Flor da Bênção",
+      "Blessing Blossom",
+      "Flor de la bendición",
+      "Floraison bénie",
+      "Благоцвет",
+      "Segensblume",
+      "Flor da Bênção",
+      "Bocciolo della Benedizione",
+      "축복화",
+      "祝綻花",
+      "圣祝棠"
+    ],
+    "Media": "inv_misc_herb_blessingblossom.jpg"
+  },
+  {
+    "TagId": 210806,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blessing Blossom",
+      "Flor fantástica",
+      "Flor da Bênção",
+      "Blessing Blossom",
+      "Flor de la bendición",
+      "Floraison bénie",
+      "Благоцвет",
+      "Segensblume",
+      "Flor da Bênção",
+      "Bocciolo della Benedizione",
+      "축복화",
+      "祝綻花",
+      "圣祝棠"
+    ],
+    "Media": "inv_misc_herb_blessingblossom.jpg"
+  },
+  {
+    "TagId": 210807,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blessing Blossom",
+      "Flor fantástica",
+      "Flor da Bênção",
+      "Blessing Blossom",
+      "Flor de la bendición",
+      "Floraison bénie",
+      "Благоцвет",
+      "Segensblume",
+      "Flor da Bênção",
+      "Bocciolo della Benedizione",
+      "축복화",
+      "祝綻花",
+      "圣祝棠"
+    ],
+    "Media": "inv_misc_herb_blessingblossom.jpg"
+  },
+  {
+    "TagId": 210808,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arathor's Spear",
+      "Lanza de Arathor",
+      "Lança de Arathor",
+      "Arathor's Spear",
+      "Lanza de Arathor",
+      "Lance d’Arathor",
+      "Копье Аратора",
+      "Arathors Speer",
+      "Lança de Arathor",
+      "Lancia di Arathor",
+      "아라소르의 창",
+      "阿拉索之矛",
+      "阿拉索之矛"
+    ],
+    "Media": "inv_misc_herb_arathorsspear.jpg"
+  },
+  {
+    "TagId": 210809,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arathor's Spear",
+      "Lanza de Arathor",
+      "Lança de Arathor",
+      "Arathor's Spear",
+      "Lanza de Arathor",
+      "Lance d’Arathor",
+      "Копье Аратора",
+      "Arathors Speer",
+      "Lança de Arathor",
+      "Lancia di Arathor",
+      "아라소르의 창",
+      "阿拉索之矛",
+      "阿拉索之矛"
+    ],
+    "Media": "inv_misc_herb_arathorsspear.jpg"
+  },
+  {
+    "TagId": 210810,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arathor's Spear",
+      "Lanza de Arathor",
+      "Lança de Arathor",
+      "Arathor's Spear",
+      "Lanza de Arathor",
+      "Lance d’Arathor",
+      "Копье Аратора",
+      "Arathors Speer",
+      "Lança de Arathor",
+      "Lancia di Arathor",
+      "아라소르의 창",
+      "阿拉索之矛",
+      "阿拉索之矛"
+    ],
+    "Media": "inv_misc_herb_arathorsspear.jpg"
+  },
+  {
+    "TagId": 210813,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wild Experimentation",
+      "Experimentación salvaje",
+      "Experimentação Selvagem",
+      "Wild Experimentation",
+      "Experimentación salvaje",
+      "Expérience sauvage",
+      "Рискованный эксперимент",
+      "Wilde Experimente",
+      "Experimentação Selvagem",
+      "Esperimento Selvaggio",
+      "폭주하는 실험",
+      "瘋狂實驗",
+      "狂野实验"
+    ],
+    "Media": "achievement_guildperk_chug a lug.jpg"
+  },
+  {
+    "TagId": 210814,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Artisan's Acuity",
+      "Agudeza del artesano",
+      "Acuidade do Artesão",
+      "Artisan's Acuity",
+      "Agudeza de artesano",
+      "Acuité artisanale",
+      "Проницательность ремесленника",
+      "Händchen fürs Kunsthandwerk",
+      "Acuidade do Artesão",
+      "Intuito dell'Artigiano",
+      "장인의 명민함",
+      "工匠之敏銳",
+      "匠人之敏"
+    ],
+    "Media": "inv_10_gearcraft_artisansmettle_color3.jpg"
+  },
+  {
+    "TagId": 210815,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Coreway Catalyst",
+      "Catalizadores horadados",
+      "Catalisador do Duto Central",
+      "Coreway Catalyst",
+      "Catalizador de Vía del Núcleo",
+      "Catalyseur de la galerie Primaire",
+      "Катализатор Артерии",
+      "Kernwegkatalysator",
+      "Catalisador do Duto Central",
+      "Catalizzatore dell'Arteria del Nucleo",
+      "중심로 촉매",
+      "地心通途催化劑",
+      "心核隧途触媒"
+    ],
+    "Media": "inv_alchemy_71_potion4.jpg"
+  },
+  {
+    "TagId": 210816,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Algari Alchemist Stone",
+      "Piedra de alquimista algari",
+      "Pedra do Alquimista Algari",
+      "Algari Alchemist Stone",
+      "Piedra de alquimista algariana",
+      "Pierre d’alchimiste algarie",
+      "Алгарийский алхимический камень",
+      "Algarischer Alchemistenstein",
+      "Pedra do Alquimista Algari",
+      "Pietra Alchemica Algari",
+      "알가르 연금술사 돌",
+      "阿爾加鍊金石",
+      "阿加炼金石"
+    ],
+    "Media": "inv_10_alchemy_alchemystone_color4.jpg"
+  },
+  {
     "TagId": 210819,
     "TagType": 21,
     "Names": [
@@ -14133,6 +14910,90 @@
     "Media": "inv_cooking_80_ravenberrytart.jpg"
   },
   {
+    "TagId": 210826,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Harvestbot Repair Kit",
+      "Kit de reparación de cosechabot",
+      "Kit de Reparos de Colheitabô",
+      "Harvestbot Repair Kit",
+      "Kit de reparación de robot cosechador",
+      "Trousse de réparation de moissonneur",
+      "Ремонтный набор уборочного голема",
+      "Erntebotreparaturset",
+      "Kit de Reparos de Colheitabô",
+      "Kit per Riparazioni del Mietibot",
+      "수확로봇 수리 도구",
+      "收割機器人修理包",
+      "收割机器人修理工具箱"
+    ],
+    "Media": "inv_engineering_90_toolbox_yellow.jpg"
+  },
+  {
+    "TagId": 210827,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_10_engineering_device_gadget3_color3.jpg"
+  },
+  {
+    "TagId": 210828,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dilution Solution",
+      "Solución diluyente",
+      "Solução de Diluição",
+      "Dilution Solution",
+      "Solución de diluido",
+      "Solution de dilution",
+      "Разбавляющий раствор",
+      "Verdünnungslösung",
+      "Solução de Diluição",
+      "Soluzione per Diluizione",
+      "희석 용액",
+      "稀釋溶液",
+      "稀释溶液"
+    ],
+    "Media": "inv_trade_alchemy_dpotion_c2a.jpg"
+  },
+  {
+    "TagId": 210829,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Neutralize Concoctions",
+      "Brebajes para neutralizar",
+      "Neutralizar Misturas",
+      "Neutralize Concoctions",
+      "Neutralizar brebajes",
+      "Décoctions neutralisées",
+      "Нейтрализация зелий",
+      "Gebräue neutralisieren",
+      "Neutralizar Misturas",
+      "Neutralizzazione Misture",
+      "혼합물 중화",
+      "中和藥劑",
+      "中和制剂"
+    ],
+    "Media": "inv_trade_alchemy_dpotion_c2a.jpg"
+  },
+  {
     "TagId": 210830,
     "TagType": 21,
     "Names": [
@@ -14173,6 +15034,27 @@
       "幻濑"
     ],
     "Media": "inv_riverotterlargemount01_yellow.jpg"
+  },
+  {
+    "TagId": 210832,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_staff_2h_azshara_d_01.jpg"
   },
   {
     "TagId": 210833,
@@ -14406,6 +15288,27 @@
     "Media": "inv_sword_1h_candycane_b_01.jpg"
   },
   {
+    "TagId": 210845,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boskroot Spores",
+      "Esporas de boscorraíz",
+      "Esporos da Radimata",
+      "Boskroot Spores",
+      "Esporas de Boscorraíz",
+      "Spores de Boscracine",
+      "Корнеплодные споры",
+      "Holzwurzelsporen",
+      "Esporos da Radimata",
+      "Spore di Fittaradice",
+      "풀뿌리 포자",
+      "叢根傘菇孢子",
+      "薮根孢子"
+    ],
+    "Media": "inv_misc_starspecklemushroom.jpg"
+  },
+  {
     "TagId": 210847,
     "TagType": 21,
     "Names": [
@@ -14637,6 +15540,27 @@
     "Media": "inv_misc_bag_satchelofcenarius.jpg"
   },
   {
+    "TagId": 210873,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_ingot_01.jpg"
+  },
+  {
     "TagId": 210874,
     "TagType": 21,
     "Names": [
@@ -14721,6 +15645,27 @@
     "Media": "inv_potion_20.jpg"
   },
   {
+    "TagId": 210878,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_candle_03.jpg"
+  },
+  {
     "TagId": 210879,
     "TagType": 21,
     "Names": [
@@ -14782,6 +15727,27 @@
       "Cunning Charm"
     ],
     "Media": "ability_rogue_rollthebones.jpg"
+  },
+  {
+    "TagId": 210882,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "trade_archaeology_draenei candelabra.jpg"
   },
   {
     "TagId": 210883,
@@ -15708,6 +16674,300 @@
     "Media": "inv_misc_food_lunchbox_red.jpg"
   },
   {
+    "TagId": 210930,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bismuth",
+      "Bismuto",
+      "Bismuto",
+      "Bismuth",
+      "Bismuto",
+      "Bismuth",
+      "Висмут",
+      "Bismut",
+      "Bismuto",
+      "Bismuto",
+      "창연",
+      "鉍礦",
+      "铋矿"
+    ],
+    "Media": "inv_ore_bismuth.jpg"
+  },
+  {
+    "TagId": 210931,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bismuth",
+      "Bismuto",
+      "Bismuto",
+      "Bismuth",
+      "Bismuto",
+      "Bismuth",
+      "Висмут",
+      "Bismut",
+      "Bismuto",
+      "Bismuto",
+      "창연",
+      "鉍礦",
+      "铋矿"
+    ],
+    "Media": "inv_ore_bismuth.jpg"
+  },
+  {
+    "TagId": 210932,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bismuth",
+      "Bismuto",
+      "Bismuto",
+      "Bismuth",
+      "Bismuto",
+      "Bismuth",
+      "Висмут",
+      "Bismut",
+      "Bismuto",
+      "Bismuto",
+      "창연",
+      "鉍礦",
+      "铋矿"
+    ],
+    "Media": "inv_ore_bismuth.jpg"
+  },
+  {
+    "TagId": 210933,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aqirite",
+      "Aqirita",
+      "Aqirita",
+      "Aqirite",
+      "Aqirita",
+      "Aqirite",
+      "Акирит",
+      "Aqirit",
+      "Aqirita",
+      "Aqirite",
+      "아퀴라이트",
+      "亞基岩",
+      "亚基矿"
+    ],
+    "Media": "inv_ore_nerubian_red.jpg"
+  },
+  {
+    "TagId": 210934,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aqirite",
+      "Aqirita",
+      "Aqirita",
+      "Aqirite",
+      "Aqirita",
+      "Aqirite",
+      "Акирит",
+      "Aqirit",
+      "Aqirita",
+      "Aqirite",
+      "아퀴라이트",
+      "亞基岩",
+      "亚基矿"
+    ],
+    "Media": "inv_ore_nerubian_red.jpg"
+  },
+  {
+    "TagId": 210935,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aqirite",
+      "Aqirita",
+      "Aqirita",
+      "Aqirite",
+      "Aqirita",
+      "Aqirite",
+      "Акирит",
+      "Aqirit",
+      "Aqirita",
+      "Aqirite",
+      "아퀴라이트",
+      "亞基岩",
+      "亚基矿"
+    ],
+    "Media": "inv_ore_nerubian_red.jpg"
+  },
+  {
+    "TagId": 210936,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ironclaw Ore",
+      "Mena de garraférrea",
+      "Minério de Garraférrea",
+      "Ironclaw Ore",
+      "Mena de colmilloférreo",
+      "Minerai de griffefer",
+      "Когтесталь",
+      "Eisenklauenerz",
+      "Minério de Garraférrea",
+      "Grinfiaferro",
+      "무쇠발톱 광석",
+      "鐵爪礦",
+      "镔爪矿"
+    ],
+    "Media": "inv_ore_ironclaw_normal.jpg"
+  },
+  {
+    "TagId": 210937,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ironclaw Ore",
+      "Mena de garraférrea",
+      "Minério de Garraférrea",
+      "Ironclaw Ore",
+      "Mena de colmilloférreo",
+      "Minerai de griffefer",
+      "Когтесталь",
+      "Eisenklauenerz",
+      "Minério de Garraférrea",
+      "Grinfiaferro",
+      "무쇠발톱 광석",
+      "鐵爪礦",
+      "镔爪矿"
+    ],
+    "Media": "inv_ore_ironclaw_normal.jpg"
+  },
+  {
+    "TagId": 210938,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ironclaw Ore",
+      "Mena de garraférrea",
+      "Minério de Garraférrea",
+      "Ironclaw Ore",
+      "Mena de colmilloférreo",
+      "Minerai de griffefer",
+      "Когтесталь",
+      "Eisenklauenerz",
+      "Minério de Garraférrea",
+      "Grinfiaferro",
+      "무쇠발톱 광석",
+      "鐵爪礦",
+      "镔爪矿"
+    ],
+    "Media": "inv_ore_ironclaw_normal.jpg"
+  },
+  {
+    "TagId": 210939,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Null Stone",
+      "Piedra nula",
+      "Pedra Nula",
+      "Null Stone",
+      "Piedra nula",
+      "Pierre du Néant",
+      "Нуль-камень",
+      "Nullstein",
+      "Pedra Nula",
+      "Pietra del Nulla",
+      "무위석",
+      "空無石",
+      "虚无石"
+    ],
+    "Media": "inv_nullstone_shadow.jpg"
+  },
+  {
+    "TagId": 210940,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Null Stone",
+      "Piedra nula",
+      "Pedra Nula",
+      "Null Stone",
+      "Piedra nula",
+      "Pierre du Néant",
+      "Нуль-камень",
+      "Nullstein",
+      "Pedra Nula",
+      "Pietra del Nulla",
+      "무위석",
+      "空無石",
+      "虚无石"
+    ],
+    "Media": "inv_alchemy_astralalchemiststone.jpg"
+  },
+  {
+    "TagId": 210941,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Null Stone",
+      "Piedra nula",
+      "Pedra Nula",
+      "Null Stone",
+      "Piedra nula",
+      "Pierre du Néant",
+      "Нуль-камень",
+      "Nullstein",
+      "Pedra Nula",
+      "Pietra del Nulla",
+      "무위석",
+      "空無石",
+      "虚无石"
+    ],
+    "Media": "inv_alchemy_astralalchemiststone.jpg"
+  },
+  {
+    "TagId": 210942,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light",
+      "Byproduct 01 - Light"
+    ],
+    "Media": "inv_ore_pyrite_nugget.jpg"
+  },
+  {
+    "TagId": 210943,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark",
+      "Byproduct 02 - Dark"
+    ],
+    "Media": "inv_ore_eternium_nugget.jpg"
+  },
+  {
     "TagId": 210944,
     "TagType": 21,
     "Names": [
@@ -15811,6 +17071,27 @@
       "憧憬之翼"
     ],
     "Media": "inv_sporebatrock_orange.jpg"
+  },
+  {
+    "TagId": 210949,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_staff_2h_azshara_d_01.jpg"
   },
   {
     "TagId": 210950,
@@ -15981,6 +17262,27 @@
     "Media": "70_inscription_vantus_rune_suramar.jpg"
   },
   {
+    "TagId": 210960,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_bow_1h_draenorcrafted_d_01_b_alliance.jpg"
+  },
+  {
     "TagId": 210961,
     "TagType": 21,
     "Names": [
@@ -16086,6 +17388,27 @@
     "Media": "inv_salamanderwatermount_green.jpg"
   },
   {
+    "TagId": 210970,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crumbled Keepsake",
+      "Recuerdo maltrecho",
+      "Lembrança Desmoronada",
+      "Crumbled Keepsake",
+      "Recuerdo desmoronado",
+      "Souvenir en miettes",
+      "Помятая ценность",
+      "Zerfallenes Andenken",
+      "Lembrança Desmoronada",
+      "Pegno Sbriciolato",
+      "구겨진 기념품",
+      "破碎的紀念品",
+      "溃裂的纪念品"
+    ],
+    "Media": "ability_warrior_swordandboard.jpg"
+  },
+  {
     "TagId": 210973,
     "TagType": 21,
     "Names": [
@@ -16149,6 +17472,27 @@
     "Media": "inv_10_engineering_device_gadget2_color2.jpg"
   },
   {
+    "TagId": 210976,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_food_14.jpg"
+  },
+  {
     "TagId": 210977,
     "TagType": 21,
     "Names": [
@@ -16168,6 +17512,48 @@
       "凝结月光"
     ],
     "Media": "spell_nature_moonglow.jpg"
+  },
+  {
+    "TagId": 210978,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_staff_2h_dragonquest_b_01.jpg"
+  },
+  {
+    "TagId": 210981,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kriegval's Helm",
+      "Yelmo de Kriegval",
+      "Elmo de Kriegval",
+      "Kriegval's Helm",
+      "Yelmo de Kriegval",
+      "Heaume de Kriegval",
+      "Шлем Кригвала",
+      "Kriegvals Helm",
+      "Elmo de Kriegval",
+      "Elmo di Kriegval",
+      "크리그발의 투구",
+      "克里格瓦頭盔",
+      "克莱格瓦的头盔"
+    ],
+    "Media": "inv_helmet_03.jpg"
   },
   {
     "TagId": 210982,

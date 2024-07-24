@@ -2503,19 +2503,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer",
-      "[DNT] Dragon Isles - Sound Squisher - NPC Combat Reducer"
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer",
+      "[DNT] Generic Sound Squisher - NPC Combat Reducer"
     ],
     "Media": "trade_archaeology_carved harp of exotic wood.jpg"
   },
@@ -8248,6 +8248,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 419460,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Throw Knife",
+      "Lanzar cuchillo",
+      "Arremessar Faca",
+      "Throw Knife",
+      "Lanzar cuchillo",
+      "Lancer de couteau",
+      "Бросок ножа",
+      "Messer werfen",
+      "Arremessar Faca",
+      "Lancio Coltello",
+      "칼 던지기",
+      "投擲小刀",
+      "投掷飞刀"
+    ],
+    "Media": "ability_rogue_poisonedknife.jpg"
+  },
+  {
     "TagId": 419461,
     "TagType": 26,
     "Names": [
@@ -10369,6 +10390,27 @@
     "Media": "inv_murlocmount_purple.jpg"
   },
   {
+    "TagId": 419568,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Advert",
+      "Inclusión de publicidad",
+      "Adição de Anúncio",
+      "Add Advert",
+      "Añadir anuncio",
+      "Ajout de publicité",
+      "Добавление объявления",
+      "Anzeige hinzufügen",
+      "Adição de Anúncio",
+      "Aggiunta Avviso",
+      "광고 추가",
+      "插入廣告",
+      "新增通告"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 419570,
     "TagType": 26,
     "Names": [
@@ -10579,6 +10621,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 419587,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Talking",
+      "Hablando",
+      "Falar",
+      "Talking",
+      "Hablando",
+      "Parole",
+      "Разговор",
+      "Sprechen",
+      "Falar",
+      "Discussione",
+      "말하기",
+      "正在說話",
+      "对话"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 419588,
     "TagType": 26,
     "Names": [
@@ -10661,6 +10724,27 @@
       "自动攻击"
     ],
     "Media": "ability_steelmelee.jpg"
+  },
+  {
+    "TagId": 419592,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Advert",
+      "Inclusión de publicidad",
+      "Adição de Anúncio",
+      "Add Advert",
+      "Añadir anuncio",
+      "Ajout de publicité",
+      "Добавление объявления",
+      "Anzeige hinzufügen",
+      "Adição de Anúncio",
+      "Aggiunta Avviso",
+      "광고 추가",
+      "插入廣告",
+      "新增通告"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 419593,
@@ -10787,6 +10871,27 @@
       "[DNT] Maintain Summon Whelp"
     ],
     "Media": "inv_polearm_2h_ardenwealdnpc_a_01.jpg"
+  },
+  {
+    "TagId": 419599,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Idle Animation",
+      "Animación inactiva",
+      "Animação Ociosa",
+      "Idle Animation",
+      "Animación de inactividad",
+      "Animation inactive",
+      "Анимация бездействия",
+      "Untätige Belebung",
+      "Animação Ociosa",
+      "Animazione Inattiva",
+      "유휴 애니메이션",
+      "閒置動畫",
+      "闲置动画"
+    ],
+    "Media": "inv_scroll_03.jpg"
   },
   {
     "TagId": 419600,
@@ -11104,6 +11209,27 @@
     "Media": "inv_polearm_2h_ardenwealdnpc_a_01.jpg"
   },
   {
+    "TagId": 419615,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]",
+      "Channel: Lightning Storm [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 419616,
     "TagType": 26,
     "Names": [
@@ -11123,6 +11249,48 @@
       "历战直觉"
     ],
     "Media": "achievement_bg_killflagcarriers_grabflag_capit.jpg"
+  },
+  {
+    "TagId": 419617,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]",
+      "Channel: Earth Spikes [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 419618,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]",
+      "Channel: Scroll Ritual (Fire) [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 419619,
@@ -12005,6 +12173,27 @@
       "火花风暴"
     ],
     "Media": "spell_shaman_crashlightning.jpg"
+  },
+  {
+    "TagId": 419666,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poison Bomb",
+      "Bomba de veneno",
+      "Bomba de Veneno",
+      "Poison Bomb",
+      "Bomba de veneno",
+      "Bombe de poison",
+      "Ядовитая бомба",
+      "Giftbombe",
+      "Bomba de Veneno",
+      "Bomba di Veleno",
+      "독폭탄",
+      "劇毒炸彈",
+      "毒液炸弹"
+    ],
+    "Media": "ability_creature_disease_02.jpg"
   },
   {
     "TagId": 419668,
@@ -14107,6 +14296,27 @@
     "Media": "inv_dragonwhelpcataclysm_blue.jpg"
   },
   {
+    "TagId": 419775,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dwarven Medicine",
+      "Medicina enana",
+      "Remédio Enânico",
+      "Dwarven Medicine",
+      "Medicina enana",
+      "Remède nain",
+      "Дворфийское лекарство",
+      "Zwergenmedizin",
+      "Remédio Enânico",
+      "Medicina Nanica",
+      "드워프 약제",
+      "矮人藥劑",
+      "矮人药品"
+    ],
+    "Media": "inv_gizmo_healthpotionpack.jpg"
+  },
+  {
     "TagId": 419776,
     "TagType": 26,
     "Names": [
@@ -15890,6 +16100,48 @@
       "修理铲子"
     ],
     "Media": "inv_misc_shovel_01.jpg"
+  },
+  {
+    "TagId": 419870,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lightning Dash",
+      "Impulso relámpago",
+      "Arremetida Relâmpago",
+      "Lightning Dash",
+      "Carrera relámpago",
+      "Ruée foudroyante",
+      "Молниеносный рывок",
+      "Blitzspurt",
+      "Arremetida Relâmpago",
+      "Slancio Fulminante",
+      "번개 질주",
+      "閃電突進",
+      "闪电疾冲"
+    ],
+    "Media": "inv_cosmicvoid_groundsate.jpg"
+  },
+  {
+    "TagId": 419871,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lightning Dash",
+      "Impulso relámpago",
+      "Arremetida Relâmpago",
+      "Lightning Dash",
+      "Carrera relámpago",
+      "Ruée foudroyante",
+      "Молниеносный рывок",
+      "Blitzspurt",
+      "Arremetida Relâmpago",
+      "Slancio Fulminante",
+      "번개 질주",
+      "閃電突進",
+      "闪电疾冲"
+    ],
+    "Media": "inv_cosmicvoid_groundsate.jpg"
   },
   {
     "TagId": 419872,

@@ -247,7 +247,7 @@
       "Maestro delle Chiavi di Dragonflight: Stagione 3",
       "용군단 쐐기돌 장인: 3 시즌",
       "巨龍崛起鑰石王：第三季",
-      "“巨龙军团”钥石大师：第三赛季"
+      "“巨龙时代”钥石大师：第三赛季"
     ],
     "Media": "achievement_challengemode_platinum.jpg"
   },
@@ -6090,6 +6090,69 @@
     "Media": "inv_babysabretoothraptor_blue.jpg"
   },
   {
+    "TagId": 19408,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Professional Algari Master",
+      "Maestro algari profesional",
+      "Mestre das profissões algari",
+      "Professional Algari Master",
+      "Maestro profesional algariano",
+      "Maîtrise d’un métier algari",
+      "Алгарийский мастер",
+      "Professioneller Algarimeister",
+      "Mestre das profissões algari",
+      "Maestro professionista delle arti Algari",
+      "알가르 전문 기술 대가",
+      "阿爾加專業大師",
+      "阿加专业大师"
+    ],
+    "Media": "inv_misc_note_01.jpg"
+  },
+  {
+    "TagId": 19409,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Working Underground",
+      "Trabajo subterráneo",
+      "Trabalho no Subterrâneo",
+      "Working Underground",
+      "Trabajar bajo tierra",
+      "Travail en profondeur",
+      "Работа под землей",
+      "Unterirdische Arbeit",
+      "Trabalho no Subterrâneo",
+      "Al lavoro nel sottosuolo",
+      "지하 작업",
+      "地下工作者",
+      "地下工作"
+    ],
+    "Media": "ability_repair.jpg"
+  },
+  {
+    "TagId": 19410,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Master of All",
+      "Maestro supremo algari",
+      "Mestre de tudo algari",
+      "Algari Master of All",
+      "Maestro algariano de todo",
+      "Maîtrise de toute chose algarie",
+      "Алгарийский мастер на все руки",
+      "Algarischer Meister aller Klassen",
+      "Mestre de tudo algari",
+      "Maestro delle arti Algari",
+      "알가르 본좌",
+      "阿爾加全能大師",
+      "全能阿加大师"
+    ],
+    "Media": "inv_hammer_16.jpg"
+  },
+  {
     "TagId": 19411,
     "TagType": 20,
     "Names": [
@@ -6151,6 +6214,48 @@
       "战场闪电战老兵"
     ],
     "Media": "achievement_bg_trueavshutout.jpg"
+  },
+  {
+    "TagId": 19414,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Cook",
+      "Cocinero algari",
+      "Cozinheiro Algari",
+      "Algari Cook",
+      "Cocinero algariano",
+      "Cuisine algarie",
+      "Алгарийский повар",
+      "Koch der Algari",
+      "Cozinheiro Algari",
+      "Cuoco degli Algari",
+      "알가르 요리사",
+      "阿爾加廚師",
+      "阿加厨师"
+    ],
+    "Media": "ui_profession_cooking.jpg"
+  },
+  {
+    "TagId": 19415,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Fisherman",
+      "Pescador algari",
+      "Pescador Algari",
+      "Algari Fisherman",
+      "Pescador algariano",
+      "Pêche algarie",
+      "Алгарийский рыбак",
+      "Angler der Algari",
+      "Pescador Algari",
+      "Pescatore degli Algari",
+      "알가르 낚시꾼",
+      "阿爾加漁夫",
+      "阿加渔夫"
+    ],
+    "Media": "ui_profession_fishing.jpg"
   },
   {
     "TagId": 19416,
@@ -6552,6 +6657,48 @@
     "Media": "ability_evoker_furyoftheaspects.jpg"
   },
   {
+    "TagId": 19459,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Level 80",
+      "Nivel 80",
+      "Nível 80",
+      "Level 80",
+      "Nivel 80",
+      "Niveau\u00A080",
+      "80-й уровень",
+      "Stufe 80",
+      "Nível 80",
+      "Livello 80",
+      "80 레벨",
+      "等級80",
+      "80级"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19460,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Two Warband Mentors: The War Within",
+      "Dos mentores de tropas: The War Within",
+      "Dois mentores do Bando de Guerra: The War Within",
+      "Two Warband Mentors: The War Within",
+      "Dos mentores de banda guerrera: The War Within",
+      "Deux mentors de bataillon\u00A0: The War Within",
+      "Два наставника отряда: The War Within",
+      "Zwei Kriegsmeutenmentoren: The War Within",
+      "Dois mentores do Bando de Guerra: The War Within",
+      "Due mentori della Brigata: The War Within",
+      "전투부대 스승 2인방: 내부 전쟁",
+      "兩個戰隊導師：地心之戰",
+      "两位战团导师：地心之战"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
     "TagId": 19461,
     "TagType": 20,
     "Names": [
@@ -6613,6 +6760,195 @@
       "天啊，他们是同巢胞友"
     ],
     "Media": "ability_dragonriding_ridealong01.jpg"
+  },
+  {
+    "TagId": 19467,
+    "TagType": 20,
+    "Names": [
+      null,
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)",
+      "1st level 80 on account (DNT)"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19469,
+    "TagType": 20,
+    "Names": [
+      null,
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)",
+      "2nd level 80 on account (DNT)"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19470,
+    "TagType": 20,
+    "Names": [
+      null,
+      "One Warband Mentor: The War Within",
+      "Un mentor de tropas: The War Within",
+      "Um mentor do Bando de Guerra: The War Within",
+      "One Warband Mentor: The War Within",
+      "Un mentor de banda guerrera: The War Within",
+      "Un mentor de bataillon\u00A0: The War Within",
+      "Один наставник отряда: The War Within",
+      "Ein Kriegsmeutenmentor: The War Within",
+      "Um mentor do Bando de Guerra: The War Within",
+      "Un mentore della Brigata: The War Within",
+      "전투부대 스승: 내부 전쟁",
+      "一個戰隊導師：地心之戰",
+      "一位战团导师：地心之战"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19472,
+    "TagType": 20,
+    "Names": [
+      null,
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)",
+      "3nd level 80 on account (DNT)"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19473,
+    "TagType": 20,
+    "Names": [
+      null,
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)",
+      "4th level 80 on account (DNT)"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19474,
+    "TagType": 20,
+    "Names": [
+      null,
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)",
+      "5th level 80 on account (DNT)"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19475,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Three Warband Mentors: The War Within",
+      "Tres mentores de tropas: The War Within",
+      "Três mentores do Bando de Guerra: The War Within",
+      "Three Warband Mentors: The War Within",
+      "Tres mentores de banda guerrera: The War Within",
+      "Trois mentors de bataillon\u00A0: The War Within",
+      "Три наставника отряда: The War Within",
+      "Drei Kriegsmeutenmentoren: The War Within",
+      "Três mentores do Bando de Guerra: The War Within",
+      "Tre mentori della Brigata: The War Within",
+      "전투부대 스승 3인방: 내부 전쟁",
+      "三個戰隊導師：地心之戰",
+      "三位战团导师：地心之战"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19476,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Four Warband Mentors: The War Within",
+      "Cuatro mentores de tropas: The War Within",
+      "Quatro mentores do Bando de Guerra: The War Within",
+      "Four Warband Mentors: The War Within",
+      "Cuatro mentores de banda guerrera: The War Within",
+      "Quatre mentors de bataillon\u00A0: The War Within",
+      "Четыре наставника отряда: The War Within",
+      "Vier Kriegsmeutenmentoren: The War Within",
+      "Quatro mentores do Bando de Guerra: The War Within",
+      "Quattro mentori della Brigata: The War Within",
+      "전투부대 스승 4인방: 내부 전쟁",
+      "四個戰隊導師：地心之戰",
+      "四位战团导师：地心之战"
+    ],
+    "Media": "achievement_level_80.jpg"
+  },
+  {
+    "TagId": 19477,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Five Warband Mentors: The War Within",
+      "Cinco mentores de tropas: The War Within",
+      "Cinco mentores do Bando de Guerra: The War Within",
+      "Five Warband Mentors: The War Within",
+      "Cinco mentores de banda guerrera: The War Within",
+      "Cinq mentors de bataillon\u00A0: The War Within",
+      "Пять наставников отряда: The War Within",
+      "Fünf Kriegsmeutenmentoren: The War Within",
+      "Cinco mentores do Bando de Guerra: The War Within",
+      "Cinque mentori della Brigata: The War Within",
+      "전투부대 스승 5인방: 내부 전쟁",
+      "五個戰隊導師：地心之戰",
+      "五位战团导师：地心之战"
+    ],
+    "Media": "achievement_level_80.jpg"
   },
   {
     "TagId": 19478,
@@ -6760,6 +7096,27 @@
       "穿越群岛"
     ],
     "Media": "ability_dragonriding_evasivemaneuvers01.jpg"
+  },
+  {
+    "TagId": 19489,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Class Connoisseur",
+      "Conocedor de clases",
+      "Connoisseur de classes",
+      "Class Connoisseur",
+      "Entendido en clases",
+      "Connaissance de classe",
+      "Классовед",
+      "Klassenconnaisseur",
+      "Connoisseur de classes",
+      "Esperto di classe",
+      "직업 미식가",
+      "職業鑒賞家",
+      "职业鉴赏家"
+    ],
+    "Media": "ability_hunter_displacement.jpg"
   },
   {
     "TagId": 19490,
@@ -7077,6 +7434,27 @@
     "Media": "achievement_featsofstrength_gladiator_09.jpg"
   },
   {
+    "TagId": 19510,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)",
+      "Test - For PH - Multiple Characters Hitting Max Level (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 19513,
     "TagType": 20,
     "Names": [
@@ -7096,6 +7474,27 @@
       "战斗愈疗者：“巨龙时代”第4赛季"
     ],
     "Media": "ability_paladin_blessedmending.jpg"
+  },
+  {
+    "TagId": 19515,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Master of Many",
+      "Multimaestro algari",
+      "Faz absolutamente tudo algari",
+      "Algari Master of Many",
+      "Maestro algariano de mucho",
+      "Touche-à-tout algari",
+      "Алгарийский мастер своего дела",
+      "Algarischer Meister von vielen",
+      "Faz absolutamente tudo algari",
+      "Apprendista maestro delle arti Algari",
+      "알가르 팔방미인",
+      "阿爾加博學大師",
+      "多面阿加大师"
+    ],
+    "Media": "inv_blacksmithing_modifiedcraftingreagent_silver.jpg"
   },
   {
     "TagId": 19538,
@@ -7201,6 +7600,69 @@
       "邪气鞍座（39）"
     ],
     "Media": "inv_tailoring_70_saddleblanket.jpg"
+  },
+  {
+    "TagId": 19552,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Vicious Saddle (39)",
+      "Silla de montar sañosa (39)",
+      "Sela Cruel (39)",
+      "Vicious Saddle (39)",
+      "Silla de montar sañosa (39)",
+      "Selle vicieuse (39)",
+      "Седло ярости (39)",
+      "Schrecklicher Sattel (39)",
+      "Sela Cruel (39)",
+      "Sella Malvagia (39)",
+      "흉포한 안장 (39)",
+      "凶惡鞍具(39)",
+      "邪气鞍座（39）"
+    ],
+    "Media": "inv_tailoring_70_saddleblanket.jpg"
+  },
+  {
+    "TagId": 19559,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Azj-Kahet",
+      "Azj-Kahet",
+      "Azj-Kahet",
+      "Azj-Kahet",
+      "Azj-Kahet",
+      "Azj-Kahet",
+      "Аз-Кахет",
+      "Azj-Kahet",
+      "Azj-Kahet",
+      "Azj-Kahet",
+      "아즈카헤트",
+      "阿茲-卡罕特",
+      "艾基-卡赫特"
+    ],
+    "Media": "achievement_zone_azjkahet.jpg"
+  },
+  {
+    "TagId": 19560,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Ringing Deeps",
+      "Las Minas Resonantes",
+      "Fosso Ressonante",
+      "The Ringing Deeps",
+      "Cavernas Resonantes",
+      "Les abîmes Retentissants",
+      "Гулкие глубины",
+      "Die Schallenden Tiefen",
+      "Fosso Ressonante",
+      "Profondità Risonanti",
+      "울리는 심연",
+      "鳴響深淵",
+      "喧鸣深窟"
+    ],
+    "Media": "achievement_zone_theringingdeeps.jpg"
   },
   {
     "TagId": 19564,
@@ -9618,6 +10080,69 @@
     "Media": "inv_helm_armor_buckledhat_b_01_darkbrown.jpg"
   },
   {
+    "TagId": 19704,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Overflowing Algari Flasks",
+      "Frascos algari rebosantes",
+      "Frascos algari transbordantes",
+      "Overflowing Algari Flasks",
+      "Frascos algarianos desbordantes",
+      "Débordement de flacons algaris",
+      "Избыток алгарийских настоев",
+      "Überlaufende algarische Fläschchen",
+      "Frascos algari transbordantes",
+      "Tonici Algari traboccanti",
+      "넘쳐흐르는 알가르 영약",
+      "滿滿的阿爾加精煉藥劑",
+      "满溢的阿加合剂"
+    ],
+    "Media": "inv_11_alchemy_profession_cauldron04.jpg"
+  },
+  {
+    "TagId": 19705,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)",
+      "Test - For EHW - Account Wide Criteria Test (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19716,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Plentiful Algari Potions",
+      "Pociones algari a montones",
+      "Poções algari abundantes",
+      "Plentiful Algari Potions",
+      "Pociones algarianas abundantes",
+      "Pléthore de potions algaries",
+      "Изобилие алгарийских зелий",
+      "Viele algarische Tränke",
+      "Poções algari abundantes",
+      "Un sacco di pozioni Algari",
+      "풍요로운 알가르 물약",
+      "滿載的阿爾加藥水",
+      "充沛的阿加药水"
+    ],
+    "Media": "inv_11_alchemy_profession_cauldron01.jpg"
+  },
+  {
     "TagId": 19719,
     "TagType": 20,
     "Names": [
@@ -9744,6 +10269,930 @@
     "Media": "item_hearthstone_card.jpg"
   },
   {
+    "TagId": 19735,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)",
+      "Algari Alchemy 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19736,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)",
+      "Algari Alchemy 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19737,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)",
+      "Algari Alchemy 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19738,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)",
+      "Algari Alchemy 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19739,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)",
+      "Algari Blacksmithing 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19740,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)",
+      "Algari Blacksmithing 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19741,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)",
+      "Algari Blacksmithing 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19742,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)",
+      "Algari Blacksmithing 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19743,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)",
+      "Algari Enchanting 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19744,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)",
+      "Algari Enchanting 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19745,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)",
+      "Algari Enchanting 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19746,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)",
+      "Algari Enchanting 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19747,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)",
+      "Algari Engineering 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19748,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)",
+      "Algari Engineering 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19749,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)",
+      "Algari Engineering 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19750,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)",
+      "Algari Engineering 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19751,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)",
+      "Algari Inscription 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19752,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)",
+      "Algari Inscription 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19753,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)",
+      "Algari Inscription 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19754,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)",
+      "Algari Inscription 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19755,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)",
+      "Algari Jewelcrafting 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19756,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)",
+      "Algari Jewelcrafting 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19757,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)",
+      "Algari Jewelcrafting 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19758,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)",
+      "Algari Jewelcrafting 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19759,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)",
+      "Algari Leatherworking 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19760,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)",
+      "Algari Leatherworking 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19761,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)",
+      "Algari Leatherworking 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19762,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)",
+      "Algari Leatherworking 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19763,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)",
+      "Algari Tailoring 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19764,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)",
+      "Algari Tailoring 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19765,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)",
+      "Algari Tailoring 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19766,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)",
+      "Algari Tailoring 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19767,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)",
+      "Algari Herbalism 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19768,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)",
+      "Algari Herbalism 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19769,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)",
+      "Algari Herbalism 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19770,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)",
+      "Algari Herbalism 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19771,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)",
+      "Algari Mining 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19772,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)",
+      "Algari Mining 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19773,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)",
+      "Algari Mining 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19774,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)",
+      "Algari Mining 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19775,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)",
+      "Algari Skinning 25 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19776,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)",
+      "Algari Skinning 50 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19777,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)",
+      "Algari Skinning 75 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 19778,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)",
+      "Algari Skinning 100 (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 19780,
     "TagType": 20,
     "Names": [
@@ -9783,7 +11232,7 @@
       "巨龍崛起鑰石征服者：第四季",
       "“巨龙时代”钥石征服者：第四赛季"
     ],
-    "Media": "achievement_challengemode_gold.jpg"
+    "Media": "achievement_challengemode_silver.jpg"
   },
   {
     "TagId": 19782,
@@ -9802,7 +11251,7 @@
       "Maestro delle Chiavi di Dragonflight: Stagione 4",
       "용군단 쐐기돌 장인: 4 시즌",
       "巨龍崛起鑰石王：第四季",
-      "“巨龙军团”钥石大师：第四赛季"
+      "“巨龙时代”钥石大师：第四赛季"
     ],
     "Media": "achievement_challengemode_platinum.jpg"
   },

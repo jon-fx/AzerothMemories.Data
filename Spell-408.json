@@ -802,19 +802,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Bestial Lurker",
-      "Rondador bestial",
-      "Tocaieiro Bestial",
-      "Bestial Lurker",
-      "Rondador bestial",
-      "Rôdeur bestial",
-      "Звероподобный скрытень",
-      "Bestialischer Lauerer",
-      "Tocaieiro Bestial",
-      "Guardingo Bestiale",
-      "야성적인 잠복꾼",
-      "殘忍潛伏者",
-      "兽性潜鱼"
+      "Abyssal Lurker",
+      "Rondador abismal",
+      "Tocaieiro Abissal",
+      "Abyssal Lurker",
+      "Rondador abisal",
+      "Rôdeur abyssal",
+      "Скрытень Бездны",
+      "Abyssischer Lauerer",
+      "Tocaieiro Abissal",
+      "Guardingo Abissale",
+      "심연의 잠복꾼",
+      "深淵潛伏者",
+      "深渊潜鱼"
     ],
     "Media": "inv_nzothfish_green.jpg"
   },
@@ -1743,6 +1743,27 @@
     "Media": "inv_10_elementalspiritfoozles_purifiedshadowflame.jpg"
   },
   {
+    "TagId": 408096,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boost Forward",
+      "Aceleración frontal",
+      "Propulsão à Frente",
+      "Boost Forward",
+      "Impulso hacia delante",
+      "Accélération vers l’avant",
+      "Ускорение вперед",
+      "Vorwärtsbeschleunigung",
+      "Propulsão à Frente",
+      "Spinta in Avanti",
+      "전방 급가속",
+      "加速前進",
+      "向前助推"
+    ],
+    "Media": "ability_racial_rocketjump.jpg"
+  },
+  {
     "TagId": 408097,
     "TagType": 26,
     "Names": [
@@ -1825,6 +1846,27 @@
       "米罗赫"
     ],
     "Media": "inv_dogprimalbaby_black.jpg"
+  },
+  {
+    "TagId": 408101,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rolling Aura",
+      "Aura rodante",
+      "Aura de Rolamento",
+      "Rolling Aura",
+      "Aura rodante",
+      "Aura roulante",
+      "Аура вращения",
+      "Rollen-Aura",
+      "Aura de Rolamento",
+      "Aura Rotolante",
+      "구르기 오라",
+      "翻滾光環",
+      "翻滚光环"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 408106,
@@ -4603,19 +4645,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Dread Shalewing",
-      "Alaesquisto aterrador",
-      "Asaxisto Pavoroso",
-      "Dread Shalewing",
-      "Alaesquisto de pavor",
-      "Aile-de-schiste de l’effroi",
-      "Ужасный глинокрыл",
-      "Schreckensschieferschwinge",
-      "Asaxisto Pavoroso",
-      "Alaroccia del Terrore",
-      "공포의 혈암날개",
-      "恐怖的岩翼蝠",
-      "恐惧岩翼蝠"
+      "Soot-Stained Shalewing",
+      "Alaesquisto con hollín",
+      "Asaxisto Borralheiro",
+      "Soot-Stained Shalewing",
+      "Alaesquisto manchado de hollín",
+      "Aile-de-schiste tachée de suie",
+      "Покрытый копотью глинокрыл",
+      "Rußgeschwärzte Schieferschwinge",
+      "Asaxisto Borralheiro",
+      "Alaroccia Macchiato di Fuliggine",
+      "검댕투성이 혈암날개",
+      "煤漬岩翼蝠",
+      "煤渍岩翼蝠"
     ],
     "Media": "inv_sporebatrock_stoneblack.jpg"
   },
@@ -5076,7 +5118,7 @@
       "Contrato: Farins de Argília",
       "Contratto - Niffen di Loamm",
       "계약서: 로암 니펜",
-      "契約：洛姆鼴鼠人",
+      "合約：洛姆鼴鼠人",
       "合约：峈姆鼹鼠人"
     ],
     "Media": "trade_engineering.jpg"
@@ -6151,6 +6193,27 @@
       "掠食者之影"
     ],
     "Media": "ability_druid_predatoryinstincts.jpg"
+  },
+  {
+    "TagId": 408346,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Able To Roll Aura",
+      "Able To Roll Aura",
+      "Capaz de Rolar Aura",
+      "Able To Roll Aura",
+      "Aura de Capaz de rodar",
+      "Aura de roulade",
+      "Аура доступного вращения",
+      "Kann-rollen-Aura",
+      "Capaz de Rolar Aura",
+      "Aura Abilità Rotolante",
+      "구르기 가능 오라",
+      "可翻滾光環",
+      "可以翻滚光环"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 408348,
@@ -8755,6 +8818,27 @@
     "Media": "spell_druid_primaltenacity.jpg"
   },
   {
+    "TagId": 408506,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rolling",
+      "Rodando",
+      "Rolando",
+      "Rolling",
+      "Rodando",
+      "Roulade",
+      "Перекатывание",
+      "Rollen",
+      "Rolando",
+      "Rotolamento",
+      "구르기",
+      "翻滾",
+      "翻滚"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 408509,
     "TagType": 26,
     "Names": [
@@ -11191,6 +11275,27 @@
     "Media": "inv_shadowflame_missile.jpg"
   },
   {
+    "TagId": 408642,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Able To Boost Aura",
+      "Able To Boost Aura",
+      "Capaz de Impulsionar Aura",
+      "Able To Boost Aura",
+      "Aura de Capaz de impulsar",
+      "Aura d’accélération",
+      "Аура доступного ускорения",
+      "Kann-Schub-geben-Aura",
+      "Capaz de Impulsionar Aura",
+      "Aura Abilità di Spinta",
+      "급가속 가능 오라",
+      "可加速光環",
+      "可以助推光环"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 408644,
     "TagType": 26,
     "Names": [
@@ -11485,6 +11590,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 408658,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Able To Drift Aura",
+      "Able To Drift Aura",
+      "Capaz de Desviar Aura",
+      "Able To Drift Aura",
+      "Aura de Capaz de flotar",
+      "Aura de dérapage",
+      "Аура доступного заноса",
+      "Kann-driften-Aura",
+      "Capaz de Desviar Aura",
+      "Aura Abilità di Spostamento",
+      "급선회 가능 오라",
+      "可飄移光環",
+      "可以漂移光环"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 408659,
     "TagType": 26,
     "Names": [
@@ -11525,6 +11651,27 @@
       "携带提灯"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 408661,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boost Forward",
+      "Aceleración frontal",
+      "Propulsão à Frente",
+      "Boost Forward",
+      "Impulso hacia delante",
+      "Accélération vers l’avant",
+      "Ускорение вперед",
+      "Vorwärtsbeschleunigung",
+      "Propulsão à Frente",
+      "Spinta in Avanti",
+      "전방 급가속",
+      "加速前進",
+      "向前助推"
+    ],
+    "Media": "petbattle_speed.jpg"
   },
   {
     "TagId": 408662,
@@ -13562,6 +13709,48 @@
     "Media": "spell_progenitor_beam.jpg"
   },
   {
+    "TagId": 408783,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Jogo Virado",
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Retour de bâton",
+      "Смещение равновесия",
+      "Zeitdruck",
+      "Jogo Virado",
+      "Ago della Bilancia",
+      "전세역전",
+      "攪亂均勢",
+      "扭转天平"
+    ],
+    "Media": "inv_misc_dice_01.jpg"
+  },
+  {
+    "TagId": 408784,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Jogo Virado",
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Retour de bâton",
+      "Смещение равновесия",
+      "Zeitdruck",
+      "Jogo Virado",
+      "Ago della Bilancia",
+      "전세역전",
+      "攪亂均勢",
+      "扭转天平"
+    ],
+    "Media": "inv_weapon_glave_01.jpg"
+  },
+  {
     "TagId": 408786,
     "TagType": 26,
     "Names": [
@@ -13581,6 +13770,27 @@
       "熔火图腾"
     ],
     "Media": "spell_frost_fireresistancetotem.jpg"
+  },
+  {
+    "TagId": 408787,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Jogo Virado",
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Retour de bâton",
+      "Смещение равновесия",
+      "Zeitdruck",
+      "Jogo Virado",
+      "Ago della Bilancia",
+      "전세역전",
+      "攪亂均勢",
+      "扭转天平"
+    ],
+    "Media": "inv_weapon_glave_01.jpg"
   },
   {
     "TagId": 408788,
@@ -13707,6 +13917,27 @@
       "蜗牛点心"
     ],
     "Media": "inv_misc_food_87_sporelingsnack.jpg"
+  },
+  {
+    "TagId": 408795,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Jogo Virado",
+      "Tip the Scales",
+      "Inclinar la balanza",
+      "Retour de bâton",
+      "Смещение равновесия",
+      "Zeitdruck",
+      "Jogo Virado",
+      "Ago della Bilancia",
+      "전세역전",
+      "攪亂均勢",
+      "扭转天平"
+    ],
+    "Media": "spell_shadow_soulgem.jpg"
   },
   {
     "TagId": 408796,
@@ -14190,6 +14421,27 @@
       "Tunneling Rockborer [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 408827,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ride Rickshaw",
+      "Montar palanquín",
+      "Montar Riquixá",
+      "Ride Rickshaw",
+      "Montar en calesa",
+      "Monter un pousse-pousse",
+      "Поездка на повозке",
+      "Rikscha fahren",
+      "Montar Riquixá",
+      "Guida del Risciò",
+      "인력거 타기",
+      "搭乘人力車",
+      "乘坐拖车"
+    ],
+    "Media": "creatureportrait_sc_wagon.jpg"
   },
   {
     "TagId": 408829,
@@ -16122,6 +16374,27 @@
     "Media": "ability_shaman_multitotemactivation.jpg"
   },
   {
+    "TagId": 408945,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)",
+      "Enter Prototype 02 (DNT)"
+    ],
+    "Media": "ability_fiegndead.jpg"
+  },
+  {
     "TagId": 408946,
     "TagType": 26,
     "Names": [
@@ -16437,6 +16710,27 @@
     "Media": "spell_shadow_skull.jpg"
   },
   {
+    "TagId": 408963,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taking Candle",
+      "Tomando vela",
+      "Pegando Vela",
+      "Taking Candle",
+      "Cogiendo una vela",
+      "Prendre la bougie",
+      "Забирание свечи",
+      "Kerze nehmen",
+      "Pegando Vela",
+      "Raccolta Candela",
+      "양초 획득",
+      "奪取蠟燭",
+      "夺取蜡烛"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 408964,
     "TagType": 26,
     "Names": [
@@ -16456,6 +16750,27 @@
       "法妮莉的优美鼓舞"
     ],
     "Media": "inv_10_dungeonjewelry_dragon_trinket_5_red.jpg"
+  },
+  {
+    "TagId": 408965,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Taking Candle",
+      "Tomando vela",
+      "Pegando Vela",
+      "Taking Candle",
+      "Cogiendo una vela",
+      "Prendre la bougie",
+      "Забирание свечи",
+      "Kerze nehmen",
+      "Pegando Vela",
+      "Raccolta Candela",
+      "양초 획득",
+      "奪取蠟燭",
+      "夺取蜡烛"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 408966,

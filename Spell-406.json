@@ -1573,6 +1573,90 @@
     "Media": "spell_fire_twilightflamebreath.jpg"
   },
   {
+    "TagId": 406079,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sky Screamer Basics",
+      "Guía básica para montar vociferadores de los cielos",
+      "Fundamentos do Estridente Celeste",
+      "Sky Screamer Basics",
+      "Conceptos básicos del vociferador celeste",
+      "Bases du Hurleciel",
+      "Небесный крикун – основы",
+      "Grundlagen des Himmelskreischers",
+      "Fundamentos do Estridente Celeste",
+      "Basi della Urlacieli",
+      "비명날개 기본",
+      "嘯天者基本技巧",
+      "啸天者基础"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 406080,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rapid Ascension",
+      "Ascensión rápida",
+      "Ascensão Rápida",
+      "Rapid Ascension",
+      "Ascensión acelerada",
+      "Ascension rapide",
+      "Стремительное вознесение",
+      "Schneller Aufstieg",
+      "Ascensão Rápida",
+      "Ascensione Rapida",
+      "빠른 상승",
+      "迅速上升",
+      "迅捷升空"
+    ],
+    "Media": "misc_arrowlup.jpg"
+  },
+  {
+    "TagId": 406081,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hold Position",
+      "Mantener posición",
+      "Manter Posição",
+      "Hold Position",
+      "Mantener posición",
+      "Tenir la position",
+      "Удерживание позиции",
+      "Position halten",
+      "Manter Posição",
+      "Mantenere la Posizione",
+      "위치 사수",
+      "原地停留",
+      "维持原位"
+    ],
+    "Media": "inv_engineering_90_ghosttrap.jpg"
+  },
+  {
+    "TagId": 406082,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deploy Glider Wings",
+      "Desplegar alas de planeador",
+      "Acionar Asas de Planador",
+      "Deploy Glider Wings",
+      "Desplegar alas planeadoras",
+      "Déployer les ailes du planeur",
+      "Раскрытие крыльев планера",
+      "Gleiterflügel aufspannen",
+      "Acionar Asas de Planador",
+      "Dispiegamento Ali dell'Aliante",
+      "활공기 날개 전개",
+      "佈署滑翔裝置機翼",
+      "部署滑翔翼"
+    ],
+    "Media": "inv_10_jewelcrafting_bg_air.jpg"
+  },
+  {
     "TagId": 406083,
     "TagType": 26,
     "Names": [
@@ -1828,19 +1912,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Dynamic Flight",
-      "Vuelo dinámico",
-      "Voo Dinâmico",
-      "Dynamic Flight",
-      "Vuelo dinámico",
+      "Skyriding",
+      "Cielonáutica",
+      "Pilotagem Aérea",
+      "Skyriding",
+      "Surcacielos",
       "Vol dynamique",
-      "Динамичный полет",
-      "Dynamischer Flug",
-      "Voo Dinâmico",
+      "Высший пилотаж",
+      "Himmelsreiten",
+      "Pilotagem Aérea",
       "Volo Dinamico",
-      "역동적 비행",
-      "動態飛行",
-      "动态飞行"
+      "하늘비행",
+      "天空騎術",
+      "驭空术"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -7611,6 +7695,27 @@
       "奥术炸药"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 406392,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drifting Agility",
+      "Agilidad de giro",
+      "Agilidade Flutuante",
+      "Drifting Agility",
+      "Agilidad flotante",
+      "Agilité de dérive",
+      "Ловкий занос",
+      "Driftbeweglichkeit",
+      "Agilidade Flutuante",
+      "Agilità di Spostamento",
+      "떠도는 민첩성",
+      "飄移敏捷",
+      "灵活漂移"
+    ],
+    "Media": "petbattle_speed.jpg"
   },
   {
     "TagId": 406393,
@@ -17357,19 +17462,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Fae Accord",
-      "Acuerdo feérico",
-      "Acordo Feério",
-      "Fae Accord",
-      "Acuerdo de las sílfides",
-      "Accord des Faë",
-      "Гармония ночного народца",
-      "Faeabkommen",
-      "Acordo Feério",
-      "Accordo dei Silfi",
-      "페이의 협의",
-      "妖精協調者",
-      "法夜之律"
+      "Jadefire Accord",
+      "Acuerdo de fuego de jade",
+      "Acordo Flamejade",
+      "Jadefire Accord",
+      "Acuerdo de fuego de jade",
+      "Accord de jadefeu",
+      "Единение нефритового пламени",
+      "Jadefeuerakkord",
+      "Acordo Flamejade",
+      "Accordo di Giadafulgida",
+      "비취불꽃 협의",
+      "碧火協和",
+      "碧火之约"
     ],
     "Media": "monk_stance_redcrane.jpg"
   },
