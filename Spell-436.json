@@ -748,7 +748,7 @@
       "Малый ключевой огонь",
       "Kleine Schlüsselflamme",
       "Chama-chave Inferior",
-      "Guardafiamma Inferiore",
+      "Guardafiamma Minore",
       "하급 열쇠불꽃",
       "低階鑰炎",
       "小型钥焰"
@@ -769,7 +769,7 @@
       "Малый ключевой огонь",
       "Kleine Schlüsselflamme",
       "Chama-chave Inferior",
-      "Guardafiamma Inferiore",
+      "Guardafiamma Minore",
       "하급 열쇠불꽃",
       "低階鑰炎",
       "小型钥焰"
@@ -1572,7 +1572,7 @@
       "鮑布萊茲的守護者",
       "爆布莱泽的卫兵"
     ],
-    "Media": "achievement_dungeon_coablackdragonflight.jpg"
+    "Media": "ability_warrior_shieldmastery.jpg"
   },
   {
     "TagId": 436093,
@@ -1689,7 +1689,7 @@
       "Fogo Sagrado Colocado",
       "Holy Fire Placed",
       "Fuego Sagrado colocado",
-      "Feu sacré placé",
+      "Flammes sacrées placées",
       "Размещение священного огня",
       "Heiliges Feuer platziert",
       "Fogo Sagrado Colocado",
@@ -2727,7 +2727,7 @@
       "羈絆恩澤",
       "知己恩惠"
     ],
-    "Media": "inv_ringwod_d3_4.jpg"
+    "Media": "inv_11_0_jewelcrafting_ring_color1.jpg"
   },
   {
     "TagId": 436160,
@@ -3741,19 +3741,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Aegis of Ironforge",
-      "Égida de Forjaz",
-      "Égide de Altaforja",
-      "Aegis of Ironforge",
-      "Égida de Forjaz",
-      "Égide de Forgefer",
-      "Эгида Стальгорна",
-      "Aegis von Eisenschmiede",
-      "Égide de Altaforja",
-      "Egida di Forgiardente",
-      "아이언포지의 아이기스",
-      "鐵爐堡禦護",
-      "铁炉堡徽盾"
+      "Cast Queue: Aegis of Ironforge",
+      "Cola de lanzamiento: Égida de Forjaz",
+      "Fila de lançamento: Égide de Altaforja",
+      "Cast Queue: Aegis of Ironforge",
+      "Cola de lanzamiento: Égida de Forjaz",
+      "File d’attente d’incantation\u00A0: Égide de Forgefer",
+      "Очередь способностей: \"Эгида Стальгорна\"",
+      "Zauberwarteschlange: Aegis von Eisenschmiede",
+      "Fila de lançamento: Égide de Altaforja",
+      "Coda di Lancio: Egida di Forgiardente",
+      "시전 대기열: 아이언포지의 아이기스",
+      "施放佇列：鐵爐堡禦護",
+      "施放队列：铁炉堡徽盾"
     ],
     "Media": "inv_shield_1h_bastionquest_b_01.jpg"
   },
@@ -4539,17 +4539,17 @@
     "TagType": 26,
     "Names": [
       null,
-      "Stalkers Webbing",
+      "Stalker's Webbing",
       "Red de acechador",
       "Teia Espreitadora",
-      "Stalkers Webbing",
-      "Red de acechadores",
-      "Toiles de traqueurs",
-      "Паутина ловчих",
+      "Stalker's Webbing",
+      "Telaraña de acechador",
+      "Toile de traqueur",
+      "Паутина ловчего",
       "Pirscherspinnweben",
       "Teia Espreitadora",
       "Ragnatele Predatorie",
-      "추적자 거미줄",
+      "추적자의 거미줄",
       "潛獵者絲網",
       "追踪者缠网"
     ],
@@ -5798,7 +5798,7 @@
     "Names": [
       null,
       "Titan-Wrought Frame",
-      "Marco forjado por los titanes",
+      "Estructura forjada por los titanes",
       "Robustez Titânica",
       "Titan-Wrought Frame",
       "Armazón titánico",
@@ -5809,7 +5809,7 @@
       "Struttura Forgiata dai Titani",
       "티탄이 벼린 골격",
       "泰坦鑄造框架",
-      "泰坦精工框架"
+      "泰坦精工体格"
     ],
     "Media": "ability_earthen_titanwroughtframe.jpg"
   },
@@ -9386,17 +9386,17 @@
     "TagType": 26,
     "Names": [
       null,
-      "Defeaning Roar",
+      "Deafening Roar",
       "Rugido ensordecedor",
       "Rugido Ensurdecedor",
-      "Defeaning Roar",
+      "Deafening Roar",
       "Rugido ensordecedor",
       "Rugissement assourdissant",
       "Оглушающий рев",
       "Ohrenbetäubendes Gebrüll",
       "Rugido Ensurdecedor",
       "Ruggito Assordante",
-      "귀가 먹먹해지는 포효",
+      "귀청이 터질듯한 포효",
       "震耳咆哮",
       "震耳咆哮"
     ],
@@ -10176,7 +10176,7 @@
       "吉吉掃描",
       "ZZ的ZZ扫描"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_repairbeam_1h_jiro_b_01.jpg"
   },
   {
     "TagId": 436724,
@@ -11743,11 +11743,11 @@
       "Donar remanente destrozado",
       "Don de vestige brisé",
       "Внести расколотые останки",
-      "Zerschmettertes Überbleibsel beisteuern",
+      "Überbleibsel beisteuern",
       "Contribuir com Resquício Estilhaçado",
       "Contributo Residuo Infranto",
       "산산이 조각난 잔재 기여",
-      "貢獻粉碎殘骸",
+      "貢獻破碎的殘骸",
       "捐献碎裂残渣"
     ],
     "Media": "inv_ability_holyfire_orb.jpg"
@@ -11764,11 +11764,11 @@
       "Donar remanente destrozado",
       "Don de vestige brisé",
       "Внести расколотые останки",
-      "Zerschmettertes Überbleibsel beisteuern",
+      "Überbleibsel beisteuern",
       "Contribuir com Resquício Estilhaçado",
       "Contributo Residuo Infranto",
       "산산이 조각난 잔재 기여",
-      "貢獻粉碎殘骸",
+      "貢獻破碎的殘骸",
       "捐献碎裂残渣"
     ],
     "Media": "inv_ability_holyfire_orb.jpg"
@@ -12794,7 +12794,7 @@
       "ИскроБАХ!",
       "Glut-BUMM!",
       "CinzaBUM!",
-      "Bomba d'Idromele!",
+      "Esplosione Cinerea!",
       "불씨 폭발!",
       "燼火爆炸！",
       "燧酿爆炸！"

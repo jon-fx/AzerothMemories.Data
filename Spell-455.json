@@ -46,19 +46,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Algari Competitor's Sickle",
-      "Hoz de competidor algari",
-      "Gadanha do Competidor Algari",
-      "Algari Competitor's Sickle",
-      "Hoz de competidor algariano",
-      "Faucille de compétition algarie",
-      "Серп алгарийского бойца",
-      "Sichel des Algariwettkämpfers",
-      "Gadanha do Competidor Algari",
-      "Falcetto del Concorrente Algari",
-      "알가르 경쟁자의 꺾인 낫",
-      "阿爾加競技者短鐮",
-      "阿加竞争者的短镰"
+      "Algari Competitor's Skewer",
+      "Pincho de competidor algari",
+      "Espeto do Competidor Algari",
+      "Algari Competitor's Skewer",
+      "Pincho de competidor algariano",
+      "Brochette de compétition algarie",
+      "Вертел алгарийского бойца",
+      "Spieß des Algariwettkämpfers",
+      "Espeto do Competidor Algari",
+      "Spiedo del Concorrente Algari",
+      "알가르 경쟁자의 꼬챙이",
+      "阿爾加競技者穿刺匕首",
+      "阿加竞争者的刺肉刃"
     ],
     "Media": "ui_profession_leatherworking.jpg"
   },
@@ -130,19 +130,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Algari Competitor's Censer",
-      "Incensario de competidor algari",
-      "Incensário do Competidor Algari",
-      "Algari Competitor's Censer",
-      "Incensario de competidor algariano",
-      "Encensoir de compétition algari",
-      "Кадильница алгарийского бойца",
-      "Weihrauchschwenker des Algariwettkämpfers",
-      "Incensário do Competidor Algari",
-      "Incensiere del Concorrente Algari",
-      "알가르 경쟁자의 향로",
-      "阿爾加競技者香爐",
-      "阿加竞争者的香炉"
+      "Algari Competitor's Lamp",
+      "Farol de competidor algari",
+      "Lâmpada do Competidor Algari",
+      "Algari Competitor's Lamp",
+      "Lámpara de competidor algariano",
+      "Lampe de compétition algarie",
+      "Фонарь алгарийского бойца",
+      "Lampe des Algariwettkämpfers",
+      "Lâmpada do Competidor Algari",
+      "Lampada del Concorrente Algari",
+      "알가르 경쟁자의 등불",
+      "阿爾加競技者油燈",
+      "阿加竞争者的提灯"
     ],
     "Media": "ui_profession_leatherworking.jpg"
   },
@@ -151,19 +151,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Algari Competitor's Scythe",
-      "Guadaña de competidor algari",
-      "Foice do Competidor Algari",
-      "Algari Competitor's Scythe",
-      "Guadaña de competidor algariano",
-      "Faux de compétition algarie",
-      "Коса алгарийского бойца",
-      "Sense des Algariwettkämpfers",
-      "Foice do Competidor Algari",
-      "Falce del Concorrente Algari",
-      "알가르 경쟁자의 낫",
-      "阿爾加競技者鐮刀",
-      "阿加竞争者的镰刀"
+      "Algari Competitor's Pillar",
+      "Pilar de competidor algari",
+      "Pilar do Competidor Algari",
+      "Algari Competitor's Pillar",
+      "Pilar de competidor algariano",
+      "Pilier de compétition algari",
+      "Столп алгарийского бойца",
+      "Säule des Algariwettkämpfers",
+      "Pilar do Competidor Algari",
+      "Pilastro del Concorrente Algari",
+      "알가르 경쟁자의 기둥",
+      "阿爾加競技者之柱",
+      "阿加竞争者之柱"
     ],
     "Media": "ui_profession_leatherworking.jpg"
   },
@@ -2481,20 +2481,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Truffle Scented",
-      "Aroma de trufa",
-      "Cheiro de Trufa",
-      "Truffle Scented",
-      "Trufa perfumada",
-      "Parfum de truffe",
-      "Запах трюфеля",
-      "Trüffelbeduftet",
-      "Cheiro de Trufa",
-      "Tartufo Profumato",
-      "송로버섯 냄새 맡기",
-      "聞到松露",
-      "嗅到松露"
-    ]
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented",
+      "[DNT]Truffle Scented"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455143,
@@ -2606,19 +2607,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)",
-      "Restart the Console (DNT)"
+      "Restarting the Console",
+      "Reinicio de consola",
+      "Reiniciando o Console",
+      "Restarting the Console",
+      "Reiniciando la consola",
+      "Redémarrage de la console",
+      "Перезапуск панели управления",
+      "Die Konsole neu starten",
+      "Reiniciando o Console",
+      "Riavvio della console",
+      "제어장치 재시작",
+      "重新啟動控制臺",
+      "重启控制台"
     ],
     "Media": "spell_mage_focusingcrystal.jpg"
   },
@@ -3670,7 +3671,7 @@
       "沐聖步履",
       "圣化之步"
     ],
-    "Media": "inv_plate_outdoorarathor_d_01_glove.jpg"
+    "Media": "inv_boot_leather_pvprogue_c_02.jpg"
   },
   {
     "TagId": 455213,
@@ -4675,7 +4676,7 @@
       "Evocazioni della Regina",
       "여왕의 부름",
       "女王的召喚",
-      "女王的召唤"
+      "女王的应诏者"
     ],
     "Media": "inv_viciousflyingnerubian2_purple.jpg"
   },
@@ -5447,7 +5448,7 @@
       "Determinación de explorador",
       "Détermination d’adepte des profondeurs",
       "Решимость участника вылазки",
-      "Entschlossenheit des Gewölbeforschers",
+      "Entschlossenheit des Tiefenforschers",
       "Determinação do Imersor",
       "Determinazione delle Scorribande",
       "구렁 탐험가의 결의",
@@ -6092,7 +6093,7 @@
     "Names": [
       null,
       "Queen's Proclamation",
-      "Proclamación de la reina",
+      "Proclama de la reina",
       "Proclamação da Rainha",
       "Queen's Proclamation",
       "Proclama de la reina",
@@ -6222,7 +6223,7 @@
       "Bem Alimentado",
       "Well Fed",
       "Bien alimentado",
-      "Bien nourri",
+      "Personnage bien nourri",
       "Сытость",
       "Satt",
       "Bem Alimentado",
@@ -6588,7 +6589,7 @@
       "深淵迴響",
       "深渊回响"
     ],
-    "Media": "ability_priest_voidentropy.jpg"
+    "Media": "spell_fire_twilighthellfire.jpg"
   },
   {
     "TagId": 455388,
@@ -6721,19 +6722,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Evolution",
-      "Evolución",
-      "Evolução",
-      "Evolution",
-      "Evolución",
-      "Évolution",
-      "Эволюция",
-      "Evolution",
-      "Evolução",
-      "Evoluzione",
-      "진화",
-      "進化",
-      "进化"
+      "Ascension",
+      "Ascensión",
+      "Ascensão",
+      "Ascension",
+      "Ascensión",
+      "Sublimation",
+      "Вознесение",
+      "Aszendenz",
+      "Ascensão",
+      "Ascensione",
+      "승천",
+      "晉升",
+      "扬升"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -6827,7 +6828,7 @@
     "Names": [
       null,
       "Rolling Acid",
-      "Veneno movedizo",
+      "Ácido movedizo",
       "Onda Ácida",
       "Rolling Acid",
       "Ácido rodante",
@@ -7176,7 +7177,7 @@
       "深淵迴響",
       "深渊回响"
     ],
-    "Media": "ability_priest_voidentropy.jpg"
+    "Media": "spell_fire_twilighthellfire.jpg"
   },
   {
     "TagId": 455418,
@@ -9463,7 +9464,7 @@
       "Simbiosi",
       "공생",
       "共生",
-      "共生术"
+      "共生"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9484,7 +9485,7 @@
       "Simbiosi",
       "공생",
       "共生",
-      "共生术"
+      "共生"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9505,9 +9506,9 @@
       "Simbiosi",
       "공생",
       "共生",
-      "共生术"
+      "共生"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
   },
   {
     "TagId": 455537,
@@ -9526,7 +9527,7 @@
       "Simbiosi",
       "공생",
       "共生",
-      "共生术"
+      "共生"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -11887,7 +11888,7 @@
     "Names": [
       null,
       "Curio",
-      "Curiosidad",
+      "Singularidad",
       "Badulaque",
       "Curio",
       "Bibelot",
@@ -14280,21 +14281,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Whispers of Paranoia",
-      "Susurros de paranoia",
-      "Sussurros de Paranoia",
-      "Whispers of Paranoia",
-      "Susurros de paranoia",
-      "Murmures de paranoïa",
-      "Шепот паранойи",
-      "Geflüster der Paranoia",
-      "Sussurros de Paranoia",
-      "Sussurri della Paranoia",
-      "망상의 속삭임",
-      "偏執低語",
-      "妄念低语"
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de Seda",
+      "Sussurros da Corte Sedosa",
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de la Seda",
+      "Murmures de la cour Soyeuse",
+      "Шепот Шелкового двора",
+      "Geflüster des Seidenhofs",
+      "Sussurros da Corte Sedosa",
+      "Sussurri dalla Corte della Seta",
+      "비단 궁정의 속삭임",
+      "絲綢宮廷的低語",
+      "流丝之庭的低语"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_helm_armor_heartcrown_c_01_helm.jpg"
   },
   {
     "TagId": 455795,
@@ -14322,21 +14323,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Whispers of Paranoia",
-      "Susurros de paranoia",
-      "Sussurros de Paranoia",
-      "Whispers of Paranoia",
-      "Susurros de paranoia",
-      "Murmures de paranoïa",
-      "Шепот паранойи",
-      "Geflüster der Paranoia",
-      "Sussurros de Paranoia",
-      "Sussurri della Paranoia",
-      "망상의 속삭임",
-      "偏執低語",
-      "妄念低语"
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de Seda",
+      "Sussurros da Corte Sedosa",
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de la Seda",
+      "Murmures de la cour Soyeuse",
+      "Шепот Шелкового двора",
+      "Geflüster des Seidenhofs",
+      "Sussurros da Corte Sedosa",
+      "Sussurri dalla Corte della Seta",
+      "비단 궁정의 속삭임",
+      "絲綢宮廷的低語",
+      "流丝之庭的低语"
     ],
-    "Media": "inv_chest_armor_voidelf_d_01.jpg"
+    "Media": "inv_helm_armor_heartcrown_c_01_helm.jpg"
   },
   {
     "TagId": 455797,
@@ -14364,21 +14365,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Whispers of Rage",
-      "Susurros de ira",
-      "Sussurros de Raiva",
-      "Whispers of Rage",
-      "Susurros de ira",
-      "Murmures de rage",
-      "Шепот ярости",
-      "Geflüster der Wut",
-      "Sussurros de Raiva",
-      "Sussurri di Rabbia",
-      "분노의 속삭임",
-      "憤怒低語",
-      "愠怒低语"
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de Seda",
+      "Sussurros da Corte Sedosa",
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de la Seda",
+      "Murmures de la cour Soyeuse",
+      "Шепот Шелкового двора",
+      "Geflüster des Seidenhofs",
+      "Sussurros da Corte Sedosa",
+      "Sussurri dalla Corte della Seta",
+      "비단 궁정의 속삭임",
+      "絲綢宮廷的低語",
+      "流丝之庭的低语"
     ],
-    "Media": "spell_winston_rage.jpg"
+    "Media": "inv_helm_armor_heartcrown_c_01_helm.jpg"
   },
   {
     "TagId": 455799,
@@ -14553,21 +14554,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Whispers of Paranoia",
-      "Susurros de paranoia",
-      "Sussurros de Paranoia",
-      "Whispers of Paranoia",
-      "Susurros de paranoia",
-      "Murmures de paranoïa",
-      "Шепот паранойи",
-      "Geflüster der Paranoia",
-      "Sussurros de Paranoia",
-      "Sussurri della Paranoia",
-      "망상의 속삭임",
-      "偏執低語",
-      "妄念低语"
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de Seda",
+      "Sussurros da Corte Sedosa",
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de la Seda",
+      "Murmures de la cour Soyeuse",
+      "Шепот Шелкового двора",
+      "Geflüster des Seidenhofs",
+      "Sussurros da Corte Sedosa",
+      "Sussurri dalla Corte della Seta",
+      "비단 궁정의 속삭임",
+      "絲綢宮廷的低語",
+      "流丝之庭的低语"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_helm_armor_heartcrown_c_01_helm.jpg"
   },
   {
     "TagId": 455808,
@@ -14637,21 +14638,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Whispers of Rage",
-      "Susurros de ira",
-      "Sussurros de Raiva",
-      "Whispers of Rage",
-      "Susurros de ira",
-      "Murmures de rage",
-      "Шепот ярости",
-      "Geflüster der Wut",
-      "Sussurros de Raiva",
-      "Sussurri di Rabbia",
-      "분노의 속삭임",
-      "憤怒低語",
-      "愠怒低语"
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de Seda",
+      "Sussurros da Corte Sedosa",
+      "Whispers of The Silken Court",
+      "Susurros de la Corte de la Seda",
+      "Murmures de la cour Soyeuse",
+      "Шепот Шелкового двора",
+      "Geflüster des Seidenhofs",
+      "Sussurros da Corte Sedosa",
+      "Sussurri dalla Corte della Seta",
+      "비단 궁정의 속삭임",
+      "絲綢宮廷的低語",
+      "流丝之庭的低语"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_helm_armor_heartcrown_c_01_helm.jpg"
   },
   {
     "TagId": 455812,
@@ -14742,17 +14743,17 @@
     "TagType": 26,
     "Names": [
       null,
-      "Stalker Netting",
+      "Stalker's Netting",
       "Redes de acecho",
       "Rede Espreitadora",
-      "Stalker Netting",
-      "Red acechadora",
-      "Filet de traque",
+      "Stalker's Netting",
+      "Red de acechador",
+      "Filet de traqueur",
       "Сеть ловчего",
       "Pirschernetz",
       "Rede Espreitadora",
-      "Rete Inseguitrice",
-      "추적자 그물망",
+      "Rete Predatoria",
+      "추적자의 그물망",
       "潛獵者之網",
       "追踪者缠网"
     ],
@@ -15314,7 +15315,7 @@
       "Desenterrando Trufas com um Durapaça",
       "Truffle Digging with a Stagshell",
       "Sacar trufas con una cornaconcha",
-      "Recherche de truffes avec un cerf-carapace",
+      "Recherche de truffes avec un lucane",
       "Выкапывание трюфелей с оленепанцирником",
       "Trüffelsuche mit Hirschpanzer",
       "Desenterrando Trufas com um Durapaça",
@@ -15365,7 +15366,7 @@
       "遍體鱗傷",
       "伤痕累累"
     ],
-    "Media": "ability_devour.jpg"
+    "Media": "ability_butcher_gushingwounds.jpg"
   },
   {
     "TagId": 455848,
@@ -17702,19 +17703,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Web Vortex",
-      "Vórtice de telarañas",
-      "Vórtice de Teia",
-      "Web Vortex",
-      "Vórtice de telaraña",
-      "Vortex de rets",
-      "Вихрь паутины",
-      "Netzvortex",
-      "Vórtice de Teia",
-      "Vortice di Ragnatela",
-      "거미줄 소용돌이",
-      "蛛網漩渦",
-      "蛛网漩涡"
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used",
+      "Not Used"
     ],
     "Media": "trade_engineering.jpg"
   },

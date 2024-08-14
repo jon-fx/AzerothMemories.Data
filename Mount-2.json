@@ -593,7 +593,7 @@
     "Names": [
       null,
       "Fel Iron Juggernaut",
-      "Gigante Férreo vil",
+      "Gigante férreo vil",
       "Jaganata de Ferrovil",
       "Fel Iron Juggernaut",
       "Gigante férreo vil",
@@ -921,7 +921,7 @@
       "探究者飛船",
       "地下堡行者的飞船"
     ],
-    "Media": "ability_mount_gyrocoptorelite.jpg"
+    "Media": "inv_companiondelvesairship.jpg"
   },
   {
     "TagId": 2145,
@@ -1071,6 +1071,111 @@
     "Media": "inv_firefly2mount_blue.jpg"
   },
   {
+    "TagId": 2165,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Soaring Meaderbee",
+      "Abeja de hidromiel planeadora",
+      "Abelha-do-hidromel Planadora",
+      "Soaring Meaderbee",
+      "Abejalagar planeador",
+      "Hydromelleuse majestueuse",
+      "Парящая медопчела",
+      "Gleitende Weidenbiene",
+      "Abelha-do-hidromel Planadora",
+      "Ape Volteggiante dell'Idromelificio",
+      "솟구치는 봉밀벌",
+      "翱翔蜜酒蜂",
+      "翔天蜜酒之蜂"
+    ],
+    "Media": "inv_firebeemount_black.jpg"
+  },
+  {
+    "TagId": 2167,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Raging Cinderbee",
+      "Cenizabeja iracunda",
+      "Cinzabelha Furiosa",
+      "Raging Cinderbee",
+      "Cenizabeja furibunda",
+      "Cendrabeille déchaînée",
+      "Разъяренная золопчела",
+      "Wütende Glutbiene",
+      "Cinzabelha Furiosa",
+      "Ape di Cenere Furente",
+      "분노하는 잿불벌",
+      "狂怒燼蜂",
+      "暴怒的燧烬蜂"
+    ],
+    "Media": "inv_firebeemount_red.jpg"
+  },
+  {
+    "TagId": 2171,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Widow's Undercrawler",
+      "Infrarreptador de la viuda",
+      "Rastejante da Viúva",
+      "Widow's Undercrawler",
+      "Infrarreptador de la viuda",
+      "Rampe-fonds de la veuve",
+      "Подземный ползун вдовы",
+      "Unterkrabbler der Witwe",
+      "Rastejante da Viúva",
+      "Strisciafondo della Vedova",
+      "미망인의 땅밑거미",
+      "寡婦的地底爬蛛",
+      "寡妇的幽暗爬行者"
+    ],
+    "Media": "inv_spiderundergroundmount_red.jpg"
+  },
+  {
+    "TagId": 2172,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Heritage Undercrawler",
+      "Infrarreptador de legado",
+      "Rastejante Tradicional",
+      "Heritage Undercrawler",
+      "Infrarreptador dinástico",
+      "Rampe-fonds hérité",
+      "Ползун армии Наследия",
+      "Erbunterkrabbler",
+      "Rastejante Tradicional",
+      "Strisciafondo del Retaggio",
+      "명맥의 땅밑거미",
+      "傳承地底爬蛛",
+      "传承幽暗爬行者"
+    ],
+    "Media": "inv_spiderundergroundmount_blue.jpg"
+  },
+  {
+    "TagId": 2174,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Royal Court Undercrawler",
+      "Infrarreptador de la corte real",
+      "Rastejante da Corte Real",
+      "Royal Court Undercrawler",
+      "Infrarreptador de la corte real",
+      "Rampe-fonds de la cour royale",
+      "Королевский подземный ползун",
+      "Unterkrabbler des königlichen Hofs",
+      "Rastejante da Corte Real",
+      "Strisciafondo della Corte Reale",
+      "왕실 궁정 땅밑거미",
+      "宮廷地底爬蛛",
+      "王庭幽暗爬行者"
+    ],
+    "Media": "inv_spiderundergroundmount_yellow.jpg"
+  },
+  {
     "TagId": 2176,
     "TagType": 22,
     "Names": [
@@ -1132,6 +1237,27 @@
       "影遁群聚虫"
     ],
     "Media": "inv_flyingnerubian2mount_black.jpg"
+  },
+  {
+    "TagId": 2181,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Swarmite Skyhunter",
+      "Cazacielos enjambróptero",
+      "Enxamito Predacéu",
+      "Swarmite Skyhunter",
+      "Enjambrille depredacielos",
+      "Chasseur céleste essaimite",
+      "Небесный охотник-роевик",
+      "Schwärmilbenhimmelsjäger",
+      "Enxamito Predacéu",
+      "Acaro Sciamante Predacieli",
+      "무리진드기 하늘사냥꾼",
+      "蜱群天獵蟲",
+      "群聚虫猎天者"
+    ],
+    "Media": "inv_flyingnerubian2mount_purple.jpg"
   },
   {
     "TagId": 2184,
@@ -1300,6 +1426,27 @@
       "朱红帝国山猫"
     ],
     "Media": "inv_arathilynxmount_red.jpg"
+  },
+  {
+    "TagId": 2194,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Dauntless Imperial Lynx",
+      "Lince imperial intrépido",
+      "Lince Imperial Inabalável",
+      "Dauntless Imperial Lynx",
+      "Lince imperial intrépido",
+      "Lynx impérial audacieux",
+      "Неустрашимая императорская рысь",
+      "Furchtloser Kaiserluchs",
+      "Lince Imperial Inabalável",
+      "Lince Imperiale Impavida",
+      "불굴호 제국 스라소니",
+      "無懼帝王山貓",
+      "果敢帝国山猫"
+    ],
+    "Media": "inv_arathilynxmount_dark.jpg"
   },
   {
     "TagId": 2198,
@@ -1685,18 +1832,18 @@
     "Names": [
       null,
       "Earthen Ordinant's Ramolith",
+      "Carnerolito de ordenante terráneo",
+      "Agnolito do Ordeiro Terrano",
       "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith",
-      "Earthen Ordinant's Ramolith"
+      "Cabrolito de ordenante terráneo",
+      "Béliérithe d’ordonnateur terrestre",
+      "Баранолит земельника – хранителя порядка",
+      "Ramolith des irdenen Weihekandidaten",
+      "Agnolito do Ordeiro Terrano",
+      "Montone Litico dell'Ordinante Terrigeno",
+      "토석인 임명자의 돌산양",
+      "土靈受命者的大岩羊",
+      "土灵宣令者的磐羊"
     ],
     "Media": "inv_earthenpaladinmount.jpg"
   },
@@ -1825,5 +1972,46 @@
       "雷什基加尔之手"
     ],
     "Media": "inv_mawguardhandmountwhite.jpg"
+  },
+  {
+    "TagId": 2259,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Gigantic Grrloc",
+      "Grrloc titánico",
+      "Grrloc Gigante",
+      "Gigantic Grrloc",
+      "Grrloc colosal",
+      "Grrloc gigantesque",
+      "Огромный гррлок",
+      "Gewaltiger Grrloc",
+      "Grrloc Gigante",
+      "Grrloc Immane",
+      "가공할 그르옳",
+      "大鰭加洛克",
+      "奔波尔鲛"
+    ],
+    "Media": "inv_murlocmount_orange.jpg"
+  },
+  {
+    "TagId": 2262,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Harmonious Salutations Bear",
+      "Oso de saludos armoniosos",
+      "Urso de Saudações Harmoniosas",
+      "Harmonious Salutations Bear",
+      "Oso de saludos armoniosos",
+      "Ours aux salutations harmonieuses",
+      "Медведь дружественных приветствий",
+      "Bär der harmonischen Grüße",
+      "Urso de Saudações Harmoniosas",
+      "Orso dei Saluti Armoniosi",
+      "조화로운 인사의 곰",
+      "和諧迎賓熊",
+      "迎福巨熊"
+    ]
   }
 ]

@@ -257,7 +257,7 @@
     "Names": [
       null,
       "Squally",
-      "Borrascoso",
+      "Borrascosa",
       "Borrasquita",
       "Squally",
       "Borrascoso",
@@ -1654,7 +1654,7 @@
       "Salterino Paludombra",
       "어둠수렁 깡충이",
       "影沼跳蛙",
-      "影泽欢跳者"
+      "影泽跃蛙"
     ],
     "Media": "inv_frog2_tropicalblue.jpg"
   },
@@ -1821,7 +1821,7 @@
       "Gosma do Filho do Caos",
       "Melma della Genia del Vuoto",
       "공허괴물 수액",
-      "小型虛無軟泥",
+      "虛無之靈軟泥",
       "虚空之子软泥"
     ],
     "Media": "inv_maldraxxusslime_purple.jpg"
@@ -2046,7 +2046,7 @@
       "Trupica",
       "Skippy",
       "Brinquitos",
-      "Cavavite",
+      "Sautillet",
       "Скок",
       "Hopsi",
       "Trupica",
@@ -2965,15 +2965,15 @@
     "TagType": 23,
     "Names": [
       null,
-      "Sir Shady Mrgglton Junior",
-      "Sir Sombrío Mrgglton Júnior",
-      "Dom Matreiro Mrgglton Júnior",
-      "Sir Shady Mrgglton Junior",
+      "Sir Shady Mrrgglton Junior",
+      "Sir Sombrío Mrrgglton Júnior",
+      "Dom Matreiro Mrrgglton Júnior",
+      "Sir Shady Mrrgglton Junior",
       "Sir Sombra Mrgglton júnior",
-      "Sieur Lombreux Mrgglton Junior",
+      "Sieur Lombreux Mrrgglton Junior",
       "Сэр Тень Мрргглтон-младший",
-      "Lord Zwielicht Mrgglton junior",
-      "Dom Matreiro Mrgglton Júnior",
+      "Lord Zwielicht Mrrgglton junior",
+      "Dom Matreiro Mrrgglton Júnior",
       "Ser Losky Mrrgglton Junior",
       "셰이디 므르글턴 2세 경",
       "小謝迪‧莫戈頓爵士",
@@ -3658,19 +3658,19 @@
     "TagType": 23,
     "Names": [
       null,
-      "Purple Stagshell",
-      "Caparapincho púrpura",
-      "Durapaça Roxa",
-      "Purple Stagshell",
-      "Cornaconcha morado",
-      "Lucane violet",
-      "Фиолетовый оленепанцирник",
-      "Violetter Hirschpanzer",
-      "Durapaça Roxa",
-      "Gusciocorno Viola",
-      "보라색 가지뿔껍질",
-      "紫色鹿殼蟲",
-      "紫色鹿壳虫"
+      "Ruby-Eyed Stagshell",
+      "Caparapincho ojos de rubí",
+      "Durapaça Olho-de-rubi",
+      "Ruby-Eyed Stagshell",
+      "Cornaconcha con ojos de rubí",
+      "Lucane aux yeux de rubis",
+      "Рубиноглазый оленепанцирник",
+      "Rubinäugiger Hirschpanzer",
+      "Durapaça Olho-de-rubi",
+      "Gusciocorno Occhio di Rubino",
+      "루비눈 가지뿔껍질",
+      "晶紅之眼鹿殼蟲",
+      "红玉之眼鹿壳虫"
     ],
     "Media": "inv_nerubianbeetlepet_purple.jpg"
   },
@@ -3967,5 +3967,47 @@
       "卡劳迪乌斯"
     ],
     "Media": "inv_treasurecrabpet_yellow.jpg"
+  },
+  {
+    "TagId": 4615,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Parrlok",
+      "Parrlok",
+      "Parrlok",
+      "Parrlok",
+      "Parrlok",
+      "Parrlok",
+      "Паррлок",
+      "Parrlok",
+      "Parrlok",
+      "Parrlok",
+      "파를로크",
+      "帕洛克",
+      "帕尔洛克"
+    ],
+    "Media": "inv_ogrepet.jpg"
+  },
+  {
+    "TagId": 4616,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Gummi",
+      "Gomi",
+      "Gummi",
+      "Gummi",
+      "Gomi",
+      "Guimauve",
+      "Желеш",
+      "Gummi",
+      "Gummi",
+      "Gommy",
+      "구미",
+      "古米",
+      "谷米"
+    ],
+    "Media": "inv_brokerworm_pink.jpg"
   }
 ]

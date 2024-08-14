@@ -26,7 +26,7 @@
     "Names": [
       null,
       "Helm of Sina's Stalwarts",
-      "Yelmo de los adeptos de Sina",
+      "Yelmo de los inquebrantables de Sina",
       "Elmo dos Defensores de Sina",
       "Helm of Sina's Stalwarts",
       "Yelmo de los incondicionales de Sina",
@@ -47,7 +47,7 @@
     "Names": [
       null,
       "Chainmail of Sina's Stalwarts",
-      "Malla de anillas de los adeptos de Sina",
+      "Malla de anillas de los inquebrantables de Sina",
       "Malha de Anéis dos Defensores de Sina",
       "Chainmail of Sina's Stalwarts",
       "Malla de anillas de los incondicionales de Sina",
@@ -68,7 +68,7 @@
     "Names": [
       null,
       "Greaves of Sina's Stalwarts",
-      "Grebas de los adeptos de Sina",
+      "Grebas de los inquebrantables de Sina",
       "Grevas dos Defensores de Sina",
       "Greaves of Sina's Stalwarts",
       "Grebas de los incondicionales de Sina",
@@ -110,7 +110,7 @@
     "Names": [
       null,
       "Cowl of Sina's Stalwarts",
-      "Capucha de los adeptos de Sina",
+      "Capucha de los inquebrantables de Sina",
       "Capucho dos Defensores de Sina",
       "Cowl of Sina's Stalwarts",
       "Capucha de los incondicionales de Sina",
@@ -436,7 +436,7 @@
       "Veste della Vendetta della Resa dei Conti",
       "심판호의 복수 예복",
       "清算復仇法衣",
-      "清算复仇圣服"
+      "罪偿号复仇圣服"
     ],
     "Media": "inv_robe_cloth_undergroundquest_b_01.jpg"
   },
@@ -457,7 +457,7 @@
       "Brachette della Vendetta della Resa dei Conti",
       "심판호의 복수 짧은바지",
       "清算復仇馬褲",
-      "清算复仇马裤"
+      "罪偿号复仇马裤"
     ],
     "Media": "inv_pant_leather_undergroundquest_b_01.jpg"
   },
@@ -499,7 +499,7 @@
       "Camaglio della Vendetta della Resa dei Conti",
       "심판호의 복수 코이프",
       "清算復仇罩盔",
-      "清算复仇罩帽"
+      "罪偿号复仇罩帽"
     ],
     "Media": "inv_helm_mail_undergroundquest_b_01.jpg"
   },
@@ -520,7 +520,7 @@
       "Pettorale Corazzato della Vendetta della Resa dei Conti",
       "심판호의 복수 가슴보호갑",
       "清算復仇胸甲",
-      "清算复仇胸铠"
+      "罪偿号复仇胸铠"
     ],
     "Media": "inv_chest_plate_undergroundquest_b_01.jpg"
   },
@@ -739,19 +739,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Dornish Pike",
+      "Lucio dórnico",
+      "Lúcio Dornês",
+      "Dornish Pike",
+      "Lucio de Dorn",
+      "Brochet de Dorn",
+      "Дорнийская щука",
+      "Dornischer Hecht",
+      "Lúcio Dornês",
+      "Luccio di Dorn",
+      "도른 강꼬치고기",
+      "多恩狗魚",
+      "多恩梭鱼"
     ],
     "Media": "inv_misc_fish_93.jpg"
   },
@@ -949,10 +949,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Awoken Coelecanth",
-      "Celacanto vivaz",
+      "Awoken Coelacanth",
+      "Celacanto despertado",
       "Celacanto Despertado",
-      "Awoken Coelecanth",
+      "Awoken Coelacanth",
       "Celacanto despierto",
       "Cœlacanthe éveillé",
       "Пробужденный целакант",
@@ -1033,27 +1033,6 @@
     "TagType": 21,
     "Names": [
       null,
-      "Darkened Tinderbox",
-      "Caja de yesca oscurecida",
-      "Caixa Ignitora Escurecida",
-      "Darkened Tinderbox",
-      "Caja de yesca oscurecida",
-      "Poudrière assombrie",
-      "Потемневшая трутница",
-      "Verdunkelter Zunderkasten",
-      "Caixa Ignitora Escurecida",
-      "Accendifiamma Annerito",
-      "어둠에 물든 부싯깃 상자",
-      "黑暗引火盒",
-      "黑化的火绒箱"
-    ],
-    "Media": "inv_misc_tinderboxholy01.jpg"
-  },
-  {
-    "TagId": 220158,
-    "TagType": 21,
-    "Names": [
-      null,
       "Empowered Tinderbox",
       "Caja de yesca potenciada",
       "Caixa Ignitora Potencializada",
@@ -1066,7 +1045,28 @@
       "Accendifiamma Potenziato",
       "강화된 부싯깃 상자",
       "強化引火盒",
-      "强化的火绒箱"
+      "强化的火绒盒"
+    ],
+    "Media": "inv_misc_tinderboxholy01.jpg"
+  },
+  {
+    "TagId": 220158,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkened Tinderbox",
+      "Caja de yesca oscurecida",
+      "Caixa Ignitora Escurecida",
+      "Darkened Tinderbox",
+      "Caja de yesca oscurecida",
+      "Poudrière assombrie",
+      "Потемневшая трутница",
+      "Verdunkelter Zunderkasten",
+      "Caixa Ignitora Escurecida",
+      "Accendifiamma Annerito",
+      "어둠에 물든 부싯깃 상자",
+      "晦暗引火盒",
+      "黑化的火绒盒"
     ],
     "Media": "inv_misc_tinderboxholy01.jpg"
   },
@@ -1812,19 +1812,19 @@
       null,
       "Spymaster's Web",
       "Red de maestro espía",
-      "Teia do Mestre Espião",
+      "Teia da Mestre Espiã",
       "Spymaster's Web",
       "Red de maestro de espías",
       "Toile de la maîtresse de l’espionnage",
       "Тенета мастера шпионажа",
       "Netz des Meisterspions",
-      "Teia do Mestre Espião",
+      "Teia da Mestre Espiã",
       "Ragnatela del Maestro delle Spie",
       "첩보단장의 거미줄",
       "間諜大師的羅網",
       "间谍大师裹网"
     ],
-    "Media": "inv_misc_nightelfspyglass.jpg"
+    "Media": "inv_11_0_raid_spymastersweb_purple.jpg"
   },
   {
     "TagId": 220203,
@@ -1990,7 +1990,7 @@
       "Accendifiamma Corrotto di Aelric",
       "타락에 물든 엘릭의 부싯깃 상자",
       "艾爾里克的腐化引火盒",
-      "艾尔里克的腐化的火绒箱"
+      "艾尔里克的腐化的火绒盒"
     ],
     "Media": "inv_misc_tinderboxshadow01.jpg"
   },
@@ -2011,7 +2011,7 @@
       "Accendifiamma Sconosciuto",
       "미확인 부싯깃 상자",
       "不明引火盒",
-      "未鉴定的火绒箱"
+      "未鉴定的火绒盒"
     ],
     "Media": "inv_misc_tinderboxclosed01.jpg"
   },
@@ -3144,7 +3144,7 @@
       "Aglomerado Felpudo",
       "Grumo Soffice",
       "보송보송한 덩어리",
-      "鬆軟團塊",
+      "羽絨團",
       "一团绒羽"
     ],
     "Media": "spell_magic_featherfall.jpg"
@@ -3847,15 +3847,15 @@
     "TagType": 21,
     "Names": [
       null,
-      "Ovinax's Mercurial Egg",
-      "Huevo mercúrico de Ovinax",
-      "Ovo Mercurial de Ovinax",
-      "Ovinax's Mercurial Egg",
+      "Ovi'nax's Mercurial Egg",
+      "Huevo mercúrico de Ovi'nax",
+      "Ovo Mercurial de Ovi'nax",
+      "Ovi'nax's Mercurial Egg",
       "Huevo volátil de Ovi'nax",
-      "Œuf mercurien d’Ovinax",
-      "Переменчивое яйцо Овинакса",
-      "Ovinax' quecksilbriges Ei",
-      "Ovo Mercurial de Ovinax",
+      "Œuf mercurien d’Ovi’nax",
+      "Переменчивое яйцо Ови'накса",
+      "Ovi'nax' quecksilbriges Ei",
+      "Ovo Mercurial de Ovi'nax",
       "Uovo Mercuriale di Ovi'nax",
       "오비낙스의 변화성 알",
       "歐維納斯的水銀蛋",
@@ -4069,7 +4069,7 @@
       "Accendifiamma Corrotto di Aelric",
       "타락에 물든 엘릭의 부싯깃 상자",
       "艾爾里克的腐化引火盒",
-      "艾尔里克的腐化的火绒箱"
+      "艾尔里克的腐化的火绒盒"
     ],
     "Media": "inv_misc_tinderboxshadow01.jpg"
   },
@@ -5381,7 +5381,7 @@
       "Té irritable",
       "Thé vivifiant",
       "Ужин с рыбой и картошкой",
-      "Übellauniger Tee",
+      "Imbissmahl",
       "Peixe com Batatas",
       "Tè di Schegge",
       "파편 차",
@@ -5701,7 +5701,7 @@
       "Accendifiamma degli Arathi Dissacrato",
       "더럽혀진 아라시 부싯깃 상자",
       "被玷污的阿拉希引火盒",
-      "被亵渎的阿拉希火绒箱"
+      "被亵渎的阿拉希火绒盒"
     ],
     "Media": "inv_misc_tinderboxclosed01.jpg"
   },
@@ -7166,7 +7166,7 @@
       "Escaparate de pistolas de agua extremas",
       "Affichage canon à eau extrême",
       "Стойка с ИКС-ключительным брызгателем",
-      "X-trem-Wasserstrahleranzeige",
+      "X-trem-Wasserstrahlerablage",
       "Mostruário de Disparágua X-tremo",
       "Supporto dell'Acquadator Extremo",
       "초강력 물대포 전시대",

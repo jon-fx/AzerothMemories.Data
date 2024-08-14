@@ -236,7 +236,7 @@
     "Names": [
       null,
       "Breaker Beam",
-      "Rayo rompedor",
+      "Rayo destructor",
       "Feixe Transpositor",
       "Breaker Beam",
       "Haz aniquilador",
@@ -1329,13 +1329,13 @@
       null,
       "Hungering Bellows",
       "Bramidos de hambre",
-      "Gorjas Famintas",
+      "Urros Famintos",
       "Hungering Bellows",
       "Bramidos hambrientos",
       "Beuglements affamés",
       "Голодный рев",
       "Hungerndes Gebrüll",
-      "Gorjas Famintas",
+      "Urros Famintos",
       "Grido Famelico",
       "굶주린 고함",
       "飢饞嚎叫",
@@ -1350,13 +1350,13 @@
       null,
       "Hungering Bellows",
       "Bramidos de hambre",
-      "Gorjas Famintas",
+      "Urros Famintos",
       "Hungering Bellows",
       "Bramidos hambrientos",
       "Beuglements affamés",
       "Голодный рев",
       "Hungerndes Gebrüll",
-      "Gorjas Famintas",
+      "Urros Famintos",
       "Grido Famelico",
       "굶주린 고함",
       "飢饞嚎叫",
@@ -1391,7 +1391,7 @@
     "Names": [
       null,
       "Stormrider's Charge",
-      "Arremetida de Jinete de la tormenta",
+      "Carga de jinete de la tormenta",
       "Carga do Cavalgaventos",
       "Stormrider's Charge",
       "Carga de jinete de la tormenta",
@@ -1454,7 +1454,7 @@
     "Names": [
       null,
       "Stormrider's Charge",
-      "Arremetida de Jinete de la tormenta",
+      "Carga de jinete de la tormenta",
       "Carga do Cavalgaventos",
       "Stormrider's Charge",
       "Carga de jinete de la tormenta",
@@ -1475,7 +1475,7 @@
     "Names": [
       null,
       "Stormrider's Charge",
-      "Arremetida de Jinete de la tormenta",
+      "Carga de jinete de la tormenta",
       "Carga do Cavalgaventos",
       "Stormrider's Charge",
       "Carga de jinete de la tormenta",
@@ -1580,7 +1580,7 @@
     "Names": [
       null,
       "Stormrider's Charge",
-      "Arremetida de Jinete de la tormenta",
+      "Carga de jinete de la tormenta",
       "Carga do Cavalgaventos",
       "Stormrider's Charge",
       "Carga de jinete de la tormenta",
@@ -1601,7 +1601,7 @@
     "Names": [
       null,
       "Stormrider's Charge",
-      "Arremetida de Jinete de la tormenta",
+      "Carga de jinete de la tormenta",
       "Carga do Cavalgaventos",
       "Stormrider's Charge",
       "Carga de jinete de la tormenta",
@@ -2251,21 +2251,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Brutal Lashings",
-      "Ataduras brutales",
-      "Açoites Brutais",
-      "Brutal Lashings",
-      "Latigazos brutales",
-      "Coups de fouet brutaux",
-      "Жестокое иссечение",
-      "Brutale Peitschenhiebe",
-      "Açoites Brutais",
-      "Sferzate Brutali",
-      "잔혹한 채찍질",
-      "蠻橫綑綁",
-      "残暴鞭笞"
+      "Carnivorous Contest",
+      "Competencia carnívora",
+      "Disputa Carnívora",
+      "Carnivorous Contest",
+      "Competición carnívora",
+      "Jeu carnivore",
+      "Игра хищника",
+      "Karnivorenkraftprobe",
+      "Disputa Carnívora",
+      "Gara Carnivora",
+      "탐욕스러운 맞대결",
+      "肉食比賽",
+      "噬肉角力"
     ],
-    "Media": "inv_ability_web_beam.jpg"
+    "Media": "ability_druid_ferociousbite.jpg"
   },
   {
     "TagId": 458130,
@@ -2273,7 +2273,7 @@
     "Names": [
       null,
       "Stormrider's Charge",
-      "Arremetida de Jinete de la tormenta",
+      "Carga de jinete de la tormenta",
       "Carga do Cavalgaventos",
       "Stormrider's Charge",
       "Carga de jinete de la tormenta",
@@ -2988,13 +2988,13 @@
       null,
       "Rumor Map: Espionage",
       "Mapa de rumor: Espionaje",
-      "Mapa de Rumor: Espionagem",
+      "Mapa de Boatos: Espionagem",
       "Rumor Map: Espionage",
       "Mapa de rumores: espionaje",
       "Carte de rumeur\u00A0: espionnage",
       "Непроверенная карта: шпионаж",
       "Gerüchtekarte: Spionage",
-      "Mapa de Rumor: Espionagem",
+      "Mapa de Boatos: Espionagem",
       "Mappa delle Voci: Spionaggio",
       "소문 지도: 첩보",
       "傳聞地圖：諜報",
@@ -3135,13 +3135,13 @@
       null,
       "Rumor Map: Bounties",
       "Mapa de rumor: Recompensas",
-      "Mapa de Rumor: Recompensas",
+      "Mapa de Boatos: Recompensas",
       "Rumor Map: Bounties",
       "Mapa de rumores: recompensa",
       "Carte de rumeur\u00A0: primes",
       "Непроверенная карта: трофеи",
       "Gerüchtekarte: Kopfgeld",
-      "Mapa de Rumor: Recompensas",
+      "Mapa de Boatos: Recompensas",
       "Mappa delle Voci: Taglie",
       "소문 지도: 현상금",
       "傳聞地圖：賞金",
@@ -3177,13 +3177,13 @@
       null,
       "Rumor Map: Disruption",
       "Mapa de rumor: Perturbación",
-      "Mapa de Rumor: Disrupção",
+      "Mapa de Boatos: Disrupção",
       "Rumor Map: Disruption",
       "Mapa de rumores: perturbación",
       "Carte de rumeur\u00A0: perturbation",
       "Непроверенная карта: саботаж",
       "Gerüchtekarte: Störung",
-      "Mapa de Rumor: Disrupção",
+      "Mapa de Boatos: Disrupção",
       "Mappa delle Voci: Disgregazione",
       "소문 지도: 분열",
       "傳聞地圖：擾亂",
@@ -3428,7 +3428,7 @@
     "Names": [
       null,
       "Mutation: Accelerated",
-      "Mutación: acelerada",
+      "Mutación: Acelerada",
       "Mutação: Acelerado",
       "Mutation: Accelerated",
       "Mutación: Acelerado",
@@ -3469,19 +3469,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers Arcanos",
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers arcaniques",
-      "Чародейские лазеры",
-      "Arkane Laser",
-      "Lasers Arcanos",
-      "Laser Arcani",
-      "비전 광선",
-      "秘法雷射",
-      "奥术激光"
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers Sobrecarregados",
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers surchargés",
+      "Перегретые лазеры",
+      "Überladene Laser",
+      "Lasers Sobrecarregados",
+      "Laser Sovraccarichi",
+      "과충전된 레이저",
+      "超載雷射",
+      "超载激光"
     ],
     "Media": "spell_holy_mindsooth.jpg"
   },
@@ -3616,19 +3616,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers Arcanos",
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers arcaniques",
-      "Чародейские лазеры",
-      "Arkane Laser",
-      "Lasers Arcanos",
-      "Laser Arcani",
-      "비전 광선",
-      "秘法雷射",
-      "奥术激光"
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers Sobrecarregados",
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers surchargés",
+      "Перегретые лазеры",
+      "Überladene Laser",
+      "Lasers Sobrecarregados",
+      "Laser Sovraccarichi",
+      "과충전된 레이저",
+      "超載雷射",
+      "超载激光"
     ],
     "Media": "spell_holy_mindsooth.jpg"
   },
@@ -3679,19 +3679,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers Arcanos",
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers arcaniques",
-      "Чародейские лазеры",
-      "Arkane Laser",
-      "Lasers Arcanos",
-      "Laser Arcani",
-      "비전 광선",
-      "秘法雷射",
-      "奥术激光"
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers Sobrecarregados",
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers surchargés",
+      "Перегретые лазеры",
+      "Überladene Laser",
+      "Lasers Sobrecarregados",
+      "Laser Sovraccarichi",
+      "과충전된 레이저",
+      "超載雷射",
+      "超载激光"
     ],
     "Media": "spell_holy_mindsooth.jpg"
   },
@@ -3826,19 +3826,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Protector's Bolt",
-      "Descarga de protector",
-      "Seta do Protetor",
-      "Protector's Bolt",
-      "Descarga de protector",
-      "Éclair de protecteur",
-      "Заряд защитника",
-      "Beschützerblitz",
-      "Seta do Protetor",
-      "Dardo del Protettore",
-      "보호자의 화살",
-      "保護者之箭",
-      "保护者之箭"
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]",
+      "Protector's Bolt [DNT]"
     ],
     "Media": "spell_holy_healingfocus.jpg"
   },
@@ -4352,7 +4352,7 @@
     "Names": [
       null,
       "Stormrider's Charge",
-      "Arremetida de Jinete de la tormenta",
+      "Carga de jinete de la tormenta",
       "Carga do Cavalgaventos",
       "Stormrider's Charge",
       "Carga de jinete de la tormenta",
@@ -6777,7 +6777,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -7186,21 +7186,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Brutal Lashings",
-      "Ataduras brutales",
-      "Açoites Brutais",
-      "Brutal Lashings",
-      "Latigazos brutales",
-      "Coups de fouet brutaux",
-      "Жестокое иссечение",
-      "Brutale Peitschenhiebe",
-      "Açoites Brutais",
-      "Sferzate Brutali",
-      "잔혹한 채찍질",
-      "蠻橫綑綁",
-      "残暴鞭笞"
+      "Carnivorous Contest",
+      "Competencia carnívora",
+      "Disputa Carnívora",
+      "Carnivorous Contest",
+      "Competición carnívora",
+      "Jeu carnivore",
+      "Игра хищника",
+      "Karnivorenkraftprobe",
+      "Disputa Carnívora",
+      "Gara Carnivora",
+      "탐욕스러운 맞대결",
+      "肉食比賽",
+      "噬肉角力"
     ],
-    "Media": "inv_ability_web_beam.jpg"
+    "Media": "ability_druid_ferociousbite.jpg"
   },
   {
     "TagId": 458459,
@@ -7596,7 +7596,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -7815,21 +7815,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Ascendance",
+      "Ascension",
       "Ascensión",
-      "Ascendência",
-      "Ascendance",
+      "Ascensão",
+      "Ascension",
       "Ascensión",
       "Sublimation",
-      "Перерождение",
+      "Вознесение",
       "Aszendenz",
-      "Ascendência",
-      "Ascesa",
+      "Ascensão",
+      "Ascensione",
       "승천",
-      "卓越術",
+      "晉升",
       "扬升"
     ],
-    "Media": "inv_10_inscription_darkmooncards_air_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckevolution_0.jpg"
   },
   {
     "TagId": 458503,
@@ -7850,7 +7850,7 @@
       "卓越術",
       "扬升"
     ],
-    "Media": "inv_10_inscription_darkmooncards_air_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckevolution_0.jpg"
   },
   {
     "TagId": 458504,
@@ -8228,28 +8228,28 @@
       "卓越術",
       "扬升"
     ],
-    "Media": "inv_10_inscription_darkmooncards_air_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckevolution_0.jpg"
   },
   {
     "TagId": 458525,
     "TagType": 26,
     "Names": [
       null,
-      "Ascendance",
+      "Ascension",
       "Ascensión",
-      "Ascendência",
-      "Ascendance",
+      "Ascensão",
+      "Ascension",
       "Ascensión",
       "Sublimation",
-      "Перерождение",
+      "Вознесение",
       "Aszendenz",
-      "Ascendência",
-      "Ascesa",
+      "Ascensão",
+      "Ascensione",
       "승천",
-      "卓越術",
+      "晉升",
       "扬升"
     ],
-    "Media": "inv_10_inscription_darkmooncards_air_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckevolution_0.jpg"
   },
   {
     "TagId": 458527,
@@ -9173,7 +9173,7 @@
       "卓越術",
       "扬升"
     ],
-    "Media": "inv_10_inscription_darkmooncards_air_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckevolution_0.jpg"
   },
   {
     "TagId": 458575,
@@ -9480,7 +9480,7 @@
       "Takazj's Favorite Candy",
       "Dulce favorito de Takazj",
       "Bonbon préféré de Takazj",
-      "Любимая конфета Таказджа",
+      "Любимая конфета Таказдж",
       "Takazjs Lieblingssüßigkeit",
       "Doce Favorito de Takazj",
       "Caramella Preferita di Takazj",
@@ -9489,6 +9489,27 @@
       "塔卡兹基最爱的糖果"
     ],
     "Media": "inv_valentinesboxofchocolates02.jpg"
+  },
+  {
+    "TagId": 458600,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Surging Totem",
+      "Tótem volátil",
+      "Totem Jorrante",
+      "Surging Totem",
+      "Tótem emergente",
+      "Totem déferlant",
+      "Пульсирующий тотем",
+      "Wogendes Totem",
+      "Totem Jorrante",
+      "Totem Crescente",
+      "쇄도하는 토템",
+      "翻湧圖騰",
+      "涌动图腾"
+    ],
+    "Media": "inv_ability_totemicshaman_surgingtotem.jpg"
   },
   {
     "TagId": 458601,
@@ -10222,7 +10243,8 @@
       "[DNT] Grant Kill Credit",
       "[DNT] Grant Kill Credit",
       "[DNT] Grant Kill Credit"
-    ]
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 458650,
@@ -10460,19 +10482,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "11.0 Raid - Nerubian - Trash - Captured Arathi - 01 Summon - SAHM",
-      "Banda de 11.0 - Basura - Arathi capturado - 01 Invocación - SAHM",
-      "11.0 Raide - Nerubiano - Trash - Arathi Capturado - 1 Evocar - SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Arathi - 01 Summon - SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Arathi - 01 Summon - SAHM",
-      "Raid 11.0 – Nérubien – Trash – Arathi capturé – 01 Invocation – SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Arathi - 01 Summon - SAHM",
-      "11.0 Schlachtzug - Neruber - Müll - Gefangener Arathi - 01 Beschwören - SAHM",
-      "11.0 Raide - Nerubiano - Trash - Arathi Capturado - 1 Evocar - SAHM",
-      "11.0 Incursione - Nerubiani - Trash - Arathi Catturati - 01 Evocazione - SAHM",
-      "11.0 공격대 - 네루비안 - 잡동사니 - 사로잡힌 아라시 - 01 소환 - SAHM",
-      "11.0團隊副本 - 奈幽蟲族 - 小怪 - 被俘虜的阿拉希人 - 01召喚 - SAHM",
-      "11.0 团队副本 - 蛛魔 - 垃圾 - 被囚的阿拉希人 - 01 召唤 - SAHM"
+      "Captured Arathi",
+      "Arathi capturado",
+      "Arathi Capturado",
+      "Captured Arathi",
+      "Arathi capturado",
+      "Arathi capturé",
+      "Пленный арати",
+      "Gefangener Arathi",
+      "Arathi Capturado",
+      "Arathi Catturato",
+      "사로잡힌 아라시",
+      "被俘虜的阿拉希",
+      "被囚的阿拉希人"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10481,19 +10503,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "11.0 Raid - Nerubian - Trash - Captured Waxtail - 01 Summon - SAHM",
-      "Banda de 11.0 - Basura - Colacera capturado - 01 Invocación - SAHM",
-      "11.0 Raide - Nerubiano - Trash - Caudacera Capturado - 1 Evocar - SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Waxtail - 01 Summon - SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Waxtail - 01 Summon - SAHM",
-      "Raid 11.0 – Nérubien – Trash – Pointe-cirée capturé – 01 Invocation – SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Waxtail - 01 Summon - SAHM",
-      "11.0 Schlachtzug - Neruber - Müll - Gefangener Wachsschwanz - 01 Beschwören - SAHM",
-      "11.0 Raide - Nerubiano - Trash - Caudacera Capturado - 1 Evocar - SAHM",
-      "11.0 Incursione - Nerubiani - Trash - Codacerata Catturati - 01 Evocazione - SAHM",
-      "11.0 공격대 - 네루비안 - 잡동사니 - 사로잡힌 밀랍꼬리 - 01 소환 - SAHM",
-      "11.0團隊副本 - 奈幽蟲族 - 小怪 - 被俘虜的蠟尾 - 01召喚 - SAHM",
-      "11.0 团队副本 - 蛛魔 - 垃圾 - 被囚的蜡尾狗头人 - 01 召唤 - SAHM"
+      "Captured Waxtail",
+      "Colacera capturado",
+      "Caudacera Capturado",
+      "Captured Waxtail",
+      "Colacera capturado",
+      "Pointe-cirée capturée",
+      "Пленный воскохвост",
+      "Gefangener Wachsschwanz",
+      "Caudacera Capturado",
+      "Codacerata Catturato",
+      "사로잡힌 밀랍꼬리",
+      "被俘虜的蠟尾",
+      "被囚的蜡尾狗头人"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10502,19 +10524,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "11.0 Raid - Nerubian - Trash - Captured Oathsworn - 01 Summon - SAHM",
-      "Banda de 11.0 - Basura - Juramentado capturado - 01 Invocación - SAHM",
-      "11.0 Raide - Nerubiano - Trash - Jurado dos Éditos Capturado - 01 Evocar - SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Oathsworn - 01 Summon - SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Oathsworn - 01 Summon - SAHM",
-      "Raid 11.0 – Nérubien – Trash – Assermenté capturé – 01 Invocation – SAHM",
-      "11.0 Raid - Nerubian - Trash - Captured Oathsworn - 01 Summon - SAHM",
-      "11.0 Schlachtzug - Neruber - Müll - Gefangener Eingeschworener - 01 Beschwören - SAHM",
-      "11.0 Raide - Nerubiano - Trash - Jurado dos Éditos Capturado - 01 Evocar - SAHM",
-      "11.0 Incursione - Nerubiani - Trash - Ossequenti Catturati - 01 Evocazione - SAHM",
-      "11.0 공격대 - 네루비안 - 잡동사니 - 사로잡힌 서약신도 - 01 소환 - SAHM",
-      "11.0團隊副本 - 奈幽蟲族 - 小怪 - 被俘虜的誓語者 - 01召喚 - SAHM",
-      "11.0 团队副本 - 蛛魔 - 垃圾 - 被囚的圣誓者 - 01 召唤 - SAHM"
+      "Captured Oathsworn",
+      "Juramentada capturada",
+      "Jurada Capturada",
+      "Captured Oathsworn",
+      "Juramentada capturada",
+      "Assermentée capturée",
+      "Пленная Присягнувшая",
+      "Gefangene Eingeschworene",
+      "Jurada Capturada",
+      "Ossequente Catturata",
+      "사로잡힌 서약신도",
+      "被俘虜的誓語者",
+      "被囚的圣誓者"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10660,7 +10682,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -10828,7 +10850,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -10922,19 +10944,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers Arcanos",
-      "Arcane Lasers",
-      "Láseres arcanos",
-      "Lasers arcaniques",
-      "Чародейские лазеры",
-      "Arkane Laser",
-      "Lasers Arcanos",
-      "Laser Arcani",
-      "비전 광선",
-      "秘法雷射",
-      "奥术激光"
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers Sobrecarregados",
+      "Overcharged Lasers",
+      "Láseres sobrecargados",
+      "Lasers surchargés",
+      "Перегретые лазеры",
+      "Überladene Laser",
+      "Lasers Sobrecarregados",
+      "Laser Sovraccarichi",
+      "과충전된 레이저",
+      "超載雷射",
+      "超载激光"
     ],
     "Media": "ability_hisek_aim.jpg"
   },
@@ -11062,7 +11084,7 @@
       "梵陀符文：血縛之懼",
       "凡图斯符文：血缚恐魔"
     ],
-    "Media": "inv_10_inscription_vantusrune_color3.jpg"
+    "Media": "inv_inscriptions_vantus_rune_orange.jpg"
   },
   {
     "TagId": 458702,
@@ -11083,7 +11105,7 @@
       "梵陀符文：蘇芮基隊長錫克朗",
       "凡图斯符文：苏雷吉队长席克兰"
     ],
-    "Media": "inv_10_inscription_vantusrune_color3.jpg"
+    "Media": "inv_inscriptions_vantus_rune_orange.jpg"
   },
   {
     "TagId": 458703,
@@ -11104,7 +11126,7 @@
       "梵陀符文：菈夏南",
       "凡图斯符文：拉夏南"
     ],
-    "Media": "inv_10_inscription_vantusrune_color3.jpg"
+    "Media": "inv_inscriptions_vantus_rune_orange.jpg"
   },
   {
     "TagId": 458704,
@@ -11125,7 +11147,7 @@
       "梵陀符文：幼蛛扭曲者歐維納斯",
       "凡图斯符文：虫巢扭曲者欧维纳克斯"
     ],
-    "Media": "inv_10_inscription_vantusrune_color3.jpg"
+    "Media": "inv_inscriptions_vantus_rune_orange.jpg"
   },
   {
     "TagId": 458705,
@@ -11146,7 +11168,7 @@
       "梵陀符文：奧核公主奇維扎",
       "凡图斯符文：节点女亲王凯威扎"
     ],
-    "Media": "inv_10_inscription_vantusrune_color3.jpg"
+    "Media": "inv_inscriptions_vantus_rune_orange.jpg"
   },
   {
     "TagId": 458706,
@@ -11167,7 +11189,7 @@
       "梵陀符文：絲綢宮廷",
       "凡图斯符文：流丝之庭"
     ],
-    "Media": "inv_10_inscription_vantusrune_color3.jpg"
+    "Media": "inv_inscriptions_vantus_rune_orange.jpg"
   },
   {
     "TagId": 458707,
@@ -11188,7 +11210,7 @@
       "梵陀符文：安蘇芮克女王",
       "凡图斯符文：安苏雷克女王"
     ],
-    "Media": "inv_10_inscription_vantusrune_color3.jpg"
+    "Media": "inv_inscriptions_vantus_rune_orange.jpg"
   },
   {
     "TagId": 458708,
@@ -11416,7 +11438,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11479,7 +11501,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11563,7 +11585,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11605,7 +11627,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11626,7 +11648,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11668,7 +11690,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11683,7 +11705,7 @@
       "Grau ?",
       "Tier ?",
       "Nivel ?",
-      "Niveau ?",
+      "Niveau\u00A0?",
       "Уровень ?",
       "Stufe ?",
       "Grau ?",
@@ -11710,7 +11732,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11731,7 +11753,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -11794,7 +11816,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -12272,7 +12294,7 @@
       "Takazj's Favorite Candy",
       "Dulce favorito de Takazj",
       "Bonbon préféré de Takazj",
-      "Любимая конфета Таказджа",
+      "Любимая конфета Таказдж",
       "Takazjs Lieblingssüßigkeit",
       "Doce Favorito de Takazj",
       "Caramella Preferita di Takazj",
@@ -12602,19 +12624,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Residual Power",
-      "Poder residual",
-      "Poder Residual",
-      "Residual Power",
-      "Poder residual",
-      "Puissance résiduelle",
-      "Остаточная энергия",
-      "Restmacht",
-      "Poder Residual",
-      "Potere Residuo",
-      "잔류하는 힘",
-      "殘餘能量",
-      "残余能量"
+      "Overcharged Earth",
+      "Tierra sobrecargada",
+      "Terra Sobrecarregada",
+      "Overcharged Earth",
+      "Tierra sobrecargada",
+      "Terre surchargée",
+      "Перегрузка земли",
+      "Überladene Erde",
+      "Terra Sobrecarregada",
+      "Terra Sovraccarica",
+      "과충전된 대지",
+      "超載大地",
+      "超载大地"
     ],
     "Media": "inv_enchant_essencearcanelarge.jpg"
   },
@@ -13967,19 +13989,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Frenzy",
-      "Frenesí",
-      "Frenesi",
-      "Frenzy",
-      "Frenesí",
-      "Frénésie",
-      "Бешенство",
-      "Raserei",
-      "Frenesi",
-      "Frenesia",
-      "광란",
-      "狂亂",
-      "狂暴"
+      "Feeding Frenzy",
+      "Hambre frenética",
+      "Frenesi Predatório",
+      "Feeding Frenzy",
+      "Frenesí hambriento",
+      "Frénésie dévorante",
+      "Бешеный аппетит",
+      "Fressrausch",
+      "Frenesi Predatório",
+      "Ferocia Famelica",
+      "탐식의 광란",
+      "瘋狂吞食",
+      "进食狂热"
     ],
     "Media": "spell_shadow_unholyfrenzy.jpg"
   },

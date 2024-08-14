@@ -39,7 +39,7 @@
       "束縛蛛網",
       "束缚之网"
     ],
-    "Media": "inv_misc_web_01.jpg"
+    "Media": "inv_ability_web_beam.jpg"
   },
   {
     "TagId": 440002,
@@ -333,7 +333,7 @@
       "蛛網移除器",
       "移除蛛网"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_ability_web_orb.jpg"
   },
   {
     "TagId": 440019,
@@ -753,7 +753,7 @@
       "薩蘭的殘酷",
       "萨拉恩的暴虐"
     ],
-    "Media": "spell_fire_felrainoffire.jpg"
+    "Media": "spell_shadow_demonicempathy.jpg"
   },
   {
     "TagId": 440041,
@@ -837,7 +837,7 @@
       "薩蘭的殘暴",
       "萨拉恩的凶狂"
     ],
-    "Media": "ability_warlock_demonicpower.jpg"
+    "Media": "spell_fire_felfire.jpg"
   },
   {
     "TagId": 440045,
@@ -953,7 +953,7 @@
       "Tácticas de almaumbría",
       "Tática Cordúmbria",
       "Bleakheart Tactics",
-      "Tácticas Lobrecuore",
+      "Tácticas Almaumbrías",
       "Tactique mornecœur",
       "Тактика каменного сердца",
       "Herzschindertaktiken",
@@ -1969,7 +1969,7 @@
       "Consacrazione Terreno",
       "대지 신성화",
       "神聖之地",
-      "圣化土地"
+      "圣洁之地"
     ],
     "Media": "spell_holy_holynova.jpg"
   },
@@ -2652,13 +2652,13 @@
       null,
       "Nerubian Blood Pool",
       "Charco de sangre nerubiano",
-      "Poça de Sangue Nerubiana",
+      "Poça de Sangue Nerubiano",
       "Nerubian Blood Pool",
       "Charco de sangre nerubiana",
       "Bassin de sang nérubien",
       "Лужа крови неруба",
       "Nerubische Blutlache",
-      "Poça de Sangue Nerubiana",
+      "Poça de Sangue Nerubiano",
       "Pozza di Sangue Nerubiano",
       "네루비안 피 웅덩이",
       "奈幽蟲族血池",
@@ -2903,7 +2903,7 @@
     "Names": [
       null,
       "Entangled",
-      "Estrangulado",
+      "Enredado",
       "Emaranhado",
       "Entangled",
       "Enredado",
@@ -2916,7 +2916,7 @@
       "纏捆",
       "缠绕"
     ],
-    "Media": "spell_nature_web.jpg"
+    "Media": "inv_ability_web_buff.jpg"
   },
   {
     "TagId": 440181,
@@ -4671,7 +4671,7 @@
       "Fungos Peculiares - Inspecionados",
       "Peculiar Fungi - Inspected",
       "Hongos peculiares - Inspeccionado",
-      "Champignon étrange\u00A0: inspecter",
+      "Étrange champignon\u00A0: inspecter",
       "Необычный гриб – осмотрен",
       "Seltsame Pilze untersucht",
       "Fungos Peculiares - Inspecionados",
@@ -4935,6 +4935,132 @@
     "Media": "spell_priest_voidsear.jpg"
   },
   {
+    "TagId": 440311,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Rift",
+      "Falla del Vacío",
+      "Fissura do Caos",
+      "Void Rift",
+      "Falla de Vacío",
+      "Faille du Vide",
+      "Разлом Бездны",
+      "Leerenriss",
+      "Fissura do Caos",
+      "Fenditura del Vuoto",
+      "공허의 균열",
+      "虛無裂隙",
+      "虚空裂隙"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 440313,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Rift",
+      "Falla del Vacío",
+      "Fissura do Caos",
+      "Void Rift",
+      "Falla de Vacío",
+      "Faille du Vide",
+      "Разлом Бездны",
+      "Leerenriss",
+      "Fissura do Caos",
+      "Fenditura del Vuoto",
+      "공허의 균열",
+      "虛無裂隙",
+      "虚空裂隙"
+    ],
+    "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
+  },
+  {
+    "TagId": 440314,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Rift",
+      "Falla del Vacío",
+      "Fissura do Caos",
+      "Void Rift",
+      "Falla de Vacío",
+      "Faille du Vide",
+      "Разлом Бездны",
+      "Leerenriss",
+      "Fissura do Caos",
+      "Fenditura del Vuoto",
+      "공허의 균열",
+      "虛無裂隙",
+      "虚空裂隙"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 440315,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Rift",
+      "Falla del Vacío",
+      "Fissura do Caos",
+      "Void Rift",
+      "Falla de Vacío",
+      "Faille du Vide",
+      "Разлом Бездны",
+      "Leerenriss",
+      "Fissura do Caos",
+      "Fenditura del Vuoto",
+      "공허의 균열",
+      "虛無裂隙",
+      "虚空裂隙"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 440316,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Rift",
+      "Falla del Vacío",
+      "Fissura do Caos",
+      "Void Rift",
+      "Falla de Vacío",
+      "Faille du Vide",
+      "Разлом Бездны",
+      "Leerenriss",
+      "Fissura do Caos",
+      "Fenditura del Vuoto",
+      "공허의 균열",
+      "虛無裂隙",
+      "虚空裂隙"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 440317,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Rift",
+      "Falla del Vacío",
+      "Fissura do Caos",
+      "Void Rift",
+      "Falla de Vacío",
+      "Faille du Vide",
+      "Разлом Бездны",
+      "Leerenriss",
+      "Fissura do Caos",
+      "Fenditura del Vuoto",
+      "공허의 균열",
+      "虛無裂隙",
+      "虚空裂隙"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 440318,
     "TagType": 26,
     "Names": [
@@ -4990,8 +5116,8 @@
       "Exfiltrieren",
       "Exfiltração",
       "Esfiltrazione",
-      "잠입",
-      "漏出",
+      "탈출",
+      "潛出",
       "撤出"
     ],
     "Media": "trade_engineering.jpg"
@@ -5141,6 +5267,27 @@
       "中毒"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 440328,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mending Void",
+      "Vacío sanador",
+      "Caos de Recomposição",
+      "Mending Void",
+      "Vacío de alivio",
+      "Vide curatif",
+      "Исцеляющая Бездна",
+      "Heilende Leere",
+      "Caos de Recomposição",
+      "Vuoto Guaritore",
+      "공허의 치유",
+      "癒合虛無",
+      "愈体虚空"
+    ],
+    "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
   },
   {
     "TagId": 440330,
@@ -6188,7 +6335,7 @@
       "Coltello Rituale Vincolaombra",
       "어둠결속 의식용 손칼",
       "暗影束縛儀式小刀",
-      "影缚仪式匕首"
+      "影缚仪式刻刃"
     ],
     "Media": "inv_knife_1h_grimbatolraid_d_03.jpg"
   },
@@ -7952,7 +8099,7 @@
       "Spuntone Impalante",
       "꿰뚫는 쐐기",
       "穿透尖刺",
-      "穿刺尖矛"
+      "贯穿尖刺"
     ],
     "Media": "ability_demonhunter_demonspikes2.jpg"
   },
@@ -10929,7 +11076,7 @@
       "Calibrazione",
       "보정",
       "校準中",
-      "校准"
+      "正在校准"
     ],
     "Media": "spell_nature_wispsplode.jpg"
   },
@@ -10992,7 +11139,7 @@
       "Calibrazione",
       "보정",
       "校準中",
-      "校准"
+      "正在校准"
     ],
     "Media": "spell_nature_wispsplode.jpg"
   },
@@ -11013,7 +11160,7 @@
       "Calibrazione",
       "보정",
       "校準中",
-      "校准"
+      "正在校准"
     ],
     "Media": "spell_nature_wispsplode.jpg"
   },
@@ -11729,7 +11876,7 @@
       "爆炸",
       "爆炸"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "warlock_curse_shadow_aura.jpg"
   },
   {
     "TagId": 440769,
@@ -13426,7 +13573,7 @@
       "Ponha-me na Água",
       "Mettimi in Acqua",
       "나를 물에 넣어줘",
-      "把我放入水中。",
+      "把我放入水中",
       "把我放到水里"
     ],
     "Media": "inv_misc_fish_74.jpg"
@@ -14143,7 +14290,7 @@
       "流線降阻聖物",
       "流线轮廓圣物"
     ],
-    "Media": "inv_tradeskillitem_lessersorcererswind.jpg"
+    "Media": "inv_10_specialreagentfoozles_primalistrune_wind.jpg"
   },
   {
     "TagId": 440952,
@@ -14749,7 +14896,7 @@
       "Ponha-me na Água",
       "Mettimi in Acqua",
       "나를 물에 넣어줘",
-      "把我放入水中。",
+      "把我放入水中",
       "把我放到水里"
     ],
     "Media": "inv_misc_fish_74.jpg"
@@ -14864,17 +15011,17 @@
     "TagType": 26,
     "Names": [
       null,
-      "Stalker Netting",
+      "Stalker's Netting",
       "Redes de acecho",
       "Rede Espreitadora",
-      "Stalker Netting",
-      "Red acechadora",
-      "Filet de traque",
+      "Stalker's Netting",
+      "Red de acechador",
+      "Filet de traqueur",
       "Сеть ловчего",
       "Pirschernetz",
       "Rede Espreitadora",
-      "Rete Inseguitrice",
-      "추적자 그물망",
+      "Rete Predatoria",
+      "추적자의 그물망",
       "潛獵者之網",
       "追踪者缠网"
     ],

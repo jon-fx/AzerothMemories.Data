@@ -2293,19 +2293,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Lava Expulsion",
-      "Liberación de lava",
-      "Expelir Lava",
-      "Lava Expulsion",
-      "Expulsión de lava",
-      "Expulsion de lave",
-      "Извержение лавы",
-      "Lavaausstoß",
-      "Expelir Lava",
-      "Espulsione di Lava",
-      "용암 분출",
-      "岩漿噴發",
-      "熔岩排放"
+      "Lava Cannon",
+      "Cañón de lava",
+      "Canhão de Lava",
+      "Lava Cannon",
+      "Cañón de lava",
+      "Canon de lave",
+      "Магмапушка",
+      "Lavakanone",
+      "Canhão de Lava",
+      "Cannone di Lava",
+      "용암포",
+      "熔岩火砲",
+      "熔岩重炮"
     ],
     "Media": "spell_shaman_spewlava.jpg"
   },
@@ -3230,7 +3230,7 @@
       "盲目之光",
       "盲目之光"
     ],
-    "Media": "ability_paladin_blindinglight2.jpg"
+    "Media": "inv_ability_holyfire_nova.jpg"
   },
   {
     "TagId": 428170,
@@ -3251,7 +3251,7 @@
       "盲目之光",
       "盲目之光"
     ],
-    "Media": "ability_paladin_blindinglight2.jpg"
+    "Media": "inv_ability_holyfire_nova.jpg"
   },
   {
     "TagId": 428171,
@@ -4475,19 +4475,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Activate Ventilation",
-      "Activar ventilación",
-      "Ativar a Ventilação",
-      "Activate Ventilation",
-      "Activar ventilación",
-      "Activer la ventilation",
-      "Активация вытяжки",
-      "Lüftung aktivieren",
-      "Ativar a Ventilação",
-      "Attivazione Ventilazione",
-      "환기 활성화",
-      "啟動通風系統",
-      "激活通风系统"
+      "Exhaust Vents",
+      "Conductos de ventilación",
+      "Exaustores",
+      "Exhaust Vents",
+      "Conductos de ventilación",
+      "Grilles d’aération",
+      "Вытяжные отверстия",
+      "Abluftschächte",
+      "Exaustores",
+      "Sfiati di Scarico",
+      "배기구",
+      "排氣通風口",
+      "排放口"
     ],
     "Media": "spell_fire_moltenblood.jpg"
   },
@@ -7154,7 +7154,7 @@
       "Calcio Puntato!",
       "차내기!",
       "踹！",
-      "踢飞"
+      "踢飞！"
     ],
     "Media": "ability_monk_mightyoxkick.jpg"
   },
@@ -7301,7 +7301,7 @@
       "Calcio Puntato!",
       "차내기!",
       "踹！",
-      "踢飞"
+      "踢飞！"
     ],
     "Media": "ability_monk_mightyoxkick.jpg"
   },
@@ -7868,7 +7868,7 @@
       "Calcio Puntato!",
       "차내기!",
       "踹！",
-      "踢飞"
+      "踢飞！"
     ],
     "Media": "ability_monk_mightyoxkick.jpg"
   },
@@ -8039,6 +8039,27 @@
       "虚空搏动"
     ],
     "Media": "spell_shadow_charm.jpg"
+  },
+  {
+    "TagId": 428432,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Treasure",
+      "Invocar tesoro",
+      "Evocar Tesouro",
+      "Summon Treasure",
+      "Invocar tesoro",
+      "Invocation du trésor",
+      "Призыв сокровища",
+      "Schatz beschwören",
+      "Evocar Tesouro",
+      "Evocazione: Tesoro",
+      "보물 소환",
+      "召喚寶藏",
+      "召唤宝藏"
+    ],
+    "Media": "inv_cape_special_treasure_c_01.jpg"
   },
   {
     "TagId": 428436,
@@ -9305,19 +9326,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Deconstruction",
-      "Deconstrucción",
-      "Desconstrução",
-      "Deconstruction",
-      "Deconstrucción",
-      "Déconstruction",
-      "Деконструкция",
-      "Dekonstruktion",
-      "Desconstrução",
-      "Decostruzione",
-      "해체 작업",
-      "破壞",
-      "解体"
+      "Blazing Crescendo",
+      "Crescendo ardiente",
+      "Crescente Fulgurante",
+      "Blazing Crescendo",
+      "Crescendo llameante",
+      "Crescendo flamboyant",
+      "Пылающее крещендо",
+      "Loderndes Crescendo",
+      "Crescente Fulgurante",
+      "Crescendo Ardente",
+      "타오르는 점증",
+      "熾炎強音",
+      "炽焰波峰"
     ],
     "Media": "ability_siege_engineer_superheated.jpg"
   },
@@ -9536,19 +9557,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Deconstruction",
-      "Deconstrucción",
-      "Desconstrução",
-      "Deconstruction",
-      "Deconstrucción",
-      "Déconstruction",
-      "Деконструкция",
-      "Dekonstruktion",
-      "Desconstrução",
-      "Decostruzione",
-      "해체 작업",
-      "破壞",
-      "解体"
+      "Blazing Crescendo",
+      "Crescendo ardiente",
+      "Crescente Fulgurante",
+      "Blazing Crescendo",
+      "Crescendo llameante",
+      "Crescendo flamboyant",
+      "Пылающее крещендо",
+      "Loderndes Crescendo",
+      "Crescente Fulgurante",
+      "Crescendo Ardente",
+      "타오르는 점증",
+      "熾炎強音",
+      "炽焰波峰"
     ],
     "Media": "ability_siege_engineer_superheated.jpg"
   },
@@ -9557,19 +9578,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Deconstruction",
-      "Deconstrucción",
-      "Desconstrução",
-      "Deconstruction",
-      "Deconstrucción",
-      "Déconstruction",
-      "Деконструкция",
-      "Dekonstruktion",
-      "Desconstrução",
-      "Decostruzione",
-      "해체 작업",
-      "破壞",
-      "解体"
+      "Blazing Crescendo",
+      "Crescendo ardiente",
+      "Crescente Fulgurante",
+      "Blazing Crescendo",
+      "Crescendo llameante",
+      "Crescendo flamboyant",
+      "Пылающее крещендо",
+      "Loderndes Crescendo",
+      "Crescente Fulgurante",
+      "Crescendo Ardente",
+      "타오르는 점증",
+      "熾炎強音",
+      "炽焰波峰"
     ],
     "Media": "ability_siege_engineer_superheated.jpg"
   },
@@ -9608,7 +9629,7 @@
       "Гибель миров",
       "Verwüstung",
       "Desgraça",
-      "Rovina",
+      "Sfacelo",
       "황폐",
       "禍滅",
       "陨灭"
@@ -9872,21 +9893,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Metal Splinters",
-      "Astillas de metal",
-      "Farpas Metálicas",
-      "Metal Splinters",
-      "Astillas metálicas",
-      "Fragments de métal",
-      "Металлические осколки",
-      "Metallsplitter",
-      "Farpas Metálicas",
-      "Schegge di Metallo",
-      "금속 파편",
-      "金屬破片",
-      "金属裂片"
+      "Blazing Crescendo",
+      "Crescendo ardiente",
+      "Crescente Fulgurante",
+      "Blazing Crescendo",
+      "Crescendo llameante",
+      "Crescendo flamboyant",
+      "Пылающее крещендо",
+      "Loderndes Crescendo",
+      "Crescente Fulgurante",
+      "Crescendo Ardente",
+      "타오르는 점증",
+      "熾炎強音",
+      "炽焰波峰"
     ],
-    "Media": "ability_rhyolith_magmaflow_wave.jpg"
+    "Media": "ability_siege_engineer_superheated.jpg"
   },
   {
     "TagId": 428536,
@@ -12612,7 +12633,8 @@
       "11.0 Dungeon - Kobold - Track Indicator - JZM",
       "11.0 Dungeon - Kobold - Track Indicator - JZM",
       "11.0 Dungeon - Kobold - Track Indicator - JZM"
-    ]
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 428679,
@@ -13186,19 +13208,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Molten Hammer",
-      "Martillo fundido",
-      "Martelo Derretido",
-      "Molten Hammer",
-      "Martillo de arrabio",
-      "Marteau du magma",
-      "Раскаленный молот",
-      "Geschmolzener Hammer",
-      "Martelo Derretido",
-      "Martello Fuso",
-      "타오르는 망치",
-      "熔岩之錘",
-      "熔岩之锤"
+      "Igneous Hammer",
+      "Martillo ígneo",
+      "Martelo Ígneo",
+      "Igneous Hammer",
+      "Martillo ígneo",
+      "Marteau igné",
+      "Огненный молот",
+      "Vulkanhammer",
+      "Martelo Ígneo",
+      "Martello Igneo",
+      "화성암 망치",
+      "火成之錘",
+      "火成岩锤"
     ],
     "Media": "spell_fire_flameblades.jpg"
   },
@@ -14920,7 +14942,7 @@
       "排氣通風口",
       "排放口"
     ],
-    "Media": "ability_evoker_firebreath.jpg"
+    "Media": "spell_fire_moltenblood.jpg"
   },
   {
     "TagId": 428820,
@@ -16229,19 +16251,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Inner Light",
-      "Luz interna",
-      "Luz Interior",
-      "Inner Light",
-      "Luz interior",
-      "Lumière intérieure",
-      "Внутренний свет",
-      "Inneres Licht",
-      "Luz Interior",
-      "Luce Interiore",
-      "내면의 빛",
-      "內在之光",
-      "心灵之光"
+      "Inner Fire",
+      "Fuego interno",
+      "Fogo Interior",
+      "Inner Fire",
+      "Fuego interno",
+      "Feu intérieur",
+      "Внутренний огонь",
+      "Inneres Feuer",
+      "Fogo Interior",
+      "Fuoco Interiore",
+      "내면의 열정",
+      "心靈之火",
+      "心灵之火"
     ],
     "Media": "spell_holy_devineaegis.jpg"
   },
@@ -16523,19 +16545,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Inner Light",
-      "Luz interna",
-      "Luz Interior",
-      "Inner Light",
-      "Luz interior",
-      "Lumière intérieure",
-      "Внутренний свет",
-      "Inneres Licht",
-      "Luz Interior",
-      "Luce Interiore",
-      "내면의 빛",
-      "內在之光",
-      "心灵之光"
+      "Inner Fire",
+      "Fuego interno",
+      "Fogo Interior",
+      "Inner Fire",
+      "Fuego interno",
+      "Feu intérieur",
+      "Внутренний огонь",
+      "Inneres Feuer",
+      "Fogo Interior",
+      "Fuoco Interiore",
+      "내면의 열정",
+      "心靈之火",
+      "心灵之火"
     ],
     "Media": "spell_holy_devineaegis.jpg"
   },

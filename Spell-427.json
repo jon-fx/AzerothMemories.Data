@@ -4559,7 +4559,7 @@
     "Names": [
       null,
       "Enrage Rook",
-      "Enfurecer a cuervo",
+      "Enfurecer a corventoso",
       "Enfurecer Gralha",
       "Enrage Rook",
       "Grajo enfurecido",
@@ -6301,19 +6301,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Inner Light",
-      "Luz interna",
-      "Luz Interior",
-      "Inner Light",
-      "Luz interior",
-      "Lumière intérieure",
-      "Внутренний свет",
-      "Inneres Licht",
-      "Luz Interior",
-      "Luce Interiore",
-      "내면의 빛",
-      "內在之光",
-      "心灵之光"
+      "Inner Fire",
+      "Fuego interno",
+      "Fogo Interior",
+      "Inner Fire",
+      "Fuego interno",
+      "Feu intérieur",
+      "Внутренний огонь",
+      "Inneres Feuer",
+      "Fogo Interior",
+      "Fuoco Interiore",
+      "내면의 열정",
+      "心靈之火",
+      "心灵之火"
     ],
     "Media": "spell_holy_devineaegis.jpg"
   },
@@ -6322,19 +6322,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Inner Light",
-      "Luz interna",
-      "Luz Interior",
-      "Inner Light",
-      "Luz interior",
-      "Lumière intérieure",
-      "Внутренний свет",
-      "Inneres Licht",
-      "Luz Interior",
-      "Luce Interiore",
-      "내면의 빛",
-      "內在之光",
-      "心灵之光"
+      "Inner Fire",
+      "Fuego interno",
+      "Fogo Interior",
+      "Inner Fire",
+      "Fuego interno",
+      "Feu intérieur",
+      "Внутренний огонь",
+      "Inneres Feuer",
+      "Fogo Interior",
+      "Fuoco Interiore",
+      "내면의 열정",
+      "心靈之火",
+      "心灵之火"
     ],
     "Media": "spell_holy_devineaegis.jpg"
   },
@@ -10473,7 +10473,7 @@
       "點亮",
       "点亮"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_torch_lit.jpg"
   },
   {
     "TagId": 427553,
@@ -10957,6 +10957,27 @@
       "[DNT] Spell Visual"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 427578,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Inspired!",
+      "¡Inspirado!",
+      "Inspirado!",
+      "Inspired!",
+      "¡Inspirado!",
+      "Inspiration\u00A0!",
+      "Вдохновение!",
+      "Inspiriert!",
+      "Inspirado!",
+      "Ispirato!",
+      "영감!",
+      "獲得靈感！",
+      "受到鼓舞！"
+    ],
+    "Media": "achievement_dungeon_outland_dungeon_hero.jpg"
   },
   {
     "TagId": 427579,
@@ -11943,7 +11964,7 @@
       "射擊",
       "射击"
     ],
-    "Media": "inv_firearm_2h_arathoroutdoor_d_01.jpg"
+    "Media": "inv_weapon_rifle_36.jpg"
   },
   {
     "TagId": 427630,
@@ -17389,19 +17410,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Fire Missile",
-      "Misil de fuego",
-      "Projétil de Fogo",
-      "Fire Missile",
-      "Misil de fuego",
-      "Tir de projectile",
-      "Огненная стрела",
-      "Feuergeschoss",
-      "Projétil de Fogo",
-      "Lancio Missile",
-      "미사일 발사",
-      "發射飛彈",
-      "烈焰飞弹"
+      "Flames",
+      "Llamas",
+      "Chamas",
+      "Flames",
+      "Llamas",
+      "Flammes",
+      "Пламя",
+      "Flammen",
+      "Chamas",
+      "Fiamme",
+      "불길",
+      "烈焰",
+      "火焰"
     ],
     "Media": "trade_engineering.jpg"
   },

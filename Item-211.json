@@ -1047,7 +1047,7 @@
       "殘存之力戒環",
       "残能之环"
     ],
-    "Media": "inv_10_dungeonjewelry_tuskarr_ring_1_color5.jpg"
+    "Media": "inv_11_0_nerubian_ring_01_color5.jpg"
   },
   {
     "TagId": 211052,
@@ -1068,7 +1068,7 @@
       "往昔璽戒",
       "悠古玺戒"
     ],
-    "Media": "inv_10_dungeonjewelry_tuskarr_ring_2_color5.jpg"
+    "Media": "inv_11_0_ventureco_ring02_color2.jpg"
   },
   {
     "TagId": 211053,
@@ -1257,7 +1257,7 @@
       "出土文物指環",
       "出土的圣物之戒"
     ],
-    "Media": "inv_10_dungeonjewelry_centaur_ring_2_color5.jpg"
+    "Media": "inv_11_0_earthen_jewelcraftingring_color3.jpg"
   },
   {
     "TagId": 211062,
@@ -1299,7 +1299,7 @@
       "失落已久的頸飾",
       "失落已久的项圈"
     ],
-    "Media": "inv_10_dungeonjewelry_centaur_necklace_1_color2.jpg"
+    "Media": "inv_11_0_earthen_jewelcraftingnecklace_color1.jpg"
   },
   {
     "TagId": 211064,
@@ -7906,7 +7906,7 @@
       "Squash Hook",
       "Gancho de calabacín",
       "Crochet écrabouilleur",
-      "Кабачковый крюк",
+      "Тыквенный крюк",
       "Kürbishaken",
       "Gancho de Abóbora",
       "Gancio per Zucca",
@@ -14452,19 +14452,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Patrol Torch",
+      "Antorcha de patrulla",
+      "Tocha de Patrulha",
+      "Patrol Torch",
+      "Antorcha de patrulla",
+      "Torche de patrouille",
+      "Патрульный факел",
+      "Patrouillenfackel",
+      "Tocha de Patrulha",
+      "Torcia della Pattuglia",
+      "순찰 횃불",
+      "巡邏火炬",
+      "巡逻火炬"
     ],
     "Media": "inv_offhand_1h_torch_a_01.jpg"
   },
@@ -14529,7 +14529,7 @@
       "阿爾加治療藥水",
       "阿加治疗药水"
     ],
-    "Media": "inv_10_alchemy_bottle_shape4_red.jpg"
+    "Media": "inv_flask_red.jpg"
   },
   {
     "TagId": 211879,
@@ -14550,7 +14550,7 @@
       "阿爾加治療藥水",
       "阿加治疗药水"
     ],
-    "Media": "inv_10_alchemy_bottle_shape4_red.jpg"
+    "Media": "inv_flask_red.jpg"
   },
   {
     "TagId": 211880,
@@ -14571,7 +14571,7 @@
       "阿爾加治療藥水",
       "阿加治疗药水"
     ],
-    "Media": "inv_10_alchemy_bottle_shape4_red.jpg"
+    "Media": "inv_flask_red.jpg"
   },
   {
     "TagId": 211881,
@@ -15892,7 +15892,7 @@
       "Esperimento Meticoloso",
       "섬세한 실험",
       "精準實驗",
-      "细致实验"
+      "严谨实验"
     ],
     "Media": "achievement_guildperk_chug a lug_rank2.jpg"
   },

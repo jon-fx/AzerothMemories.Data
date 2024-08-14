@@ -1306,19 +1306,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Acid Splash",
-      "Salpicadura de ácido",
-      "Borrifo de Ácido",
-      "Acid Splash",
-      "Salpicadura de ácido",
-      "Jet d’acide",
-      "Выброс кислоты",
-      "Säurespritzer",
-      "Borrifo de Ácido",
-      "Bagno Acido",
-      "산성 물질 끼얹기",
-      "酸液濺射",
-      "酸液溅射"
+      "Acid Explosion",
+      "Estallido ácido",
+      "Explosão Ácida",
+      "Acid Explosion",
+      "Explosión ácida",
+      "Explosion d’acide",
+      "Взрыв кислоты",
+      "Säureexplosion",
+      "Explosão Ácida",
+      "Esplosione Acida",
+      "산성의 폭발",
+      "酸蝕爆炸",
+      "酸性爆炸"
     ],
     "Media": "spell_fel_firebolt.jpg"
   },
@@ -1965,7 +1965,7 @@
       "Призыв лодки фонарщиков, сброс",
       "Lampenanzünderboot beschwören, zurücksetzen",
       "Evocar Esquife do Luminar, Reiniciar",
-      "Evocazione: Scialuppa da Lampionaio, Azzeramento",
+      "Evocazione: Scialuppa dei Lampionai, Azzeramento",
       "점등원 소형선 소환, 초기화",
       "召喚燈火者小艇，重置",
       "召唤燃灯者小舟，重置"
@@ -2091,7 +2091,7 @@
       "Призыв лодки фонарщиков, сброс",
       "Lampenanzünderboot beschwören, zurücksetzen",
       "Evocar Esquife do Luminar, Reiniciar",
-      "Evocazione: Scialuppa da Lampionaio, Azzeramento",
+      "Evocazione: Scialuppa dei Lampionai, Azzeramento",
       "점등원 소형선 소환, 초기화",
       "召喚燈火者小艇，重置",
       "召唤燃灯者小舟，重置"
@@ -2176,7 +2176,7 @@
       "Rajada de Caos",
       "Scarica del Vuoto",
       "공허 점액",
-      "虛無黏液",
+      "虛無釋放",
       "虚空释能"
     ],
     "Media": "spell_priest_void blast.jpg"
@@ -2197,7 +2197,7 @@
       "Rajada de Caos",
       "Scarica del Vuoto",
       "공허 점액",
-      "虛無黏液",
+      "虛無釋放",
       "虚空释能"
     ],
     "Media": "spell_priest_void blast.jpg"
@@ -2218,7 +2218,7 @@
       "Rajada de Caos",
       "Scarica del Vuoto",
       "공허 점액",
-      "虛無黏液",
+      "虛無釋放",
       "虚空释能"
     ],
     "Media": "spell_priest_void blast.jpg"
@@ -3089,21 +3089,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Web Wrap",
-      "Trampa arácnida",
-      "Invólucro de Teia",
-      "Web Wrap",
-      "Trampa arácnida",
-      "Entoilage",
-      "Кокон",
-      "Fangnetz",
-      "Invólucro de Teia",
-      "Ragnatela Avvolgente",
-      "거미줄 올가미",
-      "纏繞之網",
-      "裹体之网"
+      "Silken Restraints",
+      "Ataduras de seda",
+      "Contenções Sedosas",
+      "Silken Restraints",
+      "Ataduras sedosas",
+      "Liens de soie",
+      "Шелковые путы",
+      "Seidenfesseln",
+      "Contenções Sedosas",
+      "Catene di Seta",
+      "비단 구속구",
+      "絲質束具",
+      "流丝束缚"
     ],
-    "Media": "spell_nature_web.jpg"
+    "Media": "inv_ability_web_groundstate.jpg"
   },
   {
     "TagId": 442220,
@@ -3676,19 +3676,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Hailing Klaskin",
-      "Llamando a Klaskin",
-      "Saudação a Klaskin",
-      "Hailing Klaskin",
-      "Saludando a Klaskin",
-      "Appel de Klaskin",
-      "Ожидание Класкина",
-      "Grüßender Klaskin",
-      "Saudação a Klaskin",
-      "Saluti per Klaskin",
-      "클라스킨 인사",
-      "歡迎克拉斯金",
-      "招呼克拉斯金"
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin",
+      "[DNT]Hailing Klaskin"
     ],
     "Media": "ability_mage_timewarp.jpg"
   },
@@ -3824,7 +3824,7 @@
     "Names": [
       null,
       "Mutation: Accelerated",
-      "Mutación: acelerada",
+      "Mutación: Acelerada",
       "Mutação: Acelerado",
       "Mutation: Accelerated",
       "Mutación: Acelerado",
@@ -5838,21 +5838,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Fire!",
-      "¡Fuego!",
-      "Fogo!",
-      "Fire!",
-      "¡Fuego!",
-      "Feu\u00A0!",
-      "Огонь!",
-      "Feuer!",
-      "Fogo!",
-      "Fuoco!",
-      "발사!",
-      "開火！",
-      "开火！"
+      "Water!",
+      "¡Agua!",
+      "Água!",
+      "Water!",
+      "¡Agua!",
+      "De l’eau\u00A0!",
+      "Вода!",
+      "Wasser!",
+      "Água!",
+      "Acqua!",
+      "물!",
+      "水！",
+      "水！"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "creatureportrait_bubble.jpg"
   },
   {
     "TagId": 442368,
@@ -5865,7 +5865,7 @@
       "Summon Elmo Seedheart",
       "Invocar a Elmo Corasemilla",
       "Invocation d’Elmo Germecœur",
-      "Призыв Элмо Сердечное Зерно",
+      "Призыв Элмо Сидхарт",
       "Elmo Saatherz beschwören",
       "Evocar Elmo Semecórdio",
       "Evocazione: Elmo Cuordiseme",
@@ -5907,7 +5907,7 @@
       "Summon Elmo Seedheart",
       "Invocar a Elmo Corasemilla",
       "Invocation d’Elmo Germecœur",
-      "Призыв Элмо Сердечное Зерно",
+      "Призыв Элмо Сидхарт",
       "Elmo Saatherz beschwören",
       "Evocar Elmo Semecórdio",
       "Evocazione: Elmo Cuordiseme",
@@ -6117,7 +6117,7 @@
       "Squash Hook",
       "Gancho de calabacín",
       "Crochet écrabouilleur",
-      "Помешанность на кабачках",
+      "Помешанность на тыквах",
       "Kürbishaken",
       "Gancho de Abóbora",
       "Gancio per Zucca",
@@ -6935,7 +6935,7 @@
       "Fingir de Morto Permanente (Poça de Sangue Negro Pequena, Sem Anim)",
       "Permanent Feign Death ( Small Dark Blood Pool, no anim)",
       "Fingir muerte permanente (pequeño charco de sangre oscura, sin animación)",
-      "Feindre la mort permanent (petite flaque de sang, pas d’animation)",
+      "Feindre la mort permanent (petite flaque de sang sombre, pas d’animation)",
       "Постоянная ложная смерть (маленькая темная лужа крови, без анимации)",
       "Permanent Feign Death ( Small Dark Blood Pool, no anim)",
       "Fingir de Morto Permanente (Poça de Sangue Negro Pequena, Sem Anim)",
@@ -6977,7 +6977,7 @@
       "Fingir de Morto Permanente (Poça de Sangue Negro Pequena, Sem Anim)",
       "Permanent Feign Death ( Small Dark Blood Pool, no anim)",
       "Fingir muerte permanente (pequeño charco de sangre oscura, sin animación)",
-      "Feindre la mort permanent (petite flaque de sang, pas d’animation)",
+      "Feindre la mort permanent (petite flaque de sang sombre, pas d’animation)",
       "Постоянная ложная смерть (маленькая темная лужа крови, без анимации)",
       "Permanent Feign Death ( Small Dark Blood Pool, no anim)",
       "Fingir de Morto Permanente (Poça de Sangue Negro Pequena, Sem Anim)",
@@ -6998,7 +6998,7 @@
       "Fingir de Morto Permanente (Poça de Sangue Negro Pequena, Sem Anim)",
       "Permanent Feign Death ( Small Dark Blood Pool, no anim)",
       "Fingir muerte permanente (pequeño charco de sangre oscura, sin animación)",
-      "Feindre la mort permanent (petite flaque de sang, pas d’animation)",
+      "Feindre la mort permanent (petite flaque de sang sombre, pas d’animation)",
       "Постоянная ложная смерть (маленькая темная лужа крови, без анимации)",
       "Permanent Feign Death ( Small Dark Blood Pool, no anim)",
       "Fingir de Morto Permanente (Poça de Sangue Negro Pequena, Sem Anim)",
@@ -7047,7 +7047,7 @@
       "Decimazione",
       "척살",
       "虐殺",
-      "毁灭"
+      "诛灭"
     ],
     "Media": "inv_polearm_2h_nerubianraid_d_01.jpg"
   },
@@ -7224,21 +7224,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Violent Discharge",
-      "Descarga violenta",
-      "Descarga Violenta",
-      "Violent Discharge",
-      "Descarga violenta",
-      "Violente décharge",
-      "Бурный разряд",
-      "Heftige Entladung",
-      "Descarga Violenta",
-      "Scarica Violenta",
-      "격렬한 방출",
-      "猛烈放電",
-      "剧烈释出"
+      "Ingest Black Blood",
+      "Ingerir sangre negra",
+      "Ingerir Sangue Negro",
+      "Ingest Black Blood",
+      "Ingerir sangre negra",
+      "Ingestion de Sang noir",
+      "Глоток черной крови",
+      "Schwarzblut einnehmen",
+      "Ingerir Sangue Negro",
+      "Ingestione di Sangue Nero",
+      "검은 피 섭취",
+      "吞食黑血",
+      "摄食黑血"
     ],
-    "Media": "sha_spell_shadow_shadesofdarkness_nightborne.jpg"
+    "Media": "inv_achievement_raidnerubian_swarmmother.jpg"
   },
   {
     "TagId": 442440,
@@ -9154,19 +9154,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[RP]Lit the candle",
-      "[JR]Encender la vela",
-      "[RP]Acender Vela",
-      "[RP]Lit the candle",
-      "[JR]Encender la vela",
-      "[RP]Bougie allumée",
-      "[RP]Зажигание свечи",
-      "[RP]Kerze entzündet",
-      "[RP]Acender Vela",
-      "Accensione Candela",
-      "[RP]양초 켜기",
-      "[RP]點蠟燭",
-      "[RP]点燃蜡烛"
+      "Flames",
+      "Llamas",
+      "Chamas",
+      "Flames",
+      "Llamas",
+      "Flammes",
+      "Пламя",
+      "Flammen",
+      "Chamas",
+      "Fiamme",
+      "불길",
+      "烈焰",
+      "火焰"
     ],
     "Media": "spell_fire_firebolt02.jpg"
   },
@@ -9610,6 +9610,27 @@
       "Cosmetic Piece"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 442558,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual",
+      "[DNT] Visual"
+    ],
+    "Media": "inv_misc_web_01.jpg"
   },
   {
     "TagId": 442562,
@@ -11308,7 +11329,7 @@
       "Odore dell'Esca per Bestie",
       "야수 미끼 냄새",
       "誘獸香氣",
-      "兽饵气味"
+      "兽饵气息"
     ],
     "Media": "trade_leatherworking.jpg"
   },
@@ -11422,21 +11443,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Rupture",
-      "Ruptura",
-      "Ruptura",
-      "Rupture",
-      "Ruptura",
-      "Rupture",
-      "Разлом",
-      "Blutung",
-      "Ruptura",
-      "Perforazione",
-      "파열",
-      "割裂",
-      "破裂"
+      "Experimental Dosage",
+      "Dosis experimental",
+      "Dosagem Experimental",
+      "Experimental Dosage",
+      "Dosis experimental",
+      "Dosage expérimental",
+      "Экспериментальная доза",
+      "Experimentelle Dosierung",
+      "Dosagem Experimental",
+      "Dose Sperimentale",
+      "실험용 투여제",
+      "實驗療法",
+      "试验性剂量"
     ],
-    "Media": "sha_spell_shadow_shadesofdarkness_nightborne.jpg"
+    "Media": "spell_deathknight_bloodplague.jpg"
   },
   {
     "TagId": 442661,
@@ -14206,7 +14227,7 @@
       "Odore dell'Esca per Bestie",
       "야수 미끼 냄새",
       "誘獸香氣",
-      "兽饵气味"
+      "兽饵气息"
     ],
     "Media": "inv_misc_food_legion_goocaramel_bottle.jpg"
   },
@@ -16316,7 +16337,7 @@
     "Names": [
       null,
       "Teleport: Cinderbrew Meadery",
-      "Teletransporte: Destilería de Hidromiel Cinéreo",
+      "Teletransporte: Hidromielería Cinérea.",
       "Teleporte: Hidromelaria Cinzagris",
       "Teleport: Cinderbrew Meadery",
       "Teletransporte a: Lagar de Tragoceniza",
@@ -16504,7 +16525,7 @@
     "Names": [
       null,
       "Set Keystone Map: Cinderbrew Meadery",
-      "Establecer mapa de piedra angular: Destilería de Hidromiel Cinéreo",
+      "Establecer mapa de piedra angular: Hidromielería Cinérea",
       "Definir Mapa da Pedra-chave: Hidromelaria Cinzagris",
       "Set Keystone Map: Cinderbrew Meadery",
       "Establecer mapa de piedra angular: Lagar de Tragoceniza",

@@ -6773,7 +6773,7 @@
       "Escaparate de pistolas de agua extremas",
       "Affichage canon à eau extrême",
       "Стойка с ИКС-ключительным брызгателем",
-      "X-trem-Wasserstrahleranzeige",
+      "X-trem-Wasserstrahlerablage",
       "Mostruário de Disparágua X-tremo",
       "Supporto dell'Acquadator Extremo",
       "초강력 물대포 전시대",
@@ -7221,7 +7221,7 @@
       "百鍊傳奇錦旗",
       "炉铸传说的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_red.jpg"
+    "Media": "inv_twwsoloshufflepennantreward_icons_red.jpg"
   },
   {
     "TagId": 1500,
@@ -7347,7 +7347,7 @@
       "無縛者傳奇錦旗",
       "无缚传说的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_green.jpg"
+    "Media": "inv_twwsoloshufflepennantreward_icons_green.jpg"
   },
   {
     "TagId": 1506,
@@ -7368,27 +7368,132 @@
       "無縛者謀略家錦旗",
       "无缚战略家的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_teal.jpg"
+    "Media": "inv_twwsoloshufflepennantreward_icons_teal.jpg"
   },
   {
     "TagId": 1508,
     "TagType": 30,
     "Names": [
       null,
-      "Lampyridae Caller",
-      "Invocalampíridos",
-      "Invocador de Lampirídeos",
-      "Lampyridae Caller",
-      "Invocador de lampíridos",
-      "Appel de lampyrides",
-      "Призыв светляков",
-      "Leuchtkäferrufer",
-      "Invocador de Lampirídeos",
-      "Richiamo per Lampiridi",
-      "점등원 호출기",
-      "螢火蟲呼叫器",
-      "飞萤呼唤者"
+      "Lampyridae Lure",
+      "Cebo de lampíridos",
+      "Isca de Lampirídeos",
+      "Lampyridae Lure",
+      "Cebo de lampíridos",
+      "Appât à lampyrides",
+      "Приманка для светляков",
+      "Leuchtkäferköder",
+      "Isca de Lampirídeos",
+      "Esca per Lampiridi",
+      "점등원 미끼",
+      "螢火蟲誘餌",
+      "飞萤诱饵"
     ],
-    "Media": "inv_misc_lantern_01.jpg"
+    "Media": "inv_misc_trinket6oih_lanternb1.jpg"
+  },
+  {
+    "TagId": 1509,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Rockslidomancer's Stone",
+      "Piedra de petromante",
+      "Pedra do Desmoronomante",
+      "Rockslidomancer's Stone",
+      "Piedra de aludamante",
+      "Pierre d’éboulomancie",
+      "Камень обваломанта",
+      "Stein des Felsrutschbeschwörers",
+      "Pedra do Desmoronomante",
+      "Pietra del Franomante",
+      "낙석술사의 돌",
+      "岩崩法師之石",
+      "崩岩占师之石"
+    ],
+    "Media": "creatureportrait_altarofearth_01.jpg"
+  },
+  {
+    "TagId": 1510,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Candleflexer's Dumbbell",
+      "Mancuerna de muscuvela",
+      "Halter do Levantador de Velas",
+      "Candleflexer's Dumbbell",
+      "Mancuerna de doblavelas",
+      "Haltère de plie-bougie",
+      "Свечная гантель",
+      "Kerzenstemmerhantel",
+      "Halter do Levantador de Velas",
+      "Campana del Piegacandele",
+      "양초힘자랑꾼의 아령",
+      "蠟燭壯漢的啞鈴",
+      "蜡烛健美者的哑铃"
+    ],
+    "Media": "ability_mount_goatmountwhite.jpg"
+  },
+  {
+    "TagId": 1511,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Trial of Burning Light",
+      "Juicio de la luz abrasadora",
+      "Julgamento da Luz Ardente",
+      "Trial of Burning Light",
+      "Juicio de luz abrasadora",
+      "Épreuve de la Lumière ardente",
+      "Испытание пылающего света",
+      "Prüfung des brennenden Lichts",
+      "Julgamento da Luz Ardente",
+      "Prova della Luce Bruciante",
+      "타오르는 빛의 시련",
+      "燃燒之光試煉",
+      "灼烧之光试炼"
+    ],
+    "Media": "inv_ability_holyfire_beam.jpg"
+  },
+  {
+    "TagId": 1512,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Arachnoserum",
+      "Aracnosuero",
+      "Aracnossérum",
+      "Arachnoserum",
+      "Aracnosérum",
+      "Arachnosérum",
+      "Арахносыворотка",
+      "Spinnenserum",
+      "Aracnossérum",
+      "Aracnosiero",
+      "거미 혈청",
+      "蜘蛛血清",
+      "蛛类血清"
+    ],
+    "Media": "inv_alchemy_70_potion2.jpg"
+  },
+  {
+    "TagId": 1513,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Arachnophile Spectacles",
+      "Anteojos aracnófilos",
+      "Óculos Aracnofílicos",
+      "Arachnophile Spectacles",
+      "Gafas aracnofílicas",
+      "Lunettes d’arachnophile",
+      "Очки арахнофила",
+      "Brille des Spinnenfreunds",
+      "Óculos Aracnofílicos",
+      "Occhiali Aracnofili",
+      "거미 애호가 안경",
+      "嗜蛛者眼鏡",
+      "爱蛛者眼镜"
+    ],
+    "Media": "inv_spiderpet_yellow.jpg"
   }
 ]

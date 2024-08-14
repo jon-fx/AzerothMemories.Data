@@ -111,13 +111,13 @@
       null,
       "Hungering Bellows",
       "Bramidos de hambre",
-      "Gorjas Famintas",
+      "Urros Famintos",
       "Hungering Bellows",
       "Bramidos hambrientos",
       "Beuglements affamés",
       "Голодный рев",
       "Hungerndes Gebrüll",
-      "Gorjas Famintas",
+      "Urros Famintos",
       "Grido Famelico",
       "굶주린 고함",
       "飢饞嚎叫",
@@ -2057,6 +2057,27 @@
     "Media": "inv_helm_cloth_b_01pirate_black.jpg"
   },
   {
+    "TagId": 438486,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tremor Sense",
+      "Sensibilidad sísmica",
+      "Tremor Sentido",
+      "Tremor Sense",
+      "Sentido de los temblores",
+      "Sens des secousses",
+      "Чувство дрожи",
+      "Bebengespür",
+      "Tremor Sentido",
+      "Senso del Tremore",
+      "진동 감각",
+      "震顫感應",
+      "震颤感知"
+    ],
+    "Media": "ability_hunter_mastertactitian.jpg"
+  },
+  {
     "TagId": 438489,
     "TagType": 26,
     "Names": [
@@ -2859,21 +2880,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Void Empowerment",
-      "Potenciación del Vacío",
-      "Potencialização do Caos",
-      "Void Empowerment",
-      "Potenciación del Vacío",
-      "Renforcement du Vide",
-      "Наделение силой Бездны",
-      "Leerenermächtigung",
-      "Potencialização do Caos",
-      "Potenziamento del Vuoto",
-      "공허의 강화",
-      "虛空賦能",
-      "虚空增效"
+      "Unstable Energy",
+      "Energía inestable",
+      "Energia Instável",
+      "Unstable Energy",
+      "Energía inestable",
+      "Énergie instable",
+      "Нестабильная энергия",
+      "Instabile Energie",
+      "Energia Instável",
+      "Energia Instabile",
+      "불안정한 마력",
+      "不穩定的能量",
+      "不稳定的能量"
     ],
-    "Media": "spell_priest_void blast.jpg"
+    "Media": "spell_priest_void flay.jpg"
   },
   {
     "TagId": 438585,
@@ -3152,21 +3173,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Void Surge",
-      "Oleada del Vacío",
-      "Surto Caótico",
-      "Void Surge",
-      "Oleada de Vacío",
-      "Afflux de Vide",
-      "Всплеск Бездны",
-      "Leerensog",
-      "Surto Caótico",
-      "Eruzione del Vuoto",
-      "공허의 쇄도",
-      "虛無怒濤",
-      "虚空涌动"
+      "Black Blood",
+      "Sangre negra",
+      "Sangue Negro",
+      "Black Blood",
+      "Sangre negra",
+      "Sang noir",
+      "Черная кровь",
+      "Schwarzblut",
+      "Sangue Negro",
+      "Sangue Nero",
+      "검은 피",
+      "黑血",
+      "黑血"
     ],
-    "Media": "ability_bossfelmagnaron_wave.jpg"
+    "Media": "inv_maldraxxusslime_red.jpg"
   },
   {
     "TagId": 438605,
@@ -3479,7 +3500,7 @@
       "Impeto di Sangue",
       "피 분출",
       "鮮血澎湃",
-      "血涌"
+      "血之激涌"
     ],
     "Media": "ability_bossfelmagnaron_wave.jpg"
   },
@@ -3544,7 +3565,7 @@
       "劇毒割裂",
       "剧毒崩裂"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "ability_creature_disease_02.jpg"
   },
   {
     "TagId": 438624,
@@ -4151,7 +4172,7 @@
       "Impeto di Sangue",
       "피 분출",
       "鮮血澎湃",
-      "血涌"
+      "血之激涌"
     ],
     "Media": "ability_bossfelmagnaron_wave.jpg"
   },
@@ -5502,21 +5523,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Void Empowerment",
-      "Potenciación del Vacío",
-      "Potencialização do Caos",
-      "Void Empowerment",
-      "Potenciación del Vacío",
-      "Renforcement du Vide",
-      "Наделение силой Бездны",
-      "Leerenermächtigung",
-      "Potencialização do Caos",
-      "Potenziamento del Vuoto",
-      "공허의 강화",
-      "虛空賦能",
-      "虚空增效"
+      "Unstable Energy",
+      "Energía inestable",
+      "Energia Instável",
+      "Unstable Energy",
+      "Energía inestable",
+      "Énergie instable",
+      "Нестабильная энергия",
+      "Instabile Energie",
+      "Energia Instável",
+      "Energia Instabile",
+      "불안정한 마력",
+      "不穩定的能量",
+      "不稳定的能量"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "spell_priest_void flay.jpg"
   },
   {
     "TagId": 438752,
@@ -5871,7 +5892,7 @@
       "NOT USED",
       "NOT USED",
       "NOT USED",
-      "NOT USED"
+      "未使用"
     ],
     "Media": "ability_fixated_state_orange.jpg"
   },
@@ -7782,7 +7803,7 @@
       "Richiamo della Stirpe",
       "무리의 부름",
       "子嗣的呼喚",
-      "巢群的召唤"
+      "巢穴的召唤"
     ],
     "Media": "inv_minespider2_cave.jpg"
   },
@@ -8265,7 +8286,7 @@
       "Calzoni di Cuoio del Concorrente Algari",
       "알가르 경쟁자의 가죽 긴바지",
       "阿爾加競技者皮甲長褲",
-      "阿加竞争者皮甲长裤"
+      "阿加竞争者的皮甲长裤"
     ],
     "Media": "ui_profession_leatherworking.jpg"
   },
@@ -9303,16 +9324,16 @@
     "TagType": 26,
     "Names": [
       null,
-      "Acid Pool",
-      "Charco de ácido",
-      "Poça Ácida",
-      "Acid Pool",
-      "Charco de ácido",
-      "Flaque acide",
-      "Лужа кислоты",
-      "Säurepfütze",
-      "Poça Ácida",
-      "Pozza Acida",
+      "Acid Pools",
+      "Charcos de ácido",
+      "Poças Ácidas",
+      "Acid Pools",
+      "Charcos de ácido",
+      "Flaques acides",
+      "Лужи кислоты",
+      "Säurepfützen",
+      "Poças Ácidas",
+      "Pozze Acide",
       "산성 웅덩이",
       "酸液之池",
       "酸液池"
@@ -9546,7 +9567,7 @@
       "Cliente C",
       "클라이언트 C",
       "顧客C",
-      "客户端D"
+      "客户端C"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9735,7 +9756,7 @@
       "Cliente B",
       "클라이언트 B",
       "顧客B",
-      "客户端D"
+      "客户端B"
     ],
     "Media": "trade_engineering.jpg"
   },

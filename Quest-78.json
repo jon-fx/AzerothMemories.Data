@@ -529,7 +529,7 @@
       "Brilho no escuro - Ativar",
       "Glow In The Dark - Activate",
       "Luz en la oscuridad - Activar",
-      "Briller dans le noir - Activer",
+      "Briller dans le noir – Activer",
       "Свечение во тьме: активация",
       "Leuchten im Dunkeln - Aktivieren",
       "Brilho no escuro - Ativar",
@@ -625,7 +625,7 @@
     "Names": [
       null,
       "The Bastion of Hallowfall",
-      "Un golpe de suerte ",
+      "El bastión de Cristalia",
       "Bastião de Pouso Santo",
       "The Bastion of Hallowfall",
       "El bastión de Santificación",
@@ -805,7 +805,7 @@
     "Names": [
       null,
       "The Rise of the Reckoning",
-      "El ascenso de El Justiciero",
+      "El ascenso del Justiciero",
       "Desforra em ascensão",
       "The Rise of the Reckoning",
       "El ascenso de la Venganza",
@@ -957,6 +957,186 @@
       "발굴: 탑 곳곳에 흩어진 물건",
       "挖掘：散落在高塔",
       "发掘：零落塔底"
+    ]
+  },
+  {
+    "TagId": 78685,
+    "TagType": 28,
+    "Names": [
+      null,
+      "The Tunnel's End",
+      "Al final del túnel",
+      "A luz no fim do túnel",
+      "The Tunnel's End",
+      "El fin del túnel",
+      "Le bout du tunnel",
+      "Конец туннеля",
+      "Das Ende des Tunnels",
+      "A luz no fim do túnel",
+      "La fine del tunnel",
+      "땅굴의 끝",
+      "坑道盡頭",
+      "隧道尽头"
+    ]
+  },
+  {
+    "TagId": 78696,
+    "TagType": 28,
+    "Names": [
+      null,
+      "We Don't Go to Taelloch",
+      "No vamos a Taelloch",
+      "Não vou para Taelloch, não vou",
+      "We Don't Go to Taelloch",
+      "Nunca vamos a Taelloch",
+      "Nous n’allons pas à Taelloch",
+      "Не ходите в Таэллок",
+      "Wir gehen nicht nach Taelloch",
+      "Não vou para Taelloch, não vou",
+      "Non è facile entrare a Taelloch",
+      "목적지는 탤로크가 아니야",
+      "我們不去泰洛科",
+      "塔尔罗克不得进"
+    ]
+  },
+  {
+    "TagId": 78697,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Ghost of a Company Town",
+      "Un pueblo fantasma",
+      "Fantasma de uma cidade comercial",
+      "Ghost of a Company Town",
+      "El fantasma de un pueblo minero",
+      "Les vestiges d’une ville industrielle",
+      "Город-призрак",
+      "Geist einer Minenstadt",
+      "Fantasma de uma cidade comercial",
+      "Una città fantasma",
+      "유령 도시의 유령",
+      "公司鎮幽靈",
+      "鬼镇幽魂"
+    ]
+  },
+  {
+    "TagId": 78700,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Controlled Demolition",
+      "Demolición controlada",
+      "Demolição controlada",
+      "Controlled Demolition",
+      "Demolición controlada",
+      "Démolition contrôlée",
+      "По пути",
+      "Kontrollierter Abriss",
+      "Demolição controlada",
+      "Demolizione controllata",
+      "통제 폭파",
+      "有限的破壞",
+      "可控毁灭"
+    ]
+  },
+  {
+    "TagId": 78701,
+    "TagType": 28,
+    "Names": [
+      null,
+      "The Truth in Chalk",
+      "La verdad escrita en tiza",
+      "Escrito em pedra",
+      "The Truth in Chalk",
+      "La verdad está en la tiza",
+      "La vérité dans la craie",
+      "Что написано мелом...",
+      "Die Wahrheit in Kreide",
+      "Escrito em pedra",
+      "La verità nei gessetti",
+      "분필로 쓰인 진실",
+      "粉筆寫下的真相",
+      "循迹求真"
+    ]
+  },
+  {
+    "TagId": 78703,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Buried in Stone",
+      "Enterrado en piedra",
+      "Lápide sepulcral",
+      "Buried in Stone",
+      "Enterrado en piedra",
+      "Sous les pierres",
+      "Похороненное среди камней",
+      "Verschüttet in Stein",
+      "Lápide sepulcral",
+      "Sepolti nella pietra",
+      "바위에 파묻히다",
+      "埋藏於石",
+      "真相雪隐"
+    ]
+  },
+  {
+    "TagId": 78704,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Find the Foreman",
+      "Encuentra a la capataza",
+      "Cadê a encarregada",
+      "Find the Foreman",
+      "Buscar a la supervisora",
+      "Trouver la contremaîtresse",
+      "В поисках бригадира",
+      "Suche nach der Vorarbeiterin",
+      "Cadê a encarregada",
+      "Trova la Caposquadra",
+      "현장감독 찾기",
+      "找出工頭",
+      "找到工头"
+    ]
+  },
+  {
+    "TagId": 78705,
+    "TagType": 28,
+    "Names": [
+      null,
+      "What She Saw",
+      "Lo que ella vio",
+      "O que ela viu",
+      "What She Saw",
+      "Lo que vio ella",
+      "Ce qu’elle a vu",
+      "То, что видела она",
+      "Was sie sah",
+      "O que ela viu",
+      "Cos'ha visto",
+      "그녀가 본 광경은",
+      "她所見之物",
+      "临终闪回"
+    ]
+  },
+  {
+    "TagId": 78706,
+    "TagType": 28,
+    "Names": [
+      null,
+      "The High Speaker's Secret",
+      "El secreto del portavoz mayor",
+      "O segredo do Grão-mensageiro",
+      "The High Speaker's Secret",
+      "El secreto del alto orador",
+      "Le secret du haut-mandataire",
+      "Тайна верховного глашатая",
+      "Das Geheimnis des Obersten Sprechers",
+      "O segredo do Grão-mensageiro",
+      "Il segreto del Gran Oratore",
+      "고위 대변자의 비밀",
+      "至高代言者的秘密",
+      "高阶代言人的阴谋"
     ]
   },
   {

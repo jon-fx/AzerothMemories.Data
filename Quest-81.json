@@ -29,7 +29,7 @@
       "No enxerimento: roubo de tecidos",
       "Dropping Eaves: Thieving Weave",
       "Asomar la oreja: Tejido ladronzuelo",
-      "Sur écoute\u00A0: voleur de trame",
+      "Sur écoute\u00A0: vol de trame",
       "Шпионаж: воровство в прядильной",
       "Lauschen: Diebisches Weben",
       "No enxerimento: roubo de tecidos",
@@ -104,16 +104,16 @@
     "TagType": 28,
     "Names": [
       null,
-      "Breaking the Phalanx: Royal Appointee",
-      "Destrucción de la falange: Asignado real",
-      "Quebra da falange: nomeação real",
-      "Breaking the Phalanx: Royal Appointee",
-      "Romper la falange: Candidato nombrado por la reina",
-      "Briser la phalange\u00A0: représentant royal",
+      "Breaking the Phalanx: Royal Appointees",
+      "Destrucción de la falange: Asignados reales",
+      "Quebra da falange: indicados reais",
+      "Breaking the Phalanx: Royal Appointees",
+      "Romper la falange: Candidatos nombrados por la reina",
+      "Briser la phalange\u00A0: représentants royaux",
       "Уничтожение врагов: королевские ставленники",
-      "Die Phalanx durchbrechen: Auf königliche Ernennung",
-      "Quebra da falange: nomeação real",
-      "Spezzare la Falange: Nominato Reale",
+      "Die Phalanx durchbrechen: Königliche Amtsträger",
+      "Quebra da falange: indicados reais",
+      "Spezzare la Falange: Nominati Reali",
       "방진 파훼: 왕실 천거자",
       "突破防線：皇家委任者",
       "瓦解军势：皇家钦点者"
@@ -185,7 +185,7 @@
     "Names": [
       null,
       "Requisitions: Umbrashrooms",
-      "Requerimientos: Setaumbrías",
+      "Requisas: Setaumbrías",
       "Requisição: cogumbras",
       "Requisitions: Umbrashrooms",
       "Requisa: Champiumbríos",
@@ -205,7 +205,7 @@
     "Names": [
       null,
       "Wild Reagents: Maddening Deep",
-      "Componentes salvajes: Profundidades Enloquecedoras",
+      "Componentes silvestres: Profundidades Dementes",
       "Reagentes naturais: Abismo Alucinante",
       "Wild Reagents: Maddening Deep",
       "Componentes salvajes: Hondura Delirante",
@@ -349,7 +349,7 @@
       "Recompensa: Zorikal, a Patrona",
       "Bounty: Zorikal the Patron",
       "Recompensa: Zorikal la Mecenas",
-      "Prime\u00A0: Zorikal le Mécène",
+      "Prime\u00A0: Zorikal la Mécène",
       "Охота за головами: покровительница Зорикал",
       "Beute: Zorikal die Schutzherrin",
       "Recompensa: Zorikal, a Patrona",
@@ -489,7 +489,7 @@
       "Requisição: presas-pétalas",
       "Requisitions: Fangpetals",
       "Requisa: Colmipétalos",
-      "Réquisitions\u00A0: pétales serrulés odorants",
+      "Réquisitions\u00A0: pétales serrulés",
       "Поставки: клыкоцветы",
       "Requisition: Zahnblütenblätter",
       "Requisição: presas-pétalas",
@@ -669,7 +669,7 @@
       "Sabotagem: venomantes",
       "Sabotage: Venomancers",
       "Sabotaje: Venenomantes",
-      "Sabotage\u00A0: venimanciens",
+      "Sabotage\u00A0: venimanciennes et venimanciens",
       "Диверсия: ядоманты",
       "Sabotage: Giftmischer",
       "Sabotagem: venomantes",
@@ -715,7 +715,7 @@
       "Dando banda!",
       "All'avventura!",
       "물건을 실어라!",
-      "把它運走吧！",
+      "開船吧！",
       "传送装置！"
     ]
   },
@@ -760,6 +760,86 @@
     ]
   },
   {
+    "TagId": 81556,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Foreign Fog",
+      "Niebla foránea",
+      "Nevoeiro estrangeiro",
+      "Foreign Fog",
+      "Una niebla nada nativa",
+      "Brume étrangère",
+      "Чужеземный туман",
+      "Neuer Nebel",
+      "Nevoeiro estrangeiro",
+      "Nebbia esotica",
+      "낯선 안개",
+      "外來迷霧",
+      "未闻谜雾"
+    ]
+  },
+  {
+    "TagId": 81557,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Fog Tags",
+      "Etiquetas de niebla",
+      "Divisão de névoa",
+      "Fog Tags",
+      "Identificaciones de la niebla",
+      "Étiquettes à brume",
+      "Туманные маячки",
+      "Nebelmarkierungen",
+      "Divisão de névoa",
+      "Catalogare la nebbia",
+      "안개 추적",
+      "迷霧標籤",
+      "雾气标记"
+    ]
+  },
+  {
+    "TagId": 81558,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Unnatural Predators",
+      "Depredadores antinaturales",
+      "Predadores inaturais",
+      "Unnatural Predators",
+      "Depredadores antinaturales",
+      "Prédateurs contre-nature",
+      "Неестественные враги",
+      "Unnatürliche Raubtiere",
+      "Predadores inaturais",
+      "Predatori innaturali",
+      "초자연적 포식자",
+      "不自然的捕獵者",
+      "非自然掠食者"
+    ]
+  },
+  {
+    "TagId": 81559,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Fog Follower",
+      "Seguidor de la niebla",
+      "Caçadora de cerração",
+      "Fog Follower",
+      "Seguir la niebla",
+      "Traque de brume",
+      "По следам тумана",
+      "Nebelanhänger",
+      "Caçadora de cerração",
+      "Famiglio delle nebbie",
+      "안개 추종자",
+      "迷霧追隨者",
+      "循雾者"
+    ]
+  },
+  {
     "TagId": 81568,
     "TagType": 28,
     "Names": [
@@ -769,7 +849,7 @@
       "Soltem as feras",
       "Release the Beasts",
       "Liberar a las bestias",
-      "Libérez les bêtes.",
+      "Libérez les bêtes",
       "Выпустить зверей",
       "Lasst die Bestien frei",
       "Soltem as feras",
@@ -936,7 +1016,7 @@
       "Nerubiani ladri di miele",
       "꿀 도둑 네루비안",
       "偷蜂蜜的奈幽蟲族",
-      "窃密蛛魔"
+      "窃蜜蛛魔"
     ]
   },
   {
@@ -1177,6 +1257,26 @@
       "생명체 이름",
       "生物名稱",
       "生物名称"
+    ]
+  },
+  {
+    "TagId": 81713,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Oozemodius",
+      "Viscosius",
+      "Gosmódio",
+      "Oozemodius",
+      "Mocomodius",
+      "Limondius",
+      "Слизьмодей",
+      "Schleimodius",
+      "Gosmódio",
+      "Melmodius",
+      "우즈모디우스",
+      "烏茲莫迪斯",
+      "乌泽莫度斯"
     ]
   },
   {
@@ -1937,6 +2037,26 @@
       "낯선 땅의 낯선 자",
       "陌生人在陌生地",
       "异乡异客"
+    ]
+  },
+  {
+    "TagId": 81906,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Whispers from the Web",
+      "Susurros desde las telarañas",
+      "Sussurros da teia",
+      "Whispers from the Web",
+      "Susurros desde la red",
+      "Des murmures dans la toile",
+      "Шепот паутины",
+      "Flüstern aus dem Netz",
+      "Sussurros da teia",
+      "Sussurri dalla ragnatela",
+      "그물 속의 속삭임",
+      "蛛網的耳語",
+      "网中耳语"
     ]
   },
   {

@@ -3269,7 +3269,7 @@
       "Inspecionar Batedor",
       "Ispezione dell'Esploratore",
       "정찰병 살펴보기",
-      "觀察斥候",
+      "檢視偵察兵",
       "检查斥候"
     ],
     "Media": "trade_engineering.jpg"
@@ -4224,19 +4224,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Iced",
-      "Helado",
-      "No Gelo",
-      "Iced",
-      "Helado",
-      "Glace",
-      "Охлаждение",
-      "Vereist",
-      "No Gelo",
-      "Ghiacciato",
-      "얼어붙음",
-      "凍結",
-      "如履薄冰"
+      "Ice Trap",
+      "Trampa de hielo",
+      "Armadilha de Gelo",
+      "Ice Trap",
+      "Trampa de hielo",
+      "Piège de glace",
+      "Ледяная ловушка",
+      "Frostfalle",
+      "Armadilha de Gelo",
+      "Trappola di Ghiaccio",
+      "얼음 덫",
+      "寒冰陷阱",
+      "冰霜陷阱"
     ],
     "Media": "spell_hunter_icetrap.jpg"
   },
@@ -4246,7 +4246,7 @@
     "Names": [
       null,
       "Minecart Explosion",
-      "Explosión de carro minero",
+      "Explosión de vagoneta",
       "Explosão de Vagonete",
       "Minecart Explosion",
       "Explosión de vagoneta",
@@ -4287,21 +4287,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Frozen",
-      "Congelado",
-      "Congelamento",
-      "Frozen",
-      "Congelado",
-      "Gel",
-      "Заморозка",
-      "Eingefroren",
-      "Congelamento",
-      "Congelato",
-      "빙결",
-      "凍結",
-      "冻结"
+      "Ice Trap",
+      "Trampa de hielo",
+      "Armadilha de Gelo",
+      "Ice Trap",
+      "Trampa de hielo",
+      "Piège de glace",
+      "Ледяная ловушка",
+      "Frostfalle",
+      "Armadilha de Gelo",
+      "Trappola di Ghiaccio",
+      "얼음 덫",
+      "寒冰陷阱",
+      "冰霜陷阱"
     ],
-    "Media": "ability_mage_deepfreeze.jpg"
+    "Media": "spell_hunter_icetrap.jpg"
   },
   {
     "TagId": 433250,
@@ -6973,21 +6973,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Glibb",
-      "Glibb",
-      "Glibb",
-      "Glibb",
-      "Glibb",
-      "Glibb",
-      "Глибб",
-      "Glibb",
-      "Glibb",
-      "Glibb",
-      "글리브",
-      "格里布",
-      "格里布"
+      "Monkey Leash",
+      "Correa de mono",
+      "Coleira de Macaco",
+      "Monkey Leash",
+      "Correa de mono",
+      "Laisse de singe",
+      "Поводок обезьяны",
+      "Affenleine",
+      "Coleira de Macaco",
+      "Guinzaglio della Scimmia",
+      "원숭이 목줄",
+      "放出猴子",
+      "灵猴绳索"
     ],
-    "Media": "ability_hunter_pet_gorilla.jpg"
+    "Media": "inv_leatherworking_70_petleash.jpg"
   },
   {
     "TagId": 433403,
@@ -9932,19 +9932,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Tranquilizing Blow Dart",
-      "Dardo sedante",
-      "Dardo de Zarabatana Tranquilizante",
-      "Tranquilizing Blow Dart",
-      "Cerbatana de dardos tranquilizantes",
-      "Fléchette tranquillisante",
-      "Усмиряющий дротик",
-      "Beruhigender Blasrohrpfeil",
-      "Dardo de Zarabatana Tranquilizante",
-      "Cerbottana Tranquillizzante",
-      "평정의 바람총 화살",
-      "寧神吹箭",
-      "宁神吹箭"
+      "Cleansing Salve",
+      "Bálsamo purificador",
+      "Bálsamo de Purificação",
+      "Cleansing Salve",
+      "Bálsamo purificador",
+      "Salve purificatrice",
+      "Очищающий бальзам",
+      "Läuternde Salbe",
+      "Bálsamo de Purificação",
+      "Salva Purificante",
+      "정화 연고",
+      "淨化藥膏",
+      "净化齐射"
     ],
     "Media": "inv_blowdart_bloodtroll.jpg"
   },
@@ -11061,7 +11061,7 @@
     "Names": [
       null,
       "Leave Minecart",
-      "Abandonar el carro minero",
+      "Abandonar la vagoneta",
       "Sair do Vagonete",
       "Leave Minecart",
       "Abandonar vagoneta",
@@ -11485,7 +11485,7 @@
       "Uno com a Escuridão",
       "One with the Darkness",
       "Uno con la oscuridad",
-      "Union avec les ténèbres",
+      "Union avec les Ténèbres",
       "Единство с Тьмой",
       "Eins mit der Dunkelheit",
       "Uno com a Escuridão",
@@ -12478,7 +12478,7 @@
       "Talho Agarrador",
       "Taglio Ghermitore",
       "휘감는 칼날",
-      "擒拿劈斬",
+      "抓攫斬擊",
       "勒握斩击"
     ],
     "Media": "ability_demonhunter_soulcleave4.jpg"
@@ -14133,7 +14133,7 @@
       "Гибель миров",
       "Verwüstung",
       "Desgraça",
-      "Rovina",
+      "Sfacelo",
       "황폐",
       "禍滅",
       "陨灭"
@@ -14370,6 +14370,27 @@
       "投石"
     ],
     "Media": "shaman_pvp_rockshield.jpg"
+  },
+  {
+    "TagId": 433899,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vampiric Strike",
+      "Golpe vampírico",
+      "Golpe Vampírico",
+      "Vampiric Strike",
+      "Golpe vampírico",
+      "Frappe vampirique",
+      "Удар вампира",
+      "Vampirstoß",
+      "Golpe Vampírico",
+      "Assalto Vampirico",
+      "흡혈의 일격",
+      "吸血打擊",
+      "吸血鬼打击"
+    ],
+    "Media": "inv_ability_sanlayndeathknight_vampiricstrike.jpg"
   },
   {
     "TagId": 433900,

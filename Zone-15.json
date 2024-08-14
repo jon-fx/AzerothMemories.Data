@@ -1804,17 +1804,17 @@
     "TagType": 24,
     "Names": [
       null,
-      "Duskrise Acerage",
+      "Duskrise Acreage",
       "Acres Alto del Ocaso",
       "Recanto do Entardecer",
-      "Duskrise Acerage",
+      "Duskrise Acreage",
       "Paraje Alzaocaso",
       "Terre du Crépuscule",
       "Подъем Сумерек",
       "Dämmerhöhenacker",
       "Recanto do Entardecer",
       "Acri Crepuscolari",
-      "황혼오름 부지",
+      "황혼이황혼오름 부지",
       "暮升之地",
       "暮升辽原"
     ]
@@ -1945,7 +1945,7 @@
     "Names": [
       null,
       "Cinderbrew Meadery",
-      "Destilería de Hidromiel Cinéreo",
+      "Hidromielería Cinérea",
       "Hidromelaria Cinzagris",
       "Cinderbrew Meadery",
       "Lagar de Tragoceniza",
@@ -2015,7 +2015,7 @@
       "Areia Desolada",
       "Sabbia Tetra",
       "황량한 사막",
-      "荒涼沙漠",
+      "荒涼沙灘",
       "阴郁沙滩"
     ]
   },
@@ -2550,12 +2550,12 @@
       "Awakening The Machine",
       "Despertar la máquina",
       "L’éveil de la machine",
-      "Пробуждение машины",
+      "Пробуждение Машины",
       "Erweckung der Maschine",
       "Despertando a Máquina",
       "Risveglio della Macchina",
       "기계의 각성",
-      "喚醒機械",
+      "甦醒機械",
       "主机觉醒"
     ]
   },
@@ -3389,7 +3389,7 @@
       "Átrio de Moldapedra",
       "Stoneshaper's Atrium",
       "Claustro de los Labrapiedras",
-      "Atrium du Sculpte-pierre",
+      "Atrium du sculpte-pierre",
       "Атриум граверов",
       "Atrium der Steinformer",
       "Átrio de Moldapedra",
@@ -3435,7 +3435,7 @@
       "Fossa do Rosnado",
       "Conca Ringhiante",
       "우짖는 공동",
-      "低吼谷地",
+      "低吼窪地",
       "咆哮岩洞"
     ]
   },
@@ -3616,7 +3616,7 @@
       "Capannoni Ronzanti",
       "붕붕 헛간",
       "嗡嗡倉房",
-      "蜂鸣谷仓"
+      "蜂鸣仓库"
     ]
   },
   {
@@ -4757,6 +4757,66 @@
       "송곳니",
       "尖牙之地",
       "獠牙岩滩"
+    ]
+  },
+  {
+    "TagId": 15552,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Undersea",
+      "El Inframar",
+      "Mar do Fundo",
+      "The Undersea",
+      "Inframar",
+      "Les fonds Marins",
+      "Подморье",
+      "Das Untermeer",
+      "Mar do Fundo",
+      "Mare Sotterraneo",
+      "깊은 바다",
+      "無底深海",
+      "地渊之海"
+    ]
+  },
+  {
+    "TagId": 15667,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Delves",
+      "Abismos",
+      "Imersões",
+      "Delves",
+      "Profundidades",
+      "Gouffres",
+      "Вылазки",
+      "Tiefen",
+      "Imersões",
+      "Scorribande",
+      "구렁",
+      "探究",
+      "地下堡"
+    ]
+  },
+  {
+    "TagId": 15786,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hallowfall",
+      "Cristalia",
+      "Pouso Santo",
+      "Hallowfall",
+      "Santificación",
+      "Sainte-Chute",
+      "Тайносводье",
+      "Heilsturz",
+      "Pouso Santo",
+      "Precipizi Sacri",
+      "신성한 협곡",
+      "聖落之地",
+      "陨圣峪"
     ]
   }
 ]

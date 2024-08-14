@@ -10664,19 +10664,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero",
-      "%s, the [PH] Hero"
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero",
+      "%s the Tempered Hero"
     ]
   },
   {
@@ -10989,7 +10989,7 @@
       "Carregador %s",
       "Deephauler %s",
       "Cargahondo %s",
-      "Abondabîmien %s",
+      "Abondabimien %s",
       "Златоносец %s",
       "Tiefbeuter %s",
       "Carregador %s",
@@ -11117,6 +11117,126 @@
       "전리품의 탐구자 %s",
       "『戰利品追尋者』%s",
       "%s，觅财者"
+    ]
+  },
+  {
+    "TagId": 847,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Silksinger %s",
+      "Cantaseda %s",
+      "Trovasseda %s",
+      "Silksinger %s",
+      "Cantaseda %s",
+      "Chante-soie %s",
+      "Шелкопев %s",
+      "Seidensänger %s",
+      "Trovasseda %s",
+      "Cantaseta %s",
+      "비단노래꾼 %s",
+      "絲詠者%s",
+      "吟丝者 %s"
+    ]
+  },
+  {
+    "TagId": 848,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Anub'%s",
+      "Anub'%s",
+      "Anub'%s",
+      "Anub'%s",
+      "Anub'%s",
+      "Anub’%s",
+      "Ануб'%s",
+      "Anub'%s",
+      "Anub'%s",
+      "Anub'%s",
+      "아눕%s",
+      "阿努%s",
+      "阿努巴 %s"
+    ]
+  },
+  {
+    "TagId": 849,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Hand of the Vizier",
+      "%s, Mano del Visir",
+      "%s, a Mão do Vizir",
+      "%s, Hand of the Vizier",
+      "%s, la Mano del Visir",
+      "%s, la main du vizir",
+      "%s, Десница визиря",
+      "%s, Hand des Wesirs",
+      "%s, a Mão do Vizir",
+      "%s, la Mano del Visir",
+      "재상의 손 %s",
+      "『輔臣之手』%s",
+      "%s，宰相之手"
+    ]
+  },
+  {
+    "TagId": 850,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Bountiful",
+      "%s, el Opulento",
+      "%s, o Abundante",
+      "%s the Bountiful",
+      "%s el Pródigo",
+      "%s, le magnanime",
+      "Богач %s",
+      "%s, der Großzügige",
+      "%s, o Abundante",
+      "%s il Fruttuoso",
+      "유복한 %s",
+      "『豐碩者』%s",
+      "慷慨的 %s"
+    ]
+  },
+  {
+    "TagId": 851,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Echochaser %s",
+      "Cazaecos %s",
+      "Ecocêntrico %s",
+      "Echochaser %s",
+      "Buscaecos %s",
+      "Chasse-échos %s",
+      "Ловец отголосков %s",
+      "Echojäger %s",
+      "Ecocêntrico %s",
+      "Cercaechi %s",
+      "메아리추적자 %s",
+      "回音追逐者%s",
+      "回响追寻者 %s"
+    ]
+  },
+  {
+    "TagId": 854,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered",
+      "%s the Tempered"
     ]
   }
 ]

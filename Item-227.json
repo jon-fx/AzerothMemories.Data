@@ -144,7 +144,7 @@
       "食譜：午夜化妝舞會盛宴",
       "食谱：午夜舞会盛宴"
     ],
-    "Media": "inv_10_inscription2_repcontracts_80_warscroll_fortitude_uprez_color1.jpg"
+    "Media": "inv_10_inscription2_scroll2_color5.jpg"
   },
   {
     "TagId": 227283,
@@ -165,7 +165,7 @@
       "食譜：神聖日盛宴",
       "食谱：降圣白昼盛宴"
     ],
-    "Media": "inv_10_inscription2_repcontracts_80_warscroll_fortitude_uprez_color1.jpg"
+    "Media": "inv_10_inscription2_scroll2_color5.jpg"
   },
   {
     "TagId": 227287,
@@ -2013,7 +2013,7 @@
       "無縛者傳奇錦旗",
       "无缚传说的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_green.jpg"
+    "Media": "inv_twwsoloshufflepennantreward_icons_green.jpg"
   },
   {
     "TagId": 227539,
@@ -2034,7 +2034,7 @@
       "無縛者謀略家錦旗",
       "无缚战略家的旌旗"
     ],
-    "Media": "inv_soloshufflepennantreward_icons_teal.jpg"
+    "Media": "inv_twwsoloshufflepennantreward_icons_teal.jpg"
   },
   {
     "TagId": 227542,
@@ -2053,7 +2053,7 @@
       "Spada degli Arathi Conservata",
       "보존된 아라시 검",
       "保存良好的阿拉希劍",
-      "保存完好的剑"
+      "保存完好的阿拉希之剑"
     ],
     "Media": "inv_sword_1h_undergroundquest_b_01.jpg"
   },
@@ -2074,7 +2074,7 @@
       "Accetta degli Arathi Conservata",
       "보존된 아라시 손도끼",
       "保存良好的阿拉希短斧",
-      "保存完好的切斧"
+      "保存完好的阿拉希劈斧"
     ],
     "Media": "inv_axe_1h_undergroundquest_b_01.jpg"
   },
@@ -2095,7 +2095,7 @@
       "Bastone dell'Abitante delle Profondità Conservato",
       "보존된 심연살이의 지팡이",
       "保存良好的深淵居民法杖",
-      "保存完好的法杖"
+      "保存完好的幽邃住民的法杖"
     ],
     "Media": "inv_staff_2h_undergroundquest_b_01.jpg"
   },
@@ -2116,7 +2116,7 @@
       "Mazza Ferrata dell'Abitante delle Profondità Conservata",
       "보존된 심연살이의 곤봉",
       "保存良好的深淵居民鬥棍",
-      "保存完好的轻槌"
+      "保存完好的幽邃住民的轻棍"
     ],
     "Media": "inv_mace_1h_undergroundquest_b_01.jpg"
   },
@@ -2137,7 +2137,7 @@
       "Dirk dell'Abitante delle Profondità Conservato",
       "보존된 심연살이의 손칼",
       "保存良好的深淵居民短匕",
-      "保存完好的短刃"
+      "保存完好的幽邃住民的短刃"
     ],
     "Media": "inv_knife_1h_undergroundquest_b_01.jpg"
   },
@@ -2220,7 +2220,7 @@
       "Cristal Telúrico Rebrilhante",
       "Cristallo Tellurico Rilucente",
       "빛나는 토양 수정",
-      "發光的碲水晶",
+      "發光的大地水晶",
       "流光陆生水晶"
     ],
     "Media": "inv_10_enchanting_crystal_color3.jpg"
@@ -2251,19 +2251,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Algari Enchanting Folio",
-      "Folio con encantamientos algari",
-      "Panfleto de Encantamento Algari",
-      "Algari Enchanting Folio",
-      "Folio de encantamiento algariano",
+      "Algari Enchanter's Folio",
+      "Folio de encantador algari",
+      "Fólio do Encantador Algari",
+      "Algari Enchanter's Folio",
+      "Folio de encantador algariano",
       "Feuillet d’enchantement algari",
-      "Фолиант с алгарийскими чарами",
-      "Verzauberungsfoliant der Algari",
-      "Panfleto de Encantamento Algari",
-      "Foglio d'Incantamento degli Algari",
-      "알가르 마법부여 절판",
-      "阿爾加附魔對開本",
-      "阿加附魔对开纸"
+      "Фолиант алгарийского зачаровывателя",
+      "Foliant des Algariverzauberers",
+      "Fólio do Encantador Algari",
+      "Foglio dell'Incantatore Algari",
+      "알가르 마법부여사의 절판",
+      "阿爾加附魔師對開本",
+      "阿加附魔师对开纸"
     ],
     "Media": "inv_misc_profession_book_enchanting.jpg"
   },
@@ -2274,13 +2274,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",
@@ -2315,17 +2315,17 @@
     "Names": [
       null,
       "Satchel of Surplus Herbs",
+      "Cartera de hierba excedente",
+      "Algibeira de Plantas Excedentes",
       "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
-      "Satchel of Surplus Herbs",
+      "Bolsa de excedente de hierbas",
+      "Sacoche de surplus d’herbes",
+      "Мешок с лишними травами",
+      "Säckchen mit überschüssigen Kräutern",
+      "Algibeira de Plantas Excedentes",
+      "Borsa di Erbe in Eccesso",
+      "여분의 약초가 든 주머니",
+      "一袋過剩的草藥",
       "一袋草药盈余"
     ],
     "Media": "inv_10_tailoring_bag2_color4.jpg"
@@ -2336,17 +2336,17 @@
     "Names": [
       null,
       "Satchel of Surplus Ore",
+      "Cartera de mena excedente",
+      "Algibeira de Minério Excedente",
       "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
-      "Satchel of Surplus Ore",
+      "Bolsa de excedente de mena",
+      "Sacoche de surplus de minerai",
+      "Мешок с лишней рудой",
+      "Säckchen mit überschüssigem Erz",
+      "Algibeira de Minério Excedente",
+      "Borsa di Minerali in Eccesso",
+      "여분의 광석이 든 주머니",
+      "一袋過剩的礦石",
       "一袋矿石盈余"
     ],
     "Media": "inv_misc_bag_29.jpg"
@@ -2367,7 +2367,7 @@
       "Algibeira de Excedentes de Encantamento",
       "Borsa di Eccedenze d'Incantamento",
       "여분의 마법부여용품 주머니",
-      "一袋過剩附魔物資",
+      "一袋多餘附魔物資",
       "一袋附魔盈余"
     ],
     "Media": "inv_misc_bag_31.jpg"
@@ -2388,7 +2388,7 @@
       "Algibeira de Excedentes de Engenharia",
       "Borsa di Eccedenze d'Ingegneria",
       "여분의 기계공학용품 주머니",
-      "一袋過剩工程學物資",
+      "一袋多餘工程學物資",
       "一袋工程学盈余"
     ],
     "Media": "inv_misc_coinbag11.jpg"
@@ -2409,7 +2409,7 @@
       "Algibeira de Excedentes de Escrivania",
       "Borsa di Eccedenze di Runografia",
       "여분의 주문각인용품 주머니",
-      "一袋過剩銘文學物資",
+      "一袋多餘銘文學物資",
       "一袋铭文盈余"
     ],
     "Media": "inv_10_tailoring_bag2_color3.jpg"
@@ -2430,7 +2430,7 @@
       "Algibeira de Excedentes de Joalheria",
       "Borsa di Eccedenze d'Oreficeria",
       "여분의 보석세공용품 주머니",
-      "一袋過剩珠寶設計物資",
+      "一袋多餘珠寶設計物資",
       "一袋珠宝加工盈余"
     ],
     "Media": "inv_misc_bag_33.jpg"
@@ -2441,17 +2441,17 @@
     "Names": [
       null,
       "Satchel of Surplus Leather",
+      "Cartera de cuero excedente",
+      "Algibeira de Couro Excedente",
       "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
-      "Satchel of Surplus Leather",
+      "Bolsa de excedente de cuero",
+      "Sacoche de surplus de cuir",
+      "Мешок с лишней кожей",
+      "Säckchen mit überschüssigem Leder",
+      "Algibeira de Couro Excedente",
+      "Borsa di Cuoio in Eccesso",
+      "여분의 가죽이 든 주머니",
+      "一袋過剩的皮革",
       "一袋皮革盈余"
     ],
     "Media": "inv_misc_coinbag09.jpg"
@@ -2462,17 +2462,17 @@
     "Names": [
       null,
       "Satchel of Surplus Cloth",
+      "Cartera de tela excedente",
+      "Algibeira de Tecido Excedente",
       "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
-      "Satchel of Surplus Cloth",
+      "Bolsa de excedente de tela",
+      "Sacoche de surplus de tissu",
+      "Мешок с лишней тканью",
+      "Säckchen mit überschüssigem Stoff",
+      "Algibeira de Tecido Excedente",
+      "Borsa di Stoffe in Eccesso",
+      "여분의 옷감이 든 주머니",
+      "一袋過剩的布料",
       "一袋布料盈余"
     ],
     "Media": "inv_10_tailoring_bag1_color2.jpg"
@@ -2683,7 +2683,7 @@
       "Tomo della Metamorfosi: Lanamuschio",
       "마법서: 변이 - 이끼털",
       "秘典：變苔毛羊術",
-      "教你学会施放变形术：苔绒羱。"
+      "秘典：变形术：苔绒羱"
     ],
     "Media": "inv_misc_book_07.jpg"
   },
@@ -2734,16 +2734,16 @@
     "TagType": 21,
     "Names": [
       null,
-      "Assorted Whirlygigs",
-      "Remolinos variados",
-      "Geringonças Variadas",
-      "Assorted Whirlygigs",
-      "Surtido de cachivaches",
+      "Assorted Whirligigs",
+      "Chirimbolos variados",
+      "Rebimbocas Variadas",
+      "Assorted Whirligigs",
+      "Surtido de girocalesas",
       "Assortiment de cyclobidules",
-      "Набор волчков",
-      "Sortierte Kurbelwurbel",
-      "Geringonças Variadas",
-      "Trottole Assortite",
+      "Набор вертушек",
+      "Sortierte Kurbelwurbeln",
+      "Rebimbocas Variadas",
+      "Componenti Assortiti",
       "각종 회전 장치",
       "各種旋轉機具",
       "一摞陀螺"
@@ -2756,17 +2756,17 @@
     "Names": [
       null,
       "Blinker Fluid",
+      "Fluido de trasladora",
+      "Fluido de Lampejante",
       "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
-      "Blinker Fluid",
+      "Fluido de saltarina",
+      "Fluide de clignotement",
+      "Жидкость для фар",
+      "Blinkerflüssigkeit",
+      "Fluido de Lampejante",
+      "Fluido per Lampeggianti",
+      "깜빡 액체",
+      "炫光液體",
       "闪光液体"
     ],
     "Media": "inv_10_alchemy_engineersgrease_color2.jpg"
@@ -2777,17 +2777,17 @@
     "Names": [
       null,
       "Cataclysmic Converter",
+      "Conversor cataclísmico",
+      "Conversor Cataclísmico",
       "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
-      "Cataclysmic Converter",
+      "Conversor cataclísmico",
+      "Convertisseur cataclysmique",
+      "Катастрофический конвертор",
+      "Kataklysmischer Konverter",
+      "Conversor Cataclísmico",
+      "Convertitore Cataclismico",
+      "대격변의 변환기",
+      "災變轉換器",
       "灾厄转换器"
     ],
     "Media": "inv_10_engineering2_pvpflaregun_color1.jpg"
@@ -2798,17 +2798,17 @@
     "Names": [
       null,
       "Pummel-Proof Plating",
+      "Blindaje a prueba de golpes",
+      "Blindagem à Prova de Murros",
       "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
-      "Pummel-Proof Plating",
+      "Blindaje a prueba de puñetazos",
+      "Plaque anti-coups de poing",
+      "Противоударная броня",
+      "Prügelsichere Platten",
+      "Blindagem à Prova de Murros",
+      "Rivestimento a Prova di Pugni",
+      "타격 방지 장갑판",
+      "抗打擊鋼材",
       "防冲击装甲"
     ],
     "Media": "inv_10_engineering_manufacturedparts_reavesbattery_frost.jpg"
@@ -2841,13 +2841,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",
@@ -2862,13 +2862,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",
@@ -2883,13 +2883,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",
@@ -2904,13 +2904,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",
@@ -2925,13 +2925,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",
@@ -2946,13 +2946,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",
@@ -2967,13 +2967,13 @@
       null,
       "Delver's Bounty",
       "Recompensa del surcabismos",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Delver's Bounty",
       "Botín de explorador de las profundidades",
       "Butin de l’archéologue",
       "Клад участника вылазки",
       "Beute des Tiefenforschers",
-      "Recompensa do Imersor",
+      "Tesouro do Imersor",
       "Bottino della Scorribanda",
       "구렁 탐험가의 은혜",
       "探究者的獎賞",

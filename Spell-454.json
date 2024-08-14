@@ -435,7 +435,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -1583,7 +1583,7 @@
       "Bem Alimentado",
       "Well Fed",
       "Bien alimentado",
-      "Bien nourri",
+      "Personnage bien nourri",
       "Сытость",
       "Satt",
       "Bem Alimentado",
@@ -2108,7 +2108,7 @@
       "Bem Alimentado",
       "Well Fed",
       "Bien alimentado",
-      "Bien nourri",
+      "Personnage bien nourri",
       "Сытость",
       "Satt",
       "Bem Alimentado",
@@ -2129,7 +2129,7 @@
       "Bem Alimentado",
       "Well Fed",
       "Bien alimentado",
-      "Bien nourri",
+      "Personnage bien nourri",
       "Сытость",
       "Satt",
       "Bem Alimentado",
@@ -2150,7 +2150,7 @@
       "Bem Alimentado",
       "Well Fed",
       "Bien alimentado",
-      "Bien nourri",
+      "Personnage bien nourri",
       "Сытость",
       "Satt",
       "Bem Alimentado",
@@ -2171,7 +2171,7 @@
       "Bem Alimentado",
       "Well Fed",
       "Bien alimentado",
-      "Bien nourri",
+      "Personnage bien nourri",
       "Сытость",
       "Satt",
       "Bem Alimentado",
@@ -2339,7 +2339,7 @@
       "Substancialmente Bem Alimentado",
       "Hearty Well Fed",
       "Copiosamente bien alimentado",
-      "Généreusement bien nourri",
+      "Personnage généreusement bien nourri",
       "Полная сытость",
       "Zünftig satt",
       "Substancialmente Bem Alimentado",
@@ -4572,7 +4572,7 @@
       "鉤刺蛛網",
       "倒钩之网"
     ],
-    "Media": "inv_ability_web_buff.jpg"
+    "Media": "inv_ability_web_orb.jpg"
   },
   {
     "TagId": 454312,
@@ -4677,7 +4677,7 @@
       "織網炸彈",
       "缠网炸弹"
     ],
-    "Media": "ability_demonhunter_demonspikes2.jpg"
+    "Media": "inv_ability_web_orb.jpg"
   },
   {
     "TagId": 454318,
@@ -5031,7 +5031,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -5094,7 +5094,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -6774,7 +6774,7 @@
       "Estudando",
       "Studio",
       "연구 중",
-      "學習",
+      "研究",
       "研究"
     ],
     "Media": "ability_mage_studentofthemind.jpg"
@@ -7122,16 +7122,16 @@
       null,
       "Airship: Wings 05 - Lantern Wing",
       "Aeronave: Alas 05 - Ala con farol",
-      "Aeronau: Asas 05 - Asa de Lanterna",
+      "Aeronau: Asas 05 - Asa com Lanterna",
       "Airship: Wings 05 - Lantern Wing",
       "Nave: Alas 05 - Luz de alas",
       "Aéronef\u00A0: Ailes 05 – Aile de lanterne",
       "Корабль: крылья 05 – крыло со светильником",
       "Luftschiff: Flügel 05 - Laternenflügel",
-      "Aeronau: Asas 05 - Asa de Lanterna",
+      "Aeronau: Asas 05 - Asa com Lanterna",
       "Aeronave: Ali 05 - Ala con lanterna",
       "비행선: 날개 05 - 등불 날개",
-      "飛船：機翼05 - 燈籠翅膀",
+      "飛船：機翼05 - 燈籠機翼",
       "Airship: Wings 05 - Lantern Wing"
     ],
     "Media": "inv_mechagon_blueprints.jpg"
@@ -7540,21 +7540,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Well Fed",
-      "Bien alimentado",
-      "Bem Alimentado",
-      "Well Fed",
-      "Bien alimentado",
-      "Bien nourri",
-      "Сытость",
-      "Satt",
-      "Bem Alimentado",
-      "Ben Nutrito",
-      "포만감",
-      "充分進食",
-      "进食充分"
+      "Twilight-Spiced Grouper",
+      "Mero condimentado con crepúsculo",
+      "Garoupa com Tempero Crepuscular",
+      "Twilight-Spiced Grouper",
+      "Mero especiado crepuscular",
+      "Mérou aux épices du crépuscule",
+      "Окунь в сумеречных специях",
+      "Zwielichtgewürzter Barsch",
+      "Garoupa com Tempero Crepuscular",
+      "Cernia Speziata del Crepuscolo",
+      "황혼양념 농어",
+      "暮光香料石斑魚",
+      "暮光香料石斑鱼"
     ],
-    "Media": "spell_misc_food.jpg"
+    "Media": "inv_misc_food_158_fish_redish.jpg"
   },
   {
     "TagId": 454500,
@@ -8583,7 +8583,7 @@
       "輝燦聚能",
       "光辉焦镜"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckshine_0.jpg"
   },
   {
     "TagId": 454559,
@@ -8625,7 +8625,7 @@
       "輝燦聚能",
       "光辉焦镜"
     ],
-    "Media": "ability_paladin_toweroflight.jpg"
+    "Media": "inv_inscriptions_darkmoondeckshine_0.jpg"
   },
   {
     "TagId": 454561,
@@ -8949,13 +8949,13 @@
       null,
       "Explorer's Medical Journal",
       "Diario médico de expedicionario",
-      "Registro Médico do Explorador",
+      "Revista de Medicina do Explorador",
       "Explorer's Medical Journal",
       "Diario médico de expedicionario",
       "Journal médical d’explorateur",
       "Дневник исследователя о медицине",
       "Medizinische Notizen des Entdeckers",
-      "Registro Médico do Explorador",
+      "Revista de Medicina do Explorador",
       "Diario Medico dell'Esploratore",
       "탐험가의 의료 일지",
       "探險者的醫療日誌",
@@ -9945,7 +9945,7 @@
       "Coro Devorador",
       "Coro Divorante",
       "게걸스러운 합창",
-      "吞噬合音",
+      "噬靈共鳴",
       "噬灵合声"
     ],
     "Media": "spell_shadow_devouringplague.jpg"
@@ -11110,7 +11110,7 @@
     "Names": [
       null,
       "Phase Blades",
-      "Hojas fase",
+      "Hojas fásicas",
       "Lâminas Fase",
       "Phase Blades",
       "Hojas de fase",
@@ -11257,7 +11257,7 @@
     "Names": [
       null,
       "Zoomies",
-      "Zurra zumbadora",
+      "Hiperactividad",
       "Bagunça",
       "Zoomies",
       "Descarga de actividad",
@@ -11320,7 +11320,7 @@
     "Names": [
       null,
       "Zoomies",
-      "Zurra zumbadora",
+      "Hiperactividad",
       "Bagunça",
       "Zoomies",
       "Descarga de actividad",
@@ -11403,7 +11403,7 @@
     "Names": [
       null,
       "Zoomies",
-      "Zurra zumbadora",
+      "Hiperactividad",
       "Bagunça",
       "Zoomies",
       "Descarga de actividad",
@@ -12298,7 +12298,28 @@
       "輝燦聚能",
       "光辉焦镜"
     ],
-    "Media": "ability_paladin_toweroflight.jpg"
+    "Media": "inv_inscriptions_darkmoondeckshine_0.jpg"
+  },
+  {
+    "TagId": 454783,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Rift",
+      "Falla del Vacío",
+      "Fissura do Caos",
+      "Void Rift",
+      "Falla de Vacío",
+      "Faille du Vide",
+      "Разлом Бездны",
+      "Leerenriss",
+      "Fissura do Caos",
+      "Fenditura del Vuoto",
+      "공허의 균열",
+      "虛無裂隙",
+      "虚空裂隙"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 454784,
@@ -12340,7 +12361,7 @@
       "烈光",
       "光辉"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckshine_0.jpg"
   },
   {
     "TagId": 454786,
@@ -12876,7 +12897,7 @@
       "Enxame de Besouros",
       "Swarm of Beetles",
       "Enjambre de alfazaques",
-      "Essaim de scarabées",
+      "Essaim de hannetons",
       "Рой жуков",
       "Käferschwarm",
       "Enxame de Besouros",
@@ -15623,7 +15644,7 @@
     "Names": [
       null,
       "Memory of the Monastery",
-      "Recuerdo del Monasterio",
+      "Recuerdo del monasterio",
       "Memória do Monastério",
       "Memory of the Monastery",
       "Recuerdo del monasterio",
@@ -16189,19 +16210,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Algari Competitor's Splitter",
-      "Machacador de competidor algari",
-      "Talhadeira do Competidor Algari",
-      "Algari Competitor's Splitter",
-      "Machacador de competidor algariano",
-      "Hansart de compétition algari",
-      "Колун алгарийского бойца",
-      "Spalter des Algariwettkämpfers",
-      "Talhadeira do Competidor Algari",
-      "Spezzaossa del Concorrente Algari",
-      "알가르 경쟁자의 절단도끼",
-      "阿爾加競技者裂斧",
-      "阿加竞争者的劈砍斧"
+      "Algari Competitor's Pickaxe",
+      "Piqueta de competidor algari",
+      "Picareta do Competidor Algari",
+      "Algari Competitor's Pickaxe",
+      "Piqueta de competidor algariano",
+      "Pioche de compétition algarie",
+      "Кирка алгарийского бойца",
+      "Spitzhacke des Algariwettkämpfers",
+      "Picareta do Competidor Algari",
+      "Piccone del Concorrente Algari",
+      "알가르 경쟁자의 곡괭이",
+      "阿爾加競技者斧鎬",
+      "阿加竞争者之镐"
     ],
     "Media": "ui_profession_leatherworking.jpg"
   },

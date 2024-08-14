@@ -2004,7 +2004,7 @@
       "Experiência em Imersões",
       "Delve Experience",
       "Experiencia en las profundidades",
-      "Expérience du gouffre",
+      "Expérience du Gouffre",
       "Опыт вылазок",
       "Tiefenerfahrung",
       "Experiência em Imersões",
@@ -2188,19 +2188,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Patrol Torch",
+      "Antorcha de patrulla",
+      "Tocha de Patrulha",
+      "Patrol Torch",
+      "Antorcha de patrulla",
+      "Torche de patrouille",
+      "Патрульный факел",
+      "Patrouillenfackel",
+      "Tocha de Patrulha",
+      "Torcia della Pattuglia",
+      "순찰 횃불",
+      "巡邏火炬",
+      "巡逻火炬"
     ],
     "Media": "inv_offhand_1h_torch_a_01.jpg"
   },
@@ -2958,7 +2958,7 @@
       "燒燃墜盒",
       "燃火项坠"
     ],
-    "Media": "inv_10_dungeonjewelry_centaur_necklace_1_color2.jpg"
+    "Media": "inv_11_0_arathor_necklace_01_color1.jpg"
   },
   {
     "TagId": 219185,
@@ -3021,7 +3021,7 @@
       "骨雕頭環",
       "骨刻之戒"
     ],
-    "Media": "inv_10_dungeonjewelry_tuskarr_ring_1_color5.jpg"
+    "Media": "inv_11_0_nerubian_ring_02_color4.jpg"
   },
   {
     "TagId": 219188,
@@ -3042,7 +3042,7 @@
       "黑暗深淵之環",
       "暗渊之环"
     ],
-    "Media": "inv_10_dungeonjewelry_centaur_ring_2_color5.jpg"
+    "Media": "inv_11_0_arathor_ring_02_color5.jpg"
   },
   {
     "TagId": 219189,
@@ -3063,7 +3063,7 @@
       "毛躁發霉輝環",
       "茸霉光晕"
     ],
-    "Media": "inv_10_dungeonjewelry_tuskarr_ring_2_color5.jpg"
+    "Media": "inv_11_0_earthen_earthenring_color3.jpg"
   },
   {
     "TagId": 219190,
@@ -3114,13 +3114,13 @@
       null,
       "Comprehensibly Organized Ideas",
       "Ideas organizadas inteligentemente",
-      "Ideias Organizadas Compreensíveis",
+      "Ideias Organizadas de Forma Compreensível",
       "Comprehensibly Organized Ideas",
       "Ideas exhaustivamente organizadas",
       "Idées intelligibles",
       "Разумно организованные идеи",
       "Verständlich geordnete Ideen",
-      "Ideias Organizadas Compreensíveis",
+      "Ideias Organizadas de Forma Compreensível",
       "Idee Organizzate in Modo Comprensibile",
       "일목요연하게 정리된 발상",
       "全面整理的點子",
@@ -3201,7 +3201,7 @@
       "Resíduo de Sangue Negro",
       "Black Blood Residue",
       "Residuo de sangre negra",
-      "Résidu de sang noir",
+      "Résidu de Sang noir",
       "Осадок черной крови",
       "Schwarzblutrückstände",
       "Resíduo de Sangue Negro",
@@ -3285,7 +3285,7 @@
       "Recipiente de Chama Sagrada",
       "Vessel of Sacred Flame",
       "Receptáculo de la Llama sagrada",
-      "Calice de flamme sacrée",
+      "Calice de Flamme sacrée",
       "Сосуд священного пламени",
       "Gefäß der Heiligen Flamme",
       "Recipiente de Chama Sagrada",
@@ -3327,7 +3327,7 @@
       "Padrão Sagrado Arathi",
       "Arathi Holy Standard",
       "Confalón sagrado de los arathi",
-      "Étendard sacré d’Arathi",
+      "Étendard sacré arathi",
       "Священный штандарт Арати",
       "Heilige Standarte der Arathi",
       "Padrão Sagrado Arathi",
@@ -3630,7 +3630,7 @@
       "金絲頸飾",
       "金线项圈"
     ],
-    "Media": "inv_10_dungeonjewelry_centaur_necklace_1_color1.jpg"
+    "Media": "inv_11_0_nerubian_necklace_01_color1.jpg"
   },
   {
     "TagId": 219218,
@@ -3714,7 +3714,7 @@
       "祭祀頌歌戒指",
       "仪式歌谣之戒"
     ],
-    "Media": "inv_10_dungeonjewelry_explorer_ring_2_color5.jpg"
+    "Media": "inv_11_0_arathor_ring_01_color1.jpg"
   },
   {
     "TagId": 219222,
@@ -5056,7 +5056,7 @@
       "Yeti Misterioso Lanciabile",
       "발로차 구슬 설인",
       "欠踹的雪花球雪人",
-      "可踢的雪球雪人"
+      "可踢的迷你雪人"
     ],
     "Media": "inv_misc_pelt_10.jpg"
   },
@@ -5268,7 +5268,7 @@
       "混亂斯卡汀核心",
       "熵能斯卡丁之核"
     ],
-    "Media": "ability_priest_voidentropy.jpg"
+    "Media": "inv_nullstone_void.jpg"
   },
   {
     "TagId": 219297,
@@ -5359,10 +5359,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Overclocked Gear-A-Rang Launcher",
+      "Overclocked Gear-a-Rang Launcher",
       "Lanzador engránaran revolucionado",
       "Lança-engrenangue Turbinado",
-      "Overclocked Gear-A-Rang Launcher",
+      "Overclocked Gear-a-Rang Launcher",
       "Lanzador de equiporang sobrecargado",
       "Lanceur d’écroumerang suralimenté",
       "Разогнанный метатель шестерангов",
@@ -5391,7 +5391,7 @@
       "Sinfonia de Canta-sucata",
       "Sinfonia del Cantascarti",
       "고물노래꾼의 교향곡",
-      "廢詠者的合音",
+      "廢詠者的和聲",
       "吟屑交响曲"
     ],
     "Media": "inv_10_blacksmithing_craftedoptional_engineering_color1.jpg"
@@ -5633,7 +5633,7 @@
     "Names": [
       null,
       "Ara-Kara Sacbrood",
-      "Ara-Kara Sacocría",
+      "Sacocría ara-kara",
       "Bolsa de Ninhada Ara-Kara",
       "Ara-Kara Sacbrood",
       "Saco eclosionador de Ara-Kara",
@@ -5709,7 +5709,7 @@
       "收割者的諭令",
       "收割者之诏"
     ],
-    "Media": "trade_archaeology_nerubian_obelisk.jpg"
+    "Media": "inv_11_0_dungeon_oldgodstatuepiece_purple.jpg"
   },
   {
     "TagId": 219318,
@@ -5751,7 +5751,7 @@
       "雙牙器具",
       "双牙军械"
     ],
-    "Media": "achievement_alliedrace_voidelf.jpg"
+    "Media": "inv_11_0_dungeon_fancybox_purple.jpg"
   },
   {
     "TagId": 219320,
@@ -5793,7 +5793,7 @@
       "卷鬚混合物",
       "卷须调制器"
     ],
-    "Media": "inv_alchemy_endlessflask_01.jpg"
+    "Media": "inv_11_0_dungeon_tentaclevial_red.jpg"
   },
   {
     "TagId": 219322,
@@ -5864,7 +5864,7 @@
     "Names": [
       null,
       "Band of Radiant Echoes",
-      "Sortija de Ecos Radiantes",
+      "Sortija de ecos radiantes",
       "Elo dos Ecos Radiantes",
       "Band of Radiant Echoes",
       "Sortija de ecos radiantes",
@@ -6435,7 +6435,7 @@
       "Quebra-leito",
       "Bedrock Breaker",
       "Rompedor de lecho de roca",
-      "Briseur de roche-mère",
+      "Briseur de roche mère",
       "Крушитель скал",
       "Grundgesteinbrecher",
       "Quebra-leito",
@@ -7200,7 +7200,7 @@
       "探究者飛船",
       "地下堡行者的飞船"
     ],
-    "Media": "ability_mount_gyrocoptorelite.jpg"
+    "Media": "inv_companiondelvesairship.jpg"
   },
   {
     "TagId": 219392,
@@ -8185,7 +8185,7 @@
       "Accendifiamma di Oskaer Sferzavale",
       "오스케어 데일클래쉬의 부싯깃 상자",
       "奧斯卡爾‧谷鬥的引火盒",
-      "欧思卡尔·戴克拉什的火绒箱"
+      "欧思卡尔·戴克拉什的火绒盒"
     ],
     "Media": "inv_misc_tinderboxclosed01.jpg"
   },
@@ -8227,7 +8227,7 @@
       "Accendifiamma di Idona Pietraveggente",
       "이도나 시어스톤의 부싯깃 상자",
       "伊多納‧預石的引火盒",
-      "艾多纳·希尔斯通的火绒箱"
+      "艾多纳·希尔斯通的火绒盒"
     ],
     "Media": "inv_misc_tinderboxholy01.jpg"
   },
@@ -9067,7 +9067,7 @@
       "Accendifiamma di Dalian Legaferro",
       "달리안 아이언링크의 부싯깃 상자",
       "達利安‧鐵鍊的引火盒",
-      "达里安·艾恩林克的火绒箱"
+      "达里安·艾恩林克的火绒盒"
     ],
     "Media": "inv_misc_tinderboxclosed01.jpg"
   },
@@ -9151,7 +9151,7 @@
       "Accendifiamma Onorario",
       "명예로운 부싯깃 상자",
       "名譽引火盒",
-      "名誉火绒箱"
+      "名誉火绒盒"
     ],
     "Media": "inv_misc_tinderboxholy01.jpg"
   },
@@ -14307,21 +14307,21 @@
     "TagType": 21,
     "Names": [
       null,
-      "Cured Terracotta Warglaive [Update Appearance]",
-      "Guja de guerra de terracota curada [Actualizar apariencia]",
-      "Glaive de Guerra de Terracota Curada [Aparência de Atualização]",
-      "Cured Terracotta Warglaive [Update Appearance]",
-      "Guja de guerra de terracota curtida [actualizar apariencia]",
-      "Glaive de guerre en terre cuite traitée [Mettre l’apparence à jour]",
-      "Боевой клинок из затвердевшей терракоты [обновить внешний вид]",
-      "Geheilte Terrakottakriegsgleve [Update Appearance]",
-      "Glaive de Guerra de Terracota Curada [Aparência de Atualização]",
+      "Cured Terracotta Warglaive",
+      "Guja de guerra de terracota curada",
+      "Glaive de Guerra de Terracota Curada",
+      "Cured Terracotta Warglaive",
+      "Guja de guerra de terracota curtida",
+      "Glaive de guerre en terre cuite traitée",
+      "Боевой клинок из затвердевшей терракоты",
+      "Geheilte Terrakottakriegsgleve",
+      "Glaive de Guerra de Terracota Curada",
       "Lame da Guerra di Terracotta Indurita",
       "보존된 점토 전투검",
-      "復原粗陶戰刃[更新外觀]",
+      "復原粗陶戰刃",
       "风干陶瓦战刃"
     ],
-    "Media": "inv_glaive_1h_revendrethquest_b_01.jpg"
+    "Media": "inv_glaive_1h_arathoroutdoor_d_01.jpg"
   },
   {
     "TagId": 219804,
