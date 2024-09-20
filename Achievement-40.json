@@ -1936,63 +1936,63 @@
     "TagType": 20,
     "Names": [
       null,
-      "Harbinger of the Carved (TODO: Fix Icon)",
-      "Emisaria de lo tallado (TODO: Fix Icon)",
-      "Emissário dos Entalhados (PENDENTE: consertar ícone)",
-      "Harbinger of the Carved (TODO: Fix Icon)",
-      "Presagista tallada",
-      "Messagère gravée",
-      "Резные гербы (ЗАДАЧА: исправить значок)",
-      "Vorbote der Runenbeschriebenen (TODO: Fix Icon)",
-      "Emissário dos Entalhados (PENDENTE: consertar ícone)",
-      "Araldo intagliato",
-      "각인된 전령",
-      "雕刻先驅者(TODO：修正圖示)",
-      "蚀刻先驱"
+      "Harbinger of the Weathered",
+      "Emisaria de lo deteriorado",
+      "Emissário dos Desgastados",
+      "Harbinger of the Weathered",
+      "Presagista de los desgastados",
+      "Messager ou messagère des abîmés",
+      "Предвестник Истертых",
+      "Vorbote der Verwitterten",
+      "Emissário dos Desgastados",
+      "Aralda dei logori",
+      "마모된 전령",
+      "陳舊使者",
+      "风化先驱"
     ],
-    "Media": "inv_misc_questionmark.jpg"
+    "Media": "inv_crestupgrade_xalatath_weathered.jpg"
   },
   {
     "TagId": 40115,
     "TagType": 20,
     "Names": [
       null,
-      "Harbinger of the Runed (TODO: Fix Icon)",
-      "Emisaria de lo rúnico (TODO: Fix Icon)",
-      "Emissário dos Rúnicos (PENDENTE: consertar ícone)",
-      "Harbinger of the Runed (TODO: Fix Icon)",
-      "Presagista rúnica",
-      "Messagère runique",
-      "Рунические гербы (ЗАДАЧА: исправить значок)",
-      "Vorbote der Runenverzierten (TODO: Fix Icon)",
-      "Emissário dos Rúnicos (PENDENTE: consertar ícone)",
-      "Araldo runico",
-      "룬새김 전령",
-      "符文先驅者(TODO：修正圖示)",
-      "符文先驱"
+      "Harbinger of the Carved",
+      "Emisaria de lo tallado",
+      "Emissário dos Entalhados",
+      "Harbinger of the Carved",
+      "Presagista de los tallados",
+      "Messager ou messagère de la gravure",
+      "Предвестник Резных",
+      "Vorbote der Geschnitzten",
+      "Emissário dos Entalhados",
+      "Aralda degli intagliati",
+      "각인된 전령",
+      "雕刻使者",
+      "蚀刻先驱"
     ],
-    "Media": "inv_misc_questionmark.jpg"
+    "Media": "inv_crestupgrade_xalatath_carved.jpg"
   },
   {
     "TagId": 40118,
     "TagType": 20,
     "Names": [
       null,
-      "Harbinger of the Gilded (TODO: Fix Icon)",
-      "Emisaria de lo dorado (TODO: Fix Icon)",
-      "Emissário dos Dourados (PENDENTE: consertar ícone)",
-      "Harbinger of the Gilded (TODO: Fix Icon)",
-      "Presagista dorada",
-      "Messagère dorée",
-      "Позолоченные гербы (ЗАДАЧА: исправить значок)",
-      "Vorbote der Vergoldeten (TODO: Fix Icon)",
-      "Emissário dos Dourados (PENDENTE: consertar ícone)",
-      "Araldo dorato",
-      "금빛 전령",
-      "鍍金先驅者(TODO：修正圖示)",
-      "鎏金先驱"
+      "Harbinger of the Runed",
+      "Emisaria de lo rúnico",
+      "Emissário dos Rúnicos",
+      "Harbinger of the Runed",
+      "Presagista de los con runas",
+      "Messager ou messagère des runes",
+      "Предвестник Рунических",
+      "Vorbote der Runenverzierten",
+      "Emissário dos Rúnicos",
+      "Aralda dei runici",
+      "룬새김 전령",
+      "符文使者",
+      "符文先驱"
     ],
-    "Media": "inv_misc_questionmark.jpg"
+    "Media": "inv_crestupgrade_xalatath_runed.jpg"
   },
   {
     "TagId": 40121,
@@ -3672,7 +3672,7 @@
       "奈幽巴宮殿",
       "尼鲁巴尔王宫"
     ],
-    "Media": "inv_achievement_raidnerubian_queenansurek.jpg"
+    "Media": "achievement_zone_azjkahet.jpg"
   },
   {
     "TagId": 40245,
@@ -3693,7 +3693,7 @@
       "英雄：奈幽巴宮殿",
       "尼鲁巴尔王宫（英雄难度）"
     ],
-    "Media": "inv_achievement_raidnerubian_queenansurek.jpg"
+    "Media": "achievement_zone_azjkahet.jpg"
   },
   {
     "TagId": 40246,
@@ -3714,7 +3714,7 @@
       "傳奇：奈幽巴宮殿",
       "尼鲁巴尔王宫（史诗难度）"
     ],
-    "Media": "inv_achievement_raidnerubian_queenansurek.jpg"
+    "Media": "achievement_zone_azjkahet.jpg"
   },
   {
     "TagId": 40247,
@@ -13585,6 +13585,48 @@
       "我们再度崛起"
     ],
     "Media": "ui_notoriety_theweaver.jpg"
+  },
+  {
+    "TagId": 40910,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Successfully Stress Test CN Realms",
+      "Prueba de servidores exitosa de los reinos en CN.",
+      "Realizar teste de estresse nos reinos da China",
+      "Successfully Stress Test CN Realms",
+      "Prueba de estrés de los reinos de China con éxito",
+      "Réussite du test de charge des royaumes chinois",
+      "Стресс-тестирование серверов в Китае",
+      "Testet die Belastung der CN-Realms",
+      "Realizar teste de estresse nos reinos da China",
+      "Test da sforzo dei reami CN riuscito",
+      "중국 서버 스트레스 테스트 성공 기념",
+      "中國伺服器壓力測試圓滿完成",
+      "炸机勇士"
+    ],
+    "Media": "achievement_guildperk_everybodysfriend.jpg"
+  },
+  {
+    "TagId": 40939,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Harbinger of the Gilded",
+      "Emisaria de lo dorado",
+      "Emissário dos Dourados",
+      "Harbinger of the Gilded",
+      "Presagista de los dorados",
+      "Messager ou messagère de la dorure",
+      "Предвестник Позолоченных",
+      "Vorbote der Vergoldeten",
+      "Emissário dos Dourados",
+      "Aralda dei dorati",
+      null,
+      "鍍金使者",
+      null
+    ],
+    "Media": "inv_crestupgrade_xalatath_gilded.jpg"
   },
   {
     "TagId": 40974,
