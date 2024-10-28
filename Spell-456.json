@@ -286,7 +286,7 @@
       "Участник рыбоборья",
       "Festflitzer",
       "Pescador Presto",
-      "Saetta della Gara",
+      "Gara di Pesca",
       "대회 질주자",
       "大賽突進者",
       "钓鱼大赛猛冲者"
@@ -670,6 +670,27 @@
       "风暴喷涌"
     ],
     "Media": "spell_shaman_thunderstorm.jpg"
+  },
+  {
+    "TagId": 456050,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica",
+      "[DNT] Test The Botanica"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 456051,
@@ -1742,6 +1763,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 456105,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Endless Rage",
+      "Ira infinita",
+      "Raiva Infinita",
+      "Endless Rage",
+      "Ira infinita",
+      "Rage infinie",
+      "Бесконечная ярость",
+      "Endlose Wut",
+      "Raiva Infinita",
+      "Rabbia Infinita",
+      "끝없는 분노",
+      "無盡怒氣",
+      "无尽怒气"
+    ],
+    "Media": "spell_nature_shamanrage.jpg"
+  },
+  {
+    "TagId": 456106,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Endless Rage",
+      "Ira infinita",
+      "Raiva Infinita",
+      "Endless Rage",
+      "Ira infinita",
+      "Rage infinie",
+      "Бесконечная ярость",
+      "Endlose Wut",
+      "Raiva Infinita",
+      "Rabbia Infinita",
+      "끝없는 분노",
+      "無盡怒氣",
+      "无尽怒气"
+    ],
+    "Media": "spell_nature_shamanrage.jpg"
+  },
+  {
+    "TagId": 456107,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Endless Rage",
+      "Ira infinita",
+      "Raiva Infinita",
+      "Endless Rage",
+      "Ira infinita",
+      "Rage infinie",
+      "Бесконечная ярость",
+      "Endlose Wut",
+      "Raiva Infinita",
+      "Rabbia Infinita",
+      "끝없는 분노",
+      "無盡怒氣",
+      "无尽怒气"
+    ],
+    "Media": "spell_nature_shamanrage.jpg"
+  },
+  {
+    "TagId": 456108,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Endless Rage",
+      "Ira infinita",
+      "Raiva Infinita",
+      "Endless Rage",
+      "Ira infinita",
+      "Rage infinie",
+      "Бесконечная ярость",
+      "Endlose Wut",
+      "Raiva Infinita",
+      "Rabbia Infinita",
+      "끝없는 분노",
+      "無盡怒氣",
+      "无尽怒气"
+    ],
+    "Media": "spell_shadow_unholyfrenzy.jpg"
+  },
+  {
+    "TagId": 456109,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Seethe",
+      "Hervir de furia",
+      "Ebulição",
+      "Seethe",
+      "Hervor",
+      "Bouillonnement de rage",
+      "Кипение",
+      "Sieden",
+      "Ebulição",
+      "Agitazione",
+      "노여움",
+      "滾沸",
+      "沸腾"
+    ],
+    "Media": "sha_spell_fire_fireball02.jpg"
+  },
+  {
     "TagId": 456110,
     "TagType": 26,
     "Names": [
@@ -1782,6 +1908,48 @@
       "穿刺"
     ],
     "Media": "ability_earthen_pillar.jpg"
+  },
+  {
+    "TagId": 456112,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Growing Anger",
+      "Cólera creciente",
+      "Ira Crescente",
+      "Growing Anger",
+      "Ira creciente",
+      "Colère grandissante",
+      "Растущий гнев",
+      "Wachsender Zorn",
+      "Ira Crescente",
+      "Rabbia Crescente",
+      "커지는 분노",
+      "積升怒氣",
+      "渐燃之怒"
+    ],
+    "Media": "spell_misc_emotionangry.jpg"
+  },
+  {
+    "TagId": 456113,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Growing Anger",
+      "Cólera creciente",
+      "Ira Crescente",
+      "Growing Anger",
+      "Ira creciente",
+      "Colère grandissante",
+      "Растущий гнев",
+      "Wachsender Zorn",
+      "Ira Crescente",
+      "Rabbia Crescente",
+      "커지는 분노",
+      "積升怒氣",
+      "渐燃之怒"
+    ],
+    "Media": "spell_misc_emotionangry.jpg"
   },
   {
     "TagId": 456114,
@@ -2729,6 +2897,27 @@
     "Media": "inv_nzothfish.jpg"
   },
   {
+    "TagId": 456159,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Multi-Shot",
+      "Multidisparo",
+      "Tiro Múltiplo",
+      "Multi-Shot",
+      "Multidisparo",
+      "Flèches multiples",
+      "Залп",
+      "Mehrfachschuss",
+      "Tiro Múltiplo",
+      "Tiro Multiplo",
+      "일제 사격",
+      "多重射擊",
+      "多重射击"
+    ],
+    "Media": "ability_upgrademoonglaive.jpg"
+  },
+  {
     "TagId": 456160,
     "TagType": 26,
     "Names": [
@@ -3422,6 +3611,48 @@
     "Media": "spell_fire_felfireward.jpg"
   },
   {
+    "TagId": 456206,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sha of Anger Skybox",
+      "Caja celeste de Sha de la ira",
+      "Caixa-de-céu do Sha da Raiva",
+      "Sha of Anger Skybox",
+      "Caja celeste del sha de la ira",
+      "Tribune du sha de la colère",
+      "Небо Ша Злости",
+      "Skybox: Sha des Zorns",
+      "Caixa-de-céu do Sha da Raiva",
+      "Visuale Sha della Rabbia",
+      "분노의 샤 관람석",
+      "憤怒之煞天體盒",
+      "怒之煞天空盒"
+    ],
+    "Media": "spell_yorsahj_bloodboil_black.jpg"
+  },
+  {
+    "TagId": 456207,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sha of Anger Skybox",
+      "Caja celeste de Sha de la ira",
+      "Caixa-de-céu do Sha da Raiva",
+      "Sha of Anger Skybox",
+      "Caja celeste del sha de la ira",
+      "Tribune du sha de la colère",
+      "Небо Ша Злости",
+      "Skybox: Sha des Zorns",
+      "Caixa-de-céu do Sha da Raiva",
+      "Visuale Sha della Rabbia",
+      "분노의 샤 관람석",
+      "憤怒之煞天體盒",
+      "怒之煞天空盒"
+    ],
+    "Media": "spell_yorsahj_bloodboil_black.jpg"
+  },
+  {
     "TagId": 456211,
     "TagType": 26,
     "Names": [
@@ -3941,7 +4172,7 @@
       "Gêmeo Mau",
       "Gemello Malvagio",
       "악의 분신",
-      "邪惡雙子",
+      "邪惡分身",
       "邪恶双子"
     ],
     "Media": "trade_engineering.jpg"
@@ -3962,7 +4193,7 @@
       "Gêmeo Mau",
       "Gemello Malvagio",
       "악의 분신",
-      "邪惡雙子",
+      "邪惡分身",
       "邪恶双子"
     ],
     "Media": "trade_engineering.jpg"
@@ -4724,6 +4955,27 @@
     "Media": "ability_shawaterelemental_reform.jpg"
   },
   {
+    "TagId": 456281,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unleashed Wrath",
+      "Cólera desatada",
+      "Cólera Liberada",
+      "Unleashed Wrath",
+      "Cólera desatada",
+      "Courroux déchaîné",
+      "Безудержная ярость",
+      "Entfesselter Zorn",
+      "Cólera Liberada",
+      "Ira Scatenata",
+      "분노 표출",
+      "無拘烈怒",
+      "释放愤怒"
+    ],
+    "Media": "sha_spell_fire_bluerainoffire.jpg"
+  },
+  {
     "TagId": 456282,
     "TagType": 26,
     "Names": [
@@ -4743,6 +4995,27 @@
       "[DNT] Carrying Supplies, Delivery Aura"
     ],
     "Media": "inv_box_01.jpg"
+  },
+  {
+    "TagId": 456283,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unleashed Wrath",
+      "Cólera desatada",
+      "Cólera Liberada",
+      "Unleashed Wrath",
+      "Cólera desatada",
+      "Courroux déchaîné",
+      "Безудержная ярость",
+      "Entfesselter Zorn",
+      "Cólera Liberada",
+      "Ira Scatenata",
+      "분노 표출",
+      "無拘烈怒",
+      "释放愤怒"
+    ],
+    "Media": "sha_spell_fire_bluerainoffire.jpg"
   },
   {
     "TagId": 456284,
@@ -4869,6 +5142,27 @@
       "悲剧演出完成"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 456291,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Aggressive Behavior",
+      "Comportamiento agresivo",
+      "Comportamento Agressivo",
+      "Aggressive Behavior",
+      "Comportamiento agresivo",
+      "Comportement agressif",
+      "Агрессия",
+      "Aggressives Verhalten",
+      "Comportamento Agressivo",
+      "Comportamento Aggressivo",
+      "공격적인 태도",
+      "侵略行為",
+      "攻击行为"
+    ],
+    "Media": "spell_misc_emotionangry.jpg"
   },
   {
     "TagId": 456292,
@@ -5927,13 +6221,13 @@
       null,
       "Surging Totem",
       "Tótem volátil",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Surging Totem",
       "Tótem emergente",
       "Totem déferlant",
       "Пульсирующий тотем",
       "Wogendes Totem",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Totem Crescente",
       "쇄도하는 토템",
       "翻湧圖騰",
@@ -5990,13 +6284,13 @@
       null,
       "Surging Totem",
       "Tótem volátil",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Surging Totem",
       "Tótem emergente",
       "Totem déferlant",
       "Пульсирующий тотем",
       "Wogendes Totem",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Totem Crescente",
       "쇄도하는 토템",
       "翻湧圖騰",
@@ -7285,6 +7579,27 @@
     "Media": "trade_alchemy_potiond2.jpg"
   },
   {
+    "TagId": 456443,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura"
+    ],
+    "Media": "inv_misc_wow15year_balloons_blue.jpg"
+  },
+  {
     "TagId": 456444,
     "TagType": 26,
     "Names": [
@@ -7304,6 +7619,27 @@
       "一瓶肮脏胆汁"
     ],
     "Media": "trade_alchemy_potiond2.jpg"
+  },
+  {
+    "TagId": 456445,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vial of Poison",
+      "Vial de veneno",
+      "Ampola de Veneno",
+      "Vial of Poison",
+      "Vial de veneno",
+      "Fiole de poison",
+      "Флакон яда",
+      "Giftphiole",
+      "Ampola de Veneno",
+      "Fiala di Veleno",
+      "맹독의 약병",
+      "毒藥之瓶",
+      "毒药之瓶"
+    ],
+    "Media": "spell_nature_abolishmagic.jpg"
   },
   {
     "TagId": 456447,
@@ -8098,7 +8434,7 @@
       "KC: Evocar Reforço do Gêmeo Mau",
       "U: Evocazione: Copia del Gemello Malvagio",
       "KC: 악의 분신 소환 보조",
-      "KC：召喚邪惡雙子援軍",
+      "KC：召喚邪惡分身援軍",
       "KC: Summon Evil Twin Backup"
     ],
     "Media": "trade_engineering.jpg"
@@ -9406,6 +9742,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 456601,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Death and Decay",
+      "Muerte y descomposición",
+      "Morte e Decomposição",
+      "Death and Decay",
+      "Muerte y descomposición",
+      "Mort et décomposition",
+      "Смерть и разложение",
+      "Tod und Verfall",
+      "Morte e Decomposição",
+      "Morte e Distruzione",
+      "죽음과 부패",
+      "死亡凋零",
+      "枯萎凋零"
+    ],
+    "Media": "spell_shadow_deathanddecay.jpg"
+  },
+  {
     "TagId": 456603,
     "TagType": 26,
     "Names": [
@@ -9700,6 +10057,27 @@
     "Media": "ability_siege_engineer_magnetic_crush.jpg"
   },
   {
+    "TagId": 456618,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]",
+      "Winner Announcement [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 456619,
     "TagType": 26,
     "Names": [
@@ -9971,6 +10349,27 @@
       "皇室缠网"
     ],
     "Media": "inv_ability_web_nova.jpg"
+  },
+  {
+    "TagId": 456639,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bitter Thoughts",
+      "Pensamientos amargos",
+      "Pensamentos Amargos",
+      "Bitter Thoughts",
+      "Pensamientos amargos",
+      "Amères pensées",
+      "Горькие мысли",
+      "Bittere Gedanken",
+      "Pensamentos Amargos",
+      "Pensieri Tristi",
+      "씁쓸한 생각",
+      "仇怨思緒",
+      "艰涩思维"
+    ],
+    "Media": "spell_misc_emotionsad.jpg"
   },
   {
     "TagId": 456640,
@@ -10624,6 +11023,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 456674,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace",
+      "[DNT] Test Magisters' Terrace"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 456675,
     "TagType": 26,
     "Names": [
@@ -10706,6 +11126,27 @@
       "死亡"
     ],
     "Media": "spell_shadow_raisedead.jpg"
+  },
+  {
+    "TagId": 456680,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Magic Dampening Field",
+      "Campo de atenuación de magia",
+      "Campo de Atenuação Mágica",
+      "Magic Dampening Field",
+      "Campo de atenuación de magia",
+      "Champ d’atténuation de la magie",
+      "Поле ослабления магии",
+      "Magisches Dämpfungsfeld",
+      "Campo de Atenuação Mágica",
+      "Campo d'Indebolimento Magico",
+      "마법 감쇠장",
+      "抑制魔法力場",
+      "魔法抑制力场"
+    ],
+    "Media": "spell_arcane_arcane01.jpg"
   },
   {
     "TagId": 456681,
@@ -11084,6 +11525,27 @@
       "暴怒"
     ],
     "Media": "ability_warrior_rampage.jpg"
+  },
+  {
+    "TagId": 456705,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance",
+      "[DNT] Codex Appearance"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 456706,
@@ -12703,6 +13165,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 456802,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex",
+      "[DNT] Cosmetic Channel - Chromie Channels at Codex"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 456803,
     "TagType": 26,
     "Names": [
@@ -12850,6 +13333,27 @@
     "Media": "inv_cosmicvoid_nova.jpg"
   },
   {
+    "TagId": 456816,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Power Word: Shield",
+      "Palabra de poder: escudo",
+      "Palavra de Poder: Escudo",
+      "Power Word: Shield",
+      "Palabra de poder: escudo",
+      "Mot de pouvoir\u00A0: Bouclier",
+      "Слово силы: Щит",
+      "Machtwort: Schild",
+      "Palavra de Poder: Escudo",
+      "Parola del Potere: Scudo",
+      "신의 권능: 보호막",
+      "真言術：盾",
+      "真言术：盾"
+    ],
+    "Media": "spell_holy_powerwordshield.jpg"
+  },
+  {
     "TagId": 456817,
     "TagType": 26,
     "Names": [
@@ -12892,6 +13396,27 @@
     "Media": "spell_shaman_earthquake.jpg"
   },
   {
+    "TagId": 456819,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable",
+      "[DNT] Conversation: Codex Unstable"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 456820,
     "TagType": 26,
     "Names": [
@@ -12905,7 +13430,7 @@
       "Совместная поездка",
       "Mitreiten",
       "Companhia de Montaria",
-      "Cavalcata",
+      "Viaggio in Compagnia",
       "같이 타기",
       "共乘",
       "一起骑乘"
@@ -12974,6 +13499,69 @@
       "梆！"
     ],
     "Media": "inv_hammer_09.jpg"
+  },
+  {
+    "TagId": 456825,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback",
+      "[DNT] Conversation: Codex Break Knockback"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 456827,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex",
+      "[DNT] Conversation: Cancel Chromie Cast at Codex"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 456828,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic",
+      "[DNT] Conversation: Cancel Codex Unstable Cosmetic"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 456829,
@@ -13121,6 +13709,27 @@
       "[DNT] Skardyn Kill Counter"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 456838,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flame Strike",
+      "Golpe de llamas",
+      "Golpe Flamejante",
+      "Flame Strike",
+      "Golpe de llamas",
+      "Frappe de flammes",
+      "Огненный столб",
+      "Flammenstoß",
+      "Golpe Flamejante",
+      "Assalto delle Fiamme",
+      "불기둥",
+      "烈焰風暴",
+      "烈焰打击"
+    ],
+    "Media": "spell_fire_selfdestruct.jpg"
   },
   {
     "TagId": 456841,
@@ -13331,6 +13940,27 @@
       "向日葵先生的茶"
     ],
     "Media": "inv_misc_food_vendor_roastedbarlytea.jpg"
+  },
+  {
+    "TagId": 456857,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals",
+      "[DNT] Necropolis Visuals"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 456858,
@@ -14572,6 +15202,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 456933,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Liquid Rage",
+      "Ira líquida",
+      "Raiva Líquida",
+      "Liquid Rage",
+      "Ira líquida",
+      "Rage liquide",
+      "Текучая ярость",
+      "Flüssiger Zorn",
+      "Raiva Líquida",
+      "Rabbia Liquida",
+      "맹맹한 분노",
+      "液態之怒",
+      "流体之怒"
+    ],
+    "Media": "spell_yorsahj_bloodboil_black.jpg"
+  },
+  {
     "TagId": 456936,
     "TagType": 26,
     "Names": [
@@ -14822,6 +15473,27 @@
       "[DNT] Scouting Map Zone 1 Abandon"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 456954,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gift of the Sun King",
+      "Regalo del Rey del Sol",
+      "Dádiva do Rei Sol",
+      "Gift of the Sun King",
+      "Regalo del Rey del Sol",
+      "Don du roi-soleil",
+      "Дар Солнечного короля",
+      "Geschenk des Sonnenkönigs",
+      "Dádiva do Rei Sol",
+      "Dono del Re del Sole",
+      "태양왕의 선물",
+      "太陽王的贈禮",
+      "太阳之王的恩赐"
+    ],
+    "Media": "warlock_ bloodstone.jpg"
   },
   {
     "TagId": 456955,

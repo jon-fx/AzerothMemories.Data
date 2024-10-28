@@ -10824,13 +10824,13 @@
     "TagType": 31,
     "Names": [
       null,
-      "Forged Marshall %s",
+      "Forged Marshal %s",
       "Mariscal forjado %s",
       "Marechal Forjado %s",
-      "Forged Marshall %s",
+      "Forged Marshal %s",
       "Mariscal Forjado %s",
       "Maréchal forgé %s",
-      "Закаленный маршал %s",
+      "Кованый маршал %s",
       "Geschmiedeter Marschall %s",
       "Marechal Forjado %s",
       "Maresciallo Forgiato %s",
@@ -10989,7 +10989,7 @@
       "Carregador %s",
       "Deephauler %s",
       "Cargahondo %s",
-      "Abondabimien %s",
+      "Abondabîmien %s",
       "Златоносец %s",
       "Tiefbeuter %s",
       "Carregador %s",
@@ -11120,6 +11120,26 @@
     ]
   },
   {
+    "TagId": 846,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Detective %s",
+      "Detective %s",
+      "Detetive %s",
+      "Detective %s",
+      "Detective %s",
+      "Inspecteur %s",
+      "Детектив %s",
+      "Detektiv %s",
+      "Detetive %s",
+      "Investigatore %s",
+      "명탐정 %s",
+      "偵探%s",
+      "侦探 %s"
+    ]
+  },
+  {
     "TagId": 847,
     "TagType": 31,
     "Names": [
@@ -11220,6 +11240,46 @@
     ]
   },
   {
+    "TagId": 852,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Grizzly Hills Hiker %s",
+      "Excursionista de las Colinas Pardas %s",
+      "Trilheiro da Serra Gris %s",
+      "Grizzly Hills Hiker %s",
+      "%s, Montañista de las Colinas Pardas",
+      "Randonneur des Grisonnes %s",
+      "%s, турист Седых холмов",
+      "Wanderer der Grizzlyhügel %s",
+      "Trilheiro da Serra Gris %s",
+      "Escursionista dei Colli Bradi %s",
+      "회색 구릉지 여행자 %s",
+      "灰白之丘健行者%s",
+      "灰熊丘陵远足者 %s"
+    ]
+  },
+  {
+    "TagId": 853,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Plaguelands Survivor %s",
+      "Sobreviviente de Tierras de la Peste %s",
+      "Sobrevivente das Terras Pestilentas %s",
+      "Plaguelands Survivor %s",
+      "%s, Superviviente de las Tierras de la Peste",
+      "Rescapé des Maleterres %s",
+      "%s, выживший из Чумных земель",
+      "Überlebender der Pestländer %s",
+      "Sobrevivente das Terras Pestilentas %s",
+      "Sopravvissuto alle Terre Infette %s",
+      "역병지대 생존자 %s",
+      "瘟疫之地倖存者%s",
+      "瘟疫之地生还者 %s"
+    ]
+  },
+  {
     "TagId": 854,
     "TagType": 31,
     "Names": [
@@ -11237,6 +11297,286 @@
       "단련된 %s",
       "淬鍊者%s",
       "淬炼者 %s"
+    ]
+  },
+  {
+    "TagId": 856,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Classic Enthusiast %s",
+      "Entusiasta de Classic %s",
+      "Entusiasta do Classic %s",
+      "Classic Enthusiast %s",
+      "%s, Entusiasta Clásico",
+      "Féru de Classic %s",
+      "%s, любитель Classic",
+      "Enthusiast von Classic %s",
+      "Entusiasta do Classic %s",
+      "Entusiasta di Classic %s",
+      "오리지널 애호가 %s",
+      "艾澤拉斯愛好者%s",
+      "经典旧世爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 857,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Outland Enthusiast %s",
+      "Entusiasta de Terrallende %s",
+      "Entusiasta de Terralém %s",
+      "Outland Enthusiast %s",
+      "%s, Entusiasta de Terrallende",
+      "Féru de l’Outreterre %s",
+      "%s, любитель Запределья",
+      "Enthusiast der Scherbenwelt %s",
+      "Entusiasta de Terralém %s",
+      "Entusiasta delle Terre Esterne %s",
+      "아웃랜드 애호가 %s",
+      "外域愛好者%s",
+      "外域爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 858,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Northrend Enthusiast %s",
+      "Entusiasta de Rasganorte %s",
+      "Entusiasta de Nortúndria %s",
+      "Northrend Enthusiast %s",
+      "%s, Entusiasta de Rasganorte",
+      "Féru du Norfendre %s",
+      "%s, любитель Нордскола",
+      "Enthusiast von Nordend %s",
+      "Entusiasta de Nortúndria %s",
+      "Entusiasta di Nordania %s",
+      "노스렌드 애호가 %s",
+      "北裂境愛好者%s",
+      "诺森德爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 859,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Cataclysm Enthusiast %s",
+      "Entusiasta de Cataclysm %s",
+      "Entusiasta do Cataclismo %s",
+      "Cataclysm Enthusiast %s",
+      "Entusiasta del Cataclismo %s",
+      "Amateur du Cataclysme %s",
+      "%s, любитель Катаклизма",
+      "Enthusiast des Kataklysmus %s",
+      "Entusiasta do Cataclismo %s",
+      "Entusiasta di Cataclysm %s",
+      "대격변 애호가 %s",
+      "大災變愛好者%s",
+      "大灾变爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 860,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Pandaria Enthusiast %s",
+      "Entusiasta de Pandaria %s",
+      "Entusiasta de Pandária %s",
+      "Pandaria Enthusiast %s",
+      "%s, Entusiasta de Pandaria",
+      "Féru de la Pandarie %s",
+      "%s, любитель Пандарии",
+      "Enthusiast von Pandaria %s",
+      "Entusiasta de Pandária %s",
+      "Entusiasta di Pandaria %s",
+      "판다리아 애호가 %s",
+      "潘達利亞愛好者%s",
+      "潘达利亚爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 861,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Draenor Enthusiast %s",
+      "Entusiasta de Draenor %s",
+      "Entusiasta de Draenor %s",
+      "Draenor Enthusiast %s",
+      "%s, Entusiasta de Draenor",
+      "Féru de Draenor %s",
+      "%s, любитель Дренора",
+      "Enthusiast von Draenor %s",
+      "Entusiasta de Draenor %s",
+      "Entusiasta di Draenor %s",
+      "드레노어 애호가 %s",
+      "德拉諾愛好者%s",
+      "德拉诺爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 862,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Broken Isles Enthusiast %s",
+      "Entusiasta de las Islas Quebradas %s",
+      "Entusiasta das Ilhas Partidas %s",
+      "Broken Isles Enthusiast %s",
+      "%s, Entusiasta de las Islas Abruptas",
+      "Féru des îles Brisées %s",
+      "%s, любитель Расколотых островов",
+      "Enthusiast der Verheerten Inseln %s",
+      "Entusiasta das Ilhas Partidas %s",
+      "Entusiasta delle Isole Disperse %s",
+      "부서진 섬 애호가 %s",
+      "破碎群島愛好者%s",
+      "破碎群岛爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 863,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Zuldazar Enthusiast %s",
+      "Entusiasta de Zuldazar %s",
+      "Entusiasta de Zuldazar %s",
+      "Zuldazar Enthusiast %s",
+      "%s, Entusiasta de Zuldazar",
+      "Féru de Zuldazar %s",
+      "%s, любитель Зулдазара",
+      "Enthusiast von Zuldazar %s",
+      "Entusiasta de Zuldazar %s",
+      "Entusiasta di Zuldazar %s",
+      "줄다자르 애호가 %s",
+      "祖達薩愛好者%s",
+      "祖达萨爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 864,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Kul Tiras Enthusiast %s",
+      "Entusiasta de Kul Tiras %s",
+      "Entusiasta de Kul Tiraz %s",
+      "Kul Tiras Enthusiast %s",
+      "%s, Entusiasta de Kul Tiras",
+      "Féru de Kul Tiras %s",
+      "%s, любитель Кул-Тираса",
+      "Enthusiast von Kul Tiras %s",
+      "Entusiasta de Kul Tiraz %s",
+      "Entusiasta di Kul Tiras %s",
+      "쿨 티라스 애호가 %s",
+      "庫爾提拉斯愛好者%s",
+      "库尔提拉斯爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 865,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Shadowlands Enthusiast %s",
+      "Entusiasta de Shadowlands %s",
+      "Entusiasta das Terras Sombrias %s",
+      "Shadowlands Enthusiast %s",
+      "%s, Entusiasta de las Tierras Sombrías",
+      "Féru de l’Ombreterre %s",
+      "%s, любитель Темных Земель",
+      "Enthusiast der Schattenlande %s",
+      "Entusiasta das Terras Sombrias %s",
+      "Entusiasta delle Terretetre %s",
+      "어둠땅 애호가 %s",
+      "暗影之境愛好者%s",
+      "暗影界爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 866,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Dragon Isles Enthusiast %s",
+      "Entusiasta de las Islas Dragón %s",
+      "Entusiasta das Ilhas do Dragão %s",
+      "Dragon Isles Enthusiast %s",
+      "%s, Entusiasta de las Islas Dragón",
+      "Féru des îles aux Dragons %s",
+      "%s, любитель Драконьих островов",
+      "Enthusiast der Dracheninseln %s",
+      "Entusiasta das Ilhas do Dragão %s",
+      "Entusiasta delle Isole dei Draghi %s",
+      "용의 섬 애호가 %s",
+      "巨龍群島愛好者%s",
+      "巨龙群岛爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 869,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Khaz Algar Racer %s",
+      "Velocista de Khaz Algar %s",
+      "Corredor de Khaz Algar %s",
+      "Khaz Algar Racer %s",
+      "Corredor de Khaz Algar %s",
+      "Pilote de Khaz Algar %s",
+      "%s, гонщик Каз Алгара",
+      "Reiter von Khaz Algar %s",
+      "Corredor de Khaz Algar %s",
+      "Corridore di Khaz Algar %s",
+      "카즈 알가르 경주자 %s",
+      "卡茲阿爾加競速騎師%s",
+      "卡兹阿加竞速者 %s"
+    ]
+  },
+  {
+    "TagId": 870,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Molten Core Prospector %s",
+      "Prospector del Núcleo de Magma %s",
+      "Prospector do Núcleo Derretido %s",
+      "Molten Core Prospector %s",
+      "Prospector del Núcleo de Magma %s",
+      "Prospecteur du Cœur du Magma %s",
+      "Старатель Огненных Недр %s",
+      "Schürfer des geschmolzenen Kerns %s",
+      "Prospector do Núcleo Derretido %s",
+      "Prospettore del Nucleo Ardente %s",
+      "화산 심장부 발굴단원 %s",
+      "熔火之心勘察員%s",
+      "熔火之心勘探者 %s"
+    ]
+  },
+  {
+    "TagId": 871,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Karazhan Graduate %s",
+      "Graduado de Karazhan %s",
+      "Graduado Karazhan %s",
+      "Karazhan Graduate %s",
+      "Graduado de Karazhan %s",
+      "%s, diplômé de Karazhan",
+      "Выпускник Каражана %s",
+      "Karazhanabsolvent %s",
+      "Graduado Karazhan %s",
+      "Laureato di Karazhan %s",
+      "카라잔 졸업생 %s",
+      "卡拉贊畢業生%s",
+      "卡拉赞毕业 %s"
     ]
   }
 ]

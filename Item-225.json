@@ -1,5 +1,782 @@
 [
   {
+    "TagId": 225000,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Stormrage Chestguard",
+      "Coselete de Tempestira eterno",
+      "Couraça Tempesfúria Eterna",
+      "Eternal Stormrage Chestguard",
+      "Coselete eterno de Tempestira",
+      "Corselet de Hurlorage éternel",
+      "Вечный нагрудный доспех Ярости Бури",
+      "Sturmgrimms ewiger Brustschutz",
+      "Couraça Tempesfúria Eterna",
+      "Corazza Foderata di Grantempesta Eterna",
+      "영원한 성난폭풍 가슴보호대",
+      "永恆怒風護胸",
+      "怒风永恒胸甲"
+    ],
+    "Media": "inv_leather_raiddruidt2_d_01_robe.jpg"
+  },
+  {
+    "TagId": 225010,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Breastplate",
+      "Coraza eterna de acechadragón",
+      "Peitoral Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Breastplate",
+      "Coraza eterna de acechadragón",
+      "Cuirasse de traqueur de Dragon éternelle",
+      "Вечная кираса охотника на драконов",
+      "Ewige Brustplatte des Drachenjägers",
+      "Peitoral Eterno do Espreita-dragão",
+      "Pettorale Corazzato del Predatore di Draghi Eterno",
+      "용추적자의 영원한 가슴보호갑",
+      "龍巡者永恆胸甲",
+      "巨龙追猎者的永恒胸甲"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_chest.jpg"
+  },
+  {
+    "TagId": 225011,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Greaves",
+      "Grebas eternas de acechadragón",
+      "Grevas Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Greaves",
+      "Grebas eternas de acechadragón",
+      "Grèves de traqueur de Dragon éternelles",
+      "Вечные наголенники охотника на драконов",
+      "Ewige Schienbeinschützer des Drachenjägers",
+      "Grevas Eternas do Espreita-dragão",
+      "Schinieri del Predatore di Draghi Eterni",
+      "용추적자의 영원한 경갑",
+      "龍巡者永恆護脛",
+      "巨龙追猎者的永恒胫甲"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225012,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Gauntlets",
+      "Guanteletes eternos de acechadragón",
+      "Manoplas Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Gauntlets",
+      "Guanteletes eternos de acechadragón",
+      "Gantelets de traqueur de Dragon éternels",
+      "Вечные рукавицы охотника на драконов",
+      "Ewige Stulpen des Drachenjägers",
+      "Manoplas Eternas do Espreita-dragão",
+      "Guanti Lunghi del Predatore di Draghi Eterni",
+      "용추적자의 영원한 건틀릿",
+      "龍巡者永恆護手",
+      "巨龙追猎者的永恒护手"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225013,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Helm",
+      "Yelmo eterno de acechadragón",
+      "Elmo Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Helm",
+      "Yelmo eterno de acechadragón",
+      "Heaume de traqueur de Dragon éternel",
+      "Вечный шлем охотника на драконов",
+      "Ewiger Helm des Drachenjägers",
+      "Elmo Eterno do Espreita-dragão",
+      "Elmo del Predatore di Draghi Eterno",
+      "용추적자의 영원한 투구",
+      "龍巡者永恆頭盔",
+      "巨龙追猎者的永恒头盔"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225014,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Legguards",
+      "Musleras eternas de acechadragón",
+      "Guarda-pernas Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Legguards",
+      "Musleras eternas de acechadragón",
+      "Garde-jambes de traqueur de Dragon éternels",
+      "Вечные набедренники охотника на драконов",
+      "Ewige Beinschützer des Drachenjägers",
+      "Guarda-pernas Eternas do Espreita-dragão",
+      "Gambali Foderati del Predatore di Draghi Eterni",
+      "용추적자의 영원한 다리보호대",
+      "龍巡者永恆腿甲",
+      "巨龙追猎者的永恒腿甲"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225015,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Spaulders",
+      "Bufas eternas de acechadragón",
+      "Espaldares Eternos do Espreita-dragão",
+      "Dragonstalker's Eternal Spaulders",
+      "Bufas eternas de acechadragón",
+      "Spallières de traqueur de Dragon éternelles",
+      "Вечный наплеч охотника на драконов",
+      "Ewige Schiftung des Drachenjägers",
+      "Espaldares Eternos do Espreita-dragão",
+      "Guardaspalle del Predatore di Draghi Eterni",
+      "용추적자의 영원한 어깨덮개",
+      "龍巡者永恆肩甲",
+      "巨龙追猎者的永恒肩甲"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225016,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Belt",
+      "Cinturón eterno de acechadragón",
+      "Cinto Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Belt",
+      "Cinturón eterno de acechadragón",
+      "Ceinture de traqueur de Dragon éternelle",
+      "Вечный пояс охотника на драконов",
+      "Ewiger Gürtel des Drachenjägers",
+      "Cinto Eterno do Espreita-dragão",
+      "Cintura del Predatore di Draghi Eterna",
+      "용추적자의 영원한 허리띠",
+      "龍巡者永恆腰帶",
+      "巨龙追猎者的永恒腰带"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225017,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Cloak",
+      "Capa eterna de acechadragón",
+      "Manto Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Cloak",
+      "Capa eterna de acechadragón",
+      "Cape de traqueur de Dragon éternelle",
+      "Вечный плащ охотника на драконов",
+      "Ewiger Umhang des Drachenjägers",
+      "Manto Eterno do Espreita-dragão",
+      "Mantello del Predatore di Draghi Eterno",
+      "용추적자의 영원한 망토",
+      "龍巡者永恆披風",
+      "巨龙追猎者的永恒披风"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225018,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Bracers",
+      "Brazales eternos de acechadragón",
+      "Braçadeiras Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Bracers",
+      "Brazales eternos de acechadragón",
+      "Brassards de traqueur de Dragon éternels",
+      "Вечные наручи охотника на драконов",
+      "Ewige Armschienen des Drachenjägers",
+      "Braçadeiras Eternas do Espreita-dragão",
+      "Bracciali del Predatore di Draghi Eterni",
+      "용추적자의 영원한 팔보호구",
+      "龍巡者永恆護腕",
+      "巨龙追猎者的永恒护腕"
+    ],
+    "Media": "inv_mail_raidhuntert2_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225019,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Cloak",
+      "Capa eterna de acechadragón",
+      "Manto Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Cloak",
+      "Capa eterna de acechadragón",
+      "Cape de traqueur de Dragon éternelle",
+      "Вечный плащ охотника на драконов",
+      "Ewiger Umhang des Drachenjägers",
+      "Manto Eterno do Espreita-dragão",
+      "Mantello del Predatore di Draghi Eterno",
+      "용추적자의 영원한 망토",
+      "龍巡者永恆披風",
+      "巨龙追猎者的永恒披风"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225020,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Bracers",
+      "Brazales eternos de acechadragón",
+      "Braçadeiras Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Bracers",
+      "Brazales eternos de acechadragón",
+      "Brassards de traqueur de Dragon éternels",
+      "Вечные наручи охотника на драконов",
+      "Ewige Armschienen des Drachenjägers",
+      "Braçadeiras Eternas do Espreita-dragão",
+      "Bracciali del Predatore di Draghi Eterni",
+      "용추적자의 영원한 팔보호구",
+      "龍巡者永恆護腕",
+      "巨龙追猎者的永恒护腕"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225021,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Belt",
+      "Cinturón eterno de acechadragón",
+      "Cinto Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Belt",
+      "Cinturón eterno de acechadragón",
+      "Ceinture de traqueur de Dragon éternelle",
+      "Вечный пояс охотника на драконов",
+      "Ewiger Gürtel des Drachenjägers",
+      "Cinto Eterno do Espreita-dragão",
+      "Cintura del Predatore di Draghi Eterna",
+      "용추적자의 영원한 허리띠",
+      "龍巡者永恆腰帶",
+      "巨龙追猎者的永恒腰带"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225022,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Spaulders",
+      "Bufas eternas de acechadragón",
+      "Espaldares Eternos do Espreita-dragão",
+      "Dragonstalker's Eternal Spaulders",
+      "Bufas eternas de acechadragón",
+      "Spallières de traqueur de Dragon éternelles",
+      "Вечный наплеч охотника на драконов",
+      "Ewige Schiftung des Drachenjägers",
+      "Espaldares Eternos do Espreita-dragão",
+      "Guardaspalle del Predatore di Draghi Eterni",
+      "용추적자의 영원한 어깨덮개",
+      "龍巡者永恆肩甲",
+      "巨龙追猎者的永恒肩甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225023,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Legguards",
+      "Musleras eternas de acechadragón",
+      "Guarda-pernas Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Legguards",
+      "Musleras eternas de acechadragón",
+      "Garde-jambes de traqueur de Dragon éternels",
+      "Вечные набедренники охотника на драконов",
+      "Ewige Beinschützer des Drachenjägers",
+      "Guarda-pernas Eternas do Espreita-dragão",
+      "Gambali Foderati del Predatore di Draghi Eterni",
+      "용추적자의 영원한 다리보호대",
+      "龍巡者永恆腿甲",
+      "巨龙追猎者的永恒腿甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225024,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Helm",
+      "Yelmo eterno de acechadragón",
+      "Elmo Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Helm",
+      "Yelmo eterno de acechadragón",
+      "Heaume de traqueur de Dragon éternel",
+      "Вечный шлем охотника на драконов",
+      "Ewiger Helm des Drachenjägers",
+      "Elmo Eterno do Espreita-dragão",
+      "Elmo del Predatore di Draghi Eterno",
+      "용추적자의 영원한 투구",
+      "龍巡者永恆頭盔",
+      "巨龙追猎者的永恒头盔"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225025,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Gauntlets",
+      "Guanteletes eternos de acechadragón",
+      "Manoplas Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Gauntlets",
+      "Guanteletes eternos de acechadragón",
+      "Gantelets de traqueur de Dragon éternels",
+      "Вечные рукавицы охотника на драконов",
+      "Ewige Stulpen des Drachenjägers",
+      "Manoplas Eternas do Espreita-dragão",
+      "Guanti Lunghi del Predatore di Draghi Eterni",
+      "용추적자의 영원한 건틀릿",
+      "龍巡者永恆護手",
+      "巨龙追猎者的永恒护手"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225026,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Greaves",
+      "Grebas eternas de acechadragón",
+      "Grevas Eternas do Espreita-dragão",
+      "Dragonstalker's Eternal Greaves",
+      "Grebas eternas de acechadragón",
+      "Grèves de traqueur de Dragon éternelles",
+      "Вечные наголенники охотника на драконов",
+      "Ewige Schienbeinschützer des Drachenjägers",
+      "Grevas Eternas do Espreita-dragão",
+      "Schinieri del Predatore di Draghi Eterni",
+      "용추적자의 영원한 경갑",
+      "龍巡者永恆護脛",
+      "巨龙追猎者的永恒胫甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225027,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonstalker's Eternal Breastplate",
+      "Coraza eterna de acechadragón",
+      "Peitoral Eterno do Espreita-dragão",
+      "Dragonstalker's Eternal Breastplate",
+      "Coraza eterna de acechadragón",
+      "Cuirasse de traqueur de Dragon éternelle",
+      "Вечная кираса охотника на драконов",
+      "Ewige Brustplatte des Drachenjägers",
+      "Peitoral Eterno do Espreita-dragão",
+      "Pettorale Corazzato del Predatore di Draghi Eterno",
+      "용추적자의 영원한 가슴보호갑",
+      "龍巡者永恆胸甲",
+      "巨龙追猎者的永恒胸甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_chest.jpg"
+  },
+  {
+    "TagId": 225037,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Breastplate of Ten Storms",
+      "Coraza de diez tormentas eterna",
+      "Peitoral das Dez Tempestades Eterno",
+      "Eternal Breastplate of Ten Storms",
+      "Coraza eterna de diez tormentas",
+      "Cuirasse des Dix tempêtes éternelle",
+      "Вечная кираса десяти бурь",
+      "Ewige Brustplatte der zehn Stürme",
+      "Peitoral das Dez Tempestades Eterno",
+      "Pettorale Corazzato delle Dieci Tempeste Eterno",
+      "영원한 폭풍우 가슴보호갑",
+      "永恆無盡風暴胸甲",
+      "无尽风暴永恒胸甲"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_robe.jpg"
+  },
+  {
+    "TagId": 225038,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Greaves of Ten Storms",
+      "Grebas de diez tormentas eternas",
+      "Grevas das Dez Tempestades Eternas",
+      "Eternal Greaves of Ten Storms",
+      "Grebas eternas de diez tormentas",
+      "Grèves des Dix tempêtes éternelles",
+      "Вечные наголенники десяти бурь",
+      "Ewige Schienbeinschützer der zehn Stürme",
+      "Grevas das Dez Tempestades Eternas",
+      "Gambiere Rinforzate delle Dieci Tempeste Eterni",
+      "영원한 폭풍우 경갑",
+      "永恆無盡風暴護脛",
+      "无尽风暴永恒胫甲"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225039,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Gauntlets of Ten Storms",
+      "Guanteletes de diez tormentas eternos",
+      "Manoplas das Dez Tempestades Eternas",
+      "Eternal Gauntlets of Ten Storms",
+      "Guanteletes eternos de diez tormentas",
+      "Gantelets des Dix tempêtes éternels",
+      "Вечные рукавицы десяти бурь",
+      "Ewige Stulpen der zehn Stürme",
+      "Manoplas das Dez Tempestades Eternas",
+      "Guanti Lunghi delle Dieci Tempeste Eterni",
+      "영원한 폭풍우 건틀릿",
+      "永恆無盡風暴護手",
+      "无尽风暴永恒护手"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225040,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Helmet of Ten Storms",
+      "Casco de diez tormentas eterno",
+      "Capacete das Dez Tempestades Eterno",
+      "Eternal Helmet of Ten Storms",
+      "Casco eterno de diez tormentas",
+      "Casque des Dix tempêtes éternel",
+      "Вечный полный шлем десяти бурь",
+      "Ewiger Helm der zehn Stürme",
+      "Capacete das Dez Tempestades Eterno",
+      "Elmetto delle Dieci Tempeste Eterno",
+      "영원한 폭풍우 보호모",
+      "永恆無盡風暴盔帽",
+      "无尽风暴永恒头盔"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225041,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Kilt of Ten Storms",
+      "Falda eterna de diez tormentas",
+      "Kilt das Dez Tempestades Eterno",
+      "Eternal Kilt of Ten Storms",
+      "Falda eterna de diez tormentas",
+      "Kilt des Dix tempêtes éternel",
+      "Вечный килт десяти бурь",
+      "Ewiger Kilt der zehn Stürme",
+      "Kilt das Dez Tempestades Eterno",
+      "Kilt delle Dieci Tempeste Eterno",
+      "영원한 폭풍우 킬트",
+      "永恆無盡風暴褶裙",
+      "无尽风暴永恒褶裙"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225042,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Epaulets of Ten Storms",
+      "Cubrehombros de diez tormentas eterno",
+      "Palas das Dez Tempestades Eternas",
+      "Eternal Epaulets of Ten Storms",
+      "Cubrehombros eternos de diez tormentas",
+      "Épaulettes des Dix tempêtes éternelles",
+      "Вечные эполеты десяти бурь",
+      "Ewige Schulterklappen der zehn Stürme",
+      "Palas das Dez Tempestades Eternas",
+      "Spalline delle Dieci Tempeste Eterne",
+      "영원한 폭풍우 견장",
+      "永恆無盡風暴肩冑",
+      "无尽风暴永恒肩饰"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225043,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Belt of Ten Storms",
+      "Cinturón de diez tormentas eterno",
+      "Cinto das Dez Tempestades Eterno",
+      "Eternal Belt of Ten Storms",
+      "Cinturón eterno de diez tormentas",
+      "Ceinture des Dix tempêtes éternelle",
+      "Вечный пояс десяти бурь",
+      "Ewiger Gürtel der zehn Stürme",
+      "Cinto das Dez Tempestades Eterno",
+      "Cintura delle Dieci Tempeste Eterna",
+      "영원한 폭풍우 허리띠",
+      "永恆無盡風暴腰帶",
+      "无尽风暴永恒腰带"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225044,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Cloak of Ten Storms",
+      "Capa de diez tormentas eterna",
+      "Manto das Dez Tempestades Eterno",
+      "Eternal Cloak of Ten Storms",
+      "Capa eterna de diez tormentas",
+      "Cape des Dix tempêtes éternelle",
+      "Вечный плащ десяти бурь",
+      "Ewiger Umhang der zehn Stürme",
+      "Manto das Dez Tempestades Eterno",
+      "Mantello delle Dieci Tempeste Eterno",
+      "영원한 폭풍우 망토",
+      "永恆無盡風暴披風",
+      "无尽风暴永恒披风"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225045,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Bracers of Ten Storms",
+      "Brazales de diez tormentas eternos",
+      "Braçadeiras das Dez Tempestades Eternas",
+      "Eternal Bracers of Ten Storms",
+      "Brazales eternos de diez tormentas",
+      "Brassards des Dix tempêtes éternels",
+      "Вечные наручи десяти бурь",
+      "Ewige Armschienen der zehn Stürme",
+      "Braçadeiras das Dez Tempestades Eternas",
+      "Bracciali delle Dieci Tempeste Eterni",
+      "영원한 폭풍우 팔보호구",
+      "永恆無盡風暴護腕",
+      "无尽风暴永恒护腕"
+    ],
+    "Media": "inv_mail_raidshamant2_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225046,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Cloak of Ten Storms",
+      "Capa de diez tormentas eterna",
+      "Manto das Dez Tempestades Eterno",
+      "Eternal Cloak of Ten Storms",
+      "Capa eterna de diez tormentas",
+      "Cape des Dix tempêtes éternelle",
+      "Вечный плащ десяти бурь",
+      "Ewiger Umhang der zehn Stürme",
+      "Manto das Dez Tempestades Eterno",
+      "Mantello delle Dieci Tempeste Eterno",
+      "영원한 폭풍우 망토",
+      "永恆無盡風暴披風",
+      "无尽风暴永恒披风"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225047,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Bracers of Ten Storms",
+      "Brazales de diez tormentas eternos",
+      "Braçadeiras das Dez Tempestades Eternas",
+      "Eternal Bracers of Ten Storms",
+      "Brazales eternos de diez tormentas",
+      "Brassards des Dix tempêtes éternels",
+      "Вечные наручи десяти бурь",
+      "Ewige Armschienen der zehn Stürme",
+      "Braçadeiras das Dez Tempestades Eternas",
+      "Bracciali delle Dieci Tempeste Eterni",
+      "영원한 폭풍우 팔보호구",
+      "永恆無盡風暴護腕",
+      "无尽风暴永恒护腕"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225048,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Belt of Ten Storms",
+      "Cinturón de diez tormentas eterno",
+      "Cinto das Dez Tempestades Eterno",
+      "Eternal Belt of Ten Storms",
+      "Cinturón eterno de diez tormentas",
+      "Ceinture des Dix tempêtes éternelle",
+      "Вечный пояс десяти бурь",
+      "Ewiger Gürtel der zehn Stürme",
+      "Cinto das Dez Tempestades Eterno",
+      "Cintura delle Dieci Tempeste Eterna",
+      "영원한 폭풍우 허리띠",
+      "永恆無盡風暴腰帶",
+      "无尽风暴永恒腰带"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225049,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Epaulets of Ten Storms",
+      "Cubrehombros de diez tormentas eterno",
+      "Palas das Dez Tempestades Eternas",
+      "Eternal Epaulets of Ten Storms",
+      "Cubrehombros eternos de diez tormentas",
+      "Épaulettes des Dix tempêtes éternelles",
+      "Вечные эполеты десяти бурь",
+      "Ewige Schulterklappen der zehn Stürme",
+      "Palas das Dez Tempestades Eternas",
+      "Spalline delle Dieci Tempeste Eterne",
+      "영원한 폭풍우 견장",
+      "永恆無盡風暴肩冑",
+      "无尽风暴永恒肩饰"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225050,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Legplates of Ten Storms",
+      "Quijotes de diez tormentas eternos",
+      "Coxotes das Dez Tempestades Eternos",
+      "Eternal Legplates of Ten Storms",
+      "Quijotes eternos de diez tormentas",
+      "Cuissards des Dix tempêtes éternels",
+      "Вечные ножные латы десяти бурь",
+      "Ewige Beinplatten der zehn Stürme",
+      "Coxotes das Dez Tempestades Eternos",
+      "Gambali Corazzati delle Dieci Tempeste Eterni",
+      "영원한 폭풍우 다리갑옷",
+      "永恆無盡風暴腿鎧",
+      "无尽风暴永恒护腿"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225051,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Helmet of Ten Storms",
+      "Casco de diez tormentas eterno",
+      "Capacete das Dez Tempestades Eterno",
+      "Eternal Helmet of Ten Storms",
+      "Casco eterno de diez tormentas",
+      "Casque des Dix tempêtes éternel",
+      "Вечный полный шлем десяти бурь",
+      "Ewiger Helm der zehn Stürme",
+      "Capacete das Dez Tempestades Eterno",
+      "Elmetto delle Dieci Tempeste Eterno",
+      "영원한 폭풍우 보호모",
+      "永恆無盡風暴盔帽",
+      "无尽风暴永恒头盔"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225052,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Gauntlets of Ten Storms",
+      "Guanteletes de diez tormentas eternos",
+      "Manoplas das Dez Tempestades Eternas",
+      "Eternal Gauntlets of Ten Storms",
+      "Guanteletes eternos de diez tormentas",
+      "Gantelets des Dix tempêtes éternels",
+      "Вечные рукавицы десяти бурь",
+      "Ewige Stulpen der zehn Stürme",
+      "Manoplas das Dez Tempestades Eternas",
+      "Guanti Lunghi delle Dieci Tempeste Eterni",
+      "영원한 폭풍우 건틀릿",
+      "永恆無盡風暴護手",
+      "无尽风暴永恒护手"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225053,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Greaves of Ten Storms",
+      "Grebas de diez tormentas eternas",
+      "Grevas das Dez Tempestades Eternas",
+      "Eternal Greaves of Ten Storms",
+      "Grebas eternas de diez tormentas",
+      "Grèves des Dix tempêtes éternelles",
+      "Вечные наголенники десяти бурь",
+      "Ewige Schienbeinschützer der zehn Stürme",
+      "Grevas das Dez Tempestades Eternas",
+      "Gambiere Rinforzate delle Dieci Tempeste Eterni",
+      "영원한 폭풍우 경갑",
+      "永恆無盡風暴護脛",
+      "无尽风暴永恒胫甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225054,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Breastplate of Ten Storms",
+      "Coraza de diez tormentas eterna",
+      "Peitoral das Dez Tempestades Eterno",
+      "Eternal Breastplate of Ten Storms",
+      "Coraza eterna de diez tormentas",
+      "Cuirasse des Dix tempêtes éternelle",
+      "Вечная кираса десяти бурь",
+      "Ewige Brustplatte der zehn Stürme",
+      "Peitoral das Dez Tempestades Eterno",
+      "Pettorale Corazzato delle Dieci Tempeste Eterno",
+      "영원한 폭풍우 가슴보호갑",
+      "永恆無盡風暴胸甲",
+      "无尽风暴永恒胸甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_chest.jpg"
+  },
+  {
     "TagId": 225064,
     "TagType": 21,
     "Names": [
@@ -84,6 +861,762 @@
     "Media": "inv_cape_special_arathor_d_01_purple.jpg"
   },
   {
+    "TagId": 225069,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Vest of the August Acolyte",
+      "Jubón de acólito augusto eterno",
+      "Colete do Acólito Celestial Eterno",
+      "Eternal Vest of the August Acolyte",
+      "Jubón eterno del acólito de los Augustos",
+      "Gilet d’acolyte de la Lumière éternel",
+      "Вечный жилет августейшего аколита",
+      "Ewige Weste des erhabenen Akolythen",
+      "Colete do Acólito Celestial Eterno",
+      "Giubba dell'Accolito Venerabile Eterna",
+      "위엄 넘치는 수행사제의 영원한 조끼",
+      "永恆威嚴侍僧外衣",
+      "天神助祭的永恒外衣"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_chest.jpg"
+  },
+  {
+    "TagId": 225070,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Talons of the August Acolyte",
+      "Garfas de acólito augusto eternas",
+      "Grifas do Acólito Celestial Eternas",
+      "Eternal Talons of the August Acolyte",
+      "Garfas eternas del acólito de los Augustos",
+      "Serres d’acolyte de la Lumière éternelles",
+      "Вечные когти августейшего аколита",
+      "Ewige Krallen des erhabenen Akolythen",
+      "Grifas do Acólito Celestial Eternas",
+      "Grinfie dell'Accolito Venerabile Eterne",
+      "위엄 넘치는 수행사제의 영원한 갈퀴발톱",
+      "永恆威嚴侍僧利爪",
+      "天神助祭的永恒爪靴"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225071,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Grips of the August Acolyte",
+      "Mandiletes de acólito augusto eternos",
+      "Guantes do Acólito Celestial Eternos",
+      "Eternal Grips of the August Acolyte",
+      "Mandiletes eternos del acólito de los Augustos",
+      "Poignes d’acolyte de la Lumière éternelles",
+      "Вечные захваты августейшего аколита",
+      "Ewiger Handschutz des erhabenen Akolythen",
+      "Guantes do Acólito Celestial Eternos",
+      "Paramani dell'Accolito Venerabile Eterni",
+      "위엄 넘치는 수행사제의 영원한 손장갑",
+      "永恆威嚴侍僧之握",
+      "天神助祭的永恒手套"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225072,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Helm of the August Acolyte",
+      "Yelmo de acólito augusto eterno",
+      "Elmo do Acólito Celestial Eterno",
+      "Eternal Helm of the August Acolyte",
+      "Yelmo eterno del acólito de los Augustos",
+      "Heaume d’acolyte de la Lumière éternel",
+      "Вечный шлем августейшего аколита",
+      "Ewiger Helm des erhabenen Akolythen",
+      "Elmo do Acólito Celestial Eterno",
+      "Elmo dell'Accolito Venerabile Eterno",
+      "위엄 넘치는 수행사제의 영원한 투구",
+      "永恆威嚴侍僧頭盔",
+      "天神助祭的永恒头盔"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225073,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Pants of the August Acolyte",
+      "Pantalones de acólito augusto eternos",
+      "Calças do Acólito Celestial Eternas",
+      "Eternal Pants of the August Acolyte",
+      "Pantalones eternos del acólito de los Augustos",
+      "Pantalon d’acolyte de la Lumière éternel",
+      "Вечные штаны августейшего аколита",
+      "Ewige Hosen des erhabenen Akolythen",
+      "Calças do Acólito Celestial Eternas",
+      "Pantaloni dell'Accolito Venerabile Eterni",
+      "위엄 넘치는 수행사제의 영원한 바지",
+      "永恆威嚴侍僧束褲",
+      "天神助祭的永恒长裤"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225074,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Spaulders of the August Acolyte",
+      "Bufas de acólito augusto eternas",
+      "Espaldares do Acólito Celestial Eternos",
+      "Eternal Spaulders of the August Acolyte",
+      "Bufas eternas del acólito de los Augustos",
+      "Spallières d’acolyte de la Lumière éternelles",
+      "Вечный наплеч августейшего аколита",
+      "Ewige Schiftung des erhabenen Akolythen",
+      "Espaldares do Acólito Celestial Eternos",
+      "Guardaspalle dell'Accolito Venerabile Eterni",
+      "위엄 넘치는 수행사제의 영원한 어깨덮개",
+      "永恆威嚴侍僧肩甲",
+      "天神助祭的永恒护肩"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225075,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Cord of the August Acolyte",
+      "Cordón de acólito augusto eterno",
+      "Cordão do Acólito Celestial Eterno",
+      "Eternal Cord of the August Acolyte",
+      "Cordón eterno del acólito de los Augustos",
+      "Corde d’acolyte de la Lumière éternelle",
+      "Вечный ремень августейшего аколита",
+      "Ewige Kordel des erhabenen Akolythen",
+      "Cordão do Acólito Celestial Eterno",
+      "Fascione dell'Accolito Venerabile Eterno",
+      "위엄 넘치는 수행사제의 영원한 장식끈",
+      "永恆威嚴侍僧之索",
+      "天神助祭的永恒腰带"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225076,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Cloak of the August Acolyte",
+      "Capa de acólito augusto eterna",
+      "Manto do Acólito Celestial Eterno",
+      "Eternal Cloak of the August Acolyte",
+      "Capa eterna del acólito de los Augustos",
+      "Cape d’acolyte auguste éternelle",
+      "Вечный плащ августейшего аколита",
+      "Ewiger Umhang des erhabenen Akolythen",
+      "Manto do Acólito Celestial Eterno",
+      "Mantello dell'Accolito Venerabile Eterno",
+      "위엄 넘치는 수행사제의 영원한 망토",
+      "永恆威嚴侍僧披風",
+      "天神助祭的永恒披风"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225077,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Bindings of the August Acolyte",
+      "Ataduras de acólito augusto eternas",
+      "Braceletes do Acólito Celestial Eternas",
+      "Eternal Bindings of the August Acolyte",
+      "Ataduras eternas del acólito de los Augustos",
+      "Manchettes d’acolyte auguste éternelles",
+      "Вечные обвязки августейшего аколита",
+      "Ewige Bindungen des erhabenen Akolythen",
+      "Braceletes do Acólito Celestial Eternas",
+      "Manette dell'Accolito Venerabile Eterne",
+      "위엄 넘치는 수행사제의 영원한 손목띠",
+      "永恆威嚴侍僧束腕",
+      "天神助祭的永恒护腕"
+    ],
+    "Media": "inv_leather_raidmonkt2_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225078,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Cloak of the August Acolyte",
+      "Capa de acólito augusto eterna",
+      "Manto do Acólito Celestial Eterno",
+      "Eternal Cloak of the August Acolyte",
+      "Capa eterna del acólito de los Augustos",
+      "Cape d’acolyte auguste éternelle",
+      "Вечный плащ августейшего аколита",
+      "Ewiger Umhang des erhabenen Akolythen",
+      "Manto do Acólito Celestial Eterno",
+      "Mantello dell'Accolito Venerabile Eterno",
+      "위엄 넘치는 수행사제의 영원한 망토",
+      "永恆威嚴侍僧披風",
+      "天神助祭的永恒披风"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225079,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Bindings of the August Acolyte",
+      "Ataduras de acólito augusto eternas",
+      "Braceletes do Acólito Celestial Eternas",
+      "Eternal Bindings of the August Acolyte",
+      "Ataduras eternas del acólito de los Augustos",
+      "Manchettes d’acolyte auguste éternelles",
+      "Вечные обвязки августейшего аколита",
+      "Ewige Bindungen des erhabenen Akolythen",
+      "Braceletes do Acólito Celestial Eternas",
+      "Manette dell'Accolito Venerabile Eterne",
+      "위엄 넘치는 수행사제의 영원한 손목띠",
+      "永恆威嚴侍僧束腕",
+      "天神助祭的永恒护腕"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225080,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Cord of the August Acolyte",
+      "Cordón de acólito augusto eterno",
+      "Cordão do Acólito Celestial Eterno",
+      "Eternal Cord of the August Acolyte",
+      "Cordón eterno del acólito de los Augustos",
+      "Corde d’acolyte de la Lumière éternelle",
+      "Вечный ремень августейшего аколита",
+      "Ewige Kordel des erhabenen Akolythen",
+      "Cordão do Acólito Celestial Eterno",
+      "Fascione dell'Accolito Venerabile Eterno",
+      "위엄 넘치는 수행사제의 영원한 장식끈",
+      "永恆威嚴侍僧之索",
+      "天神助祭的永恒腰带"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225081,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Spaulders of the August Acolyte",
+      "Bufas de acólito augusto eternas",
+      "Espaldares do Acólito Celestial Eternos",
+      "Eternal Spaulders of the August Acolyte",
+      "Bufas eternas del acólito de los Augustos",
+      "Spallières d’acolyte de la Lumière éternelles",
+      "Вечный наплеч августейшего аколита",
+      "Ewige Schiftung des erhabenen Akolythen",
+      "Espaldares do Acólito Celestial Eternos",
+      "Guardaspalle dell'Accolito Venerabile Eterni",
+      "위엄 넘치는 수행사제의 영원한 어깨덮개",
+      "永恆威嚴侍僧肩甲",
+      "天神助祭的永恒护肩"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225082,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Pants of the August Acolyte",
+      "Pantalones de acólito augusto eternos",
+      "Calças do Acólito Celestial Eternas",
+      "Eternal Pants of the August Acolyte",
+      "Pantalones eternos del acólito de los Augustos",
+      "Pantalon d’acolyte de la Lumière éternel",
+      "Вечные штаны августейшего аколита",
+      "Ewige Hosen des erhabenen Akolythen",
+      "Calças do Acólito Celestial Eternas",
+      "Pantaloni dell'Accolito Venerabile Eterni",
+      "위엄 넘치는 수행사제의 영원한 바지",
+      "永恆威嚴侍僧束褲",
+      "天神助祭的永恒长裤"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225083,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Helm of the August Acolyte",
+      "Yelmo de acólito augusto eterno",
+      "Elmo do Acólito Celestial Eterno",
+      "Eternal Helm of the August Acolyte",
+      "Yelmo eterno del acólito de los Augustos",
+      "Heaume d’acolyte de la Lumière éternel",
+      "Вечный шлем августейшего аколита",
+      "Ewiger Helm des erhabenen Akolythen",
+      "Elmo do Acólito Celestial Eterno",
+      "Elmo dell'Accolito Venerabile Eterno",
+      "위엄 넘치는 수행사제의 영원한 투구",
+      "永恆威嚴侍僧頭盔",
+      "天神助祭的永恒头盔"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225084,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Grips of the August Acolyte",
+      "Mandiletes de acólito augusto eternos",
+      "Guantes do Acólito Celestial Eternos",
+      "Eternal Grips of the August Acolyte",
+      "Mandiletes eternos del acólito de los Augustos",
+      "Poignes d’acolyte de la Lumière éternelles",
+      "Вечные захваты августейшего аколита",
+      "Ewiger Handschutz des erhabenen Akolythen",
+      "Guantes do Acólito Celestial Eternos",
+      "Paramani dell'Accolito Venerabile Eterni",
+      "위엄 넘치는 수행사제의 영원한 손장갑",
+      "永恆威嚴侍僧之握",
+      "天神助祭的永恒手套"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225085,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Talons of the August Acolyte",
+      "Garfas de acólito augusto eternas",
+      "Grifas do Acólito Celestial Eternas",
+      "Eternal Talons of the August Acolyte",
+      "Garfas eternas del acólito de los Augustos",
+      "Serres d’acolyte de la Lumière éternelles",
+      "Вечные когти августейшего аколита",
+      "Ewige Krallen des erhabenen Akolythen",
+      "Grifas do Acólito Celestial Eternas",
+      "Grinfie dell'Accolito Venerabile Eterne",
+      "위엄 넘치는 수행사제의 영원한 갈퀴발톱",
+      "永恆威嚴侍僧利爪",
+      "天神助祭的永恒爪靴"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225086,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eternal Vest of the August Acolyte",
+      "Jubón de acólito augusto eterno",
+      "Colete do Acólito Celestial Eterno",
+      "Eternal Vest of the August Acolyte",
+      "Jubón eterno del acólito de los Augustos",
+      "Gilet d’acolyte de la Lumière éternel",
+      "Вечный жилет августейшего аколита",
+      "Ewige Weste des erhabenen Akolythen",
+      "Colete do Acólito Celestial Eterno",
+      "Giubba dell'Accolito Venerabile Eterna",
+      "위엄 넘치는 수행사제의 영원한 조끼",
+      "永恆威嚴侍僧外衣",
+      "天神助祭的永恒外衣"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_chest.jpg"
+  },
+  {
+    "TagId": 225096,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Breastplate",
+      "Coraza eterna del Guardián de la Tierra",
+      "Peitoral Eterno do Guardião da Terra",
+      "Earth-Warder's Eternal Breastplate",
+      "Coraza eterna del Guardián de la Tierra",
+      "Cuirasse du Gardeterre éternelle",
+      "Вечный нагрудник Хранителя Земли",
+      "Ewige Brustplatte des Erdwächters",
+      "Peitoral Eterno do Guardião da Terra",
+      "Pettorale Corazzato del Custode della Terra Eterno",
+      "대지의 수호자의 영원한 가슴보호갑",
+      "大地守護者永恆胸甲",
+      "大地守护者的永恒胸甲"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_robe.jpg"
+  },
+  {
+    "TagId": 225097,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Talons",
+      "Garfas eternas del Guardián de la Tierra",
+      "Grifas Eternas do Guardião da Terra",
+      "Earth-Warder's Eternal Talons",
+      "Garfas eternas del Guardián de la Tierra",
+      "Serres du Gardeterre éternelles",
+      "Вечные лапы Хранителя Земли",
+      "Ewige Krallen des Erdwächters",
+      "Grifas Eternas do Guardião da Terra",
+      "Grinfie del Custode della Terra Eterne",
+      "대지의 수호자의 영원한 갈퀴발톱",
+      "大地守護者永恆利爪",
+      "大地守护者的永恒锐爪"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225098,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Claws",
+      "Zarpas eternas del Guardián de la Tierra",
+      "Garras Eternas do Guardião da Terra",
+      "Earth-Warder's Eternal Claws",
+      "Garras eternas del Guardián de la Tierra",
+      "Griffes du Gardeterre éternelles",
+      "Вечные когти Хранителя Земли",
+      "Ewige Klauen des Erdwächters",
+      "Garras Eternas do Guardião da Terra",
+      "Artigli del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 발톱",
+      "大地守護者永恆之爪",
+      "大地守护者的永恒锋爪"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225099,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Crown",
+      "Corona eterna del Guardián de la Tierra",
+      "Coroa Eterna do Guardião da Terra",
+      "Earth-Warder's Eternal Crown",
+      "Corona eterna del Guardián de la Tierra",
+      "Couronne du Gardeterre éternelle",
+      "Вечный венец Хранителя Земли",
+      "Ewige Krone des Erdwächters",
+      "Coroa Eterna do Guardião da Terra",
+      "Corona del Custode della Terra Eterna",
+      "대지의 수호자의 영원한 왕관",
+      "大地守護者永恆之冠",
+      "大地守护者的永恒头冠"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225100,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Legplates",
+      "Quijotes eternos del Guardián de la Tierra",
+      "Coxotes Eternos do Guardião da Terra",
+      "Earth-Warder's Eternal Legplates",
+      "Quijotes eternos del Guardián de la Tierra",
+      "Cuissards du Gardeterre éternels",
+      "Вечные ножные латы Хранителя Земли",
+      "Ewige Beinplatten des Erdwächters",
+      "Coxotes Eternos do Guardião da Terra",
+      "Gambali Corazzati del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 다리갑옷",
+      "大地守護者永恆腿鎧",
+      "大地守护者的永恒腿甲"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225101,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Pauldrons",
+      "Espaldares eternos del Guardián de la Tierra",
+      "Brafoneiras Eternas do Guardião da Terra",
+      "Earth-Warder's Eternal Pauldrons",
+      "Espaldares eternos del Guardián de la Tierra",
+      "Espauliers du Gardeterre éternels",
+      "Вечное наплечье Хранителя Земли",
+      "Ewige Schulterstücke des Erdwächters",
+      "Brafoneiras Eternas do Guardião da Terra",
+      "Paraspalle del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 견갑",
+      "大地守護者永恆肩鎧",
+      "大地守护者的永恒肩甲"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225102,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Girdle",
+      "Faja eterna del Guardián de la Tierra",
+      "Cinturão Eterno do Guardião da Terra",
+      "Earth-Warder's Eternal Girdle",
+      "Faja eterna del Guardián de la Tierra",
+      "Ceinturon du Gardeterre éternel",
+      "Вечный ремень Хранителя Земли",
+      "Ewiger Gürtel des Erdwächters",
+      "Cinturão Eterno do Guardião da Terra",
+      "Cinturone del Custode della Terra Eterno",
+      "대지의 수호자의 영원한 요대",
+      "大地守護者永恆束腰",
+      "大地守护者的永恒束腰"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225103,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Cloak",
+      "Capa eterna del Guardián de la Tierra",
+      "Manto Eterno do Guardião da Terra",
+      "Earth-Warder's Eternal Cloak",
+      "Capa eterna del Guardián de la Tierra",
+      "Cape du Gardeterre éternelle",
+      "Вечный плащ Хранителя Земли",
+      "Ewiger Umhang des Erdwächters",
+      "Manto Eterno do Guardião da Terra",
+      "Mantello del Custode della Terra Eterno",
+      "대지의 수호자의 영원한 망토",
+      "大地守護者永恆披風",
+      "大地守护者的永恒披风"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225104,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Vambraces",
+      "Avambrazos eternos del Guardián de la Tierra",
+      "Avambraços Eternos do Guardião da Terra",
+      "Earth-Warder's Eternal Vambraces",
+      "Avambrazos eternos del Guardián de la Tierra",
+      "Protège-bras du Gardeterre éternels",
+      "Вечные тяжелые наручи Хранителя Земли",
+      "Ewige Unterarmschienen des Erdwächters",
+      "Avambraços Eternos do Guardião da Terra",
+      "Avambracci del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 완갑",
+      "大地守護者永恆護臂",
+      "大地守护者的永恒腕甲"
+    ],
+    "Media": "inv_mail_raidevokert2_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225105,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Cloak",
+      "Capa eterna del Guardián de la Tierra",
+      "Manto Eterno do Guardião da Terra",
+      "Earth-Warder's Eternal Cloak",
+      "Capa eterna del Guardián de la Tierra",
+      "Cape du Gardeterre éternelle",
+      "Вечный плащ Хранителя Земли",
+      "Ewiger Umhang des Erdwächters",
+      "Manto Eterno do Guardião da Terra",
+      "Mantello del Custode della Terra Eterno",
+      "대지의 수호자의 영원한 망토",
+      "大地守護者永恆披風",
+      "大地守护者的永恒披风"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225106,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Vambraces",
+      "Avambrazos eternos del Guardián de la Tierra",
+      "Avambraços Eternos do Guardião da Terra",
+      "Earth-Warder's Eternal Vambraces",
+      "Avambrazos eternos del Guardián de la Tierra",
+      "Protège-bras du Gardeterre éternels",
+      "Вечные тяжелые наручи Хранителя Земли",
+      "Ewige Unterarmschienen des Erdwächters",
+      "Avambraços Eternos do Guardião da Terra",
+      "Avambracci del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 완갑",
+      "大地守護者永恆護臂",
+      "大地守护者的永恒腕甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225107,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Girdle",
+      "Faja eterna del Guardián de la Tierra",
+      "Cinturão Eterno do Guardião da Terra",
+      "Earth-Warder's Eternal Girdle",
+      "Faja eterna del Guardián de la Tierra",
+      "Ceinturon du Gardeterre éternel",
+      "Вечный ремень Хранителя Земли",
+      "Ewiger Gürtel des Erdwächters",
+      "Cinturão Eterno do Guardião da Terra",
+      "Cinturone del Custode della Terra Eterno",
+      "대지의 수호자의 영원한 요대",
+      "大地守護者永恆束腰",
+      "大地守护者的永恒束腰"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225108,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Pauldrons",
+      "Espaldares eternos del Guardián de la Tierra",
+      "Brafoneiras Eternas do Guardião da Terra",
+      "Earth-Warder's Eternal Pauldrons",
+      "Espaldares eternos del Guardián de la Tierra",
+      "Espauliers du Gardeterre éternels",
+      "Вечное наплечье Хранителя Земли",
+      "Ewige Schulterstücke des Erdwächters",
+      "Brafoneiras Eternas do Guardião da Terra",
+      "Paraspalle del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 견갑",
+      "大地守護者永恆肩鎧",
+      "大地守护者的永恒肩甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225109,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Legplates",
+      "Quijotes eternos del Guardián de la Tierra",
+      "Coxotes Eternos do Guardião da Terra",
+      "Earth-Warder's Eternal Legplates",
+      "Quijotes eternos del Guardián de la Tierra",
+      "Cuissards du Gardeterre éternels",
+      "Вечные ножные латы Хранителя Земли",
+      "Ewige Beinplatten des Erdwächters",
+      "Coxotes Eternos do Guardião da Terra",
+      "Gambali Corazzati del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 다리갑옷",
+      "大地守護者永恆腿鎧",
+      "大地守护者的永恒腿甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225110,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Crown",
+      "Corona eterna del Guardián de la Tierra",
+      "Coroa Eterna do Guardião da Terra",
+      "Earth-Warder's Eternal Crown",
+      "Corona eterna del Guardián de la Tierra",
+      "Couronne du Gardeterre éternelle",
+      "Вечный венец Хранителя Земли",
+      "Ewige Krone des Erdwächters",
+      "Coroa Eterna do Guardião da Terra",
+      "Corona del Custode della Terra Eterna",
+      "대지의 수호자의 영원한 왕관",
+      "大地守護者永恆之冠",
+      "大地守护者的永恒头冠"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225111,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Claws",
+      "Zarpas eternas del Guardián de la Tierra",
+      "Garras Eternas do Guardião da Terra",
+      "Earth-Warder's Eternal Claws",
+      "Garras eternas del Guardián de la Tierra",
+      "Griffes du Gardeterre éternelles",
+      "Вечные когти Хранителя Земли",
+      "Ewige Klauen des Erdwächters",
+      "Garras Eternas do Guardião da Terra",
+      "Artigli del Custode della Terra Eterni",
+      "대지의 수호자의 영원한 발톱",
+      "大地守護者永恆之爪",
+      "大地守护者的永恒锋爪"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225112,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Talons",
+      "Garfas eternas del Guardián de la Tierra",
+      "Grifas Eternas do Guardião da Terra",
+      "Earth-Warder's Eternal Talons",
+      "Garfas eternas del Guardián de la Tierra",
+      "Serres du Gardeterre éternelles",
+      "Вечные лапы Хранителя Земли",
+      "Ewige Krallen des Erdwächters",
+      "Grifas Eternas do Guardião da Terra",
+      "Grinfie del Custode della Terra Eterne",
+      "대지의 수호자의 영원한 갈퀴발톱",
+      "大地守護者永恆利爪",
+      "大地守护者的永恒锐爪"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225113,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earth-Warder's Eternal Breastplate",
+      "Coraza eterna del Guardián de la Tierra",
+      "Peitoral Eterno do Guardião da Terra",
+      "Earth-Warder's Eternal Breastplate",
+      "Coraza eterna del Guardián de la Tierra",
+      "Cuirasse du Gardeterre éternelle",
+      "Вечный нагрудник Хранителя Земли",
+      "Ewige Brustplatte des Erdwächters",
+      "Peitoral Eterno do Guardião da Terra",
+      "Pettorale Corazzato del Custode della Terra Eterno",
+      "대지의 수호자의 영원한 가슴보호갑",
+      "大地守護者永恆胸甲",
+      "大地守护者的永恒胸甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_chest.jpg"
+  },
+  {
     "TagId": 225123,
     "TagType": 21,
     "Names": [
@@ -103,6 +1636,762 @@
       "伙伴经验值"
     ],
     "Media": "inv_cape_special_explorer_b_03.jpg"
+  },
+  {
+    "TagId": 225124,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Harness",
+      "Arnés eterno de caminante abisal",
+      "Arnês Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Harness",
+      "Arnés eterno de caminante abisal",
+      "Harnais de marcheur du Néant éternel",
+      "Вечная портупея странника Пустоты",
+      "Ewiger Harnisch des Netherwandlers",
+      "Arnês Eterno do Andarilho do Éter",
+      "Imbracatura del Calcafatuo Eterna",
+      "황천의 정령의 영원한 멜빵",
+      "虛空行者永恆背心",
+      "虚无行者的永恒束衣"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_chest.jpg"
+  },
+  {
+    "TagId": 225125,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Sandals",
+      "Sandalias eternas de caminante abisal",
+      "Sandálias Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Sandals",
+      "Sandalias eternas de caminante abisal",
+      "Sandales de marcheur du Néant éternelles",
+      "Вечные сандалии странника Пустоты",
+      "Ewige Sandalen des Netherwandlers",
+      "Sandálias Eternas do Andarilho do Éter",
+      "Grancalzari del Calcafatuo Eterni",
+      "황천의 정령의 영원한 덧신",
+      "虛空行者永恆便鞋",
+      "虚无行者的永恒便鞋"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225126,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Gloves",
+      "Guantes eternos de caminante abisal",
+      "Luvas Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Gloves",
+      "Guantes eternos de caminante abisal",
+      "Gants de marcheur du Néant éternels",
+      "Вечные перчатки странника Пустоты",
+      "Ewige Handschuhe des Netherwandlers",
+      "Luvas Eternas do Andarilho do Éter",
+      "Guanti del Calcafatuo Eterni",
+      "황천의 정령의 영원한 장갑",
+      "虛空行者永恆手套",
+      "虚无行者的永恒手套"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225127,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Skullcap",
+      "Capacete eterno de caminante abisal",
+      "Elmo Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Skullcap",
+      "Capacete eterno de caminante abisal",
+      "Calot de marcheur du Néant éternel",
+      "Вечный наголовник странника Пустоты",
+      "Ewige Schädelkappe des Netherwandlers",
+      "Elmo Eterno do Andarilho do Éter",
+      "Copricapo del Calcafatuo Eterno",
+      "황천의 정령의 영원한 해골모자",
+      "虛空行者永恆顱帽",
+      "虚无行者的永恒罩帽"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225128,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Leggings",
+      "Leotardos eternos de caminante abisal",
+      "Perneiras Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Leggings",
+      "Leotardos eternos de caminante abisal",
+      "Jambières de marcheur du Néant éternelles",
+      "Вечные поножи странника Пустоты",
+      "Ewige Gamaschen des Netherwandlers",
+      "Perneiras Eternas do Andarilho do Éter",
+      "Gambiere del Calcafatuo Eterne",
+      "황천의 정령의 영원한 다리보호구",
+      "虛空行者永恆護腿",
+      "虚无行者的永恒护腿"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225129,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Shoulderblades",
+      "Hombreras laminadas eternas de caminante abisal",
+      "Ombreiras Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Shoulderblades",
+      "Hombreras eternas de caminante abisal",
+      "Lames d’épaules de marcheur du Néant éternelles",
+      "Вечные наплечные лезвия странника Пустоты",
+      "Ewige Schulterklingen des Netherwandlers",
+      "Ombreiras Eternas do Andarilho do Éter",
+      "Spallacci Corazzati del Calcafatuo Eterni",
+      "황천의 정령의 영원한 어깨칼날",
+      "虛空行者永恆肩刃",
+      "虚无行者的永恒肩刃"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225130,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Cord",
+      "Cordón eterno de caminante abisal",
+      "Cordão Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Cord",
+      "Cordón eterno de caminante abisal",
+      "Corde de marcheur du Néant éternelle",
+      "Вечный шнурованный ремень странника Пустоты",
+      "Ewige Kordel des Netherwandlers",
+      "Cordão Eterno do Andarilho do Éter",
+      "Fascione del Calcafatuo Eterno",
+      "황천의 정령의 영원한 장식끈",
+      "虛空行者永恆之索",
+      "虚无行者的永恒束腰"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225131,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Cloak",
+      "Capa eterna de caminante abisal",
+      "Manto Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Cloak",
+      "Capa eterna de caminante abisal",
+      "Cape de marcheur du Néant éternelle",
+      "Вечный плащ странника Пустоты",
+      "Ewiger Umhang des Netherwandlers",
+      "Manto Eterno do Andarilho do Éter",
+      "Mantello del Calcafatuo Eterno",
+      "황천의 정령의 영원한 망토",
+      "虛空行者永恆披風",
+      "虚无行者的永恒披风"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225132,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Bracers",
+      "Brazales eternos de caminante abisal",
+      "Braçadeiras Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Bracers",
+      "Brazales eternos de caminante abisal",
+      "Brassards de marcheur du Néant éternels",
+      "Вечные наручи странника Пустоты",
+      "Ewige Armschienen des Netherwandlers",
+      "Braçadeiras Eternas do Andarilho do Éter",
+      "Bracciali del Calcafatuo Eterni",
+      "황천의 정령의 영원한 팔보호구",
+      "虛空行者永恆護腕",
+      "虚无行者的永恒腕甲"
+    ],
+    "Media": "inv_leather_raiddemonhuntert2_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225133,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Cloak",
+      "Capa eterna de caminante abisal",
+      "Manto Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Cloak",
+      "Capa eterna de caminante abisal",
+      "Cape de marcheur du Néant éternelle",
+      "Вечный плащ странника Пустоты",
+      "Ewiger Umhang des Netherwandlers",
+      "Manto Eterno do Andarilho do Éter",
+      "Mantello del Calcafatuo Eterno",
+      "황천의 정령의 영원한 망토",
+      "虛空行者永恆披風",
+      "虚无行者的永恒披风"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225134,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Bracers",
+      "Brazales eternos de caminante abisal",
+      "Braçadeiras Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Bracers",
+      "Brazales eternos de caminante abisal",
+      "Brassards de marcheur du Néant éternels",
+      "Вечные наручи странника Пустоты",
+      "Ewige Armschienen des Netherwandlers",
+      "Braçadeiras Eternas do Andarilho do Éter",
+      "Bracciali del Calcafatuo Eterni",
+      "황천의 정령의 영원한 팔보호구",
+      "虛空行者永恆護腕",
+      "虚无行者的永恒腕甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225135,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Cord",
+      "Cordón eterno de caminante abisal",
+      "Cordão Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Cord",
+      "Cordón eterno de caminante abisal",
+      "Corde de marcheur du Néant éternelle",
+      "Вечный шнурованный ремень странника Пустоты",
+      "Ewige Kordel des Netherwandlers",
+      "Cordão Eterno do Andarilho do Éter",
+      "Fascione del Calcafatuo Eterno",
+      "황천의 정령의 영원한 장식끈",
+      "虛空行者永恆之索",
+      "虚无行者的永恒束腰"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225136,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Shoulderblades",
+      "Hombreras laminadas eternas de caminante abisal",
+      "Ombreiras Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Shoulderblades",
+      "Hombreras eternas de caminante abisal",
+      "Lames d’épaules de marcheur du Néant éternelles",
+      "Вечные наплечные лезвия странника Пустоты",
+      "Ewige Schulterklingen des Netherwandlers",
+      "Ombreiras Eternas do Andarilho do Éter",
+      "Spallacci Corazzati del Calcafatuo Eterni",
+      "황천의 정령의 영원한 어깨칼날",
+      "虛空行者永恆肩刃",
+      "虚无行者的永恒肩刃"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225137,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Leggings",
+      "Leotardos eternos de caminante abisal",
+      "Perneiras Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Leggings",
+      "Leotardos eternos de caminante abisal",
+      "Jambières de marcheur du Néant éternelles",
+      "Вечные поножи странника Пустоты",
+      "Ewige Gamaschen des Netherwandlers",
+      "Perneiras Eternas do Andarilho do Éter",
+      "Gambiere del Calcafatuo Eterne",
+      "황천의 정령의 영원한 다리보호구",
+      "虛空行者永恆護腿",
+      "虚无行者的永恒护腿"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225138,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Skullcap",
+      "Capacete eterno de caminante abisal",
+      "Elmo Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Skullcap",
+      "Capacete eterno de caminante abisal",
+      "Calot de marcheur du Néant éternel",
+      "Вечный наголовник странника Пустоты",
+      "Ewige Schädelkappe des Netherwandlers",
+      "Elmo Eterno do Andarilho do Éter",
+      "Copricapo del Calcafatuo Eterno",
+      "황천의 정령의 영원한 해골모자",
+      "虛空行者永恆顱帽",
+      "虚无行者的永恒罩帽"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225139,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Gloves",
+      "Guantes eternos de caminante abisal",
+      "Luvas Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Gloves",
+      "Guantes eternos de caminante abisal",
+      "Gants de marcheur du Néant éternels",
+      "Вечные перчатки странника Пустоты",
+      "Ewige Handschuhe des Netherwandlers",
+      "Luvas Eternas do Andarilho do Éter",
+      "Guanti del Calcafatuo Eterni",
+      "황천의 정령의 영원한 장갑",
+      "虛空行者永恆手套",
+      "虚无行者的永恒手套"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225140,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Sandals",
+      "Sandalias eternas de caminante abisal",
+      "Sandálias Eternas do Andarilho do Éter",
+      "Netherwalker's Eternal Sandals",
+      "Sandalias eternas de caminante abisal",
+      "Sandales de marcheur du Néant éternelles",
+      "Вечные сандалии странника Пустоты",
+      "Ewige Sandalen des Netherwandlers",
+      "Sandálias Eternas do Andarilho do Éter",
+      "Grancalzari del Calcafatuo Eterni",
+      "황천의 정령의 영원한 덧신",
+      "虛空行者永恆便鞋",
+      "虚无行者的永恒便鞋"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225141,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Netherwalker's Eternal Harness",
+      "Arnés eterno de caminante abisal",
+      "Arnês Eterno do Andarilho do Éter",
+      "Netherwalker's Eternal Harness",
+      "Arnés eterno de caminante abisal",
+      "Harnais de marcheur du Néant éternel",
+      "Вечная портупея странника Пустоты",
+      "Ewiger Harnisch des Netherwandlers",
+      "Arnês Eterno do Andarilho do Éter",
+      "Imbracatura del Calcafatuo Eterna",
+      "황천의 정령의 영원한 멜빵",
+      "虛空行者永恆背心",
+      "虚无行者的永恒束衣"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_chest.jpg"
+  },
+  {
+    "TagId": 225151,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Breastplate",
+      "Coraza eterna de jinete pálido",
+      "Peitoral Eterno do Cavalgante Pálido",
+      "Pale Rider's Eternal Breastplate",
+      "Coraza eterna del Jinete Pálido",
+      "Cuirasse du cavalier pâle éternelle",
+      "Вечный нагрудник бледного всадника",
+      "Ewige Brustplatte des fahlen Reiters",
+      "Peitoral Eterno do Cavalgante Pálido",
+      "Pettorale Corazzato del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 가슴보호갑",
+      "蒼白騎士永恆胸甲",
+      "苍白骑士的永恒胸铠"
+    ],
+    "Media": "inv_chest_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225152,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Sabatons",
+      "Escarpes eternos de jinete pálido",
+      "Escarpes Eternos do Cavalgante Pálido",
+      "Pale Rider's Eternal Sabatons",
+      "Escarpes eternos del Jinete Pálido",
+      "Solerets du cavalier pâle éternels",
+      "Вечные башмаки бледного всадника",
+      "Ewige Sabatons des fahlen Reiters",
+      "Escarpes Eternos do Cavalgante Pálido",
+      "Calzari del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 발덮개",
+      "蒼白騎士永恆脛甲",
+      "苍白骑士的永恒战靴"
+    ],
+    "Media": "inv_boot_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225153,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Gloves",
+      "Guantes eternos de jinete pálido",
+      "Luvas Eternas do Cavaleiro Pálido",
+      "Pale Rider's Eternal Gloves",
+      "Guantes eternos del Jinete Pálido",
+      "Gants du cavalier pâle éternels",
+      "Вечные перчатки бледного всадника",
+      "Ewige Handschuhe des fahlen Reiters",
+      "Luvas Eternas do Cavaleiro Pálido",
+      "Guanti del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 장갑",
+      "蒼白騎士永恆手套",
+      "苍白骑士的永恒手铠"
+    ],
+    "Media": "inv_glove_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225154,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Helm",
+      "Yelmo eterno de jinete pálido",
+      "Elmo Eterno do Cavaleiro Pálido",
+      "Pale Rider's Eternal Helm",
+      "Yelmo eterno del Jinete Pálido",
+      "Heaume du cavalier pâle éternel",
+      "Вечный шлем бледного всадника",
+      "Ewiger Helm des fahlen Reiters",
+      "Elmo Eterno do Cavaleiro Pálido",
+      "Elmo del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 투구",
+      "蒼白騎士永恆頭盔",
+      "苍白骑士的永恒头盔"
+    ],
+    "Media": "inv_helm_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225155,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Leggings",
+      "Leotardos eternos de jinete pálido",
+      "Perneiras Eternas do Cavaleiro Pálido",
+      "Pale Rider's Eternal Leggings",
+      "Leotardos eternos del Jinete Pálido",
+      "Jambières du cavalier pâle éternelles",
+      "Вечные поножи бледного всадника",
+      "Ewige Gamaschen des fahlen Reiters",
+      "Perneiras Eternas do Cavaleiro Pálido",
+      "Gambiere del Cavaliere Pallido Eterne",
+      "창백한 기수의 영원한 다리보호구",
+      "蒼白騎士永恆護腿",
+      "苍白骑士的永恒腿铠"
+    ],
+    "Media": "inv_pant_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225156,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Pauldrons",
+      "Espaldares eternos de jinete pálido",
+      "Brafoneiras Eternas do Cavaleiro Pálido",
+      "Pale Rider's Eternal Pauldrons",
+      "Espaldares eternos del Jinete Pálido",
+      "Espauliers du cavalier pâle éternels",
+      "Вечное наплечье бледного всадника",
+      "Ewige Schulterstücke des fahlen Reiters",
+      "Brafoneiras Eternas do Cavaleiro Pálido",
+      "Paraspalle del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 견갑",
+      "蒼白騎士永恆肩鎧",
+      "苍白骑士的永恒肩铠"
+    ],
+    "Media": "inv_shoulder_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225157,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Girdle",
+      "Faja eterna de jinete pálido",
+      "Cinturão Eterno do Cavaleiro Pálido",
+      "Pale Rider's Eternal Girdle",
+      "Faja eterna del Jinete Pálido",
+      "Ceinturon du cavalier pâle éternel",
+      "Вечный ремень бледного всадника",
+      "Ewiger Gürtel des fahlen Reiters",
+      "Cinturão Eterno do Cavaleiro Pálido",
+      "Cinturone del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 요대",
+      "蒼白騎士永恆束腰",
+      "苍白骑士的永恒束腰"
+    ],
+    "Media": "inv_belt_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225158,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Cloak",
+      "Capa eterna de jinete pálido",
+      "Manto Eterno do Cavaleiro Pálido",
+      "Pale Rider's Eternal Cloak",
+      "Capa eterna del Jinete Pálido",
+      "Cape du cavalier pâle éternelle",
+      "Вечный плащ бледного всадника",
+      "Ewiger Umhang des fahlen Reiters",
+      "Manto Eterno do Cavaleiro Pálido",
+      "Mantello del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 망토",
+      "蒼白騎士永恆披風",
+      "苍白骑士的永恒披风"
+    ],
+    "Media": "inv_cape_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225159,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Vambraces",
+      "Avambrazos eternos de jinete pálido",
+      "Avambraços Eternos do Cavaleiro Pálido",
+      "Pale Rider's Eternal Vambraces",
+      "Avambrazos eternos del Jinete Pálido",
+      "Protège-bras du cavalier pâle éternels",
+      "Вечные наручи бледного всадника",
+      "Ewige Unterarmschienen des fahlen Reiters",
+      "Avambraços Eternos do Cavaleiro Pálido",
+      "Avambracci del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 완갑",
+      "蒼白騎士永恆護臂",
+      "苍白骑士的永恒腕铠"
+    ],
+    "Media": "inv_bracer_plate_raiddeathknightt2_d_01.jpg"
+  },
+  {
+    "TagId": 225160,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Cloak",
+      "Capa eterna de jinete pálido",
+      "Manto Eterno do Cavaleiro Pálido",
+      "Pale Rider's Eternal Cloak",
+      "Capa eterna del Jinete Pálido",
+      "Cape du cavalier pâle éternelle",
+      "Вечный плащ бледного всадника",
+      "Ewiger Umhang des fahlen Reiters",
+      "Manto Eterno do Cavaleiro Pálido",
+      "Mantello del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 망토",
+      "蒼白騎士永恆披風",
+      "苍白骑士的永恒披风"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_cape.jpg"
+  },
+  {
+    "TagId": 225161,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Vambraces",
+      "Avambrazos eternos de jinete pálido",
+      "Avambraços Eternos do Cavaleiro Pálido",
+      "Pale Rider's Eternal Vambraces",
+      "Avambrazos eternos del Jinete Pálido",
+      "Protège-bras du cavalier pâle éternels",
+      "Вечные наручи бледного всадника",
+      "Ewige Unterarmschienen des fahlen Reiters",
+      "Avambraços Eternos do Cavaleiro Pálido",
+      "Avambracci del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 완갑",
+      "蒼白騎士永恆護臂",
+      "苍白骑士的永恒腕铠"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_bracer.jpg"
+  },
+  {
+    "TagId": 225162,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Girdle",
+      "Faja eterna de jinete pálido",
+      "Cinturão Eterno do Cavaleiro Pálido",
+      "Pale Rider's Eternal Girdle",
+      "Faja eterna del Jinete Pálido",
+      "Ceinturon du cavalier pâle éternel",
+      "Вечный ремень бледного всадника",
+      "Ewiger Gürtel des fahlen Reiters",
+      "Cinturão Eterno do Cavaleiro Pálido",
+      "Cinturone del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 요대",
+      "蒼白騎士永恆束腰",
+      "苍白骑士的永恒束腰"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_belt.jpg"
+  },
+  {
+    "TagId": 225163,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Pauldrons",
+      "Espaldares eternos de jinete pálido",
+      "Brafoneiras Eternas do Cavaleiro Pálido",
+      "Pale Rider's Eternal Pauldrons",
+      "Espaldares eternos del Jinete Pálido",
+      "Espauliers du cavalier pâle éternels",
+      "Вечное наплечье бледного всадника",
+      "Ewige Schulterstücke des fahlen Reiters",
+      "Brafoneiras Eternas do Cavaleiro Pálido",
+      "Paraspalle del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 견갑",
+      "蒼白騎士永恆肩鎧",
+      "苍白骑士的永恒肩铠"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 225164,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Leggings",
+      "Leotardos eternos de jinete pálido",
+      "Perneiras Eternas do Cavaleiro Pálido",
+      "Pale Rider's Eternal Leggings",
+      "Leotardos eternos del Jinete Pálido",
+      "Jambières du cavalier pâle éternelles",
+      "Вечные поножи бледного всадника",
+      "Ewige Gamaschen des fahlen Reiters",
+      "Perneiras Eternas do Cavaleiro Pálido",
+      "Gambiere del Cavaliere Pallido Eterne",
+      "창백한 기수의 영원한 다리보호구",
+      "蒼白騎士永恆護腿",
+      "苍白骑士的永恒腿铠"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_pant.jpg"
+  },
+  {
+    "TagId": 225165,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Helm",
+      "Yelmo eterno de jinete pálido",
+      "Elmo Eterno do Cavaleiro Pálido",
+      "Pale Rider's Eternal Helm",
+      "Yelmo eterno del Jinete Pálido",
+      "Heaume du cavalier pâle éternel",
+      "Вечный шлем бледного всадника",
+      "Ewiger Helm des fahlen Reiters",
+      "Elmo Eterno do Cavaleiro Pálido",
+      "Elmo del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 투구",
+      "蒼白騎士永恆頭盔",
+      "苍白骑士的永恒头盔"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 225166,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Gloves",
+      "Guantes eternos de jinete pálido",
+      "Luvas Eternas do Cavaleiro Pálido",
+      "Pale Rider's Eternal Gloves",
+      "Guantes eternos del Jinete Pálido",
+      "Gants du cavalier pâle éternels",
+      "Вечные перчатки бледного всадника",
+      "Ewige Handschuhe des fahlen Reiters",
+      "Luvas Eternas do Cavaleiro Pálido",
+      "Guanti del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 장갑",
+      "蒼白騎士永恆手套",
+      "苍白骑士的永恒手铠"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_glove.jpg"
+  },
+  {
+    "TagId": 225167,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Sabatons",
+      "Escarpes eternos de jinete pálido",
+      "Escarpes Eternos do Cavalgante Pálido",
+      "Pale Rider's Eternal Sabatons",
+      "Escarpes eternos del Jinete Pálido",
+      "Solerets du cavalier pâle éternels",
+      "Вечные башмаки бледного всадника",
+      "Ewige Sabatons des fahlen Reiters",
+      "Escarpes Eternos do Cavalgante Pálido",
+      "Calzari del Cavaliere Pallido Eterni",
+      "창백한 기수의 영원한 발덮개",
+      "蒼白騎士永恆脛甲",
+      "苍白骑士的永恒战靴"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_boot.jpg"
+  },
+  {
+    "TagId": 225168,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pale Rider's Eternal Breastplate",
+      "Coraza eterna de jinete pálido",
+      "Peitoral Eterno do Cavalgante Pálido",
+      "Pale Rider's Eternal Breastplate",
+      "Coraza eterna del Jinete Pálido",
+      "Cuirasse du cavalier pâle éternelle",
+      "Вечный нагрудник бледного всадника",
+      "Ewige Brustplatte des fahlen Reiters",
+      "Peitoral Eterno do Cavalgante Pálido",
+      "Pettorale Corazzato del Cavaliere Pallido Eterno",
+      "창백한 기수의 영원한 가슴보호갑",
+      "蒼白騎士永恆胸甲",
+      "苍白骑士的永恒胸铠"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_chest.jpg"
   },
   {
     "TagId": 225178,
@@ -168,6 +2457,447 @@
     "Media": "inv_misc_note_06.jpg"
   },
   {
+    "TagId": 225181,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Unearthed Bands",
+      "Braciles desenterradas",
+      "Embraces Desenterrados",
+      "Unearthed Bands",
+      "Braciles desenterrados",
+      "Poignets déterrés",
+      "Выкопанные поручи",
+      "Ausgegrabene Bänder",
+      "Embraces Desenterrados",
+      "Nastri Dissotterrati",
+      "발굴 손목띠",
+      "掘地手環",
+      "掘地腕轮"
+    ],
+    "Media": "inv_bracer_06.jpg"
+  },
+  {
+    "TagId": 225182,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aristocratic Cuffs",
+      "Puños de aristócrata",
+      "Manilhas Aristocráticas",
+      "Aristocratic Cuffs",
+      "Puños de aristócrata",
+      "Crispins aristocratiques",
+      "Аристократические манжеты",
+      "Aristokratische Manschetten",
+      "Manilhas Aristocráticas",
+      "Polsiere Aristocratiche",
+      "귀족 소매장식",
+      "貴族腕輪",
+      "贵族腕轮"
+    ],
+    "Media": "inv_bracer_05.jpg"
+  },
+  {
+    "TagId": 225183,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Slimescale Bracers",
+      "Brazales de escama de babosa",
+      "Braçadeiras Escamalodo",
+      "Slimescale Bracers",
+      "Brazales de escama babosa",
+      "Brassards d’écailles gluantes",
+      "Чешуйчатые наручи слизи",
+      "Schleimschuppenarmschienen",
+      "Braçadeiras Escamalodo",
+      "Bracciali della Scaglia Limacciosa",
+      "진흙비늘 팔보호구",
+      "泥鱗護腕",
+      "泥鳞护腕"
+    ],
+    "Media": "inv_jewelry_ring_03.jpg"
+  },
+  {
+    "TagId": 225184,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Runed Golem Shackles",
+      "Grilletes rúnicos de gólems",
+      "Grilhões Rúnicos de Golem",
+      "Runed Golem Shackles",
+      "Grilletes rúnicos de gólem",
+      "Menottes de golem runiques",
+      "Кандалы рунического голема",
+      "Runenverzierte Golemfesseln",
+      "Grilhões Rúnicos de Golem",
+      "Bracciali del Golem Runico",
+      "룬새김 골렘 족쇄",
+      "符文魔像鐐銬",
+      "符文傀儡镣铐"
+    ],
+    "Media": "inv_bracer_17.jpg"
+  },
+  {
+    "TagId": 225185,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring",
+      "[DNT UNUSED] Reforged 1 Ring"
+    ],
+    "Media": "inv_jewelry_ring_03.jpg"
+  },
+  {
+    "TagId": 225186,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Freezing Band",
+      "Sortija helada",
+      "Elo Congelante",
+      "Freezing Band",
+      "Sortija helada",
+      "Bague de glace",
+      "Кольцо заморозки",
+      "Band der Eiseskälte",
+      "Elo Congelante",
+      "Vera Ghiacciata",
+      "혹한의 반지",
+      "寒冰指環",
+      "寒冰指环"
+    ],
+    "Media": "inv_jewelry_ring_07.jpg"
+  },
+  {
+    "TagId": 225187,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blackmetal Cape",
+      "Manteo de metal negro",
+      "Capa de Metal Preto",
+      "Blackmetal Cape",
+      "Manteo de metal negro",
+      "Cape en métal noir",
+      "Темная металлическая накидка",
+      "Schwarzmetallcape",
+      "Capa de Metal Preto",
+      "Cappa di Metallo Nero",
+      "검은금속 단망토",
+      "黑鋼斗篷",
+      "黑金斗篷"
+    ],
+    "Media": "inv_misc_cape_05.jpg"
+  },
+  {
+    "TagId": 225188,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lefty's Brass Knuckle",
+      "Nudillos de latón de Zurdito",
+      "Soqueira do Canhoto",
+      "Lefty's Brass Knuckle",
+      "Nudillos de latón de Zurdito",
+      "Coup de poing du gaucher en laiton",
+      "Латунный кастет левши",
+      "Leftys Messingschlagring",
+      "Soqueira do Canhoto",
+      "Tirapugni di Mancino",
+      "레프티의 청동너클",
+      "左撇子的黃銅指虎",
+      "左撇子的黄铜指虎"
+    ],
+    "Media": "inv_gauntlets_11.jpg"
+  },
+  {
+    "TagId": 225189,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lightforged Blade",
+      "Hoja forjada con luz",
+      "Lâmina Forjada em Luz",
+      "Lightforged Blade",
+      "Hoja forjada por la Luz",
+      "Lame sancteforge",
+      "Клинок из светостали",
+      "Lichtgeschmiedete Klinge",
+      "Lâmina Forjada em Luz",
+      "Lama Forgiata nella Luce",
+      "빛으로 벼려낸 칼날",
+      "光鑄利刃",
+      "光铸利刃"
+    ],
+    "Media": "inv_sword_39.jpg"
+  },
+  {
+    "TagId": 225190,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pendulum of Doom",
+      "Péndulo de Fatalidad",
+      "Pêndulo da Perdição",
+      "Pendulum of Doom",
+      "Péndulo de fatalidad",
+      "Pendule du destin",
+      "Маятник Рока",
+      "Pendel der Verdammnis",
+      "Pêndulo da Perdição",
+      "Pendolo della Rovina",
+      "파멸의 추",
+      "厄運之錘",
+      "厄运钟摆"
+    ],
+    "Media": "inv_weapon_halberd_08.jpg"
+  },
+  {
+    "TagId": 225191,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gut Ripper",
+      "Destripador",
+      "Ranca-tripa",
+      "Gut Ripper",
+      "Sacatriplas",
+      "Éventreuse",
+      "Потрошитель",
+      "Darmreißer",
+      "Ranca-tripa",
+      "Squartatore",
+      "학살의 비수",
+      "撕腸",
+      "断肠"
+    ],
+    "Media": "inv_sword_13.jpg"
+  },
+  {
+    "TagId": 225192,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bow of Searing Arrows",
+      "Arco para flechas abrasadoras",
+      "Arco das Flechas Calcinantes",
+      "Bow of Searing Arrows",
+      "Arco para flechas abrasadoras",
+      "Arc Flèches-de-feu",
+      "Лук Жгучих Стрел",
+      "Bogen der Sengpfeile",
+      "Arco das Flechas Calcinantes",
+      "Arco delle Frecce Roventi",
+      "불타는 활",
+      "灼熱弓",
+      "灼热弓"
+    ],
+    "Media": "inv_weapon_bow_09.jpg"
+  },
+  {
+    "TagId": 225193,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elemental Mage Staff",
+      "Bastón de mago elemental",
+      "Cajado Elemental do Mago",
+      "Elemental Mage Staff",
+      "Bastón de mago elemental",
+      "Bâton de mage élémentaire",
+      "Посох магии стихий",
+      "Stab des Elementarmagiers",
+      "Cajado Elemental do Mago",
+      "Bastone del Mago Elementale",
+      "정령 마법사 지팡이",
+      "元素法杖",
+      "元素法杖"
+    ],
+    "Media": "inv_staff_07.jpg"
+  },
+  {
+    "TagId": 225194,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Redbeard Crest",
+      "Blasón Barbarroja",
+      "Escudo Barbarruiva",
+      "Redbeard Crest",
+      "Blasón Barbarroja",
+      "Écu à bordure rouge",
+      "Рыцарский щит Красной бороды",
+      "Rotbarts Wappen",
+      "Escudo Barbarruiva",
+      "Scudo di Barbarossa",
+      "붉은수염 문장 방패",
+      "紅鬚紋章盾",
+      "红须徽记之盾"
+    ],
+    "Media": "inv_shield_02.jpg"
+  },
+  {
+    "TagId": 225195,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Axe of the Deep Woods",
+      "Hacha del Bosque Profundo",
+      "Machado das Matas Profundas",
+      "Axe of the Deep Woods",
+      "Hacha del bosque profundo",
+      "Hache des bois profonds",
+      "Топор Лесных чащоб",
+      "Axt des Tiefwaldes",
+      "Machado das Matas Profundas",
+      "Ascia delle Selve Profonde",
+      "깊은숲 도끼",
+      "密林戰斧",
+      "密林战斧"
+    ],
+    "Media": "inv_axe_07.jpg"
+  },
+  {
+    "TagId": 225196,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grimlok's Charge",
+      "Carga de Grimlok",
+      "Ímpeto de Grimlok",
+      "Grimlok's Charge",
+      "Carga de Grimlok",
+      "Devoir de Grimelok",
+      "Посох Гримлока",
+      "Grimloks Attacke",
+      "Ímpeto de Grimlok",
+      "Guisarma di Tetrok",
+      "그림로크의 창",
+      "格瑞姆洛克之矛",
+      "格瑞姆洛克之矛"
+    ],
+    "Media": "inv_spear_08.jpg"
+  },
+  {
+    "TagId": 225197,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Shocker",
+      "Aplastador carmesí",
+      "Choque Carmesim",
+      "Crimson Shocker",
+      "Electrocutora carmesí",
+      "Abrutisseur cramoisi",
+      "Багровый шокер",
+      "Purpurroter Schocker",
+      "Choque Carmesim",
+      "Fulminatore Cremisi",
+      "진홍의 충격봉",
+      "赤紅震盪者",
+      "赤红震荡者"
+    ],
+    "Media": "inv_staff_13.jpg"
+  },
+  {
+    "TagId": 225198,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Warden Staff",
+      "Bastón de celador",
+      "Cajado Guardião",
+      "Warden Staff",
+      "Bastón de celador",
+      "Bâton de sylvegarde",
+      "Посох тюремщика",
+      "Stab des Aufsehers",
+      "Cajado Guardião",
+      "Bastone del Custode",
+      "교도관 지팡이",
+      "看守者法杖",
+      "典狱官法杖"
+    ],
+    "Media": "inv_staff_29.jpg"
+  },
+  {
+    "TagId": 225199,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Flurry Axe",
+      "Hacha aluvión",
+      "Machado de Rajadas",
+      "Flurry Axe",
+      "Hacha vendabal",
+      "Hache-rafale",
+      "Топор шквала",
+      "Wirbelwindaxt",
+      "Machado de Rajadas",
+      "Ascia Vorticosa",
+      "질풍의 도끼",
+      "風暴戰斧",
+      "风暴战斧"
+    ],
+    "Media": "inv_axe_17.jpg"
+  },
+  {
+    "TagId": 225200,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Alcor's Sunrazor",
+      "Navaja solar de Alcor",
+      "Navalha Solar de Alcor",
+      "Alcor's Sunrazor",
+      "Navaja solar de Alcor",
+      "Rasoir solaire d’Alcor",
+      "Солнечное лезвие Алькора",
+      "Alcors Sonnenschneide",
+      "Navalha Solar de Alcor",
+      "Rasoio di Alcor",
+      "알코르의 태양비수",
+      "亞考爾的陽炎刀",
+      "亚考尔的阳炎刀"
+    ],
+    "Media": "inv_sword_34.jpg"
+  },
+  {
+    "TagId": 225201,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Precisely Calibrated Rifle",
+      "Rifle calibrado milimétricamente",
+      "Rifle Precisamente Calibrado",
+      "Precisely Calibrated Rifle",
+      "Rifle calibrado milimétricamente",
+      "Fusil soigneusement calibré",
+      "Пристрелянное ружье",
+      "Präzise kalibriertes Gewehr",
+      "Rifle Precisamente Calibrado",
+      "Archibugio Calibrato Preciso",
+      "정밀하게 교정된 소총",
+      "精確校準過的步槍",
+      "精确校准过的步枪"
+    ],
+    "Media": "inv_weapon_rifle_06.jpg"
+  },
+  {
     "TagId": 225202,
     "TagType": 21,
     "Names": [
@@ -193,10 +2923,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Beledar- The Emperor's Vision",
+      "Beledar - The Emperor's Vision",
       "Beledar - La visión del emperador",
       "Beledar – A Visão do Imperador",
-      "Beledar- The Emperor's Vision",
+      "Beledar - The Emperor's Vision",
       "Beledar: Visión del Emperador",
       "Beledar – la Vision de l’empereur",
       "Беледар: видение императора",
@@ -1176,6 +3906,27 @@
     "Media": "inv_misc_coinbag08.jpg"
   },
   {
+    "TagId": 225250,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Startouched Furline",
+      "Ronroneante astroungido",
+      "Pelino Tocado pelos Astros",
+      "Startouched Furline",
+      "Micifuz tocado por las estrellas",
+      "Féligre béni des cieux",
+      "Звездный мурмуровоз",
+      "Sternenberührtes Fellknäuel",
+      "Pelino Tocado pelos Astros",
+      "Sofficiotto Astrale",
+      "별빛을 머금은 복슬냥이",
+      "星觸毛毛貓",
+      "星触绒猫"
+    ],
+    "Media": "inv_starcatmount.jpg"
+  },
+  {
     "TagId": 225251,
     "TagType": 21,
     "Names": [
@@ -1195,6 +3946,27 @@
       "拆卸发明"
     ],
     "Media": "ui_profession_engineering.jpg"
+  },
+  {
+    "TagId": 225252,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bronze Celebration Token",
+      "Medalla de celebración de bronce",
+      "Ficha da Celebração Bronze",
+      "Bronze Celebration Token",
+      "Ficha de la celebración bronce",
+      "Jeton des célébrations de bronze",
+      "Жетон торжества бронзовых драконов",
+      "Bronzedrachenfeierabzeichen",
+      "Ficha da Celebração Bronze",
+      "Emblema della Celebrazione di Bronzo",
+      "청동 기념제 징표",
+      "青銅龍慶典代幣",
+      "青铜庆典奖币"
+    ],
+    "Media": "inv_10_dungeonjewelry_dragon_necklace_1_bronze.jpg"
   },
   {
     "TagId": 225253,
@@ -3171,6 +5943,27 @@
     "Media": "inv_tailoring_modifiedcraftingreagent_indigo.jpg"
   },
   {
+    "TagId": 225348,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancient Timewarped Scroll",
+      "Pergamino cronodistorsionado antiguo",
+      "Pergaminho Transtemporal Ancestral",
+      "Ancient Timewarped Scroll",
+      "Pergamino antiguo distorsionado por el tiempo",
+      "Ancien parchemin distordu dans le temps",
+      "Искаженный временем древний свиток",
+      "Uralte zeitverzerrte Schriftrolle",
+      "Pergaminho Transtemporal Ancestral",
+      "Antica Pergamena Fuoritempo",
+      "고대 시간왜곡 두루마리",
+      "遠古時光扭曲卷軸",
+      "古代时空扭曲卷轴"
+    ],
+    "Media": "inv_scroll_04.jpg"
+  },
+  {
     "TagId": 225349,
     "TagType": 21,
     "Names": [
@@ -3196,19 +5989,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Contract: Artisan's Consortium, Khaz Algar Branch",
-      "Contrato: Sociedad de Artesanos, sucursal Khaz Algar",
-      "Contrato: Consórcio do Artífice, Filial de Khaz Algar",
-      "Contract: Artisan's Consortium, Khaz Algar Branch",
-      "Contrato: Consorcio de Artesanía, sucursal de Khaz Algar",
-      "Contrat\u00A0: consortium d’artisanat, branche de Khaz Algar",
-      "Контракт с Консорциумом ремесленников в Каз Алгаре",
-      "Vertrag: Handwerkerkonsortium, Zweigstelle Khaz Algar",
-      "Contrato: Consórcio do Artífice, Filial de Khaz Algar",
-      "Contratto - Consorzio degli Artigiani, Ramo di Khaz Algar",
-      "계약서: 장인 무역연합 - 카즈 알가르 지부",
-      "合約：工匠聯盟，卡茲阿爾加分部",
-      "合约：工匠商盟 - 卡兹阿加支部"
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)"
     ],
     "Media": "inv_10_inscription2_repcontracts_70_professions_scroll_02_uprez.jpg"
   },
@@ -3217,19 +6010,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Contract: Artisan's Consortium, Khaz Algar Branch",
-      "Contrato: Sociedad de Artesanos, sucursal Khaz Algar",
-      "Contrato: Consórcio do Artífice, Filial de Khaz Algar",
-      "Contract: Artisan's Consortium, Khaz Algar Branch",
-      "Contrato: Consorcio de Artesanía, sucursal de Khaz Algar",
-      "Contrat\u00A0: consortium d’artisanat, branche de Khaz Algar",
-      "Контракт с Консорциумом ремесленников в Каз Алгаре",
-      "Vertrag: Handwerkerkonsortium, Zweigstelle Khaz Algar",
-      "Contrato: Consórcio do Artífice, Filial de Khaz Algar",
-      "Contratto - Consorzio degli Artigiani, Ramo di Khaz Algar",
-      "계약서: 장인 무역연합 - 카즈 알가르 지부",
-      "合約：工匠聯盟，卡茲阿爾加分部",
-      "合约：工匠商盟 - 卡兹阿加支部"
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)"
     ],
     "Media": "inv_10_inscription2_repcontracts_70_professions_scroll_02_uprez.jpg"
   },
@@ -3238,19 +6031,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Contract: Artisan's Consortium, Khaz Algar Branch",
-      "Contrato: Sociedad de Artesanos, sucursal Khaz Algar",
-      "Contrato: Consórcio do Artífice, Filial de Khaz Algar",
-      "Contract: Artisan's Consortium, Khaz Algar Branch",
-      "Contrato: Consorcio de Artesanía, sucursal de Khaz Algar",
-      "Contrat\u00A0: consortium d’artisanat, branche de Khaz Algar",
-      "Контракт с Консорциумом ремесленников в Каз Алгаре",
-      "Vertrag: Handwerkerkonsortium, Zweigstelle Khaz Algar",
-      "Contrato: Consórcio do Artífice, Filial de Khaz Algar",
-      "Contratto - Consorzio degli Artigiani, Ramo di Khaz Algar",
-      "계약서: 장인 무역연합 - 카즈 알가르 지부",
-      "合約：工匠聯盟，卡茲阿爾加分部",
-      "合约：工匠商盟 - 卡兹阿加支部"
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)"
     ],
     "Media": "inv_10_inscription2_repcontracts_70_professions_scroll_02_uprez.jpg"
   },
@@ -3533,7 +6326,7 @@
     "Names": [
       null,
       "Algari Competitor's Pickaxe",
-      "Piqueta de competidor algari",
+      "Piqueta de Competidor algari",
       "Picareta do Competidor Algari",
       "Algari Competitor's Pickaxe",
       "Piqueta de competidor algariano",
@@ -3554,7 +6347,7 @@
     "Names": [
       null,
       "Algari Competitor's Dagger",
-      "Daga de competidor algari",
+      "Daga de Competidor algari",
       "Adaga do Competidor Algari",
       "Algari Competitor's Dagger",
       "Daga de competidor algariano",
@@ -3575,7 +6368,7 @@
     "Names": [
       null,
       "Algari Competitor's Pillar",
-      "Pilar de competidor algari",
+      "Pilar de Competidor algari",
       "Pilar do Competidor Algari",
       "Algari Competitor's Pillar",
       "Pilar de competidor algariano",
@@ -3596,7 +6389,7 @@
     "Names": [
       null,
       "Algari Competitor's Staff",
-      "Bastón de competidor algari",
+      "Bastón de Competidor algari",
       "Cajado do Competidor Algari",
       "Algari Competitor's Staff",
       "Bastón de competidor algariano",
@@ -3617,7 +6410,7 @@
     "Names": [
       null,
       "Algari Competitor's Rifle",
-      "Rifle de competidor algari",
+      "Rifle de Competidor algari",
       "Rifle do Competidor Algari",
       "Algari Competitor's Rifle",
       "Rifle de competidor algariano",
@@ -3638,7 +6431,7 @@
     "Names": [
       null,
       "Algari Competitor's Scepter",
-      "Cetro de competidor algari",
+      "Cetro de Competidor algari",
       "Cetro do Competidor Algari",
       "Algari Competitor's Scepter",
       "Cetro de competidor algariano",
@@ -3659,7 +6452,7 @@
     "Names": [
       null,
       "Algari Competitor's Lamp",
-      "Farol de competidor algari",
+      "Farol de Competidor algari",
       "Lâmpada do Competidor Algari",
       "Algari Competitor's Lamp",
       "Lámpara de competidor algariano",
@@ -3680,7 +6473,7 @@
     "Names": [
       null,
       "Algari Competitor's Shield",
-      "Escudo de competidor algari",
+      "Escudo de Competidor algari",
       "Escudo do Competidor Algari",
       "Algari Competitor's Shield",
       "Escudo de competidor algariano",
@@ -3701,7 +6494,7 @@
     "Names": [
       null,
       "Algari Competitor's Axe",
-      "Hacha de competidor algari",
+      "Hacha de Competidor algari",
       "Machado do Competidor Algari",
       "Algari Competitor's Axe",
       "Hacha de competidor algariano",
@@ -3722,7 +6515,7 @@
     "Names": [
       null,
       "Algari Competitor's Skewer",
-      "Pincho de competidor algari",
+      "Pincho de Competidor algari",
       "Espeto do Competidor Algari",
       "Algari Competitor's Skewer",
       "Pincho de competidor algariano",
@@ -3743,7 +6536,7 @@
     "Names": [
       null,
       "Algari Competitor's Greatsword",
-      "Espada magna de competidor algari",
+      "Espada magna de Competidor algari",
       "Montante do Competidor Algari",
       "Algari Competitor's Greatsword",
       "Espada magna de competidor algariano",
@@ -3764,7 +6557,7 @@
     "Names": [
       null,
       "Algari Competitor's Sword",
-      "Espada de competidor algari",
+      "Espada de Competidor algari",
       "Espada do Competidor Algari",
       "Algari Competitor's Sword",
       "Espada de competidor algariano",
@@ -3778,6 +6571,27 @@
       "阿加竞争者之剑"
     ],
     "Media": "inv_sword_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 225378,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mohawk Grenade",
+      "Granada mohicana",
+      "Granada de Moicano",
+      "Mohawk Grenade",
+      "Granada mohicana",
+      "Grenade punk",
+      "Индейская граната",
+      "Irokesengranate",
+      "Granada de Moicano",
+      "Granata Moicana",
+      "모호크 수류탄",
+      "怪頭手榴彈",
+      "莫霍克手雷"
+    ],
+    "Media": "inv_misc_mohawkgrenade.jpg"
   },
   {
     "TagId": 225379,
@@ -4877,7 +7691,7 @@
     "Names": [
       null,
       "Design: Algari Competitor's Signet",
-      "Diseño: Arganeo de competidor algari",
+      "Diseño: Arganeo de Competidor algari",
       "Desenho: Sinete do Competidor Algari",
       "Design: Algari Competitor's Signet",
       "Boceto: sello de competidor algariano",
@@ -4898,7 +7712,7 @@
     "Names": [
       null,
       "Design: Algari Competitor's Amulet",
-      "Diseño: Amuleto de competidor algari",
+      "Diseño: Amuleto de Competidor algari",
       "Desenho: Amuleto do Competidor Algari",
       "Design: Algari Competitor's Amulet",
       "Boceto: amuleto de competidor algariano",
@@ -4919,7 +7733,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Leggings",
-      "Patrón: Leotardos de tela de competidor algari",
+      "Patrón: Leotardos de tela de Competidor algari",
       "Molde: Perneiras de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Leggings",
       "Patrón: leotardos de tela de competidor algariano",
@@ -4940,7 +7754,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Shoulderpads",
-      "Patrón: Hombreras de tela de competidor algari",
+      "Patrón: Hombreras de tela de Competidor algari",
       "Molde: Ombreiras de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Shoulderpads",
       "Patrón: hombreras de tela de competidor algariano",
@@ -4961,7 +7775,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Treads",
-      "Patrón: Botines de tela de competidor algari",
+      "Patrón: Botines de tela de Competidor algari",
       "Molde: Botinas de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Treads",
       "Patrón: botines de tela de competidor algariano",
@@ -4982,7 +7796,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Bands",
-      "Patrón: Braciles de tela de competidor algari",
+      "Patrón: Braciles de tela de Competidor algari",
       "Molde: Embraces de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Bands",
       "Patrón: braciles de tela de competidor algariano",
@@ -5003,7 +7817,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Hood",
-      "Patrón: Caperuza de tela de competidor algari",
+      "Patrón: Caperuza de tela de Competidor algari",
       "Molde: Capuz de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Hood",
       "Patrón: caperuza de tela de competidor algariano",
@@ -5024,7 +7838,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Gloves",
-      "Patrón: Guantes de tela de competidor algari",
+      "Patrón: Guantes de tela de Competidor algari",
       "Molde: Luvas de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Gloves",
       "Patrón: guantes de tela de competidor algariano",
@@ -5045,7 +7859,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Tunic",
-      "Patrón: Túnica de tela de competidor algari",
+      "Patrón: Túnica de tela de Competidor algari",
       "Molde: Túnica de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Tunic",
       "Patrón: guerrera de tela de competidor algariano",
@@ -5066,7 +7880,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Sash",
-      "Patrón: Fajín de tela de competidor algari",
+      "Patrón: Fajín de tela de Competidor algari",
       "Molde: Faixa de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Sash",
       "Patrón: fajín de tela de competidor algariano",
@@ -5087,7 +7901,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Cloth Cloak",
-      "Patrón: Capa de tela de competidor algari",
+      "Patrón: Capa de tela de Competidor algari",
       "Molde: Manto de Tecido do Competidor Algari",
       "Pattern: Algari Competitor's Cloth Cloak",
       "Patrón: capa de tela de competidor algariano",
@@ -5108,7 +7922,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Boots",
-      "Patrón: Botas de cuero de competidor algari",
+      "Patrón: Botas de cuero de Competidor algari",
       "Molde: Botas de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Boots",
       "Patrón: botas de cuero de competidor algariano",
@@ -5129,7 +7943,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Chestpiece",
-      "Patrón: Pechera de cuero de competidor algari",
+      "Patrón: Pechera de cuero de Competidor algari",
       "Molde: Peito d'Armas de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Chestpiece",
       "Patrón: pechera de cuero de competidor algariano",
@@ -5150,7 +7964,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Mask",
-      "Patrón: Máscara de cuero de competidor algari",
+      "Patrón: Máscara de cuero de Competidor algari",
       "Molde: Máscara de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Mask",
       "Patrón: máscara de cuero de competidor algariano",
@@ -5171,7 +7985,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Shoulderpads",
-      "Patrón: Hombreras de cuero de competidor algari",
+      "Patrón: Hombreras de cuero de Competidor algari",
       "Molde: Ombreiras de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Shoulderpads",
       "Patrón: hombreras de cuero de competidor algariano",
@@ -5192,7 +8006,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Belt",
-      "Patrón: Cinturón de cuero de competidor algari",
+      "Patrón: Cinturón de cuero de Competidor algari",
       "Molde: Cinto de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Belt",
       "Patrón: cinturón de cuero de competidor algariano",
@@ -5213,7 +8027,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Trousers",
-      "Patrón: Calzas de cuero de competidor algari",
+      "Patrón: Calzas de cuero de Competidor algari",
       "Molde: Calçotes de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Trousers",
       "Patrón: calzas de cuero de competidor algariano",
@@ -5234,7 +8048,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Gloves",
-      "Patrón: Guantes de cuero de competidor algari",
+      "Patrón: Guantes de cuero de Competidor algari",
       "Molde: Luvas de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Gloves",
       "Patrón: guantes de cuero de competidor algariano",
@@ -5255,7 +8069,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Leather Wristwraps",
-      "Patrón: Cubremuñecas de cuero de competidor algari",
+      "Patrón: Cubremuñecas de cuero de Competidor algari",
       "Molde: Munhecas de Couro do Competidor Algari",
       "Pattern: Algari Competitor's Leather Wristwraps",
       "Patrón: cubremuñecas de cuero de competidor algariano",
@@ -5276,7 +8090,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Treads",
-      "Patrón: Botines de anillas de competidor algari",
+      "Patrón: Botines de anillas de Competidor algari",
       "Molde: Botinas Encadeadas do Competidor Algari",
       "Pattern: Algari Competitor's Chain Treads",
       "Patrón: botines de anillas de competidor algariano",
@@ -5297,7 +8111,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Chainmail",
-      "Patrón: Malla de anillas de competidor algari",
+      "Patrón: Malla de anillas de Competidor algari",
       "Molde: Malha de Anéis do Competidor Algari",
       "Pattern: Algari Competitor's Chain Chainmail",
       "Patrón: malla de anillas de anillas de competidor algariano",
@@ -5318,7 +8132,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Cowl",
-      "Patrón: Capucha de anillas de competidor algari",
+      "Patrón: Capucha de anillas de Competidor algari",
       "Molde: Capucho Encadeado do Competidor Algari",
       "Pattern: Algari Competitor's Chain Cowl",
       "Patrón: capucha de anillas de competidor algariano",
@@ -5339,7 +8153,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Epaulets",
-      "Patrón: Cubrehombros de anillas de competidor algari",
+      "Patrón: Cubrehombros de anillas de Competidor algari",
       "Molde: Palas Encadeadas do Competidor Algari",
       "Pattern: Algari Competitor's Chain Epaulets",
       "Patrón: cubrehombros de anillas de competidor algariano",
@@ -5360,7 +8174,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Girdle",
-      "Patrón: Faja de anillas de competidor algari",
+      "Patrón: Faja de anillas de Competidor algari",
       "Molde: Cinturão Encadeado do Competidor Algari",
       "Pattern: Algari Competitor's Chain Girdle",
       "Patrón: faja de anillas de competidor algariano",
@@ -5381,7 +8195,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Leggings",
-      "Patrón: Leotardos de anillas de competidor algari",
+      "Patrón: Leotardos de anillas de Competidor algari",
       "Molde: Perneiras Encadeadas do Competidor Algari",
       "Pattern: Algari Competitor's Chain Leggings",
       "Patrón: leotardos de anillas de competidor algariano",
@@ -5402,7 +8216,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Gauntlets",
-      "Patrón: Guanteletes de anillas de competidor algari",
+      "Patrón: Guanteletes de anillas de Competidor algari",
       "Molde: Manoplas Encadeadas do Competidor Algari",
       "Pattern: Algari Competitor's Chain Gauntlets",
       "Patrón: guanteletes de anillas de competidor algariano",
@@ -5423,7 +8237,7 @@
     "Names": [
       null,
       "Pattern: Algari Competitor's Chain Cuffs",
-      "Patrón: Puños de anillas de competidor algari",
+      "Patrón: Puños de anillas de Competidor algari",
       "Molde: Manilhas Encadeadas do Competidor Algari",
       "Pattern: Algari Competitor's Chain Cuffs",
       "Patrón: puños de anillas de competidor algariano",
@@ -5444,7 +8258,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Breastplate",
-      "Diseño: Coraza de placas de competidor algari",
+      "Diseño: Coraza de placas de Competidor algari",
       "Instruções: Peitoral de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Breastplate",
       "Diseño: coraza de placas de competidor algariano",
@@ -5465,7 +8279,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Sabatons",
-      "Diseño: Escarpes de placas de competidor algari",
+      "Diseño: Escarpes de placas de Competidor algari",
       "Instruções: Escarpes de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Sabatons",
       "Diseño: escarpes de placas de competidor algariano",
@@ -5486,7 +8300,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Gauntlets",
-      "Diseño: Guanteletes de placas de competidor algari",
+      "Diseño: Guanteletes de placas de Competidor algari",
       "Instruções: Manoplas de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Gauntlets",
       "Diseño: guanteletes de placas de competidor algariano",
@@ -5507,7 +8321,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Helm",
-      "Diseño: Yelmo de placas de competidor algari",
+      "Diseño: Yelmo de placas de Competidor algari",
       "Instruções: Elmo de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Helm",
       "Diseño: yelmo de placas de competidor algariano",
@@ -5528,7 +8342,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Greaves",
-      "Diseño: Grebas de placas de competidor algari",
+      "Diseño: Grebas de placas de Competidor algari",
       "Instruções: Grevas de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Greaves",
       "Diseño: grebas de placas de competidor algariano",
@@ -5549,7 +8363,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Pauldrons",
-      "Diseño: Espaldares de placas de competidor algari",
+      "Diseño: Espaldares de placas de Competidor algari",
       "Instruções: Brafoneiras de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Pauldrons",
       "Diseño: espaldares de placas de competidor algariano",
@@ -5570,7 +8384,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Waistguard",
-      "Diseño: Guardarrenes de placas de competidor algari",
+      "Diseño: Guardarrenes de placas de Competidor algari",
       "Instruções: Cinta de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Waistguard",
       "Diseño: guardarrenes de placas de competidor algariano",
@@ -5591,7 +8405,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Plate Armguards",
-      "Diseño: Guardabrazos de placas de competidor algari",
+      "Diseño: Guardabrazos de placas de Competidor algari",
       "Instruções: Guarda-braços de Placa do Competidor Algari",
       "Plans: Algari Competitor's Plate Armguards",
       "Diseño: guardabrazos de placas de competidor algariano",
@@ -5612,7 +8426,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Cloth Goggles",
-      "Esquema: Gafas de tela de competidor algari",
+      "Esquema: Gafas de tela de Competidor algari",
       "Diagrama: Óculos de Tecido do Competidor Algari",
       "Schematic: Algari Competitor's Cloth Goggles",
       "Esquema: gafas de tela de competidor algariano",
@@ -5633,7 +8447,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Leather Goggles",
-      "Esquema: Gafas de cuero de competidor algari",
+      "Esquema: Gafas de cuero de Competidor algari",
       "Diagrama: Óculos de Couro do Competidor Algari",
       "Schematic: Algari Competitor's Leather Goggles",
       "Esquema: gafas de cuero de competidor algariano",
@@ -5654,7 +8468,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Mail Goggles",
-      "Esquema: Gafas de malla de competidor algari",
+      "Esquema: Gafas de malla de Competidor algari",
       "Diagrama: Óculos de Malha do Competidor Algari",
       "Schematic: Algari Competitor's Mail Goggles",
       "Esquema: gafas de malla de competidor algariano",
@@ -5675,7 +8489,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Plate Goggles",
-      "Esquema: Gafas de placas de competidor algari",
+      "Esquema: Gafas de placas de Competidor algari",
       "Diagrama: Óculos de Placa do Competidor Algari",
       "Schematic: Algari Competitor's Plate Goggles",
       "Esquema: gafas de placas de competidor algariano",
@@ -5696,7 +8510,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Cloth Bracers",
-      "Esquema: Brazales de tela de competidor algari",
+      "Esquema: Brazales de tela de Competidor algari",
       "Diagrama: Braçadeiras de Tecido do Competidor Algari",
       "Schematic: Algari Competitor's Cloth Bracers",
       "Esquema: brazales de tela de competidor algariano",
@@ -5717,7 +8531,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Leather Bracers",
-      "Esquema: Brazales de cuero de competidor algari",
+      "Esquema: Brazales de cuero de Competidor algari",
       "Diagrama: Braçadeiras de Couro do Competidor Algari",
       "Schematic: Algari Competitor's Leather Bracers",
       "Esquema: brazales de cuero de competidor algariano",
@@ -5738,7 +8552,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Mail Bracers",
-      "Esquema: Brazales de malla de competidor algari",
+      "Esquema: Brazales de malla de Competidor algari",
       "Diagrama: Braçadeiras de Malha do Competidor Algari",
       "Schematic: Algari Competitor's Mail Bracers",
       "Esquema: brazales de malla de competidor algariano",
@@ -5759,7 +8573,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Plate Bracers",
-      "Esquema: Brazales de placas de competidor algari",
+      "Esquema: Brazales de placas de Competidor algari",
       "Diagrama: Braçadeiras de Placa do Competidor Algari",
       "Schematic: Algari Competitor's Plate Bracers",
       "Esquema: brazales de placas de competidor algariano",
@@ -5780,7 +8594,7 @@
     "Names": [
       null,
       "Technique: Algari Competitor's Medallion",
-      "Técnica: Medallón de competidor algari",
+      "Técnica: Medallón de Competidor algari",
       "Técnica: Medalhão do Competidor Algari",
       "Technique: Algari Competitor's Medallion",
       "Técnica: Medallón de competidor algariano",
@@ -5801,7 +8615,7 @@
     "Names": [
       null,
       "Technique: Algari Competitor's Insignia of Alacrity",
-      "Técnica: Insignia de prontitud de competidor algari",
+      "Técnica: Insignia de prontitud de Competidor algari",
       "Técnica: Insígnia de Diligência do Competidor Algari",
       "Technique: Algari Competitor's Insignia of Alacrity",
       "Técnica: Insignia de prontitud de competidor algariano",
@@ -5822,7 +8636,7 @@
     "Names": [
       null,
       "Technique: Algari Competitor's Emblem",
-      "Técnica: Emblema de competidor algari",
+      "Técnica: Emblema de Competidor algari",
       "Técnica: Emblema do Competidor Algari",
       "Technique: Algari Competitor's Emblem",
       "Técnica: Emblema de competidor algariano",
@@ -5843,7 +8657,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Pickaxe",
-      "Diseño: Piqueta de competidor algari",
+      "Diseño: Piqueta de Competidor algari",
       "Instruções: Picareta do Competidor Algari",
       "Plans: Algari Competitor's Pickaxe",
       "Diseño: piqueta de competidor algariano",
@@ -5864,7 +8678,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Dagger",
-      "Diseño: Daga de competidor algari",
+      "Diseño: Daga de Competidor algari",
       "Instruções: Adaga do Competidor Algari",
       "Plans: Algari Competitor's Dagger",
       "Diseño: daga de competidor algariano",
@@ -5885,7 +8699,7 @@
     "Names": [
       null,
       "Technique: Algari Competitor's Pillar",
-      "Técnica: Pilar de competidor algari",
+      "Técnica: Pilar de Competidor algari",
       "Técnica: Pilar do Competidor Algari",
       "Technique: Algari Competitor's Pillar",
       "Técnica: Pilar de competidor algariano",
@@ -5906,7 +8720,7 @@
     "Names": [
       null,
       "Technique: Algari Competitor's Staff",
-      "Técnica: Bastón de competidor algari",
+      "Técnica: Bastón de Competidor algari",
       "Técnica: Cajado do Competidor Algari",
       "Technique: Algari Competitor's Staff",
       "Técnica: Bastón de competidor algariano",
@@ -5927,7 +8741,7 @@
     "Names": [
       null,
       "Schematic: Algari Competitor's Rifle",
-      "Esquema: Rifle de competidor algari",
+      "Esquema: Rifle de Competidor algari",
       "Diagrama: Rifle do Competidor Algari",
       "Schematic: Algari Competitor's Rifle",
       "Esquema: rifle de competidor algariano",
@@ -5948,7 +8762,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Scepter",
-      "Diseño: Cetro de competidor algari",
+      "Diseño: Cetro de Competidor algari",
       "Instruções: Cetro do Competidor Algari",
       "Plans: Algari Competitor's Scepter",
       "Diseño: cetro de competidor algariano",
@@ -5969,7 +8783,7 @@
     "Names": [
       null,
       "Technique: Algari Competitor's Censer",
-      "Técnica: Incensario de competidor algari",
+      "Técnica: Incensario de Competidor algari",
       "Técnica: Incensário do Competidor Algari",
       "Technique: Algari Competitor's Censer",
       "Técnica: Incensario de competidor algariano",
@@ -5990,7 +8804,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Shield",
-      "Diseño: Escudo de competidor algari",
+      "Diseño: Escudo de Competidor algari",
       "Instruções: Escudo do Competidor Algari",
       "Plans: Algari Competitor's Shield",
       "Diseño: escudo de competidor algariano",
@@ -6011,7 +8825,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Axe",
-      "Diseño: Hacha de competidor algari",
+      "Diseño: Hacha de Competidor algari",
       "Instruções: Machado do Competidor Algari",
       "Plans: Algari Competitor's Axe",
       "Diseño: hacha de competidor algariano",
@@ -6032,7 +8846,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Skewer",
-      "Diseño: Pincho de competidor algari",
+      "Diseño: Pincho de Competidor algari",
       "Instruções: Espeto do Competidor Algari",
       "Plans: Algari Competitor's Skewer",
       "Diseño: pincho de competidor algariano",
@@ -6053,7 +8867,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Greatsword",
-      "Diseño: Espada magna de competidor algari",
+      "Diseño: Espada magna de Competidor algari",
       "Instruções: Montante do Competidor Algari",
       "Plans: Algari Competitor's Greatsword",
       "Diseño: espada magna de competidor algariano",
@@ -6074,7 +8888,7 @@
     "Names": [
       null,
       "Plans: Algari Competitor's Sword",
-      "Diseño: Espada de competidor algari",
+      "Diseño: Espada de Competidor algari",
       "Instruções: Espada do Competidor Algari",
       "Plans: Algari Competitor's Sword",
       "Diseño: espada de competidor algariano",
@@ -7928,7 +10742,7 @@
       "Hebillas encubiertas de Ky'veza",
       "Fermoirs cachés de Ky’veza",
       "Скрытые застежки Ки'везы",
-      "Ky'vezas verdeckter Schnallengürtel",
+      "Ky'vezas verdeckter Armreif",
       "Fechos Secretos de Ky'veza",
       "Copripolsi di Ky'veza",
       "카이베자의 은밀한 죔쇠띠",
@@ -9039,7 +11853,7 @@
       "Badulaque Envolto em Teias",
       "Web-Wrapped Curio",
       "Bibelot envuelto en telarañas",
-      "Bibelot enveloppée de toile",
+      "Bibelot enveloppé de toile",
       "Опутанная паутиной диковинка",
       "Eingesponnene Kuriosität",
       "Badulaque Envolto em Teias",
@@ -9580,19 +12394,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Burning Binding",
-      "Vinculación ardiente",
-      "Amarra Ardente",
-      "Burning Binding",
-      "Vinculación ardiente",
-      "Bandages en feu",
-      "Горящие узы",
-      "Brennende Bindung",
-      "Amarra Ardente",
-      "Manette Brucianti",
-      "타오르는 결속",
-      "燃燒之縛",
-      "炽燃束腕"
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)",
+      "zzOld Do Not Use (DNT)"
     ],
     "Media": "inv_plate_outdoorarathor_d_01_bracer.jpg"
   },
@@ -9805,6 +12619,27 @@
       "烁光混沌"
     ],
     "Media": "inv_misc_food_legion_gooamberblue_chunk.jpg"
+  },
+  {
+    "TagId": 225678,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spare Key to Shaffar's Stasis Chamber",
+      "Llave de repuesto de la Cámara de Estasis de Shaffar",
+      "Chave Reserva da Câmara de Estase de Shaffar",
+      "Spare Key to Shaffar's Stasis Chamber",
+      "Llave de repuesto de la Cámara de Estasis de Shaffar",
+      "Double de la clé de la chambre de stase de Shaffar",
+      "Запасной ключ от Палаты стазиса Шаффара",
+      "Ersatzschlüssel für Shaffars Stasiskammer",
+      "Chave Reserva da Câmara de Estase de Shaffar",
+      "Chiave di Scorta della Camera di Stasi di Shaffar",
+      "샤파르의 감금실 예비 열쇠",
+      "薩法爾的靜止密室的備用鑰匙",
+      "沙法尔的静止间备用钥匙"
+    ],
+    "Media": "inv_qiraj_jewelglyphed.jpg"
   },
   {
     "TagId": 225679,
@@ -14390,7 +17225,7 @@
     "Names": [
       null,
       "Fine Gloves of the Forest",
-      "Guantes finos del Bosque",
+      "Guantes finos del bosque",
       "Luvas Finas da Floresta",
       "Fine Gloves of the Forest",
       "Guantes finos del bosque",

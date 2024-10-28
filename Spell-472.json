@@ -5,7 +5,7 @@
     "Names": [
       null,
       "Call Web Terror",
-      "Invocar Horror de telarañas",
+      "Invocar horror de telarañas",
       "Chamar Terror da Teia",
       "Call Web Terror",
       "Llamar a terror de telarañas",
@@ -19,6 +19,153 @@
       "召唤蛛网恐魔"
     ],
     "Media": "inv_ability_web_orb.jpg"
+  },
+  {
+    "TagId": 472067,
+    "TagType": 26,
+    "Names": [
+      null,
+      "TBC Timewalking Marker",
+      "Marcador de cronoviaje TBC",
+      "Marcador de Caminhada Temporal TBC",
+      "TBC Timewalking Marker",
+      "Marcador de Paseo en el tiempo de TBC",
+      "Marqueur des Marcheurs du temps TBC",
+      "Метка путешествия во времени эпохи The Burning Crusade",
+      "TBC: Zeitwanderungsmarkierung",
+      "Marcador de Caminhada Temporal TBC",
+      "Indicatore Viaggi nel Tempo di The Burning Crusade",
+      "TBC 시간여행 표시기",
+      "燃燒的遠征時光漫遊標記",
+      "燃烧的远征时空漫游标记"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472068,
+    "TagType": 26,
+    "Names": [
+      null,
+      "WLK Timewalking Marker",
+      "Marcador de cronoviaje WLK",
+      "Marcador de Caminhada Temporal WLK",
+      "WLK Timewalking Marker",
+      "Marcador de Paseo en el tiempo de WLK",
+      "Marqueur des Marcheurs du temps WLK",
+      "Метка путешествия во времени эпохи Wrath of the Lich King",
+      "WLK: Zeitwanderungsmarkierung",
+      "Marcador de Caminhada Temporal WLK",
+      "Indicatore Viaggi nel Tempo di Wrath of the Lich King",
+      "WLK 시간여행 표시기",
+      "巫妖王之怒時光漫遊標記",
+      "巫妖王之怒时空漫游标记"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472070,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Classic Timewalking Marker",
+      "Marcador de cronoviaje de Classic",
+      "Marcador de Caminhada Temporal de Classic",
+      "Classic Timewalking Marker",
+      "Marcador de Paseo en el tiempo de Classic",
+      "Marqueur des Marcheurs du temps de Classic",
+      "Метка путешествия во времени классической эпохи",
+      "Classic: Zeitwanderungsmarkierung",
+      "Marcador de Caminhada Temporal de Classic",
+      "Indicatore Viaggi nel Tempo di Classic",
+      "클래식 시간여행 표지",
+      "艾澤拉斯時光漫遊標記",
+      "经典旧世时空漫游标记"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472071,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Blink",
+      "Traslación sombría",
+      "Lampejo Sombrio",
+      "Shadow Blink",
+      "Traslación sombría",
+      "Transfert de l’ombre",
+      "Теневой скачок",
+      "Schattenblinzeln",
+      "Lampejo Sombrio",
+      "Traslazione d'Ombra",
+      "어둠의 점멸",
+      "暗影傳送",
+      "暗影闪现"
+    ],
+    "Media": "ability_rogue_shadowstep.jpg"
+  },
+  {
+    "TagId": 472084,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bleak Powder",
+      "Pólvora lúgubre",
+      "Pólvora Sinistra",
+      "Bleak Powder",
+      "Pólvora desoladora",
+      "Poudre sinistre",
+      "Бледный порох",
+      "Düsterpulver",
+      "Pólvora Sinistra",
+      "Polvere Cupa",
+      "황폐의 화약",
+      "陰蝕火藥",
+      "黯然火药"
+    ],
+    "Media": "inv_misc_powder_tin.jpg"
+  },
+  {
+    "TagId": 472092,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472122,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tiragard Sound",
+      "Canal de Tiragarde",
+      "Estreito Tiragarde",
+      "Tiragard Sound",
+      "Estrecho de Tiragarde",
+      "Rade de Tiragarde",
+      "Тирагардское поморье",
+      "Tiragardesund",
+      "Estreito Tiragarde",
+      "Baia di Tiragarde",
+      "티라가드 해협",
+      "提拉加德海灣",
+      "提拉加德海峡"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 472128,
@@ -42,12 +189,54 @@
     "Media": "spell_nature_acid_01.jpg"
   },
   {
+    "TagId": 472149,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Return to Chromie",
+      "Volver con Cromi",
+      "Retornar a Crona",
+      "Return to Chromie",
+      "Volver junto a Cromi",
+      "Retourner voir Chromie",
+      "Возвращение к Хроми",
+      "Zu Chromie zurückkehren",
+      "Retornar a Crona",
+      "Ritorno da Cromie",
+      "크로미에게 가기",
+      "回去找克羅米",
+      "返回到克罗米身边"
+    ],
+    "Media": "inv_wyvernpetblackdragon_yellow.jpg"
+  },
+  {
+    "TagId": 472156,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual of Summoning",
+      "Ritual de invocación",
+      "Ritual de Evocação",
+      "Ritual of Summoning",
+      "Ritual de invocación",
+      "Rituel d’invocation",
+      "Ритуал призыва",
+      "Ritual der Beschwörung",
+      "Ritual de Evocação",
+      "Rituale d'Evocazione",
+      "소환 의식",
+      "召喚儀式",
+      "召唤仪式"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 472158,
     "TagType": 26,
     "Names": [
       null,
       "Call Web Terror",
-      "Invocar Horror de telarañas",
+      "Invocar horror de telarañas",
       "Chamar Terror da Teia",
       "Call Web Terror",
       "Llamar a terror de telarañas",
@@ -68,7 +257,7 @@
     "Names": [
       null,
       "Call Web Terror",
-      "Invocar Horror de telarañas",
+      "Invocar horror de telarañas",
       "Chamar Terror da Teia",
       "Call Web Terror",
       "Llamar a terror de telarañas",
@@ -84,6 +273,69 @@
     "Media": "inv_ability_web_orb.jpg"
   },
   {
+    "TagId": 472173,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soul Breaker",
+      "Quebrador de almas",
+      "Quebra-alma",
+      "Soul Breaker",
+      "Quebrador de almas",
+      "Brise-âme",
+      "Душедробитель",
+      "Brecher der Seelen",
+      "Quebra-alma",
+      "Spezzanima",
+      "영혼의 파괴자",
+      "破靈術",
+      "灵魂击碎者"
+    ],
+    "Media": "spell_shadow_haunting.jpg"
+  },
+  {
+    "TagId": 472174,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soul Breaker",
+      "Quebrador de almas",
+      "Quebra-alma",
+      "Soul Breaker",
+      "Quebrador de almas",
+      "Brise-âme",
+      "Душедробитель",
+      "Brecher der Seelen",
+      "Quebra-alma",
+      "Spezzanima",
+      "영혼의 파괴자",
+      "破靈術",
+      "灵魂击碎者"
+    ],
+    "Media": "inv_sword_14.jpg"
+  },
+  {
+    "TagId": 472175,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rend",
+      "Desgarrar",
+      "Dilacerar",
+      "Rend",
+      "Desgarrar",
+      "Pourfendre",
+      "Кровопускание",
+      "Verwunden",
+      "Dilacerar",
+      "Squartamento",
+      "분쇄",
+      "撕裂",
+      "撕裂"
+    ],
+    "Media": "ability_gouge.jpg"
+  },
+  {
     "TagId": 472214,
     "TagType": 26,
     "Names": [
@@ -93,14 +345,329 @@
       "AI Cast AoE",
       "AI Cast AoE",
       "Lanzamiento de AdE de la IA",
+      "Incantation à effet de zone – IA",
+      "Заклинание ИИ с действием по области",
+      "KI-Flächenzauber",
       "AI Cast AoE",
-      "AI Cast AoE",
-      "AI Cast AoE",
-      "AI Cast AoE",
-      "AI Cast AoE",
-      "AI Cast AoE",
-      "AI Cast AoE",
-      "AI Cast AoE"
+      "IA Lancio Area d'Effetto",
+      "AI 광역 시전",
+      "AI施放範圍技能",
+      "AI施放范围效果"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472235,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Prayer",
+      "Rezo oscuro",
+      "Oração Sombria",
+      "Dark Prayer",
+      "Plegaria oscura",
+      "Prière sombre",
+      "Темная молитва",
+      "Dunkles Gebet",
+      "Oração Sombria",
+      "Preghiera Oscura",
+      "어둠의 기도",
+      "黑暗禱言",
+      "黑暗祷言"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472249,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying",
+      "[DNT] - disable flying"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472287,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Xal'atath's Bargain: Oblivion",
+      "Pacto de Xal'atath: Olvido",
+      "Barganha de Xal'atath: Oblívio",
+      "Xal'atath's Bargain: Oblivion",
+      "Trato de Xal'atath: Olvido",
+      "Marché de Xal’atath\u00A0: oubli",
+      "Сделка с Ксал'атат: забвение",
+      "Xal'ataths Handel: Vergessen",
+      "Barganha de Xal'atath: Oblívio",
+      "Patto di Xal'atath: Oblio",
+      "잘아타스의 제안: 망각",
+      "薩拉塔斯的交易：滅絕",
+      "萨拉塔斯的交易：湮灭"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472288,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Xal'atath's Bargain: Oblivion",
+      "Pacto de Xal'atath: Olvido",
+      "Barganha de Xal'atath: Oblívio",
+      "Xal'atath's Bargain: Oblivion",
+      "Trato de Xal'atath: Olvido",
+      "Marché de Xal’atath\u00A0: oubli",
+      "Сделка с Ксал'атат: забвение",
+      "Xal'ataths Handel: Vergessen",
+      "Barganha de Xal'atath: Oblívio",
+      "Patto di Xal'atath: Oblio",
+      "잘아타스의 제안: 망각",
+      "薩拉塔斯的交易：滅絕",
+      "萨拉塔斯的交易：湮灭"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472300,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Xal'atath's Bargain: Oblivion",
+      "Pacto de Xal'atath: Olvido",
+      "Barganha de Xal'atath: Oblívio",
+      "Xal'atath's Bargain: Oblivion",
+      "Trato de Xal'atath: Olvido",
+      "Marché de Xal’atath\u00A0: oubli",
+      "Сделка с Ксал'атат: забвение",
+      "Xal'ataths Handel: Vergessen",
+      "Barganha de Xal'atath: Oblívio",
+      "Patto di Xal'atath: Oblio",
+      "잘아타스의 제안: 망각",
+      "薩拉塔斯的交易：滅絕",
+      "萨拉塔斯的交易：湮灭"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472301,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul’thraze",
+      "Суль'траз",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "술트라제",
+      "蘇薩斯",
+      "苏萨斯"
+    ],
+    "Media": "spell_shadow_deathcoil.jpg"
+  },
+  {
+    "TagId": 472302,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul’thraze",
+      "Суль'траз",
+      "Sul'thraze",
+      "Sul'thraze",
+      "Sul'thraze",
+      "술트라제",
+      "蘇薩斯",
+      "苏萨斯"
+    ],
+    "Media": "inv_sword_40.jpg"
+  },
+  {
+    "TagId": 472303,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Malown's Slam",
+      "Embate de Gassol",
+      "Marretão do Malone",
+      "Malown's Slam",
+      "Embate de Gassol",
+      "Disloqueur de Malown",
+      "Хлопушка Мэлоуна",
+      "Malowns Zerschmetterer",
+      "Marretão do Malone",
+      "Urto di Malown",
+      "말로운의 망치",
+      "瑪羅恩的猛擊",
+      "马龙之肘"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472304,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Surge of Strength",
+      "Oleada de fuerza",
+      "Surto de Força",
+      "Surge of Strength",
+      "Oleada de fuerza",
+      "Vague de force",
+      "Выброс Силы",
+      "Woge der Kraft",
+      "Surto de Força",
+      "Impeto di Forza",
+      "굽이치는 힘",
+      "力量澎湃",
+      "强度激增"
+    ],
+    "Media": "spell_nature_strength.jpg"
+  },
+  {
+    "TagId": 472305,
+    "TagType": 26,
+    "Names": [
+      null,
+      "For the Horde!",
+      "¡Por la Horda!",
+      "Pela Horda!",
+      "For the Horde!",
+      "¡Por la Horda!",
+      "Pour la Horde\u00A0!",
+      "За Орду!",
+      "Für die Horde!",
+      "Pela Horda!",
+      "Per l'Orda!",
+      "호드를 위하여!",
+      "為了部落！",
+      "为了部落！"
+    ],
+    "Media": "ui_horde_honorboundmedal.jpg"
+  },
+  {
+    "TagId": 472307,
+    "TagType": 26,
+    "Names": [
+      null,
+      "For the Alliance",
+      "Por la Alianza",
+      "Pela Aliança",
+      "For the Alliance",
+      "Por la Alianza",
+      "Pour l’Alliance",
+      "За Альянс",
+      "Für die Allianz",
+      "Pela Aliança",
+      "Per l'Alleanza",
+      "얼라이언스를 위하여",
+      "為了聯盟",
+      "为了联盟"
+    ],
+    "Media": "ui_alliance_7legionmedal.jpg"
+  },
+  {
+    "TagId": 472469,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage",
+      "[DNT] Rage"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472502,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura",
+      "[DNT]Radiant Light Cancel Flying Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 472515,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energize 2/s",
+      "Energizar 2/s",
+      "Energizar 2/s",
+      "Energize 2/s",
+      "Energizar 2/s",
+      "Energize 2/s",
+      "Energize 2/s",
+      "Energize 2/s",
+      "Energizar 2/s",
+      "Energizzazione 2/s",
+      "마력 충전 2/s",
+      "充能2/s",
+      "Energize 2/s"
+    ],
+    "Media": "spell_fire_windsofwoe.jpg"
+  },
+  {
+    "TagId": 472749,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper",
+      "[DNT] Summon Aggro Helper"
     ],
     "Media": "trade_engineering.jpg"
   }

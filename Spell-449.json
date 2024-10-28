@@ -1192,7 +1192,7 @@
       "Richiamo Fuchi",
       "일꾼 부르기",
       "呼叫工蟲",
-      "召唤工蜂"
+      "召唤工虫"
     ],
     "Media": "inv_nerubianbeetlepet_purple.jpg"
   },
@@ -2230,19 +2230,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount",
-      "[PH] Nightsaber Horde Mount"
+      "Blackrock Warsaber",
+      "Sable de guerra Roca Negra",
+      "Sabre-de-guerra da Rocha Negra",
+      "Blackrock Warsaber",
+      "Sable de guerra Roca Negra",
+      "Sabre de guerre rochenoire",
+      "Боевой саблезуб клана Черной горы",
+      "Kriegssäbler des Schwarzfelsklans",
+      "Sabre-de-guerra da Rocha Negra",
+      "Fiera da Guerra dei Roccianera",
+      "검은바위 전투 밤호랑이",
+      "黑石戰豹",
+      "黑石战刃豹"
     ],
     "Media": "inv_nightsaberhordemount_black.jpg"
   },
@@ -2440,19 +2440,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple",
-      "[PH] Alliance Wolf Mount Purple"
+      "Kaldorei War Wolf",
+      "Lobo de guerra kaldorei",
+      "Lobo de Guerra Kaldorei",
+      "Kaldorei War Wolf",
+      "Lobo de guerra kaldorei",
+      "Loup de guerre kaldorei",
+      "Калдорайский боевой волк",
+      "Kriegswolf der Kaldorei",
+      "Lobo de Guerra Kaldorei",
+      "Lupo da Guerra dei Kaldorei",
+      "칼도레이 전쟁 늑대",
+      "卡多雷戰狼",
+      "卡多雷战狼"
     ],
     "Media": "inv_alliancewolfmount2_purple.jpg"
   },
@@ -6675,6 +6675,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 449364,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thrall Costume",
+      "Disfraz de Thrall",
+      "Fantasia de Thrall",
+      "Thrall Costume",
+      "Disfraz de Thrall",
+      "Costume de Thrall",
+      "Костюм Тралла",
+      "Thrall-Kostüm",
+      "Fantasia de Thrall",
+      "Costume da Thrall",
+      "스랄 의상",
+      "索爾裝束",
+      "萨尔装束"
+    ],
+    "Media": "achievement_leader_ thrall.jpg"
+  },
+  {
     "TagId": 449365,
     "TagType": 26,
     "Names": [
@@ -6736,6 +6757,27 @@
       "粉皮掘地者"
     ],
     "Media": "inv_thunderlizardprimalbaby_blue.jpg"
+  },
+  {
+    "TagId": 449370,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blood And Thunder!",
+      "¡Sangre y trueno!",
+      "Sangue e Trovão!",
+      "Blood And Thunder!",
+      "¡Sangre y truenos!",
+      "Sang et tonnerre\u00A0!",
+      "Кровь и гром!",
+      "Blut und Donner!",
+      "Sangue e Trovão!",
+      "Sangue e Tuono!",
+      "피바람을 불러일으키자!",
+      "鮮血與雷霆！",
+      "鲜血与雷鸣！"
+    ],
+    "Media": "achievement_leader_ thrall.jpg"
   },
   {
     "TagId": 449372,
@@ -7135,6 +7177,48 @@
       "白炽耀焰"
     ],
     "Media": "spell_burningsoul.jpg"
+  },
+  {
+    "TagId": 449395,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Illidan Costume",
+      "Disfraz de Illidan",
+      "Fantasia de Illidan",
+      "Illidan Costume",
+      "Disfraz de Illidan",
+      "Costume d’Illidan",
+      "Костюм Иллидана",
+      "Illidan-Kostüm",
+      "Fantasia de Illidan",
+      "Costume da Illidan",
+      "일리단 의상",
+      "伊利丹裝束",
+      "伊利丹装束"
+    ],
+    "Media": "achievement_boss_illidan.jpg"
+  },
+  {
+    "TagId": 449396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "You Are Not Prepared",
+      "No están preparados",
+      "Você não Está Preparado",
+      "You Are Not Prepared",
+      "No estáis preparados",
+      "Vous n’êtes pas prêts\u00A0!",
+      "Вы не готовы",
+      "Ihr wisst nicht, was Euch erwartet",
+      "Você não Está Preparado",
+      "Voi Non Siete Pronti",
+      "너흰 아직 준비가 안 됐다",
+      "你還沒準備好",
+      "你们这是自寻死路"
+    ],
+    "Media": "achievement_boss_illidan.jpg"
   },
   {
     "TagId": 449397,
@@ -13775,7 +13859,7 @@
       "Radiant Fuel Crystal [DNT]",
       "Radiant Fuel Crystal [DNT]",
       "Radiant Fuel Crystal [DNT]",
-      "Radiant Fuel Crystal [DNT]",
+      "광휘의 연료 수정",
       "Radiant Fuel Crystal [DNT]",
       "Radiant Fuel Crystal [DNT]"
     ],
@@ -17220,7 +17304,7 @@
       "死亡之影",
       "死亡之影"
     ],
-    "Media": "spell_arcane_prismaticcloak.jpg"
+    "Media": "ability_warlock_ancientgrimoire.jpg"
   },
   {
     "TagId": 449962,

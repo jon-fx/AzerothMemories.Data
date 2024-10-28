@@ -820,17 +820,17 @@
     "TagType": 26,
     "Names": [
       null,
-      "Sparksun Candle",
-      "Vela chispasol",
-      "Vela Centelha do Sol",
-      "Sparksun Candle",
-      "Vela chispasolar",
-      "Bougie étinsoleil",
-      "Свеча солнечной искры",
-      "Funkensonnenkerze",
-      "Vela Centelha do Sol",
+      "Sunspark Candle",
+      "Vela de chispa solar",
+      "Vela Brilhassol",
+      "Sunspark Candle",
+      "Vela de chispasol",
+      "Bougie solétincelle",
+      "Солнечная свеча",
+      "Sonnenfunkenkerze",
+      "Vela Brilhassol",
       "Candela Solare",
-      "불꽃태양 양초",
+      "태양불꽃 양초",
       "日火蠟燭",
       "太阳火花蜡烛"
     ],
@@ -841,17 +841,17 @@
     "TagType": 26,
     "Names": [
       null,
-      "Sparksun Candle",
-      "Vela chispasol",
-      "Vela Centelha do Sol",
-      "Sparksun Candle",
-      "Vela chispasolar",
-      "Bougie étinsoleil",
-      "Свеча солнечной искры",
-      "Funkensonnenkerze",
-      "Vela Centelha do Sol",
+      "Sunspark Candle",
+      "Vela de chispa solar",
+      "Vela Brilhassol",
+      "Sunspark Candle",
+      "Vela de chispasol",
+      "Bougie solétincelle",
+      "Солнечная свеча",
+      "Sonnenfunkenkerze",
+      "Vela Brilhassol",
       "Candela Solare",
-      "불꽃태양 양초",
+      "태양불꽃 양초",
       "日火蠟燭",
       "太阳火花蜡烛"
     ],
@@ -1984,7 +1984,7 @@
       "Свеча жучьего ожога",
       "Käferkokelkerze",
       "Vela Queima-inseto",
-      "Candela di Insetti",
+      "Candela Brucia-Insetti",
       "벌레연소 양초",
       "燃蟲蠟燭",
       "昆虫燃烧蜡烛"
@@ -2047,7 +2047,7 @@
       "Свеча жучьего ожога",
       "Käferkokelkerze",
       "Vela Queima-inseto",
-      "Candela di Insetti",
+      "Candela Brucia-Insetti",
       "벌레연소 양초",
       "燃蟲蠟燭",
       "昆虫燃烧蜡烛"
@@ -4385,6 +4385,27 @@
     "Media": "inv_ammo_arrow_03.jpg"
   },
   {
+    "TagId": 462283,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Acid Cloud",
+      "Nube ácida",
+      "Nuvem Ácida",
+      "Acid Cloud",
+      "Nube ácida",
+      "Nuage d’acide",
+      "Едкое облако",
+      "Säurewolke",
+      "Nuvem Ácida",
+      "Nuvola Acida",
+      "산성 구름",
+      "酸液之雲",
+      "酸性之云"
+    ],
+    "Media": "spell_nature_abolishmagic.jpg"
+  },
+  {
     "TagId": 462288,
     "TagType": 26,
     "Names": [
@@ -4574,6 +4595,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 462317,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Volcanic Upheaval",
+      "Brote volcánico",
+      "Revolta Vulcânica",
+      "Volcanic Upheaval",
+      "Agitación volcánica",
+      "Soulèvement volcanique",
+      "Вулканический сдвиг",
+      "Vulkanische Verwerfung",
+      "Revolta Vulcânica",
+      "Sollevazione Vulcanica",
+      "화산의 지각 변동",
+      "火山劇變",
+      "熔火剧变"
+    ],
+    "Media": "spell_fire_volcano.jpg"
+  },
+  {
+    "TagId": 462318,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Volcanic Upheaval",
+      "Brote volcánico",
+      "Revolta Vulcânica",
+      "Volcanic Upheaval",
+      "Agitación volcánica",
+      "Soulèvement volcanique",
+      "Вулканический сдвиг",
+      "Vulkanische Verwerfung",
+      "Revolta Vulcânica",
+      "Sollevazione Vulcanica",
+      "화산의 지각 변동",
+      "火山劇變",
+      "熔火剧变"
+    ],
+    "Media": "spell_fire_volcano.jpg"
+  },
+  {
+    "TagId": 462319,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eruption",
+      "Erupción",
+      "Erupção",
+      "Eruption",
+      "Erupción",
+      "Éruption",
+      "Извержение",
+      "Eruption",
+      "Erupção",
+      "Eruzione",
+      "분출",
+      "爆發",
+      "喷发"
+    ],
+    "Media": "ability_rhyolith_magmaflow_whole.jpg"
+  },
+  {
+    "TagId": 462320,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristalização Ígnea",
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristallisation ignée",
+      "Пламенная кристаллизация",
+      "Feurige Kristallisierung",
+      "Cristalização Ígnea",
+      "Cristallizzazione Ignea",
+      "화성암 결정화",
+      "火成結晶",
+      "火成结晶"
+    ],
+    "Media": "inv_ore_blackrock_ore.jpg"
+  },
+  {
+    "TagId": 462322,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eruption",
+      "Erupción",
+      "Erupção",
+      "Eruption",
+      "Erupción",
+      "Éruption",
+      "Извержение",
+      "Eruption",
+      "Erupção",
+      "Eruzione",
+      "분출",
+      "爆發",
+      "喷发"
+    ],
+    "Media": "ability_rhyolith_magmaflow_whole.jpg"
+  },
+  {
     "TagId": 462323,
     "TagType": 26,
     "Names": [
@@ -4635,6 +4761,90 @@
       "故事开始"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 462326,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristalização Ígnea",
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristallisation ignée",
+      "Пламенная кристаллизация",
+      "Feurige Kristallisierung",
+      "Cristalização Ígnea",
+      "Cristallizzazione Ignea",
+      "화성암 결정화",
+      "火成結晶",
+      "火成结晶"
+    ],
+    "Media": "inv_ore_blackrock_ore.jpg"
+  },
+  {
+    "TagId": 462328,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristalização Ígnea",
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristallisation ignée",
+      "Пламенная кристаллизация",
+      "Feurige Kristallisierung",
+      "Cristalização Ígnea",
+      "Cristallizzazione Ignea",
+      "화성암 결정화",
+      "火成結晶",
+      "火成结晶"
+    ],
+    "Media": "inv_ore_blackrock_ore.jpg"
+  },
+  {
+    "TagId": 462329,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristalização Ígnea",
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristallisation ignée",
+      "Пламенная кристаллизация",
+      "Feurige Kristallisierung",
+      "Cristalização Ígnea",
+      "Cristallizzazione Ignea",
+      "화성암 결정화",
+      "火成結晶",
+      "火成结晶"
+    ],
+    "Media": "inv_ore_blackrock_ore.jpg"
+  },
+  {
+    "TagId": 462330,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristalização Ígnea",
+      "Igneous Crystallization",
+      "Cristalización ígnea",
+      "Cristallisation ignée",
+      "Пламенная кристаллизация",
+      "Feurige Kristallisierung",
+      "Cristalização Ígnea",
+      "Cristallizzazione Ignea",
+      "화성암 결정화",
+      "火成結晶",
+      "火成结晶"
+    ],
+    "Media": "inv_ore_blackrock_ore.jpg"
   },
   {
     "TagId": 462339,
@@ -4700,6 +4910,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 462346,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Living Magma",
+      "Magma viviente",
+      "Magma Vivo",
+      "Living Magma",
+      "Magma viviente",
+      "Magma vivant",
+      "Живая магма",
+      "Lebendiges Magma",
+      "Magma Vivo",
+      "Magma Vivente",
+      "살아있는 용암",
+      "活體岩漿",
+      "活体岩浆"
+    ],
+    "Media": "spell_shaman_lavasurge.jpg"
+  },
+  {
+    "TagId": 462348,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Living Magma",
+      "Magma viviente",
+      "Magma Vivo",
+      "Living Magma",
+      "Magma viviente",
+      "Magma vivant",
+      "Живая магма",
+      "Lebendiges Magma",
+      "Magma Vivo",
+      "Magma Vivente",
+      "살아있는 용암",
+      "活體岩漿",
+      "活体岩浆"
+    ],
+    "Media": "spell_shaman_lavasurge.jpg"
+  },
+  {
     "TagId": 462350,
     "TagType": 26,
     "Names": [
@@ -4719,6 +4971,132 @@
       "提供晶铸大锅"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 462351,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roiling Magma",
+      "Magma enturbiado",
+      "Magma Inundante",
+      "Roiling Magma",
+      "Magma arrollador",
+      "Magma écumant",
+      "Кипящая магма",
+      "Brodelndes Magma",
+      "Magma Inundante",
+      "Magma Torbido",
+      "들끓는 용암",
+      "翻騰岩漿",
+      "激荡岩浆"
+    ],
+    "Media": "inv_elemental_primal_fire.jpg"
+  },
+  {
+    "TagId": 462352,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roiling Magma",
+      "Magma enturbiado",
+      "Magma Inundante",
+      "Roiling Magma",
+      "Magma arrollador",
+      "Magma écumant",
+      "Кипящая магма",
+      "Brodelndes Magma",
+      "Magma Inundante",
+      "Magma Torbido",
+      "들끓는 용암",
+      "翻騰岩漿",
+      "激荡岩浆"
+    ],
+    "Media": "inv_elemental_primal_fire.jpg"
+  },
+  {
+    "TagId": 462354,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eruption",
+      "Erupción",
+      "Erupção",
+      "Eruption",
+      "Erupción",
+      "Éruption",
+      "Извержение",
+      "Eruption",
+      "Erupção",
+      "Eruzione",
+      "분출",
+      "爆發",
+      "喷发"
+    ],
+    "Media": "ability_rhyolith_magmaflow_whole.jpg"
+  },
+  {
+    "TagId": 462355,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eruption",
+      "Erupción",
+      "Erupção",
+      "Eruption",
+      "Erupción",
+      "Éruption",
+      "Извержение",
+      "Eruption",
+      "Erupção",
+      "Eruzione",
+      "분출",
+      "爆發",
+      "喷发"
+    ],
+    "Media": "ability_rhyolith_magmaflow_whole.jpg"
+  },
+  {
+    "TagId": 462356,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eruption",
+      "Erupción",
+      "Erupção",
+      "Eruption",
+      "Erupción",
+      "Éruption",
+      "Извержение",
+      "Eruption",
+      "Erupção",
+      "Eruzione",
+      "분출",
+      "爆發",
+      "喷发"
+    ],
+    "Media": "ability_rhyolith_magmaflow_whole.jpg"
+  },
+  {
+    "TagId": 462357,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eruption",
+      "Erupción",
+      "Erupção",
+      "Eruption",
+      "Erupción",
+      "Éruption",
+      "Извержение",
+      "Eruption",
+      "Erupção",
+      "Eruzione",
+      "분출",
+      "爆發",
+      "喷发"
+    ],
+    "Media": "ability_rhyolith_magmaflow_whole.jpg"
   },
   {
     "TagId": 462368,
@@ -4973,6 +5351,90 @@
     "Media": "inv_11_0_nerubian_necklace_02_color4.jpg"
   },
   {
+    "TagId": 462405,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 462406,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar",
+      "[DNT] Kill Credit - Progress Bar"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 462410,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit",
+      "[DNT] Clear Hint Credit"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 462412,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 462418,
     "TagType": 26,
     "Names": [
@@ -5034,6 +5496,27 @@
       "涛流"
     ],
     "Media": "ability_shawaterelemental_split.jpg"
+  },
+  {
+    "TagId": 462430,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Skeletons",
+      "Invocar esqueletos",
+      "Evocar Esqueletos",
+      "Summon Skeletons",
+      "Invocar esqueletos",
+      "Invocation de squelettes",
+      "Призыв скелетов",
+      "Skelette beschwören",
+      "Evocar Esqueletos",
+      "Evocazione: Scheletri",
+      "해골 소환",
+      "召喚骷髏",
+      "召唤骷髅"
+    ],
+    "Media": "spell_shadow_raisedead.jpg"
   },
   {
     "TagId": 462431,
@@ -5129,7 +5612,7 @@
       "Primeiro Ascendente",
       "First Ascendant",
       "Primer ascendiente",
-      "Première ascendance",
+      "Premier Ascendant",
       "Первый перерожденный",
       "Erster Aszendent",
       "Primeiro Ascendente",
@@ -5370,6 +5853,27 @@
       "[DNT] General - Level 6 Unlock"
     ],
     "Media": "ability_vehicle_electrocharge.jpg"
+  },
+  {
+    "TagId": 462469,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Volcanic Upheaval",
+      "Brote volcánico",
+      "Revolta Vulcânica",
+      "Volcanic Upheaval",
+      "Agitación volcánica",
+      "Soulèvement volcanique",
+      "Вулканический сдвиг",
+      "Vulkanische Verwerfung",
+      "Revolta Vulcânica",
+      "Sollevazione Vulcanica",
+      "화산의 지각 변동",
+      "火山劇變",
+      "熔火剧变"
+    ],
+    "Media": "spell_fire_volcano.jpg"
   },
   {
     "TagId": 462470,
@@ -5622,6 +6126,27 @@
       "术士"
     ],
     "Media": "ability_mage_firestarter.jpg"
+  },
+  {
+    "TagId": 462483,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]",
+      "Benatauk Zone [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 462486,
@@ -6863,6 +7388,27 @@
     "Media": "ability_druid_cower.jpg"
   },
   {
+    "TagId": 462610,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame",
+      "[DNT] Generic Dummy: Show Quest Item in Quest Frame"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 462612,
     "TagType": 26,
     "Names": [
@@ -7006,6 +7552,27 @@
       "대탈추우우울!",
       "掙脫！",
       "挣脱！"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 462626,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry",
+      "Reduce Size - Cosmetic - Kevin Is Hungry"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9339,6 +9906,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 462838,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eruption",
+      "Erupción",
+      "Erupção",
+      "Eruption",
+      "Erupción",
+      "Éruption",
+      "Извержение",
+      "Eruption",
+      "Erupção",
+      "Eruzione",
+      "분출",
+      "爆發",
+      "喷发"
+    ],
+    "Media": "ability_rhyolith_magmaflow_whole.jpg"
+  },
+  {
     "TagId": 462839,
     "TagType": 26,
     "Names": [
@@ -9679,19 +10267,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Lightning Conduit",
-      "Conducto de relámpagos",
-      "Conduto de Raio",
-      "Lightning Conduit",
-      "Conducto de relámpagos",
-      "Conduit de foudre",
-      "Проводник молний",
-      "Blitzschlagleiter",
-      "Conduto de Raio",
-      "Condotto Elettrico",
-      "번개 도관",
-      "閃電導雷管",
-      "雷电导管"
+      "Lightning Capacitor",
+      "Condensador de relámpagos",
+      "Capacitor de Relâmpagos",
+      "Lightning Capacitor",
+      "Capacitador de relámpagos",
+      "Condensateur de foudre",
+      "Конденсатор молний",
+      "Blitzkondensator",
+      "Capacitor de Relâmpagos",
+      "Condensatore Fulminante",
+      "번개 축전기",
+      "電光相容器",
+      "闪电容蓄"
     ],
     "Media": "spell_nature_lightningshield.jpg"
   },
@@ -9922,6 +10510,27 @@
       "Cemetary Override (DNT)",
       "Cemetary Override (DNT)",
       "Cemetary Override (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 462889,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted",
+      "[DNT] Idol Active But Mounted"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10639,6 +11248,174 @@
     "Media": "ability_heroicleap.jpg"
   },
   {
+    "TagId": 462947,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rockfall",
+      "Derrumbe",
+      "Desmoronamento",
+      "Rockfall",
+      "Caída de rocas",
+      "Chute de pierres",
+      "Камнепад",
+      "Steinschlag",
+      "Desmoronamento",
+      "Caduta Massi",
+      "낙석",
+      "落石",
+      "落石"
+    ],
+    "Media": "inv_stone_13.jpg"
+  },
+  {
+    "TagId": 462948,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rockfall",
+      "Derrumbe",
+      "Desmoronamento",
+      "Rockfall",
+      "Caída de rocas",
+      "Chute de pierres",
+      "Камнепад",
+      "Steinschlag",
+      "Desmoronamento",
+      "Caduta Massi",
+      "낙석",
+      "落石",
+      "落石"
+    ],
+    "Media": "inv_stone_13.jpg"
+  },
+  {
+    "TagId": 462949,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rockfall",
+      "Derrumbe",
+      "Desmoronamento",
+      "Rockfall",
+      "Caída de rocas",
+      "Chute de pierres",
+      "Камнепад",
+      "Steinschlag",
+      "Desmoronamento",
+      "Caduta Massi",
+      "낙석",
+      "落石",
+      "落石"
+    ],
+    "Media": "inv_stone_13.jpg"
+  },
+  {
+    "TagId": 462950,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Furnace",
+      "Horno de fundición",
+      "Fornalha Derretida",
+      "Molten Furnace",
+      "Horno de magma",
+      "Fournaise en fusion",
+      "Расплавленный горн",
+      "Geschmolzener Ofen",
+      "Fornalha Derretida",
+      "Fornace Fusa",
+      "용암 가열로",
+      "熔火高爐",
+      "熔火锻炉"
+    ],
+    "Media": "inv_stone_13.jpg"
+  },
+  {
+    "TagId": 462966,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spawn of Bael'Gar",
+      "Engendro de Bael'Gar",
+      "Prole de Bael'gar",
+      "Spawn of Bael'Gar",
+      "Engendro de Bael'Gar",
+      "Rejeton de Bael’Gar",
+      "Порождение Бейл'Гора",
+      "Brut von Bael'Gar",
+      "Prole de Bael'gar",
+      "Melma di Bael'gar",
+      "용암 덩어리",
+      "貝爾加的產物",
+      "贝尔加的产物"
+    ],
+    "Media": "inv_10_elementalspiritfoozles_fire.jpg"
+  },
+  {
+    "TagId": 462967,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spawn of Bael'Gar",
+      "Engendro de Bael'Gar",
+      "Prole de Bael'gar",
+      "Spawn of Bael'Gar",
+      "Engendro de Bael'Gar",
+      "Rejeton de Bael’Gar",
+      "Порождение Бейл'Гора",
+      "Brut von Bael'Gar",
+      "Prole de Bael'gar",
+      "Melma di Bael'gar",
+      "용암 덩어리",
+      "貝爾加的產物",
+      "贝尔加的产物"
+    ],
+    "Media": "inv_10_elementalspiritfoozles_fire.jpg"
+  },
+  {
+    "TagId": 462968,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Heart",
+      "Corazón fundido",
+      "Coração Derretido",
+      "Molten Heart",
+      "Corazón de magma",
+      "Cœur en fusion",
+      "Раскаленное сердце",
+      "Geschmolzenes Herz",
+      "Coração Derretido",
+      "Cuore Fuso",
+      "불타는 심장",
+      "熔火之心",
+      "熔岩之心"
+    ],
+    "Media": "inv_10_elementalspiritfoozles_fire.jpg"
+  },
+  {
+    "TagId": 462969,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Furnace",
+      "Horno de fundición",
+      "Fornalha Derretida",
+      "Molten Furnace",
+      "Horno de magma",
+      "Fournaise en fusion",
+      "Расплавленный горн",
+      "Geschmolzener Ofen",
+      "Fornalha Derretida",
+      "Fornace Fusa",
+      "용암 가열로",
+      "熔火高爐",
+      "熔火锻炉"
+    ],
+    "Media": "spell_shaman_improvedfirenova.jpg"
+  },
+  {
     "TagId": 462970,
     "TagType": 26,
     "Names": [
@@ -10658,6 +11435,90 @@
       "奉献之剑"
     ],
     "Media": "ability_mage_firestarter.jpg"
+  },
+  {
+    "TagId": 462971,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Furnace",
+      "Horno de fundición",
+      "Fornalha Derretida",
+      "Molten Furnace",
+      "Horno de magma",
+      "Fournaise en fusion",
+      "Расплавленный горн",
+      "Geschmolzener Ofen",
+      "Fornalha Derretida",
+      "Fornace Fusa",
+      "용암 가열로",
+      "熔火高爐",
+      "熔火锻炉"
+    ],
+    "Media": "inv_stone_13.jpg"
+  },
+  {
+    "TagId": 462972,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shatter",
+      "Destrozar",
+      "Estilhaçar",
+      "Shatter",
+      "Destrozar",
+      "Fragmenter",
+      "Раскалывание",
+      "Zerschmettern",
+      "Estilhaçar",
+      "Frantuma",
+      "분쇄",
+      "粉碎",
+      "粉碎"
+    ],
+    "Media": "spell_sandexplosion.jpg"
+  },
+  {
+    "TagId": 462973,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shatter",
+      "Destrozar",
+      "Estilhaçar",
+      "Shatter",
+      "Destrozar",
+      "Fragmenter",
+      "Раскалывание",
+      "Zerschmettern",
+      "Estilhaçar",
+      "Frantuma",
+      "분쇄",
+      "粉碎",
+      "粉碎"
+    ],
+    "Media": "spell_sandexplosion.jpg"
+  },
+  {
+    "TagId": 462974,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Giant Strike",
+      "Golpe gigante",
+      "Golpe Gigantesco",
+      "Giant Strike",
+      "Golpe colosal",
+      "Frappe géante",
+      "Великанский удар",
+      "Riesenstoß",
+      "Golpe Gigantesco",
+      "Assalto Gigante",
+      "거인의 일격",
+      "巨人打擊",
+      "巨人痛击"
+    ],
+    "Media": "inv_misc_volatileearth.jpg"
   },
   {
     "TagId": 462975,

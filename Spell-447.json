@@ -144,7 +144,7 @@
       "溫順血笞菇",
       "温顺的血色鞭笞者"
     ],
-    "Media": "inv_thunderlizardprimalbaby_blue.jpg"
+    "Media": "inv_fungallasher_red.jpg"
   },
   {
     "TagId": 447009,
@@ -165,7 +165,7 @@
       "夜莊成長菇",
       "夜垦蔓芽"
     ],
-    "Media": "inv_thunderlizardprimalbaby_blue.jpg"
+    "Media": "inv_fungallasher_purple.jpg"
   },
   {
     "TagId": 447010,
@@ -186,7 +186,7 @@
       "兇惡鬼靈菇",
       "鬼面滋事菇"
     ],
-    "Media": "inv_thunderlizardprimalbaby_blue.jpg"
+    "Media": "inv_fungallasher_orange.jpg"
   },
   {
     "TagId": 447011,
@@ -227,7 +227,7 @@
       "荒疫苞",
       "荒蕾"
     ],
-    "Media": "inv_thunderlizardprimalbaby_blue.jpg"
+    "Media": "inv_fungallasher_magenta.jpg"
   },
   {
     "TagId": 447013,
@@ -602,7 +602,7 @@
       "Indumentária: Traje de Praia Tropical Ensolarado",
       "Set: Costume da Spiaggia Tropicale Solare",
       "복장: 햇살 열대 해변 의복",
-      "套裝：晴天熱帶海灘裝",
+      "套裝：晴朗熱帶海灘裝",
       "套装：艳阳热带沙滩装"
     ],
     "Media": "inv_armor_summerswimsuit_c_01_chest.jpg"
@@ -3798,6 +3798,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 447198,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)",
+      "[DNT] Test Stratholme Live-Side (Main Gate)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 447199,
     "TagType": 26,
     "Names": [
@@ -5796,16 +5817,16 @@
     "TagType": 26,
     "Names": [
       null,
-      "Bismuth Fueled Samophlange",
+      "Bismuth-Fueled Samophlange",
       "Churumbele potenciado con bismuto",
       "Rebimboca Movida a Bismuto",
-      "Bismuth Fueled Samophlange",
-      "Churumbele impulsado de bismuto",
+      "Bismuth-Fueled Samophlange",
+      "Churumbele impulsado por bismuto",
       "Samophlange alimenté en bismuth",
       "Заряженный висмутом самофланж",
       "Bismutbetriebener Samophlang",
       "Rebimboca Movida a Bismuto",
-      "Samoflago a Bismuto",
+      "Samoflago Alimentato a Bismuto",
       "창연 연료식 사모플랜지",
       "鉍礦灌注的主動式負載平衡器",
       "铋能主动式负载平衡器"
@@ -5908,7 +5929,7 @@
       "Cableado caprichoso",
       "Câble fantasque",
       "Причудливые провода",
-      "Verquere Verdrahtung",
+      "Launische Verdrahtung",
       "Fiação Extravagante",
       "Bobina Bizzarra",
       "엉뚱한 전선 배열",
@@ -7136,6 +7157,27 @@
     "Media": "inv_misc_slime_02.jpg"
   },
   {
+    "TagId": 447403,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rain of Fire",
+      "Lluvia de fuego",
+      "Chuva de Fogo",
+      "Rain of Fire",
+      "Lluvia de Fuego",
+      "Pluie de feu",
+      "Огненный ливень",
+      "Feuerregen",
+      "Chuva de Fogo",
+      "Pioggia di Fuoco",
+      "불의 비",
+      "火焰之雨",
+      "火焰之雨"
+    ],
+    "Media": "spell_shadow_rainoffire.jpg"
+  },
+  {
     "TagId": 447404,
     "TagType": 26,
     "Names": [
@@ -7176,6 +7218,48 @@
       "勇猛的剥天者"
     ],
     "Media": "inv_viciousflyingnerubian2_horde.jpg"
+  },
+  {
+    "TagId": 447406,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Choking Spores",
+      "Esporas asfixiantes",
+      "Esporos Asfixiantes",
+      "Choking Spores",
+      "Esporas asfixiantes",
+      "Spores asphyxiantes",
+      "Удушающие споры",
+      "Erstickende Sporen",
+      "Esporos Asfixiantes",
+      "Spore Soffocanti",
+      "숨막히는 포자",
+      "窒息孢子",
+      "窒息孢子"
+    ],
+    "Media": "spell_nature_abolishmagic.jpg"
+  },
+  {
+    "TagId": 447407,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East",
+      "[DNT] Test Dire Maul East"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 447410,
@@ -8544,7 +8628,7 @@
     "Names": [
       null,
       "Attuned to the Deeps",
-      "Armonizado con las profundidades",
+      "Armonizado con las Minas",
       "Harmonização com as Profundezas",
       "Attuned to the Deeps",
       "Armonizado con las profundidades",

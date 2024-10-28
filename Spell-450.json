@@ -4163,7 +4163,7 @@
     "Names": [
       null,
       "Charged Runeaxe",
-      "Hacha de runas cargado",
+      "Hacha de runas cargada",
       "Acha Rúnica Carregada",
       "Charged Runeaxe",
       "Hacha rúnica cargada",
@@ -4373,7 +4373,7 @@
     "Names": [
       null,
       "Ironclaw Stiletto",
-      "Estilete de colmilloférreo",
+      "Estilete de garraférrea",
       "Estilete de Garraférrea",
       "Ironclaw Stiletto",
       "Estilete de colmilloférreo",
@@ -4394,7 +4394,7 @@
     "Names": [
       null,
       "Ironclaw Dirk",
-      "Puntilla de colmilloférreo",
+      "Puntilla de garraférrea",
       "Punhal de Garraférrea",
       "Ironclaw Dirk",
       "Dirk de colmilloférreo",
@@ -4415,7 +4415,7 @@
     "Names": [
       null,
       "Ironclaw Sword",
-      "Espada de colmilloférreo",
+      "Espada de garraférrea",
       "Espada de Garraférrea",
       "Ironclaw Sword",
       "Espada de colmilloférreo",
@@ -4436,7 +4436,7 @@
     "Names": [
       null,
       "Ironclaw Knuckles",
-      "Nudillos de colmilloférreo",
+      "Nudillos de garraférrea",
       "Soqueira de Garraférrea",
       "Ironclaw Knuckles",
       "Nudillos de colmilloférreo",
@@ -4457,7 +4457,7 @@
     "Names": [
       null,
       "Ironclaw Great Mace",
-      "Gran maza de colmilloférreo",
+      "Gran maza de garraférrea",
       "Maça Grande de Garraférrea",
       "Ironclaw Great Mace",
       "Gran maza de colmilloférreo",
@@ -4478,7 +4478,7 @@
     "Names": [
       null,
       "Ironclaw Axe",
-      "Hacha de colmilloférreo",
+      "Hacha de garraférrea",
       "Machado de Garraférrea",
       "Ironclaw Axe",
       "Hacha de colmilloférreo",
@@ -4499,7 +4499,7 @@
     "Names": [
       null,
       "Ironclaw Great Axe",
-      "Gran hacha de colmilloférreo",
+      "Gran hacha de garraférrea",
       "Machado Grande de Garraférrea",
       "Ironclaw Great Axe",
       "Gran hacha de colmilloférreo",
@@ -5087,7 +5087,7 @@
     "Names": [
       null,
       "Ironclaw Whetstone",
-      "Piedra de afilar colmilloférreo",
+      "Piedra de afilar de garraférrea",
       "Pedra de Amolar Garraférrea",
       "Ironclaw Whetstone",
       "Piedra de afilar de colmilloférreo",
@@ -5108,7 +5108,7 @@
     "Names": [
       null,
       "Ironclaw Razorstone",
-      "Filopiedra colmilloférreo",
+      "Filopiedra de garraférrea",
       "Lamipetra Garraférrea",
       "Ironclaw Razorstone",
       "Piedra de amolar de colmilloférreo",
@@ -5129,7 +5129,7 @@
     "Names": [
       null,
       "Ironclaw Weightstone",
-      "Contrapeso colmilloférreo",
+      "Contrapeso de garraférrea",
       "Contrapeso Garraférrea",
       "Ironclaw Weightstone",
       "Contrapeso de colmilloférreo",
@@ -6360,7 +6360,7 @@
       "觸及寰宇",
       "浩瀚之触"
     ],
-    "Media": "spell_arcane_arcane03.jpg"
+    "Media": "ability_bossgorefiend_touchofdoom.jpg"
   },
   {
     "TagId": 450361,
@@ -6549,7 +6549,7 @@
       "哨兵",
       "哨兵"
     ],
-    "Media": "inv_magicalowlbearmount.jpg"
+    "Media": "ability_hunter_sentinelowl.jpg"
   },
   {
     "TagId": 450370,
@@ -6927,7 +6927,7 @@
       "哨兵",
       "哨兵"
     ],
-    "Media": "inv_magicalowlbearmount.jpg"
+    "Media": "ability_hunter_sentinelowl.jpg"
   },
   {
     "TagId": 450388,
@@ -7390,6 +7390,27 @@
       "哨兵"
     ],
     "Media": "inv_magicalowlbearmount.jpg"
+  },
+  {
+    "TagId": 450413,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk",
+      "[DND] Talk"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 450414,
@@ -9135,6 +9156,27 @@
     "Media": "ability_racial_ancestralcall.jpg"
   },
   {
+    "TagId": 450513,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirling Rage",
+      "Torbellino de furia",
+      "Raiva Rodopiante",
+      "Whirling Rage",
+      "Ira giratoria",
+      "Rage tourbillonnante",
+      "Кружащая ярость",
+      "Wirbelnde Wut",
+      "Raiva Rodopiante",
+      "Rabbia Turbinante",
+      "휘몰아치는 분노",
+      "迴旋之怒",
+      "怒意回旋"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
     "TagId": 450514,
     "TagType": 26,
     "Names": [
@@ -9154,6 +9196,27 @@
       "劲风展"
     ],
     "Media": "ability_monk_zenflight.jpg"
+  },
+  {
+    "TagId": 450515,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirling Rage",
+      "Torbellino de furia",
+      "Raiva Rodopiante",
+      "Whirling Rage",
+      "Ira giratoria",
+      "Rage tourbillonnante",
+      "Кружащая ярость",
+      "Wirbelnde Wut",
+      "Raiva Rodopiante",
+      "Rabbia Turbinante",
+      "휘몰아치는 분노",
+      "迴旋之怒",
+      "怒意回旋"
+    ],
+    "Media": "ability_whirlwind.jpg"
   },
   {
     "TagId": 450518,
@@ -9576,6 +9639,27 @@
     "Media": "inv_misc_bandage_08.jpg"
   },
   {
+    "TagId": 450542,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Remote-Controlled Golems",
+      "Invocar gólems teledirigidos",
+      "Evocar Golens de Controle Remoto",
+      "Summon Remote-Controlled Golems",
+      "Invocar gólems teledirigidos",
+      "Invocation de golems télécommandés",
+      "Призыв дистанционно управляемых големов",
+      "Ferngesteuerte Golems beschwören",
+      "Evocar Golens de Controle Remoto",
+      "Evocazione: Golem Controllati a Distanza",
+      "원격조종 골렘 소환",
+      "召喚遙控魔像",
+      "召唤遥控傀儡"
+    ],
+    "Media": "ability_repair.jpg"
+  },
+  {
     "TagId": 450543,
     "TagType": 26,
     "Names": [
@@ -9700,6 +9784,27 @@
       "传送"
     ],
     "Media": "inv_netherportal.jpg"
+  },
+  {
+    "TagId": 450550,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pistol Shot",
+      "Disparo de pistola",
+      "Tiro de Pistola",
+      "Pistol Shot",
+      "Disparo de pistola",
+      "Coup de pistolet",
+      "Выстрел из пистоли",
+      "Pistolenschuss",
+      "Tiro de Pistola",
+      "Colpo di Pistola",
+      "권총 사격",
+      "手槍射擊",
+      "手枪射击"
+    ],
+    "Media": "inv_musket_02.jpg"
   },
   {
     "TagId": 450551,
@@ -9868,6 +9973,48 @@
       "通灵教义"
     ],
     "Media": "spell_necro_deathall.jpg"
+  },
+  {
+    "TagId": 450564,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowstep",
+      "Paso de las sombras",
+      "Passo Furtivo",
+      "Shadowstep",
+      "Paso de las Sombras",
+      "Pas de l’ombre",
+      "Шаг сквозь тень",
+      "Schattenschritt",
+      "Passo Furtivo",
+      "Passo nell'Ombra",
+      "그림자 밟기",
+      "暗影閃現",
+      "暗影步"
+    ],
+    "Media": "ability_rogue_shadowstep.jpg"
+  },
+  {
+    "TagId": 450566,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowstep",
+      "Paso de las sombras",
+      "Passo Furtivo",
+      "Shadowstep",
+      "Paso de las Sombras",
+      "Pas de l’ombre",
+      "Шаг сквозь тень",
+      "Schattenschritt",
+      "Passo Furtivo",
+      "Passo nell'Ombra",
+      "그림자 밟기",
+      "暗影閃現",
+      "暗影步"
+    ],
+    "Media": "ability_rogue_shadowstep.jpg"
   },
   {
     "TagId": 450567,
@@ -11235,6 +11382,27 @@
     "Media": "ability_rogue_rupture.jpg"
   },
   {
+    "TagId": 450668,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blizzard",
+      "Ventisca",
+      "Nevasca",
+      "Blizzard",
+      "Ventisca",
+      "Blizzard",
+      "Снежная буря",
+      "Blizzard",
+      "Nevasca",
+      "Tormenta",
+      "눈보라",
+      "暴風雪",
+      "暴风雪"
+    ],
+    "Media": "spell_frost_icestorm.jpg"
+  },
+  {
     "TagId": 450669,
     "TagType": 26,
     "Names": [
@@ -12158,6 +12326,27 @@
     "Media": "ability_mage_livingbomb.jpg"
   },
   {
+    "TagId": 450717,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura"
+    ],
+    "Media": "inv_misc_wow15year_balloons_blue.jpg"
+  },
+  {
     "TagId": 450718,
     "TagType": 26,
     "Names": [
@@ -12240,6 +12429,69 @@
       "虔敬之怒"
     ],
     "Media": "inv_7xp_inscription_talenttome01.jpg"
+  },
+  {
+    "TagId": 450722,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura"
+    ],
+    "Media": "inv_misc_balloon_04.jpg"
+  },
+  {
+    "TagId": 450723,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura"
+    ],
+    "Media": "inv_misc_balloon_02.jpg"
+  },
+  {
+    "TagId": 450724,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura"
+    ],
+    "Media": "inv_misc_wow15year_balloons_blue.jpg"
   },
   {
     "TagId": 450725,
@@ -12427,6 +12679,27 @@
       "낚시꾼의 거미줄",
       "釣手的漁網",
       "钓手之网"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 450734,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jade Forest",
+      "Bosque de Jade",
+      "Floresta de Jade",
+      "Jade Forest",
+      "Bosque de Jade",
+      "Forêt de Jade",
+      "Нефритовый лес",
+      "Jadewald",
+      "Floresta de Jade",
+      "Foresta di Giada",
+      "비취 숲",
+      "翠玉林",
+      "翡翠林"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -14527,6 +14800,27 @@
     "Media": "ability_fomor_boss_rune_red.jpg"
   },
   {
+    "TagId": 450864,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Curse of Thorns",
+      "Maldición de espinas",
+      "Maldição dos Espinhos",
+      "Curse of Thorns",
+      "Maldición de espinas",
+      "Malédiction des épines",
+      "Проклятие шипов",
+      "Dornenfluch",
+      "Maldição dos Espinhos",
+      "Maledizione delle Spine",
+      "가시의 저주",
+      "荊棘詛咒",
+      "荆棘诅咒"
+    ],
+    "Media": "spell_shadow_antishadow.jpg"
+  },
+  {
     "TagId": 450865,
     "TagType": 26,
     "Names": [
@@ -14546,6 +14840,27 @@
       "加恩基的推烟泵"
     ],
     "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 450866,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fireball",
+      "Bola de fuego",
+      "Bola de Fogo",
+      "Fireball",
+      "Bola de Fuego",
+      "Boule de feu",
+      "Огненный шар",
+      "Feuerball",
+      "Bola de Fogo",
+      "Palla di Fuoco",
+      "화염구",
+      "火球術",
+      "火球术"
+    ],
+    "Media": "spell_fire_firebolt02.jpg"
   },
   {
     "TagId": 450867,
@@ -15766,6 +16081,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 450933,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Curse of the Martyr",
+      "Maldición del mártir",
+      "Maldição do Mártir",
+      "Curse of the Martyr",
+      "Maldición del mártir",
+      "Malédiction du martyr",
+      "Проклятие мученичества",
+      "Fluch des Märtyrertums",
+      "Maldição do Mártir",
+      "Maledizione del Martire",
+      "희생의 저주",
+      "殉難者詛咒",
+      "殉难诅咒"
+    ],
+    "Media": "inv_scarab_gold.jpg"
+  },
+  {
     "TagId": 450934,
     "TagType": 26,
     "Names": [
@@ -15869,6 +16205,27 @@
       "阅读"
     ],
     "Media": "spell_shadow_mindsteal.jpg"
+  },
+  {
+    "TagId": 450939,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toll of Persecution",
+      "Tañido de persecución",
+      "Pedágio da Perseguição",
+      "Toll of Persecution",
+      "Campana de hostigamiento",
+      "Glas de persécution",
+      "Звон преследования",
+      "Glockenschlag der Verfolgung",
+      "Pedágio da Perseguição",
+      "Tributo della Persecuzione",
+      "박해의 대가",
+      "迫害響鐘",
+      "残害丧钟"
+    ],
+    "Media": "inv_scarab_gold.jpg"
   },
   {
     "TagId": 450940,
@@ -16247,6 +16604,27 @@
       "虚空脉冲"
     ],
     "Media": "inv_10_alchemy_alchemystone_color4.jpg"
+  },
+  {
+    "TagId": 450961,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mighty Charge",
+      "Carga poderosa",
+      "Carga Potente",
+      "Mighty Charge",
+      "Carga poderosa",
+      "Charge puissante",
+      "Мощная атака",
+      "Mächtiger Sturmangriff",
+      "Carga Potente",
+      "Carica Vigorosa",
+      "강력한 돌격",
+      "全力衝鋒",
+      "强力冲锋"
+    ],
+    "Media": "inv_gauntlets_05.jpg"
   },
   {
     "TagId": 450962,

@@ -403,21 +403,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Shocking Grasp",
-      "Agarre fulminante",
-      "Impacto de Choque",
-      "Shocking Grasp",
-      "Agarre electrificante",
-      "Emprise électrocutante",
-      "Электрическая хватка",
-      "Schockgriff",
-      "Impacto de Choque",
-      "Stretta Folgorante",
-      "충격의 손아귀",
-      "震撼之握",
-      "撼电之握"
+      "Electroshock",
+      "Electrochoque",
+      "Eletrochoque",
+      "Electroshock",
+      "Electrochoque",
+      "Électro-choc",
+      "Электрошок",
+      "Elektroschock",
+      "Eletrochoque",
+      "Elettroshock",
+      "전기 충격",
+      "電波震擊",
+      "电能震击"
     ],
-    "Media": "spell_shaman_crashlightning.jpg"
+    "Media": "ability_thunderking_overcharge.jpg"
   },
   {
     "TagId": 454023,
@@ -466,21 +466,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Shocking Grasp",
-      "Agarre fulminante",
-      "Impacto de Choque",
-      "Shocking Grasp",
-      "Agarre electrificante",
-      "Emprise électrocutante",
-      "Электрическая хватка",
-      "Schockgriff",
-      "Impacto de Choque",
-      "Stretta Folgorante",
-      "충격의 손아귀",
-      "震撼之握",
-      "撼电之握"
+      "Electroshock",
+      "Electrochoque",
+      "Eletrochoque",
+      "Electroshock",
+      "Electrochoque",
+      "Électro-choc",
+      "Электрошок",
+      "Elektroschock",
+      "Eletrochoque",
+      "Elettroshock",
+      "전기 충격",
+      "電波震擊",
+      "电能震击"
     ],
-    "Media": "spell_shaman_crashlightning.jpg"
+    "Media": "spell_shaman_staticshock.jpg"
   },
   {
     "TagId": 454026,
@@ -5205,6 +5205,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 454364,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wave",
+      "Saludar con la mano",
+      "Acenar",
+      "Wave",
+      "Saludar",
+      "Faire signe",
+      "Помахать",
+      "Winken",
+      "Acenar",
+      "Saluto",
+      "공세",
+      "揮手",
+      "挥手"
+    ],
+    "Media": "inv_gauntlets_06.jpg"
+  },
+  {
     "TagId": 454365,
     "TagType": 26,
     "Names": [
@@ -5268,6 +5289,48 @@
     "Media": "ability_druid_mangle2.jpg"
   },
   {
+    "TagId": 454368,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wave",
+      "Saludar con la mano",
+      "Acenar",
+      "Wave",
+      "Saludar",
+      "Faire signe",
+      "Помахать",
+      "Winken",
+      "Acenar",
+      "Saluto",
+      "공세",
+      "揮手",
+      "挥手"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454369,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wave",
+      "Saludar con la mano",
+      "Acenar",
+      "Wave",
+      "Saludar",
+      "Faire signe",
+      "Помахать",
+      "Winken",
+      "Acenar",
+      "Saluto",
+      "공세",
+      "揮手",
+      "挥手"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 454370,
     "TagType": 26,
     "Names": [
@@ -5328,7 +5391,7 @@
       "洶湧水流",
       "喷薄之流"
     ],
-    "Media": "spell_nature_stormreach.jpg"
+    "Media": "ability_thunderking_thunderstruck.jpg"
   },
   {
     "TagId": 454373,
@@ -5412,7 +5475,7 @@
       "洶湧水流",
       "喷薄之流"
     ],
-    "Media": "spell_nature_stormreach.jpg"
+    "Media": "ability_thunderking_thunderstruck.jpg"
   },
   {
     "TagId": 454377,
@@ -6406,19 +6469,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Inevitability",
-      "Inevitabilidad",
-      "Inevitabilidade",
-      "Inevitability",
-      "Inevitabilidad",
-      "Fatalité inexorable",
-      "Неизбежность",
-      "Unausweichlichkeit",
-      "Inevitabilidade",
-      "Inevitabilità",
-      "필연",
-      "無處可逃",
-      "命中注定"
+      "Inevitabile End",
+      "Final inevitable",
+      "Fim Inevitável",
+      "Inevitabile End",
+      "Final inevitable",
+      "Fin inéluctable",
+      "Неизбежный финал",
+      "Unausweichliches Ende",
+      "Fim Inevitável",
+      "Fine Inevitabile",
+      "피할 수 없는 최후",
+      "末日降臨",
+      "必然归宿"
     ],
     "Media": "spell_ice_lament.jpg"
   },
@@ -7534,6 +7597,27 @@
       "进食饮水"
     ],
     "Media": "inv_misc_fork&knife.jpg"
+  },
+  {
+    "TagId": 454496,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Throw Rotten Apple",
+      "Lanzar manzana podrida",
+      "Atirar Maçã Podre",
+      "Throw Rotten Apple",
+      "Lanzar manzana podrida",
+      "Lancer une pomme pourrie",
+      "Бросок гнилого яблока",
+      "Faulen Apfel werfen",
+      "Atirar Maçã Podre",
+      "Lancio Mela Marcia",
+      "썩은 사과 투척",
+      "丟擲腐爛的蘋果",
+      "扔烂苹果"
+    ],
+    "Media": "inv_misc_felwich_tomato.jpg"
   },
   {
     "TagId": 454497,
@@ -9552,6 +9636,69 @@
     "Media": "inv__azerite empowered state.jpg"
   },
   {
+    "TagId": 454610,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roar",
+      "Rugir",
+      "Urrar",
+      "Roar",
+      "Rugir",
+      "Rugir",
+      "Рык",
+      "Brüllen",
+      "Urrar",
+      "Ruggito",
+      "포효",
+      "咆哮",
+      "咆哮"
+    ],
+    "Media": "ability_fomor_boss_shout.jpg"
+  },
+  {
+    "TagId": 454611,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roar",
+      "Rugir",
+      "Urrar",
+      "Roar",
+      "Rugir",
+      "Rugir",
+      "Рык",
+      "Brüllen",
+      "Urrar",
+      "Ruggito",
+      "포효",
+      "咆哮",
+      "咆哮"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454612,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roar",
+      "Rugir",
+      "Urrar",
+      "Roar",
+      "Rugir",
+      "Rugir",
+      "Рык",
+      "Brüllen",
+      "Urrar",
+      "Ruggito",
+      "포효",
+      "咆哮",
+      "咆哮"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 454613,
     "TagType": 26,
     "Names": [
@@ -9594,6 +9741,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 454618,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Salute",
+      "Saludar con respeto",
+      "Saudação",
+      "Salute",
+      "Saludo",
+      "Saluer",
+      "Салют",
+      "Salutieren",
+      "Saudação",
+      "Saluto Militare",
+      "경례",
+      "敬禮",
+      "敬礼"
+    ],
+    "Media": "inv_gauntlets_19.jpg"
+  },
+  {
     "TagId": 454619,
     "TagType": 26,
     "Names": [
@@ -9613,6 +9781,27 @@
       "搬运炸弹"
     ],
     "Media": "inv_eng_bombfire.jpg"
+  },
+  {
+    "TagId": 454620,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Salute",
+      "Saludar con respeto",
+      "Saudação",
+      "Salute",
+      "Saludo",
+      "Saluer",
+      "Салют",
+      "Salutieren",
+      "Saudação",
+      "Saluto Militare",
+      "경례",
+      "敬禮",
+      "敬礼"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 454621,
@@ -9844,6 +10033,27 @@
       "切换废磁铁"
     ],
     "Media": "inv_eng_puresteelbolts.jpg"
+  },
+  {
+    "TagId": 454632,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enrage",
+      "Enfurecer",
+      "Enfurecer",
+      "Enrage",
+      "Enfurecer",
+      "Enrager",
+      "Исступление",
+      "Wutanfall",
+      "Enfurecer",
+      "Furia",
+      "격노",
+      "狂怒",
+      "激怒"
+    ],
+    "Media": "ability_warrior_focusedrage.jpg"
   },
   {
     "TagId": 454634,
@@ -10094,6 +10304,27 @@
       "[DNT] remove highlight auras",
       "[DNT] remove highlight auras",
       "[DNT] remove highlight auras"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454649,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Salute",
+      "Saludar con respeto",
+      "Saudação",
+      "Salute",
+      "Saludo",
+      "Saluer",
+      "Салют",
+      "Salutieren",
+      "Saudação",
+      "Saluto Militare",
+      "경례",
+      "敬禮",
+      "敬礼"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10434,6 +10665,27 @@
     "Media": "inv_ability_web_buff.jpg"
   },
   {
+    "TagId": 454667,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wound",
+      "Herida",
+      "Ferida",
+      "Wound",
+      "Herida",
+      "Blessure",
+      "Рана",
+      "Wunde",
+      "Ferida",
+      "Ferita",
+      "상처",
+      "致傷",
+      "致伤"
+    ],
+    "Media": "ability_gouge.jpg"
+  },
+  {
     "TagId": 454668,
     "TagType": 26,
     "Names": [
@@ -10453,6 +10705,27 @@
       "冰川涌动"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454669,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wound",
+      "Herida",
+      "Ferida",
+      "Wound",
+      "Herida",
+      "Blessure",
+      "Рана",
+      "Wunde",
+      "Ferida",
+      "Ferita",
+      "상처",
+      "致傷",
+      "致伤"
+    ],
+    "Media": "ability_gouge.jpg"
   },
   {
     "TagId": 454670,
@@ -10641,6 +10914,69 @@
       "斯卡汀群 - 跳躍衝鋒地面衝擊",
       "斯卡丁狂潮 - 跳跃冲锋撞击地面"
     ]
+  },
+  {
+    "TagId": 454679,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vigilance",
+      "Vigilancia",
+      "Vigilância",
+      "Vigilance",
+      "Vigilancia",
+      "Vigilance",
+      "Бдительность",
+      "Wachsamkeit",
+      "Vigilância",
+      "Vigilanza",
+      "경계",
+      "戒備守護",
+      "警戒"
+    ],
+    "Media": "inv_misc_stonetablet_04.jpg"
+  },
+  {
+    "TagId": 454680,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vigilance",
+      "Vigilancia",
+      "Vigilância",
+      "Vigilance",
+      "Vigilancia",
+      "Vigilance",
+      "Бдительность",
+      "Wachsamkeit",
+      "Vigilância",
+      "Vigilanza",
+      "경계",
+      "戒備守護",
+      "警戒"
+    ],
+    "Media": "inv_misc_stonetablet_04.jpg"
+  },
+  {
+    "TagId": 454682,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Startouched Furline",
+      "Ronroneante astroungido",
+      "Pelino Tocado pelos Astros",
+      "Startouched Furline",
+      "Micifuz tocado por las estrellas",
+      "Féligre béni des cieux",
+      "Звездный мурмуровоз",
+      "Sternenberührtes Fellknäuel",
+      "Pelino Tocado pelos Astros",
+      "Sofficiotto Astrale",
+      "별빛을 머금은 복슬냥이",
+      "星觸毛毛貓",
+      "星触绒猫"
+    ],
+    "Media": "inv_starcatmount.jpg"
   },
   {
     "TagId": 454683,
@@ -10853,6 +11189,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 454697,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shout",
+      "Gritar",
+      "Brado",
+      "Shout",
+      "Gritar",
+      "Crier",
+      "Крик",
+      "Rufen",
+      "Brado",
+      "Urlo",
+      "외침",
+      "怒吼",
+      "呼喊"
+    ],
+    "Media": "warrior_disruptingshout.jpg"
+  },
+  {
+    "TagId": 454698,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shout",
+      "Gritar",
+      "Brado",
+      "Shout",
+      "Gritar",
+      "Crier",
+      "Крик",
+      "Rufen",
+      "Brado",
+      "Urlo",
+      "외침",
+      "怒吼",
+      "呼喊"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 454700,
     "TagType": 26,
     "Names": [
@@ -10872,6 +11250,90 @@
       "飞织蛛网"
     ],
     "Media": "inv_babycryptfiend_bluegray.jpg"
+  },
+  {
+    "TagId": 454701,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shout",
+      "Gritar",
+      "Brado",
+      "Shout",
+      "Gritar",
+      "Crier",
+      "Крик",
+      "Rufen",
+      "Brado",
+      "Urlo",
+      "외침",
+      "怒吼",
+      "呼喊"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454702,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drink",
+      "Beber",
+      "Beber",
+      "Drink",
+      "Beber",
+      "Boire",
+      "Питье",
+      "Trinken",
+      "Beber",
+      "Bevanda",
+      "음료",
+      "飲料",
+      "饮料"
+    ],
+    "Media": "inv_drink_05.jpg"
+  },
+  {
+    "TagId": 454703,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drink",
+      "Beber",
+      "Beber",
+      "Drink",
+      "Beber",
+      "Boire",
+      "Питье",
+      "Trinken",
+      "Beber",
+      "Bevanda",
+      "음료",
+      "飲料",
+      "饮料"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454704,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drink",
+      "Beber",
+      "Beber",
+      "Drink",
+      "Beber",
+      "Boire",
+      "Питье",
+      "Trinken",
+      "Beber",
+      "Bevanda",
+      "음료",
+      "飲料",
+      "饮料"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 454705,
@@ -10935,6 +11397,48 @@
       "[DNT] Transform"
     ],
     "Media": "ability_druid_naturalperfection.jpg"
+  },
+  {
+    "TagId": 454709,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Throw Rotten Apple",
+      "Lanzar manzana podrida",
+      "Atirar Maçã Podre",
+      "Throw Rotten Apple",
+      "Lanzar manzana podrida",
+      "Lancer une pomme pourrie",
+      "Бросок гнилого яблока",
+      "Faulen Apfel werfen",
+      "Atirar Maçã Podre",
+      "Lancio Mela Marcia",
+      "썩은 사과 투척",
+      "丟擲腐爛的蘋果",
+      "扔烂苹果"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454710,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Throw Rotten Apple",
+      "Lanzar manzana podrida",
+      "Atirar Maçã Podre",
+      "Throw Rotten Apple",
+      "Lanzar manzana podrida",
+      "Lancer une pomme pourrie",
+      "Бросок гнилого яблока",
+      "Faulen Apfel werfen",
+      "Atirar Maçã Podre",
+      "Lancio Mela Marcia",
+      "썩은 사과 투척",
+      "丟擲腐爛的蘋果",
+      "扔烂苹果"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 454712,
@@ -11266,7 +11770,7 @@
       "Hummeln im Hintern",
       "Bagunça",
       "Impeto Iperattivo",
-      "발광",
+      "우다다",
       "暴衝",
       "狂飙"
     ],
@@ -11329,7 +11833,7 @@
       "Hummeln im Hintern",
       "Bagunça",
       "Impeto Iperattivo",
-      "발광",
+      "우다다",
       "暴衝",
       "狂飙"
     ],
@@ -11412,7 +11916,7 @@
       "Hummeln im Hintern",
       "Bagunça",
       "Impeto Iperattivo",
-      "발광",
+      "우다다",
       "暴衝",
       "狂飙"
     ],
@@ -12469,6 +12973,90 @@
     "Media": "spell_nature_lightningshield.jpg"
   },
   {
+    "TagId": 454793,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fatal Wound",
+      "Herida fatal",
+      "Ferida Letal",
+      "Fatal Wound",
+      "Herida fatal",
+      "Blessure fatale",
+      "Смертельная рана",
+      "Tödliche Wunde",
+      "Ferida Letal",
+      "Ferita Fatale",
+      "치명상",
+      "致命傷",
+      "重创"
+    ],
+    "Media": "ability_backstab.jpg"
+  },
+  {
+    "TagId": 454794,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fatal Wound",
+      "Herida fatal",
+      "Ferida Letal",
+      "Fatal Wound",
+      "Herida fatal",
+      "Blessure fatale",
+      "Смертельная рана",
+      "Tödliche Wunde",
+      "Ferida Letal",
+      "Ferita Fatale",
+      "치명상",
+      "致命傷",
+      "重创"
+    ],
+    "Media": "ability_backstab.jpg"
+  },
+  {
+    "TagId": 454795,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wrath",
+      "Cólera",
+      "Ira",
+      "Wrath",
+      "Cólera",
+      "Colère",
+      "Гнев",
+      "Zorn",
+      "Ira",
+      "Ira",
+      "천벌",
+      "憤怒",
+      "愤怒"
+    ],
+    "Media": "spell_nature_lightning.jpg"
+  },
+  {
+    "TagId": 454796,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wrath",
+      "Cólera",
+      "Ira",
+      "Wrath",
+      "Cólera",
+      "Colère",
+      "Гнев",
+      "Zorn",
+      "Ira",
+      "Ira",
+      "천벌",
+      "憤怒",
+      "愤怒"
+    ],
+    "Media": "spell_nature_lightning.jpg"
+  },
+  {
     "TagId": 454797,
     "TagType": 26,
     "Names": [
@@ -12488,6 +13076,27 @@
       "Free Lamplighter from Webs [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 454798,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mindtap",
+      "Potenciación mental",
+      "Elevação Mental",
+      "Mindtap",
+      "Lectura mental",
+      "Ouvresprit",
+      "Восстановление разума",
+      "Gedankenzapfen",
+      "Elevação Mental",
+      "Impulso Mentale",
+      "정신 착취",
+      "心靈之流",
+      "心流"
+    ],
+    "Media": "inv_battery_02.jpg"
   },
   {
     "TagId": 454799,
@@ -13392,6 +14001,48 @@
     "Media": "inv_achievement_raidnerubian_queenansurek.jpg"
   },
   {
+    "TagId": 454844,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flurry",
+      "Aluvión",
+      "Rajada",
+      "Flurry",
+      "Aluvión",
+      "Rafale",
+      "Шквал",
+      "Schlaghagel",
+      "Rajada",
+      "Raffica di Colpi",
+      "진눈깨비",
+      "亂舞",
+      "乱舞"
+    ],
+    "Media": "ability_hunter_swiftstrike.jpg"
+  },
+  {
+    "TagId": 454845,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flurry",
+      "Aluvión",
+      "Rajada",
+      "Flurry",
+      "Aluvión",
+      "Rafale",
+      "Шквал",
+      "Schlaghagel",
+      "Rajada",
+      "Raffica di Colpi",
+      "진눈깨비",
+      "亂舞",
+      "乱舞"
+    ],
+    "Media": "ability_hunter_swiftstrike.jpg"
+  },
+  {
     "TagId": 454846,
     "TagType": 26,
     "Names": [
@@ -13581,6 +14232,27 @@
     "Media": "ability_skyreach_wind.jpg"
   },
   {
+    "TagId": 454855,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]",
+      "Title Card [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 454856,
     "TagType": 26,
     "Names": [
@@ -13711,21 +14383,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Evolution of Impact",
-      "Evolución del impacto",
-      "Evolução do Impacto",
-      "Evolution of Impact",
-      "Evolución de impacto",
-      "Évolution de l’impact",
-      "Эволюция столкновения",
-      "Evolution des Einschlags",
-      "Evolução do Impacto",
-      "Evoluzione dell'Impatto",
-      "충격의 진화",
-      "衝擊進化",
-      "冲击进化"
+      "Vivacity of Fire",
+      "Vivacidad de fuego",
+      "Vivacidade do Fogo",
+      "Vivacity of Fire",
+      "Vivacidad del Fuego",
+      "Vivacité du feu",
+      "Бодрость огня",
+      "Lebhaftigkeit des Feuers",
+      "Vivacidade do Fogo",
+      "Vivacità del Fuoco",
+      "화염의 생기",
+      "烈火生機",
+      "烈焰盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454863,
@@ -14232,6 +14904,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 454895,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Raise Hand",
+      "Alzar mano",
+      "Erguer a Mão",
+      "Raise Hand",
+      "Levantar la mano",
+      "Lever la main",
+      "Поднять руку",
+      "Hand heben",
+      "Erguer a Mão",
+      "Mano Sollevata",
+      "손 들기",
+      "舉手",
+      "举手"
+    ],
+    "Media": "inv_gauntlets_53.jpg"
+  },
+  {
+    "TagId": 454896,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Raise Hand",
+      "Alzar mano",
+      "Erguer a Mão",
+      "Raise Hand",
+      "Levantar la mano",
+      "Lever la main",
+      "Поднять руку",
+      "Hand heben",
+      "Erguer a Mão",
+      "Mano Sollevata",
+      "손 들기",
+      "舉手",
+      "举手"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 454897,
     "TagType": 26,
     "Names": [
@@ -14251,6 +14965,27 @@
       "突现"
     ],
     "Media": "inv_misc_volatileearth.jpg"
+  },
+  {
+    "TagId": 454898,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Raise Hand",
+      "Alzar mano",
+      "Erguer a Mão",
+      "Raise Hand",
+      "Levantar la mano",
+      "Lever la main",
+      "Поднять руку",
+      "Hand heben",
+      "Erguer a Mão",
+      "Mano Sollevata",
+      "손 들기",
+      "舉手",
+      "举手"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 454899,
@@ -14755,6 +15490,27 @@
       "切割之爪"
     ],
     "Media": "ability_druid_disembowel.jpg"
+  },
+  {
+    "TagId": 454925,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Classic  Timewalking Marker",
+      "Marcador de cronoviaje de Classic",
+      "Marcador de Caminhada Temporal de Classic",
+      "Classic  Timewalking Marker",
+      "Marcador de Paseo en el tiempo de Classic",
+      "Marqueur des Marcheurs du temps de Classic",
+      "Метка путешествия во времени классической эпохи",
+      "Classic: Zeitwanderungsmarkierung",
+      "Marcador de Caminhada Temporal de Classic",
+      "Indicatore Viaggi nel Tempo di Classic",
+      "클래식 시간여행 표시기",
+      "艾澤拉斯時光漫遊標記",
+      "经典旧世时空漫游标记"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 454926,
@@ -15783,7 +16539,7 @@
       "暗影生機",
       "暗影的盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454976,
@@ -15804,7 +16560,7 @@
       "自然生機",
       "自然的盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454977,
@@ -15825,7 +16581,7 @@
       "冰霜生機",
       "冰霜的盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454978,
@@ -15846,7 +16602,7 @@
       "聖光生機",
       "圣光的盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454979,
@@ -15867,7 +16623,7 @@
       "秘法生機",
       "奥术的盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454980,
@@ -15888,7 +16644,7 @@
       "力量生機",
       "力量的盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454982,
@@ -15909,7 +16665,7 @@
       "馬戲團的生機",
       "马戏团的盎溢"
     ],
-    "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+    "Media": "inv_inscriptions_darkmoondeckvivacity_0.jpg"
   },
   {
     "TagId": 454983,
@@ -16232,7 +16988,7 @@
     "Names": [
       null,
       "Algari Competitor's Dagger",
-      "Daga de competidor algari",
+      "Daga de Competidor algari",
       "Adaga do Competidor Algari",
       "Algari Competitor's Dagger",
       "Daga de competidor algariano",
@@ -16253,7 +17009,7 @@
     "Names": [
       null,
       "Algari Competitor's Scepter",
-      "Cetro de competidor algari",
+      "Cetro de Competidor algari",
       "Cetro do Competidor Algari",
       "Algari Competitor's Scepter",
       "Cetro de competidor algariano",

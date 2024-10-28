@@ -2251,19 +2251,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Virulent Poison Proc",
-      "Proc de Veneno virulento",
-      "Efeito Secundário de Veneno Virulento",
-      "Virulent Poison Proc",
-      "Proc de Veneno virulento",
-      "Poison virulent (proc)",
-      "Смертельный яд - дополнительный эффект",
-      "Virulentes Gift Proc",
-      "Efeito Secundário de Veneno Virulento",
-      "Veleno Virulento Proc",
+      "Virulent Poison",
+      "Veneno virulento",
+      "Veneno Virulento",
+      "Virulent Poison",
+      "Veneno virulento",
+      "Poison virulent",
+      "Жестокий яд",
+      "Virulentes Gift",
+      "Veneno Virulento",
+      "Veleno Virulento",
       "치명적인 독",
-      "惡性毒藥特效",
-      "Virulent Poison Proc"
+      "惡性毒藥",
+      "恶毒药膏"
     ],
     "Media": "spell_shadow_requiem.jpg"
   },
@@ -3021,7 +3021,7 @@
       "治療波",
       "治疗波"
     ],
-    "Media": "spell_nature_magicimmunity.jpg"
+    "Media": "spell_nature_healingwavegreater.jpg"
   },
   {
     "TagId": 12492,
@@ -5233,19 +5233,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Frostbolt",
-      "Descarga de Escarcha",
-      "Seta de Gelo",
-      "Frostbolt",
-      "Descarga de Escarcha",
-      "Éclair de givre",
-      "Ледяная стрела",
-      "Frostblitz",
-      "Seta de Gelo",
-      "Dardo di Gelo",
-      "얼음 화살",
-      "寒冰箭",
-      "寒冰箭"
+      "Frostbolt Volley",
+      "Salva de descarga de escarcha",
+      "Salva de Setas de Gelo",
+      "Frostbolt Volley",
+      "Salva de descarga de Escarcha",
+      "Salve d’éclairs de givre",
+      "Залп ледяных стрел",
+      "Frostblitzsalve",
+      "Salva de Setas de Gelo",
+      "Raffica di Dardi di Gelo",
+      "연발 얼음 화살",
+      "寒冰箭雨",
+      "寒冰箭雨"
     ],
     "Media": "spell_frost_frostbolt02.jpg"
   },
@@ -5688,7 +5688,7 @@
       "盾刺",
       "盾刺"
     ],
-    "Media": "inv_ammo_arrow_01.jpg"
+    "Media": "inv_shield_11.jpg"
   },
   {
     "TagId": 12787,

@@ -1474,19 +1474,19 @@
     "TagType": 22,
     "Names": [
       null,
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black",
-      "[PH] Nightsaber Horde Mount Black"
+      "Blackrock Warsaber",
+      "Sable de guerra Roca Negra",
+      "Sabre-de-guerra da Rocha Negra",
+      "Blackrock Warsaber",
+      "Sable de guerra Roca Negra",
+      "Sabre de guerre rochenoire",
+      "Боевой саблезуб клана Черной горы",
+      "Kriegssäbler des Schwarzfelsklans",
+      "Sabre-de-guerra da Rocha Negra",
+      "Fiera da Guerra dei Roccianera",
+      "검은바위 전투 밤호랑이",
+      "黑石戰豹",
+      "黑石战刃豹"
     ],
     "Media": "inv_nightsaberhordemount_black.jpg"
   },
@@ -1558,19 +1558,19 @@
     "TagType": 22,
     "Names": [
       null,
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount",
-      "[PH] Alliance Wolf Mount"
+      "Kaldorei War Wolf",
+      "Lobo de guerra kaldorei",
+      "Lobo de Guerra Kaldorei",
+      "Kaldorei War Wolf",
+      "Lobo de guerra kaldorei",
+      "Loup de guerre kaldorei",
+      "Калдорайский боевой волк",
+      "Kriegswolf der Kaldorei",
+      "Lobo de Guerra Kaldorei",
+      "Lupo da Guerra dei Kaldorei",
+      "칼도레이 전쟁 늑대",
+      "卡多雷戰狼",
+      "卡多雷战狼"
     ],
     "Media": "inv_alliancewolfmount2_purple.jpg"
   },
@@ -1785,6 +1785,48 @@
     "Media": "inv_nerubianwarbeastmount_white.jpg"
   },
   {
+    "TagId": 2224,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Frayfeather Hippogryph",
+      "Hipogrifo Plumavieja",
+      "Hipogrifo Esfiapluma",
+      "Frayfeather Hippogryph",
+      "Hipogrifo Plumavieja",
+      "Hippogriffe aigreplume",
+      "Блеклоперый гиппогриф",
+      "Fransenfederhippogryph",
+      "Hipogrifo Esfiapluma",
+      "Ippogrifo Piumaribelle",
+      "공작날개 히포그리프",
+      "亂羽角鷹獸",
+      "乱羽角鹰兽"
+    ],
+    "Media": "inv_hippogryphmountnightelf.jpg"
+  },
+  {
+    "TagId": 2225,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Amani Hunting Bear",
+      "Oso de caza Amani",
+      "Urso de Caça Amani",
+      "Amani Hunting Bear",
+      "Oso de caza Amani",
+      "Ours de chasse amani",
+      "Аманийский охотничий медведь",
+      "Jagdbär der Amani",
+      "Urso de Caça Amani",
+      "Orso da Caccia Amani",
+      "아마니 사냥곰",
+      "阿曼尼獵熊",
+      "阿曼尼猎熊"
+    ],
+    "Media": "ability_druid_demoralizingroar.jpg"
+  },
+  {
     "TagId": 2230,
     "TagType": 22,
     "Names": [
@@ -1846,6 +1888,27 @@
       "土灵宣令者的磐羊"
     ],
     "Media": "inv_earthenpaladinmount.jpg"
+  },
+  {
+    "TagId": 2235,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Startouched Furline",
+      "Ronroneante astroungido",
+      "Pelino Tocado pelos Astros",
+      "Startouched Furline",
+      "Micifuz tocado por las estrellas",
+      "Féligre béni des cieux",
+      "Звездный мурмуровоз",
+      "Sternenberührtes Fellknäuel",
+      "Pelino Tocado pelos Astros",
+      "Sofficiotto Astrale",
+      "별빛을 머금은 복슬냥이",
+      "星觸毛毛貓",
+      "星触绒猫"
+    ],
+    "Media": "inv_starcatmount.jpg"
   },
   {
     "TagId": 2237,
@@ -2016,6 +2079,27 @@
     "Media": "inv_murlocmount_orange.jpg"
   },
   {
+    "TagId": 2261,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Coldflame Tempest",
+      "Tempestad de llamas frías",
+      "Tormenta Chama Fria",
+      "Coldflame Tempest",
+      "Tempestad de Llama fría",
+      "Tempête de flamme-froide",
+      "Ураган холодного пламени",
+      "Kaltflammensturm",
+      "Tormenta Chama Fria",
+      "Tempesta di Fiammafredda",
+      "냉기화염 돌개바람",
+      "冷焰暴風",
+      "冷焰风暴"
+    ],
+    "Media": "inv_blizzardphoenixmount.jpg"
+  },
+  {
     "TagId": 2262,
     "TagType": 22,
     "Names": [
@@ -2035,5 +2119,131 @@
       "迎福巨熊"
     ],
     "Media": "inv_harmoniousgreetingsbear.jpg"
+  },
+  {
+    "TagId": 2265,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Trader's Gilded Brutosaur",
+      "Brutosaurio dorado de comerciante",
+      "Brutossauro Dourado do Comerciante",
+      "Trader's Gilded Brutosaur",
+      "Brutosaurio dorado de comerciante",
+      "Brutosaure doré de négoce",
+      "Позолоченный брутозавр торговца",
+      "Goldgeschmückter Händlerbrutosaurus",
+      "Brutossauro Dourado do Comerciante",
+      "Brutosauro Dorato del Mercante",
+      "무역상의 금빛 브루토사우루스",
+      "商人的鑲金雷龍",
+      "鎏金雷龙"
+    ],
+    "Media": "inv_brontosaurusmount2.jpg"
+  },
+  {
+    "TagId": 2304,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Chaos-Forged Gryphon",
+      "Grifo caosforjado",
+      "Grifo Forjado no Caos",
+      "Chaos-Forged Gryphon",
+      "Grifo forjado por el caos",
+      "Griffon forgé par le chaos",
+      "Грифон из кузни Хаоса",
+      "Chaosgeschmiedeter Greif",
+      "Grifo Forjado no Caos",
+      "Grifone Forgiato dal Caos",
+      "혼돈벼림 그리핀",
+      "混沌鑄造獅鷲獸",
+      "混沌熔铸狮鹫"
+    ],
+    "Media": "inv_gryphonmount_30thanniv.jpg"
+  },
+  {
+    "TagId": 2305,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Chaos-Forged Hippogryph",
+      "Hipogrifo caosforjado",
+      "Hipogrifo Forjado no Caos",
+      "Chaos-Forged Hippogryph",
+      "Hipogrifo forjado por el caos",
+      "Hippogriffe forgé par le chaos",
+      "Гиппогриф из кузни Хаоса",
+      "Chaosgeschmiedeter Hippogryph",
+      "Hipogrifo Forjado no Caos",
+      "Ippogrifo Forgiato dal Caos",
+      "혼돈벼림 히포그리프",
+      "混沌鑄造角鷹獸",
+      "混沌熔铸角鹰兽"
+    ],
+    "Media": "inv_hippogryphmount_30thanniv.jpg"
+  },
+  {
+    "TagId": 2307,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Chaos-Forged Dreadwing",
+      "Alatemible caosforjado",
+      "Terrorasa Forjado no Caos",
+      "Chaos-Forged Dreadwing",
+      "Alatemible forjado por el caos",
+      "Aile de l’effroi forgée par le chaos",
+      "Грознокрыл из кузни Хаоса",
+      "Chaosgeschmiedete Unheilschwinge",
+      "Terrorasa Forjado no Caos",
+      "Alatorva Forgiato dal Caos",
+      "혼돈벼림 공포날개",
+      "混沌鑄造懼翼蝙蝠",
+      "混沌熔铸恐翼蝙蝠"
+    ],
+    "Media": "inv_batmount_30thanniv.jpg"
+  },
+  {
+    "TagId": 2308,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Chaos-Forged Wind Rider",
+      "Jinete del viento caosforjado",
+      "Mantícora Forjada no Caos",
+      "Chaos-Forged Wind Rider",
+      "Jinete del viento forjado por el caos",
+      "Coursier du vent forgé par le chaos",
+      "Ветрокрыл из кузни Хаоса",
+      "Chaosgeschmiedeter Windreiter",
+      "Mantícora Forjada no Caos",
+      "Viverna dei Venti Forgiata dal Caos",
+      "혼돈벼림 와이번",
+      "混沌鑄造蠍尾獅",
+      "混沌熔铸驭风者"
+    ],
+    "Media": "inv_windridermount_30thanniv.jpg"
+  },
+  {
+    "TagId": 2317,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Enchanted Spellweave Carpet",
+      "Alfombra de tejido de hechizos voladora",
+      "Tapete de Feititrama Encantado",
+      "Enchanted Spellweave Carpet",
+      "Alfombra de tejechizo encantada",
+      "Tapis en fil ensorcelé enchanté",
+      "Зачарованный ковер из колдовской ткани",
+      "Verzauberter Zaubertuchteppich",
+      "Tapete de Feititrama Encantado",
+      "Tappeto Volante Incantato",
+      "마력 깃든 주문매듭 양탄자",
+      "附魔法紋毯",
+      "魔化法纹飞毯"
+    ],
+    "Media": "inv_tailoring_purplecarpet.jpg"
   }
 ]

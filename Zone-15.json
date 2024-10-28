@@ -94,7 +94,7 @@
       "Schwärmerbresche",
       "Fenda Rastejante",
       "Breccia Brulicante",
-      "땅거미 해변",
+      "땅거미 돌파구",
       "奔蛛裂層",
       "飞掠裂口"
     ]
@@ -489,7 +489,7 @@
       "2510 Duto Central",
       "2510 Coreway",
       "Vía del Núcleo 2510",
-      "2510 Centrerue",
+      "2510 galerie Primaire",
       "Артерия 2510",
       "Kernweg 2510",
       "2510 Duto Central",
@@ -3174,7 +3174,7 @@
       "Anhöhe des Ratsvorstehers",
       "Ascenso da Guarda do Conselho",
       "Altura del Custode del Concilio",
-      "의회감독관 오름길",
+      "의회지기의 오름길",
       "議會守衛高地",
       "议会护持高地"
     ]
@@ -4400,6 +4400,366 @@
     ]
   },
   {
+    "TagId": 15431,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Silithus",
+      "Silithus",
+      "Silithus",
+      "Silithus",
+      "Silithus",
+      "Silithus",
+      "Силитус",
+      "Silithus",
+      "Silithus",
+      "Silitus",
+      "실리더스",
+      "希利蘇斯",
+      "希利苏斯"
+    ]
+  },
+  {
+    "TagId": 15432,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Scarab Dais",
+      "Estrado del Escarabajo",
+      "Palanque do Escaravelho",
+      "The Scarab Dais",
+      "Estrado del Escarabajo",
+      "L’Estrade du scarabée",
+      "Помост Скарабея",
+      "Die Skarabäushöhe",
+      "Palanque do Escaravelho",
+      "Altare dello Scarabeo",
+      "스카라베 제단",
+      "甲蟲之台",
+      "甲虫之台"
+    ]
+  },
+  {
+    "TagId": 15433,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Scarab Wall",
+      "El Muro del Escarabajo",
+      "Muralha do Escaravelho",
+      "The Scarab Wall",
+      "Muro del Escarabajo",
+      "Mur du Scarabée",
+      "Стена Скарабея",
+      "Der Skarabäuswall",
+      "Muralha do Escaravelho",
+      "Vallo dello Scarabeo",
+      "스카라베 성벽",
+      "甲蟲之牆",
+      "甲虫之墙"
+    ]
+  },
+  {
+    "TagId": 15434,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Twilight Outpost",
+      "Avanzada Crepúsculo",
+      "Posto Avançado do Crepúsculo",
+      "Twilight Outpost",
+      "Avanzada Crepúsculo",
+      "Avant-poste du Crépuscule",
+      "Сумеречный форт",
+      "Der Außenposten des Schattenhammers",
+      "Posto Avançado do Crepúsculo",
+      "Avamposto del Crepuscolo",
+      "황혼의 전초기지",
+      "暮光前哨站",
+      "暮光前哨站"
+    ]
+  },
+  {
+    "TagId": 15435,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hive'Zora",
+      "Colmen'Zora",
+      "Colme'Zora",
+      "Hive'Zora",
+      "Colmen'Zora",
+      "Ruche’Zora",
+      "Улей Зора",
+      "Der Bau des Zoraschwarms",
+      "Colme'Zora",
+      "Alveare Zora",
+      "하이브조라",
+      "佐拉蟲巢",
+      "佐拉虫巢"
+    ]
+  },
+  {
+    "TagId": 15436,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Bronzebeard Encampment",
+      "Campamento Barbabronce",
+      "Acampamento Barbabronze",
+      "Bronzebeard Encampment",
+      "Campamento Barbabronce",
+      "Campement de Barbe-de-Bronze",
+      "Лагерь Бронзоборода",
+      "Bronzebarts Lager",
+      "Acampamento Barbabronze",
+      "Accampamento di Barbabronzea",
+      "브론즈비어드 야영지",
+      "銅鬚營地",
+      "铜须营地"
+    ]
+  },
+  {
+    "TagId": 15437,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hive'Regal",
+      "Colmen'Regal",
+      "Colme'Régia",
+      "Hive'Regal",
+      "Colmen'Regal",
+      "Ruche’Regal",
+      "Улей Регал",
+      "Der Bau des Regalschwarms",
+      "Colme'Régia",
+      "Alveare Regal",
+      "하이브레갈",
+      "雷戈蟲巢",
+      "雷戈虫巢"
+    ]
+  },
+  {
+    "TagId": 15438,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Southwind Village",
+      "Aldea del Viento del Sur",
+      "Vila do Vento Sul",
+      "Southwind Village",
+      "Aldea del Viento del Sur",
+      "Village de Sudevent",
+      "Деревня Южного Ветра",
+      "Der Südwindposten",
+      "Vila do Vento Sul",
+      "Vento del Sud",
+      "마파람 마을",
+      "南風村",
+      "南风村"
+    ]
+  },
+  {
+    "TagId": 15439,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Bones of Grakkarond",
+      "Huesos de Grakkarond",
+      "Ossos de Grakkarond",
+      "Bones of Grakkarond",
+      "Huesos de Grakkarond",
+      "Restes de Grakkarond",
+      "Кости Граккаронда",
+      "Knochen von Grakkarond",
+      "Ossos de Grakkarond",
+      "Ossa di Grakkarond",
+      "그락카론드의 무덤",
+      "格拉卡隆之骨",
+      "格拉卡隆之骨"
+    ]
+  },
+  {
+    "TagId": 15440,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Swarming Pillar",
+      "El Pilar de la Ascensión",
+      "Pilar Enxameante",
+      "The Swarming Pillar",
+      "Pilar de la Ascensión",
+      "Le pilier grouillant",
+      "Роящаяся вершина",
+      "Die Schwarmsäule",
+      "Pilar Enxameante",
+      "Pilastro Ronzante",
+      "벌레무리 기둥",
+      "蟲群之柱",
+      "虫群之柱"
+    ]
+  },
+  {
+    "TagId": 15441,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Twilight Base Camp",
+      "Campamento Crepúsculo",
+      "Acampamento do Crepúsculo",
+      "Twilight Base Camp",
+      "Campamento Crepuscular",
+      "Camp de base du Crépuscule",
+      "Сумеречный лагерь",
+      "Das Basislager des Schattenhammers",
+      "Acampamento do Crepúsculo",
+      "Campo Base del Crepuscolo",
+      "황혼의 주둔지",
+      "暮光營地",
+      "暮光营地"
+    ]
+  },
+  {
+    "TagId": 15442,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Twilight Post",
+      "Puesto Crepúsculo",
+      "Posto Crepúsculo",
+      "Twilight Post",
+      "Puesto Crepuscular",
+      "Poste du Crépuscule",
+      "Сумеречная застава",
+      "Der Posten des Schattenhammers",
+      "Posto Crepúsculo",
+      "Rifugio del Crepuscolo",
+      "황혼의 초소",
+      "暮光崗哨",
+      "暮光岗哨"
+    ]
+  },
+  {
+    "TagId": 15443,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Cenarion Hold",
+      "Fuerte Cenarion",
+      "Forte Cenariano",
+      "Cenarion Hold",
+      "Fuerte Cenarion",
+      "Fort Cénarien",
+      "Крепость Кенария",
+      "Die Burg Cenarius",
+      "Forte Cenariano",
+      "Fortezza Cenariana",
+      "세나리온 요새",
+      "塞納里奧城堡",
+      "塞纳里奥要塞"
+    ]
+  },
+  {
+    "TagId": 15444,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Valor's Rest",
+      "Sosiego del Valor",
+      "Repouso dos Valorosos",
+      "Valor's Rest",
+      "Sosiego del Valor",
+      "Repos des vaillants",
+      "Погост Отважных",
+      "Die Heldenwacht",
+      "Repouso dos Valorosos",
+      "Asilo dei Valorosi",
+      "용사의 안식처",
+      "勇士之墓",
+      "勇士之墓"
+    ]
+  },
+  {
+    "TagId": 15445,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Staghelm Point",
+      "Punta de Corzocelada",
+      "Posto Guenelmo",
+      "Staghelm Point",
+      "Punta de Corzocelada",
+      "Halte de Forteramure",
+      "Лагерь Оленьего Шлема",
+      "Hirschhaupts Stätte",
+      "Posto Guenelmo",
+      "Torre Elmocervo",
+      "스태그헬름 거점",
+      "鹿盔崗哨",
+      "鹿盔岗哨"
+    ]
+  },
+  {
+    "TagId": 15446,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Ravaged Twilight Camp",
+      "Campamento Crepúsculo Devastado",
+      "Acampamento Arrasado do Crepúsculo",
+      "Ravaged Twilight Camp",
+      "Campamento Crepuscular Devastado",
+      "Camp du Crépuscule ravagé",
+      "Разоренный Сумеречный лагерь",
+      "Der verwüstete Stützpunkt des Schattenhammers",
+      "Acampamento Arrasado do Crepúsculo",
+      "Accampamento Devastato del Crepuscolo",
+      "파괴된 황혼의 야영지",
+      "暮光營地廢墟",
+      "暮光营地废墟"
+    ]
+  },
+  {
+    "TagId": 15447,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Crystal Vale",
+      "La Vega de Cristal",
+      "Vale de Cristal",
+      "The Crystal Vale",
+      "Vega de Cristal",
+      "La vallée des Cristaux",
+      "Долина Кристаллов",
+      "Das Kristalltal",
+      "Vale de Cristal",
+      "Valle di Cristallo",
+      "수정 골짜기",
+      "水晶谷",
+      "水晶谷"
+    ]
+  },
+  {
+    "TagId": 15448,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hive'Ashi",
+      "Colmen'Ashi",
+      "Colme'Ashi",
+      "Hive'Ashi",
+      "Colmen'Ashi",
+      "Ruche’Ashi",
+      "Улей Аши",
+      "Der Bau des Ashischwarms",
+      "Colme'Ashi",
+      "Alveare Ashi",
+      "하이브아쉬",
+      "亞什蟲巢",
+      "亚什虫巢"
+    ]
+  },
+  {
     "TagId": 15450,
     "TagType": 24,
     "Names": [
@@ -4520,6 +4880,46 @@
     ]
   },
   {
+    "TagId": 15509,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Forbidden Reach",
+      "El Confín Prohibido",
+      "Recôndito Proibido",
+      "The Forbidden Reach",
+      "Confín Olvidado",
+      "Confins Interdits",
+      "Запретный край",
+      "Die verbotene Insel",
+      "Recôndito Proibido",
+      "Isola Proibita",
+      "금지된 해안",
+      "禁忌之境",
+      "禁忌离岛"
+    ]
+  },
+  {
+    "TagId": 15510,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The War Creche",
+      "El Nidal de Guerra",
+      "Abrigo da Guerra",
+      "The War Creche",
+      "Nido Bélico",
+      "Couvoir Martial",
+      "Колыбель воинов",
+      "Der Kriegshort",
+      "Abrigo da Guerra",
+      "Asilo della Guerra",
+      "전쟁의 요람",
+      "戰爭育所",
+      "战争育幼所"
+    ]
+  },
+  {
     "TagId": 15513,
     "TagType": 24,
     "Names": [
@@ -4529,7 +4929,7 @@
       "Dimensão de Bolso",
       "Pocket Dimension",
       "Dimensión de Bolsillo",
-      "Dimension de poche",
+      "Poche dimensionnelle",
       "Карманное измерение",
       "Taschendimension",
       "Dimensão de Bolso",
@@ -4565,7 +4965,7 @@
     "Names": [
       null,
       "The Royal Apothecary",
-      "El Boticario Real",
+      "La Botica Real",
       "O Boticário Real",
       "The Royal Apothecary",
       "Boticario Real",
@@ -4800,6 +5200,26 @@
     ]
   },
   {
+    "TagId": 15780,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All",
+      "Forbidden Reach - (11.0.5 Version) - Dracthyr for All"
+    ]
+  },
+  {
     "TagId": 15786,
     "TagType": 24,
     "Names": [
@@ -4817,6 +5237,26 @@
       "신성한 협곡",
       "聖落之地",
       "陨圣峪"
+    ]
+  },
+  {
+    "TagId": 15913,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Blackrock Depths",
+      "Profundidades de Roca Negra",
+      "Abismo Rocha Negra",
+      "Blackrock Depths",
+      "Profundidades de Roca Negra",
+      "Les profondeurs de Rochenoire",
+      "Глубины Черной горы",
+      "Schwarzfelstiefen",
+      "Abismo Rocha Negra",
+      "Sotterranei di Roccianera",
+      "검은바위 나락",
+      "黑石深淵",
+      "黑石深渊"
     ]
   }
 ]

@@ -5,7 +5,7 @@
     "Names": [
       null,
       "Algari Competitor's Shield",
-      "Escudo de competidor algari",
+      "Escudo de Competidor algari",
       "Escudo do Competidor Algari",
       "Algari Competitor's Shield",
       "Escudo de competidor algariano",
@@ -26,7 +26,7 @@
     "Names": [
       null,
       "Algari Competitor's Axe",
-      "Hacha de competidor algari",
+      "Hacha de Competidor algari",
       "Machado do Competidor Algari",
       "Algari Competitor's Axe",
       "Hacha de competidor algariano",
@@ -47,7 +47,7 @@
     "Names": [
       null,
       "Algari Competitor's Skewer",
-      "Pincho de competidor algari",
+      "Pincho de Competidor algari",
       "Espeto do Competidor Algari",
       "Algari Competitor's Skewer",
       "Pincho de competidor algariano",
@@ -58,7 +58,7 @@
       "Spiedo del Concorrente Algari",
       "알가르 경쟁자의 꼬챙이",
       "阿爾加競技者穿刺匕首",
-      "阿加竞争者的刺肉刃"
+      "阿加竞争者的穿刺之刃"
     ],
     "Media": "ui_profession_leatherworking.jpg"
   },
@@ -68,7 +68,7 @@
     "Names": [
       null,
       "Algari Competitor's Greatsword",
-      "Espada magna de competidor algari",
+      "Espada magna de Competidor algari",
       "Montante do Competidor Algari",
       "Algari Competitor's Greatsword",
       "Espada magna de competidor algariano",
@@ -89,7 +89,7 @@
     "Names": [
       null,
       "Algari Competitor's Sword",
-      "Espada de competidor algari",
+      "Espada de Competidor algari",
       "Espada do Competidor Algari",
       "Algari Competitor's Sword",
       "Espada de competidor algariano",
@@ -110,7 +110,7 @@
     "Names": [
       null,
       "Algari Competitor's Rifle",
-      "Rifle de competidor algari",
+      "Rifle de Competidor algari",
       "Rifle do Competidor Algari",
       "Algari Competitor's Rifle",
       "Rifle de competidor algariano",
@@ -131,7 +131,7 @@
     "Names": [
       null,
       "Algari Competitor's Lamp",
-      "Farol de competidor algari",
+      "Farol de Competidor algari",
       "Lâmpada do Competidor Algari",
       "Algari Competitor's Lamp",
       "Lámpara de competidor algariano",
@@ -142,7 +142,7 @@
       "Lampada del Concorrente Algari",
       "알가르 경쟁자의 등불",
       "阿爾加競技者油燈",
-      "阿加竞争者的提灯"
+      "阿加竞争者之灯"
     ],
     "Media": "ui_profession_leatherworking.jpg"
   },
@@ -152,7 +152,7 @@
     "Names": [
       null,
       "Algari Competitor's Pillar",
-      "Pilar de competidor algari",
+      "Pilar de Competidor algari",
       "Pilar do Competidor Algari",
       "Algari Competitor's Pillar",
       "Pilar de competidor algariano",
@@ -173,7 +173,7 @@
     "Names": [
       null,
       "Algari Competitor's Staff",
-      "Bastón de competidor algari",
+      "Bastón de Competidor algari",
       "Cajado do Competidor Algari",
       "Algari Competitor's Staff",
       "Bastón de competidor algariano",
@@ -208,6 +208,27 @@
       "精油之瓶"
     ],
     "Media": "inv_archaeology_70_highborne_vialofpoison.jpg"
+  },
+  {
+    "TagId": 455010,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fixate",
+      "Fijación",
+      "Fixar",
+      "Fixate",
+      "Fijar",
+      "Fixation",
+      "Сосредоточение внимания",
+      "Fixieren",
+      "Fixar",
+      "Ossessione",
+      "시선 고정",
+      "鎖定",
+      "锁定"
+    ],
+    "Media": "ability_fixated_state_red.jpg"
   },
   {
     "TagId": 455011,
@@ -376,6 +397,27 @@
       "热酒"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455020,
+    "TagType": 26,
+    "Names": [
+      null,
+      "WoW's Anniversary",
+      "Aniversario de WoW",
+      "Aniversário do WoW",
+      "WoW's Anniversary",
+      "Aniversario de WoW",
+      "Anniversaire de WoW",
+      "Годовщина World of Warcraft",
+      "Geburtstag von WoW",
+      "Aniversário do WoW",
+      "Anniversario di WoW",
+      "월드 오브 워크래프트의 생일",
+      "魔獸世界週年慶",
+      "魔兽世界周年庆典"
+    ],
+    "Media": "temp.jpg"
   },
   {
     "TagId": 455021,
@@ -966,6 +1008,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 455050,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessings of the Bronze Dragonflight",
+      "Bendiciones del Vuelo Bronce",
+      "Bênçãos da Revoada Bronze",
+      "Blessings of the Bronze Dragonflight",
+      "Bendiciones del Vuelo Bronce",
+      "Bénédictions du Vol draconique de bronze",
+      "Благословения бронзовых драконов",
+      "Segen des bronzenen Drachenschwarms",
+      "Bênçãos da Revoada Bronze",
+      "Benedizioni dello Stormo di Bronzo",
+      "청동용군단의 축복",
+      "青銅龍軍團的祝福",
+      "青铜龙军团的祝福"
+    ],
+    "Media": "temp.jpg"
+  },
+  {
     "TagId": 455051,
     "TagType": 26,
     "Names": [
@@ -1533,6 +1596,27 @@
     "Media": "ability_creature_disease_05.jpg"
   },
   {
+    "TagId": 455087,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455088,
     "TagType": 26,
     "Names": [
@@ -1826,6 +1910,27 @@
     "Media": "spell_shaman_tidalwaves.jpg"
   },
   {
+    "TagId": 455103,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF",
+      "Portal NPC appearance - DF"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455104,
     "TagType": 26,
     "Names": [
@@ -1845,6 +1950,48 @@
       "利齿黑暗"
     ],
     "Media": "inv_weapon_hand_04.jpg"
+  },
+  {
+    "TagId": 455105,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD",
+      "Portal NPC appearance - WoD"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455106,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC",
+      "Portal NPC appearance - BC"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455107,
@@ -1950,6 +2097,90 @@
       "炽燃之怒"
     ],
     "Media": "ability_ironmaidens_rapidfire.jpg"
+  },
+  {
+    "TagId": 455112,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP",
+      "Portal NPC appearance - MoP"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455113,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion",
+      "Portal NPC appearance - Legion"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455114,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA",
+      "Portal NPC appearance - BFA"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455115,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL",
+      "Portal NPC appearance - SL"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455116,
@@ -2117,7 +2348,7 @@
       "傳導能量",
       "传导能量"
     ],
-    "Media": "spell_shaman_thunderstorm.jpg"
+    "Media": "inv_rod_enchantedcobalt.jpg"
   },
   {
     "TagId": 455124,
@@ -2643,6 +2874,26 @@
       "(DNT) Puzzle Solved, Credit"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455151,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page",
+      "[DNT] Collect Page"
+    ]
   },
   {
     "TagId": 455152,
@@ -3863,6 +4114,27 @@
     "Media": "spell_lightning_lightningbolt01.jpg"
   },
   {
+    "TagId": 455223,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draining Blows",
+      "Arremetidas drenadoras",
+      "Golpes Drenantes",
+      "Draining Blows",
+      "Ataques de absorción",
+      "Coups drainants",
+      "Похищающие удары",
+      "Absaugende Draufschläge",
+      "Golpes Drenantes",
+      "Colpi Prosciuganti",
+      "흡수의 일격",
+      "吸血一擊",
+      "吸血打击"
+    ],
+    "Media": "spell_shadow_chilltouch.jpg"
+  },
+  {
     "TagId": 455224,
     "TagType": 26,
     "Names": [
@@ -3968,6 +4240,27 @@
     "Media": "inv_misc_enggizmos_24.jpg"
   },
   {
+    "TagId": 455229,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mount Hyjal",
+      "Monte Hyjal",
+      "Monte Hyjal",
+      "Mount Hyjal",
+      "Monte Hyjal",
+      "Mont Hyjal",
+      "Хиджал",
+      "Hyjal",
+      "Monte Hyjal",
+      "Monte Hyjal",
+      "하이잘 산",
+      "海加爾山",
+      "海加尔山"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455230,
     "TagType": 26,
     "Names": [
@@ -4010,6 +4303,153 @@
     "Media": "spell_shadow_plaguecloud.jpg"
   },
   {
+    "TagId": 455232,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Uldum",
+      "Uldum",
+      "Uldum",
+      "Uldum",
+      "Uldum",
+      "Uldum",
+      "Ульдум",
+      "Uldum",
+      "Uldum",
+      "Uldum",
+      "울둠",
+      "奧丹姆",
+      "奥丹姆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455233,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Twilight Highlands",
+      "Tierras Altas Crepusculares",
+      "Planalto do Crepúsculo",
+      "Twilight Highlands",
+      "Tierras Altas Crepusculares",
+      "Hautes-terres du Crépuscule",
+      "Сумеречное нагорье",
+      "Schattenhochland",
+      "Planalto do Crepúsculo",
+      "Alture del Crepuscolo",
+      "황혼의 고원",
+      "暮光高地",
+      "暮光高地"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455234,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowmoon Valley",
+      "Valle Sombraluna",
+      "Vale da Lua Negra",
+      "Shadowmoon Valley",
+      "Valle Sombraluna",
+      "Vallée d’Ombrelune",
+      "Долина Призрачной Луны",
+      "Schattenmondtal",
+      "Vale da Lua Negra",
+      "Valle di Torvaluna",
+      "어둠달 골짜기",
+      "影月谷",
+      "影月谷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455236,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gorgrond",
+      "Gorgrond",
+      "Gorgrond",
+      "Gorgrond",
+      "Gorgrond",
+      "Gorgrond",
+      "Горгронд",
+      "Gorgrond",
+      "Gorgrond",
+      "Gorgrond",
+      "고르그론드",
+      "格古隆德",
+      "戈尔隆德"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455237,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nagrand",
+      "Nagrand",
+      "Nagrand",
+      "Nagrand",
+      "Nagrand",
+      "Nagrand",
+      "Награнд",
+      "Nagrand",
+      "Nagrand",
+      "Nagrand",
+      "나그란드",
+      "納葛蘭",
+      "纳格兰"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455238,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grizzly Hills",
+      "Colinas Pardas",
+      "Serra Gris",
+      "Grizzly Hills",
+      "Colinas Pardas",
+      "Grisonnes",
+      "Седые холмы",
+      "Grizzlyhügel",
+      "Serra Gris",
+      "Colli Bradi",
+      "회색 구릉지",
+      "灰白之丘",
+      "灰熊丘陵"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455239,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Icecrown",
+      "Corona de Hielo",
+      "Coroa de Gelo",
+      "Icecrown",
+      "Corona de Hielo",
+      "Couronne de glace",
+      "Ледяная Корона",
+      "Eiskrone",
+      "Coroa de Gelo",
+      "Corona di Ghiaccio",
+      "얼음왕관",
+      "寒冰皇冠",
+      "冰冠冰川"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455240,
     "TagType": 26,
     "Names": [
@@ -4027,6 +4467,27 @@
       "[DNT] Suspicious Rock Rumble",
       "[DNT] Suspicious Rock Rumble",
       "[DNT] Suspicious Rock Rumble"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455241,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Storm Peaks",
+      "Las Cumbres Tormentosas",
+      "Picos Tempestuosos",
+      "The Storm Peaks",
+      "Cumbres Tormentosas",
+      "Pics Foudroyés",
+      "Грозовая гряда",
+      "Sturmgipfel",
+      "Picos Tempestuosos",
+      "Cime Tempestose",
+      "폭풍우 봉우리",
+      "風暴群山",
+      "风暴峭壁"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4240,6 +4701,27 @@
     "Media": "inv_voidboss.jpg"
   },
   {
+    "TagId": 455253,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Suramar",
+      "Suramar",
+      "Suramar",
+      "Suramar",
+      "Suramar",
+      "Suramar",
+      "Сурамар",
+      "Suramar",
+      "Suramar",
+      "Suramar",
+      "수라마르",
+      "蘇拉瑪爾",
+      "苏拉玛"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455255,
     "TagType": 26,
     "Names": [
@@ -4282,6 +4764,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 455257,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stormheim",
+      "Stormheim",
+      "Trommheim",
+      "Stormheim",
+      "Tormenheim",
+      "Tornheim",
+      "Штормхейм",
+      "Sturmheim",
+      "Trommheim",
+      "Stromheim",
+      "스톰하임",
+      "斯鐸海姆",
+      "风暴峡湾"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455258,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Val'Sharah",
+      "Val'Sharah",
+      "Val'Sharah",
+      "Val'Sharah",
+      "Val'sharah",
+      "Val’sharah",
+      "Валь'шара",
+      "Val'sharah",
+      "Val'Sharah",
+      "Val'sharah",
+      "발샤라",
+      "維爾薩拉",
+      "瓦尔莎拉"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455259,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tiragard Sound",
+      "Canal de Tiragarde",
+      "Estreito Tiragarde",
+      "Tiragard Sound",
+      "Estrecho de Tiragarde",
+      "Son de Tiragarde",
+      "Тирагардское поморье",
+      "Tiragardesund",
+      "Estreito Tiragarde",
+      "Baia di Tiragarde",
+      "티라가드 해협",
+      "提拉加德海灣",
+      "提拉加德海峡"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455260,
     "TagType": 26,
     "Names": [
@@ -4303,6 +4848,48 @@
     "Media": "creature_sporemushroom.jpg"
   },
   {
+    "TagId": 455261,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drustvar",
+      "Drustvar",
+      "Drustvar",
+      "Drustvar",
+      "Drustvar",
+      "Drustvar",
+      "Друствар",
+      "Drustvar",
+      "Drustvar",
+      "Drustvar",
+      "드러스트바",
+      "佐司瓦",
+      "德鲁斯瓦"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455262,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stormsong Valley",
+      "Valle Canto Tormenta",
+      "Vale Trovamare",
+      "Stormsong Valley",
+      "Valle Canto Tormenta",
+      "Vallée Chantorage",
+      "Долина Штормов",
+      "Sturmsangtal",
+      "Vale Trovamare",
+      "Valle dei Sacraonda",
+      "스톰송 계곡",
+      "斯陀頌恩谷地",
+      "斯托颂谷地"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455263,
     "TagType": 26,
     "Names": [
@@ -4320,6 +4907,69 @@
       "정신 이상 유발",
       "導致瘋狂",
       "导致疯狂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455264,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Revendreth",
+      "Revendreth",
+      "Revendreth",
+      "Revendreth",
+      "Revendreth",
+      "Revendreth",
+      "Ревендрет",
+      "Revendreth",
+      "Revendreth",
+      "Revendreth",
+      "레벤드레스",
+      "瑞文崔斯",
+      "雷文德斯"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455265,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ardenweald",
+      "Ardenweald",
+      "Ardena",
+      "Ardenweald",
+      "Ardenweald",
+      "Sylvarden",
+      "Арденвельд",
+      "Ardenwald",
+      "Ardena",
+      "Selvarden",
+      "몽환숲",
+      "亞登曠野",
+      "炽蓝仙野"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455266,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Zereth Mortis",
+      "Zereth Mortis",
+      "Zereth Mortis",
+      "Zereth Mortis",
+      "Zereth Mortis",
+      "Zereth Mortis",
+      "Зерет Мортис",
+      "Zereth Mortis",
+      "Zereth Mortis",
+      "Zereth Mortis",
+      "제레스 모르티스",
+      "澤瑞斯莫提斯",
+      "扎雷殁提斯"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4345,6 +4995,48 @@
     "Media": "inv_misc_rylakclaw.jpg"
   },
   {
+    "TagId": 455268,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Azure Span",
+      "Trecho Azur",
+      "Vasta Lazúli",
+      "Azure Span",
+      "Tierras Azures",
+      "Travée d’Azur",
+      "Лазурный Простор",
+      "Azurblaues Gebirge",
+      "Vasta Lazúli",
+      "Vastità Azzurra",
+      "하늘빛 평원",
+      "蒼藍高地",
+      "碧蓝林海"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455269,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Waking Shores",
+      "Costas del Despertar",
+      "Costa Desperta",
+      "Waking Shores",
+      "Orillas del Despertar",
+      "Rivages de l’Éveil",
+      "Берега Пробуждения",
+      "Küste des Erwachens",
+      "Costa Desperta",
+      "Sponde del Risveglio",
+      "깨어나는 해안",
+      "甦醒海岸",
+      "觉醒海岸"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455270,
     "TagType": 26,
     "Names": [
@@ -4362,6 +5054,27 @@
       "[DNT] Cask-cruncher Landing Knockback",
       "[DNT] Cask-cruncher Landing Knockback",
       "[DNT] Cask-cruncher Landing Knockback"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455271,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ohn'ahran Plains",
+      "Llanuras de Ohn'ahra",
+      "Chapada Ohn'ahrana",
+      "Ohn'ahran Plains",
+      "Llanuras de Ohn'ahra",
+      "Plaines d’Ohn’ahra",
+      "Равнины Он'ары",
+      "Ebenen von Ohn'ahra",
+      "Chapada Ohn'ahrana",
+      "Pianure di Ohn'ahra",
+      "온아라 평야",
+      "雍亞拉平原",
+      "欧恩哈拉平原"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4637,6 +5350,48 @@
       "被感染的子嗣"
     ],
     "Media": "inv_minespider2_jungle.jpg"
+  },
+  {
+    "TagId": 455285,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 455286,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump",
+      "[DNT] High Jump"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455287,
@@ -7285,6 +8040,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 455423,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs",
+      "[DNT] Test Mana-Tombs"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455424,
     "TagType": 26,
     "Names": [
@@ -8860,6 +9636,48 @@
     "Media": "spell_deathvortex.jpg"
   },
   {
+    "TagId": 455503,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unholy Aura",
+      "Aura profana",
+      "Aura Profana",
+      "Unholy Aura",
+      "Aura profana",
+      "Aura impie",
+      "Нечистая аура",
+      "Unheilige Aura",
+      "Aura Profana",
+      "Aura Empia",
+      "부정의 오라",
+      "穢邪光環",
+      "邪恶光环"
+    ],
+    "Media": "spell_shadow_unholystrength.jpg"
+  },
+  {
+    "TagId": 455504,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unholy Aura",
+      "Aura profana",
+      "Aura Profana",
+      "Unholy Aura",
+      "Aura profana",
+      "Aura impie",
+      "Нечистая аура",
+      "Unheilige Aura",
+      "Aura Profana",
+      "Aura Empia",
+      "부정의 오라",
+      "穢邪光環",
+      "邪恶光环"
+    ],
+    "Media": "spell_shadow_unholystrength.jpg"
+  },
+  {
     "TagId": 455505,
     "TagType": 26,
     "Names": [
@@ -9553,6 +10371,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 455539,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spore Cloud",
+      "Nube de esporas",
+      "Nuvem de Esporos",
+      "Spore Cloud",
+      "Nube de esporas",
+      "Nuage de spores",
+      "Споровое облако",
+      "Sporenwolke",
+      "Nuvem de Esporos",
+      "Nube di Spore",
+      "포자 구름",
+      "孢子之雲",
+      "孢子之云"
+    ],
+    "Media": "spell_nature_dryaddispelmagic.jpg"
+  },
+  {
+    "TagId": 455540,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog",
+      "[DNT] Test Underbog"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 455541,
     "TagType": 26,
     "Names": [
@@ -9761,6 +10621,27 @@
       "盲目怒火"
     ],
     "Media": "ability_warrior_focusedrage.jpg"
+  },
+  {
+    "TagId": 455553,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Valley of the Four Winds",
+      "Valle de los Cuatro Vientos",
+      "Vale dos Quatro Ventos",
+      "Valley of the Four Winds",
+      "El Valle de los Cuatro Vientos",
+      "Vallée des Quatre vents",
+      "Долина Четырех Ветров",
+      "Tal der Vier Winde",
+      "Vale dos Quatro Ventos",
+      "Valle dei Quattro Venti",
+      "네 바람의 계곡",
+      "四風峽",
+      "四风谷"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455555,
@@ -10034,6 +10915,27 @@
       "蓄势之影"
     ],
     "Media": "ability_rogue_sinistercalling.jpg"
+  },
+  {
+    "TagId": 455574,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Top Hat",
+      "Galera",
+      "Cartola",
+      "Top Hat",
+      "Chistera",
+      "Haut-de-forme",
+      "Цилиндр",
+      "Zylinder",
+      "Cartola",
+      "Cappello a Cilindro",
+      "중산모",
+      "禮帽",
+      "高顶礼帽"
+    ],
+    "Media": "inv_helm_misc_fireworkpartyhat.jpg"
   },
   {
     "TagId": 455575,
@@ -10356,19 +11258,40 @@
       null,
       "Surging Totem",
       "Tótem volátil",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Surging Totem",
       "Tótem emergente",
       "Totem déferlant",
       "Пульсирующий тотем",
       "Wogendes Totem",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Totem Crescente",
       "쇄도하는 토템",
       "翻湧圖騰",
       "涌动图腾"
     ],
     "Media": "inv_ability_totemicshaman_surgingtotem.jpg"
+  },
+  {
+    "TagId": 455596,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mighty Charge",
+      "Carga poderosa",
+      "Carga Potente",
+      "Mighty Charge",
+      "Carga poderosa",
+      "Charge puissante",
+      "Мощная атака",
+      "Mächtiger Sturmangriff",
+      "Carga Potente",
+      "Carica Vigorosa",
+      "강력한 돌격",
+      "全力衝鋒",
+      "强力冲锋"
+    ],
+    "Media": "inv_gauntlets_05.jpg"
   },
   {
     "TagId": 455597,
@@ -10411,6 +11334,27 @@
       "萎缩退行"
     ],
     "Media": "ability_creature_cursed_03.jpg"
+  },
+  {
+    "TagId": 455600,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue",
+      "[DNT] Scenario: Codex of Chromie Queue"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455601,
@@ -10944,13 +11888,13 @@
       null,
       "Surging Totem",
       "Tótem volátil",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Surging Totem",
       "Tótem emergente",
       "Totem déferlant",
       "Пульсирующий тотем",
       "Wogendes Totem",
-      "Totem Jorrante",
+      "Totem de Irrupção",
       "Totem Crescente",
       "쇄도하는 토템",
       "翻湧圖騰",
@@ -11251,6 +12195,27 @@
       "机轴突袭"
     ],
     "Media": "inv_eng_gizmo3.jpg"
+  },
+  {
+    "TagId": 455645,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller",
+      "[DNT] Widget Controller"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455646,
@@ -14755,7 +15720,7 @@
       "Rete Predatoria",
       "추적자의 그물망",
       "潛獵者之網",
-      "追踪者缠网"
+      "追踪者织网"
     ],
     "Media": "inv_ability_web_orb.jpg"
   },
@@ -14905,6 +15870,27 @@
       "下潜"
     ],
     "Media": "inv_misc_makrura.jpg"
+  },
+  {
+    "TagId": 455825,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blade Dance",
+      "Danza de hojas",
+      "Dança de Lâminas",
+      "Blade Dance",
+      "Danza de hojas",
+      "Danse des lames",
+      "Танец клинков",
+      "Klingentanz",
+      "Dança de Lâminas",
+      "Lame Danzanti",
+      "칼춤",
+      "劍刃之舞",
+      "刃舞"
+    ],
+    "Media": "ability_rogue_slicedice.jpg"
   },
   {
     "TagId": 455826,
@@ -16145,6 +17131,27 @@
     "Media": "ability_druid_dash_orange.jpg"
   },
   {
+    "TagId": 455895,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flurry",
+      "Aluvión",
+      "Ímpeto",
+      "Flurry",
+      "Aluvión",
+      "Rafale",
+      "Шквал",
+      "Schlaghagel",
+      "Ímpeto",
+      "Raffica di Colpi",
+      "진눈깨비",
+      "亂舞",
+      "乱舞"
+    ],
+    "Media": "ability_ghoulfrenzy.jpg"
+  },
+  {
     "TagId": 455896,
     "TagType": 26,
     "Names": [
@@ -17305,18 +18312,18 @@
     "Names": [
       null,
       "Food & Drink",
+      "Comida y bebida",
+      "Comida e Bebida",
       "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink",
-      "Food & Drink"
+      "Alimentos y bebidas",
+      "Nourriture et boissons",
+      "Еда и напитки",
+      "Speis & Trank",
+      "Comida e Bebida",
+      "Cibo e Bevande",
+      "음식과 음료",
+      "食物和飲料",
+      "食物和饮料"
     ],
     "Media": "inv_misc_food_08.jpg"
   },
@@ -17340,6 +18347,27 @@
       "回归"
     ],
     "Media": "ability_evoker_recall.jpg"
+  },
+  {
+    "TagId": 455963,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace",
+      "[DNT] Test Blood Furnace"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 455966,
@@ -17739,6 +18767,27 @@
       "粉碎冰霜"
     ],
     "Media": "inv_10_enchanting_shard_color3.jpg"
+  },
+  {
+    "TagId": 455995,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fixed in Time",
+      "Corregido a tiempo",
+      "Fixo no Tempo",
+      "Fixed in Time",
+      "Fijado en el tiempo",
+      "Immuabilité temporelle",
+      "Фиксация во времени",
+      "In der Zeit fixiert",
+      "Fixo no Tempo",
+      "Fissato nel Tempo",
+      "시간 속에 고정됨",
+      "時光禁錮",
+      "时光锁定"
+    ],
+    "Media": "spell_holy_borrowedtime.jpg"
   },
   {
     "TagId": 455996,

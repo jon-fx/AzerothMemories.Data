@@ -8215,15 +8215,15 @@
     "TagType": 26,
     "Names": [
       null,
-      "Death & Decay",
+      "Death and Decay",
       "Muerte y descomposición",
-      "Morte & Decomposição",
-      "Death & Decay",
+      "Morte e Decomposição",
+      "Death and Decay",
       "Muerte y descomposición",
       "Mort et décomposition",
       "Смерть и разложение",
       "Tod und Verfall",
-      "Morte & Decomposição",
+      "Morte e Decomposição",
       "Morte e Distruzione",
       "죽음과 부패",
       "死亡凋零",
@@ -8551,21 +8551,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Bear Command",
-      "Orden del oso",
-      "Comando do Urso",
-      "Bear Command",
-      "Orden del oso",
-      "Ordres de l'ours",
-      "Подчинение медведя",
-      "Bärenkommando",
-      "Comando do Urso",
-      "Ordine d'Attacco",
-      "곰 명령",
-      "熊的命令",
-      "熊的指令"
+      "Command Claw",
+      "Zarpa de mando",
+      "Barra de Comando",
+      "Command Claw",
+      "Garfa de mando",
+      "Griffe de commandement",
+      "Приказ Когтю",
+      "Klaue befehligen",
+      "Barra de Comando",
+      "Comando di Spiro",
+      "지배의 발톱",
+      "控制之爪",
+      "命令之爪"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "ability_hunter_killcommand.jpg"
   },
   {
     "TagId": 34663,
@@ -9093,6 +9093,90 @@
     "Media": "spell_arcane_arcaneresilience.jpg"
   },
   {
+    "TagId": 34703,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Alignment",
+      "Alineación arcana",
+      "Alinhamento Arcano",
+      "Arcane Alignment",
+      "Alineación Arcana",
+      "Alignement avec les Arcanes",
+      "Склонность к тайной магии",
+      "Arkane Ausrichtung",
+      "Alinhamento Arcano",
+      "Allineamento all'Arcano",
+      "비전 정렬",
+      "秘法連線",
+      "奥术之盟"
+    ],
+    "Media": "spell_arcane_prismaticcloak.jpg"
+  },
+  {
+    "TagId": 34704,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Alignment",
+      "Alineación de fuego",
+      "Alinhamento do Fogo",
+      "Fire Alignment",
+      "Alineación de Fuego",
+      "Alignement avec le Feu",
+      "Склонность к огню",
+      "Feuerausrichtung",
+      "Alinhamento do Fogo",
+      "Allineamento al Fuoco",
+      "화염 정렬",
+      "火焰連線",
+      "火焰之盟"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
+  },
+  {
+    "TagId": 34705,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Alignment",
+      "Alineación de escarcha",
+      "Alinhamento do Gelo",
+      "Frost Alignment",
+      "Alineación de Escarcha",
+      "Alignement avec le Givre",
+      "Склонность ко льду",
+      "Frostausrichtung",
+      "Alinhamento do Gelo",
+      "Allineamento al Gelo",
+      "냉기 정렬",
+      "冰霜連線",
+      "冰霜之盟"
+    ],
+    "Media": "spell_frost_frostarmor.jpg"
+  },
+  {
+    "TagId": 34707,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nature Alignment",
+      "Alineación de naturaleza",
+      "Alinhamento da Natureza",
+      "Nature Alignment",
+      "Alineación natural",
+      "Alignement avec la Nature",
+      "Склонность к природе",
+      "Naturausrichtung",
+      "Alinhamento da Natureza",
+      "Allineamento alla Natura",
+      "자연 정렬",
+      "自然連線",
+      "自然之盟"
+    ],
+    "Media": "ability_hunter_onewithnature.jpg"
+  },
+  {
     "TagId": 34709,
     "TagType": 26,
     "Names": [
@@ -9112,6 +9196,27 @@
       "暗影视界"
     ],
     "Media": "spell_shadow_evileye.jpg"
+  },
+  {
+    "TagId": 34710,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Alignment",
+      "Alineación de las sombras",
+      "Alinhamento Sombrio",
+      "Shadow Alignment",
+      "Alineamiento sombrío",
+      "Alignement avec l’Ombre",
+      "Склонность к тьме",
+      "Schattenausrichtung",
+      "Alinhamento Sombrio",
+      "Allineamento all'Ombra",
+      "암흑 정렬",
+      "暗影連線",
+      "暗影之盟"
+    ],
+    "Media": "spell_shadow_summonvoidwalker.jpg"
   },
   {
     "TagId": 34712,
@@ -10143,6 +10248,27 @@
     "Media": "spell_nature_corrosivebreath.jpg"
   },
   {
+    "TagId": 34781,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bind Feet",
+      "Atar pies",
+      "Prender Pés",
+      "Bind Feet",
+      "Atar pies",
+      "Lier les pieds",
+      "Связывание ног",
+      "Fußfesseln",
+      "Prender Pés",
+      "Tentacoli Vincolanti",
+      "다리 묶기",
+      "腳束縛",
+      "绊脚"
+    ],
+    "Media": "spell_nature_slow.jpg"
+  },
+  {
     "TagId": 34782,
     "TagType": 26,
     "Names": [
@@ -10336,19 +10462,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Arcane Explosion",
-      "Deflagración Arcana",
-      "Explosão Arcana",
-      "Arcane Explosion",
-      "Deflagración Arcana",
-      "Explosion des Arcanes",
-      "Чародейский взрыв",
-      "Arkane Explosion",
-      "Explosão Arcana",
-      "Esplosione Arcana",
-      "신비한 폭발",
-      "魔爆術",
-      "魔爆术"
+      "Arcane Implosion",
+      "Implosión Arcana",
+      "Implosão Arcana",
+      "Arcane Implosion",
+      "Implosión Arcana",
+      "Implosion des arcanes",
+      "Чародейская имплозия",
+      "Arkane Implosion",
+      "Implosão Arcana",
+      "Implosione Arcana",
+      "신비한 파열",
+      "秘法內爆",
+      "奥术内爆"
     ],
     "Media": "spell_nature_wispsplode.jpg"
   },
