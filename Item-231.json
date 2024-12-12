@@ -795,7 +795,7 @@
       "雷文的舒適寵物籠",
       "勒文的舒适随身包"
     ],
-    "Media": "6075394.jpg"
+    "Media": "inv_cape_special_foxdetective_d_01.jpg"
   },
   {
     "TagId": 231292,
@@ -837,7 +837,7 @@
       "雷文",
       "勒文"
     ],
-    "Media": "6075526.jpg"
+    "Media": "inv_foxpetdetective.jpg"
   },
   {
     "TagId": 231344,
@@ -3444,6 +3444,195 @@
     "Media": "6bf_blackrock_nova.jpg"
   },
   {
+    "TagId": 231760,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Notes on Ancient Treasure",
+      "Notas sobre el tesoro antiguo",
+      "Observações sobre Tesouros Antigos",
+      "Notes on Ancient Treasure",
+      "Nota sobre un tesoro antiguo",
+      "Notes sur un trésor ancien",
+      "Записи о древнем сокровище",
+      "Notizen zu uralten Schätzen",
+      "Observações sobre Tesouros Antigos",
+      "Appunti sull'Antico Tesoro",
+      "고대의 보물에 관한 쪽지",
+      "古代寶藏筆記",
+      "关于古代宝藏的笔记"
+    ],
+    "Media": "inv_misc_note_03.jpg"
+  },
+  {
+    "TagId": 231761,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_jewelry_necklace_60.jpg"
+  },
+  {
+    "TagId": 231762,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_pet_mechanicalsquirrel.jpg"
+  },
+  {
+    "TagId": 231763,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_crystalvial.jpg"
+  },
+  {
+    "TagId": 231764,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_jewelry_necklace_01.jpg"
+  },
+  {
+    "TagId": 231765,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_book_09.jpg"
+  },
+  {
+    "TagId": 231773,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lost & Found Chest",
+      "Cofre de objetos perdidos",
+      "Baú de Achados e Perdidos",
+      "Lost & Found Chest",
+      "Cofre de objetos perdidos",
+      "Coffre des objets trouvés",
+      "Сундук бюро находок",
+      "Fundbürotruhe",
+      "Baú de Achados e Perdidos",
+      "Cassa di Oggetti Smarriti",
+      "유실물 보관함",
+      "失物招領箱子",
+      "失物招领箱"
+    ],
+    "Media": "inv_misc_diachest01.jpg"
+  },
+  {
+    "TagId": 231808,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancient Treasure Notes",
+      "Notas de tesoros antiguas",
+      "Anotações do Tesouro Antigo",
+      "Ancient Treasure Notes",
+      "Notas sobre un tesoro antiguo",
+      "Notes sur un trésor antique",
+      "Записи о древнем сокровище",
+      "Uralte Schatznotizen",
+      "Anotações do Tesouro Antigo",
+      "Note sul Tesoro Antico",
+      "고대의 보물 쪽지",
+      "古代寶藏筆記",
+      "古代宝藏的笔记"
+    ],
+    "Media": "inv_misc_paperbundle02b.jpg"
+  },
+  {
+    "TagId": 231810,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_notefolded1a.jpg"
+  },
+  {
     "TagId": 231818,
     "TagType": 21,
     "Names": [
@@ -3463,6 +3652,48 @@
       "深渊攫取王冠"
     ],
     "Media": "inv_helm_cloth_kultirasdungeon_c_01.jpg"
+  },
+  {
+    "TagId": 231819,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Celebratory Fireworks",
+      "Fuegos artificiales de celebración",
+      "Fogos de Artifício Comemorativos",
+      "Celebratory Fireworks",
+      "Fuegos artificiales de celebración",
+      "Feux d’artifice de célébration",
+      "Праздничные фейерверки",
+      "Festliches Feuerwerk",
+      "Fogos de Artifício Comemorativos",
+      "Fuochi d'Artificio Celebrativi",
+      "기념 폭죽",
+      "慶祝煙火",
+      "庆祝烟火"
+    ],
+    "Media": "inv_helm_misc_fireworkpartyhat.jpg"
+  },
+  {
+    "TagId": 231820,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Festive Balloons",
+      "Globos festivos",
+      "Balões Festivos",
+      "Festive Balloons",
+      "Globos de celebración",
+      "Ballons festifs",
+      "Веселые шарики",
+      "Festballons",
+      "Balões Festivos",
+      "Palloncini Festivi",
+      "축제 풍선",
+      "節慶氣球",
+      "节日气球"
+    ],
+    "Media": "inv_misc_balloon_01.jpg"
   },
   {
     "TagId": 231822,
@@ -3715,6 +3946,27 @@
       "发霉的勒索信"
     ],
     "Media": "inv_misc_notescript2c.jpg"
+  },
+  {
+    "TagId": 231905,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Letters",
+      "Cartas",
+      "Cartas",
+      "Letters",
+      "Cartas",
+      "Lettres",
+      "Письма",
+      "Briefe",
+      "Cartas",
+      "Lettere",
+      "편지",
+      "信",
+      "邮件"
+    ],
+    "Media": "inv_misc_paperbundle02a.jpg"
   },
   {
     "TagId": 231906,
