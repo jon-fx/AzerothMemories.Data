@@ -10924,19 +10924,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s Ascension Breaker",
-      "%s, Rompeascensiones",
-      "%s, Rompedor de Ascensão",
-      "%s Ascension Breaker",
+      "Ascension Breaker %s",
+      "Rompeascensiones %s",
+      "Rompedor de Ascensão %s",
+      "Ascension Breaker %s",
       "Quiebrascensiones %s",
       "%s le brise-Sublimation",
-      "%s, крушитель вознесенных",
+      "Крушитель вознесенных %s",
       "Aufstiegsbrecher %s",
-      "%s, Rompedor de Ascensão",
+      "Rompedor de Ascensão %s",
       "Sventa-ascensione %s",
       "승천 파괴자 %s",
       "晉升破壞者%s",
-      "%s 扬升破灭者"
+      "扬升破灭者 %s"
     ]
   },
   {
@@ -11100,6 +11100,26 @@
     ]
   },
   {
+    "TagId": 844,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Witness of the Kirin Tor",
+      "%s, Testigo del Kirin Tor",
+      "%s, Testemunha do Kirin Tor",
+      "%s, Witness of the Kirin Tor",
+      "%s, Testigo del Kirin Tor",
+      "%s, témoin du Kirin Tor",
+      "%s, очевидец Кирин-Тора",
+      "%s, Zeuge der Kirin Tor",
+      "%s, Testemunha do Kirin Tor",
+      "%s, Testimone del Kirin Tor",
+      "키린 토의 증인 %s",
+      "祈倫托見證者%s",
+      "%s，肯瑞托的见证者"
+    ]
+  },
+  {
     "TagId": 845,
     "TagType": 31,
     "Names": [
@@ -11129,7 +11149,7 @@
       "Detetive %s",
       "Detective %s",
       "Detective %s",
-      "Inspecteur %s",
+      "Détective %s",
       "Детектив %s",
       "Detektiv %s",
       "Detetive %s",
@@ -11294,7 +11314,7 @@
       "%s der Gehärtete",
       "%s, o Moderado",
       "%s il Temprato",
-      "단련된 %s",
+      "단련된 자 %s",
       "淬鍊者%s",
       "淬炼者 %s"
     ]
@@ -11444,19 +11464,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "Zuldazar Enthusiast %s",
-      "Entusiasta de Zuldazar %s",
-      "Entusiasta de Zuldazar %s",
-      "Zuldazar Enthusiast %s",
-      "%s, Entusiasta de Zuldazar",
-      "Féru de Zuldazar %s",
-      "%s, любитель Зулдазара",
-      "Enthusiast von Zuldazar %s",
-      "Entusiasta de Zuldazar %s",
-      "Entusiasta di Zuldazar %s",
-      "줄다자르 애호가 %s",
-      "祖達薩愛好者%s",
-      "祖达萨爱好者 %s"
+      "Zandalar Enthusiast %s",
+      "Entusiasta de Zandalar%s",
+      "Entusiasta de Zandalar %s",
+      "Zandalar Enthusiast %s",
+      "%s, Entusiasta de Zandalar",
+      "Féru de Zandalar %s",
+      "%s, любитель Зандалара",
+      "Enthusiast von Zandalar %s",
+      "Entusiasta de Zandalar %s",
+      "Entusiasta di Zandalar %s",
+      "잔달라 애호가 %s",
+      "贊達拉愛好者%s",
+      "赞达拉爱好者 %s"
     ]
   },
   {
@@ -11577,6 +11597,46 @@
       "카라잔 졸업생 %s",
       "卡拉贊畢業生%s",
       "卡拉赞毕业 %s"
+    ]
+  },
+  {
+    "TagId": 875,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Landlubber %s",
+      "Marinero de agua dulce %s",
+      "%s de Água-doce",
+      "Landlubber %s",
+      "Marinero de Agua Dulce %s",
+      "Marin d’eau douce %s",
+      "Сухопутная крыса %s",
+      "Landratte %s",
+      "%s de Água-doce",
+      "%s d'Acqua Dolce",
+      "뭍사람 %s",
+      "旱鴨子%s",
+      "旱鸭子 %s"
+    ]
+  },
+  {
+    "TagId": 876,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Treasured",
+      "%s, el Atesorado",
+      "%s, o Joiado",
+      "%s the Treasured",
+      "%s, el Apreciado",
+      "%s l’inestimable",
+      "%s Драгоценный",
+      "%s der Geschätzte",
+      "%s, o Joiado",
+      "%s il Tesoriere",
+      "존귀한 자 %s",
+      "受重視的%s",
+      "爱财者 %s"
     ]
   }
 ]

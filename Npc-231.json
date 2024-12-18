@@ -186,13 +186,13 @@
       null,
       "Light Blue Balloon",
       "Globo celeste",
-      "Balão Azul Claro",
+      "Balão Azul-claro",
       "Light Blue Balloon",
       "Globo azul claro",
       "Ballon bleu clair",
       "Голубой воздушный шар",
       "Hellblauer Ballon",
-      "Balão Azul Claro",
+      "Balão Azul-claro",
       "Palloncino Azzurro",
       "연청색 풍선",
       "淡藍色氣球",
@@ -206,13 +206,13 @@
       null,
       "Dark Blue Balloon",
       "Globo azul oscuro",
-      "Balão Azul Escuro",
+      "Balão Azul-escuro",
       "Dark Blue Balloon",
       "Globo azul oscuro",
       "Ballon bleu foncé",
       "Темно-синий воздушный шар",
       "Dunkelblauer Ballon",
-      "Balão Azul Escuro",
+      "Balão Azul-escuro",
       "Palloncino Blu",
       "암청색 풍선",
       "深藍色氣球",
@@ -237,6 +237,26 @@
       "금색 풍선",
       "金色氣球",
       "金色气球"
+    ]
+  },
+  {
+    "TagId": 231415,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Expedition Shieldhand",
+      "Portaescudos de la expedición",
+      "Escudeira da Expedição",
+      "Expedition Shieldhand",
+      "Escudera de la expedición",
+      "Bouclière de l'Expédition",
+      "Щит экспедиции",
+      "Schildhand der Expedition",
+      "Escudeira da Expedição",
+      "Scudiera della Spedizione",
+      "원정대 방패병",
+      "遠征隊盾牌手",
+      "远征盾卫"
     ]
   },
   {
@@ -280,6 +300,26 @@
     ]
   },
   {
+    "TagId": 231536,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Apprentice Tanmar",
+      "Aprendiz Tanmar",
+      "Aprendiz Tanmar",
+      "Apprentice Tanmar",
+      "Aprendiz Tanmar",
+      "Apprenti Tanmar",
+      "Ученик Танмар",
+      "Lehrling Tanmar",
+      "Aprendiz Tanmar",
+      "Apprendista Tanmar",
+      "수습생 탄마르",
+      "學徒坦莫",
+      "学徒坦玛尔"
+    ]
+  },
+  {
     "TagId": 231539,
     "TagType": 25,
     "Names": [
@@ -317,6 +357,26 @@
       "비늘사령관 아주라텔",
       "龍隊指揮官埃祖拉瑟",
       "鳞长阿苏拉泰"
+    ]
+  },
+  {
+    "TagId": 231542,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Mounted Stormranger",
+      "Vigilante de la tormenta montado",
+      "Patrulhaventos Montado",
+      "Mounted Stormranger",
+      "Forestal de la tormenta montado",
+      "Forestier de tempête monté",
+      "Разведчик бурь",
+      "Berittener Sturmordner",
+      "Patrulhaventos Montado",
+      "Vedetta della Tempesta in Sella",
+      "탈것에 탄 폭풍순찰자",
+      "騎兵風暴遊俠",
+      "骑乘的雷骑兵"
     ]
   },
   {
@@ -517,6 +577,46 @@
       "시간의 동굴 차원문",
       "時光之穴傳送門",
       "时光之穴传送门"
+    ]
+  },
+  {
+    "TagId": 231988,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Rocket-Chief Fuselage",
+      "Jefe de cohetes Fuselaje",
+      "Mestre-fogueteiro Fuselagem",
+      "Rocket-Chief Fuselage",
+      "Jefe de cohetes Fuselaje",
+      "Chef-de-fusée Karlingue",
+      "Ведущий ракетостроитель Фьюзеляж",
+      "Raketenchef Doppeldecker",
+      "Mestre-fogueteiro Fuselagem",
+      "Aviatore Granturbina",
+      "로켓발사단장 퓨즐라지",
+      "火箭主管夫斯拉吉",
+      "火箭主管弗斯拉格"
+    ]
+  },
+  {
+    "TagId": 231997,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Didi the Wrench",
+      "Didi la Llave Grifa",
+      "Didi Tacachave",
+      "Didi the Wrench",
+      "Didi \"Llave Inglesa\"",
+      "Didi la Clé à molette",
+      "Диди Гаечный Ключ",
+      "Didi Biegezange",
+      "Didi Tacachave",
+      "Didi la Brugola",
+      "\"스패너\" 디디",
+      "『扳手』狄迪",
+      "钳工蒂迪"
     ]
   }
 ]

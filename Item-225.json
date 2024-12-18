@@ -2462,7 +2462,7 @@
     "Names": [
       null,
       "Unearthed Bands",
-      "Braciles desenterradas",
+      "Braciles desenterrados",
       "Embraces Desenterrados",
       "Unearthed Bands",
       "Braciles desenterrados",
@@ -2735,7 +2735,7 @@
     "Names": [
       null,
       "Redbeard Crest",
-      "Blasón Barbarroja",
+      "Emblema Barbarroja",
       "Escudo Barbarruiva",
       "Redbeard Crest",
       "Blasón Barbarroja",
@@ -8782,19 +8782,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Technique: Algari Competitor's Censer",
-      "Técnica: Incensario de Competidor algari",
-      "Técnica: Incensário do Competidor Algari",
-      "Technique: Algari Competitor's Censer",
-      "Técnica: Incensario de competidor algariano",
-      "Technique\u00A0: encensoir de compétition algari",
-      "Техника: кадильница алгарийского бойца",
-      "Technik: Weihrauchschwenker des Algariwettkämpfers",
-      "Técnica: Incensário do Competidor Algari",
-      "Tecnica: Incensiere del Concorrente Algari",
-      "각인 기법: 알가르 경쟁자의 향로",
-      "技藝：阿爾加競技者香爐",
-      "工艺图：阿加竞争者的香炉"
+      "Technique: Algari Competitor's Lamp",
+      "Técnica: Farol de Competidor algari",
+      "Técnica: Lâmpada do Competidor Algari",
+      "Technique: Algari Competitor's Lamp",
+      "Técnica: Lámpara de competidor algariano",
+      "Technique\u00A0: lampe de compétition algarie",
+      "Техника: фонарь алгарийского бойца",
+      "Technik: Lampe des Algariwettkämpfers",
+      "Técnica: Lâmpada do Competidor Algari",
+      "Tecnica: Lampada del Concorrente Algari",
+      "각인 기법: 알가르 경쟁자의 등불",
+      "技藝：阿爾加競技者油燈",
+      "工艺图：阿加竞争者的提灯"
     ],
     "Media": "inv_10_inscription2_scroll2_color4.jpg"
   },
@@ -16579,7 +16579,7 @@
       "Idol of Final Will",
       "Ídolo de voluntad final",
       "Idole de la volonté finale",
-      "Идол завещания",
+      "Идол последней воли",
       "Götze des finalen Willens",
       "Ídolo do Último Desejo",
       "Idolo della Volontà Finale",
@@ -16725,7 +16725,7 @@
       "Deleite de Píleo",
       "Pileus Delight",
       "Delicia de píleo",
-      "Délice de poils",
+      "Régal fongueux",
       "Чудесная шляпка",
       "Pileus-Freude",
       "Deleite de Píleo",
@@ -16779,6 +16779,27 @@
     "Media": "inv_cooking_80_choralhoney1.jpg"
   },
   {
+    "TagId": 225913,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Opportunity Work Permit",
+      "Permiso de trabajo de Oportunidad",
+      "Permissão de Trabalho Oportunística",
+      "Opportunity Work Permit",
+      "Permiso de oportunidad de trabajo",
+      "Permis de travail d’Aubaine",
+      "Допуск добытчика",
+      "Sonderarbeitsgenehmigung",
+      "Permissão de Trabalho Oportunística",
+      "Permesso di Lavoro Occasionale",
+      "기회 거점 작업 허가증",
+      "機會工作許可",
+      "机遇工作许可证"
+    ],
+    "Media": "inv_scroll_03.jpg"
+  },
+  {
     "TagId": 225920,
     "TagType": 21,
     "Names": [
@@ -16797,7 +16818,7 @@
       null,
       null
     ],
-    "Media": "inv_artifact_tome02.jpg"
+    "Media": "inv_tailoring_70_garmentrack_dalaran.jpg"
   },
   {
     "TagId": 225927,

@@ -1869,6 +1869,27 @@
     "Media": "inv_misc_enchantedscroll.jpg"
   },
   {
+    "TagId": 230207,
+    "TagType": 21,
+    "Names": [
+      null,
+      "N.U.K.U.L.A.R. Target Painter",
+      "Marcador de objetivos N.U.K.U.L.A.R.",
+      "Pintador de Alvo N.U.C.L.E.A.R.",
+      "N.U.K.U.L.A.R. Target Painter",
+      "Marcador de objetivos N.U.C.E.L.A.R.",
+      "Barbouilleur à cible A.T.O.M.I.K.",
+      "Целеуказатель ТЕРМОЯД",
+      "N.U.K.U.L.A.R.-Zielmarkierer",
+      "Pintador de Alvo N.U.C.L.E.A.R.",
+      "Dispositivo N.U.C.U.L.A.R.E.",
+      "\"햌 퐄곀\" 대상 표시기",
+      "N.U.K.U.L.A.R.目標標定器",
+      "N.U.K.U.L.A.R.目标标定器"
+    ],
+    "Media": "inv_gizmo_goblingtonkcontroller.jpg"
+  },
+  {
     "TagId": 230208,
     "TagType": 21,
     "Names": [
@@ -1909,6 +1930,27 @@
       "添加钥石词缀：挑战者的危境"
     ],
     "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
+    "TagId": 230211,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Singing Citrine",
+      "Citrino cantante",
+      "Citrino Cantante",
+      "Singing Citrine",
+      "Citrino cantarín",
+      "Citrine chantante",
+      "Поющий цитрин",
+      "Singender Citrin",
+      "Citrino Cantante",
+      "Citrino Risonante",
+      "노래하는 황수정",
+      "歌唱黃水晶",
+      "吟歌黄水晶"
+    ],
+    "Media": "inv_jewelcrafting_lionseye_01.jpg"
   },
   {
     "TagId": 230213,
@@ -2125,19 +2167,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Bronze Celebration Titles: Zuldazar Enthusiast",
-      "Títulos de la celebración bronce: Entusiasta de Zuldazar",
-      "Títulos da Celebração Bronze: Entusiasta de Zuldazar",
-      "Bronze Celebration Titles: Zuldazar Enthusiast",
-      "Títulos de la celebración bronce: Entusiasta de Zuldazar",
-      "Titres des célébrations de bronze\u00A0: féru ou férue de Zuldazar",
-      "Звания торжества бронзовых драконов: любитель Зулдазара",
-      "Bronzedrachenfeiertitel: Enthusiast von Zuldazar",
-      "Títulos da Celebração Bronze: Entusiasta de Zuldazar",
-      "Titolo della Celebrazione di Bronzo: Entusiasta di Zuldazar",
-      "청동 기념제 칭호: 줄다자르 애호가",
-      "青銅龍慶典頭銜：祖達薩愛好者",
-      "青铜庆典头衔：祖达萨爱好者"
+      "Bronze Celebration Titles: Zandalar Enthusiast",
+      "Títulos de la celebración bronce: Entusiasta de Zandalar",
+      "Títulos da Celebração Bronze: Entusiasta de Zandalar",
+      "Bronze Celebration Titles: Zandalar Enthusiast",
+      "Títulos de la celebración bronce: Entusiasta de Zandalar",
+      "Titres des célébrations de bronze\u00A0: féru ou férue de Zandalar",
+      "Звания торжества бронзовых драконов: любитель Зандалара",
+      "Bronzedrachenfeiertitel: Enthusiast von Zandalar",
+      "Títulos da Celebração Bronze: Entusiasta de Zandalar",
+      "Titolo della Celebrazione di Bronzo: Entusiasta di Zandalar",
+      "청동 기념제 칭호: 잔달라 애호가",
+      "青銅龍慶典頭銜：贊達拉愛好者",
+      "青铜庆典头衔：赞达拉爱好者"
     ],
     "Media": "inv_misc_notescript2b.jpg"
   },
@@ -2226,12 +2268,138 @@
     "Media": "inv_egg_08.jpg"
   },
   {
+    "TagId": 230728,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Experimental Go-Pack",
+      "Mochivoladora experimental",
+      "Mochila a Jato Experimental",
+      "Experimental Go-Pack",
+      "Mochila experimental",
+      "Propulseur personnel expérimental",
+      "Экспериментальный ранец",
+      "Experimenteller Flugsack",
+      "Mochila a Jato Experimental",
+      "Zaino Razzo Sperimentale",
+      "실험용 이동 배낭",
+      "實驗行動包",
+      "试验性出行包"
+    ],
+    "Media": "creatureportrait_goblin_rocket.jpg"
+  },
+  {
+    "TagId": 230770,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sturdy Toolbox",
+      "Caja de herramientas resistente",
+      "Caixa de Ferramentas Robusta",
+      "Sturdy Toolbox",
+      "Caja de herramientas resistente",
+      "Boîte à outils solide",
+      "Прочный ящик с инструментами",
+      "Robuster Werkzeugkasten",
+      "Caixa de Ferramentas Robusta",
+      "Cassetta degli Attrezzi Robusta",
+      "튼튼한 연장통",
+      "堅固的工具箱",
+      "坚固的工具盒"
+    ],
+    "Media": "inv_crate_07.jpg"
+  },
+  {
+    "TagId": 230771,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earthen Prototype",
+      "Prototipo terráneo",
+      "Protótipo Terrano",
+      "Earthen Prototype",
+      "Prototipo terráneo",
+      "Prototype terrestre",
+      "Прототип земельника",
+      "Irdener Prototyp",
+      "Protótipo Terrano",
+      "Prototipo dei Terrigeni",
+      "토석인 시제품",
+      "土靈原型機",
+      "土灵原型装置"
+    ],
+    "Media": "inv_misc_enggizmos_21.jpg"
+  },
+  {
+    "TagId": 230773,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Overcharged Battery",
+      "Batería sobrecargada",
+      "Bateria Sobrecarregada",
+      "Overcharged Battery",
+      "Batería sobrecargada",
+      "Batterie surchargée",
+      "Перегруженная батарея",
+      "Überladene Batterie",
+      "Bateria Sobrecarregada",
+      "Batteria Sovraccarica",
+      "과충전된 전지",
+      "超載的電池",
+      "超充能电池"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_reavesbattery_uprez.jpg"
+  },
+  {
+    "TagId": 230795,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Experimental Go-Pack",
+      "Mochivoladora experimental",
+      "Mochila a Jato Experimental",
+      "Experimental Go-Pack",
+      "Mochila experimental",
+      "Propulseur personnel expérimental",
+      "Экспериментальный ранец",
+      "Experimenteller Flugsack",
+      "Mochila a Jato Experimental",
+      "Zaino Razzo Sperimentale",
+      "실험용 이동 배낭",
+      "實驗行動包",
+      "试验性出行包"
+    ],
+    "Media": "creatureportrait_goblin_rocket.jpg"
+  },
+  {
+    "TagId": 230851,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ornate Arathi Box",
+      "Caja arathi ornamentada",
+      "Caixa Arathi Ornada",
+      "Ornate Arathi Box",
+      "Caja arathi ornamentada",
+      "Boîte arathie ornée",
+      "Изысканная аратийская коробка",
+      "Verzierte Arathischatulle",
+      "Caixa Arathi Ornada",
+      "Scatola degli Arathi Adornata",
+      "화려한 아라시 상자",
+      "華麗的阿拉希盒子",
+      "华丽的阿拉希之匣"
+    ],
+    "Media": "inv_misc_tinderboxclosed01.jpg"
+  },
+  {
     "TagId": 230853,
     "TagType": 21,
     "Names": [
       null,
       "Aegis of Yuletide",
-      "Égida conmemorativa",
+      "Égida invernal",
       "Égide Natalina",
       "Aegis of Yuletide",
       "Égida de Yule",
@@ -2982,6 +3150,27 @@
     "Media": "inv_cape_special_butterfly_c_01.jpg"
   },
   {
+    "TagId": 230945,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wayward Vrykul's Lantern",
+      "Farol de vrykul indomable",
+      "Lanterna do Vraikal Desgarrado",
+      "Wayward Vrykul's Lantern",
+      "Farol de vrykul descarriado",
+      "Lanterne de Vrykul égaré",
+      "Фонарь своенравного врайкула",
+      "Laterne des verlorenen Vrykul",
+      "Lanterna do Vraikal Desgarrado",
+      "Lanterna del Vrykul Ribelle",
+      "방황하는 브리쿨의 등불",
+      "迷途維酷人的燈籠",
+      "迷途维库人的提灯"
+    ],
+    "Media": "inv_misc_trinket6oih_lanternb2.jpg"
+  },
+  {
     "TagId": 230951,
     "TagType": 21,
     "Names": [
@@ -3673,5 +3862,26 @@
       "军械：精锐黑曜角斗士的武器"
     ],
     "Media": "inv_axe_1h_dragonraid_d_02.jpg"
+  },
+  {
+    "TagId": 230988,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_mace_1h_titanpillar_b_01.jpg"
   }
 ]

@@ -6,19 +6,40 @@
       null,
       "Summon Burning Spirit",
       "Invocar espíritu ardiente",
-      "Evocar Espírito Flamejante",
+      "Evocar Espírito Incandescente",
       "Summon Burning Spirit",
       "Invocar espíritu ardiente",
       "Invocation d’esprit ardent",
       "Призыв пылающего духа",
       "Brennenden Geist beschwören",
-      "Evocar Espírito Flamejante",
+      "Evocar Espírito Incandescente",
       "Evocazione: Spirito Ardente",
       "불타는 정령 소환",
       "召喚燃靈",
       "召唤燃烧之魂"
     ],
     "Media": "inv_10_elementalspiritfoozles_fire.jpg"
+  },
+  {
+    "TagId": 465006,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crushing Charge",
+      "Carga aplastante",
+      "Investida Esmagadora",
+      "Crushing Charge",
+      "Carga aplastante",
+      "Charge écrasante",
+      "Сокрушающий рывок",
+      "Zermalmender Ansturm",
+      "Investida Esmagadora",
+      "Carica Schiacciante",
+      "분쇄의 돌진",
+      "破敵衝鋒",
+      "毁灭冲锋"
+    ],
+    "Media": "spell_druid_feralchargecat.jpg"
   },
   {
     "TagId": 465007,
@@ -40,6 +61,27 @@
       "虚空导能器"
     ],
     "Media": "inv_netherportal.jpg"
+  },
+  {
+    "TagId": 465011,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crushing Charge",
+      "Carga aplastante",
+      "Investida Esmagadora",
+      "Crushing Charge",
+      "Carga aplastante",
+      "Charge écrasante",
+      "Сокрушающий рывок",
+      "Zermalmender Ansturm",
+      "Investida Esmagadora",
+      "Carica Schiacciante",
+      "분쇄의 돌진",
+      "破敵衝鋒",
+      "毁灭冲锋"
+    ],
+    "Media": "spell_druid_feralchargecat.jpg"
   },
   {
     "TagId": 465012,
@@ -145,6 +187,48 @@
       "[DNT] Client Scene: Brinthe Becomes High Speaker"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465030,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gibbering Roar",
+      "Rugido balbuceante",
+      "Urro Balbuciante",
+      "Gibbering Roar",
+      "Rugido balbuceante",
+      "Rugissement bredouillant",
+      "Бессвязный рев",
+      "Zeterndes Brüllen",
+      "Urro Balbuciante",
+      "Ruggito Farfugliante",
+      "웅얼거리는 포효",
+      "急切怒吼",
+      "急语咆哮"
+    ],
+    "Media": "achievement_boss_nagabruteboss.jpg"
+  },
+  {
+    "TagId": 465033,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gibbering Roar",
+      "Rugido balbuceante",
+      "Urro Balbuciante",
+      "Gibbering Roar",
+      "Rugido balbuceante",
+      "Rugissement bredouillant",
+      "Бессвязный рев",
+      "Zeterndes Brüllen",
+      "Urro Balbuciante",
+      "Ruggito Farfugliante",
+      "웅얼거리는 포효",
+      "急切怒吼",
+      "急语咆哮"
+    ],
+    "Media": "achievement_boss_nagabruteboss.jpg"
   },
   {
     "TagId": 465034,
@@ -1512,6 +1596,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465186,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boar Rush",
+      "Prisa de jabalí",
+      "Ímpeto de Javali",
+      "Boar Rush",
+      "Carga de jabalí",
+      "Ruée de sanglier",
+      "Натиск вепря",
+      "Eberansturm",
+      "Ímpeto de Javali",
+      "Scatto del Cinghiale",
+      "멧돼지 돌진",
+      "野豬突擊",
+      "野猪冲刺"
+    ],
+    "Media": "inv_giantboarmount_brown.jpg"
+  },
+  {
     "TagId": 465187,
     "TagType": 26,
     "Names": [
@@ -1531,6 +1636,48 @@
       "萨拉塔斯的交易：吞噬"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465188,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boar Rush",
+      "Prisa de jabalí",
+      "Ímpeto de Javali",
+      "Boar Rush",
+      "Carga de jabalí",
+      "Ruée de sanglier",
+      "Натиск вепря",
+      "Eberansturm",
+      "Ímpeto de Javali",
+      "Scatto del Cinghiale",
+      "멧돼지 돌진",
+      "野豬突擊",
+      "野猪冲刺"
+    ],
+    "Media": "inv_giantboarmount_brown.jpg"
+  },
+  {
+    "TagId": 465190,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bloodbind",
+      "Atadura de sangre",
+      "Sanguegrosso",
+      "Bloodbind",
+      "Vinculación de sangre",
+      "Lien de sang",
+      "Кровавые узы",
+      "Blutfessel",
+      "Sanguegrosso",
+      "Vincolo di Sangue",
+      "피결속",
+      "血縛",
+      "鲜血束缚"
+    ],
+    "Media": "ability_creature_cursed_04.jpg"
   },
   {
     "TagId": 465200,
@@ -1701,6 +1848,27 @@
     "Media": "inv_misc_petragnaros.jpg"
   },
   {
+    "TagId": 465211,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bloodrage",
+      "Ira sangrienta",
+      "Fúria Sanguinária",
+      "Bloodrage",
+      "Ira sangrienta",
+      "Rage de sang",
+      "Кровавая ярость",
+      "Blutzorn",
+      "Fúria Sanguinária",
+      "Rabbia del Sangue",
+      "피의 분노",
+      "血怒",
+      "血性狂暴"
+    ],
+    "Media": "ability_deathwing_bloodcorruption_death.jpg"
+  },
+  {
     "TagId": 465212,
     "TagType": 26,
     "Names": [
@@ -1722,6 +1890,27 @@
     "Media": "ability_warlock_howlofterror.jpg"
   },
   {
+    "TagId": 465213,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bloody Slash",
+      "Tajo sangriento",
+      "Talho Sangrento",
+      "Bloody Slash",
+      "Tajo sangriento",
+      "Entaille sanglante",
+      "Кровавый удар",
+      "Blutiger Schlag",
+      "Talho Sangrento",
+      "Taglio Sanguinante",
+      "피의 난도질",
+      "血腥斬擊",
+      "血腥挥斩"
+    ],
+    "Media": "ability_rogue_sabreslash.jpg"
+  },
+  {
     "TagId": 465221,
     "TagType": 26,
     "Names": [
@@ -1741,6 +1930,27 @@
       "作战姿态"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465223,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blood Tithe",
+      "Diezmo de sangre",
+      "Dízimo de Sangue",
+      "Blood Tithe",
+      "Diezmo de sangre",
+      "Dîme de sang",
+      "Кровавая подать",
+      "Blutzehnt",
+      "Dízimo de Sangue",
+      "Tributo di Sangue",
+      "피의 헌금",
+      "鮮血之稅",
+      "鲜血奉纳"
+    ],
+    "Media": "ability_ironmaidens_corruptedblood.jpg"
   },
   {
     "TagId": 465225,
@@ -1783,6 +1993,27 @@
       "战团银行距离抑制器"
     ],
     "Media": "inv_cosmicvoid_orb.jpg"
+  },
+  {
+    "TagId": 465228,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vascular Rupture",
+      "Ruptura vascular",
+      "Ruptura Vascular",
+      "Vascular Rupture",
+      "Ruptura vascular",
+      "Rupture vasculaire",
+      "Разрыв сосудов",
+      "Gefäßriss",
+      "Ruptura Vascular",
+      "Perforazione Vascolare",
+      "혈관 파열",
+      "血管爆裂",
+      "经络崩裂"
+    ],
+    "Media": "inv_artifact_bloodoftheassassinated.jpg"
   },
   {
     "TagId": 465229,
@@ -1848,6 +2079,27 @@
     "Media": "inv_brontsaurusmountspecial.jpg"
   },
   {
+    "TagId": 465237,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blood Rush",
+      "Carga de sangre",
+      "Ímpeto Sangrento",
+      "Blood Rush",
+      "Ímpetu de sangre",
+      "Afflux de sang",
+      "Прилив крови",
+      "Blutrausch",
+      "Ímpeto Sangrento",
+      "Scatto Sanguinario",
+      "피의 돌격",
+      "鮮血突擊",
+      "涌血奔袭"
+    ],
+    "Media": "ability_warrior_charge.jpg"
+  },
+  {
     "TagId": 465239,
     "TagType": 26,
     "Names": [
@@ -1867,6 +2119,69 @@
       "忽略"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465240,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blood Rush",
+      "Carga de sangre",
+      "Ímpeto Sangrento",
+      "Blood Rush",
+      "Ímpetu de sangre",
+      "Afflux de sang",
+      "Прилив крови",
+      "Blutrausch",
+      "Ímpeto Sangrento",
+      "Scatto Sanguinario",
+      "피의 돌격",
+      "鮮血突擊",
+      "涌血奔袭"
+    ],
+    "Media": "ability_warrior_charge.jpg"
+  },
+  {
+    "TagId": 465247,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Leg Rip",
+      "Tajo de pierna",
+      "Rasgar Perna",
+      "Leg Rip",
+      "Desgarro de pierna",
+      "Arrachement de jambe",
+      "Рассечение ноги",
+      "Bein zerfetzen",
+      "Rasgar Perna",
+      "Squarcio alla Gamba",
+      "다리 도려내기",
+      "撕開腿部",
+      "裂腿"
+    ],
+    "Media": "warrior_wild_strike.jpg"
+  },
+  {
+    "TagId": 465249,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sanguine Rejuvenation",
+      "Rejuvenecimiento sanguíneo",
+      "Rejuvenescimento Sanguíneo",
+      "Sanguine Rejuvenation",
+      "Rejuvenecimiento sanguino",
+      "Récupération sanguine",
+      "Кровавое омоложение",
+      "Blutige Verjüngung",
+      "Rejuvenescimento Sanguíneo",
+      "Rinvigorimento Insanguinato",
+      "선혈의 회복",
+      "血紅回春",
+      "血淋回复"
+    ],
+    "Media": "ability_deathwing_bloodcorruption_earth.jpg"
   },
   {
     "TagId": 465250,
@@ -1953,6 +2268,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465261,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Perforate Flesh",
+      "Perforar carne",
+      "Perfurar Carne",
+      "Perforate Flesh",
+      "Perforar carne",
+      "Perforation charnelle",
+      "Пробивание плоти",
+      "Fleisch durchlöchern",
+      "Perfurar Carne",
+      "Perforazione della Carne",
+      "살점 관통",
+      "血肉穿刺",
+      "洞穿血肉"
+    ],
+    "Media": "inv_misc_ammo_arrow_01.jpg"
+  },
+  {
     "TagId": 465266,
     "TagType": 26,
     "Names": [
@@ -1993,6 +2329,27 @@
       "炽烈灭亡"
     ],
     "Media": "spell_fire_selfdestruct.jpg"
+  },
+  {
+    "TagId": 465271,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heart Shot",
+      "Disparo al corazón",
+      "Tiro no Coração",
+      "Heart Shot",
+      "Disparo al corazón",
+      "Tir au cœur",
+      "Выстрел в сердце",
+      "Herzschuss",
+      "Tiro no Coração",
+      "Colpo al Cuore",
+      "심장 사격",
+      "心臟射擊",
+      "贯心射击"
+    ],
+    "Media": "ability_boss_kilrogg_heartseeker.jpg"
   },
   {
     "TagId": 465275,
@@ -2203,6 +2560,69 @@
       "召唤宝藏"
     ],
     "Media": "inv_cape_special_treasure_c_01.jpg"
+  },
+  {
+    "TagId": 465337,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rock Toss",
+      "Arrojar piedra",
+      "Arremesso de Rocha",
+      "Rock Toss",
+      "Lanzamiento de pedrusco",
+      "Jet de pierre",
+      "Бросок камня",
+      "Felswurf",
+      "Arremesso de Rocha",
+      "Lancio Roccia",
+      "바위 투척",
+      "投擲岩石",
+      "石块飞掷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465338,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rock Toss",
+      "Arrojar piedra",
+      "Arremesso de Rocha",
+      "Rock Toss",
+      "Lanzamiento de pedrusco",
+      "Jet de pierre",
+      "Бросок камня",
+      "Felswurf",
+      "Arremesso de Rocha",
+      "Lancio Roccia",
+      "바위 투척",
+      "投擲岩石",
+      "石块飞掷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465343,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bloody Demise",
+      "Deceso sangriento",
+      "Óbito Sangrento",
+      "Bloody Demise",
+      "Despedida sangrienta",
+      "Trépas sanglant",
+      "Кровавая погибель",
+      "Blutender Niedergang",
+      "Óbito Sangrento",
+      "Disfatta Insanguinata",
+      "핏빛 최후",
+      "血腥劫難",
+      "殷红亡殁"
+    ],
+    "Media": "achievement_bg_killingblow_berserker.jpg"
   },
   {
     "TagId": 465353,
@@ -2435,6 +2855,27 @@
     "Media": "spell_nature_insectswarm.jpg"
   },
   {
+    "TagId": 465370,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Perforate Flesh",
+      "Perforar carne",
+      "Perfurar Carne",
+      "Perforate Flesh",
+      "Perforar carne",
+      "Perforation charnelle",
+      "Пробивание плоти",
+      "Fleisch durchlöchern",
+      "Perfurar Carne",
+      "Perforazione della Carne",
+      "살점 관통",
+      "血肉穿刺",
+      "洞穿血肉"
+    ],
+    "Media": "inv_misc_ammo_arrow_01.jpg"
+  },
+  {
     "TagId": 465373,
     "TagType": 26,
     "Names": [
@@ -2603,6 +3044,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465448,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Earthen",
+      "Invocar terráneo",
+      "Evocar Terrano",
+      "Summon Earthen",
+      "Invocar terráneo",
+      "Invocation de Terrestre",
+      "Призыв земельника",
+      "Irdenen beschwören",
+      "Evocar Terrano",
+      "Evocazione: Terrigeno",
+      "토석인 소환",
+      "召喚土靈",
+      "召唤土灵"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465449,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Earthen",
+      "Invocar terráneo",
+      "Evocar Terrano",
+      "Summon Earthen",
+      "Invocar terráneo",
+      "Invocation de Terrestre",
+      "Призыв земельника",
+      "Irdenen beschwören",
+      "Evocar Terrano",
+      "Evocazione: Terrigeno",
+      "토석인 소환",
+      "召喚土靈",
+      "召唤土灵"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 465464,
     "TagType": 26,
     "Names": [
@@ -2622,6 +3105,27 @@
       "圆弧斩"
     ],
     "Media": "inv_axe_15.jpg"
+  },
+  {
+    "TagId": 465469,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dig",
+      "Cavar",
+      "Cavar",
+      "Dig",
+      "Cavar",
+      "Creuser",
+      "Копание",
+      "Graben",
+      "Cavar",
+      "Scavo",
+      "파기",
+      "挖掘",
+      "挖掘"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 465496,
@@ -2771,6 +3275,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465533,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Reading",
+      "Lectura de cristal",
+      "Leitura de Cristal",
+      "Crystal Reading",
+      "Lectura de cristal",
+      "Lecture de cristal",
+      "Изучение кристаллов",
+      "Kristalldeutung",
+      "Leitura de Cristal",
+      "Lettura dei Cristalli",
+      "수정 판독",
+      "水晶讀數",
+      "水晶读数"
+    ],
+    "Media": "inv_ability_holyfire_beam.jpg"
+  },
+  {
     "TagId": 465536,
     "TagType": 26,
     "Names": [
@@ -2811,6 +3336,48 @@
       "气泡"
     ],
     "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 465544,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465547,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collapsing",
+      "Colapsando",
+      "Em Colapso",
+      "Collapsing",
+      "Derrumbe",
+      "Effondrement",
+      "Обрушение",
+      "Kollabieren",
+      "Em Colapso",
+      "Collasso",
+      "붕괴",
+      "崩塌",
+      "坍塌"
+    ],
+    "Media": "ability_hunter_rapidregeneration.jpg"
   },
   {
     "TagId": 465556,
@@ -2855,6 +3422,27 @@
     "Media": "ability_racial_molemachine.jpg"
   },
   {
+    "TagId": 465565,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute To Shuddering Hollow",
+      "Contribuir a Foso Tembloroso",
+      "Contribuir com a Grota do Calafrio",
+      "Contribute To Shuddering Hollow",
+      "Contribuir a la Cuenca Estremecedora",
+      "Contribuer au creux Frissonnant",
+      "Вклад в Трясучей лощине",
+      "Zur Schauderhöhle beitragen",
+      "Contribuir com a Grota do Calafrio",
+      "Contributo alla Cavità Vibrante",
+      "오싹한 공동에 기여",
+      "資助震顫窪地",
+      "为战栗窟捐献"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 465568,
     "TagType": 26,
     "Names": [
@@ -2872,6 +3460,69 @@
       "생명력 흡수",
       "生命汲取",
       "生命消耗"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465572,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute To The Drain",
+      "Contribuir al Drenaje",
+      "Contribuir com o Escoadouro",
+      "Contribute To The Drain",
+      "Contribuir a El Sumidero",
+      "Contribuer à la Vidange",
+      "Вклад в Стоках",
+      "Zum Abfluss beitragen",
+      "Contribuir com o Escoadouro",
+      "Contributo alle Fognature",
+      "배수로에 기여",
+      "資助排水之地",
+      "为排水道捐献"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465574,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute To The Flooded Lair",
+      "Contribuir a la Guarida Inundada",
+      "Contribuir com o Covil Inundado",
+      "Contribute To The Flooded Lair",
+      "Contribuir a la Guarida Anegada",
+      "Contribuer à l’antre Englouti",
+      "Вклад в Затопленной берлоге",
+      "Zum Versunkenen Hort beitragen",
+      "Contribuir com o Covil Inundado",
+      "Contributo all'Antro Inondato",
+      "침수된 소굴에 기여",
+      "資助淹沒巢穴",
+      "为漫水之巢捐献"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465578,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute To Shuddering Hollow",
+      "Contribuir a Foso Tembloroso",
+      "Contribuir com a Grota do Calafrio",
+      "Contribute To Shuddering Hollow",
+      "Contribuir a la Cuenca Estremecedora",
+      "Contribuer au creux Frissonnant",
+      "Вклад в Трясучей лощине",
+      "Zur Schauderhöhle beitragen",
+      "Contribuir com a Grota do Calafrio",
+      "Contributo alla Cavità Vibrante",
+      "오싹한 공동에 기여",
+      "資助震顫窪地",
+      "为战栗窟捐献"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3212,6 +3863,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465637,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)",
+      "[DNT] Dummy Cosmetic Aura - Mounted  (KGR)"
+    ],
+    "Media": "inv_cosmicvoid_orb.jpg"
+  },
+  {
     "TagId": 465638,
     "TagType": 26,
     "Names": [
@@ -3323,13 +3995,13 @@
       null,
       "Light Blue Balloon",
       "Globo celeste",
-      "Balão Azul Claro",
+      "Balão Azul-claro",
       "Light Blue Balloon",
       "Globo azul claro",
       "Ballon bleu clair",
       "Голубой воздушный шар",
       "Hellblauer Ballon",
-      "Balão Azul Claro",
+      "Balão Azul-claro",
       "Palloncino Azzurro",
       "연청색 풍선",
       "淡藍色氣球",
@@ -3344,13 +4016,13 @@
       null,
       "Dark Blue Balloon",
       "Globo azul oscuro",
-      "Balão Azul Escuro",
+      "Balão Azul-escuro",
       "Dark Blue Balloon",
       "Globo azul oscuro",
       "Ballon bleu foncé",
       "Темно-синий воздушный шар",
       "Dunkelblauer Ballon",
-      "Balão Azul Escuro",
+      "Balão Azul-escuro",
       "Palloncino Blu",
       "암청색 풍선",
       "深藍色氣球",
@@ -3418,6 +4090,27 @@
       "책",
       "書",
       "书籍"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465656,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Play Scene [ETS]",
+      "Reproducir escena [ETS]",
+      "Reproduzir Cena [ETS]",
+      "Play Scene [ETS]",
+      "Reproducir escena [ETS]",
+      "Jouer la scène [ETS]",
+      "Проигрывание сцены [ETS]",
+      "[ETS] Szene starten",
+      "Reproduzir Cena [ETS]",
+      "Riproduzione Scena",
+      "장면 재생 [ETS]",
+      "播放場景[ETS]",
+      "Play Scene [ETS]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3548,6 +4241,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465669,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute To The Drain",
+      "Contribuir al Drenaje",
+      "Contribuir com o Escoadouro",
+      "Contribute To The Drain",
+      "Contribuir a El Sumidero",
+      "Contribuer à la Vidange",
+      "Вклад в Стоках",
+      "Zum Abfluss beitragen",
+      "Contribuir com o Escoadouro",
+      "Contributo alle Fognature",
+      "배수로에 기여",
+      "資助排水之地",
+      "为排水道捐献"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465671,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Contribute To The Flooded Lair",
+      "Contribuir a la Guarida Inundada",
+      "Contribuir com o Covil Inundado",
+      "Contribute To The Flooded Lair",
+      "Contribuir a la Guarida Anegada",
+      "Contribuer à l’antre Englouti",
+      "Вклад в Затопленной берлоге",
+      "Zum Versunkenen Hort beitragen",
+      "Contribuir com o Covil Inundado",
+      "Contributo all'Antro Inondato",
+      "침수된 소굴에 기여",
+      "資助淹沒巢穴",
+      "为漫水之巢捐献"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 465674,
     "TagType": 26,
     "Names": [
@@ -3649,6 +4384,27 @@
       "[DNT] Talk to Chromie",
       "[DNT] Talk to Chromie",
       "[DNT] Talk to Chromie"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465691,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3967,6 +4723,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465723,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Song of Discord",
+      "Canción de la discordia",
+      "Canção Dissonante",
+      "Song of Discord",
+      "Canción de discordia",
+      "Chant de discorde",
+      "Диссонирующая песнь",
+      "Misstöne",
+      "Canção Dissonante",
+      "Canto della Discordia",
+      "불협화음의 노래",
+      "失諧之歌",
+      "刺耳之歌"
+    ],
+    "Media": "spell_arcane_focusedpower.jpg"
+  },
+  {
     "TagId": 465724,
     "TagType": 26,
     "Names": [
@@ -4093,6 +4870,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465735,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Clacking Claw",
+      "Tenaza atenazante",
+      "Garra Estalante",
+      "Clacking Claw",
+      "Garra chasqueadora",
+      "Pince claquante",
+      "Щелкающая клешня",
+      "Klickende Schere",
+      "Garra Estalante",
+      "Chela Schioccante",
+      "똑딱이는 발톱",
+      "響動爪",
+      "响钳爪击"
+    ],
+    "Media": "ability_druid_ravage.jpg"
+  },
+  {
+    "TagId": 465740,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Resilient Roar",
+      "Rugido resiliente",
+      "Urro Resiliente",
+      "Resilient Roar",
+      "Rugido resistente",
+      "Rugissement résilient",
+      "Стойкий рев",
+      "Unerschütterliches Brüllen",
+      "Urro Resiliente",
+      "Ruggito Resiliente",
+      "불굴의 포효",
+      "堅定怒吼",
+      "坚忍咆哮"
+    ],
+    "Media": "ability_physical_taunt.jpg"
+  },
+  {
     "TagId": 465748,
     "TagType": 26,
     "Names": [
@@ -4114,6 +4933,90 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465749,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Resilient Roar",
+      "Rugido resiliente",
+      "Urro Resiliente",
+      "Resilient Roar",
+      "Rugido resistente",
+      "Rugissement résilient",
+      "Стойкий рев",
+      "Unerschütterliches Brüllen",
+      "Urro Resiliente",
+      "Ruggito Resiliente",
+      "불굴의 포효",
+      "堅定怒吼",
+      "坚忍咆哮"
+    ],
+    "Media": "ability_physical_taunt.jpg"
+  },
+  {
+    "TagId": 465750,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bomb Toss",
+      "Lanzar bomba",
+      "Lançamento de Bomba",
+      "Bomb Toss",
+      "Lanzar bomba",
+      "Lancer de bombe",
+      "Бросок бомбы",
+      "Bombe werfen",
+      "Lançamento de Bomba",
+      "Lancio Bomba",
+      "폭탄 던지기",
+      "拋擲炸彈",
+      "投掷炸弹"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465751,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Beak Gouge",
+      "Picotazo extirpador",
+      "Goivada de Bico",
+      "Beak Gouge",
+      "Picotazo brutal",
+      "Bec perforant",
+      "Терзающий клевок",
+      "Schnabelstich",
+      "Goivada de Bico",
+      "Sfregio di Becco",
+      "부리 후려치기",
+      "尖喙啄擊",
+      "喙嘴凿击"
+    ],
+    "Media": "inv_misc_seagullpet_01.jpg"
+  },
+  {
+    "TagId": 465752,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Seal Slam",
+      "Embate de foca",
+      "Batida de Foca",
+      "Seal Slam",
+      "Embate de foca",
+      "Heurt de phoque",
+      "Тюлений удар",
+      "Robbenhieb",
+      "Batida de Foca",
+      "Contusione Focide",
+      "봉인 격돌",
+      "封印猛擊",
+      "海豹冲击"
+    ],
+    "Media": "ability_seal.jpg"
+  },
+  {
     "TagId": 465756,
     "TagType": 26,
     "Names": [
@@ -4133,6 +5036,27 @@
       "静滞龙希尔 - 生成光环"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465758,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shell Ward",
+      "Resguardo de caparazón",
+      "Proteção do Casco",
+      "Shell Ward",
+      "Resguardo de concha",
+      "Protection crustacée",
+      "Укрепление панциря",
+      "Panzerschutz",
+      "Proteção do Casco",
+      "Protezione del Guscio",
+      "껍질 수호물",
+      "甲殼結界",
+      "甲壳结界"
+    ],
+    "Media": "inv_misc_shell_01.jpg"
   },
   {
     "TagId": 465759,
@@ -4175,6 +5099,27 @@
       "Quest Accept [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465771,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crab Dance",
+      "Danza cangrejil",
+      "Dança do Caranguejo",
+      "Crab Dance",
+      "Danza de cangrejo",
+      "Danse des crabes",
+      "Танец краба",
+      "Krabbentanz",
+      "Dança do Caranguejo",
+      "Danza del Granchio",
+      "게의 춤",
+      "螃蟹之舞",
+      "蟹之舞"
+    ],
+    "Media": "ability_hunter_pet_crab.jpg"
   },
   {
     "TagId": 465774,
@@ -4324,6 +5269,174 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465785,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hungry Charge",
+      "Carga hambrienta",
+      "Investida Voraz",
+      "Hungry Charge",
+      "Carga hambrienta",
+      "Charge affamée",
+      "Голодный рывок",
+      "Hungriger Ansturm",
+      "Investida Voraz",
+      "Carica Affamata",
+      "기아의 돌진",
+      "飢餓衝鋒",
+      "饥饿冲锋"
+    ],
+    "Media": "inv_misc_fish_26.jpg"
+  },
+  {
+    "TagId": 465786,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blocker",
+      "Bloqueador",
+      "Bloqueador",
+      "Blocker",
+      "Bloqueador",
+      "Bloqueur",
+      "Преграда",
+      "Blocker",
+      "Bloqueador",
+      "Blocco",
+      "장애물",
+      "擋鎖",
+      "障碍物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465788,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blocker",
+      "Bloqueador",
+      "Bloqueador",
+      "Blocker",
+      "Bloqueador",
+      "Bloqueur",
+      "Преграда",
+      "Blocker",
+      "Bloqueador",
+      "Blocco",
+      "장애물",
+      "擋鎖",
+      "障碍物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465791,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hungry Charge",
+      "Carga hambrienta",
+      "Investida Voraz",
+      "Hungry Charge",
+      "Carga hambrienta",
+      "Charge affamée",
+      "Голодный рывок",
+      "Hungriger Ansturm",
+      "Investida Voraz",
+      "Carica Affamata",
+      "기아의 돌진",
+      "飢餓衝鋒",
+      "饥饿冲锋"
+    ],
+    "Media": "inv_misc_fish_26.jpg"
+  },
+  {
+    "TagId": 465794,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blocker",
+      "Bloqueador",
+      "Bloqueador",
+      "Blocker",
+      "Bloqueador",
+      "Bloqueur",
+      "Преграда",
+      "Blocker",
+      "Bloqueador",
+      "Blocco",
+      "장애물",
+      "擋鎖",
+      "障碍物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465796,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chomping Jaws",
+      "Mandíbulas mordedoras",
+      "Mandíbulas Mordedoras",
+      "Chomping Jaws",
+      "Mandíbulas mascadoras",
+      "Mâchoires écrasantes",
+      "Сжимающие челюсти",
+      "Mampfender Kiefer",
+      "Mandíbulas Mordedoras",
+      "Fauci Masticanti",
+      "물어뜯는 턱",
+      "死咬不放",
+      "啃噬之颚"
+    ],
+    "Media": "inv_fishing_82_viperfish.jpg"
+  },
+  {
+    "TagId": 465797,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc",
+      "[DNT] Teleport to Safe Loc"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465804,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cliffreach Poison",
+      "Veneno linderrisco",
+      "Veneno Penhalonga",
+      "Cliffreach Poison",
+      "Veneno tramorrisco",
+      "Poison d’escarpeur",
+      "Яд виверны с высоких утесов",
+      "Klippenspannergift",
+      "Veneno Penhalonga",
+      "Veleno di Cercarupi",
+      "너른절벽 독",
+      "崖緣劇毒",
+      "崖际毒素"
+    ],
+    "Media": "ability_creature_poison_02.jpg"
+  },
+  {
     "TagId": 465805,
     "TagType": 26,
     "Names": [
@@ -4343,6 +5456,27 @@
       "毁灭魔法"
     ],
     "Media": "spell_arcane_massdispel.jpg"
+  },
+  {
+    "TagId": 465811,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maternal Rage",
+      "Ira maternal",
+      "Raiva Maternal",
+      "Maternal Rage",
+      "Ira materna",
+      "Rage maternelle",
+      "Материнская ярость",
+      "Mütterliche Wut",
+      "Raiva Maternal",
+      "Rabbia Materna",
+      "어미의 분노",
+      "母性暴怒",
+      "母性之怒"
+    ],
+    "Media": "inv_misc_elitewyvern.jpg"
   },
   {
     "TagId": 465815,
@@ -4366,6 +5500,48 @@
     "Media": "ability_warrior_cleave.jpg"
   },
   {
+    "TagId": 465816,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment",
+      "[DNT] Client - Dauntless Bombardment"
+    ],
+    "Media": "ui_rankedpvp_07_small.jpg"
+  },
+  {
+    "TagId": 465817,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dauntless Departure",
+      "Partida de la Intrépida",
+      "Partida do Inabalável",
+      "Dauntless Departure",
+      "Partida intrépida",
+      "Départ de l’Audacieux",
+      "Отбытие \"Неустрашимого\"",
+      "Aufbruch der Furchtloser Funke",
+      "Partida do Inabalável",
+      "Partenza Impavida",
+      "불굴호 출발",
+      "無懼發射",
+      "果敢号启程"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 465828,
     "TagType": 26,
     "Names": [
@@ -4387,6 +5563,48 @@
     "Media": "spell_shaman_earthquake.jpg"
   },
   {
+    "TagId": 465829,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slashing Talons",
+      "Garfas fulminantes",
+      "Garras Cortantes",
+      "Slashing Talons",
+      "Garras fulminantes",
+      "Serres lacérantes",
+      "Раздирающие когти",
+      "Reißende Klauen",
+      "Garras Cortantes",
+      "Artigli Taglienti",
+      "가차없는 발톱",
+      "凶猛利爪",
+      "百裂爪"
+    ],
+    "Media": "inv_misc_raptortalon_nightmare.jpg"
+  },
+  {
+    "TagId": 465832,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Porcine Tenacity",
+      "Tenacidad porcina",
+      "Tenacidade Suína",
+      "Porcine Tenacity",
+      "Tenacidad porcina",
+      "Ténacité porcine",
+      "Кабанья стойкость",
+      "Schweinische Hartnäckigkeit",
+      "Tenacidade Suína",
+      "Tenacia Suina",
+      "돼지의 끈기",
+      "豬之堅毅",
+      "蛮猪坚韧"
+    ],
+    "Media": "ability_mount_felboarmount.jpg"
+  },
+  {
     "TagId": 465843,
     "TagType": 26,
     "Names": [
@@ -4406,6 +5624,27 @@
       "飞旋之水"
     ],
     "Media": "inv_10_elementalcombinedfoozles_water.jpg"
+  },
+  {
+    "TagId": 465846,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Play Scene [ARS]",
+      "Reproducir escena [ARS]",
+      "Reproduzir Cena [ARS]",
+      "Play Scene [ARS]",
+      "Reproducir escena [ARS]",
+      "Jouer la scène [ARS]",
+      "Проигрывание сцены [ARS]",
+      "[ARS] Szene starten",
+      "Reproduzir Cena [ARS]",
+      "Riproduzione Scena",
+      "장면 재생 [ARS]",
+      "播放場景[ARS]",
+      "Play Scene [ARS]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 465850,
@@ -4513,6 +5752,27 @@
     "Media": "spell_frost_stun.jpg"
   },
   {
+    "TagId": 465858,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 465861,
     "TagType": 26,
     "Names": [
@@ -4532,6 +5792,69 @@
       "[DNT] Visual"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465864,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465869,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arathi Cannon",
+      "Cañón arathi",
+      "Canhão Arathi",
+      "Arathi Cannon",
+      "Cañón arathi",
+      "Canon arathi",
+      "Пушка арати",
+      "Arathikanone",
+      "Canhão Arathi",
+      "Cannone degli Arathi",
+      "아라시 대포",
+      "阿拉希火砲",
+      "阿拉希火炮"
+    ],
+    "Media": "ability_vehicle_siegeenginecannon.jpg"
+  },
+  {
+    "TagId": 465876,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test",
+      "[DNT] Test"
+    ],
+    "Media": "inv_guild_standard_horde_a.jpg"
   },
   {
     "TagId": 465877,
@@ -4597,6 +5920,27 @@
     "Media": "ability_evoker_oppressingroar.jpg"
   },
   {
+    "TagId": 465886,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Captain Lancekat",
+      "Capitana Lancekat",
+      "Capitã Lancecata",
+      "Captain Lancekat",
+      "Capitana Lancekat",
+      "Capitaine Lancekat",
+      "Капитан Ланцекат",
+      "Kapitänin Lancekat",
+      "Capitã Lancecata",
+      "Capitana Lancekat",
+      "선장 랜스캣",
+      "蘭斯卡特船長",
+      "兰斯卡特船长"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 465889,
     "TagType": 26,
     "Names": [
@@ -4635,6 +5979,27 @@
       "수집 중",
       "收集",
       "收集"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465894,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Captain Lancekat",
+      "Capitana Lancekat",
+      "Capitã Lancecata",
+      "Captain Lancekat",
+      "Capitana Lancekat",
+      "Capitaine Lancekat",
+      "Капитан Ланцекат",
+      "Kapitänin Lancekat",
+      "Capitã Lancecata",
+      "Capitana Lancekat",
+      "선장 랜스캣",
+      "蘭斯卡特船長",
+      "兰斯卡特船长"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5353,6 +6718,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 465940,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Putrid Breath",
+      "Aliento pútrido",
+      "Hálito Pútrido",
+      "Putrid Breath",
+      "Aliento pútrido",
+      "Souffle putride",
+      "Гнилостное дыхание",
+      "Eitriger Atem",
+      "Hálito Pútrido",
+      "Alito Putrido",
+      "부패의 숨결",
+      "腐爛氣息",
+      "腐烂气息"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
     "TagId": 465941,
     "TagType": 26,
     "Names": [
@@ -5372,6 +6758,27 @@
       "不稳定的喷发"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465943,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Putrid Breath",
+      "Aliento pútrido",
+      "Hálito Pútrido",
+      "Putrid Breath",
+      "Aliento pútrido",
+      "Souffle putride",
+      "Гнилостное дыхание",
+      "Eitriger Atem",
+      "Hálito Pútrido",
+      "Alito Putrido",
+      "부패의 숨결",
+      "腐爛氣息",
+      "腐烂气息"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
   },
   {
     "TagId": 465959,
@@ -5414,6 +6821,69 @@
       "[DNT] Bronze Vertical Impact"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465961,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stormbringer's Runed Citrine",
+      "Citrino rúnico de portador de tormentas",
+      "Citrino Rúnico do Traztormenta",
+      "Stormbringer's Runed Citrine",
+      "Citrino con runas de invocatormentas",
+      "Citrine runique de porte-tempête",
+      "Рунный цитрин призывателя бурь",
+      "Runenverzierter Citrin des Sturmbringers",
+      "Citrino Rúnico do Traztormenta",
+      "Citrino Runico dell'Araldo della Tempesta",
+      "폭풍인도자의 룬새김 황수정",
+      "風暴使者的符文黃水晶",
+      "风暴使者的符文黄水晶"
+    ],
+    "Media": "inv_siren_isle_searuned_citrine_red.jpg"
+  },
+  {
+    "TagId": 465962,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fathomdweller's Runed Citrine",
+      "Citrino rúnico de morafosas",
+      "Citrino Rúnico do Habitante das Profundezas",
+      "Fathomdweller's Runed Citrine",
+      "Citrino con runas de Moraprofundidades",
+      "Citrine runique des grands fonds",
+      "Рунный цитрин обитателя глубин",
+      "Runenverzierter Citrin des Tiefenbewohners",
+      "Citrino Rúnico do Habitante das Profundezas",
+      "Citrino Runico del Varcabissi",
+      "심해살이의 룬새김 황수정",
+      "水居者的符文黃水晶",
+      "深渊住民的符文黄水晶"
+    ],
+    "Media": "inv_siren_isle_searuned_citrine_blue.jpg"
+  },
+  {
+    "TagId": 465963,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Windsinger's Runed Citrine",
+      "Citrino rúnico de vientocantor",
+      "Citrino Rúnico do Cantavento",
+      "Windsinger's Runed Citrine",
+      "Citrino con runas de Vientocantor",
+      "Citrine runique de chantelevent",
+      "Рунный цитрин песни ветра",
+      "Runenverzierter Citrin des Windsängers",
+      "Citrino Rúnico do Cantavento",
+      "Citrino Runico del Cantavento",
+      "바람가수의 룬새김 황수정",
+      "風詠者的符文黃水晶",
+      "吟风歌手的符文黄水晶"
+    ],
+    "Media": "inv_siren_isle_searuned_citrine_pink.jpg"
   },
   {
     "TagId": 465965,
@@ -5477,5 +6947,26 @@
       "[DNT] - Flavor 6"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 465996,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rocket Jump",
+      "Salto con cohete",
+      "Salto do Foguete",
+      "Rocket Jump",
+      "Salto con cohete",
+      "Fusées de saut",
+      "Реактивный прыжок",
+      "Raketensprung",
+      "Salto do Foguete",
+      "Salto Propulsivo",
+      "로켓 도약",
+      "火箭跳躍",
+      "火箭跳"
+    ],
+    "Media": "ability_racial_rocketjump.jpg"
   }
 ]

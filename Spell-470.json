@@ -105,6 +105,27 @@
     "Media": "inv_10_dungeonjewelry_dragon_trinket_1arcanemagical_green.jpg"
   },
   {
+    "TagId": 470013,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Heroic Kick",
+      "Patada heroica",
+      "Chute Heroico",
+      "Heroic Kick",
+      "Patada heroica",
+      "Coup de pied héroïque",
+      "Героический удар ногой",
+      "Heldenhafter Tritt",
+      "Chute Heroico",
+      "Calcio Eroico",
+      "영웅의 발차기",
+      "英勇踢擊",
+      "英勇踢击"
+    ],
+    "Media": "ability_kick.jpg"
+  },
+  {
     "TagId": 470014,
     "TagType": 26,
     "Names": [
@@ -189,6 +210,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470025,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Echo Stomp",
+      "Pisotón resonante",
+      "Pisada Ecoante",
+      "Echo Stomp",
+      "Pisotón retumbante",
+      "Piétinement d’écho",
+      "Вторящий топот",
+      "Echostampfen",
+      "Pisada Ecoante",
+      "Urto Echeggiante",
+      "메아리치는 발구르기",
+      "回音踐踏",
+      "回荡践踏"
+    ],
+    "Media": "ability_warstomp.jpg"
+  },
+  {
     "TagId": 470030,
     "TagType": 26,
     "Names": [
@@ -210,6 +252,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470040,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystal Slam",
+      "Embate de cristal",
+      "Murro de Cristal",
+      "Crystal Slam",
+      "Embate de cristal",
+      "Heurt de cristal",
+      "Кристаллический удар",
+      "Kristallzerschmettern",
+      "Murro de Cristal",
+      "Contusione di Cristallo",
+      "수정 격돌",
+      "水晶猛擊",
+      "水晶猛击"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
+  },
+  {
+    "TagId": 470050,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boulder Toss",
+      "Lanzamiento de roca",
+      "Lançar Pedregulho",
+      "Boulder Toss",
+      "Lanzar roca",
+      "Lancer de rocher",
+      "Бросок валуна",
+      "Brockenwurf",
+      "Lançar Pedregulho",
+      "Lancio del Macigno",
+      "바위 던지기",
+      "丟擲巨石",
+      "投掷石块"
+    ],
+    "Media": "inv_stone_10.jpg"
+  },
+  {
     "TagId": 470053,
     "TagType": 26,
     "Names": [
@@ -229,6 +313,27 @@
       "流电炽焰"
     ],
     "Media": "inv_10_dungeonjewelry_primalist_trinket_1ragingelement_fire.jpg"
+  },
+  {
+    "TagId": 470054,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boulder Toss",
+      "Lanzamiento de roca",
+      "Lançar Pedregulho",
+      "Boulder Toss",
+      "Lanzar roca",
+      "Lancer de rocher",
+      "Бросок валуна",
+      "Brockenwurf",
+      "Lançar Pedregulho",
+      "Lancio del Macigno",
+      "바위 던지기",
+      "丟擲巨石",
+      "投掷石块"
+    ],
+    "Media": "inv_stone_10.jpg"
   },
   {
     "TagId": 470057,
@@ -292,6 +397,27 @@
       "奥术过载"
     ],
     "Media": "inv_10_dungeonjewelry_dragon_trinket_1arcanemagical_green.jpg"
+  },
+  {
+    "TagId": 470062,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fortify",
+      "Fortificar",
+      "Fortificar",
+      "Fortify",
+      "Fortificación",
+      "Renforcement",
+      "Укрепление",
+      "Verstärken",
+      "Fortificar",
+      "Fortificazione",
+      "보강",
+      "自我強化",
+      "强固"
+    ],
+    "Media": "ability_golemthunderclap.jpg"
   },
   {
     "TagId": 470068,
@@ -903,6 +1029,111 @@
     "Media": "ability_rhyolith_magmaflow_wave.jpg"
   },
   {
+    "TagId": 470167,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Superjuiced",
+      "Superenergizado",
+      "Superenergizado",
+      "Superjuiced",
+      "Superenergizado",
+      "Super énergie",
+      "Суперзарядка",
+      "Volle Ladung",
+      "Superenergizado",
+      "Superpotenziato",
+      "강력 충전",
+      "超級充能",
+      "超强化"
+    ],
+    "Media": "inv_gizmo_fuelcell.jpg"
+  },
+  {
+    "TagId": 470168,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cyrce's Zephyr",
+      "Céfiro de Cyrce",
+      "Zéfiro de Circe",
+      "Cyrce's Zephyr",
+      "Céfiro de Cyrce",
+      "Zéphyr de Cyrcé",
+      "Вихрь Цирци",
+      "Cyrces Zephir",
+      "Zéfiro de Circe",
+      "Zefiro di Cyrce",
+      "키르케의 서풍",
+      "賽斯的微風",
+      "喀耳刻的和风"
+    ],
+    "Media": "spell_frost_windwalkon.jpg"
+  },
+  {
+    "TagId": 470169,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thieves of the Siren",
+      "Ladrones de la sirena",
+      "Ladrões da Sirena",
+      "Thieves of the Siren",
+      "Ladrones de la sirena",
+      "Larrons des sirènes",
+      "Воры сирены",
+      "Diebe der Sirene",
+      "Ladrões da Sirena",
+      "Ladri della Sirena",
+      "세이렌의 도둑",
+      "海妖竊賊",
+      "海妖之盗"
+    ],
+    "Media": "ability_rogue_dirtydeeds.jpg"
+  },
+  {
+    "TagId": 470170,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wings of the Siren",
+      "Alas de sirena",
+      "Asas da Sirena",
+      "Wings of the Siren",
+      "Alas de la sirena",
+      "Ailes de la sirène",
+      "Крылья сирены",
+      "Schwingen der Sirene",
+      "Asas da Sirena",
+      "Ali della Sirena",
+      "세이렌의 날개",
+      "海妖之翼",
+      "海妖之翼"
+    ],
+    "Media": "ability_racial_wingbuffet.jpg"
+  },
+  {
+    "TagId": 470185,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold",
+      "[DNT] Test Black Rook Hold"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 470194,
     "TagType": 26,
     "Names": [
@@ -922,6 +1153,27 @@
       "霜刃打击"
     ],
     "Media": "spell_frost_frostbolt.jpg"
+  },
+  {
+    "TagId": 470197,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessing of the Seadweller",
+      "Bendición del habitante del mar",
+      "Bênção do Habitante do Mar",
+      "Blessing of the Seadweller",
+      "Bendición del morador del mar",
+      "Bénédiction marinicole",
+      "Благословение морского создания",
+      "Segen des Meeresbewohners",
+      "Bênção do Habitante do Mar",
+      "Benedizione dell'Abitante del Mare",
+      "바다살이의 축복",
+      "海居者的祝福",
+      "海洋住民的祝福"
+    ],
+    "Media": "spell_shadow_demonbreath.jpg"
   },
   {
     "TagId": 470200,
@@ -1071,6 +1323,48 @@
     "Media": "ability_mage_waterjet.jpg"
   },
   {
+    "TagId": 470239,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arathi Airship",
+      "Aeronave arathi",
+      "Aeronau Arathi",
+      "Arathi Airship",
+      "Nave arathi",
+      "Aéronef arathi",
+      "Аратийский воздушный корабль",
+      "Luftschiff der Arathi",
+      "Aeronau Arathi",
+      "Aeronave degli Arathi",
+      "아라시 비행선",
+      "阿拉希飛船",
+      "阿拉希飞艇"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470243,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Curse",
+      "Maldición oscura",
+      "Maldição Sombria",
+      "Dark Curse",
+      "Maldición oscura",
+      "Malédiction noire",
+      "Темное проклятие",
+      "Dunkler Fluch",
+      "Maldição Sombria",
+      "Maledizione Oscura",
+      "어둠의 저주",
+      "黑暗詛咒",
+      "黑暗诅咒"
+    ],
+    "Media": "ability_creature_cursed_02.jpg"
+  },
+  {
     "TagId": 470244,
     "TagType": 26,
     "Names": [
@@ -1217,6 +1511,69 @@
     "Media": "ability_racial_runningwild.jpg"
   },
   {
+    "TagId": 470259,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Expulse",
+      "Expulsar",
+      "Expulsão",
+      "Expulse",
+      "Expulsar",
+      "Expulsion",
+      "Выброс",
+      "Ausstoßen",
+      "Expulsão",
+      "Espulsione",
+      "추방",
+      "驅逐",
+      "驱逐"
+    ],
+    "Media": "inv_icon_shadowcouncilorb_purple.jpg"
+  },
+  {
+    "TagId": 470261,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Expulse",
+      "Expulsar",
+      "Expulsão",
+      "Expulse",
+      "Expulsar",
+      "Expulsion",
+      "Выброс",
+      "Ausstoßen",
+      "Expulsão",
+      "Espulsione",
+      "추방",
+      "驅逐",
+      "驱逐"
+    ],
+    "Media": "inv_icon_shadowcouncilorb_purple.jpg"
+  },
+  {
+    "TagId": 470262,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Expulse",
+      "Expulsar",
+      "Expulsão",
+      "Expulse",
+      "Expulsar",
+      "Expulsion",
+      "Выброс",
+      "Ausstoßen",
+      "Expulsão",
+      "Espulsione",
+      "추방",
+      "驅逐",
+      "驱逐"
+    ],
+    "Media": "inv_icon_shadowcouncilorb_purple.jpg"
+  },
+  {
     "TagId": 470273,
     "TagType": 26,
     "Names": [
@@ -1259,6 +1616,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470276,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Black Goo",
+      "Pegote negro",
+      "Gosma Negra",
+      "Black Goo",
+      "Baba negra",
+      "Boue noire",
+      "Черная слизь",
+      "Schwarze Schmiere",
+      "Gosma Negra",
+      "Poltiglia Nera",
+      "검은 찐득이",
+      "黑色黏液",
+      "黑色粘质"
+    ],
+    "Media": "spell_yorsahj_bloodboil_black.jpg"
+  },
+  {
+    "TagId": 470277,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spew Sludge",
+      "Vómito de lodo",
+      "Cuspe de Lodo",
+      "Spew Sludge",
+      "Vomitar fango",
+      "Jet de vase",
+      "Плевок жижей",
+      "Schlick speien",
+      "Cuspe de Lodo",
+      "Sputo di Poltiglia",
+      "오물 분출",
+      "噴吐淤泥",
+      "喷涌软泥"
+    ],
+    "Media": "inv_misc_food_legion_goooil_pool.jpg"
+  },
+  {
     "TagId": 470284,
     "TagType": 26,
     "Names": [
@@ -1278,6 +1677,48 @@
       "进食饮水"
     ],
     "Media": "inv_drink_18.jpg"
+  },
+  {
+    "TagId": 470290,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Muck Bolt",
+      "Descarga de mugre",
+      "Seta de Lodo",
+      "Muck Bolt",
+      "Descarga de mugre",
+      "Trait de gadoue",
+      "Грязевая стрела",
+      "Dreckblitz",
+      "Seta de Lodo",
+      "Dardo di Fango",
+      "흙탕물 화살",
+      "淤泥箭",
+      "泥浆箭"
+    ],
+    "Media": "ability_vehicle_oiljets.jpg"
+  },
+  {
+    "TagId": 470296,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Double Strike",
+      "Doble golpe",
+      "Golpe Duplo",
+      "Double Strike",
+      "Golpe doble",
+      "Coup double",
+      "Двойной удар",
+      "Doppelschlag",
+      "Golpe Duplo",
+      "Assalto Doppio",
+      "이중 타격",
+      "雙重打擊",
+      "二连击"
+    ],
+    "Media": "ability_rogue_sabreslash.jpg"
   },
   {
     "TagId": 470299,
@@ -1364,6 +1805,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470316,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Double Strike",
+      "Doble golpe",
+      "Golpe Duplo",
+      "Double Strike",
+      "Golpe doble",
+      "Coup double",
+      "Двойной удар",
+      "Doppelschlag",
+      "Golpe Duplo",
+      "Assalto Doppio",
+      "이중 타격",
+      "雙重打擊",
+      "二连击"
+    ],
+    "Media": "ability_rogue_sabreslash.jpg"
+  },
+  {
+    "TagId": 470322,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unsolved Amethyst Runelock",
+      "Runibloque amatista sin resolver",
+      "Combina-runas Ametista não Desvendado",
+      "Unsolved Amethyst Runelock",
+      "Bloqueo de runas amatista sin resolver",
+      "Verrou runique en améthyste non résolu",
+      "Нерешенный аметистовый рунический замок",
+      "Ungelöstes Amethystrunenschloss",
+      "Combina-runas Ametista não Desvendado",
+      "Lucchetto Runico d'Ametista Insoluto",
+      "풀리지 않은 자수정 룬 자물쇠",
+      "未解的紫晶符文鎖",
+      "未破解的紫晶符文锁"
+    ],
+    "Media": "spell_arcane_blast.jpg"
+  },
+  {
+    "TagId": 470326,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]",
+      "Credit [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 470330,
     "TagType": 26,
     "Names": [
@@ -1404,6 +1908,69 @@
       "抚摸"
     ],
     "Media": "petbattle_health.jpg"
+  },
+  {
+    "TagId": 470337,
+    "TagType": 26,
+    "Names": [
+      null,
+      "No Escape",
+      "Sin escapatoria",
+      "Sem Saída",
+      "No Escape",
+      "Sin escapatoria",
+      "Plus d’échappatoire",
+      "Невозможность побега",
+      "Kein Entkommen",
+      "Sem Saída",
+      "Senza Scampo",
+      "탈출 불가",
+      "無處可逃",
+      "无路可逃"
+    ],
+    "Media": "hunter_pvp_trackersnet.jpg"
+  },
+  {
+    "TagId": 470340,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Exit",
+      "Abandonar",
+      "Sair",
+      "Exit",
+      "Salir",
+      "Quitter",
+      "Выход",
+      "Ausgang",
+      "Sair",
+      "Uscita",
+      "출구",
+      "退出",
+      "退出"
+    ],
+    "Media": "misc_rnrredxbutton.jpg"
+  },
+  {
+    "TagId": 470341,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Exit",
+      "Abandonar",
+      "Sair",
+      "Exit",
+      "Salir",
+      "Quitter",
+      "Выход",
+      "Ausgang",
+      "Sair",
+      "Uscita",
+      "출구",
+      "退出",
+      "退出"
+    ],
+    "Media": "misc_rnrredxbutton.jpg"
   },
   {
     "TagId": 470344,
@@ -1448,6 +2015,27 @@
     "Media": "inv_engineering_90_electrifiedether.jpg"
   },
   {
+    "TagId": 470351,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crashing Surge",
+      "Aluvión aplastante",
+      "Surto Esmagador",
+      "Crashing Surge",
+      "Oleada aplastante",
+      "Afflux déferlant",
+      "Крушащий всплеск",
+      "Brechende Woge",
+      "Surto Esmagador",
+      "Impeto Schiacciante",
+      "밀어닥치는 쇄도",
+      "霹靂之湧",
+      "轰然喷涌"
+    ],
+    "Media": "ability_mage_waterjet.jpg"
+  },
+  {
     "TagId": 470356,
     "TagType": 26,
     "Names": [
@@ -1488,6 +2076,69 @@
       "火葬"
     ],
     "Media": "spell_burningsoul.jpg"
+  },
+  {
+    "TagId": 470371,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Water Sphere",
+      "Esfera de agua",
+      "Esfera d'Água",
+      "Water Sphere",
+      "Esfera de agua",
+      "Sphère d’eau",
+      "Водная сфера",
+      "Wassersphäre",
+      "Esfera d'Água",
+      "Sfera d'Acqua",
+      "물의 구체",
+      "水球",
+      "水球"
+    ],
+    "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 470372,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Water Sphere",
+      "Esfera de agua",
+      "Esfera d'Água",
+      "Water Sphere",
+      "Esfera de agua",
+      "Sphère d’eau",
+      "Водная сфера",
+      "Wassersphäre",
+      "Esfera d'Água",
+      "Sfera d'Acqua",
+      "물의 구체",
+      "水球",
+      "水球"
+    ],
+    "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 470381,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crystalline Ground",
+      "Suelo cristalino",
+      "Solo Cristalino",
+      "Crystalline Ground",
+      "Suelo cristalino",
+      "Sol cristallin",
+      "Кристализованная земля",
+      "Kristalliner Boden",
+      "Solo Cristalino",
+      "Terreno Cristallino",
+      "수정 대지",
+      "晶化地面",
+      "晶化大地"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 470387,
@@ -1679,6 +2330,48 @@
     "Media": "inv_engineering_90_electrifiedether.jpg"
   },
   {
+    "TagId": 470429,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Zoatroids",
+      "Invocar zoatroides",
+      "Evocar Zoatroides",
+      "Summon Zoatroids",
+      "Invocar zoatroides",
+      "Invocation de zoatroïdes",
+      "Призыв зоатроидов",
+      "Zoatroiden beschwören",
+      "Evocar Zoatroides",
+      "Evocazione: Zoatroidi",
+      "조아트로이드 소환",
+      "召喚澤亞洛伊",
+      "召唤虚悯者"
+    ],
+    "Media": "inv_misc_83_voidfocus.jpg"
+  },
+  {
+    "TagId": 470430,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Zoatroids",
+      "Invocar zoatroides",
+      "Evocar Zoatroides",
+      "Summon Zoatroids",
+      "Invocar zoatroides",
+      "Invocation de zoatroïdes",
+      "Призыв зоатроидов",
+      "Zoatroiden beschwören",
+      "Evocar Zoatroides",
+      "Evocazione: Zoatroidi",
+      "조아트로이드 소환",
+      "召喚澤亞洛伊",
+      "召唤虚悯者"
+    ],
+    "Media": "inv_misc_83_voidfocus.jpg"
+  },
+  {
     "TagId": 470431,
     "TagType": 26,
     "Names": [
@@ -1719,6 +2412,27 @@
       "对话"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470433,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eldritch Power",
+      "Poder espeluznante",
+      "Poder Sobrenatural",
+      "Eldritch Power",
+      "Poder sobrenatural",
+      "Puissance indicible",
+      "Зловещая сила",
+      "Gespenstische Macht",
+      "Poder Sobrenatural",
+      "Potenza Spettrale",
+      "기괴한 힘",
+      "詭異之力",
+      "惊异之力"
+    ],
+    "Media": "inv_cosmicvoid_beam.jpg"
   },
   {
     "TagId": 470439,
@@ -1799,7 +2513,7 @@
       "Explosão Tormentosa",
       "Detonazione della Tempesta",
       "번개폭풍",
-      "風暴打擊",
+      "風暴衝擊",
       "风暴轰击"
     ],
     "Media": "spell_shaman_focusedstrikes.jpg"
@@ -1895,13 +2609,13 @@
       null,
       "Summon Burning Spirit",
       "Invocar espíritu ardiente",
-      "Evocar Espírito Flamejante",
+      "Evocar Espírito Incandescente",
       "Summon Burning Spirit",
       "Invocar espíritu ardiente",
       "Invocation d’esprit ardent",
       "Призыв пылающего духа",
       "Brennenden Geist beschwören",
-      "Evocar Espírito Flamejante",
+      "Evocar Espírito Incandescente",
       "Evocazione: Spirito Ardente",
       "불타는 정령 소환",
       "召喚燃靈",
@@ -1916,13 +2630,13 @@
       null,
       "Summon Burning Spirit",
       "Invocar espíritu ardiente",
-      "Evocar Espírito Flamejante",
+      "Evocar Espírito Incandescente",
       "Summon Burning Spirit",
       "Invocar espíritu ardiente",
       "Invocation d’esprit ardent",
       "Призыв пылающего духа",
       "Brennenden Geist beschwören",
-      "Evocar Espírito Flamejante",
+      "Evocar Espírito Incandescente",
       "Evocazione: Spirito Ardente",
       "불타는 정령 소환",
       "召喚燃靈",
@@ -2162,6 +2876,132 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470514,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Leave the Storm",
+      "Dejar la tormenta",
+      "Deixar a Tempestade",
+      "Leave the Storm",
+      "Salir de la tormenta",
+      "Sortir de la tempête",
+      "Побег от бури",
+      "Sturm verlassen",
+      "Deixar a Tempestade",
+      "Allontanamento dalla Tempesta",
+      "폭풍 벗어나기",
+      "離開風暴",
+      "离开风暴"
+    ],
+    "Media": "inv_pet_exitbattle.jpg"
+  },
+  {
+    "TagId": 470516,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Seafury Tempest",
+      "Tempestad de furia marina",
+      "Tormenta Marefúria",
+      "Seafury Tempest",
+      "Tempestad de furia marina",
+      "Tempête furie-des-mers",
+      "Шторм яростного моря",
+      "Meereszornunwetter",
+      "Tormenta Marefúria",
+      "Tempesta di Furiamarina",
+      "성난바다 폭풍우",
+      "海怒暴風",
+      "海怒雷暴"
+    ],
+    "Media": "spell_shaman_thunderstorm.jpg"
+  },
+  {
+    "TagId": 470517,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport",
+      "Teletransporte",
+      "Teleporte",
+      "Teleport",
+      "Teletransporte",
+      "Téléportation",
+      "Телепортация",
+      "Teleportieren",
+      "Teleporte",
+      "Teletrasporto",
+      "순간이동",
+      "傳送",
+      "传送"
+    ],
+    "Media": "inv_pet_exitbattle.jpg"
+  },
+  {
+    "TagId": 470521,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Exit Storm",
+      "Abandonar tormenta",
+      "Sair da Tempestade",
+      "Exit Storm",
+      "Salir de la tormenta",
+      "Quitter la tempête",
+      "Покинуть бурю",
+      "Sturm verlassen",
+      "Sair da Tempestade",
+      "Uscita dalla Tempesta",
+      "폭풍 나가기",
+      "離開風暴",
+      "离开风暴"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470523,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Storm Approaches",
+      "Se acerca una tormenta",
+      "Virou o Tempo",
+      "Storm Approaches",
+      "Se acerca una tormenta",
+      "Tempête en approche",
+      "Приближение бури",
+      "Sturm naht",
+      "Virou o Tempo",
+      "Avvicinamento Tempesta",
+      "다가오는 폭풍",
+      "風暴逼近",
+      "风暴接近"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470530,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Leave the Storm",
+      "Dejar la tormenta",
+      "Deixar a Tempestade",
+      "Leave the Storm",
+      "Salir de la tormenta",
+      "Sortir de la tempête",
+      "Побег от бури",
+      "Sturm verlassen",
+      "Deixar a Tempestade",
+      "Allontanamento dalla Tempesta",
+      "폭풍 벗어나기",
+      "離開風暴",
+      "离开风暴"
+    ],
+    "Media": "inv_pet_exitbattle.jpg"
+  },
+  {
     "TagId": 470532,
     "TagType": 26,
     "Names": [
@@ -2181,6 +3021,27 @@
       "弧形放电"
     ],
     "Media": "ability_thunderking_balllightning.jpg"
+  },
+  {
+    "TagId": 470533,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Suzie Boltwrench",
+      "Suzie Aprietatuercas",
+      "Suzi Fresaprego",
+      "Suzie Boltwrench",
+      "Suzie Chafatuerca",
+      "Suzie Vrilleboulon",
+      "Сюзи Крутоболтикс",
+      "Susi Bolzschraub",
+      "Suzi Fresaprego",
+      "Suzie Avvitachiodi",
+      "수지 볼트렌치",
+      "蘇琪‧拴鉗",
+      "苏茜·螺扳"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 470540,
@@ -2204,6 +3065,90 @@
     "Media": "inv_misc_plant_02.jpg"
   },
   {
+    "TagId": 470541,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Crawler Mine",
+      "Invocar mina reptante",
+      "Evocar Mina Rastejante",
+      "Summon Crawler Mine",
+      "Invocar mina reptadora",
+      "Invocation de mine rampante",
+      "Призыв ползучей мины",
+      "Kriechermine beschwören",
+      "Evocar Mina Rastejante",
+      "Evocazione: Mina Strisciante",
+      "거미 지뢰 소환",
+      "召喚爬行者地雷",
+      "召唤蛛形地雷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470542,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crawler Mine",
+      "Mina reptante",
+      "Mina Rastejante",
+      "Crawler Mine",
+      "Mina reptadora",
+      "Mine rampante",
+      "Ползучая мина",
+      "Kriechermine",
+      "Mina Rastejante",
+      "Mina Strisciante",
+      "거미 지뢰",
+      "爬行者地雷",
+      "蛛形地雷"
+    ],
+    "Media": "inv_misc_bomb_02.jpg"
+  },
+  {
+    "TagId": 470543,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crawler Mine",
+      "Mina reptante",
+      "Mina Rastejante",
+      "Crawler Mine",
+      "Mina reptadora",
+      "Mine rampante",
+      "Ползучая мина",
+      "Kriechermine",
+      "Mina Rastejante",
+      "Mina Strisciante",
+      "거미 지뢰",
+      "爬行者地雷",
+      "蛛形地雷"
+    ],
+    "Media": "inv_misc_bomb_02.jpg"
+  },
+  {
+    "TagId": 470547,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Crawler Mine",
+      "Invocar mina reptante",
+      "Evocar Mina Rastejante",
+      "Summon Crawler Mine",
+      "Invocar mina reptadora",
+      "Invocation de mine rampante",
+      "Призыв ползучей мины",
+      "Kriechermine beschwören",
+      "Evocar Mina Rastejante",
+      "Evocazione: Mina Strisciante",
+      "거미 지뢰 소환",
+      "召喚爬行者地雷",
+      "召唤蛛形地雷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 470549,
     "TagType": 26,
     "Names": [
@@ -2225,6 +3170,69 @@
     "Media": "inv_misc_herb_liferoot_stem.jpg"
   },
   {
+    "TagId": 470556,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Petrifying Cloud",
+      "Nube petrificante",
+      "Nuvem Petrificante",
+      "Petrifying Cloud",
+      "Nube petrificante",
+      "Nuage pétrifiant",
+      "Окаменяющее облако",
+      "Versteinernde Wolke",
+      "Nuvem Petrificante",
+      "Nube Pietrificante",
+      "석화의 구름",
+      "石化之雲",
+      "石化云雾"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470558,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Crawler Mine",
+      "Invocar mina reptante",
+      "Evocar Mina Rastejante",
+      "Summon Crawler Mine",
+      "Invocar mina reptadora",
+      "Invocation de mine rampante",
+      "Призыв ползучей мины",
+      "Kriechermine beschwören",
+      "Evocar Mina Rastejante",
+      "Evocazione: Mina Strisciante",
+      "거미 지뢰 소환",
+      "召喚爬行者地雷",
+      "召唤蛛形地雷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470559,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Crawler Mine",
+      "Invocar mina reptante",
+      "Evocar Mina Rastejante",
+      "Summon Crawler Mine",
+      "Invocar mina reptadora",
+      "Invocation de mine rampante",
+      "Призыв ползучей мины",
+      "Kriechermine beschwören",
+      "Evocar Mina Rastejante",
+      "Evocazione: Mina Strisciante",
+      "거미 지뢰 소환",
+      "召喚爬行者地雷",
+      "召唤蛛形地雷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 470562,
     "TagType": 26,
     "Names": [
@@ -2244,6 +3252,48 @@
       "愈合之涌"
     ],
     "Media": "inv_relics_idolofhealth.jpg"
+  },
+  {
+    "TagId": 470564,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Command Mine",
+      "Dar órdenes a la mina",
+      "Controlar Mina",
+      "Command Mine",
+      "Enviar orden a mina",
+      "Commandement de mine",
+      "Управление миной",
+      "Minen befehligen",
+      "Controlar Mina",
+      "Comando Mina",
+      "지뢰 조종",
+      "指揮地雷",
+      "控制地雷"
+    ],
+    "Media": "inv_misc_bomb_02.jpg"
+  },
+  {
+    "TagId": 470580,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Zoatroids",
+      "Invocar zoatroides",
+      "Evocar Zoatroides",
+      "Summon Zoatroids",
+      "Invocar zoatroides",
+      "Invocation de zoatroïdes",
+      "Призыв зоатроидов",
+      "Zoatroiden beschwören",
+      "Evocar Zoatroides",
+      "Evocazione: Zoatroidi",
+      "조아트로이드 소환",
+      "召喚澤亞洛伊",
+      "召唤虚悯者"
+    ],
+    "Media": "inv_misc_83_voidfocus.jpg"
   },
   {
     "TagId": 470581,
@@ -4009,6 +5059,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470687,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mine Blast",
+      "Explosión de mina",
+      "Explosão de Mina",
+      "Mine Blast",
+      "Deflagración de mina",
+      "Explosion de mine",
+      "Взрыв мины",
+      "Minenexplosion",
+      "Explosão de Mina",
+      "Detonazione Mina",
+      "지뢰 폭파",
+      "地雷爆炸",
+      "地雷爆炸"
+    ],
+    "Media": "inv_misc_bomb_02.jpg"
+  },
+  {
+    "TagId": 470688,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ping",
+      "Marcar",
+      "Ping",
+      "Ping",
+      "Marcar",
+      "Ping",
+      "Проверка",
+      "Ping",
+      "Ping",
+      "Segnale",
+      "신호",
+      "指示",
+      "标记"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 470696,
     "TagType": 26,
     "Names": [
@@ -4429,6 +5521,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470798,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport"
+    ],
+    "Media": "inv_10_dungeonjewelry_dragon_trinket_1arcanemagical_blue.jpg"
+  },
+  {
     "TagId": 470799,
     "TagType": 26,
     "Names": [
@@ -4513,6 +5626,47 @@
     "Media": "inv_enchant_formulasuperior_01.jpg"
   },
   {
+    "TagId": 470819,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test",
+      "[DNT] UIAction Test"
+    ]
+  },
+  {
+    "TagId": 470821,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pluck Out Singing Citrine",
+      "Arrancar citrino cantante",
+      "Remover Citrino Cantante",
+      "Pluck Out Singing Citrine",
+      "Quitar citrino cantarín",
+      "Extraire la citrine chantante",
+      "Извлечение поющего цитрина",
+      "Singenden Citrin herausziehen",
+      "Remover Citrino Cantante",
+      "Estrazione Citrino Risonante",
+      "노래하는 황수정 뽑기",
+      "撬出歌唱黃水晶",
+      "拔出吟歌黄水晶。"
+    ],
+    "Media": "inv_siren_isle_ring.jpg"
+  },
+  {
     "TagId": 470822,
     "TagType": 26,
     "Names": [
@@ -4530,6 +5684,27 @@
       "[DNT] Winner Name Callout",
       "[DNT] Winner Name Callout",
       "[DNT] Winner Name Callout"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470833,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4574,6 +5749,132 @@
       "输入序列"
     ],
     "Media": "inv_engineering_90_math.jpg"
+  },
+  {
+    "TagId": 470848,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enter Mole Machine",
+      "Ingresar a máquina topo",
+      "Entrar na Máquina Toupeira",
+      "Enter Mole Machine",
+      "Entrar en la máquina topo",
+      "Entrer dans la taupe mécanique",
+      "Вход в буровую установку",
+      "Maulwurfmaschine betreten",
+      "Entrar na Máquina Toupeira",
+      "Entrata Trivella",
+      "굴착기 탑승",
+      "進入鑽地機",
+      "进入钻探机"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470850,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enter Mole Machine",
+      "Ingresar a máquina topo",
+      "Entrar na Máquina Toupeira",
+      "Enter Mole Machine",
+      "Entrar en la máquina topo",
+      "Entrer dans la taupe mécanique",
+      "Вход в буровую установку",
+      "Maulwurfmaschine betreten",
+      "Entrar na Máquina Toupeira",
+      "Entrata Trivella",
+      "굴착기 탑승",
+      "進入鑽地機",
+      "进入钻探机"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470857,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Runecaster's Eye",
+      "Ojo de invocarrunas",
+      "Olho do Lança-runas",
+      "Runecaster's Eye",
+      "Ojo de taumaturgo",
+      "Œil de lanceur de runes",
+      "Глаз заклинателя рун",
+      "Auge des Runenmagiers",
+      "Olho do Lança-runas",
+      "Occhio del Lanciarune",
+      "룬마술사의 눈",
+      "符文使之眼",
+      "符文法师之目"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470860,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport",
+      "[DNT] Teleport"
+    ],
+    "Media": "inv_10_dungeonjewelry_dragon_trinket_1arcanemagical_blue.jpg"
+  },
+  {
+    "TagId": 470864,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Runecaster's Eye",
+      "Ojo de invocarrunas",
+      "Olho do Lança-runas",
+      "Runecaster's Eye",
+      "Ojo de taumaturgo",
+      "Œil de lanceur de runes",
+      "Глаз заклинателя рун",
+      "Auge des Runenmagiers",
+      "Olho do Lança-runas",
+      "Occhio del Lanciarune",
+      "룬마술사의 눈",
+      "符文使之眼",
+      "符文法师之目"
+    ],
+    "Media": "spell_holy_healingfocus.jpg"
+  },
+  {
+    "TagId": 470865,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Runecaster's Eye",
+      "Ojo de invocarrunas",
+      "Olho do Lança-runas",
+      "Runecaster's Eye",
+      "Ojo de taumaturgo",
+      "Œil de lanceur de runes",
+      "Глаз заклинателя рун",
+      "Auge des Runenmagiers",
+      "Olho do Lança-runas",
+      "Occhio del Lanciarune",
+      "룬마술사의 눈",
+      "符文使之眼",
+      "符文法师之目"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 470869,
@@ -4656,6 +5957,132 @@
       "Transition Start Spell [DNT]",
       "Transition Start Spell [DNT]",
       "Transition Start Spell [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470892,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Runecaster's Eye",
+      "Ojo de invocarrunas",
+      "Olho do Lança-runas",
+      "Runecaster's Eye",
+      "Ojo de taumaturgo",
+      "Œil de lanceur de runes",
+      "Глаз заклинателя рун",
+      "Auge des Runenmagiers",
+      "Olho do Lança-runas",
+      "Occhio del Lanciarune",
+      "룬마술사의 눈",
+      "符文使之眼",
+      "符文法师之目"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470893,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device",
+      "[DNT] Forge Device"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470904,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner",
+      "[DNT] Placed Crystal Scanner"
+    ],
+    "Media": "inv_cape_special_earthen_b_01.jpg"
+  },
+  {
+    "TagId": 470914,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Разеши Б.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "라제쉬 B",
+      "拉澤許B.",
+      "拉泽什·B"
+    ],
+    "Media": "inv_babynaga2_purple.jpg"
+  },
+  {
+    "TagId": 470916,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene",
+      "[DNT] Scene"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 470918,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Activating",
+      "Activación",
+      "Ativando",
+      "Activating",
+      "Activando",
+      "Activation",
+      "Активация",
+      "Aktivieren",
+      "Ativando",
+      "Attivazione",
+      "활성화",
+      "啟動",
+      "激活"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4807,6 +6234,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 470967,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dragon Stomp",
+      "Pisotón de dragón",
+      "Pisada de Dragão",
+      "Dragon Stomp",
+      "Pisotón de dragón",
+      "Piétinement draconique",
+      "Драконий топот",
+      "Drachenstampfen",
+      "Pisada de Dragão",
+      "Urto del Drago",
+      "용의 발구르기",
+      "巨龍踐踏",
+      "巨龙践踏"
+    ],
+    "Media": "ability_dragonriding_legstretches01.jpg"
+  },
+  {
     "TagId": 470968,
     "TagType": 26,
     "Names": [
@@ -4931,5 +6379,47 @@
       "最后一单"
     ],
     "Media": "inv_drink_13.jpg"
+  },
+  {
+    "TagId": 470976,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lightning Ward",
+      "Resguardo del relámpago",
+      "Proteção Elétrica",
+      "Lightning Ward",
+      "Resguardo de relámpagos",
+      "Protection foudroyante",
+      "Грозовой оберег",
+      "Blitzschutz",
+      "Proteção Elétrica",
+      "Protezione Fulminante",
+      "번개 수호물",
+      "閃電結界",
+      "闪电结界"
+    ],
+    "Media": "ability_vehicle_electrocharge.jpg"
+  },
+  {
+    "TagId": 470999,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport",
+      "Teletransporte",
+      "Teleporte",
+      "Teleport",
+      "Teletransporte",
+      "Téléportation",
+      "Телепортация",
+      "Teleportieren",
+      "Teleporte",
+      "Teletrasporto",
+      "순간이동",
+      "傳送",
+      "传送"
+    ],
+    "Media": "trade_engineering.jpg"
   }
 ]

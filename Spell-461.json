@@ -1,5 +1,26 @@
 [
   {
+    "TagId": 461001,
+    "TagType": 26,
+    "Names": [
+      null,
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental",
+      "(DNT) Maintain Water Elemental"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 461002,
     "TagType": 26,
     "Names": [
@@ -57,7 +78,7 @@
       "O Tempo Urge",
       "Il Tempo Stringe",
       "한시가 급하다, 용사여",
-      "時間寶貴，勇士。",
+      "時間寶貴，勇士",
       "时间宝贵，勇士"
     ],
     "Media": "ability_dragonriding_bronzerewind01.jpg"
@@ -210,6 +231,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 461016,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Controlling the Water Elemental",
+      "Controlando el elemental de agua",
+      "Controlando o Elemental da Água",
+      "Controlling the Water Elemental",
+      "Controlando al elemental de agua",
+      "Contrôle l’élémentaire d’eau.",
+      "Управление элементалем воды",
+      "Wasserelementar kontrollieren",
+      "Controlando o Elemental da Água",
+      "Controllo Elementale dell'Acqua",
+      "물의 정령 제어",
+      "控制水元素",
+      "掌控水元素"
+    ],
+    "Media": "spell_frost_summonwaterelemental.jpg"
+  },
+  {
     "TagId": 461017,
     "TagType": 26,
     "Names": [
@@ -229,6 +271,27 @@
       "故事节点"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 461018,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Empowered Frost Nova",
+      "Nova de escarcha potenciada",
+      "Nova Congelante Potencializada",
+      "Empowered Frost Nova",
+      "Nova de Escarcha potenciada",
+      "Nova de givre renforcée",
+      "Усиленное кольцо льда",
+      "Mächtige Frostnova",
+      "Nova Congelante Potencializada",
+      "Esplosione Gelida Potenziata",
+      "강화된 얼음 회오리",
+      "強化冰霜新星",
+      "强化冰霜新星"
+    ],
+    "Media": "spell_fire_bluepyroblast.jpg"
   },
   {
     "TagId": 461023,
@@ -357,6 +420,27 @@
     "Media": "spell_priest_finalprayer.jpg"
   },
   {
+    "TagId": 461045,
+    "TagType": 26,
+    "Names": [
+      null,
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental",
+      "(DNT) Ping Elemental"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 461051,
     "TagType": 26,
     "Names": [
@@ -420,6 +504,27 @@
     "Media": "inv_7xp_inscription_talenttome02.jpg"
   },
   {
+    "TagId": 461070,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Freeing",
+      "Liberando",
+      "Libertação",
+      "Freeing",
+      "Liberando",
+      "Libération",
+      "Освобождение",
+      "Befreien",
+      "Libertação",
+      "Liberazione",
+      "풀어주기",
+      "釋放",
+      "解救"
+    ],
+    "Media": "inv_misc_web_01.jpg"
+  },
+  {
     "TagId": 461071,
     "TagType": 26,
     "Names": [
@@ -460,6 +565,27 @@
       "饮水"
     ],
     "Media": "inv_drink_18.jpg"
+  },
+  {
+    "TagId": 461076,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport",
+      "Teletransporte",
+      "Teleporte",
+      "Teleport",
+      "Teletransporte",
+      "Téléportation",
+      "Телепортация",
+      "Teleportieren",
+      "Teleporte",
+      "Teletrasporto",
+      "순간이동",
+      "傳送",
+      "传送"
+    ],
+    "Media": "spell_shadow_teleport.jpg"
   },
   {
     "TagId": 461078,
@@ -523,6 +649,27 @@
       "闪电漩涡"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 461089,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Permafrost",
+      "Escarcha permanente",
+      "Permafrio",
+      "Permafrost",
+      "Escarcha permanente",
+      "Gel prolongé",
+      "Вечная мерзлота",
+      "Permafrost",
+      "Permafrio",
+      "Permagelo",
+      "영구 결빙",
+      "極寒冰霜",
+      "永冻"
+    ],
+    "Media": "creatureportrait_creature_iceblock.jpg"
   },
   {
     "TagId": 461094,
@@ -1090,6 +1237,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 461166,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Infiltrate",
+      "Infiltrar",
+      "Infiltrar",
+      "Infiltrate",
+      "Infiltrarse",
+      "Infiltration",
+      "Проникновение",
+      "Infiltrieren",
+      "Infiltrar",
+      "Infiltramento",
+      "침투",
+      "潛入",
+      "潜入"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 461167,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Orweyna's Wings",
+      "Alas de Orweyna",
+      "Asas de Orweyna",
+      "Orweyna's Wings",
+      "Alas de Orweyna",
+      "Ailes d’Orweyna",
+      "Крылья Орвейны",
+      "Orweynas Schwingen",
+      "Asas de Orweyna",
+      "Ali di Orweyna",
+      "오르웨냐의 날개",
+      "歐薇娜之翼",
+      "奥威娜之翼"
+    ],
+    "Media": "ability_hunter_pet_bat.jpg"
+  },
+  {
     "TagId": 461169,
     "TagType": 26,
     "Names": [
@@ -1615,6 +1804,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 461202,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Empowered Time Warp",
+      "Distorsión temporal potenciada",
+      "Distorção Temporal Potencializada",
+      "Empowered Time Warp",
+      "Distorsión temporal potenciada",
+      "Distorsion temporelle renforcée",
+      "Усиленное искажение времени",
+      "Ermächtigte Zeitkrümmung",
+      "Distorção Temporal Potencializada",
+      "Distorsione Temporale Potenziata",
+      "강화된 시간 왜곡",
+      "強化時間扭曲",
+      "强化时间扭曲"
+    ],
+    "Media": "ability_mage_timewarp.jpg"
+  },
+  {
     "TagId": 461204,
     "TagType": 26,
     "Names": [
@@ -1951,6 +2161,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 461234,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)",
+      "Light (DNT)"
+    ],
+    "Media": "spell_arcane_teleportdalarancrater.jpg"
+  },
+  {
     "TagId": 461236,
     "TagType": 26,
     "Names": [
@@ -2140,6 +2371,27 @@
     "Media": "spell_priest_divinestar_holy.jpg"
   },
   {
+    "TagId": 461255,
+    "TagType": 26,
+    "Names": [
+      null,
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed",
+      "(DNT) Kill Credit: Memento Placed"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 461257,
     "TagType": 26,
     "Names": [
@@ -2159,6 +2411,27 @@
       "静电遮蔽"
     ],
     "Media": "inv_misc_stormlordsfavor.jpg"
+  },
+  {
+    "TagId": 461259,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)",
+      "Summon Boats (DNT)"
+    ],
+    "Media": "spell_arcane_teleportdalarancrater.jpg"
   },
   {
     "TagId": 461260,
@@ -2642,6 +2915,69 @@
       "金香蕉"
     ],
     "Media": "inv_misc_food_24.jpg"
+  },
+  {
+    "TagId": 461331,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)",
+      "Start Conversation: Khadgar and Jaina Summon Boats (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 461332,
+    "TagType": 26,
+    "Names": [
+      null,
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items",
+      "(DNT) Kill Credit: Player Picked Items"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 461334,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]",
+      "Play Scene [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 461340,
@@ -3610,6 +3946,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 461425,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Activating",
+      "Activación",
+      "Ativando",
+      "Activating",
+      "Activando",
+      "Activation",
+      "Активация",
+      "Aktivieren",
+      "Ativando",
+      "Attivazione",
+      "활성화",
+      "啟動",
+      "激活"
+    ],
+    "Media": "achievement_reputation_kirintor.jpg"
+  },
+  {
     "TagId": 461427,
     "TagType": 26,
     "Names": [
@@ -3713,6 +4070,27 @@
       "永恒之火"
     ],
     "Media": "inv_torch_thrown.jpg"
+  },
+  {
+    "TagId": 461435,
+    "TagType": 26,
+    "Names": [
+      null,
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit",
+      "(DNT) Items Placed Kill Credit"
+    ],
+    "Media": "inv_potiond_5.jpg"
   },
   {
     "TagId": 461436,
@@ -5219,7 +5597,7 @@
       "Saudações",
       "Saluti",
       "인사",
-      "你好。",
+      "你好",
       "问候"
     ],
     "Media": "achievement_reputation_03.jpg"
@@ -6121,6 +6499,48 @@
     "Media": "inv_minespider2_steel.jpg"
   },
   {
+    "TagId": 461703,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nature Healing",
+      "Sanación natural",
+      "Cura da Natureza",
+      "Nature Healing",
+      "Sanación de Naturaleza",
+      "Soin naturel",
+      "Природное исцеление",
+      "Naturheilung",
+      "Cura da Natureza",
+      "Guarigione Naturale",
+      "자연의 치유",
+      "自然治療",
+      "自然治疗"
+    ],
+    "Media": "spell_nature_healingtouch.jpg"
+  },
+  {
+    "TagId": 461705,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fixate",
+      "Fijación",
+      "Fixar",
+      "Fixate",
+      "Fijar",
+      "Fixation",
+      "Сосредоточение внимания",
+      "Fixieren",
+      "Fixar",
+      "Ossessione",
+      "시선 고정",
+      "鎖定",
+      "锁定"
+    ],
+    "Media": "spell_shadow_charm.jpg"
+  },
+  {
     "TagId": 461726,
     "TagType": 26,
     "Names": [
@@ -6707,6 +7127,27 @@
       "进食饮水"
     ],
     "Media": "inv_misc_fork&knife.jpg"
+  },
+  {
+    "TagId": 461816,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sending Signals",
+      "Enviando señales",
+      "Enviando Sinais",
+      "Sending Signals",
+      "Enviando señales",
+      "Envoi de signaux",
+      "Посылание сигналов",
+      "Signale senden",
+      "Enviando Sinais",
+      "Invio Segnali",
+      "신호 보내기",
+      "發送訊號",
+      "发出信号"
+    ],
+    "Media": "spell_nature_starfall.jpg"
   },
   {
     "TagId": 461817,
@@ -7547,6 +7988,27 @@
       "萨拉塔斯的交易"
     ],
     "Media": "inv_cosmicvoid_buff.jpg"
+  },
+  {
+    "TagId": 461871,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze",
+      "[DNT] Summon Ooze"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 461872,

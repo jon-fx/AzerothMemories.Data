@@ -5,7 +5,7 @@
     "Names": [
       null,
       "Ensemble: Earthen Adventurer's Copper Drapery",
-      "Conjunto: Ropaje de cobre de aventurero terráneo",
+      "Conjunto: Mantón de cobre de aventurero terráneo",
       "Indumentária: Drapeado de Cobre do Aventureiro Terrano",
       "Ensemble: Earthen Adventurer's Copper Drapery",
       "Indumentaria: Pliegues de cobre de aventurero terráneo",
@@ -131,7 +131,7 @@
     "Names": [
       null,
       "Plunderlord's Radiant Drapery",
-      "Ropaje radiante de amo del saqueo",
+      "Mantón radiante de amo del saqueo",
       "Drapeado Radiante do Senhor da Pilhagem",
       "Plunderlord's Radiant Drapery",
       "Pliegues radiantes de Adalid del Botín",
@@ -152,7 +152,7 @@
     "Names": [
       null,
       "Plunderlord's Radiant Muckscrapers",
-      "Trotafangos radiante de amo del saqueo",
+      "Trotafangos radiantes de amo del saqueo",
       "Raspadores de Lama Radiantes do Senhor da Pilhagem",
       "Plunderlord's Radiant Muckscrapers",
       "Rasgamugres radiantes de Adalid del Botín",
@@ -2499,6 +2499,27 @@
     "Media": "inv_cask_04.jpg"
   },
   {
+    "TagId": 226133,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_vehicle_siegeenginecannon.jpg"
+  },
+  {
     "TagId": 226134,
     "TagType": 21,
     "Names": [
@@ -3672,7 +3693,7 @@
       "機械看守者外袍",
       "主机守护者的战袍"
     ],
-    "Media": "inv_tabard_pvp_10season3_d_01.jpg"
+    "Media": "inv_armor_earthenisle_c_01_tabard.jpg"
   },
   {
     "TagId": 226221,
@@ -3975,13 +3996,13 @@
       null,
       "Shredded Green Hills of Stranglethorn",
       "Las verdes colinas de Tuercespina destrozado",
-      "\"\"\"Grande Espinhaço: Veredas\"\" Todo Picotado\"",
+      "Grande Espinhaço: Veredas Todo Picotado",
       "Shredded Green Hills of Stranglethorn",
       "Las verdes colinas de Tuercespina desgarrado",
       "Les vertes collines de Strangleronce déchiquetées",
-      "\"Разорванные \"\"Зеленые холмы Тернистой долины\"\"\"",
+      "Разорванные \"Зеленые холмы Тернистой долины\"",
       "Zerschreddertes Exemplar von Die Grünen Hügel des Schlingendorntals",
-      "\"\"\"Grande Espinhaço: Veredas\"\" Todo Picotado\"",
+      "Grande Espinhaço: Veredas Todo Picotado",
       "Verdi Colline di Rovotorto Strappate",
       "찢어진 가시덤불 골짜기의 푸른 언덕",
       "撕碎的荊棘谷的青山",
@@ -4135,6 +4156,27 @@
       "地下堡行者的金币袋"
     ],
     "Media": "inv_misc_coinbag10.jpg"
+  },
+  {
+    "TagId": 226261,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_gizmo_goblingtonkcontroller.jpg"
   },
   {
     "TagId": 226262,
@@ -6342,6 +6384,27 @@
     "Media": "reliquarybag_icon.jpg"
   },
   {
+    "TagId": 226377,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mining Journal - Page 1",
+      "Diario de minería - Página 1",
+      "Diário de Mineração - Página 1",
+      "Mining Journal - Page 1",
+      "Diario de minería. Pág. 1",
+      "Journal de mine – Page\u00A01",
+      "Страница шахтерского журнала 1",
+      "Bergbautagebuch - Seite 1",
+      "Diário de Mineração - Página 1",
+      "Diario d'Estrazione - Pagina 1",
+      "잃어버린 일지 - 1쪽",
+      "採礦日誌 - 第1頁",
+      "采矿日志 - 第1页"
+    ],
+    "Media": "inv_misc_note_06.jpg"
+  },
+  {
     "TagId": 226378,
     "TagType": 21,
     "Names": [
@@ -6472,10 +6535,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Battle-tested Warhammer",
+      "Battle-Tested Warhammer",
       "Martillo de guerra probado en batalla",
       "Martelo de Guerra Testado em Batalha",
-      "Battle-tested Warhammer",
+      "Battle-Tested Warhammer",
       "Martillo de guerra probado en batalla",
       "Marteau de guerre éprouvé",
       "Испытанный в бою боевой молот",
@@ -6493,10 +6556,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Battle-tested Obsidian Warhammer",
+      "Battle-Tested Obsidian Warhammer",
       "Martillo de guerra de obsidiana probado en batalla",
       "Martelo de Guerra de Obsidiana Testado em Batalha",
-      "Battle-tested Obsidian Warhammer",
+      "Battle-Tested Obsidian Warhammer",
       "Martillo de guerra de obsidiana probado en batalla",
       "Marteau de guerre d’obsidienne éprouvé",
       "Испытанный в бою обсидиановый боевой молот",
@@ -7858,15 +7921,15 @@
     "TagType": 21,
     "Names": [
       null,
-      "Reinforced-Wax Plating",
+      "Reinforced Wax Plating",
       "Blindaje de cera reforzada",
-      "Revestimento de Cera Reforçada",
-      "Reinforced-Wax Plating",
+      "Revestimento de Cera Reforçado",
+      "Reinforced Wax Plating",
       "Blindaje de cera reforzado",
       "Blindage en cire renforcée",
       "Защита из укрепленного воска",
       "Verstärkte Wachspanzerung",
-      "Revestimento de Cera Reforçada",
+      "Revestimento de Cera Reforçado",
       "Rivestimento di Cera Rinforzato",
       "강화 밀랍 장갑판",
       "強化蠟板",
@@ -8377,5 +8440,26 @@
       "一箱黄金"
     ],
     "Media": "ability_racial_packhobgoblin.jpg"
+  },
+  {
+    "TagId": 226853,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ore Sample",
+      "Muestra de mena",
+      "Amostra de Minério",
+      "Ore Sample",
+      "Muestra de menas",
+      "Échantillon de minerai",
+      "Образец руды",
+      "Erzprobe",
+      "Amostra de Minério",
+      "Campione di Minerale",
+      "광석 표본",
+      "礦石樣本",
+      "矿石样品"
+    ],
+    "Media": "inv_ore_iron_nugget.jpg"
   }
 ]

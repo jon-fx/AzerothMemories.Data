@@ -2902,6 +2902,27 @@
     "TagType": 21,
     "Names": [
       null,
+      "Earthen Expedition Tabard",
+      "Tabardo de expedición terránea",
+      "Tabardo da Expedição Terrana",
+      "Earthen Expedition Tabard",
+      "Tabardo de expedición terránea",
+      "Tabard de l’expédition terrestre",
+      "Гербовая накидка экспедиции земельников",
+      "Expeditionswappenrock der Irdenen",
+      "Tabardo da Expedição Terrana",
+      "Insegna della Spedizione dei Terrigeni",
+      "토석인 원정대 휘장",
+      "土靈遠征隊外袍",
+      "土灵远征队战袍"
+    ],
+    "Media": "inv_tabard_earthen.jpg"
+  },
+  {
+    "TagId": 224169,
+    "TagType": 21,
+    "Names": [
+      null,
       "Stonebound Tabard",
       "Tabardo lazopétreo",
       "Tabardo Vinculado à Pedra",
@@ -2915,27 +2936,6 @@
       "돌매듭 휘장",
       "石縛外袍",
       "石缚战袍"
-    ],
-    "Media": "inv_tabard_earthen.jpg"
-  },
-  {
-    "TagId": 224169,
-    "TagType": 21,
-    "Names": [
-      null,
-      "Freywold Tabard",
-      "Tabardo de Bosques de Freya",
-      "Tabardo de Freyalenha",
-      "Freywold Tabard",
-      "Tabardo del Foldefrey",
-      "Tabard de Landefrey",
-      "Фрейвольдская гербовая накидка",
-      "Wappenrock aus Freyholtz",
-      "Tabardo de Freyalenha",
-      "Insegna di Borgo Frey",
-      "풍요산지 휘장",
-      "芙林外袍",
-      "芙原战袍"
     ],
     "Media": "inv_tabard_earthen.jpg"
   },
@@ -3417,7 +3417,7 @@
       "Assolador de Treino",
       "Devastatore d'Allenamento",
       "연습용 쇠날발톱",
-      "練習劫毀者",
+      "練習劫毀旋刃",
       "练习破坏者"
     ],
     "Media": "inv_weapon_halberd_05.jpg"
@@ -4063,10 +4063,10 @@
       "Earthen Waistcoat",
       "Chaleco terráneo",
       "Gilet terrestre",
-      "Камзол земельника",
-      "Wams der Irdenen",
+      "Юбка-плед земельника",
+      "Hüftdecke  der Irdenen",
       "Sobrepernas Terranas",
-      "Panciotto dei Terrigeni",
+      "Gonnellino dei Terrigeni",
       "토석인 허리외투",
       "土靈馬甲",
       "土灵马甲"
@@ -4681,6 +4681,27 @@
       "坚固的项坠"
     ],
     "Media": "inv_jewelry_necklace_39.jpg"
+  },
+  {
+    "TagId": 224258,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower",
+      "[DNT] Flower"
+    ],
+    "Media": "inv_misc_herb_fireweed.jpg"
   },
   {
     "TagId": 224259,
@@ -7277,7 +7298,7 @@
       "Niebla",
       "Misty",
       "Туманчик",
-      "Misty",
+      "Nebli",
       "Fumaça",
       "Nebby",
       "안개냥이",
@@ -10714,14 +10735,14 @@
     "TagType": 21,
     "Names": [
       null,
-      "Erosion Polished Slate",
+      "Erosion-Polished Slate",
       "Pizarra pulida de erosión",
       "Ardósia Polida pela Erosão",
-      "Erosion Polished Slate",
+      "Erosion-Polished Slate",
       "Pizarra pulida por la erosión",
       "Ardoise polie par l’érosion",
       "Отполированная эрозией табличка",
-      "Von Erosion polierte Steintafel",
+      "Erosionspolierte Steintafel",
       "Ardósia Polida pela Erosão",
       "Ardesia Lucidata dall'Erosione",
       "침식 광택 판암",
@@ -10905,13 +10926,13 @@
       null,
       "Spinner's Circlet",
       "Diadema de tejedor",
-      "Diadema da Tecelã",
+      "Aro da Tecelã",
       "Spinner's Circlet",
       "Círculo de hilador",
       "Diadème de tisseuse",
       "Кольцо прядильщика",
       "Spinnerreif",
-      "Diadema da Tecelã",
+      "Aro da Tecelã",
       "Anellino della Filatrice",
       "타래꾼의 관",
       "紡織者頭環",
@@ -13918,7 +13939,7 @@
       "Mantello del Gran Taglialegna",
       "작업 감독관의 어깨덧옷",
       "木材管理員披肩",
-      "伐木大师的斗篷"
+      "伐木大师的衬肩"
     ],
     "Media": "inv_shoulder_07.jpg"
   },
@@ -14254,7 +14275,7 @@
       "Guanti Paralame dei Defias",
       "데피아즈단 칼날보호대",
       "迪菲亞刀衛",
-      "迪菲亚防割手甲"
+      "迪菲亚防割护腕"
     ],
     "Media": "inv_bracer_28.jpg"
   },

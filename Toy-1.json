@@ -6752,14 +6752,14 @@
       "Caja de cosas pateables",
       "Boîte de jouets à lancer",
       "Пни-коробка",
-      "Kiste des Ver-Tretbaren",
+      "Kiste des Ver-tretbaren",
       "Caixa de Chutáveis",
       "Scatola di Lanciabili",
       "발로차 상자",
       "踹踹之盒",
       "一箱可踢物"
     ],
-    "Media": "inv_misc_gift_01.jpg"
+    "Media": "inv_holiday_christmas_present_01.jpg"
   },
   {
     "TagId": 1475,
@@ -6903,7 +6903,7 @@
       "Assolador de Treino",
       "Devastatore d'Allenamento",
       "연습용 쇠날발톱",
-      "練習劫毀者",
+      "練習劫毀旋刃",
       "练习破坏者"
     ],
     "Media": "inv_weapon_halberd_05.jpg"
@@ -7028,7 +7028,7 @@
       "Steingebundene Laterne",
       "Lanterna Pétrea",
       "Lanterna Legapietra",
-      "바위속박 등불",
+      "돌매듭 등불",
       "石縛燈籠",
       "石缚提灯"
     ],
@@ -7212,7 +7212,7 @@
       "Deleite de Píleo",
       "Pileus Delight",
       "Delicia de píleo",
-      "Délice de poils",
+      "Régal fongueux",
       "Чудесная шляпка",
       "Pileus-Freude",
       "Deleite de Píleo",
@@ -7747,5 +7747,152 @@
       "恶名丝线炉石"
     ],
     "Media": "ui_majorfactions_web.jpg"
+  },
+  {
+    "TagId": 1533,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Winter Veil Cracker",
+      "Sorpresa de Festival de Invierno",
+      "Surpresa de Véu de Inverno",
+      "Winter Veil Cracker",
+      "Galleta del Festival de Invierno",
+      "Papillote du Voile d’hiver",
+      "Хлопушка Зимнего Покрова",
+      "Winterhauchknallbonbon",
+      "Surpresa de Véu de Inverno",
+      "Tubo di Grande Inverno",
+      "겨울맞이 축제 따닥이",
+      "冬幕節拉炮",
+      "冬幕节爆竹"
+    ],
+    "Media": "inv_11xp_holiday_xmascracker01.jpg"
+  },
+  {
+    "TagId": 1537,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Cyrce's Circlet",
+      "Sortija de Cyrce",
+      "Aro de Circe",
+      "Cyrce's Circlet",
+      "Aro de Cyrce",
+      "Diadème de Cyrcé",
+      "Перстень Цирци",
+      "Cyrces Reif",
+      "Aro de Circe",
+      "Cerchio di Cyrce",
+      "키르케의 반지",
+      "賽斯的飾環",
+      "喀耳刻的指环"
+    ],
+    "Media": "inv_siren_isle_ring.jpg"
+  },
+  {
+    "TagId": 1538,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Glittering Vault Shard",
+      "Fragmento de bóveda brillante",
+      "Estilhaço da Câmara Cintilante",
+      "Glittering Vault Shard",
+      "Fragmento de cámara relumbrante",
+      "Éclat du caveau scintillant",
+      "Блестящий осколок из хранилища",
+      "Glitzernder Kammersplitter",
+      "Estilhaço da Câmara Cintilante",
+      "Scheggia della Cripta Splendente",
+      "반짝이는 금고 조각",
+      "微光寶庫裂片",
+      "闪耀的宝库碎片"
+    ],
+    "Media": "inv_10_all_memorycrystal_color2.jpg"
+  },
+  {
+    "TagId": 1539,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Hallowfall Supply Cache",
+      "Alijo de suministros de Cristalia",
+      "Baú de Suprimentos de Pouso Santo",
+      "Hallowfall Supply Cache",
+      "Alijo de suministros de Santificación",
+      "Cache de fournitures de Sainte-Chute",
+      "Сундук с припасами Тайносводья",
+      "Vorratskiste von Heilsturz",
+      "Baú de Suprimentos de Pouso Santo",
+      "Cassa di Rifornimenti dei Precipizi Sacri",
+      "신성한 협곡 보급품 상자",
+      "聖落之地補給箱",
+      "陨圣峪补给箱"
+    ],
+    "Media": "inv_bfa_paragoncache_orderofembers.jpg"
+  },
+  {
+    "TagId": 1541,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Awakened Supply Crate",
+      "Cajón de suministros despierto",
+      "Caixote de Suprimentos Desperto",
+      "Awakened Supply Crate",
+      "Cajón de suministros despertados",
+      "Caisse de fournitures éveillée",
+      "Ящик с припасами пробудившихся",
+      "Erweckte Vorratskiste",
+      "Caixote de Suprimentos Desperto",
+      "Cassa di Rifornimenti Risvegliati",
+      "깨어난 보급품 상자",
+      "覺醒補給木箱",
+      "觉醒补给箱"
+    ],
+    "Media": "inv_legion_cache_hightmountaintribes.jpg"
+  },
+  {
+    "TagId": 1543,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Soweezi's Comfy Lawn Chair",
+      "Silla de patio cómoda de Soweezi",
+      "Cadeira de Jardim Confortável de Facin",
+      "Soweezi's Comfy Lawn Chair",
+      "Silla de jardín cómoda de Soweezi",
+      "Chaise longue confortable de Soweezi",
+      "Уютное садовое кресло Спокса",
+      "Gemütlicher Gartenstuhl von Sowiezi",
+      "Cadeira de Jardim Confortável de Facin",
+      "Sdraio Comoda di Soweezi",
+      "소위지의 안락한 마당 의자",
+      "索威金的舒適草坪椅",
+      "索伊兹的舒适草坪椅"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 1545,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Redeployment Module",
+      "Módulo de reubicación",
+      "Módulo de Realocamento",
+      "Redeployment Module",
+      "Módulo de redespliegue",
+      "Module de redéploiement",
+      "Модуль передислокации",
+      "Umverlegungsmodul",
+      "Módulo de Realocamento",
+      "Modulo di Rischieramento",
+      "재배치 모듈",
+      "再部署模組",
+      "重部署模块"
+    ],
+    "Media": "inv_10_blacksmithing_craftedoptional_engineering_uprez.jpg"
   }
 ]

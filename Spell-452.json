@@ -2107,7 +2107,7 @@
       "Marcador de Caminhada Temporal de Classic",
       "Classic Timewalking Marker",
       "Marcador de Paseo en el tiempo de Classic",
-      "Marqueur des Marcheurs du temps de Classic",
+      "Marqueur des Marcheurs du temps (Classic)",
       "Метка путешествия во времени классической эпохи",
       "Classic: Zeitwanderungsmarkierung",
       "Marcador de Caminhada Temporal de Classic",
@@ -3650,6 +3650,26 @@
       "魔网视界"
     ],
     "Media": "inv_enchant_essencecosmiclesser.jpg"
+  },
+  {
+    "TagId": 452188,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Present Pandemonium",
+      "Pandemonio de regalos",
+      "Pandemônio Presente",
+      "Present Pandemonium",
+      "Pandemonio presente",
+      "Pandémonium des cadeaux",
+      "Подарочный переполох",
+      "Geschenkgetümmel",
+      "Pandemônio Presente",
+      "Pandemonio di Regali",
+      "대혼돈의 선물",
+      "禮物大混亂",
+      "礼物骚动"
+    ]
   },
   {
     "TagId": 452189,
@@ -9100,7 +9120,7 @@
       "Pompas",
       "Bulles",
       "Пузырьки",
-      "Blubbi",
+      "Blasen",
       "Bolhas",
       "Bolle",
       "방울이",
@@ -9675,6 +9695,27 @@
       "践踏"
     ],
     "Media": "spell_nature_natureswrath.jpg"
+  },
+  {
+    "TagId": 452517,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died",
+      "[DNT] Greench Died"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 452518,
@@ -13256,7 +13297,7 @@
       "Niebla",
       "Misty",
       "Туманчик",
-      "Misty",
+      "Nebli",
       "Fumaça",
       "Nebby",
       "안개냥이",
@@ -13264,6 +13305,48 @@
       "小雾"
     ],
     "Media": "ability_hunter_pet_gorilla.jpg"
+  },
+  {
+    "TagId": 452707,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cano Ball",
+      "Pelota de Cano",
+      "Bala do Kano",
+      "Cano Ball",
+      "Bala de Cano",
+      "Boulet de Cano",
+      "Ядро Кано",
+      "Canos Kugel",
+      "Bala do Kano",
+      "Palla di Cano",
+      "펑펑 포탄",
+      "凱諾砲彈",
+      "小炮弹"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 452708,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cano Ball",
+      "Pelota de Cano",
+      "Bala do Kano",
+      "Cano Ball",
+      "Bala de Cano",
+      "Boulet de Cano",
+      "Ядро Кано",
+      "Canos Kugel",
+      "Bala do Kano",
+      "Palla di Cano",
+      "펑펑 포탄",
+      "凱諾砲彈",
+      "小炮弹"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 452709,
@@ -13329,6 +13412,48 @@
     "Media": "inv_jewelcrafting_azureboar.jpg"
   },
   {
+    "TagId": 452712,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flamey Blast",
+      "Explosión de Llamín",
+      "Bomba do Foguim",
+      "Flamey Blast",
+      "Ráfaga de Churrusquito",
+      "Explosion de Flammille",
+      "Взрыв Огневушки",
+      "Flammender Schlag",
+      "Bomba do Foguim",
+      "Detonazione della Fiammella",
+      "불타오르는 돌풍",
+      "弗萊米衝擊",
+      "喷焰冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 452713,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flamey Blast",
+      "Explosión de Llamín",
+      "Bomba do Foguim",
+      "Flamey Blast",
+      "Ráfaga de Churrusquito",
+      "Explosion de Flammille",
+      "Взрыв Огневушки",
+      "Flammender Schlag",
+      "Bomba do Foguim",
+      "Detonazione della Fiammella",
+      "불타오르는 돌풍",
+      "弗萊米衝擊",
+      "喷焰冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 452714,
     "TagType": 26,
     "Names": [
@@ -13350,6 +13475,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 452715,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Buzz Saw",
+      "Sierra circular",
+      "Serra Elétrica",
+      "Buzz Saw",
+      "Sierra zumbido",
+      "Scie circulaire",
+      "Свисторез",
+      "Kreissäge",
+      "Serra Elétrica",
+      "Sega Rotante",
+      "벌목기 톱날검",
+      "電鋸",
+      "电锯"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 452716,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Buzz Saw",
+      "Sierra circular",
+      "Serra Elétrica",
+      "Buzz Saw",
+      "Sierra zumbido",
+      "Scie circulaire",
+      "Свисторез",
+      "Kreissäge",
+      "Serra Elétrica",
+      "Sega Rotante",
+      "벌목기 톱날검",
+      "電鋸",
+      "电锯"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 452717,
     "TagType": 26,
     "Names": [
@@ -13367,6 +13534,48 @@
       "용의 안식처 - 거미줄에 감긴 성전사 시나리오 오라",
       "龍骨荒野 - 被網住的十字軍事件光環",
       "龙骨荒野 - 被网住的北伐军士兵场景战役"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 452718,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jug Jug Rocket",
+      "Cohete Jarro Malo",
+      "Foguete do Moringa",
+      "Jug Jug Rocket",
+      "Cohete de Traguito",
+      "Fusée de Plic ploc",
+      "Ракета Буль-Буля",
+      "Glug Glugs Rakete",
+      "Foguete do Moringa",
+      "Razzo Ciuf Ciuf",
+      "꿀꺽 꿀꺽 로켓",
+      "罐罐火箭",
+      "呜呜火箭"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 452719,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jug Jug Rocket",
+      "Cohete Jarro Malo",
+      "Foguete do Moringa",
+      "Jug Jug Rocket",
+      "Cohete de Traguito",
+      "Fusée de Plic ploc",
+      "Ракета Буль-Буля",
+      "Glug Glugs Rakete",
+      "Foguete do Moringa",
+      "Razzo Ciuf Ciuf",
+      "꿀꺽 꿀꺽 로켓",
+      "罐罐火箭",
+      "呜呜火箭"
     ],
     "Media": "trade_engineering.jpg"
   },

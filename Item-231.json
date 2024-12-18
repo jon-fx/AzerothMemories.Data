@@ -63,6 +63,69 @@
     "Media": "inv_mace_2h_titankeepertyr_d_01.jpg"
   },
   {
+    "TagId": 231116,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cursed Pirate Skull",
+      "Cráneo pirata maldito",
+      "Crânio de Pirata Amaldiçoado",
+      "Cursed Pirate Skull",
+      "Calavera de pirata maldito",
+      "Crâne de pirate maudit",
+      "Проклятый череп пирата",
+      "Verfluchter Piratenschädel",
+      "Crânio de Pirata Amaldiçoado",
+      "Teschio del Pirata Maledetto",
+      "저주받은 해적 해골",
+      "受詛咒的海盜顱骨",
+      "被诅咒的海盗之颅"
+    ],
+    "Media": "inv_skullsplitter.jpg"
+  },
+  {
+    "TagId": 231117,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darktide Wavebender's Orb",
+      "Orbe del dominaolas mareaoscura",
+      "Orbe do Singramares Ondanegra",
+      "Darktide Wavebender's Orb",
+      "Orbe de doblegaolas Marea Oscura",
+      "Orbe de courbevague sombreflux",
+      "Сфера заклинателя волн из клана Темного Прилива",
+      "Kugel des Nachtflutwellenbeugers",
+      "Orbe do Singramares Ondanegra",
+      "Globo del Piegaonde Foscamarea",
+      "어둠파도 파도술사의 보주",
+      "暗潮控浪師的寶珠",
+      "黑潮驱浪者的法球"
+    ],
+    "Media": "spell_nature_crystalball.jpg"
+  },
+  {
+    "TagId": 231118,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Runecaster's Stormbound Rune",
+      "Runa lazotormenta del invocarrunas",
+      "Runa Tempestuosa do Lança-runa",
+      "Runecaster's Stormbound Rune",
+      "Runa vinculada a la tormenta de taumaturgo de runas",
+      "Rune liée à la tempête de lanceur de runes",
+      "Усиленная штормом руна заклинателя",
+      "Sturmgebundene Rune des Runenmagiers",
+      "Runa Tempestuosa do Lança-runa",
+      "Runa Tempestosa del Lanciarune",
+      "룬술사의 폭풍결속 룬",
+      "符文使的颶縛符文",
+      "符文法师的雷缚符文"
+    ],
+    "Media": "spell_mage_runeofpower.jpg"
+  },
+  {
     "TagId": 231120,
     "TagType": 21,
     "Names": [
@@ -783,16 +846,16 @@
       null,
       "Reven's Comfy Carrier",
       "Transportadora cómoda de Reven",
-      "Porta-aeronaus Confortável de Reven",
+      "Mochilinha de Reven",
       "Reven's Comfy Carrier",
       "Transportador cómodo de Reven",
-      "Transporteur tout confort de Reven",
+      "Sac de transport douillet de Reven",
       "Уютная переноска Ревена",
       "Revens toller Träger",
-      "Porta-aeronaus Confortável de Reven",
+      "Mochilinha de Reven",
       "Trasportino Comodo di Reven",
       "레벤의 편안한 운반 배낭",
-      "雷文的舒適寵物籠",
+      "雷文的舒適寵物背包",
       "勒文的舒适随身包"
     ],
     "Media": "inv_cape_special_foxdetective_d_01.jpg"
@@ -1059,7 +1122,7 @@
       "Esfera Encantada",
       "Enthralled Sphere",
       "Esfera embrujada",
-      "Sphère d'ensorcellement",
+      "Sphère d’ensorcellement",
       "Порабощенная сфера",
       "Umzauberte Sphäre",
       "Esfera Encantada",
@@ -3444,6 +3507,27 @@
     "Media": "6bf_blackrock_nova.jpg"
   },
   {
+    "TagId": 231751,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_cape_special_earthen_b_01.jpg"
+  },
+  {
     "TagId": 231760,
     "TagType": 21,
     "Names": [
@@ -3591,6 +3675,69 @@
     "Media": "inv_misc_diachest01.jpg"
   },
   {
+    "TagId": 231786,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ookler's Diary",
+      "Diario de Ookler",
+      "Diário de Ookler",
+      "Ookler's Diary",
+      "Diario de miko",
+      "Journal d’Oukleur",
+      "Дневник Уклера",
+      "Tagebuch eines Fiddlers",
+      "Diário de Ookler",
+      "Diario di Ookler",
+      "우낏낏의 일기",
+      "烏克勒的日記",
+      "乌克勒的日记"
+    ],
+    "Media": "inv_misc_book_09.jpg"
+  },
+  {
+    "TagId": 231788,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Songs of the Siren",
+      "Canciones de sirena",
+      "Canções da Sirena",
+      "Songs of the Siren",
+      "Cantos de la sirena",
+      "Chants des sirènes",
+      "Песни сирены",
+      "Lieder der Sirene",
+      "Canções da Sirena",
+      "Canti della Sirena",
+      "세이렌의 노래",
+      "海妖之歌",
+      "海妖冥曲"
+    ],
+    "Media": "inv_misc_book_11.jpg"
+  },
+  {
+    "TagId": 231802,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ashvane Co. Survey Report",
+      "Peritaje de Compañía Aspafresno",
+      "Relatório de Pesquisa da Companhia Grimpagris",
+      "Ashvane Co. Survey Report",
+      "Informe de reconocimiento de la Compañía Gobernalle",
+      "Repérage de la compagnie Corsandre",
+      "Исследовательский отчет корпорации Эшвейнов",
+      "Probenbericht von Aschenwind & Co.",
+      "Relatório de Pesquisa da Companhia Grimpagris",
+      "Rapporto sul Rilevamento della Compagnia dei Bracescura",
+      "애쉬베인 무역회사 측량 보고서",
+      "艾胥凡公司勘察報告",
+      "艾什凡公司勘察报告"
+    ],
+    "Media": "inv_10_specialization_professionbook_mining_color1.jpg"
+  },
+  {
     "TagId": 231808,
     "TagType": 21,
     "Names": [
@@ -3612,6 +3759,27 @@
     "Media": "inv_misc_paperbundle02b.jpg"
   },
   {
+    "TagId": 231809,
+    "TagType": 21,
+    "Names": [
+      null,
+      "First Mate Dat-Dat's Key",
+      "Llave del contramaestre Dingue Dingue",
+      "Chave do Imediato Tantã",
+      "First Mate Dat-Dat's Key",
+      "Llave del contramaestre Dat-Dat",
+      "Clé du second Dat-Dat",
+      "Ключ первого помощника Дат-Дата",
+      "Erster Maat Dat-Dats Schlüssel",
+      "Chave do Imediato Tantã",
+      "Chiave del Primo Ufficiale Dat-Dat",
+      "일등항해사 댓댓의 열쇠",
+      "大副達達的鑰匙",
+      "大副达特达特的钥匙"
+    ],
+    "Media": "inv_misc_key_11.jpg"
+  },
+  {
     "TagId": 231810,
     "TagType": 21,
     "Names": [
@@ -3631,6 +3799,48 @@
       null
     ],
     "Media": "inv_misc_notefolded1a.jpg"
+  },
+  {
+    "TagId": 231812,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hozen Poetry",
+      "Poesía hozen",
+      "Poesia Hozen",
+      "Hozen Poetry",
+      "Poesía hozen",
+      "Poésie hozen",
+      "Хозенские стихи",
+      "Poesie der Ho-zen",
+      "Poesia Hozen",
+      "Poesie degli Hozen",
+      "호젠 시",
+      "猴人詩歌",
+      "猢狲诗歌"
+    ],
+    "Media": "inv_misc_book_07.jpg"
+  },
+  {
+    "TagId": 231813,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Siren Isle Manifest",
+      "Manifiesto de la Isla de las Sirenas",
+      "Ilha das Sirenas Manifesta",
+      "Siren Isle Manifest",
+      "Manifiesto de la Isla de la Sirena",
+      "Manifeste de l’île aux Sirènes",
+      "Манифест острова Сирен",
+      "Manifest der Sireneninsel",
+      "Ilha das Sirenas Manifesta",
+      "Manifesto dell'Isola delle Sirene",
+      "세이렌의 섬 목록",
+      "海妖島貨物清單",
+      "海妖岛舱单"
+    ],
+    "Media": "inv_misc_book_07.jpg"
   },
   {
     "TagId": 231818,
@@ -3862,6 +4072,27 @@
       "青铜庆典头衔：卡拉赞毕业"
     ],
     "Media": "inv_misc_notescript2b.jpg"
+  },
+  {
+    "TagId": 231838,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_1h_torchbearersflame_b_01_blue.jpg"
   },
   {
     "TagId": 231839,

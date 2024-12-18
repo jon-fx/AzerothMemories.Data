@@ -604,18 +604,18 @@
     "TagType": 28,
     "Names": [
       null,
-      "You Shouldn't Touch That",
-      "No tocar",
-      "Melhor não tocar nisso",
-      "You Shouldn't Touch That",
-      "Mejor que no toques eso",
-      "Vous ne devriez pas toucher ça",
+      "Maybe You Shouldn't Touch That",
+      "No es buena idea tocar eso",
+      "Talvez seja melhor não tocar nisso",
+      "Maybe You Shouldn't Touch That",
+      "Quizá sería mejor que no toques eso",
+      "Vous ne devriez peut-être pas toucher ça",
       "Не стоило его трогать",
-      "Fasst das lieber nicht an",
-      "Melhor não tocar nisso",
-      "Non andrebbe toccata",
-      "촉수금지",
-      "你不該碰那個的",
+      "Lieber nicht anfassen",
+      "Talvez seja melhor não tocar nisso",
+      "Guardare ma non toccare",
+      "아무 물건이나 손대면 안 되는 법",
+      "也許你不該碰那個",
       "最好别碰"
     ]
   },
@@ -740,6 +740,46 @@
     ]
   },
   {
+    "TagId": 83762,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Critical Mass",
+      "Masa crítica",
+      "Massa Crítica",
+      "Critical Mass",
+      "Masa crítica",
+      "Masse critique",
+      "Критическая масса",
+      "Kritische Masse",
+      "Massa Crítica",
+      "Massa Critica",
+      "임계 질량",
+      "臨界質量",
+      "临界质量"
+    ]
+  },
+  {
+    "TagId": 83764,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Too Powerful, Too Dangerous",
+      "Un gran poder conlleva un gran peligro",
+      "Poderosos e perigosos demais",
+      "Too Powerful, Too Dangerous",
+      "Demasiado poderosos y demasiado peligrosos",
+      "Trop puissants, trop dangereux",
+      "Могучие и опасные",
+      "Zu mächtig, zu gefährlich",
+      "Poderosos e perigosos demais",
+      "Troppo potenti, troppo pericolosi",
+      "너무나 강하기에 위험한",
+      "太過強大，太過危險",
+      "强大即危险"
+    ]
+  },
+  {
     "TagId": 83775,
     "TagType": 28,
     "Names": [
@@ -817,6 +857,26 @@
       "UI 시험용: 목표 3개, 평행",
       "UI測試：3個平行目標",
       "UI测试：3个平行目标"
+    ]
+  },
+  {
+    "TagId": 83827,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Silence the Song",
+      "Canción acallada",
+      "Canto silenciado",
+      "Silence the Song",
+      "Silenciar el canto",
+      "Faire taire le chant",
+      "Конец песням",
+      "Bringt das Lied zum Schweigen",
+      "Canto silenciado",
+      "Zittire il canto",
+      "노래의 침묵",
+      "停止歌聲",
+      "静默冥曲"
     ]
   },
   {

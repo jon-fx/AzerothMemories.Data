@@ -2954,7 +2954,7 @@
       "Hungerhaken",
       "Magriço",
       "Secco",
-      "가느다란 눈썹",
+      "호리호리",
       "細細",
       "滑鳗"
     ],
@@ -3833,7 +3833,7 @@
       "Niebla",
       "Misty",
       "Туманчик",
-      "Misty",
+      "Nebli",
       "Fumaça",
       "Nebby",
       "안개냥이",
@@ -4116,6 +4116,27 @@
     "Media": "inv_pet_futurebotpet_purple.jpg"
   },
   {
+    "TagId": 4628,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Tidal Kroling",
+      "Krolusio mareal",
+      "Crolino da Maré",
+      "Tidal Kroling",
+      "Crolisquito de la marea",
+      "Kroling des marées",
+      "Приливный кролинг",
+      "Gezeitenkroling",
+      "Crolino da Maré",
+      "Kroling Mareale",
+      "새끼 해일 크롤러스크",
+      "潮汐葉殼幼蟲",
+      "潮汐三叶虫幼崽"
+    ],
+    "Media": "inv_trilobitemount_green.jpg"
+  },
+  {
     "TagId": 4629,
     "TagType": 23,
     "Names": [
@@ -4142,7 +4163,7 @@
     "Names": [
       null,
       "Gill'el",
-      "Bran'kial",
+      "Branq'el",
       "Guelr'el",
       "Gill'el",
       "Gill'el",
@@ -4282,5 +4303,509 @@
       "卡拉赞虹吸者"
     ],
     "Media": "inv_elemental_mote_mana.jpg"
+  },
+  {
+    "TagId": 4690,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Разеши Б.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "Razeshi B.",
+      "라제쉬 B",
+      "拉澤許B.",
+      "拉泽什·B"
+    ],
+    "Media": "inv_babynaga2_purple.jpg"
+  },
+  {
+    "TagId": 4691,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Grunch",
+      "Grunch",
+      "Gruncho",
+      "Grunch",
+      "Grunch",
+      "Grac",
+      "Грюнч",
+      "Knirschi",
+      "Gruncho",
+      "Grunch",
+      "그런치",
+      "格蘭奇",
+      "格伦奇"
+    ],
+    "Media": "6027035.jpg"
+  },
+  {
+    "TagId": 4692,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Sparklesnap",
+      "Fulgurejo",
+      "Estalachispa",
+      "Sparklesnap",
+      "Crujechispa",
+      "Brisbrille",
+      "Клешнеблеск",
+      "Funkelknack",
+      "Estalachispa",
+      "Brillachela",
+      "반짝집게발",
+      "爍喀",
+      "闪钳"
+    ],
+    "Media": "inv_treasurecrabpet_blue.jpg"
+  },
+  {
+    "TagId": 4694,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Portentous Present",
+      "Regalo portentoso",
+      "Presente Portentoso",
+      "Portentous Present",
+      "Regalo portentoso",
+      "Cadeau annonciateur",
+      "Знаменательный подарок",
+      "Gewagtes Geschenk",
+      "Presente Portentoso",
+      "Regalo Portentoso",
+      "경악스러운 선물",
+      "不祥的禮物",
+      "不祥的礼物"
+    ],
+    "Media": "inv_holiday_christmas_present_01.jpg"
+  },
+  {
+    "TagId": 4695,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Parley",
+      "Parloro",
+      "Parolo",
+      "Parley",
+      "Tregua",
+      "Parley",
+      "Парламентер",
+      "Plauderschnabel",
+      "Parolo",
+      "Parlagallo",
+      "말로하새",
+      "帕利",
+      "判判"
+    ],
+    "Media": "inv_parrotmount_purple.jpg"
+  },
+  {
+    "TagId": 4702,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Rusty Kroling",
+      "Krolusio oxidado",
+      "Crolino Enferrujado",
+      "Rusty Kroling",
+      "Crolisquito oxidado",
+      "Kroling rouillé",
+      "Ржавый кролинг",
+      "Rostkroling",
+      "Crolino Enferrujado",
+      "Kroling Rugginoso",
+      "녹슨 새끼 크롤러스크",
+      "鏽蝕葉殼幼蟲",
+      "锈蚀三叶虫幼崽"
+    ],
+    "Media": "inv_trilobitemount_red.jpg"
+  },
+  {
+    "TagId": 4703,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Cave Kroling",
+      "Krolusio de cueva",
+      "Crolino da Caverna",
+      "Cave Kroling",
+      "Crolisquito de las cuevas",
+      "Kroling cavernicole",
+      "Пещерный кролинг",
+      "Höhlenkroling",
+      "Crolino da Caverna",
+      "Kroling di Caverna",
+      "새끼 동굴 크롤러스크",
+      "洞穴葉殼幼蟲",
+      "洞穴三叶虫幼崽"
+    ],
+    "Media": "inv_trilobitemount_sandy.jpg"
+  },
+  {
+    "TagId": 4704,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Living Rose",
+      "Rosa viva",
+      "Rosa Viva",
+      "Living Rose",
+      "Rosa viviente",
+      "Rose vivante",
+      "Живая роза",
+      "Lebende Rose",
+      "Rosa Viva",
+      "Rosa Vivente",
+      "살아있는 장미",
+      "鮮活玫瑰",
+      "活体玫瑰"
+    ],
+    "Media": "inv_rosepet.jpg"
+  },
+  {
+    "TagId": 4708,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Marmaduke",
+      "Reinaldo",
+      "Marmaduque",
+      "Marmaduke",
+      "Marmaduke",
+      "Marmaduke",
+      "Мармадьюк",
+      "Marmaduke",
+      "Marmaduque",
+      "Sansone",
+      "마르마듀크",
+      "馬馬杜",
+      "马玛公爵"
+    ],
+    "Media": "inv_arfuspet_brown.jpg"
+  },
+  {
+    "TagId": 4709,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Rock Hound Mica",
+      "Sabueso de roca Mica",
+      "Canaz Rochoso Mica",
+      "Rock Hound Mica",
+      "Can pétreo Mica",
+      "Flairepierre Mica",
+      "Скальная гончая Мика",
+      "Felsenhund Mica",
+      "Canaz Rochoso Mica",
+      "Segugio delle Rocce Mica",
+      "바위사냥개 미카",
+      "岩石獵犬米卡",
+      "岩石猎犬米卡"
+    ],
+    "Media": "inv_arfuspet_classic.jpg"
+  },
+  {
+    "TagId": 4710,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Pillaged Parrot",
+      "Loro saqueado",
+      "Papagaio Saqueado",
+      "Pillaged Parrot",
+      "Loro saqueado",
+      "Perroquet pillé",
+      "Похищенный попугай",
+      "Geplünderter Papagei",
+      "Papagaio Saqueado",
+      "Pappagallo Saccheggiato",
+      "약탈당한 앵무새",
+      "掠奪的鸚鵡",
+      "劫走的鹦鹉"
+    ],
+    "Media": "inv_parrotmount_red.jpg"
+  },
+  {
+    "TagId": 4711,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Snapdragon Pup",
+      "Cría de boca de dragón",
+      "Filhote de Dracolisco",
+      "Snapdragon Pup",
+      "Cachorro de bocadragón",
+      "Jeune mordragon",
+      "Детеныш морского варана",
+      "Schnappdrachenjunges",
+      "Filhote de Dracolisco",
+      "Cucciolo di Drago Carnivoro",
+      "새끼 치악룡",
+      "嚙龍寶寶",
+      "毒鳍龙幼崽"
+    ],
+    "Media": "inv_snapdragonmount02.jpg"
+  },
+  {
+    "TagId": 4718,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Wind-Up Wuffi",
+      "Guau-guau a cuerda",
+      "Doguinho de Corda",
+      "Wind-Up Wuffi",
+      "Ladriditos de cuerda",
+      "Wouffi mécanique",
+      "Заводной гафтяфер",
+      "Aufziehwauwau",
+      "Doguinho de Corda",
+      "Fuffi a Carica Manuale",
+      "태엽 우피",
+      "發條烏菲",
+      "发条沃吠"
+    ],
+    "Media": "inv_clockworkbeagle_gold.jpg"
+  },
+  {
+    "TagId": 4719,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Wind-Up Woofer",
+      "Ladrador a cuerda",
+      "Auau de Corda",
+      "Wind-Up Woofer",
+      "Ladrador de cuerda",
+      "Aboyeur mécanique",
+      "Заводной тяфгафер",
+      "Aufziehbello",
+      "Auau de Corda",
+      "Bauffo a Carica Manuale",
+      "태엽 우퍼",
+      "發條伍弗",
+      "发条汪夫"
+    ],
+    "Media": "inv_clockworkbeagle_gold.jpg"
+  },
+  {
+    "TagId": 4723,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Cliffreach Cub",
+      "Cachorro linderrisco",
+      "Filhote de Penhalonga",
+      "Cliffreach Cub",
+      "Cría tramorrisco",
+      "Jeune escarpeur",
+      "Детеныш с высоких утесов",
+      "Klippenspannerjunges",
+      "Filhote de Penhalonga",
+      "Cucciolo di Cercarupi",
+      "새끼 너른절벽 와이번",
+      "崖緣蠍尾幼獅",
+      "崖际幼崽"
+    ],
+    "Media": "ability_mount_tawnywindrider.jpg"
+  },
+  {
+    "TagId": 4724,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Battleboar Piglet",
+      "Cochinillo jabaguerrero",
+      "Porquinho Javaliço",
+      "Battleboar Piglet",
+      "Jabato jabaguerrero",
+      "Marcassin de guerre",
+      "Боевой поросенок",
+      "Kampfeberfrischling",
+      "Porquinho Javaliço",
+      "Maialino da Guerra",
+      "새끼 전투멧돼지",
+      "戰鬥小豬",
+      "斗猪小崽"
+    ],
+    "Media": "ability_hunter_pet_boar.jpg"
+  },
+  {
+    "TagId": 4725,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Titan Orb",
+      "Orbe titánico",
+      "Orbe Titânico",
+      "Titan Orb",
+      "Orbe titánico",
+      "Orbe des Titans",
+      "Сфера титанов",
+      "Titanenkugel",
+      "Orbe Titânico",
+      "Globo dei Titani",
+      "티탄 보주",
+      "泰坦寶珠",
+      "泰坦宝珠"
+    ],
+    "Media": "ability_titankeeper_cleansingorb.jpg"
+  },
+  {
+    "TagId": 4726,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Crackleroar",
+      "Rugechasquido",
+      "Rugistalo",
+      "Crackleroar",
+      "Chisporrugidor",
+      "Crépissement",
+      "Хриплорев",
+      "Knisterschrei",
+      "Rugistalo",
+      "Gracchiaringhio",
+      "번개울음",
+      "裂吼",
+      "爆鸣咆哮者"
+    ],
+    "Media": "ability_mount_bluewindrider.jpg"
+  },
+  {
+    "TagId": 4727,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Skitterbite",
+      "Escarabites",
+      "Mordejante",
+      "Skitterbite",
+      "Escurribocado",
+      "Fredognap",
+      "Шустрокус",
+      "Krabblerbiss",
+      "Mordejante",
+      "Morsolesto",
+      "쏜살이빨",
+      "掠咬",
+      "掠咬"
+    ],
+    "Media": "achievement_dungeon_thesandqueen.jpg"
+  },
+  {
+    "TagId": 4728,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Teatuft Tamer",
+      "Domador de pelucháis",
+      "Domador Tufo-de-chá",
+      "Teatuft Tamer",
+      "Domador de copetés",
+      "Dompteur de touffethé",
+      "Чайношерст-укротитель",
+      "Teebüschelzähmer",
+      "Domador Tufo-de-chá",
+      "Domatore di Pelditè",
+      "찻잔터럭 조련사",
+      "茶簇小熊貓馴寵師",
+      "茶毛驯养者"
+    ],
+    "Media": "inv_redpandapet_red.jpg"
+  },
+  {
+    "TagId": 4729,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Fullbelly Rollingpaw",
+      "Patarrodante panzallena",
+      "Pata-andante Pança-cheia",
+      "Fullbelly Rollingpaw",
+      "Patarrodante panzallena",
+      "Pleine-Panse Roulepatte",
+      "Толстопуз-круглолап",
+      "Vollbauchrolltatze",
+      "Pata-andante Pança-cheia",
+      "Ruzzolazampa Panciapiena",
+      "만복배 둘둘발바닥",
+      "滿腹滾掌小熊貓",
+      "饱腹的滚爪"
+    ],
+    "Media": "inv_redpandapet_orange.jpg"
+  },
+  {
+    "TagId": 4730,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Mech-Friend Maya",
+      "Mecamiga Maya",
+      "Mecamiga Maya",
+      "Mech-Friend Maya",
+      "Mecaamiga Maya",
+      "Mécamie Maya",
+      "Рободруг Майя",
+      "Mechfreundin Maya",
+      "Mecamiga Maya",
+      "Maya Meccamica",
+      "기계 친구 마야",
+      "機甲之友瑪雅",
+      "机械伙伴玛雅"
+    ],
+    "Media": "inv_clockworkbeagle_purple.jpg"
+  },
+  {
+    "TagId": 4731,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Storm-Infused Snapdragon",
+      "Boca de dragón imbuido de la tormenta",
+      "Dracolisco Imbuído em Tempestade",
+      "Storm-Infused Snapdragon",
+      "Bocadragón imbuido de tormenta",
+      "Mordragon imprégné par la tempête",
+      "Грозовой морской варан",
+      "Sturmerfüllter Schnappdrache",
+      "Dracolisco Imbuído em Tempestade",
+      "Drago Carnivoro Infuso di Tempesta",
+      "폭풍주입 치악룡",
+      "風暴灌注嚙龍",
+      "雷注毒鳍龙"
+    ],
+    "Media": "inv_snapdragonmount01.jpg"
+  },
+  {
+    "TagId": 4732,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Scavenging Snapdragon",
+      "Boca de dragón carroñero",
+      "Dracolisco Catador",
+      "Scavenging Snapdragon",
+      "Bocadragón carroñero",
+      "Mordragon charognard",
+      "Морской варан – падальщик",
+      "Plündernder Schnappdrache",
+      "Dracolisco Catador",
+      "Drago Carnivoro Rovistatore",
+      "청소부 치악룡",
+      "掠食嚙龍",
+      "食腐毒鳍龙"
+    ],
+    "Media": "inv_snapdragonmount03.jpg"
   }
 ]
