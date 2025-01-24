@@ -58,7 +58,7 @@
       "Scrigno del Mozzo",
       "뱃사람의 금고",
       "水兵的帶鎖箱",
-      "海盗杂兵的保险箱"
+      "水手杂兵的保险箱"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -145,5 +145,89 @@
       "障碍物"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218374,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor",
+      "Monitor"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218397,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]",
+      "Void Crystal [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218980,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eject Passenger 1",
+      "Eyectar pasajero 1",
+      "Ejetar Passageiro 1",
+      "Eject Passenger 1",
+      "Eyectar pasajero 1",
+      "Ejection du passager 1",
+      "Катапультирование пассажира 1",
+      "Passagier 1 auswerfen",
+      "Ejetar Passageiro 1",
+      "Espelli Passeggero 1",
+      "탑승 인원 내보내기 1",
+      "彈出乘客1",
+      "撵走乘客1"
+    ],
+    "Media": "ability_vehicle_launchplayer.jpg"
+  },
+  {
+    "TagId": 1218981,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Charge",
+      "Carga con escudo",
+      "Investida com Escudo",
+      "Shield Charge",
+      "Carga con escudo",
+      "Charge de bouclier",
+      "Атака щитом",
+      "Schildansturm",
+      "Investida com Escudo",
+      "Carica di Scudo",
+      "방패 돌격",
+      "盾牌衝鋒",
+      "盾牌冲锋"
+    ],
+    "Media": "ability_siege_engineer_overload.jpg"
   }
 ]
