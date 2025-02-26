@@ -3503,7 +3503,7 @@
       "裂地峭壁",
       "崩解峭壁"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "ability_earthen_pillar.jpg"
   },
   {
     "TagId": 453191,
@@ -5396,6 +5396,27 @@
     "Media": "inv_10_gathering_bioluminescentspores_small.jpg"
   },
   {
+    "TagId": 453293,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 453294,
     "TagType": 26,
     "Names": [
@@ -5417,6 +5438,27 @@
     "Media": "achievement_boss_triumvirate_voidbrokenbrute.jpg"
   },
   {
+    "TagId": 453295,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 453296,
     "TagType": 26,
     "Names": [
@@ -5434,6 +5476,27 @@
       "[DNT] Wicklighter Stand anim change",
       "[DNT] Wicklighter Stand anim change",
       "[DNT] Wicklighter Stand anim change"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 453297,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test",
+      "<DNT> Test"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -6249,7 +6312,7 @@
       "Teleport: Orgrimmar",
       "Teleporte: Orgrimmar",
       "Teletrasporto: Orgrimmar",
-      "순간이동: 오그리",
+      "순간이동: 오그리마",
       "傳送：奧格瑪",
       "传送：奥格瑞玛"
     ],
@@ -9004,6 +9067,27 @@
       "装死的回忆"
     ],
     "Media": "sha_spell_warlock_demonsoul_nightmare.jpg"
+  },
+  {
+    "TagId": 453491,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Car Phone",
+      "Teléfono de auto",
+      "Telefone Veicular",
+      "Car Phone",
+      "Teléfono del coche",
+      "Téléphone de voiture",
+      "Машинный телефон",
+      "Autotelefon",
+      "Telefone Veicular",
+      "Telefono per Auto",
+      "자동차 전화",
+      "車用電話",
+      "车载电话"
+    ],
+    "Media": "inv_gizmo_goblingtonkcontroller.jpg"
   },
   {
     "TagId": 453492,
@@ -13453,7 +13537,7 @@
       "Mago Arcano, Set di Classe 11.0, 4 Pezzi",
       "비전 마법사 11.0 직업 세트 4세트",
       "法師秘法11.0職業套裝4件",
-      "法师奥术11.0职业套装四件套"
+      "奥术法师11.0职业套装四件套"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -16898,6 +16982,48 @@
     "Media": "inv_babymolepet_light.jpg"
   },
   {
+    "TagId": 453914,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]",
+      "Port to Zandalar [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 453915,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]",
+      "Port to Depot [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 453916,
     "TagType": 26,
     "Names": [
@@ -17218,7 +17344,7 @@
     "Names": [
       null,
       "Purchaseable Restored Coffer Key",
-      "Llave de arca restaurada disponible",
+      "Llave de arca restaurada a la venta",
       "Chave de Cofre Restaurada à Venda",
       "Purchaseable Restored Coffer Key",
       "Llave de arca restaurada a la venta",
@@ -17239,7 +17365,7 @@
     "Names": [
       null,
       "Discounted Restored Coffer Key",
-      "Descuento en la llave de arca restaurada",
+      "Llave de arca restaurada con descuento",
       "Chave de Cofre Restaurada com Desconto",
       "Discounted Restored Coffer Key",
       "Llave de arca restaurada con descuento",
@@ -18070,6 +18196,27 @@
       "Web Beam - Guard to Prisoners[DNT]",
       "Web Beam - Guard to Prisoners[DNT]",
       "Web Beam - Guard to Prisoners[DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 453975,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]",
+      "Bubble Visual [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },

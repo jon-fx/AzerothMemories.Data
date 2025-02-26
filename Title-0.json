@@ -1036,7 +1036,7 @@
       "Chef %s",
       "요리사 %s",
       "大廚 %s",
-      "厨师 %s"
+      "大厨 %s"
     ]
   },
   {
@@ -11320,6 +11320,26 @@
     ]
   },
   {
+    "TagId": 855,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Skyrocketer %s",
+      "Cohetenauta %s",
+      "Fogueteiro %s",
+      "Skyrocketer %s",
+      "Cohetero %s",
+      "Fusée céleste %s",
+      "Турбогонщик %s",
+      "Raketenreiter %s",
+      "Fogueteiro %s",
+      "Pilota di Razzi %s",
+      "하늘로켓 선수 %s",
+      "衝天者%s",
+      "冲天火箭手 %s"
+    ]
+  },
+  {
     "TagId": 856,
     "TagType": 31,
     "Names": [
@@ -11540,6 +11560,46 @@
     ]
   },
   {
+    "TagId": 867,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Enterprising",
+      "%s, el Emprendedor",
+      "%s, o Empreendedor",
+      "%s the Enterprising",
+      "%s el Emprendedor",
+      "%s, l’entrepreneuriat",
+      "%s Предприимчивый",
+      "%s der Unternehmerische",
+      "%s, o Empreendedor",
+      "%s l'Intraprendente",
+      "진취적인 자 %s",
+      "創業家%s",
+      "奋发的 %s"
+    ]
+  },
+  {
+    "TagId": 868,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Enterprising Hero",
+      "%s, el Héroe emprendedor",
+      "%s, o Herói Empreendedor",
+      "%s the Enterprising Hero",
+      "%s el Héroe Emprendedor",
+      "%s, l’entrepreneuriat héroïque",
+      "%s, предприимчивый герой",
+      "%s der unternehmerische Held",
+      "%s, o Herói Empreendedor",
+      "%s l'Eroe Intraprendente",
+      "진취적인 영웅 %s",
+      "『創業英雄』%s",
+      "%s, 奋发英雄"
+    ]
+  },
+  {
     "TagId": 869,
     "TagType": 31,
     "Names": [
@@ -11600,6 +11660,66 @@
     ]
   },
   {
+    "TagId": 872,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Breaknecker %s",
+      "Rompenucas %s",
+      "Pé-na-Tábua %s",
+      "Breaknecker %s",
+      "Partecuellos %s",
+      "%s l’effréné",
+      "Головокружитель %s",
+      "Halsbrecher %s",
+      "Pé-na-Tábua %s",
+      "Pilota a Rotta di Collo %s",
+      "광폭질주자 %s",
+      "斷頸者%s",
+      "疾飙车手 %s"
+    ]
+  },
+  {
+    "TagId": 873,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Delver %s",
+      "Surcabismos %s",
+      "Imersor %s",
+      "Delver %s",
+      "%s, Explorador de Profundidades",
+      "Gouffrologue %s",
+      "Исследователь вылазок %s",
+      "Tiefenforscher %s",
+      "Imersor %s",
+      "Scorribandiere %s",
+      "구렁 탐험가 %s",
+      "探究者%s",
+      "地下堡行者 %s"
+    ]
+  },
+  {
+    "TagId": 874,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Infinite Delver %s",
+      "Surcabismos infinito %s",
+      "Imersor Infinito %s",
+      "Infinite Delver %s",
+      "Explorador de Profundidades Infinito %s",
+      "Gouffrologue insatiable %s",
+      "Исследователь бесконечности %s",
+      "Ewiger Tiefenforscher %s",
+      "Imersor Infinito %s",
+      "Scorribandiere Infinito %s",
+      "무한의 구렁 탐험가 %s",
+      "無限探究者%s",
+      "无穷地下堡行者 %s"
+    ]
+  },
+  {
     "TagId": 875,
     "TagType": 31,
     "Names": [
@@ -11637,6 +11757,306 @@
       "존귀한 자 %s",
       "受重視的%s",
       "爱财者 %s"
+    ]
+  },
+  {
+    "TagId": 878,
+    "TagType": 31,
+    "Names": [
+      null,
+      "High Roller %s",
+      "Gran jugador %s",
+      "Figurão %s",
+      "High Roller %s",
+      "Apostador %s",
+      "Flambeur %s",
+      "Крупный игрок %s",
+      "Glücksroller %s",
+      "Figurão %s",
+      "Giocatore Incallito %s",
+      "큰손 도박꾼 %s",
+      "賭豪%s",
+      "豪客 %s"
+    ]
+  },
+  {
+    "TagId": 879,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Explosive",
+      "%s, el Explosivo",
+      "%s, o Explosivo",
+      "%s the Explosive",
+      "%s, Pura Dinamita",
+      "%s l’explosif",
+      "%s Взрывоопасный",
+      "%s der Explosive",
+      "%s, o Explosivo",
+      "%s l'Esplosivo",
+      "폭발적인 %s",
+      "炸彈客%s",
+      "爆破者 %s"
+    ]
+  },
+  {
+    "TagId": 880,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Famed Slayer of The Chrome King",
+      "%s, Asesino del rey cromado renombrado",
+      "%s, Renomado Matador do Rei do Cromo",
+      "%s, Famed Slayer of The Chrome King",
+      "%s, Afamado Asesino del Rey Cromado",
+      "%s, célèbre tueur du Roi du chrome",
+      "%s, прославленный победитель Хромового короля",
+      "%s, ruhmreicher Schlächter des Chromkönigs",
+      "%s, Renomado Matador do Rei do Cromo",
+      "%s, Giustiziere del Re Cromato",
+      "명예로운 크롬왕 학살자 %s",
+      "閃亮亮大王剋星%s",
+      "%s, 闻名遐迩的铬武大王杀手"
+    ]
+  },
+  {
+    "TagId": 881,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Liberator of Undermine",
+      "%s, Liberador de Minahonda",
+      "%s, Libertador da Inframina",
+      "%s, Liberator of Undermine",
+      "%s, Liberador de Minahonda",
+      "%s, libérateur de Terremine",
+      "%s, освободитель Нижней Шахты",
+      "%s, Befreier von Lorenhall",
+      "%s, Libertador da Inframina",
+      "%s, Liberatore di Cavafonda",
+      "언더마인 해방가 %s",
+      "幽坑城解放者%s",
+      "%s, 安德麦解放者"
+    ]
+  },
+  {
+    "TagId": 882,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Darkfuse Diplomat %s",
+      "Diplomático mechaoscura %s",
+      "%s, Diplomata Sombrafuso",
+      "Darkfuse Diplomat %s",
+      "Diplomático Fundisombras %s",
+      "Diplomate imprégné de ténèbres %s",
+      "Переговорщик Мрачных Минеров %s",
+      "Diplomat der Düsternisverschmolzenen %s",
+      "%s, Diplomata Sombrafuso",
+      "Diplomatico dei Micciascura %s",
+      "다크퓨즈 외교관 %s",
+      "暗融外交官%s",
+      "暗索外交官 %s"
+    ]
+  },
+  {
+    "TagId": 883,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Trade-Duke %s",
+      "Duque mercante %s",
+      "Duque Comercial %s",
+      "Trade-Duke %s",
+      "Duque del Comercio %s",
+      "Duc du commerce %s",
+      "Торговый герцог %s",
+      "Handelsfürst %s",
+      "Duque Comercial %s",
+      "Duca del Commercio %s",
+      "무역공작 %s",
+      "貿易公爵%s",
+      "贸易公爵 %s"
+    ]
+  },
+  {
+    "TagId": 884,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Prized Gladiator %s",
+      "Gladiador premiado %s",
+      "Gladiador Precioso %s",
+      "Prized Gladiator %s",
+      "Gladiador Preciado %s",
+      "Gladiateur adulé %s",
+      "Призовой гладиатор %s",
+      "Geachteter Gladiator %s",
+      "Gladiador Precioso %s",
+      "Gladiatore Stimato %s",
+      "찬양받는 검투사 %s",
+      "獲獎鬥士%s",
+      "至臻角斗士 %s"
+    ]
+  },
+  {
+    "TagId": 885,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Prized Warlord %s",
+      "Señor de la guerra premiado %s",
+      "Senhor da Guerra Precioso %s",
+      "Prized Warlord %s",
+      "Señor de la Guerra Preciado %s",
+      "Seigneur de guerre adulé %s",
+      "Призовой полководец %s",
+      "Geachteter Kriegsfürst %s",
+      "Senhor da Guerra Precioso %s",
+      "Signore della Guerra Stimato %s",
+      "찬양받는 대장군 %s",
+      "獲獎督軍%s",
+      "至臻督军 %s"
+    ]
+  },
+  {
+    "TagId": 886,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Prized Marshal %s",
+      "Mariscal premiado %s",
+      "Marechal Precioso %s",
+      "Prized Marshal %s",
+      "Mariscal Preciado %s",
+      "Maréchal adulé %s",
+      "Призовой маршал %s",
+      "Geachteter Marschall %s",
+      "Marechal Precioso %s",
+      "Maresciallo Stimato %s",
+      "찬양받는 사령관 %s",
+      "獲獎元帥%s",
+      "至臻元帅 %s"
+    ]
+  },
+  {
+    "TagId": 887,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Prized Legend %s",
+      "Leyenda premiada %s",
+      "Lenda Preciosa %s",
+      "Prized Legend %s",
+      "Leyenda Preciada %s",
+      "Légende adulée %s",
+      "Призовая легенда %s",
+      "Geachtete Legende %s",
+      "Lenda Preciosa %s",
+      "Leggenda Stimata %s",
+      "찬양받는 전설 %s",
+      "獲獎傳奇%s",
+      "至臻传奇 %s"
+    ]
+  },
+  {
+    "TagId": 888,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, the Real Deal",
+      "%s, el Mandamás",
+      "%s, o Bem Cotado",
+      "%s, the Real Deal",
+      "%s, la Pera Limonera",
+      "%s, le Gros bonnet",
+      "Важная шишка %s",
+      "%s der Wahre",
+      "%s, o Bem Cotado",
+      "%s, il Pezzo Grosso",
+      "진국 %s",
+      "真能手%s",
+      "%s, 重头戏"
+    ]
+  },
+  {
+    "TagId": 889,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Junkmaestro %s",
+      "Chatamaestro %s",
+      "Maestro da Sucata %s",
+      "Junkmaestro %s",
+      "Maestro del Desguace %s",
+      "As de la casse %s",
+      "Хлам-маэстро %s",
+      "Schrottmaestro %s",
+      "Maestro da Sucata %s",
+      "Maestro dei Rottami %s",
+      "고물의 거장 %s",
+      "垃圾大師%s",
+      "渣客大师 %s"
+    ]
+  },
+  {
+    "TagId": 892,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Part-Timer %s",
+      "Empleado temporal %s",
+      "%s Meio Expediente",
+      "Part-Timer %s",
+      "Trabajador a Tiempo Parcial %s",
+      "%s l’intérimaire",
+      "Почасовик %s",
+      "Teilzeitkraft %s",
+      "%s Meio Expediente",
+      "Dipendente Part-Time %s",
+      "비정규직 %s",
+      "兼職者%s",
+      "兼职工 %s"
+    ]
+  },
+  {
+    "TagId": 893,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, \"Employee\" of the Month",
+      "%s, \"Empleado\" del mes",
+      "%s, \"Funcionário\" do Mês",
+      "%s, \"Employee\" of the Month",
+      "%s, \"Empleado\" del Mes",
+      "%s, «\u00A0Employé\u00A0» du mois",
+      "\"Сотрудник\" месяца %s",
+      "%s, \"Mitarbeiter\" des Monats",
+      "%s, \"Funcionário\" do Mês",
+      "%s, \"Impiegato\" del Mese",
+      "이달의 \"직원\" %s",
+      "當月最佳「員工」%s",
+      "%s, 月度最佳“员工”"
+    ]
+  },
+  {
+    "TagId": 894,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, the Reel Deal",
+      "%s, el Afortunado",
+      "%s, o Pistão",
+      "%s, the Reel Deal",
+      "%s, Rodillos de Oro",
+      "%s, le fruit du hasard",
+      "Барабанный барон %s",
+      "Walzenkönig %s",
+      "%s, o Pistão",
+      "%s, Boss del Rullo",
+      "굴림판의 왕 %s",
+      "收線能手%s",
+      "%s, 转轮高手"
     ]
   }
 ]

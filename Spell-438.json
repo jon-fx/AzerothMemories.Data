@@ -4454,21 +4454,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Toxic Rupture",
-      "Ruptura tóxica",
-      "Ruptura Tóxica",
-      "Toxic Rupture",
-      "Ruptura tóxica",
-      "Rupture toxique",
-      "Токсичный взрыв",
-      "Toxischer Platzer",
-      "Ruptura Tóxica",
-      "Perforazione Tossica",
-      "독성 파열",
-      "劇毒割裂",
-      "剧毒崩裂"
+      "Amplification!",
+      "¡Amplificación!",
+      "Amplificação!",
+      "Amplification!",
+      "¡Amplificación!",
+      "Amplification\u00A0!",
+      "Усиление!",
+      "Verstärkung!",
+      "Amplificação!",
+      "Amplificazione!",
+      "증폭!",
+      "增幅！",
+      "增效"
     ],
-    "Media": "ability_creature_disease_02.jpg"
+    "Media": "ability_physical_taunt.jpg"
   },
   {
     "TagId": 438623,
@@ -7322,7 +7322,7 @@
       "衝蜂！",
       "蜂驰电掣！"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "misc_arrowlup.jpg"
   },
   {
     "TagId": 438798,
@@ -10788,6 +10788,48 @@
       "污秽痕迹"
     ],
     "Media": "spell_priest_void blast.jpg"
+  },
+  {
+    "TagId": 438987,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
+    "TagId": 438988,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
   },
   {
     "TagId": 438989,

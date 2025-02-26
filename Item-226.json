@@ -2818,10 +2818,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Wax-sealed Weathered Crests",
-      "Emblemas desgastados sellados con cera",
+      "Wax-Sealed Weathered Crests",
+      "Emblemas deteriorados sellados con cera",
       "Brasões Desgastados Selados com Cera",
-      "Wax-sealed Weathered Crests",
+      "Wax-Sealed Weathered Crests",
       "Blasones desgastados sellados con cera",
       "Écus abîmés scellés à la cire",
       "Навощенные истертые гербы",
@@ -3001,6 +3001,27 @@
       "超大号蜡烛"
     ],
     "Media": "inv_misc_candle_01.jpg"
+  },
+  {
+    "TagId": 226157,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "achievement_guildperk_chug a lug_rank2.jpg"
   },
   {
     "TagId": 226158,
@@ -3423,6 +3444,27 @@
     "Media": "inv_ability_web_beam.jpg"
   },
   {
+    "TagId": 226192,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Electric Eel Meat",
+      "Carne de anguila eléctrica",
+      "Carne de Enguia Elétrica",
+      "Electric Eel Meat",
+      "Carne de anguila eléctrica",
+      "Viande d’anguille électrique",
+      "Мясо электрического угря",
+      "Zitteraalfleisch",
+      "Carne de Enguia Elétrica",
+      "Carne di Anguilla Elettrica",
+      "전기뱀장어 고기",
+      "電鰻肉",
+      "电鳗肉"
+    ],
+    "Media": "inv_fishing_innards_meat_whiptail.jpg"
+  },
+  {
     "TagId": 226193,
     "TagType": 21,
     "Names": [
@@ -3505,6 +3547,27 @@
       "丝绸刻基袋"
     ],
     "Media": "inv_10_tailoring_bag2_color2.jpg"
+  },
+  {
+    "TagId": 226197,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_magnet.jpg"
   },
   {
     "TagId": 226198,
@@ -3591,6 +3654,27 @@
     "Media": "inv_10_blacksmithing_craftedoptional_blacksmithdye_fire.jpg"
   },
   {
+    "TagId": 226203,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sliced Lime",
+      "Limas cortadas en rodajas",
+      "Limão Fatiado",
+      "Sliced Lime",
+      "Lima cortada",
+      "Rondelle de citron vert",
+      "Нарезанный лайм",
+      "Geschnittene Limone",
+      "Limão Fatiado",
+      "Lime Tagliato",
+      "자른 라임",
+      "切片萊姆",
+      "切片酸橙"
+    ],
+    "Media": "inv_misc_food_vendor_slicedpeaches.jpg"
+  },
+  {
     "TagId": 226204,
     "TagType": 21,
     "Names": [
@@ -3654,6 +3738,69 @@
     "Media": "inv_grey_sporecreature2.jpg"
   },
   {
+    "TagId": 226215,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kaja'mite Powder",
+      "Partículas de kaja'mita",
+      "Pó de Jakamita",
+      "Kaja'mite Powder",
+      "Polvo de kaja'mita",
+      "Poudre de kaja’mite",
+      "Каджа'митовый порошок",
+      "Kaja'mitpulver",
+      "Pó de Jakamita",
+      "Pulviscolo di Kaja'mite",
+      "카자마이트 가루",
+      "卡迦邁粉末",
+      "卡亚矿石粉末"
+    ],
+    "Media": "inv_enchanting_wod_dust2.jpg"
+  },
+  {
+    "TagId": 226216,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kaja'Cola Can",
+      "Lata de Kaja'Cola",
+      "Lata de Jaka'Cola",
+      "Kaja'Cola Can",
+      "Lata de Kaja'Cola",
+      "Canette de Kaja’Cola",
+      "Банка \"Каджа-Колы\"",
+      "Kaja'Cola-Dose",
+      "Lata de Jaka'Cola",
+      "Lattina di Kaja'Cola",
+      "카자콜라 깡통",
+      "卡迦可樂罐",
+      "卡亚可乐罐"
+    ],
+    "Media": "inv_drink_21.jpg"
+  },
+  {
+    "TagId": 226217,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lime",
+      "Lima",
+      "Limão",
+      "Lime",
+      "Lima",
+      "Citron vert",
+      "Лайм",
+      "Limone",
+      "Limão",
+      "Lime",
+      "라임",
+      "萊姆",
+      "酸橙"
+    ],
+    "Media": "inv_misc_orchardfruit01.jpg"
+  },
+  {
     "TagId": 226218,
     "TagType": 21,
     "Names": [
@@ -3673,6 +3820,27 @@
       "主机守护者的披风"
     ],
     "Media": "inv_armor_earthenisle_c_01_cape.jpg"
+  },
+  {
+    "TagId": 226219,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kaja'mite Fragment",
+      "Fragmento de kaja'mita",
+      "Fragmento de Jakamita",
+      "Kaja'mite Fragment",
+      "Fragmento de kaja'mita",
+      "Fragment de kaja’mite",
+      "Каджамитовый обломок",
+      "Kaja'mitfragment",
+      "Fragmento de Jakamita",
+      "Frammento di Kaja'mite",
+      "카자마이트 파편",
+      "卡迦邁碎片",
+      "卡亚矿石裂片"
+    ],
+    "Media": "inv_10_enchanting_crystal_color4.jpg"
   },
   {
     "TagId": 226220,
@@ -3736,6 +3904,27 @@
       "缠网钩枪"
     ],
     "Media": "ability_rogue_grapplinghook.jpg"
+  },
+  {
+    "TagId": 226223,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stinging Residue",
+      "Residuo ardiente",
+      "Resíduo Pungente",
+      "Stinging Residue",
+      "Residuo punzante",
+      "Résidu cuisant",
+      "Кусачий осадок",
+      "Stechender Rückstand",
+      "Resíduo Pungente",
+      "Residuo Pungente",
+      "톡 쏘는 잔류물",
+      "刺痛殘留物",
+      "刺痛残渣"
+    ],
+    "Media": "inv_archaeology_70_highborne_vialofpoison.jpg"
   },
   {
     "TagId": 226224,
@@ -5679,7 +5868,7 @@
       "Cinzel de Dornogal",
       "Dornogal Chisel",
       "Cincel de Dornogal",
-      "Burin de Dornagal",
+      "Burin de Dornogal",
       "Дорнагальское долото",
       "Meißel aus Dornogal",
       "Cinzel de Dornogal",
@@ -6174,6 +6363,27 @@
     "Media": "inv_crystalmech_teal.jpg"
   },
   {
+    "TagId": 226358,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spare Venture Co. Uniform",
+      "Uniforme de Ventura y Cía. de sobra",
+      "Uniforme da Empreendimentos S.A. Sobressalente",
+      "Spare Venture Co. Uniform",
+      "Uniforme de repuesto de Ventura y Cía.",
+      "Uniforme de rechange de la KapitalRisk",
+      "Запасная форма Торговой компании",
+      "Ersatzuniform der Venture Company",
+      "Uniforme da Empreendimentos S.A. Sobressalente",
+      "Uniforme della S.P.R. & Co. di Scorta",
+      "여벌 투자개발회사 제복",
+      "備用風險投資公司制服",
+      "风险投资公司备用制服"
+    ],
+    "Media": "inv_tabard_ventureco_b_01.jpg"
+  },
+  {
     "TagId": 226361,
     "TagType": 21,
     "Names": [
@@ -6342,6 +6552,48 @@
     "Media": "inv_polearm_2h_cleaver_c_01.jpg"
   },
   {
+    "TagId": 226372,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Noggenfogger Deluxe with Lime",
+      "Lujo de Tragonublo con lima",
+      "Nublacuca Deluxe com Limão",
+      "Noggenfogger Deluxe with Lime",
+      "Elixir de lujo de Tragonublo con lima",
+      "Élixir Brouillecaboche de luxe arôme citron vert",
+      "Изысканный эликсир Гогельмогеля с лаймом",
+      "Noggenfogger Deluxe mit Limone",
+      "Nublacuca Deluxe com Limão",
+      "Granstrippo Deluxe con Lime",
+      "라임을 넣은 명품 노겐포저의 비약",
+      "諾格弗格豪華藥劑加萊姆",
+      "诺格弗格的酸橙豪华版"
+    ],
+    "Media": "inv_potion_83.jpg"
+  },
+  {
+    "TagId": 226373,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Everlasting Noggenfogger Elixir",
+      "Elixir de Tragonublo interminable",
+      "Elixir Nublacuca Infinito",
+      "Everlasting Noggenfogger Elixir",
+      "Elixir de Tragonublo eterno",
+      "Élixir Brouillecaboche éternel",
+      "Вечный эликсир Гогельмогеля",
+      "Noggenfoggers immerwährendes Elixier",
+      "Elixir Nublacuca Infinito",
+      "Elisir di Granstrippo Interminabile",
+      "영원한 노겐포저의 비약",
+      "恆久諾格弗格藥劑",
+      "恒久诺格弗格药剂"
+    ],
+    "Media": "inv_potion_83.jpg"
+  },
+  {
     "TagId": 226375,
     "TagType": 21,
     "Names": [
@@ -6445,6 +6697,27 @@
       "锐眼望远镜"
     ],
     "Media": "inv_misc_1h_binoculars_b_01.jpg"
+  },
+  {
+    "TagId": 226380,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Employee Schedule",
+      "Cronograma de empleados",
+      "Escala de Funcionários",
+      "Employee Schedule",
+      "Horarios de trabajador",
+      "Horaires du personnel",
+      "График рабочего",
+      "Schichtplan",
+      "Escala de Funcionários",
+      "Programma dei Dipendenti",
+      "직원 일정표",
+      "員工時程表",
+      "员工日程表"
+    ],
+    "Media": "inv_misc_note_06.jpg"
   },
   {
     "TagId": 226381,
@@ -6615,6 +6888,27 @@
     "Media": "inv_mace_29.jpg"
   },
   {
+    "TagId": 226391,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sputtering Taserblade",
+      "Filopicana chisporroteante",
+      "Taserlâmina Estralejante",
+      "Sputtering Taserblade",
+      "Hoja de descargas chisporroteante",
+      "Lame étourdissante crépitante",
+      "Протекающий электроклинок",
+      "Britzelnde Taserklinge",
+      "Taserlâmina Estralejante",
+      "Lama Elettrica Crepitante",
+      "털털거리는 감전칼날",
+      "噴濺電擊劍",
+      "霹雳脉冲刃"
+    ],
+    "Media": "inv_sword_1h_goblinraid_d_01.jpg"
+  },
+  {
     "TagId": 226392,
     "TagType": 21,
     "Names": [
@@ -6634,6 +6928,27 @@
       null
     ],
     "Media": "timelesscoin_yellow.jpg"
+  },
+  {
+    "TagId": 226393,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Jetpack-in-a-Box",
+      "Mochila cohete de bolsillo",
+      "Mochila Voadora na Caixa",
+      "Jetpack-in-a-Box",
+      "Mochila cohete empaquetada",
+      "Propulseur intégré",
+      "Складной реактивный ранец",
+      "Jetpack-im-Kasten",
+      "Mochila Voadora na Caixa",
+      "Zaino a Reazione in Scatola",
+      "상자에 든 로켓추진기",
+      "箱中噴射背包",
+      "盒装喷气背包"
+    ],
+    "Media": "inv_crate_04.jpg"
   },
   {
     "TagId": 226422,
@@ -7938,6 +8253,27 @@
     "Media": "inv_misc_food_legion_goochocovanilla_pool.jpg"
   },
   {
+    "TagId": 226522,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Demolition Controller Fragment",
+      "Fragmento de controlador de demolición",
+      "Fragmento de Controle de Demolição",
+      "Demolition Controller Fragment",
+      "Fragmento del controlador de la demolición",
+      "Fragment de contrôleur de démolition",
+      "Фрагмент детонатора",
+      "Fragment der Demolierungssteuerung",
+      "Fragmento de Controle de Demolição",
+      "Frammento del Telecomando della Demolizione",
+      "폭파 제어기 파편",
+      "毀滅控制器碎片",
+      "爆破控制器碎片"
+    ],
+    "Media": "inv_gizmo_06.jpg"
+  },
+  {
     "TagId": 226524,
     "TagType": 21,
     "Names": [
@@ -7957,6 +8293,27 @@
       "部分充能的全息宝石"
     ],
     "Media": "inv_jewelcrafting_argusgemcut_purple_miscicons.jpg"
+  },
+  {
+    "TagId": 226525,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Demolition Control Code",
+      "Código de control de demolición",
+      "Código de Controle de Demolição",
+      "Demolition Control Code",
+      "Código de control de la demolición",
+      "Code de contrôle de démolition",
+      "Код управления детонацией",
+      "Abrisskontrollcode",
+      "Código de Controle de Demolição",
+      "Codice di Controllo della Demolizione",
+      "폭파 통제 암호",
+      "毀滅控制碼",
+      "爆破控制密码"
+    ],
+    "Media": "inv_misc_punchcards_white.jpg"
   },
   {
     "TagId": 226539,
@@ -8442,6 +8799,132 @@
     "Media": "ability_racial_packhobgoblin.jpg"
   },
   {
+    "TagId": 226823,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bilgewater Auto-Grappler",
+      "Gancho automático Pantoque",
+      "Gancho Automático de Borraquilha",
+      "Bilgewater Auto-Grappler",
+      "Gancho automático de Pantoque",
+      "Grappin automatique de Baille-Fonds",
+      "Автоматический крюк Черноводья",
+      "Automatischer Greifhaken des Bilgewasserkartells",
+      "Gancho Automático de Borraquilha",
+      "Auto-Arpionatore degli Acqualorda",
+      "빌지워터 자동 갈고리",
+      "污水企業自動鉤握",
+      "锈水自动抛射爪"
+    ],
+    "Media": "ability_rogue_grapplinghook.jpg"
+  },
+  {
+    "TagId": 226824,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Handful of B.I.R.D. Parts",
+      "Montón de partes de A.V.E.",
+      "Punhado de Peças de A.V.E.",
+      "Handful of B.I.R.D. Parts",
+      "Puñado de piezas de A.V.E.",
+      "Poignée de pièces pour O.I.S.E.A.U.",
+      "Пригоршня деталей ПТЕНЦа",
+      "Handvoll V.O.G.E.L.-Teile",
+      "Punhado de Peças de A.V.E.",
+      "Manciata di Parti di B.E.C.C.O.",
+      "철.새 부품 한 줌",
+      "一把B.I.R.D.零件",
+      "一捧B.I.R.D.零件"
+    ],
+    "Media": "inv_10_engineering_purchasedparts_color1.jpg"
+  },
+  {
+    "TagId": 226833,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_steelmelee.jpg"
+  },
+  {
+    "TagId": 226834,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_shield_06.jpg"
+  },
+  {
+    "TagId": 226839,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_upgrademoonglaive.jpg"
+  },
+  {
+    "TagId": 226844,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_meleedamage.jpg"
+  },
+  {
     "TagId": 226853,
     "TagType": 21,
     "Names": [
@@ -8461,5 +8944,47 @@
       "矿石样品"
     ],
     "Media": "inv_ore_iron_nugget.jpg"
+  },
+  {
+    "TagId": 226854,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crumpled Paystub",
+      "Recibo de sueldo arrugado",
+      "Contracheque Amassado",
+      "Crumpled Paystub",
+      "Nómina arrugada",
+      "Fiche de paie froissée",
+      "Смятый расчетный лист",
+      "Zerknüllte Gehaltsabrechnung",
+      "Contracheque Amassado",
+      "Busta Paga Accartocciata",
+      "구겨진 급여 명세서",
+      "弄皺的薪資單",
+      "皱巴巴的工资单"
+    ],
+    "Media": "inv_letter_13.jpg"
+  },
+  {
+    "TagId": 226855,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_weapon_shortblade_14.jpg"
   }
 ]

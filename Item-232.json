@@ -924,6 +924,48 @@
     "Media": "inv_weapon_halberd_26.jpg"
   },
   {
+    "TagId": 232053,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Electro-Gland",
+      "Electroglándula",
+      "Glândula Elétrica",
+      "Electro-Gland",
+      "Electroglándula",
+      "Électro-glande",
+      "Электрожелеза",
+      "Elektrodrüse",
+      "Glândula Elétrica",
+      "Elettroghiandola",
+      "전기샘",
+      "電能腺體",
+      "电涌腺体"
+    ],
+    "Media": "inv_raid_oversizedacidgland_blue.jpg"
+  },
+  {
+    "TagId": 232054,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Depleted Hotrod Battery",
+      "Batería de bólido agotada",
+      "Bateria de Carango Esgotada",
+      "Depleted Hotrod Battery",
+      "Batería de bólido agotada",
+      "Batterie de voiture de sport épuisée",
+      "Разряженная батарея хотрода",
+      "Erschöpfte Hot-Rod-Batterie",
+      "Bateria de Carango Esgotada",
+      "Batteria della Razzomobile Esaurita",
+      "소진된 개조차 전지",
+      "耗盡的改裝車電池",
+      "枯竭的改装车电池"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_reavesbattery_firey.jpg"
+  },
+  {
     "TagId": 232055,
     "TagType": 21,
     "Names": [
@@ -1195,6 +1237,195 @@
       "阿曼尼巫毒之弓"
     ],
     "Media": "inv_weapon_bow_32.jpg"
+  },
+  {
+    "TagId": 232068,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Chestpiece",
+      "Pechera ligada a la tropa de aventurero",
+      "Peito d'Armas Beligerante do Aventureiro",
+      "Adventurer's Warbound Chestpiece",
+      "Pechera ligada a la banda guerrera de aventurero",
+      "Plastron lié au bataillon d’aventure",
+      "Привязанный к отряду нагрудник искателя приключений",
+      "Kriegsmeutengebundener Brustharnisch des Abenteurers",
+      "Peito d'Armas Beligerante do Aventureiro",
+      "Corazza Vincolata alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 가슴보호구",
+      "冒險者的戰隊綁定護軀",
+      "冒险者的战团绑定胸甲"
+    ],
+    "Media": "inv_chest_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232069,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Boots",
+      "Botas ligadas a la tropa de aventurero",
+      "Botas Beligerantes do Aventureiro",
+      "Adventurer's Warbound Boots",
+      "Botas ligadas a la banda guerrera de aventurero",
+      "Bottes liées au bataillon d’aventure",
+      "Привязанная к отряду обувь искателя приключений",
+      "Kriegsmeutengebundene Stiefel des Abenteurers",
+      "Botas Beligerantes do Aventureiro",
+      "Stivali Vincolati alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 장화",
+      "冒險者的戰隊綁定長靴",
+      "冒险者的战团绑定长靴"
+    ],
+    "Media": "inv_boot_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232070,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Gloves",
+      "Guantes ligados a la tropa de aventurero",
+      "Luvas Beligerantes do Aventureiro",
+      "Adventurer's Warbound Gloves",
+      "Guantes ligados a la banda guerrera de aventurero",
+      "Gants liés au bataillon d’aventure",
+      "Привязанные к отряду перчатки искателя приключений",
+      "Kriegsmeutengebundene Handschuhe des Abenteurers",
+      "Luvas Beligerantes do Aventureiro",
+      "Guanti Vincolati alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 장갑",
+      "冒險者的戰隊綁定手套",
+      "冒险者的战团绑定手套"
+    ],
+    "Media": "inv_glove_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232071,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Headpiece",
+      "Celada ligada a la tropa de aventurero",
+      "Bacinete Beligerante do Aventureiro",
+      "Adventurer's Warbound Headpiece",
+      "Celada ligada a la banda guerrera de aventurero",
+      "Chapel lié au bataillon d’aventure",
+      "Привязанный к отряду шлем искателя приключений",
+      "Kriegsmeutengebundenes Kopfstück des Abenteurers",
+      "Bacinete Beligerante do Aventureiro",
+      "Cimiero Vincolato alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 머리보호구",
+      "冒險者的戰隊綁定首盔",
+      "冒险者的战团绑定头盔"
+    ],
+    "Media": "inv_helm_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232072,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Legs",
+      "Piernas ligadas a la tropa de aventurero",
+      "Pernas Beligerantes do Aventureiro",
+      "Adventurer's Warbound Legs",
+      "Perneras ligadas a la banda guerrera de aventurero",
+      "Jambes liées au bataillon d’aventure",
+      "Привязанные к отряду поножи искателя приключений",
+      "Kriegsmeutengebundene Beinlinge des Abenteurers",
+      "Pernas Beligerantes do Aventureiro",
+      "Gambiere Vincolate alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 다리보호구",
+      "冒險者的戰隊綁定護腿",
+      "冒险者的战团绑定腿甲"
+    ],
+    "Media": "inv_pant_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232073,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Shoulders",
+      "Sobrehombros ligado a la tropa de aventurero",
+      "Omoplatas Beligerantes do Aventureiro",
+      "Adventurer's Warbound Shoulders",
+      "Sobrehombros ligados a la banda guerrera de aventurero",
+      "Épaules liées au bataillon d’aventure",
+      "Привязанные к отряду наплечники искателя приключений",
+      "Kriegsmeutengebundene Schultern des Abenteurers",
+      "Omoplatas Beligerantes do Aventureiro",
+      "Spallacci Vincolati alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 어깨보호구",
+      "冒險者的戰隊綁定護肩",
+      "冒险者的战团绑定肩甲"
+    ],
+    "Media": "inv_shoulder_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232074,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Waist",
+      "Cintura ligada a la tropa de aventurero",
+      "Cintura Beligerante do Aventureiro",
+      "Adventurer's Warbound Waist",
+      "Cinturón ligado a la banda guerrera de aventurero",
+      "Taille liée au bataillon d’aventure",
+      "Привязанный к отряду пояс искателя приключений",
+      "Kriegsmeutenhüftgurt des Abenteurers",
+      "Cintura Beligerante do Aventureiro",
+      "Cintura Vincolata alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 허리보호구",
+      "冒險者的戰隊綁定護腰",
+      "冒险者的战团绑定腰甲"
+    ],
+    "Media": "inv_belt_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232075,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Wrists",
+      "Muñecas ligadas a la tropa de aventurero",
+      "Pulsos Beligerantes do Aventureiro",
+      "Adventurer's Warbound Wrists",
+      "Muñequeras ligadas a la banda guerrera de aventurero",
+      "Poignets liés au bataillon d’aventure",
+      "Привязанные к отряду наручи искателя приключений",
+      "Kriegsmeutengebundene Gelenkbänder des Abenteurers",
+      "Pulsos Beligerantes do Aventureiro",
+      "Bracciali Vincolati alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 팔보호구",
+      "冒險者的戰隊綁定護腕",
+      "探险者的战团绑定腕甲"
+    ],
+    "Media": "inv_bracer_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232076,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adventurer's Warbound Battlegear Drop",
+      "Botín de equipo de batalla para aventurero ligado a la tropa",
+      "Saque do Equipamento de Batalha Beligerante do Aventureiro",
+      "Adventurer's Warbound Battlegear Drop",
+      "Botín de equipo de batalla ligado a la banda guerrera de aventurero",
+      "Tenue de combat liée au bataillon d’aventure",
+      "Привязанное к отряду боевое снаряжение искателя приключений",
+      "Kriegsmeutengebundene Schlachtausrüstung des Abenteurers",
+      "Saque do Equipamento de Batalha Beligerante do Aventureiro",
+      "Bottino da Battaglia Vincolato alla Brigata dell'Avventuriero",
+      "모험가의 전투귀속 전투장비 전리품",
+      "冒險者的戰隊綁定戰裝掉落",
+      "冒险者的战团绑定斗甲箱"
+    ],
+    "Media": "inv_crate_03.jpg"
   },
   {
     "TagId": 232078,
@@ -2709,6 +2940,132 @@
     "Media": "inv_mail_dragonquest_b_01_cape.jpg"
   },
   {
+    "TagId": 232353,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silent Strike Chestguard",
+      "Coselete de ataque silencioso",
+      "Couraça do Golpe Silencioso",
+      "Silent Strike Chestguard",
+      "Coselete de golpe silencioso",
+      "Corselet de la frappe silencieuse",
+      "Нагрудный доспех бесшумного удара",
+      "Brustschutz des lautlosen Schlags",
+      "Couraça do Golpe Silencioso",
+      "Corazza Foderata del Colpo Silenzioso",
+      "침묵의 일격 가슴보호대",
+      "沉默打擊護胸",
+      "静默打击胸甲"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232354,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Robe of the Liberator",
+      "Toga de liberador",
+      "Veste do Libertador",
+      "Robe of the Liberator",
+      "Toga del liberador",
+      "Robe de la Libération",
+      "Одеяние освободителя",
+      "Robe des Befreiers",
+      "Veste do Libertador",
+      "Tonaca del Liberatore",
+      "해방자의 로브",
+      "解放者長袍",
+      "解放者的长袍"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232355,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Guardbreaker's Chestplate",
+      "Peto de rompeguardias",
+      "Guarda-peito do Quebraguarda",
+      "Guardbreaker's Chestplate",
+      "Peto de rompeguardias",
+      "Pansière de brise-garde",
+      "Бригантина крушителя стражи",
+      "Brustplatte des Wachbrechers",
+      "Guarda-peito do Quebraguarda",
+      "Cotta dello Sfondaguardia",
+      "수비파훼자의 가슴갑옷",
+      "破衛者胸鎧",
+      "溃防者的胸铠"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232356,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chainmail of the Undermine Revolutionary",
+      "Malla de anillas de revolucionario de Minahonda",
+      "Malha de Anéis do Revolucionário da Inframina",
+      "Chainmail of the Undermine Revolutionary",
+      "Malla de anillas del revolucionario de Minahonda",
+      "Cotte de mailles de révolutionnaire de Terremine",
+      "Кольчуга мятежника из Нижней Шахты",
+      "Kettenpanzer des Revolutionärs von Lorenhall",
+      "Malha de Anéis do Revolucionário da Inframina",
+      "Cotta di Maglia del Rivoluzionario di Cavafonda",
+      "언더마인 혁명군의 쇠사슬갑옷",
+      "幽坑城革命軍鎖子甲",
+      "安德麦变革链甲"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232359,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_staff_02.jpg"
+  },
+  {
+    "TagId": 232360,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_polearm_2h_arakkoa_c_01.jpg"
+  },
+  {
     "TagId": 232361,
     "TagType": 21,
     "Names": [
@@ -2982,6 +3339,27 @@
     "Media": "inv_misc_food_18.jpg"
   },
   {
+    "TagId": 232379,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Slime-Slicked Slippers",
+      "Zapatillas cubiertas de baba",
+      "Sapatilhas Cobertas de Visgo",
+      "Slime-Slicked Slippers",
+      "Zapatillas embadurnadas de cieno",
+      "Mules limonées",
+      "Лощенные слизью туфли",
+      "Schleimbesudelte Pantoffeln",
+      "Sapatilhas Cobertas de Visgo",
+      "Pianelle Scivolose per la Poltiglia",
+      "수액으로 번들거리는 끌신",
+      "軟泥潤滑軟靴",
+      "滑溜软泥便鞋"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_boot.jpg"
+  },
+  {
     "TagId": 232380,
     "TagType": 21,
     "Names": [
@@ -3003,6 +3381,90 @@
     "Media": "inv_misc_food_legion_faronaarfizz.jpg"
   },
   {
+    "TagId": 232381,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mostly Cobbled Shoes",
+      "Zapatos casi improvisados",
+      "Sapatos Remendados",
+      "Mostly Cobbled Shoes",
+      "Zapatos casi remendados del todo",
+      "Chaussures presque entièrement semelées",
+      "Наспех сшитые ботинки",
+      "Größtenteils zusammengeflickte Schuhe",
+      "Sapatos Remendados",
+      "Scarpe Parecchio Acciottolate",
+      "그럭저럭 기워 붙인 신발",
+      "大片鵝卵石輕鞋",
+      "拙劣修补的鞋子"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232382,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Golden Valorstone",
+      "Piedra de valor dorada",
+      "Pedra da Bravura Dourada",
+      "Golden Valorstone",
+      "Piedra de valor dorada",
+      "Pierre de vaillance dorée",
+      "Золотой камень доблести",
+      "Goldener Tapferkeitsstein",
+      "Pedra da Bravura Dourada",
+      "Pietra del Valore Dorata",
+      "황금 용맹석",
+      "黃金勇氣石",
+      "金色神勇石"
+    ],
+    "Media": "inv_valorstone_yellow.jpg"
+  },
+  {
+    "TagId": 232383,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soot-Encrusted Kickers",
+      "Chanclos con hollín incrustado",
+      "Pisantes Cobertos de Cinzas",
+      "Soot-Encrusted Kickers",
+      "Chanclos taraceados con hollín",
+      "Demi-bottes encroûtées de suie",
+      "Покрытые золой тяжелые ботинки",
+      "Rußverkrustete Treter",
+      "Pisantes Cobertos de Cinzas",
+      "Tiracalci Incrostati di Sporco",
+      "검댕으로 뒤덮인 장화",
+      "煤灰硬殼蹬靴",
+      "煤烟战靴"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232384,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aqirite-Toe Boots",
+      "Botas con punta de aqirita",
+      "Botas com Bico de Aqirita",
+      "Aqirite-Toe Boots",
+      "Botas con puntera de aqirita",
+      "Bottes coquées en aqirite",
+      "Ботинки с акиритовым носком",
+      "Aqiritzehenstiefel",
+      "Botas com Bico de Aqirita",
+      "Stivali con la Punta di Aqirite",
+      "아퀴라이트 발장화",
+      "亞基岩趾長靴",
+      "亚基矿尖长靴"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_boot.jpg"
+  },
+  {
     "TagId": 232385,
     "TagType": 21,
     "Names": [
@@ -3022,6 +3484,510 @@
       "雷象耳朵"
     ],
     "Media": "inv_misc_food_vendor_toastedfishjerky.jpg"
+  },
+  {
+    "TagId": 232386,
+    "TagType": 21,
+    "Names": [
+      null,
+      "S.A.D.",
+      "D.A.R.",
+      "D.A.E.",
+      "S.A.D.",
+      "D.I.E.",
+      "T.R.I.S.T.E.",
+      "МЯУ",
+      "S.A.D.",
+      "D.A.E.",
+      "D.A.I.",
+      "애.통",
+      "S.A.D.",
+      "S.A.D."
+    ],
+    "Media": "inv_eng_electroshockmountmotivator.jpg"
+  },
+  {
+    "TagId": 232393,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Zirdo's Dirty Grips",
+      "Mandiletes sucios de Zirdo",
+      "Guantes Sujos do Zirdo",
+      "Zirdo's Dirty Grips",
+      "Mandiletes sucios de Zirdo",
+      "Poignes sales de Zirdo",
+      "Грязные захваты Зирдо",
+      "Zirdos schmutzige Greifer",
+      "Guantes Sujos do Zirdo",
+      "Paramani Sporchi di Zirdo",
+      "지르도의 지저분한 손장갑",
+      "吉多的骯髒之握",
+      "吉尔多的脏污手套"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232394,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silent Strike Leggings",
+      "Leotardos de ataque silencioso",
+      "Perneiras do Golpe Silencioso",
+      "Silent Strike Leggings",
+      "Leotardos de golpe silencioso",
+      "Jambières de la frappe silencieuse",
+      "Поножи бесшумного удара",
+      "Gamaschen des lautlosen Schlags",
+      "Perneiras do Golpe Silencioso",
+      "Gambiere del Colpo Silenzioso",
+      "침묵의 일격 다리보호구",
+      "沉默打擊護腿",
+      "静默打击护腿"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232395,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Zirdo's Dirty Headgear",
+      "Protector de cabeza sucio de Zirdo",
+      "Almofre Sujo do Zirdo",
+      "Zirdo's Dirty Headgear",
+      "Casco sucio de Zirdo",
+      "Couvre-chef sale de Zirdo",
+      "Грязный головной убор Зирдо",
+      "Zirdos schmutzige Kopfbedeckung",
+      "Almofre Sujo do Zirdo",
+      "Copricapo Sporco di Zirdo",
+      "지르도의 지저분한 머리보호구",
+      "吉多的骯髒頭盔",
+      "吉尔多的脏污护面"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232396,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silent Strike Helmet",
+      "Yelmo de ataque silencioso",
+      "Capacete do Golpe Silencioso",
+      "Silent Strike Helmet",
+      "Casco de golpe silencioso",
+      "Casque de la frappe silencieuse",
+      "Шлем бесшумного удара",
+      "Helm des lautlosen Schlags",
+      "Capacete do Golpe Silencioso",
+      "Elmetto del Colpo Silenzioso",
+      "침묵의 일격 보호모",
+      "沉默打擊盔帽",
+      "静默打击头盔"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232397,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Zirdo's Dirty Mantle",
+      "Manto sucio de Zirdo",
+      "Dragonas Sujas do Zirdo",
+      "Zirdo's Dirty Mantle",
+      "Manto sucio de Zirdo",
+      "Mantelet sale de Zirdo",
+      "Грязное оплечье Зирдо",
+      "Zirdos schmutziger Mantel",
+      "Dragonas Sujas do Zirdo",
+      "Coprispalle Sporco di Zirdo",
+      "지르도의 지저분한 어깨덧옷",
+      "吉多的骯髒披肩",
+      "吉尔多的脏污披肩"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232398,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silent Strike Gloves",
+      "Guantes de ataque silencioso",
+      "Luvas do Golpe Silencioso",
+      "Silent Strike Gloves",
+      "Guantes de golpe silencioso",
+      "Gants de la frappe silencieuse",
+      "Перчатки бесшумного удара",
+      "Handschuhe des lautlosen Schlags",
+      "Luvas do Golpe Silencioso",
+      "Guanti del Colpo Silenzioso",
+      "침묵의 일격 장갑",
+      "沉默打擊手套",
+      "静默打击手套"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232399,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Zirdo's Dirty Greaves",
+      "Grebas sucias de Zirdo",
+      "Grevas Sujas do Zirdo",
+      "Zirdo's Dirty Greaves",
+      "Grebas sucias de Zirdo",
+      "Grèves sales de Zirdo",
+      "Грязные наголенники Зирдо",
+      "Zirdos schmutzige Beinschützer",
+      "Grevas Sujas do Zirdo",
+      "Gambiere Rinforzate Sporche di Zirdo",
+      "지르도의 지저분한 경갑",
+      "吉多的骯髒護脛",
+      "吉尔多的脏污护胫"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232400,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Guardbreaker's Boots",
+      "Botas de rompeguardias",
+      "Botas do Quebraguarda",
+      "Guardbreaker's Boots",
+      "Botas de rompeguardias",
+      "Bottes de brise-garde",
+      "Сапоги крушителя стражи",
+      "Stiefel des Wachbrechers",
+      "Botas do Quebraguarda",
+      "Stivali dello Sfondaguardia",
+      "수비파훼자의 장화",
+      "破衛者長靴",
+      "溃防者的靴子"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232401,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Shoulderguards of the Liberator",
+      "Guardahombros de liberador",
+      "Guarda-ombros do Libertador",
+      "Shoulderguards of the Liberator",
+      "Guardahombros del liberador",
+      "Garde-épaules de la Libération",
+      "Наплечные щитки освободителя",
+      "Schulterschützer des Befreiers",
+      "Guarda-ombros do Libertador",
+      "Spallacci Foderati del Liberatore",
+      "해방자의 어깨보호대",
+      "解放者肩衛",
+      "解放者的护肩"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232402,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Guardbreaker's Wristwraps",
+      "Cubremuñecas de rompeguardias",
+      "Munhecas do Quebraguarda",
+      "Guardbreaker's Wristwraps",
+      "Cubremuñecas de rompeguardias",
+      "Bandelettes de brise-garde",
+      "Напульсники крушителя стражи",
+      "Gelenkbänder des Wachbrechers",
+      "Munhecas do Quebraguarda",
+      "Bracciali Leggeri dello Sfondaguardia",
+      "수비파훼자의 손목싸개",
+      "破衛者裹腕",
+      "溃防者的裹腕"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232403,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sabatons of the Liberator",
+      "Escarpes de liberador",
+      "Escarpes do Libertador",
+      "Sabatons of the Liberator",
+      "Escarpes del liberador",
+      "Solerets de la Libération",
+      "Башмаки освободителя",
+      "Sabatons des Befreiers",
+      "Escarpes do Libertador",
+      "Calzari del Liberatore",
+      "해방자의 발덮개",
+      "解放者脛甲",
+      "解放者的战靴"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232404,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Guardbreaker's Helm",
+      "Yelmo de rompeguardias",
+      "Elmo do Quebraguarda",
+      "Guardbreaker's Helm",
+      "Yelmo de rompeguardias",
+      "Heaume de brise-garde",
+      "Шлем крушителя стражи",
+      "Helm des Wachbrechers",
+      "Elmo do Quebraguarda",
+      "Elmo dello Sfondaguardia",
+      "수비파훼자의 투구",
+      "破衛者頭盔",
+      "溃防者的头盔"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232405,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cinch of the Liberator",
+      "Cincha de liberador",
+      "Cilha do Libertador",
+      "Cinch of the Liberator",
+      "Cincho del liberador",
+      "Cordelière de la Libération",
+      "Кушак освободителя",
+      "Hüftgurt des Befreiers",
+      "Cilha do Libertador",
+      "Cinta del Liberatore",
+      "해방자의 허리끈",
+      "解放者繫腰",
+      "解放者的束带"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232406,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Headgear of the Undermine Revolutionary",
+      "Protector de cabeza de revolucionario de Minahonda",
+      "Almofre do Revolucionário da Inframina",
+      "Headgear of the Undermine Revolutionary",
+      "Casco del revolucionario de Minahonda",
+      "Couvre-chef de révolutionnaire de Terremine",
+      "Головной убор мятежника из Нижней Шахты",
+      "Kopfbedeckung des Revolutionärs von Lorenhall",
+      "Almofre do Revolucionário da Inframina",
+      "Elmetto del Rivoluzionario di Cavafonda",
+      "언더마인 혁명군 머리보호구",
+      "幽坑城革命軍頭盔",
+      "安德麦变革面甲"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232407,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boots of the Undermine Revolutionary",
+      "Botas de revolucionario de Minahonda",
+      "Botas do Revolucionário da Inframina",
+      "Boots of the Undermine Revolutionary",
+      "Botas del revolucionario de Minahonda",
+      "Bottes de révolutionnaire de Terremine",
+      "Сапоги мятежника из Нижней Шахты",
+      "Stiefel des Revolutionärs von Lorenhall",
+      "Botas do Revolucionário da Inframina",
+      "Stivali del Rivoluzionario di Cavafonda",
+      "언더마인 혁명군의 장화",
+      "幽坑城革命軍長靴",
+      "安德麦变革长靴"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232408,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Legguards of the Undermine Revolutionary",
+      "Musleras de revolucionario de Minahonda",
+      "Guarda-pernas do Revolucionário da Inframina",
+      "Legguards of the Undermine Revolutionary",
+      "Musleras del revolucionario de Minahonda",
+      "Garde-jambes de révolutionnaire de Terremine",
+      "Набедренники мятежника из Нижней Шахты",
+      "Beinschützer des Revolutionärs von Lorenhall",
+      "Guarda-pernas do Revolucionário da Inframina",
+      "Gambali Foderati del Rivoluzionario di Cavafonda",
+      "언더마인 혁명군 다리보호대",
+      "幽坑城革命軍腿甲",
+      "安德麦变革护腿"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232410,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Craftsman's Repurposed Mitts",
+      "Mitones modificados de artesano",
+      "Luvetes de Artesão Readaptadas",
+      "Craftsman's Repurposed Mitts",
+      "Mitones de artesano modificados",
+      "Mitaines d’artisanat reconverties",
+      "Переделанные полуперчатки ремесленника",
+      "Umfunktionierte Fäustlinge des Handwerkers",
+      "Luvetes de Artesão Readaptadas",
+      "Mezziguanti Ricondizionati dell'Artigiano",
+      "장인의 개조된 반장갑",
+      "工匠的再利用長手套",
+      "工匠的改造指套"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232411,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Goblin Boxer's Wraps",
+      "Cubremuñecas de boxeador goblin",
+      "Munhequeiras Goblínicas do Boxeador",
+      "Goblin Boxer's Wraps",
+      "Cubremuñecas de boxeador goblin",
+      "Rubans de boxe gobelins",
+      "Напульсники гоблина-боксера",
+      "Goblinboxerwickel",
+      "Munhequeiras Goblínicas do Boxeador",
+      "Nastri da Box dei Goblin",
+      "고블린 권투 선수의 손싸개",
+      "哥布林拳擊手裹手",
+      "地精拳手的裹手"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232412,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Smelter's Gloves",
+      "Guantes de fundidor de Minahonda",
+      "Luvas do Fundidor da Inframina",
+      "Undermine Smelter's Gloves",
+      "Guantes de fundidor de Minahonda",
+      "Gants de fondeuse de Terremine",
+      "Перчатки литейщика из Нижней Шахты",
+      "Handschuhe des Schmelzers von Lorenhall",
+      "Luvas do Fundidor da Inframina",
+      "Guanti del Fonditore di Cavafonda",
+      "언더마인 제련사의 장갑",
+      "幽坑城冶煉工手套",
+      "安德麦熔炼师的手套"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232413,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Retired Bouncer's Gauntlets",
+      "Guanteletes de personal de seguridad retirado",
+      "Manoplas do Leão de Chácara Aposentado",
+      "Retired Bouncer's Gauntlets",
+      "Guanteletes de portero retirado",
+      "Gantelets de videur à la retraite",
+      "Рукавицы вышибалы в отставке",
+      "Stulpen des pensionierten Rausschmeißers",
+      "Manoplas do Leão de Chácara Aposentado",
+      "Guanti Lunghi del Buttafuori in Pensione",
+      "은퇴한 문지기의 건틀릿",
+      "退休保鏢護手",
+      "退休保镖的护手"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232417,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Circle of Cleansing",
+      "Círculo de purificación",
+      "Círculo de Purificação",
+      "Circle of Cleansing",
+      "Sortija de purificación",
+      "Cercle purificateur",
+      "Круг очищения",
+      "Kreis der Reinigung",
+      "Círculo de Purificação",
+      "Anellino della Purificazione",
+      "정화의 고리반지",
+      "淨化之環",
+      "纯净指环"
+    ],
+    "Media": "inv_jewelry_ring_50naxxramas.jpg"
+  },
+  {
+    "TagId": 232418,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ring of Purification",
+      "Anillo de purificación",
+      "Anel da Purificação",
+      "Ring of Purification",
+      "Anillo de purificación",
+      "Anneau de purification",
+      "Перстень очищения",
+      "Ring der Läuterung",
+      "Anel da Purificação",
+      "Anello della Purificazione",
+      "정화의 반지",
+      "淨化之戒",
+      "净化戒指"
+    ],
+    "Media": "inv_11xp_generic_blizzardphoenixring01.jpg"
+  },
+  {
+    "TagId": 232425,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Spear",
+      "Lanza boreal",
+      "Lança Boreal",
+      "Boreal Spear",
+      "Lanza boreal",
+      "Lance boréale",
+      "Арктическое копье",
+      "Borealer Speer",
+      "Lança Boreal",
+      "Lancia Boreale",
+      "북풍의 창",
+      "北地長矛",
+      "北风长枪"
+    ],
+    "Media": "inv_polearm_2h_outdoorundermine_c_01.jpg"
   },
   {
     "TagId": 232430,
@@ -3066,25 +4032,382 @@
     "Media": "inv_leather_raidrogue_s_01_helm.jpg"
   },
   {
+    "TagId": 232435,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Spellstaff",
+      "Bastón de hechizos boreal",
+      "Cajado Mágico Boreal",
+      "Boreal Spellstaff",
+      "Bastón de hechizos boreal",
+      "Bâton magique boréal",
+      "Арктический чародейский посох",
+      "Borealer Magierstab",
+      "Cajado Mágico Boreal",
+      "Bastone Magico Boreale",
+      "북풍의 주문지팡이",
+      "北地施術杖",
+      "北风法术之杖"
+    ],
+    "Media": "inv_staff_2h_outdoorundermine_c_01_.jpg"
+  },
+  {
     "TagId": 232439,
     "TagType": 21,
     "Names": [
       null,
       "Rune-Seared Spear",
       "Lanza de abrasamiento rúnico",
-      "Lança Encrustada com Runas",
+      "Lança Incrustada com Runas",
       "Rune-Seared Spear",
       "Lanza abrasada de runas",
       "Lance brûlée de runes",
       "Опаленное рунами копье",
       "Runenversengter Speer",
-      "Lança Encrustada com Runas",
+      "Lança Incrustada com Runas",
       "Lancia con Bruciatura Runica",
       "룬낙인 창",
       "布滿符文的長矛",
       "符文灼烧的长矛"
     ],
     "Media": "inv_spear_07.jpg"
+  },
+  {
+    "TagId": 232440,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow",
+      "[PH] Boreal Crossbow"
+    ],
+    "Media": "inv_crossbow_2h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 232441,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Battleaxe",
+      "Hacha de batalla boreal",
+      "Machado de Batalha Boreal",
+      "Boreal Battleaxe",
+      "Hacha de batalla boreal",
+      "Hache d’armes boréale",
+      "Арктический боевой топор",
+      "Boreale Streitaxt",
+      "Machado de Batalha Boreal",
+      "Ascia da Battaglia Boreale",
+      "북풍의 전투도끼",
+      "北地戰斧",
+      "北风战斧"
+    ],
+    "Media": "inv_axe_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232442,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Blade",
+      "Hoja boreal",
+      "Lâmina Boreal",
+      "Boreal Blade",
+      "Hoja boreal",
+      "Lame boréale",
+      "Арктический клинок",
+      "Boreale Klinge",
+      "Lâmina Boreal",
+      "Lama Boreale",
+      "북풍의 칼날",
+      "北地之刃",
+      "北风利刃"
+    ],
+    "Media": "inv_sword_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232444,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Spellsword",
+      "Espada de hechizo boreal",
+      "Magispada Boreal",
+      "Boreal Spellsword",
+      "Hojahechizo boreal",
+      "Sorcépée boréale",
+      "Арктический магический клинок",
+      "Boreales Zauberschwert",
+      "Magispada Boreal",
+      "Spada Magica Boreale",
+      "북풍의 주문검",
+      "北地法劍",
+      "北风魔剑"
+    ],
+    "Media": "inv_sword_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232445,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Thumper",
+      "Sacudidor boreal",
+      "Espancador Boreal",
+      "Boreal Thumper",
+      "Machacador boral",
+      "Marteleur boréal",
+      "Арктический колотун",
+      "Borealer Prügler",
+      "Espancador Boreal",
+      "Mazza Boreale",
+      "북풍의 강타봉",
+      "北地猛擊錘",
+      "北风轰鸣锤"
+    ],
+    "Media": "inv_mace_1h_outdoorundermine_c_02.jpg"
+  },
+  {
+    "TagId": 232446,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Rifle",
+      "Rifle boreal",
+      "Rifle Boreal",
+      "Boreal Rifle",
+      "Rifle boreal",
+      "Carabine boréale",
+      "Арктическое ружье",
+      "Boreales Gewehr",
+      "Rifle Boreal",
+      "Archibugio Boreale",
+      "북풍의 소총",
+      "北地步槍",
+      "北风步枪"
+    ],
+    "Media": "inv_firearm_2h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232447,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boreal Shank",
+      "Puñal boreal",
+      "Estoque Boreal",
+      "Boreal Shank",
+      "Corvo boreal",
+      "Surin boréal",
+      "Арктическая заточка",
+      "Borealer Dolch",
+      "Estoque Boreal",
+      "Daga Boreale",
+      "북풍의 단도",
+      "北地凶器",
+      "北风刺刀"
+    ],
+    "Media": "inv_knife_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232448,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grateful Goblin's Shield",
+      "Escudo de goblin agradecido",
+      "Escudo do Goblin Grato",
+      "Grateful Goblin's Shield",
+      "Escudo de goblin agradecido",
+      "Bouclier de reconnaissance gobeline",
+      "Щит благодарного гоблина",
+      "Schild des dankbaren Goblins",
+      "Escudo do Goblin Grato",
+      "Scudo del Goblin Grato",
+      "감사하는 고블린의 방패",
+      "感激的哥布林盾牌",
+      "感恩地精的盾牌"
+    ],
+    "Media": "inv_shield_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232449,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grateful Goblin's Dagger",
+      "Daga de goblin agradecido",
+      "Adaga do Goblin Grato",
+      "Grateful Goblin's Dagger",
+      "Daga de goblin agradecido",
+      "Dague de reconnaissance gobeline",
+      "Кинжал благодарного гоблина",
+      "Dolch des dankbaren Goblins",
+      "Adaga do Goblin Grato",
+      "Pugnale del Goblin Grato",
+      "감사하는 고블린의 단검",
+      "感激的哥布林匕首",
+      "感恩地精的匕首"
+    ],
+    "Media": "inv_knife_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232450,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grateful Goblin's Sword",
+      "Espada de goblin agradecido",
+      "Espada do Goblin Grato",
+      "Grateful Goblin's Sword",
+      "Espada de goblin agradecido",
+      "Épée de reconnaissance gobeline",
+      "Меч благодарного гоблина",
+      "Schwert des dankbaren Goblins",
+      "Espada do Goblin Grato",
+      "Spada del Goblin Grato",
+      "감사하는 고블린의 검",
+      "感激的哥布林之劍",
+      "感恩地精的剑"
+    ],
+    "Media": "inv_sword_2h_outdoorundermine_c_01_purple.jpg"
+  },
+  {
+    "TagId": 232451,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grateful Goblin's Mallet",
+      "Mazo de goblin agradecido",
+      "Marreta do Goblin Grato",
+      "Grateful Goblin's Mallet",
+      "Marra de goblin agradecido",
+      "Massette de reconnaissance gobeline",
+      "Колотушка благодарного гоблина",
+      "Hammer des dankbaren Goblins",
+      "Marreta do Goblin Grato",
+      "Mazzuolo del Goblin Grato",
+      "감사하는 고블린의 나무망치",
+      "感激的哥布林之槌",
+      "感恩地精的槌棒"
+    ],
+    "Media": "inv_mace_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232452,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grateful Goblin's Cudgel",
+      "Cayada de goblin agradecido",
+      "Borduna do Goblin Grato",
+      "Grateful Goblin's Cudgel",
+      "Cayada de goblin agradecido",
+      "Casse-tête de reconnaissance gobeline",
+      "Дубинка благодарного гоблина",
+      "Knüppel des dankbaren Goblins",
+      "Borduna do Goblin Grato",
+      "Mazza Ferrata del Goblin Grato",
+      "감사하는 고블린의 곤봉",
+      "感激的哥布林鬥棍",
+      "感恩地精的轻棍"
+    ],
+    "Media": "inv_mace_1h_outdoorundermine_c_02.jpg"
+  },
+  {
+    "TagId": 232453,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grateful Goblin's Wand",
+      "Varita de goblin agradecido",
+      "Varinha do Goblin Grato",
+      "Grateful Goblin's Wand",
+      "Varita de goblin agradecido",
+      "Baguette de reconnaissance gobeline",
+      "Жезл благодарного гоблина",
+      "Zauberstab des dankbaren Goblins",
+      "Varinha do Goblin Grato",
+      "Bacchetta del Goblin Grato",
+      "감사하는 고블린의 마법봉",
+      "感激的哥布林魔杖",
+      "感恩地精的魔杖"
+    ],
+    "Media": "inv_wand_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232463,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Overflowing Undermine Trove",
+      "Tesoro de Minahonda rebosante",
+      "Arca da Inframina Transbordante",
+      "Overflowing Undermine Trove",
+      "Tesoro de Minahonda desbordante",
+      "Trésor débordant de Terremine",
+      "Переполненный клад Нижней Шахты",
+      "Überquellender Schatz von Lorenhall",
+      "Arca da Inframina Transbordante",
+      "Tesoro Traboccante di Cavafonda",
+      "터질 듯한 언더마인 보물 상자",
+      "滿溢幽坑城寶藏",
+      "满溢的安德麦宝库"
+    ],
+    "Media": "inv_misc_treasurechest04c.jpg"
+  },
+  {
+    "TagId": 232464,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crumpled Paystub",
+      "Recibo de sueldo arrugado",
+      "Contracheque Amassado",
+      "Crumpled Paystub",
+      "Nómina arrugada",
+      "Fiche de paie froissée",
+      "Смятый расчетный лист",
+      "Zerknüllte Gehaltsabrechnung",
+      "Contracheque Amassado",
+      "Busta Paga Accartocciata",
+      "구겨진 급여 명세서",
+      "弄皺的薪資單",
+      "皱巴巴的工资单"
+    ],
+    "Media": "inv_letter_13.jpg"
+  },
+  {
+    "TagId": 232465,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkfuse Trove",
+      "Tesoro de Mechaoscura",
+      "Arca Sombrafuso",
+      "Darkfuse Trove",
+      "Tesoro de Fundisombras",
+      "Trésor imprégné de ténèbres",
+      "Клад картеля Мрачных Минеров",
+      "Schatz der Düsternisverschmolzenen",
+      "Arca Sombrafuso",
+      "Tesoro dei Micciascura",
+      "다크퓨즈 상자",
+      "暗融寶箱",
+      "暗索宝库"
+    ],
+    "Media": "inv_misc_enggizmos_17.jpg"
   },
   {
     "TagId": 232466,
@@ -3106,6 +4429,69 @@
       "离开风暴"
     ],
     "Media": "inv_pet_exitbattle.jpg"
+  },
+  {
+    "TagId": 232468,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_shootwand.jpg"
+  },
+  {
+    "TagId": 232469,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_offhand_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 232470,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_steelmelee.jpg"
   },
   {
     "TagId": 232471,
@@ -3402,6 +4788,48 @@
     "Media": "inv_plate_raidpaladint2_d_01_pant.jpg"
   },
   {
+    "TagId": 232485,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mechano-Core Amplifier",
+      "Amplificador de mecanonúcleo",
+      "Amplificador de Mecanúcleo",
+      "Mechano-Core Amplifier",
+      "Amplificador de mecanonúcleo",
+      "Amplificateur de mécano-noyau",
+      "Усилитель механо-сердечника",
+      "Mechanokernverstärker",
+      "Amplificador de Mecanúcleo",
+      "Amplificatore del Meccanucleo",
+      "기계 핵 증폭기",
+      "機械核心增幅器",
+      "机械核心增幅器"
+    ],
+    "Media": "inv_misc_weathermachine_01.jpg"
+  },
+  {
+    "TagId": 232486,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Noggenfogger Ultimate Deluxe",
+      "Lujo máximo de Tragonublo",
+      "Nublacuca Supremo Deluxe",
+      "Noggenfogger Ultimate Deluxe",
+      "Elixir exclusivo de lujo de Tragonublo",
+      "Élixir Brouillecaboche de luxe ultime",
+      "Сверхизысканный эликсир Гогельмогеля",
+      "Ultimativer Noggenfogger Deluxe",
+      "Nublacuca Supremo Deluxe",
+      "Granstrippo Deluxe Definitivo",
+      "궁극 명품 노겐포저의 비약",
+      "諾格弗格終極藥劑",
+      "诺格弗格至尊豪华版"
+    ],
+    "Media": "inv_potion_83.jpg"
+  },
+  {
     "TagId": 232487,
     "TagType": 21,
     "Names": [
@@ -3633,6 +5061,237 @@
     "Media": "inv_10_blacksmithing_consumable_key_color1.jpg"
   },
   {
+    "TagId": 232499,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Alchemy",
+      "Tratado de Minahonda sobre alquimia",
+      "Tratado da Inframina sobre Alquimia",
+      "Undermine Treatise on Alchemy",
+      "Tratado de alquimia de Minahonda",
+      "Traité terreminien d’alchimie",
+      "Трактат об алхимии Нижней Шахты",
+      "Alchemieabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Alquimia",
+      "Trattato di Cavafonda sull'Alchimia",
+      "연금술에 관한 언더마인 논문",
+      "幽坑城鍊金術概論",
+      "炼金安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_alchemy_orig.jpg"
+  },
+  {
+    "TagId": 232500,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Blacksmithing",
+      "Tratado de Minahonda sobre herrería",
+      "Tratado da Inframina sobre Ferraria",
+      "Undermine Treatise on Blacksmithing",
+      "Tratado de herrería de Minahonda",
+      "Traité terreminien de forge",
+      "Трактат о кузнечном деле Нижней Шахты",
+      "Schmiedekunstabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Ferraria",
+      "Trattato di Cavafonda sulla Forgiatura",
+      "대장기술에 관한 언더마인 논문",
+      "幽坑城鍛造概論",
+      "锻造安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_blacksmithing_orig.jpg"
+  },
+  {
+    "TagId": 232501,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Enchanting",
+      "Tratado de Minahonda sobre encantamiento",
+      "Tratado da Inframina sobre Encantamento",
+      "Undermine Treatise on Enchanting",
+      "Tratado de encantamiento de Minahonda",
+      "Traité terreminien d’enchantement",
+      "Трактат о наложении чар Нижней Шахты",
+      "Verzauberkunstabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Encantamento",
+      "Trattato di Cavafonda sull'Incantamento",
+      "마법부여에 관한 언더마인 논문",
+      "幽坑城附魔概論",
+      "附魔安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_enchanting_color1.jpg"
+  },
+  {
+    "TagId": 232502,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Tailoring",
+      "Tratado de Minahonda sobre sastrería",
+      "Tratado da Inframina sobre Alfaiataria",
+      "Undermine Treatise on Tailoring",
+      "Tratado de sastrería de Minahonda",
+      "Traité terreminien de couture",
+      "Трактат о портняжном деле Нижней Шахты",
+      "Schneidereiabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Alfaiataria",
+      "Trattato di Cavafonda sulla Sartoria",
+      "재봉술에 관한 언더마인 논문",
+      "幽坑城裁縫概論",
+      "裁缝安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_tailoring_color2.jpg"
+  },
+  {
+    "TagId": 232503,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Herbalism",
+      "Tratado de Minahonda sobre herboristería",
+      "Tratado da Inframina sobre Herborismo",
+      "Undermine Treatise on Herbalism",
+      "Tratado de herboristería de Minahonda",
+      "Traité terreminien d’herboristerie",
+      "Трактат о травничестве Нижней Шахты",
+      "Kräuterkundeabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Herborismo",
+      "Trattato di Cavafonda sull'Erbalismo",
+      "약초채집에 관한 언더마인 논문",
+      "幽坑城草藥學概論",
+      "草药学安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_herbalism_color1.jpg"
+  },
+  {
+    "TagId": 232504,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Jewelcrafting",
+      "Tratado de Minahonda sobre joyería",
+      "Tratado da Inframina sobre Joalheria",
+      "Undermine Treatise on Jewelcrafting",
+      "Tratado de joyería de Minahonda",
+      "Traité terreminien de joaillerie",
+      "Трактат о ювелирном деле Нижней Шахты",
+      "Juwelierskunstabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Joalheria",
+      "Trattato di Cavafonda sull'Oreficeria",
+      "보석세공에 관한 언더마인 논문",
+      "幽坑城珠寶設計概論",
+      "珠宝加工安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_jewelcrafting_color2.jpg"
+  },
+  {
+    "TagId": 232505,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Leatherworking",
+      "Tratado de Minahonda sobre peletería",
+      "Tratado da Inframina sobre Couraria",
+      "Undermine Treatise on Leatherworking",
+      "Tratado de peletería de Minahonda",
+      "Traité terreminien de travail du cuir",
+      "Трактат о кожевничестве Нижней Шахты",
+      "Lederverarbeitungsabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Couraria",
+      "Trattato di Cavafonda sulla Conciatura",
+      "가죽세공에 관한 언더마인 논문",
+      "幽坑城製皮概論",
+      "制皮安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_leatherworking_color1.jpg"
+  },
+  {
+    "TagId": 232506,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Skinning",
+      "Tratado de Minahonda sobre desuello",
+      "Tratado da Inframina sobre Esfolamento",
+      "Undermine Treatise on Skinning",
+      "Tratado de desuello de Minahonda",
+      "Traité terreminien de dépeçage",
+      "Трактат о снятии шкур Нижней Шахты",
+      "Kürschnereiabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Esfolamento",
+      "Trattato di Cavafonda sulla Scuoiatura",
+      "무두질에 관한 언더마인 논문",
+      "幽坑城剝皮概論",
+      "剥皮安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_skinning_color2.jpg"
+  },
+  {
+    "TagId": 232507,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Engineering",
+      "Tratado de Minahonda sobre ingeniería",
+      "Tratado da Inframina sobre Engenharia",
+      "Undermine Treatise on Engineering",
+      "Tratado de ingeniería de Minahonda",
+      "Traité terreminien d’ingénierie",
+      "Трактат об инженерном деле Нижней Шахты",
+      "Ingenieurskunstabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Engenharia",
+      "Trattato di Cavafonda sull'Ingegneria",
+      "기계공학에 관한 언더마인 논문",
+      "幽坑城工程學概論",
+      "工程学安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_engineering_orig.jpg"
+  },
+  {
+    "TagId": 232508,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Inscription",
+      "Tratado de Minahonda sobre inscripción",
+      "Tratado da Inframina sobre Escrivania",
+      "Undermine Treatise on Inscription",
+      "Tratado de inscripción de Minahonda",
+      "Traité terreminien de calligraphie",
+      "Трактат о начертании Нижней Шахты",
+      "Inschriftenkundeabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Escrivania",
+      "Trattato di Cavafonda sulla Runografia",
+      "주문각인에 관한 언더마인 논문",
+      "幽坑城銘文學概論",
+      "铭文安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_inscription_color1.jpg"
+  },
+  {
+    "TagId": 232509,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Treatise on Mining",
+      "Tratado de Minahonda sobre minería",
+      "Tratado da Inframina sobre Mineração",
+      "Undermine Treatise on Mining",
+      "Tratado de minería de Minahonda",
+      "Traité terreminien de minage",
+      "Трактат о горном деле Нижней Шахты",
+      "Bergbauabhandlung aus Lorenhall",
+      "Tratado da Inframina sobre Mineração",
+      "Trattato di Cavafonda sull'Estrazione",
+      "채광에 관한 언더마인 논문",
+      "幽坑城採礦概論",
+      "采矿安德麦论述"
+    ],
+    "Media": "inv_10_specialization_professionbook_mining_color1.jpg"
+  },
+  {
     "TagId": 232510,
     "TagType": 21,
     "Names": [
@@ -3673,6 +5332,69 @@
       "电鳗"
     ],
     "Media": "inv_misc_fish_12.jpg"
+  },
+  {
+    "TagId": 232512,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_weapon_rifle_01.jpg"
+  },
+  {
+    "TagId": 232514,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_111_tabard_underminerenown.jpg"
+  },
+  {
+    "TagId": 232515,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Experimental Goblin Jetpack",
+      "Mochila cohete goblin experimental",
+      "Mochila Voadora de Goblin Experimental",
+      "Experimental Goblin Jetpack",
+      "Mochila cohete goblin experimental",
+      "Propulseur expérimental gobelin",
+      "Экспериментальный гоблинский ранец",
+      "Experimentelles Goblinjetpack",
+      "Mochila Voadora de Goblin Experimental",
+      "Zaino Razzo Sperimentale dei Goblin",
+      "실험용 고블린 로켓추진기",
+      "實驗性哥布林噴射背包",
+      "试验性地精喷气背包"
+    ],
+    "Media": "inv_cape_special_mechanicalflyer_d_01.jpg"
   },
   {
     "TagId": 232518,
@@ -3738,6 +5460,27 @@
     "Media": "inv_glyph_minormage.jpg"
   },
   {
+    "TagId": 232523,
+    "TagType": 21,
+    "Names": [
+      null,
+      "G-99 Breakneck",
+      "Rompenucas G-99",
+      "Pé-na-Tábua G-99",
+      "G-99 Breakneck",
+      "Rompecuellos G-99",
+      "G-99 Ventraterre",
+      "Стремглав G-99",
+      "99-G-Genickbrecher",
+      "Pé-na-Tábua G-99",
+      "G-99 Rottadicollo",
+      "G-99 광폭질주차",
+      "斷頸者G-99",
+      "G-99疾飙飞车"
+    ],
+    "Media": "inv_viciousgoblintrike.jpg"
+  },
+  {
     "TagId": 232524,
     "TagType": 21,
     "Names": [
@@ -3780,6 +5523,27 @@
     "Media": "inv_chest _armor_sylvanas_d_01.jpg"
   },
   {
+    "TagId": 232526,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Best-in-Slots",
+      "Lo mejor de lo mejor",
+      "Vale Cada Níquel",
+      "Best-in-Slots",
+      "Palanca de la suerte",
+      "As-des-Machines",
+      "БИС",
+      "Spieloplatt",
+      "Vale Cada Níquel",
+      "Leva della Slot",
+      "종결 무기",
+      "最佳裝備",
+      "最上品"
+    ],
+    "Media": "inv_mace_2h_goblinraid_d_02.jpg"
+  },
+  {
     "TagId": 232527,
     "TagType": 21,
     "Names": [
@@ -3820,6 +5584,216 @@
       "格伦奇"
     ],
     "Media": "inv_yetigreench2pet.jpg"
+  },
+  {
+    "TagId": 232532,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Contract: The Cartels of Undermine",
+      "Contrato: Cárteles de Minahonda",
+      "Contrato: Cartéis da Inframina",
+      "Contract: The Cartels of Undermine",
+      "Contrato: Cárteles de Minahonda",
+      "Contrat\u00A0: cartels de Terremine",
+      "Контракт: картели Нижней Шахты",
+      "Vertrag: Die Kartelle von Lorenhall",
+      "Contrato: Cartéis da Inframina",
+      "Contratto - Cartelli di Cavafonda",
+      "계약서: 언더마인 무역회사 연합",
+      "合約：幽坑城集團",
+      "合约：安德麦财阀"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color1.jpg"
+  },
+  {
+    "TagId": 232533,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Contract: The Cartels of Undermine",
+      "Contrato: Cárteles de Minahonda",
+      "Contrato: Cartéis da Inframina",
+      "Contract: The Cartels of Undermine",
+      "Contrato: Cárteles de Minahonda",
+      "Contrat\u00A0: cartels de Terremine",
+      "Контракт: картели Нижней Шахты",
+      "Vertrag: Die Kartelle von Lorenhall",
+      "Contrato: Cartéis da Inframina",
+      "Contratto - Cartelli di Cavafonda",
+      "계약서: 언더마인 무역회사 연합",
+      "合約：幽坑城集團",
+      "合约：安德麦财阀"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color1.jpg"
+  },
+  {
+    "TagId": 232534,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Contract: The Cartels of Undermine",
+      "Contrato: Cárteles de Minahonda",
+      "Contrato: Cartéis da Inframina",
+      "Contract: The Cartels of Undermine",
+      "Contrato: Cárteles de Minahonda",
+      "Contrat\u00A0: cartels de Terremine",
+      "Контракт: картели Нижней Шахты",
+      "Vertrag: Die Kartelle von Lorenhall",
+      "Contrato: Cartéis da Inframina",
+      "Contratto - Cartelli di Cavafonda",
+      "계약서: 언더마인 무역회사 연합",
+      "合約：幽坑城集團",
+      "合约：安德麦财阀"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color1.jpg"
+  },
+  {
+    "TagId": 232535,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Technique: Contract: The Cartels of Undermine",
+      "Técnica: Contrato: Cárteles de Minahonda",
+      "Técnica: Contrato: Cartéis da Inframina",
+      "Technique: Contract: The Cartels of Undermine",
+      "Técnica: Contrato: Cárteles de Minahonda",
+      "Technique\u00A0: contrat avec les cartels de Terremine",
+      "Техника: контракт с картелями Нижней Шахты",
+      "Technik: Vertrag: Die Kartelle von Lorenhall",
+      "Técnica: Contrato: Cartéis da Inframina",
+      "Tecnica: Contratto - Cartelli di Cavafonda",
+      "각인 기법: 계약서: 언더마인 무역회사 연합",
+      "技藝：合約：幽坑城集團",
+      "工艺图：合约：安德麦财阀"
+    ],
+    "Media": "inv_10_inscription2_scroll2_color4.jpg"
+  },
+  {
+    "TagId": 232541,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Improvised Seaforium Pacemaker",
+      "Marcapasos de seforio improvisado",
+      "Marca-passo Improvisado de Cequatrum",
+      "Improvised Seaforium Pacemaker",
+      "Marcapasos de seforio improvisado",
+      "Stimulateur cardiaque improvisé à l’hydroglycérine",
+      "Импровизированный сефориевый стимулятор",
+      "Improvisierter Zephyriumschrittmacher",
+      "Marca-passo Improvisado de Cequatrum",
+      "Pacemaker di Nitronite Improvvisato",
+      "임시방편 시포리움 조율기",
+      "臨時爆鹽心律調節器",
+      "临时制作的爆盐起搏器"
+    ],
+    "Media": "ability_blackhand_attachedslagbombs.jpg"
+  },
+  {
+    "TagId": 232542,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkfuse Medichopper",
+      "Medichopper mechaoscura",
+      "Curacóptero dos Sombrafuso",
+      "Darkfuse Medichopper",
+      "Cortador sanitario de Fundisombras",
+      "Médibolide imprégné de ténèbres",
+      "Медвертушка Мрачных Минеров",
+      "Sanikopter der Düsternisverschmolzenen",
+      "Curacóptero dos Sombrafuso",
+      "Medicottero dei Micciascura",
+      "다크퓨즈 치료공급기",
+      "暗融醫療機",
+      "暗索医疗机"
+    ],
+    "Media": "inv_111_healraydrone_blackwater.jpg"
+  },
+  {
+    "TagId": 232543,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ringing Ritual Mud",
+      "Lodo ritual espiralado",
+      "Lama Ritual Ressonante",
+      "Ringing Ritual Mud",
+      "Fango ritual resonante",
+      "Boue rituelle retentissante",
+      "Грязь гулкого ритуала",
+      "Schallender Ritualmatsch",
+      "Lama Ritual Ressonante",
+      "Fango Rituale Risonante",
+      "울리는 의식의 진흙",
+      "響鳴儀式泥土",
+      "共鸣仪式泥浆"
+    ],
+    "Media": "inv_misc_food_legion_goomolasses_pool.jpg"
+  },
+  {
+    "TagId": 232545,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gigazap's Zap-Cap",
+      "Electrocaja de Gigazap",
+      "Cuca-zap de Gigazap",
+      "Gigazap's Zap-Cap",
+      "Gorro de chispazos de Gigachispa",
+      "Zap-clap de Gigazap",
+      "Бжикокрышка Гигабжика",
+      "Gigaschocks Schockkappe",
+      "Cuca-zap de Gigazap",
+      "Folgoratore di Gigascossa",
+      "기가잽의 감전 덮개",
+      "巨電的電擊帽",
+      "超震的震击帽"
+    ],
+    "Media": "inv_engineering_90_lightningbox.jpg"
+  },
+  {
+    "TagId": 232546,
+    "TagType": 21,
+    "Names": [
+      null,
+      "K.U.-J.0.'s Flame Vents",
+      "Respiraderos de llamas de K.U.-J.0.",
+      "Escotilhas de Chamas de K.U.-J.0.",
+      "K.U.-J.0.'s Flame Vents",
+      "Corrientes de llamas de KU-J0",
+      "Échappements de K.U.-J.0.",
+      "Огненные отдушины КУ-ДЖ0",
+      "K.U.-J.0.s Flammendüsen",
+      "Escotilhas de Chamas de K.U.-J.0.",
+      "Sfiati di K.U.-J.O.",
+      "쿠-조의 화염 분출구",
+      "K.U.-J.0.的烈焰排放口",
+      "K.U.-J.0.的烈焰排气口"
+    ],
+    "Media": "achievement_cooking_masterofthegrill.jpg"
+  },
+  {
+    "TagId": 232547,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_siege_engineer_magnetic_crush.jpg"
   },
   {
     "TagId": 232569,
@@ -4431,6 +6405,90 @@
     "Media": "trade_archaeology_dwarf_runestone.jpg"
   },
   {
+    "TagId": 232613,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_hammer_15.jpg"
+  },
+  {
+    "TagId": 232615,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Prized Gladiator's Coin Pouch",
+      "Bolsa de monedas de Gladiador premiado",
+      "Bolsa de Moedas do Gladiador Precioso",
+      "Prized Gladiator's Coin Pouch",
+      "Faltriquera de monedas de Gladiador preciado",
+      "Bourse de pièces du gladiateur adulé",
+      "Кошель призового гладиатора",
+      "Münzbeutel des geachteten Gladiators",
+      "Bolsa de Moedas do Gladiador Precioso",
+      "Borsellino del Gladiatore Stimato",
+      "찬양받는 검투사의 동전 주머니",
+      "獲獎鬥士的零錢包",
+      "至臻角斗士的硬币袋"
+    ],
+    "Media": "inv_misc_coinbag_special.jpg"
+  },
+  {
+    "TagId": 232619,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gary the Goldfish",
+      "Gary, el pez dorado",
+      "Tibúrcio, o Peixinho Dourado",
+      "Gary the Goldfish",
+      "Gary el pez de colores",
+      "Gary le poisson rouge",
+      "Золотая рыбка Гэри",
+      "Gary der Goldfisch",
+      "Tibúrcio, o Peixinho Dourado",
+      "Gary il Pesce Rosso",
+      "금붕어 게리",
+      "『金魚』蓋瑞",
+      "金鱼盖瑞"
+    ],
+    "Media": "inv_misc_fish_09.jpg"
+  },
+  {
+    "TagId": 232620,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Prized Gladiator's Conduit",
+      "Conducto de Gladiador premiado",
+      "Conduíte do Gladiador Precioso",
+      "Prized Gladiator's Conduit",
+      "Conducto de Gladiador preciado",
+      "Conduite du gladiateur adulé",
+      "Проводник призового гладиатора",
+      "Medium des geachteten Gladiators",
+      "Conduíte do Gladiador Precioso",
+      "Condotto del Gladiatore Stimato",
+      "찬양받는 검투사의 도관",
+      "獲獎鬥士導體",
+      "至臻角斗士的法器"
+    ],
+    "Media": "inv_offhand_1h_goblinraid_d_02.jpg"
+  },
+  {
     "TagId": 232622,
     "TagType": 21,
     "Names": [
@@ -4704,6 +6762,27 @@
     "Media": "inv_shield_1h_earthendungeon_c_02.jpg"
   },
   {
+    "TagId": 232642,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_toygorilla_red.jpg"
+  },
+  {
     "TagId": 232643,
     "TagType": 21,
     "Names": [
@@ -4786,6 +6865,27 @@
       "根须防御者之盾"
     ],
     "Media": "inv_shield_1h_harronir_b_01.jpg"
+  },
+  {
+    "TagId": 232648,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_staff_2h_goblinraid_d_02.jpg"
   },
   {
     "TagId": 232649,
@@ -4893,6 +6993,825 @@
     "Media": "inv_misc_book_08.jpg"
   },
   {
+    "TagId": 232655,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vatwork Janitor's Wasteband",
+      "Pretina de conserje del Suburbio Quimistral",
+      "Cintelixo do Zelador da Tancaria",
+      "Vatwork Janitor's Wasteband",
+      "Cinto de conserje de la Estación de Vapor",
+      "Baudrier de concierge de la Cuverie",
+      "Грязепояс уборщика из Котельной",
+      "Hüfttuch des Bottichwerkhausmeisters",
+      "Cintelixo do Zelador da Tancaria",
+      "Cintura dell'Inserviente di Cisternia",
+      "통작업장 청소부의 폐기물띠",
+      "大桶工廠清潔工的廢棄腰環",
+      "罐缸工坊清洁工的废物带"
+    ],
+    "Media": "inv_belt_cloth_raidwarlockgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232656,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Psychopath's Ravemantle",
+      "Antromanto de psicópata",
+      "Dragonas do Delírio do Psicopata",
+      "Psychopath's Ravemantle",
+      "Manto fiestero psicopático",
+      "Mantelet fêtard de psychopathe",
+      "Дикое оплечье психопата",
+      "Technopartymantel des Psychopathen",
+      "Dragonas do Delírio do Psicopata",
+      "Spalline Estatiche dello Psicopatico",
+      "정신병자의 광란덧옷",
+      "狂人狂嘯披肩",
+      "狂人的狂欢披肩"
+    ],
+    "Media": "inv_shoulder_cloth_raidwarlockgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232657,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mechgineer's Blowtorch Cover",
+      "Protector antisoplete de mecaingeniero",
+      "Murça de Maçarico do Mecaengenheiro",
+      "Mechgineer's Blowtorch Cover",
+      "Capucha de soplete de mecaingeniero",
+      "Couvre-chef à chalumeau de mécagénieur",
+      "Чехол для огнемета анжинера",
+      "Schweißbrennerkappe des Mechingenieurs",
+      "Murça de Maçarico do Mecaengenheiro",
+      "Copertura Saldata del Mekgeniere",
+      "기계학자의 발염 덮개",
+      "機甲工程師的焊槍面罩",
+      "机械工程师的焊枪面罩"
+    ],
+    "Media": "inv_helm_leather_raiddemonhuntergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232658,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Firebug's Anklegear",
+      "Tobillera de pirómano",
+      "Tornozelos da Bombalouca",
+      "Firebug's Anklegear",
+      "Tobilleras de fuegosecto",
+      "Protège-chevilles d’incancinelle",
+      "Наголенники жука-поджигателя",
+      "Feuerkäferknöchelschutz",
+      "Tornozelos da Bombalouca",
+      "Copricaviglie dello Scarafiamma",
+      "방화범의 발목장비",
+      "火蟲護踝",
+      "火焰虫的踝甲"
+    ],
+    "Media": "inv_boot_leather_raidmonkgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232659,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Loyalist's Holdout Hood",
+      "Caperuza de resistencia de partidario",
+      "Capuz da Resistência do Legalista",
+      "Loyalist's Holdout Hood",
+      "Caperuza de rebelde leal",
+      "Chaperon de loyaliste tenace",
+      "Капюшон обороняющегося лоялиста",
+      "Verweigererkapuze des Loyalisten",
+      "Capuz da Resistência do Legalista",
+      "Cappuccio Irriducibile del Lealista",
+      "충성파의 저항 두건",
+      "忠誠者的頑抗兜帽",
+      "死忠的硬撑兜帽"
+    ],
+    "Media": "inv_helm_mail_raidhuntergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232660,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Midnight Lounge Cummerbund",
+      "Faja del Salón Nocturno",
+      "Faixa do Lounge da Meia-noite",
+      "Midnight Lounge Cummerbund",
+      "Faja de frac del Salón Nocturno",
+      "Large ceinture du salon de minuit",
+      "Камербанд Полночного зала",
+      "Kummerbund der Mitternachtssalons",
+      "Faixa do Lounge da Meia-noite",
+      "Fascia del Salotto di Mezzanotte",
+      "한밤의 휴게소 허리띠",
+      "午夜貴賓室腹帶",
+      "午夜游廊徽带"
+    ],
+    "Media": "inv_buckle_mail_raidshamangoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232661,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bootleg Wrynn Shoulderplates",
+      "Hombreras de Wrynn de contrabando",
+      "Placa d'Ombros dos Wrynn Improvisada",
+      "Bootleg Wrynn Shoulderplates",
+      "Hombreras de Wrynn de contrabando",
+      "Plaques d’épaules de Wrynn illégales",
+      "Поддельные наплечники Ринна",
+      "Gefälschte Schulterplatten von Wrynn",
+      "Placa d'Ombros dos Wrynn Improvisada",
+      "Spallacci Corazzati dei Wrynn di Contrabbando",
+      "불법 제조된 린 어깨철갑",
+      "走私的飛龍重肩甲",
+      "私制的乌瑞恩肩铠"
+    ],
+    "Media": "inv_plate_raidpaladingoblin_d_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232662,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Globlin-Fused Greatbelt",
+      "Gran cinturón de forja goblin",
+      "Correão de Fundição Goblínica",
+      "Globlin-Fused Greatbelt",
+      "Gran cinturón con detonador globlin",
+      "Grande ceinture de globulin fusionnée",
+      "Большой пояс гоблинской работы",
+      "Globlinverschmolzener Großgurt",
+      "Correão de Fundição Goblínica",
+      "Grancintura Fusa da Globlin",
+      "고블린 주입 철갑허리띠",
+      "哥布林焊熔大腰帶",
+      "格洛布林熔接的大腰带"
+    ],
+    "Media": "inv_plate_raiddeathknightgoblin_d_01_belt.jpg"
+  },
+  {
+    "TagId": 232663,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Merc's Dog Tags",
+      "Placa de condotiero de Minahonda",
+      "Placas de Identificação do Mercenário da Inframina",
+      "Undermine Merc's Dog Tags",
+      "Placas de mercenario de Minahonda",
+      "Plaques d’identification de mercenaire de Terremine",
+      "Жетоны наемника из Нижней Шахты",
+      "Hundemarken des Lorenhallsöldners",
+      "Placas de Identificação do Mercenário da Inframina",
+      "Piastrine del Mercenario di Cavafonda",
+      "언더마인 용병의 인식표",
+      "幽坑城傭兵的兵籍牌",
+      "安德麦佣兵的身份牌"
+    ],
+    "Media": "inv_11_0_ventureco_necklace01_color4.jpg"
+  },
+  {
+    "TagId": 232664,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Aspirant's Cloth Armor",
+      "Conjunto: Armadura de tela de Aspirante forjado",
+      "Indumentária: Armadura de Tecido do Aspirante Forjado",
+      "Ensemble: Forged Aspirant's Cloth Armor",
+      "Indumentaria: Armadura de tela de aspirante forjado",
+      "Ensemble\u00A0: armure de l’aspirant forgé en étoffe",
+      "Комплект: тканевый доспех кованого претендента",
+      "Ensemble: Stoffrüstung des geschmiedeten Aspiranten",
+      "Indumentária: Armadura de Tecido do Aspirante Forjado",
+      "Set: Stoffa del Pretendente Forgiato",
+      "복장: 제련된 지원자의 천 방어구",
+      "套裝：百鍊志士布甲",
+      "套装：炉铸候选者的布甲"
+    ],
+    "Media": "inv_cloth_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232665,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Aspirant's Leather Armor",
+      "Conjunto: Armadura de cuero de Aspirante forjado",
+      "Indumentária: Armadura de Couro do Aspirante Forjado",
+      "Ensemble: Forged Aspirant's Leather Armor",
+      "Indumentaria: Armadura de cuero de aspirante forjado",
+      "Ensemble\u00A0: armure de l’aspirant forgé en cuir",
+      "Комплект: кожаный доспех кованого претендента",
+      "Ensemble: Lederrüstung des geschmiedeten Aspiranten",
+      "Indumentária: Armadura de Couro do Aspirante Forjado",
+      "Set: Cuoio del Pretendente Forgiato",
+      "복장: 제련된 지원자의 가죽 방어구",
+      "套裝：百鍊志士皮甲",
+      "套装：炉铸候选者的皮甲"
+    ],
+    "Media": "inv_leather_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232666,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Aspirant's Mail Armor",
+      "Conjunto: Armadura de malla de Aspirante forjado",
+      "Indumentária: Armadura de Malha do Aspirante Forjado",
+      "Ensemble: Forged Aspirant's Mail Armor",
+      "Indumentaria: Armadura de malla de aspirante forjado",
+      "Ensemble\u00A0: cotte de mailles de l’aspirant forgé",
+      "Комплект: кольчужный доспех кованого претендента",
+      "Ensemble: Kettenrüstung des geschmiedeten Aspiranten",
+      "Indumentária: Armadura de Malha do Aspirante Forjado",
+      "Set: Maglia del Pretendente Forgiato",
+      "복장: 제련된 지원자의 사슬 방어구",
+      "套裝：百鍊志士鎖甲",
+      "套装：炉铸候选者的锁甲"
+    ],
+    "Media": "inv_mail_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232667,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Aspirant's Plate Armor",
+      "Conjunto: Armadura de placas de Aspirante forjado",
+      "Indumentária: Armadura de Placa do Aspirante Forjado",
+      "Ensemble: Forged Aspirant's Plate Armor",
+      "Indumentaria: Armadura de placas de aspirante forjado",
+      "Ensemble\u00A0: armure de plaques de l’aspirant forgé",
+      "Комплект: латный доспех кованого претендента",
+      "Ensemble: Plattenrüstung des geschmiedeten Aspiranten",
+      "Indumentária: Armadura de Placa do Aspirante Forjado",
+      "Set: Piastre del Pretendente Forgiato",
+      "복장: 제련된 지원자의 판금 방어구",
+      "套裝：百鍊志士鎧甲",
+      "套装：炉铸候选者的板甲"
+    ],
+    "Media": "inv_plate_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232668,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Death Knight Armor",
+      "Conjunto: Armadura para caballeros de la muerte de Gladiador forjado",
+      "Indumentária: Armaduras de Cavaleiro da Morte do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Death Knight Armor",
+      "Indumentaria: Armadura de caballero de la Muerte de Gladiador forjado",
+      "Ensemble\u00A0: armure de chevalier de la mort du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для рыцарей смерти",
+      "Ensemble: Todesritterrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armaduras de Cavaleiro da Morte do Gladiador Forjado",
+      "Set: Armatura da Cavaliere della Morte del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 죽음의 기사 방어구",
+      "套裝：百鍊鬥士死亡騎士護甲",
+      "套装：炉铸角斗士的死亡骑士护甲"
+    ],
+    "Media": "inv_plate_raiddeathknightemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232669,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Demon Hunter Armor",
+      "Conjunto: Armadura para cazadores de demonios de Gladiador forjado",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Demon Hunter Armor",
+      "Indumentaria: Armadura de cazador de demonios de Gladiador forjado",
+      "Ensemble\u00A0: armure de chasseur de démons du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для охотников на демонов",
+      "Ensemble: Dämonenjägerrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Forjado",
+      "Set: Armatura da Cacciatore del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 악마사냥꾼 방어구",
+      "套裝：百鍊鬥士惡魔獵人護甲",
+      "套装：炉铸角斗士的恶魔猎手护甲"
+    ],
+    "Media": "inv_helm_leather_raiddemonhunteremerald_d_01.jpg"
+  },
+  {
+    "TagId": 232670,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Druid Armor",
+      "Conjunto: Armadura para druidas de Gladiador forjado",
+      "Indumentária: Armadura de Druida do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Druid Armor",
+      "Indumentaria: Armadura de druida de Gladiador forjado",
+      "Ensemble\u00A0: armure de druide du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для друидов",
+      "Ensemble: Druidenrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Druida do Gladiador Forjado",
+      "Set: Armatura da Druido del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 드루이드 방어구",
+      "套裝：百鍊鬥士德魯伊護甲",
+      "套装：炉铸角斗士的德鲁伊护甲"
+    ],
+    "Media": "inv_leather_raiddruidemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232671,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Evoker Armor",
+      "Conjunto: Armadura para evocadores de Gladiador forjado",
+      "Indumentária: Armadura de Conjurante do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Evoker Armor",
+      "Indumentaria: Armadura de evocador de Gladiador forjado",
+      "Ensemble\u00A0: armure d’évocateur du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для пробудителей",
+      "Ensemble: Ruferrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Conjurante do Gladiador Forjado",
+      "Set: Armatura da Evocatore del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 기원사 방어구",
+      "套裝：百鍊鬥士喚能師護甲",
+      "套装：炉铸角斗士的唤魔师护甲"
+    ],
+    "Media": "inv_mail_raidevokeremerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232672,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Hunter Armor",
+      "Conjunto: Armadura para cazadores de Gladiador forjado",
+      "Indumentária: Armadura de Caçador do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Hunter Armor",
+      "Indumentaria: Armadura de cazador de Gladiador forjado",
+      "Ensemble\u00A0: armure de chasseur du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для охотников",
+      "Ensemble: Jägerrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Caçador do Gladiador Forjado",
+      "Set: Armatura da Cacciatore del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 사냥꾼 방어구",
+      "套裝：百鍊鬥士獵人護甲",
+      "套装：炉铸角斗士的猎人护甲"
+    ],
+    "Media": "inv_mail_raidhunteremerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232673,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Mage Armor",
+      "Conjunto: Armadura para magos de Gladiador forjado",
+      "Indumentária: Armadura de Mago do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Mage Armor",
+      "Indumentaria: Armadura de mago de Gladiador forjado",
+      "Ensemble\u00A0: armure de mage du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для магов",
+      "Ensemble: Magierrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Mago do Gladiador Forjado",
+      "Set: Armatura da Mago del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 마법사 방어구",
+      "套裝：百鍊鬥士法師護甲",
+      "套装：炉铸角斗士的法师护甲"
+    ],
+    "Media": "inv_cloth_raidmageemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232674,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Monk Armor",
+      "Conjunto: Armadura para monjes de Gladiador forjado",
+      "Indumentária: Armadura de Monge do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Monk Armor",
+      "Indumentaria: Armadura de monje de Gladiador forjado",
+      "Ensemble\u00A0: armure de moine du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для монахов",
+      "Ensemble: Mönchsrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Monge do Gladiador Forjado",
+      "Set: Armatura da Monaco del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 수도사 방어구",
+      "套裝：百鍊鬥士武僧護甲",
+      "套装：炉铸角斗士的武僧护甲"
+    ],
+    "Media": "inv_helm_leather_raidmonkemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232675,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Paladin Armor",
+      "Conjunto: Armadura para paladines de Gladiador forjado",
+      "Indumentária: Armaduras de Paladino do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Paladin Armor",
+      "Indumentaria: Armadura de paladín de Gladiador forjado",
+      "Ensemble\u00A0: armure de paladin du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для паладинов",
+      "Ensemble: Paladinrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armaduras de Paladino do Gladiador Forjado",
+      "Set: Armatura da Paladino del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 성기사 방어구",
+      "套裝：百鍊鬥士聖騎士護甲",
+      "套装：炉铸角斗士的圣骑士护甲"
+    ],
+    "Media": "inv_helm_plate_raidpaladinemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232676,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Priest Armor",
+      "Conjunto: Armadura para sacerdotes de Gladiador forjado",
+      "Indumentária: Armaduras de Sacerdote do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Priest Armor",
+      "Indumentaria: Armadura de sacerdote de Gladiador forjado",
+      "Ensemble\u00A0: armure de prêtre du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для жрецов",
+      "Ensemble: Priesterrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armaduras de Sacerdote do Gladiador Forjado",
+      "Set: Armatura da Sacerdote del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 사제 방어구",
+      "套裝：百鍊鬥士牧師護甲",
+      "套装：炉铸角斗士的牧师护甲"
+    ],
+    "Media": "inv_helm_cloth_raidpriestemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232677,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Rogue Armor",
+      "Conjunto: Armadura para pícaros de Gladiador forjado",
+      "Indumentária: Armadura de Ladino do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Rogue Armor",
+      "Indumentaria: Armadura de pícaro de Gladiador forjado",
+      "Ensemble\u00A0: armure de voleur du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для разбойников",
+      "Ensemble: Schurkenrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Ladino do Gladiador Forjado",
+      "Set: Armatura da Ladro del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 도적 방어구",
+      "套裝：百鍊鬥士盜賊護甲",
+      "套装：炉铸角斗士的潜行者护甲"
+    ],
+    "Media": "inv_helm_leather_raidrogueemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232678,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Shaman Armor",
+      "Conjunto: Armadura para chamanes de Gladiador forjado",
+      "Indumentária: Armadura de Xamã do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Shaman Armor",
+      "Indumentaria: Armadura de chamán de Gladiador forjado",
+      "Ensemble\u00A0: armure de chaman du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для шаманов",
+      "Ensemble: Schamanenrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Xamã do Gladiador Forjado",
+      "Set: Armatura da Sciamano del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 주술사 방어구",
+      "套裝：百鍊鬥士薩滿護甲",
+      "套装：炉铸角斗士的萨满祭司护甲"
+    ],
+    "Media": "inv_mail_raidshamanemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232679,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Warlock Armor",
+      "Conjunto: Armadura para brujos de Gladiador forjado",
+      "Indumentária: Armadura de Bruxo do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Warlock Armor",
+      "Indumentaria: Armadura de brujo de Gladiador forjado",
+      "Ensemble\u00A0: armure de démoniste du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для чернокнижников",
+      "Ensemble: Hexenmeisterrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Bruxo do Gladiador Forjado",
+      "Set: Armatura da Stregone del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 흑마법사 방어구",
+      "套裝：百鍊鬥士術士護甲",
+      "套装：炉铸角斗士的术士护甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232680,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Gladiator's Warrior Armor",
+      "Conjunto: Armadura para guerreros de Gladiador forjado",
+      "Indumentária: Armadura de Guerreiro do Gladiador Forjado",
+      "Ensemble: Forged Gladiator's Warrior Armor",
+      "Indumentaria: Armadura de guerrero de Gladiador forjado",
+      "Ensemble\u00A0: armure de guerrier du gladiateur forgé",
+      "Комплект: доспех кованого гладиатора для воинов",
+      "Ensemble: Kriegerrüstung des geschmiedeten Gladiators",
+      "Indumentária: Armadura de Guerreiro do Gladiador Forjado",
+      "Set: Armatura da Guerriero del Gladiatore Forgiato",
+      "복장: 제련된 검투사의 전사 방어구",
+      "套裝：百鍊鬥士戰士護甲",
+      "套装：炉铸角斗士的战士护甲"
+    ],
+    "Media": "inv_helm_plate_raidwarrioremerald_d_01.jpg"
+  },
+  {
+    "TagId": 232681,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Death Knight Armor",
+      "Conjunto: Armadura para caballeros de la muerte de Gladiador forjado de élite",
+      "Indumentária: Armadura de Cavaleiro da Morte do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Death Knight Armor",
+      "Indumentaria: Armadura de caballero de la Muerte de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de chevalier de la mort du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для рыцарей смерти",
+      "Ensemble: Todesritterrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Cavaleiro da Morte do Gladiador Forjado de Elite",
+      "Set: Armatura da Cavaliere della Morte d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 죽음의 기사 방어구",
+      "套裝：精英百鍊鬥士死亡騎士護甲",
+      "套装：精锐炉铸角斗士的死亡骑士护甲"
+    ],
+    "Media": "inv_plate_raiddeathknightemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232682,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Demon Hunter Armor",
+      "Conjunto: Armadura para cazadores de demonios de Gladiador forjado de élite",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Demon Hunter Armor",
+      "Indumentaria: Armadura de cazador de demonios de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de chasseur de démons du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для охотников на демонов",
+      "Ensemble: Dämonenjägerrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Forjado de Elite",
+      "Set: Armatura da Cacciatore di Demoni d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 악마사냥꾼 방어구",
+      "套裝：精英百鍊鬥士惡魔獵人護甲",
+      "套装：精锐炉铸角斗士的恶魔猎手护甲"
+    ],
+    "Media": "inv_helm_leather_raiddemonhunteremerald_d_01.jpg"
+  },
+  {
+    "TagId": 232683,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Druid Armor",
+      "Conjunto: Armadura para druidas de Gladiador forjado de élite",
+      "Indumentária: Armadura de Druida do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Druid Armor",
+      "Indumentaria: Armadura de druida de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de druide du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для друидов",
+      "Ensemble: Druidenrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Druida do Gladiador Forjado de Elite",
+      "Set: Armatura da Druido d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 드루이드 방어구",
+      "套裝：精英百鍊鬥士德魯伊護甲",
+      "套装：精锐炉铸角斗士的德鲁伊护甲"
+    ],
+    "Media": "inv_leather_raiddruidemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232684,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Evoker Armor",
+      "Conjunto: Armadura para evocadores de Gladiador forjado de élite",
+      "Indumentária: Armadura de Conjurante do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Evoker Armor",
+      "Indumentaria: Armadura de evocador de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure d’évocateur du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для пробудителей",
+      "Ensemble: Ruferrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Conjurante do Gladiador Forjado de Elite",
+      "Set: Armatura da Evocatore d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 기원사 방어구",
+      "套裝：精英百鍊鬥士喚能師護甲",
+      "套装：精锐炉铸角斗士的唤魔师护甲"
+    ],
+    "Media": "inv_mail_raidevokeremerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232685,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Hunter Armor",
+      "Conjunto: Armadura para cazadores de Gladiador forjado de élite",
+      "Indumentária: Armadura de Caçador do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Hunter Armor",
+      "Indumentaria: Armadura de cazador de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de chasseur du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для охотников",
+      "Ensemble: Jägerrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Caçador do Gladiador Forjado de Elite",
+      "Set: Armatura da Cacciatore d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 사냥꾼 방어구",
+      "套裝：精英百鍊鬥士獵人護甲",
+      "套装：精锐炉铸角斗士的猎人护甲"
+    ],
+    "Media": "inv_mail_raidhunteremerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232686,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Mage Armor",
+      "Conjunto: Armadura para magos de Gladiador forjado de élite",
+      "Indumentária: Armadura de Mago do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Mage Armor",
+      "Indumentaria: Armadura de mago de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de mage du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для магов",
+      "Ensemble: Magierrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Mago do Gladiador Forjado de Elite",
+      "Set: Armatura da Mago d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 마법사 방어구",
+      "套裝：精英百鍊鬥士法師護甲",
+      "套装：精锐炉铸角斗士的法师护甲"
+    ],
+    "Media": "inv_cloth_raidmageemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232687,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Monk Armor",
+      "Conjunto: Armadura para monjes de Gladiador forjado de élite",
+      "Indumentária: Armadura de Monge do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Monk Armor",
+      "Indumentaria: Armadura de monje de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de moine du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для монахов",
+      "Ensemble: Mönchsrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Monge do Gladiador Forjado de Elite",
+      "Set: Armatura da Monaco d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 수도사 방어구",
+      "套裝：精英百鍊鬥士武僧護甲",
+      "套装：精锐炉铸角斗士的武僧护甲"
+    ],
+    "Media": "inv_helm_leather_raidmonkemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232688,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Paladin Armor",
+      "Conjunto: Armadura para paladines de Gladiador forjado de élite",
+      "Indumentária: Armadura de Paladino do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Paladin Armor",
+      "Indumentaria: Armadura de paladín de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de paladin du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для паладинов",
+      "Ensemble: Paladinrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Paladino do Gladiador Forjado de Elite",
+      "Set: Armatura da Paladino d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 성기사 방어구",
+      "套裝：精英百鍊鬥士聖騎士護甲",
+      "套装：精锐炉铸角斗士的圣骑士护甲"
+    ],
+    "Media": "inv_helm_plate_raidpaladinemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232689,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Priest Armor",
+      "Conjunto: Armadura para sacerdotes de Gladiador forjado de élite",
+      "Indumentária: Armadura de Sacerdote do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Priest Armor",
+      "Indumentaria: Armadura de sacerdote de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de prêtre du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для жрецов",
+      "Ensemble: Priesterrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Sacerdote do Gladiador Forjado de Elite",
+      "Set: Armatura da Sacerdote d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 사제 방어구",
+      "套裝：精英百鍊鬥士牧師護甲",
+      "套装：精锐炉铸角斗士的牧师护甲"
+    ],
+    "Media": "inv_helm_cloth_raidpriestemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232690,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Rogue Armor",
+      "Conjunto: Armadura para pícaros de Gladiador forjado de élite",
+      "Indumentária: Armadura de Ladino do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Rogue Armor",
+      "Indumentaria: Armadura de pícaro de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de voleur du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для разбойников",
+      "Ensemble: Schurkenrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Ladino do Gladiador Forjado de Elite",
+      "Set: Armatura da Ladro d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 도적 방어구",
+      "套裝：精英百鍊鬥士盜賊護甲",
+      "套装：精锐炉铸角斗士的潜行者护甲"
+    ],
+    "Media": "inv_helm_leather_raidrogueemerald_d_01.jpg"
+  },
+  {
+    "TagId": 232691,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Shaman Armor",
+      "Conjunto: Armadura para chamanes de Gladiador forjado de élite",
+      "Indumentária: Armadura de Xamã do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Shaman Armor",
+      "Indumentaria: Armadura de chamán de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de chaman du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для шаманов",
+      "Ensemble: Schamanenrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Xamã do Gladiador Forjado de Elite",
+      "Set: Armatura da Sciamano d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 주술사 방어구",
+      "套裝：精英百鍊鬥士薩滿護甲",
+      "套装：精锐炉铸角斗士的萨满祭司护甲"
+    ],
+    "Media": "inv_mail_raidshamanemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232692,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Warlock Armor",
+      "Conjunto: Armadura para brujos de Gladiador forjado de élite",
+      "Indumentária: Armadura de Bruxo do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Warlock Armor",
+      "Indumentaria: Armadura de brujo de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de démoniste du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для чернокнижников",
+      "Ensemble: Hexenmeisterrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Bruxo do Gladiador Forjado de Elite",
+      "Set: Armatura da Stregone d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 흑마법사 방어구",
+      "套裝：精英百鍊鬥士術士護甲",
+      "套装：精锐炉铸角斗士的术士护甲"
+    ],
+    "Media": "inv_cloth_raidwarlockemerald_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232693,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Forged Gladiator's Warrior Armor",
+      "Conjunto: Armadura para guerreros de Gladiador forjado de élite",
+      "Indumentária: Armadura de Guerreiro do Gladiador Forjado de Elite",
+      "Ensemble: Elite Forged Gladiator's Warrior Armor",
+      "Indumentaria: Armadura de guerrero de Gladiador de élite forjado",
+      "Ensemble\u00A0: armure de guerrier du gladiateur forgé d’élite",
+      "Комплект: доспех элитного кованого гладиатора для воинов",
+      "Ensemble: Kriegerrüstung des geschmiedeten Elitegladiators",
+      "Indumentária: Armadura de Guerreiro do Gladiador Forjado de Elite",
+      "Set: Armatura da Guerriero d'Élite del Gladiatore Forgiato",
+      "복장: 정예 제련된 검투사의 전사 방어구",
+      "套裝：精英百鍊鬥士戰士護甲",
+      "套装：精锐炉铸角斗士的战士护甲"
+    ],
+    "Media": "inv_helm_plate_raidwarrioremerald_d_01.jpg"
+  },
+  {
     "TagId": 232694,
     "TagType": 21,
     "Names": [
@@ -4912,6 +7831,2526 @@
       "抄录的库尔提拉斯人日志"
     ],
     "Media": "inv_misc_book_08.jpg"
+  },
+  {
+    "TagId": 232695,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Aspirant's Cloth Armor",
+      "Conjunto: Armadura de tela de Aspirante premiado",
+      "Indumentária: Armadura de Tecido do Aspirante Precioso",
+      "Ensemble: Prized Aspirant's Cloth Armor",
+      "Indumentaria: Armadura de tela de aspirante preciado",
+      "Ensemble\u00A0: armure de l’aspirant adulé en étoffe",
+      "Комплект: тканевый доспех призового претендента",
+      "Ensemble: Stoffrüstung des geachteten Aspiranten",
+      "Indumentária: Armadura de Tecido do Aspirante Precioso",
+      "Set: Stoffa del Pretendente Stimato",
+      "복장: 찬양받는 지원자의 천 방어구",
+      "套裝：獲獎志士布甲",
+      "套装：至臻候选者的布甲"
+    ],
+    "Media": "inv_cloth_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232696,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Aspirant's Leather Armor",
+      "Conjunto: Armadura de cuero de Aspirante premiado",
+      "Indumentária: Armadura de Couro do Aspirante Precioso",
+      "Ensemble: Prized Aspirant's Leather Armor",
+      "Indumentaria: Armadura de cuero de aspirante preciado",
+      "Ensemble\u00A0: armure de l’aspirant adulé en cuir",
+      "Комплект: кожаный доспех призового претендента",
+      "Ensemble: Lederrüstung des geachteten Aspiranten",
+      "Indumentária: Armadura de Couro do Aspirante Precioso",
+      "Set: Cuoio del Pretendente Stimato",
+      "복장: 찬양받는 지원자의 가죽 방어구",
+      "套裝：獲獎志士皮甲",
+      "套装：至臻候选者的皮甲"
+    ],
+    "Media": "inv_leather_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232697,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Aspirant's Mail Armor",
+      "Conjunto: Armadura de malla de Aspirante premiado",
+      "Indumentária: Armadura de Malha do Aspirante Precioso",
+      "Ensemble: Prized Aspirant's Mail Armor",
+      "Indumentaria: Armadura de malla de aspirante preciado",
+      "Ensemble\u00A0: Cottes de mailles de l’aspirant adulé",
+      "Комплект: кольчужный доспех призового претендента",
+      "Ensemble: Kettenrüstung des geachteten Aspiranten",
+      "Indumentária: Armadura de Malha do Aspirante Precioso",
+      "Set: Maglia del Pretendente Stimato",
+      "복장: 찬양받는 지원자의 사슬 방어구",
+      "套裝：獲獎志士鎖甲",
+      "套装：至臻候选者的锁甲"
+    ],
+    "Media": "inv_mail_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232698,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Aspirant's Plate Armor",
+      "Conjunto: Armadura de placas de Aspirante premiado",
+      "Indumentária: Armadura de Placa do Aspirante Precioso",
+      "Ensemble: Prized Aspirant's Plate Armor",
+      "Indumentaria: Armadura de placas de aspirante preciado",
+      "Ensemble\u00A0: armure de plaques de l’aspirant adulé",
+      "Комплект: латные доспехи призового претендента",
+      "Ensemble: Plattenrüstung des geachteten Aspiranten",
+      "Indumentária: Armadura de Placa do Aspirante Precioso",
+      "Set: Piastre del Pretendente Stimato",
+      "복장: 찬양받는 지원자의 판금 방어구",
+      "套裝：獲獎志士鎧甲",
+      "套装：至臻候选者的板甲"
+    ],
+    "Media": "inv_plate_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232699,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Death Knight Armor",
+      "Conjunto: Armadura para caballeros de la muerte de Gladiador premiado",
+      "Indumentária: Armadura de Cavaleiro da Morte do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Death Knight Armor",
+      "Indumentaria: Armadura de caballero de la Muerte de Gladiador preciado",
+      "Ensemble\u00A0: armure de chevalier de la mort du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для рыцарей смерти",
+      "Ensemble: Todesritterrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Cavaleiro da Morte do Gladiador Precioso",
+      "Set: Armatura da Cavaliere della Morte del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 죽음의 기사 방어구",
+      "套裝：獲獎鬥士死亡騎士護甲",
+      "套装：至臻角斗士的死亡骑士护甲"
+    ],
+    "Media": "inv_plate_raiddeathknightgoblin_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232700,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Demon Hunter Armor",
+      "Conjunto: Armadura para cazadores de demonios de Gladiador premiado",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Demon Hunter Armor",
+      "Indumentaria: Armadura de cazador de demonios de Gladiador preciado",
+      "Ensemble\u00A0: armure de chasseur de démons du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для охотников на демонов",
+      "Ensemble: Dämonenjägerrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Precioso",
+      "Set: Armatura da Cacciatore di Demoni del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 악마사냥꾼 방어구",
+      "套裝：獲獎鬥士惡魔獵人護甲",
+      "套装：至臻角斗士的恶魔猎手护甲"
+    ],
+    "Media": "inv_helm_leather_raiddemonhuntergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232701,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Druid Armor",
+      "Conjunto: Armadura para druidas de Gladiador premiado",
+      "Indumentária: Armadura de Druida do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Druid Armor",
+      "Indumentaria: Armadura de druida de Gladiador preciado",
+      "Ensemble\u00A0: armure de druide du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для друидов",
+      "Ensemble: Druidenrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Druida do Gladiador Precioso",
+      "Set: Armatura da Druido del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 드루이드 방어구",
+      "套裝：獲獎鬥士德魯伊護甲",
+      "套装：至臻角斗士的德鲁伊护甲"
+    ],
+    "Media": "inv_helm_leather_raiddruidgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232702,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Evoker Armor",
+      "Conjunto: Armadura para evocadores de Gladiador premiado",
+      "Indumentária: Armadura de Conjurante do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Evoker Armor",
+      "Indumentaria: Armadura de evocador de Gladiador preciado",
+      "Ensemble\u00A0: armure d’évocateur du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для пробудителей",
+      "Ensemble: Ruferrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Conjurante do Gladiador Precioso",
+      "Set: Armatura da Evocatore del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 기원사 방어구",
+      "套裝：獲獎鬥士喚能師護甲",
+      "套装：至臻角斗士的唤魔师护甲"
+    ],
+    "Media": "inv_helm_mail_raidevokergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232703,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Hunter Armor",
+      "Conjunto: Armadura para cazadores de Gladiador premiado",
+      "Indumentária: Armadura de Caçador do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Hunter Armor",
+      "Indumentaria: Armadura de cazador de Gladiador preciado",
+      "Ensemble\u00A0: armure de chasseur du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для охотников",
+      "Ensemble: Jägerrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Caçador do Gladiador Precioso",
+      "Set: Armatura da Cacciatore del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 사냥꾼 방어구",
+      "套裝：獲獎鬥士獵人護甲",
+      "套装：至臻角斗士的猎人护甲"
+    ],
+    "Media": "inv_helm_mail_raidhuntergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232704,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Mage Armor",
+      "Conjunto: Armadura para magos de Gladiador premiado",
+      "Indumentária: Armadura de Mago do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Mage Armor",
+      "Indumentaria: Armadura de mago de Gladiador preciado",
+      "Ensemble\u00A0: armure de mage du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для магов",
+      "Ensemble: Magierrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Mago do Gladiador Precioso",
+      "Set: Armatura da Mago del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 마법사 방어구",
+      "套裝：獲獎鬥士法師護甲",
+      "套装：至臻角斗士的法师护甲"
+    ],
+    "Media": "inv_cloth_raidmagegoblin_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232705,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Monk Armor",
+      "Conjunto: Armadura para monjes de Gladiador premiado",
+      "Indumentária: Armadura de Monge do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Monk Armor",
+      "Indumentaria: Armadura de monje de Gladiador preciado",
+      "Ensemble\u00A0: armure de moine du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для монахов",
+      "Ensemble: Mönchsrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Monge do Gladiador Precioso",
+      "Set: Armatura da Monaco del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 수도사 방어구",
+      "套裝：獲獎鬥士武僧護甲",
+      "套装：至臻角斗士的武僧护甲"
+    ],
+    "Media": "inv_helm_leather_raidmonkgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232706,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Paladin Armor",
+      "Conjunto: Armadura para paladines de Gladiador premiado",
+      "Indumentária: Armadura de Paladino do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Paladin Armor",
+      "Indumentaria: Armadura de paladín de Gladiador preciado",
+      "Ensemble\u00A0: armure de paladin du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для паладинов",
+      "Ensemble: Paladinrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Paladino do Gladiador Precioso",
+      "Set: Armatura da Paladino del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 성기사 방어구",
+      "套裝：獲獎鬥士聖騎士護甲",
+      "套装：至臻角斗士的圣骑士护甲"
+    ],
+    "Media": "inv_plate_raidpaladingoblin_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232707,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Priest Armor",
+      "Conjunto: Armadura para sacerdotes de Gladiador premiado",
+      "Indumentária: Armadura de Sacerdote do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Priest Armor",
+      "Indumentaria: Armadura de sacerdote de Gladiador preciado",
+      "Ensemble\u00A0: armure de prêtre du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для жрецов",
+      "Ensemble: Priesterrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Sacerdote do Gladiador Precioso",
+      "Set: Armatura da Sacerdote del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 사제 방어구",
+      "套裝：獲獎鬥士牧師護甲",
+      "套装：至臻角斗士的牧师护甲"
+    ],
+    "Media": "inv_helm_cloth_raidpriestgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232708,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Rogue Armor",
+      "Conjunto: Armadura para pícaros de Gladiador premiado",
+      "Indumentária: Armadura de Ladino do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Rogue Armor",
+      "Indumentaria: Armadura de pícaro de Gladiador preciado",
+      "Ensemble\u00A0: armure de voleur du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для разбойников",
+      "Ensemble: Schurkenrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Ladino do Gladiador Precioso",
+      "Set: Armatura da Ladro del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 도적 방어구",
+      "套裝：獲獎鬥士盜賊護甲",
+      "套装：至臻角斗士的潜行者护甲"
+    ],
+    "Media": "inv_helm_leather_raidroguegoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232709,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Shaman Armor",
+      "Conjunto: Armadura para chamanes de Gladiador premiado",
+      "Indumentária: Armadura de Xamã do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Shaman Armor",
+      "Indumentaria: Armadura de chamán de Gladiador preciado",
+      "Ensemble\u00A0: armure de chaman du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для шаманов",
+      "Ensemble: Schamanenrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Xamã do Gladiador Precioso",
+      "Set: Armatura da Sciamano del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 주술사 방어구",
+      "套裝：獲獎鬥士薩滿護甲",
+      "套装：至臻角斗士的萨满祭司护甲"
+    ],
+    "Media": "inv_helm_mail_raidshamangoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232710,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Warlock Armor",
+      "Conjunto: Armadura para brujos de Gladiador premiado",
+      "Indumentária: Armadura de Bruxo do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Warlock Armor",
+      "Indumentaria: Armadura de brujo de Gladiador preciado",
+      "Ensemble\u00A0: armure de démoniste du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для чернокнижников",
+      "Ensemble: Hexenmeisterrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Bruxo do Gladiador Precioso",
+      "Set: Armatura da Stregone del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 흑마법사 방어구",
+      "套裝：獲獎鬥士術士護甲",
+      "套装：至臻角斗士的术士护甲"
+    ],
+    "Media": "inv_helm_cloth_raidwarlockgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232711,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Gladiator's Warrior Armor",
+      "Conjunto: Armadura para guerreros de Gladiador premiado",
+      "Indumentária: Armadura de Guerreiro do Gladiador Precioso",
+      "Ensemble: Prized Gladiator's Warrior Armor",
+      "Indumentaria: Armadura de guerrero de Gladiador preciado",
+      "Ensemble\u00A0: armure de guerrier du gladiateur adulé",
+      "Комплект: доспех призового гладиатора для воинов",
+      "Ensemble: Kriegerrüstung des geachteten Gladiators",
+      "Indumentária: Armadura de Guerreiro do Gladiador Precioso",
+      "Set: Armatura da Guerriero del Gladiatore Stimato",
+      "복장: 찬양받는 검투사의 전사 방어구",
+      "套裝：獲獎鬥士戰士護甲",
+      "套装：至臻角斗士的战士护甲"
+    ],
+    "Media": "inv_helm_plate_raidwarriorgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232712,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Death Knight Armor",
+      "Conjunto: Armadura para caballeros de la muerte de Gladiador premiado de élite",
+      "Indumentária: Armadura de Cavaleiro da Morte do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Death Knight Armor",
+      "Indumentaria: Armadura de caballero de la Muerte de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de chevalier de la mort du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для рыцарей смерти",
+      "Ensemble: Todesritterrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Cavaleiro da Morte do Gladiador Precioso de Elite",
+      "Set: Armatura da Cavaliere della Morte d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 죽음의 기사 방어구",
+      "套裝：精英獲獎鬥士死亡騎士護甲",
+      "套装：精锐至臻角斗士的死亡骑士护甲"
+    ],
+    "Media": "inv_plate_raiddeathknightgoblin_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232713,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Demon Hunter Armor",
+      "Conjunto: Armadura para cazadores de demonios de Gladiador premiado de élite",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Demon Hunter Armor",
+      "Indumentaria: Armadura de cazador de demonios de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de chasseur de démons du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для охотников на демонов",
+      "Ensemble: Dämonenjägerrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Caçador de Demônios do Gladiador Precioso de Elite",
+      "Set: Armatura da Cacciatore di Demoni d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 악마사냥꾼 방어구",
+      "套裝：精英獲獎鬥士惡魔獵人護甲",
+      "套装：精锐至臻角斗士的恶魔猎手护甲"
+    ],
+    "Media": "inv_helm_leather_raiddemonhuntergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232714,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Druid Armor",
+      "Conjunto: Armadura para druidas de Gladiador premiado de élite",
+      "Indumentária: Armadura de Druida do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Druid Armor",
+      "Indumentaria: Armadura de druida de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de druide du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для друидов",
+      "Ensemble: Druidenrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Druida do Gladiador Precioso de Elite",
+      "Set: Armatura da Druido d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 드루이드 방어구",
+      "套裝：精英獲獎鬥士德魯伊護甲",
+      "套装：精锐至臻角斗士的德鲁伊护甲"
+    ],
+    "Media": "inv_helm_leather_raiddruidgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232715,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Evoker Armor",
+      "Conjunto: Armadura para evocadores de Gladiador premiado de élite",
+      "Indumentária: Armadura de Conjurante do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Evoker Armor",
+      "Indumentaria: Armadura de evocador de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure d’évocateur du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для пробудителей",
+      "Ensemble: Ruferrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Conjurante do Gladiador Precioso de Elite",
+      "Set: Armatura da Evocatore d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 기원사 방어구",
+      "套裝：精英獲獎鬥士喚能師護甲",
+      "套装：精锐至臻角斗士的唤魔师护甲"
+    ],
+    "Media": "inv_helm_mail_raidevokergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232716,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Hunter Armor",
+      "Conjunto: Armadura para cazadores de Gladiador premiado de élite",
+      "Indumentária: Armadura de Caçador do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Hunter Armor",
+      "Indumentaria: Armadura de cazador de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de chasseur du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для охотников",
+      "Ensemble: Jägerrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Caçador do Gladiador Precioso de Elite",
+      "Set: Armatura da Cacciatore d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 사냥꾼 방어구",
+      "套裝：精英獲獎鬥士獵人護甲",
+      "套装：精锐至臻角斗士的猎人护甲"
+    ],
+    "Media": "inv_helm_mail_raidhuntergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232717,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Mage Armor",
+      "Conjunto: Armadura para magos de Gladiador premiado de élite",
+      "Indumentária: Armadura de Mago do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Mage Armor",
+      "Indumentaria: Armadura de mago de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de mage du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для магов",
+      "Ensemble: Magierrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Mago do Gladiador Precioso de Elite",
+      "Set: Armatura da Mago d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 마법사 방어구",
+      "套裝：精英獲獎鬥士法師護甲",
+      "套装：精锐至臻角斗士的法师护甲"
+    ],
+    "Media": "inv_cloth_raidmagegoblin_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232718,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Monk Armor",
+      "Conjunto: Armadura para monjes de Gladiador premiado de élite",
+      "Indumentária: Armadura de Monge do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Monk Armor",
+      "Indumentaria: Armadura de monje de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de moine du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для монахов",
+      "Ensemble: Mönchsrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Monge do Gladiador Precioso de Elite",
+      "Set: Armatura da Monaco d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 수도사 방어구",
+      "套裝：精英獲獎鬥士武僧護甲",
+      "套装：精锐至臻角斗士的武僧护甲"
+    ],
+    "Media": "inv_helm_leather_raidmonkgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232719,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Paladin Armor",
+      "Conjunto: Armadura para paladines de Gladiador premiado de élite",
+      "Indumentária: Armadura de Paladino do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Paladin Armor",
+      "Indumentaria: Armadura de paladín de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de paladin du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для паладинов",
+      "Ensemble: Paladinrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Paladino do Gladiador Precioso de Elite",
+      "Set: Armatura da Paladino d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 성기사 방어구",
+      "套裝：精英獲獎鬥士聖騎士護甲",
+      "套装：精锐至臻角斗士的圣骑士护甲"
+    ],
+    "Media": "inv_plate_raidpaladingoblin_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232720,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Priest Armor",
+      "Conjunto: Armadura para sacerdotes de Gladiador premiado de élite",
+      "Indumentária: Armadura de Sacerdote do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Priest Armor",
+      "Indumentaria: Armadura de sacerdote de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de prêtre du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для жрецов",
+      "Ensemble: Priesterrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Sacerdote do Gladiador Precioso de Elite",
+      "Set: Armatura da Sacerdote d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 사제 방어구",
+      "套裝：精英獲獎鬥士牧師護甲",
+      "套装：精锐至臻角斗士的牧师护甲"
+    ],
+    "Media": "inv_helm_cloth_raidpriestgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232721,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Rogue Armor",
+      "Conjunto: Armadura para pícaros de Gladiador premiado de élite",
+      "Indumentária: Armadura de Ladino do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Rogue Armor",
+      "Indumentaria: Armadura de pícaro de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de voleur du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для разбойников",
+      "Ensemble: Schurkenrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Ladino do Gladiador Precioso de Elite",
+      "Set: Armatura da Ladro d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 도적 방어구",
+      "套裝：精英獲獎鬥士盜賊護甲",
+      "套装：精锐至臻角斗士的潜行者护甲"
+    ],
+    "Media": "inv_helm_leather_raidroguegoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232722,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Shaman Armor",
+      "Conjunto: Armadura para chamanes de Gladiador premiado de élite",
+      "Indumentária: Armadura de Xamã do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Shaman Armor",
+      "Indumentaria: Armadura de chamán de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de chaman du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для шаманов",
+      "Ensemble: Schamanenrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Xamã do Gladiador Precioso de Elite",
+      "Set: Armatura da Sciamano d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 주술사 방어구",
+      "套裝：精英獲獎鬥士薩滿護甲",
+      "套装：精锐至臻角斗士的萨满祭司护甲"
+    ],
+    "Media": "inv_helm_mail_raidshamangoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232723,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Warlock Armor",
+      "Conjunto: Armadura para brujos de Gladiador premiado de élite",
+      "Indumentária: Armadura de Bruxo do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Warlock Armor",
+      "Indumentaria: Armadura de brujo de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de démoniste du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для чернокнижников",
+      "Ensemble: Hexenmeisterrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Bruxo do Gladiador Precioso de Elite",
+      "Set: Armatura da Stregone d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 흑마법사 방어구",
+      "套裝：精英獲獎鬥士術士護甲",
+      "套装：精锐至臻角斗士的术士护甲"
+    ],
+    "Media": "inv_helm_cloth_raidwarlockgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232724,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Elite Prized Gladiator's Warrior Armor",
+      "Conjunto: Armadura para guerreros de Gladiador premiado de élite",
+      "Indumentária: Armadura de Guerreiro do Gladiador Precioso de Elite",
+      "Ensemble: Elite Prized Gladiator's Warrior Armor",
+      "Indumentaria: Armadura de guerrero de Gladiador de élite preciado",
+      "Ensemble\u00A0: armure de guerrier du gladiateur adulé d’élite",
+      "Комплект: доспех элитного призового гладиатора для воинов",
+      "Ensemble: Kriegerrüstung des geachteten Elitegladiators",
+      "Indumentária: Armadura de Guerreiro do Gladiador Precioso de Elite",
+      "Set: Armatura da Guerriero d'Élite del Gladiatore Stimato",
+      "복장: 정예 찬양받는 검투사의 전사 방어구",
+      "套裝：精英獲獎鬥士戰士護甲",
+      "套装：精锐至臻角斗士的战士护甲"
+    ],
+    "Media": "inv_helm_plate_raidwarriorgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232725,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pilot's Oiled Trousers",
+      "Calzas engrasadas de piloto",
+      "Calçotes Oleados do Piloto",
+      "Pilot's Oiled Trousers",
+      "Calzas engrasadas de piloto",
+      "Chausses huilées de pilote",
+      "Замасленные брюки пилота",
+      "Geölte Hose des Piloten",
+      "Calçotes Oleados do Piloto",
+      "Calzoni Oliati da Pilota",
+      "조종사의 기름 묻은 긴바지",
+      "駕駛的浸油長褲",
+      "飞行员的油污长裤"
+    ],
+    "Media": "inv_pant_cloth_raidpriestgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232726,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Well-Trodden Mechanic's Shoes",
+      "Zapatos de mecánico experimentado",
+      "Sapatos do Mecânico Gastos",
+      "Well-Trodden Mechanic's Shoes",
+      "Zapatos de mecánico muy trillados",
+      "Chaussures mécaniques faites",
+      "Стоптанная обувка механика",
+      "Ausgetretene Schuhe des Mechanikers",
+      "Sapatos do Mecânico Gastos",
+      "Scarpe Ben Rodate del Meccanico",
+      "접지력 좋은 정비사 신발",
+      "著名技師的輕鞋",
+      "机械师的陈年旧鞋"
+    ],
+    "Media": "inv_cloth_raidmagegoblin_d_01_boot.jpg"
+  },
+  {
+    "TagId": 232727,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cavern Stalker's Trophy Girdle",
+      "Faja trofeo de acechador de cuevas",
+      "Cinturão de Troféu do Espreitador da Caverna",
+      "Cavern Stalker's Trophy Girdle",
+      "Faja de trofeo de acechador de cueva",
+      "Ceinturon à trophées de traqueur des cavernes",
+      "Трофейный ремень хищника из грота",
+      "Trophäengurt des Höhlenpirschers",
+      "Cinturão de Troféu do Espreitador da Caverna",
+      "Cinturone Trofeo dell'Inseguitore delle Caverne",
+      "동굴 추적자의 노획품 요대",
+      "洞穴潛獵者的戰利品束腰",
+      "洞窟追猎者的战利品腰带"
+    ],
+    "Media": "inv_belt_leather_raiddruidgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232728,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkfuse Dinner Jacket",
+      "Esmoquin mechaoscura",
+      "Jaqueta de Jantar Sombrafuso",
+      "Darkfuse Dinner Jacket",
+      "Chaqueta de banquete de Fundisombras",
+      "Veste de dîner imprégnée de ténèbres",
+      "Смокинг Мрачных Минеров",
+      "Frack der Düsternisverschmolzenen",
+      "Jaqueta de Jantar Sombrafuso",
+      "Giacca da Cena dei Micciascura",
+      "다크퓨즈 저녁 재킷",
+      "暗融晚餐夾克",
+      "暗索晚宴夹克"
+    ],
+    "Media": "inv_chest_leather_raidroguegoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232729,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Horn-Adorned Chausses",
+      "Botarga adornada con cuernos",
+      "Chausses Adornadas com Chifres",
+      "Horn-Adorned Chausses",
+      "Calzas adornadas con cuernos",
+      "Haut-de-chausses décoré de cornes",
+      "Шоссы с рогами",
+      "Hornverzierte Beinlinge",
+      "Chausses Adornadas com Chifres",
+      "Calzerotti Adornati con Corno",
+      "뿔 장식 정강이싸개",
+      "角飾重腿甲",
+      "角饰马裤"
+    ],
+    "Media": "inv_pant_mail_raidevokergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232730,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cauldron Master Cleats",
+      "Crampones de maestro del caldero",
+      "Cravos do Mestre do Caldeirão",
+      "Cauldron Master Cleats",
+      "Tacos de maestro de caldera",
+      "Crampons de maître du chaudron",
+      "Узкие ботинки Мастера Котла",
+      "Stachelschuhe des Meisters des Kessels",
+      "Cravos do Mestre do Caldeirão",
+      "Ramponi del Maestro del Calderone",
+      "용광로 대가의 밑창",
+      "大鍋大師釘鞋",
+      "熔炉霸主的钉鞋"
+    ],
+    "Media": "inv_boot_mail_raidhuntergoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232731,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Steadfast Contender's Breastplate",
+      "Coraza de contrincante imperturbable",
+      "Peitoral do Competidor Inabalável",
+      "Steadfast Contender's Breastplate",
+      "Coraza de contendiente impertérrito",
+      "Cuirasse de belligérant inébranlable",
+      "Кираса неутомимого борца",
+      "Brustplatte des standhaften Verteidigers",
+      "Peitoral do Competidor Inabalável",
+      "Pettorale Corazzato del Contendente Risoluto",
+      "강건한 경쟁자의 가슴보호갑",
+      "堅定競爭者胸甲",
+      "坚定挑战者的胸铠"
+    ],
+    "Media": "inv_chest_plate_raidwarriorgoblin_d_01.jpg"
+  },
+  {
+    "TagId": 232732,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Champion's Gilded Stompers",
+      "Apisonadoras doradas de campeón",
+      "Pisoteadores Dourados do Campeão",
+      "Champion's Gilded Stompers",
+      "Apisonadoras doradas de Campeón",
+      "Croquenots dorés de champion",
+      "Позолоченные высокие ботинки защитника",
+      "Goldene Stampfer des Feldherrn",
+      "Pisoteadores Dourados do Campeão",
+      "Stivalacci Dorati da Campione",
+      "용사의 금빛 디딤장화",
+      "勇士鍍金踏靴",
+      "冠军的鎏金践踏靴"
+    ],
+    "Media": "inv_plate_raidpaladingoblin_d_01_boot.jpg"
+  },
+  {
+    "TagId": 232733,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gobfather's Gold Medal",
+      "Medalla de oro del Goblino",
+      "Medalha de Ouro do Poderoso Goblão",
+      "Gobfather's Gold Medal",
+      "Medalla de oro del goblino",
+      "Médaille d’or de Gobleone",
+      "Золотая медаль Гоблионе",
+      "Gobvaters Goldmedaille",
+      "Medalha de Ouro do Poderoso Goblão",
+      "Medaglia d'Oro del Padrino Goblin",
+      "고블린 대부의 금메달",
+      "哥布林教父的金牌",
+      "地精教父的金牌"
+    ],
+    "Media": "inv_111_necklace_ventureco.jpg"
+  },
+  {
+    "TagId": 232734,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enshrouded Cloak",
+      "Capa cubierta",
+      "Manto Amortalhado",
+      "Enshrouded Cloak",
+      "Capa velada",
+      "Cape enveloppée",
+      "Затененный плащ",
+      "Verhüllter Umhang",
+      "Manto Amortalhado",
+      "Mantello Ammantato",
+      "장막에 가려진 망토",
+      "隱蔽披風",
+      "遮影斗篷"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_cape.jpg"
+  },
+  {
+    "TagId": 232735,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silent Veil",
+      "Velo silencioso",
+      "Véu Silente",
+      "Silent Veil",
+      "Velo silencioso",
+      "Voile silencieux",
+      "Бесшумная завеса",
+      "Stiller Schleier",
+      "Véu Silente",
+      "Velo Silente",
+      "침묵의 장막",
+      "靜默帷幕",
+      "沉默帷幕"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_cape.jpg"
+  },
+  {
+    "TagId": 232736,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pendant of Enduring Promise",
+      "Colgante de promesa duradera",
+      "Pingente da Promessa Perpétua",
+      "Pendant of Enduring Promise",
+      "Colgante de promesa duradera",
+      "Pendentif de la promesse endurcie",
+      "Подвеска надежной клятвы",
+      "Anhänger des anhaltenden Versprechens",
+      "Pingente da Promessa Perpétua",
+      "Pendente della Promessa Duratura",
+      "인내하는 약속의 펜던트",
+      "恆久承諾墜飾",
+      "恒久诺言坠饰"
+    ],
+    "Media": "inv_6_0raid_necklace_3a.jpg"
+  },
+  {
+    "TagId": 232737,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Necklace of Eternal Love",
+      "Collar de amor eterno",
+      "Colar do Amor Eterno",
+      "Necklace of Eternal Love",
+      "Collar de amor eterno",
+      "Collier de l’amour éternel",
+      "Ожерелье вечной любви",
+      "Halskette der ewigen Liebe",
+      "Colar do Amor Eterno",
+      "Collana dell'Amore Eterno",
+      "영원한 사랑의 목걸이",
+      "永恆之愛項鍊",
+      "永恒爱慕项链"
+    ],
+    "Media": "inv_jewelry_necklace_107.jpg"
+  },
+  {
+    "TagId": 232738,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Green Knight's Boots",
+      "Botas de caballero verde",
+      "Botas do Cavaleiro Verde",
+      "Green Knight's Boots",
+      "Botas del Caballero Verde",
+      "Bottes du Chevalier vert",
+      "Сапоги Зеленого рыцаря",
+      "Stiefel des grünen Ritters",
+      "Botas do Cavaleiro Verde",
+      "Stivali del Cavaliere Verde",
+      "녹색 기사의 장화",
+      "綠騎士長靴",
+      "绿骑士的靴子"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232739,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sash of Lost Inspiration",
+      "Fajín de inspiración perdida",
+      "Faixa da Inspiração Perdida",
+      "Sash of Lost Inspiration",
+      "Fajín de inspiración perdida",
+      "Écharpe de l’inspiration perdue",
+      "Кушак утерянного вдохновения",
+      "Schärpe der verlorenen Inspiration",
+      "Faixa da Inspiração Perdida",
+      "Fascia dell'Ispirazione Perduta",
+      "잃어버린 영감의 장식띠",
+      "失落靈感束帶",
+      "失落灵感腰带"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232740,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Desperate Goblin's Gloves",
+      "Guantes de goblin desesperado",
+      "Luvas do Goblin Desesperado",
+      "Desperate Goblin's Gloves",
+      "Guantes de goblin desesperado",
+      "Gants de désespoir gobelin",
+      "Перчатки отчаявшегося гоблина",
+      "Handschuhe des verzweifelten Goblins",
+      "Luvas do Goblin Desesperado",
+      "Guanti del Goblin Disperato",
+      "절박한 고블린의 장갑",
+      "絕望哥布林手套",
+      "绝望地精的手套"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232741,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Suspiciously Stained Shoulderguards",
+      "Guardahombros con manchas sospechosas",
+      "Guarda-ombros com Manchas Suspeitas",
+      "Suspiciously Stained Shoulderguards",
+      "Guardahombros sospechosamente manchados",
+      "Garde-épaules aux taches douteuses",
+      "Наплечные щитки со странными пятнами",
+      "Verdächtig fleckige Schulterschützer",
+      "Guarda-ombros com Manchas Suspeitas",
+      "Spallacci Foderati Stranamente Macchiati",
+      "수상한 얼룩이 묻은 어깨보호대",
+      "可疑染污肩衛",
+      "污渍可疑的肩甲"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232742,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elite Golfer's Armbands",
+      "Bandas de golfista de élite",
+      "Embraces do Golfista de Elite",
+      "Elite Golfer's Armbands",
+      "Bandas de golfista de élite",
+      "Bracières de pro du golf",
+      "Поручи элитного гольфиста",
+      "Armbinden des Elitegolfers",
+      "Embraces do Golfista de Elite",
+      "Antibracci del Golfista d'Élite",
+      "정예 골프 선수의 완장",
+      "精英高爾夫球手的臂環",
+      "精锐球手的腕甲"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232743,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Apprentice Knight's Shirt",
+      "Camisa de aprendiz de caballero",
+      "Camisa do Cavaleiro Aprendiz",
+      "Apprentice Knight's Shirt",
+      "Camisa de aprendiz de caballero",
+      "Chemise d’apprenti chevalier",
+      "Рубашка ученика рыцаря",
+      "Hemd des Ritterlehrlings",
+      "Camisa do Cavaleiro Aprendiz",
+      "Camicia del Cavaliere Apprendista",
+      "수습 기사의 셔츠",
+      "見習騎士襯衣",
+      "见习骑士的衬衣"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232744,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Green Knight's Wristguards",
+      "Guardamuñecas de caballero verde",
+      "Munhequeiras do Cavaleiro Verde",
+      "Green Knight's Wristguards",
+      "Guardamuñecas del Caballero Verde",
+      "Garde-poignets du Chevalier vert",
+      "Нарукавники Зеленого рыцаря",
+      "Handgelenksschützer des grünen Ritters",
+      "Munhequeiras do Cavaleiro Verde",
+      "Polsiere Foderate del Cavaliere Verde",
+      "녹색 기사의 손목보호구",
+      "綠騎士腕甲",
+      "绿骑士的护腕"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232745,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Apprentice Knight's Belt",
+      "Cinturón de aprendiz de caballero",
+      "Cinto do Cavaleiro Aprendiz",
+      "Apprentice Knight's Belt",
+      "Cinturón de aprendiz de caballero",
+      "Ceinture d’apprenti chevalier",
+      "Пояс ученика рыцаря",
+      "Gürtel des Ritterlehrlings",
+      "Cinto do Cavaleiro Aprendiz",
+      "Cintura del Cavaliere Apprendista",
+      "수습 기사의 허리띠",
+      "見習騎士腰帶",
+      "见习骑士的腰带"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232746,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spaulders of Lost Inspiration",
+      "Bufas de inspiración perdida",
+      "Espaldares da Inspiração Perdida",
+      "Spaulders of Lost Inspiration",
+      "Bufas de inspiración perdida",
+      "Spallières de l’inspiration perdue",
+      "Наплеч утерянного вдохновения",
+      "Schiftung der verlorenen Inspiration",
+      "Espaldares da Inspiração Perdida",
+      "Guardaspalle dell'Ispirazione Perduta",
+      "잃어버린 영감의 어깨덮개",
+      "失落靈感肩甲",
+      "失落灵感肩甲"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232747,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Suspiciously Stained Legguards",
+      "Musleras con manchas sospechosas",
+      "Guarda-pernas com Manchas Suspeitas",
+      "Suspiciously Stained Legguards",
+      "Musleras sospechosamente manchadas",
+      "Garde-jambes aux taches douteuses",
+      "Набедренники со странными пятнами",
+      "Verdächtig fleckige Gamaschen",
+      "Guarda-pernas com Manchas Suspeitas",
+      "Gambali Foderati Stranamente Macchiati",
+      "수상한 얼룩이 묻은 다리보호대",
+      "可疑染污腿甲",
+      "污渍可疑的护腿"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232748,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Desperate Goblin's Boots",
+      "Botas de goblin desesperado",
+      "Botas do Goblin Desesperado",
+      "Desperate Goblin's Boots",
+      "Botas de goblin desesperado",
+      "Bottes de désespoir gobelin",
+      "Сапоги отчаявшегося гоблина",
+      "Stiefel des verzweifelten Goblins",
+      "Botas do Goblin Desesperado",
+      "Stivali del Goblin Disperato",
+      "절박한 고블린의 장화",
+      "絕望哥布林長靴",
+      "绝望地精的靴子"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232749,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elite Golfer's Headgear",
+      "Protector de cabeza de golfista de élite",
+      "Almofre do Golfista de Elite",
+      "Elite Golfer's Headgear",
+      "Casco de golfista de élite",
+      "Couvre-chef de pro du golf",
+      "Головной убор элитного гольфиста",
+      "Kopfbedeckung des Elitegolfers",
+      "Almofre do Golfista de Elite",
+      "Cimiero del Golfista d'Élite",
+      "정예 골프 선수의 머리보호구",
+      "精英高爾夫球手的頭盔",
+      "精锐球手的护头"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232750,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Desperate Goblin's Spaulders",
+      "Bufas de goblin desesperado",
+      "Espaldares do Goblin Desesperado",
+      "Desperate Goblin's Spaulders",
+      "Bufas de goblin desesperado",
+      "Spallières de désespoir gobelin",
+      "Наплеч отчаявшегося гоблина",
+      "Schiftung des verzweifelten Goblins",
+      "Espaldares do Goblin Desesperado",
+      "Guardaspalle del Goblin Disperato",
+      "절박한 고블린의 어깨덮개",
+      "絕望哥布林肩甲",
+      "绝望地精的护肩"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232751,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elite Golfer's Belt",
+      "Cinturón de golfista de élite",
+      "Cinto do Golfista de Elite",
+      "Elite Golfer's Belt",
+      "Cinturón de golfista de élite",
+      "Ceinture de pro du golf",
+      "Пояс элитного гольфиста",
+      "Gürtel des Elitegolfers",
+      "Cinto do Golfista de Elite",
+      "Cintura del Golfista d'Élite",
+      "정예 골프 선수의 허리띠",
+      "精英高爾夫球手的腰帶",
+      "精锐球手的腰带"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232752,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Suspiciously Stained Greaves",
+      "Grebas con manchas sospechosas",
+      "Grevas com Manchas Suspeitas",
+      "Suspiciously Stained Greaves",
+      "Grebas sospechosamente manchadas",
+      "Grèves aux taches douteuses",
+      "Наголенники со странными пятнами",
+      "Verdächtig fleckige Schienbeinschützer",
+      "Grevas com Manchas Suspeitas",
+      "Schinieri Stranamente Macchiati",
+      "수상한 얼룩이 묻은 경갑",
+      "可疑染污護脛",
+      "污渍可疑的护胫"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232753,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Green Knight's Helm",
+      "Yelmo de caballero verde",
+      "Elmo do Cavaleiro Verde",
+      "Green Knight's Helm",
+      "Yelmo del Caballero Verde",
+      "Heaume du Chevalier vert",
+      "Шлем Зеленого рыцаря",
+      "Helm des grünen Ritters",
+      "Elmo do Cavaleiro Verde",
+      "Elmo del Cavaliere Verde",
+      "녹색 기사의 투구",
+      "綠騎士頭盔",
+      "绿骑士的头盔"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232754,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Apprentice Knight's Wristguards",
+      "Guardamuñecas de aprendiz de caballero",
+      "Munhequeiras do Cavaleiro Aprendiz",
+      "Apprentice Knight's Wristguards",
+      "Guardamuñecas de aprendiz de caballero",
+      "Garde-poignets d’apprenti chevalier",
+      "Нарукавники ученика рыцаря",
+      "Handgelenksschützer des Ritterlehrlings",
+      "Munhequeiras do Cavaleiro Aprendiz",
+      "Polsiere Foderate del Cavaliere Apprendista",
+      "수습 기사의 손목보호구",
+      "見習騎士腕甲",
+      "见习骑士的护腕"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232755,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chainmail of Lost Inspiration",
+      "Malla de anillas de inspiración perdida",
+      "Malha de Anéis da Inspiração Perdida",
+      "Chainmail of Lost Inspiration",
+      "Malla de anillas de inspiración perdida",
+      "Cotte de mailles de l’inspiration perdue",
+      "Кольчуга утерянного вдохновения",
+      "Kettenpanzer der verlorenen Inspiration",
+      "Malha de Anéis da Inspiração Perdida",
+      "Cotta di Maglia dell'Ispirazione Perduta",
+      "잃어버린 영감의 쇠사슬갑옷",
+      "失落靈感鎖子甲\u3000",
+      "失落灵感链甲"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232756,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Suspiciously Stained Wristwraps",
+      "Cubremuñecas con manchas sospechosas",
+      "Munhecas com Manchas Suspeitas",
+      "Suspiciously Stained Wristwraps",
+      "Cubremuñecas sospechosamente manchadas",
+      "Bandelettes aux taches douteuses",
+      "Напульсники со странными пятнами",
+      "Verdächtig fleckige Gelenkbänder",
+      "Munhecas com Manchas Suspeitas",
+      "Bracciali Leggeri Stranamente Macchiati",
+      "수상한 얼룩이 묻은 손목싸개",
+      "可疑染污裹腕",
+      "污渍可疑的护腕"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232757,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Green Knight's Chestplate",
+      "Peto de caballero verde",
+      "Guarda-peito do Cavaleiro Verde",
+      "Green Knight's Chestplate",
+      "Peto del Caballero Verde",
+      "Pansière du Chevalier vert",
+      "Бригантина Зеленого рыцаря",
+      "Brustplatte des grünen Ritters",
+      "Guarda-peito do Cavaleiro Verde",
+      "Cotta del Cavaliere Verde",
+      "녹색 기사의 가슴갑옷",
+      "綠騎士胸鎧",
+      "绿骑士的胸铠"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232758,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gauntlets of Lost Inspiration",
+      "Guanteletes de inspiración perdida",
+      "Manoplas da Inspiração Perdida",
+      "Gauntlets of Lost Inspiration",
+      "Guanteletes de inspiración perdida",
+      "Gantelets de l’inspiration perdue",
+      "Рукавицы утерянного вдохновения",
+      "Stulpen der verlorenen Inspiration",
+      "Manoplas da Inspiração Perdida",
+      "Guanti Lunghi dell'Ispirazione Perduta",
+      "잃어버린 영감의 건틀릿",
+      "失落靈感護手",
+      "失落灵感手铠"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232759,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Apprentice Knight's Sabatons",
+      "Escarpes de aprendiz de caballero",
+      "Escarpes do Cavaleiro Aprendiz",
+      "Apprentice Knight's Sabatons",
+      "Escarpes de aprendiz de caballero",
+      "Solerets d’apprenti chevalier",
+      "Латные башмаки ученика рыцаря",
+      "Sabatons des Ritterlehrlings",
+      "Escarpes do Cavaleiro Aprendiz",
+      "Calzari del Cavaliere Apprendista",
+      "수습 기사의 발덮개",
+      "見習騎士脛甲",
+      "见习骑士的战靴"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232760,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elite Golfer's Legguards",
+      "Musleras de golfista de élite",
+      "Guarda-pernas do Golfista de Elite",
+      "Elite Golfer's Legguards",
+      "Musleras de golfista de élite",
+      "Garde-jambes de pro du golf",
+      "Набедренники элитного гольфиста",
+      "Beinschützer des Elitegolfers",
+      "Guarda-pernas do Golfista de Elite",
+      "Gambali Foderati del Golfista d'Élite",
+      "정예 골프 선수의 다리보호대",
+      "精英高爾夫球手的腿甲",
+      "精锐球手的护腿"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232761,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Desperate Goblin's Belt",
+      "Cinturón de goblin desesperado",
+      "Cinto do Goblin Desesperado",
+      "Desperate Goblin's Belt",
+      "Cinturón de goblin desesperado",
+      "Ceinture de désespoir gobelin",
+      "Пояс отчаявшегося гоблина",
+      "Gürtel des verzweifelten Goblins",
+      "Cinto do Goblin Desesperado",
+      "Cintura del Goblin Disperato",
+      "절박한 고블린의 허리띠",
+      "絕望哥布林腰帶",
+      "绝望地精的腰带"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232762,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dust-Covered Cloak",
+      "Capa cubierta de polvo",
+      "Manto Empoeirado",
+      "Dust-Covered Cloak",
+      "Capa cubierta de polvo",
+      "Cape couverte de poussière",
+      "Запыленный плащ",
+      "Staubbedeckter Umhang",
+      "Manto Empoeirado",
+      "Mantello Ricoperto di Polvere",
+      "먼지로 뒤덮인 보관함",
+      "灰塵覆蓋的披風",
+      "蒙尘斗篷"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_cape.jpg"
+  },
+  {
+    "TagId": 232763,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kaja-Infused Cloak",
+      "Capa infundida de kaja",
+      "Manto Imbuído em Jaka",
+      "Kaja-Infused Cloak",
+      "Capa imbuida de kaja",
+      "Cape imprégnée de kaja",
+      "Насыщенный каджамитом плащ",
+      "Kajaversetzter Umhang",
+      "Manto Imbuído em Jaka",
+      "Mantello Infuso di Kaja",
+      "카주 주입 발톱",
+      "卡迦灌注披風",
+      "卡亚注能的斗篷"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_cape.jpg"
+  },
+  {
+    "TagId": 232764,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pendant of Shrouded Secrets",
+      "Colgante de secretos velados",
+      "Pingente dos Segredos Amortalhados",
+      "Pendant of Shrouded Secrets",
+      "Colgante de secretos velados",
+      "Pendentif des secrets voilés",
+      "Подвеска скрытых тайн",
+      "Anhänger der verschleierten Geheimnisse",
+      "Pingente dos Segredos Amortalhados",
+      "Pendente dei Segreti Ammantati",
+      "가려진 비밀의 펜던트",
+      "影罩奧秘墜飾",
+      "遮掩秘密项坠"
+    ],
+    "Media": "inv_neck_mawraid_02_purple.jpg"
+  },
+  {
+    "TagId": 232765,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Truthseeker's Necklace",
+      "Collar de buscador de la verdad",
+      "Colar do Devoto da Verdade",
+      "Truthseeker's Necklace",
+      "Collar de buscador de la verdad",
+      "Collier de Cherche-vérité",
+      "Ожерелье искателя правды",
+      "Halskette des Wahrheitssuchers",
+      "Colar do Devoto da Verdade",
+      "Collana del Cercaverità",
+      "진실의 탐구자의 목걸이",
+      "真理追尋者項鍊",
+      "真相探求者的项链"
+    ],
+    "Media": "inv_arathor_necklace_02_color4.jpg"
+  },
+  {
+    "TagId": 232766,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Band of the Last Hope",
+      "Sortija de la última esperanza",
+      "Elo da Última Esperança",
+      "Band of the Last Hope",
+      "Sortija de la última esperanza",
+      "Bague du dernier espoir",
+      "Перстень последней надежды",
+      "Band der letzten Hoffnung",
+      "Elo da Última Esperança",
+      "Vera dell'Ultima Speranza",
+      "마지막 희망의 고리",
+      "最後希望指環",
+      "最终一愿指箍"
+    ],
+    "Media": "inv_ring_80_04b.jpg"
+  },
+  {
+    "TagId": 232767,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ring of the Last Gambit",
+      "Anillo del último gambito",
+      "Anel do Último Gambito",
+      "Ring of the Last Gambit",
+      "Anillo del truco final",
+      "Anneau du dernier gambit",
+      "Кольцо последнего гамбита",
+      "Ring des letzten Schachzugs",
+      "Anel do Último Gambito",
+      "Anello dell'Ultima Mossa",
+      "마지막 도박의 반지",
+      "最後險招之戒",
+      "最后一搏指环"
+    ],
+    "Media": "inv_ventureco_ring02_color2.jpg"
+  },
+  {
+    "TagId": 232768,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trigger-Sniffer's Hood",
+      "Caperuza del husmeabombas",
+      "Capuz do Farejador de Bombas",
+      "Trigger-Sniffer's Hood",
+      "Caperuza de olisqueagatillos",
+      "Chaperon de sniffe-détente",
+      "Капюшон нервного стрелка",
+      "Kapuze des Zünderaufspürers",
+      "Capuz do Farejador de Bombas",
+      "Cappuccio dell'Attivafiuto",
+      "격발기 탐색자의 두건",
+      "機關嗅探者兜帽",
+      "触发嗅探者的兜帽"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232769,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stagecrasher's Gloves",
+      "Guantes del irrumpescenarios",
+      "Luvas do Invasor de Palco",
+      "Stagecrasher's Gloves",
+      "Guantes de rompescenarios",
+      "Gants de l’intrusion sur scène",
+      "Перчатки жажды славы",
+      "Handschuhe des Bühnenbrechers",
+      "Luvas do Invasor de Palco",
+      "Guanti dello Sfondapalco",
+      "무대파괴자의 장갑",
+      "舞台破壞者手套",
+      "舞台捣蛋鬼的手套"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232770,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sewer Wanderer's Shoulderpads",
+      "Hombreras de rondador de cloacas",
+      "Ombreiras do Errante do Esgoto",
+      "Sewer Wanderer's Shoulderpads",
+      "Hombreras de errante de las cloacas",
+      "Protège-épaules d’égoutière",
+      "Наплечные пластины сточного странника",
+      "Schulterpolster des Kanalisationsgängers",
+      "Ombreiras do Errante do Esgoto",
+      "Spalletti del Viandante delle Fogne",
+      "하수도 방랑자의 어깨덧대",
+      "下水道漫遊者肩墊",
+      "下水道漫步者的肩章"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232771,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Belt of the Certified Hunter",
+      "Cinturón de cazador certificado",
+      "Cinto do Caçador Certificado",
+      "Belt of the Certified Hunter",
+      "Cinturón del cazador certificado",
+      "Ceinture de traque certifiée",
+      "Пояс сертифицированного охотника",
+      "Gürtel des zertifizierten Jägers",
+      "Cinto do Caçador Certificado",
+      "Cintura del Cacciatore Certificato",
+      "공인 사냥꾼의 허리띠",
+      "認證獵人腰帶",
+      "认证猎手的腰带"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232772,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Slimediver's Trousers",
+      "Calzas de buceababa",
+      "Calçotes do Visgoleiro",
+      "Slimediver's Trousers",
+      "Calzas de zambullebaba",
+      "Chausses de gélanaute",
+      "Брюки слизныряльщика",
+      "Beinkleider des Schleimtauchers",
+      "Calçotes do Visgoleiro",
+      "Calzoni dello Sguazzamelma",
+      "점액잠수부의 긴바지",
+      "潛泥員長褲",
+      "软泥潜兵的长裤"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232773,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trigger-Sniffer's Spaulders",
+      "Bufas del husmeabombas",
+      "Espaldares do Farejador de Bombas",
+      "Trigger-Sniffer's Spaulders",
+      "Bufas de olisqueagatillos",
+      "Spallières de sniffe-détente",
+      "Наплеч нервного стрелка",
+      "Schiftung des Zünderaufspürers",
+      "Espaldares do Farejador de Bombas",
+      "Guardaspalle dell'Attivafiuto",
+      "격발기 탐색자의 어깨덮개",
+      "機關嗅探者肩甲",
+      "触发嗅探者的肩甲"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232774,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stagecrasher's Wristband",
+      "Muñequeras del irrumpescenarios",
+      "Punho do Invasor de Palco",
+      "Stagecrasher's Wristband",
+      "Braciles de rompescenarios",
+      "Protège-poignets de l’intrusion sur scène",
+      "Нарукавье жажды славы",
+      "Gelenkbänder des Bühnenbrechers",
+      "Punho do Invasor de Palco",
+      "Polsiere dello Sfondapalco",
+      "무대파괴자의 손목띠",
+      "舞台破壞者腕環",
+      "舞台捣蛋鬼的腕带"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232775,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Helm of the Certified Hunter",
+      "Yelmo de cazador certificado",
+      "Elmo do Caçador Certificado",
+      "Helm of the Certified Hunter",
+      "Yelmo del cazador certificado",
+      "Heaume de traque certifiée",
+      "Шлем сертифицированного охотника",
+      "Helm des zertifizierten Jägers",
+      "Elmo do Caçador Certificado",
+      "Elmo del Cacciatore Certificato",
+      "공인 사냥꾼의 투구",
+      "認證獵人頭盔",
+      "认证猎手的头盔"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 232776,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sewer Wanderer's Gloves",
+      "Guantes de rondador de cloacas",
+      "Luvas do Errante do Esgoto",
+      "Sewer Wanderer's Gloves",
+      "Guantes de errante de las cloacas",
+      "Gants d’égoutière",
+      "Перчатки сточного странника",
+      "Handschuhe des Kanalisationsgängers",
+      "Luvas do Errante do Esgoto",
+      "Guanti del Viandante delle Fogne",
+      "하수도 방랑자의 장갑",
+      "下水道漫遊者手套",
+      "下水道漫步者的手套"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232777,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Slimediver's Girdle",
+      "Faja de buceababa",
+      "Cinturão do Visgoleiro",
+      "Slimediver's Girdle",
+      "Faja de zambullebaba",
+      "Ceinturon de gélanaute",
+      "Ремень слизныряльщика",
+      "Gürtel des Schleimtauchers",
+      "Cinturão do Visgoleiro",
+      "Cinturone dello Sguazzamelma",
+      "점액잠수부의 요대",
+      "潛泥員束腰",
+      "软泥潜兵的腰甲"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232778,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stagecrasher's Shoulderguards",
+      "Guardahombros del irrumpescenarios",
+      "Guarda-ombros do Invasor de Palco",
+      "Stagecrasher's Shoulderguards",
+      "Guardahombros de rompescenarios",
+      "Garde-épaules de l’intrusion sur scène",
+      "Наплечные щитки жажды славы",
+      "Schulterschützer des Bühnenbrechers",
+      "Guarda-ombros do Invasor de Palco",
+      "Spallacci Foderati dello Sfondapalco",
+      "무대파괴자의 어깨보호대",
+      "舞台破壞者肩衛",
+      "舞台捣蛋鬼的肩铠"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_shoulder.jpg"
+  },
+  {
+    "TagId": 232779,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Boots of the Certified Hunter",
+      "Botas de cazador certificado",
+      "Botas do Caçador Certificado",
+      "Boots of the Certified Hunter",
+      "Botas del cazador certificado",
+      "Bottes de traque certifiée",
+      "Сапоги сертифицированного охотника",
+      "Stiefel des zertifizierten Jägers",
+      "Botas do Caçador Certificado",
+      "Stivali del Cacciatore Certificato",
+      "공인 사냥꾼의 장화",
+      "認證獵人長靴",
+      "认证猎手的靴子"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_boot.jpg"
+  },
+  {
+    "TagId": 232780,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Slimediver's Gloves",
+      "Guantes de buceababa",
+      "Luvas do Visgoleiro",
+      "Slimediver's Gloves",
+      "Guantes de zambullebaba",
+      "Gants de gélanaute",
+      "Перчатки слизныряльщика",
+      "Handschuhe des Schleimtauchers",
+      "Luvas do Visgoleiro",
+      "Guanti dello Sguazzamelma",
+      "점액잠수부의 장갑",
+      "潛泥員手套",
+      "软泥潜兵的手套"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232781,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sewer Wanderer's Bracers",
+      "Brazales de rondador de cloacas",
+      "Braçadeiras do Errante do Esgoto",
+      "Sewer Wanderer's Bracers",
+      "Brazales de errante de las cloacas",
+      "Brassards d’égoutière",
+      "Наручи сточного странника",
+      "Armschienen des Kanalisationsgängers",
+      "Braçadeiras do Errante do Esgoto",
+      "Bracciali del Viandante delle Fogne",
+      "하수도 방랑자의 팔보호구",
+      "下水道漫遊者護腕",
+      "下水道漫步者的护腕"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232782,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trigger-Sniffer's Greaves",
+      "Grebas del husmeabombas",
+      "Grevas do Farejador de Bombas",
+      "Trigger-Sniffer's Greaves",
+      "Grebas de olisqueagatillos",
+      "Grèves de sniffe-détente",
+      "Наголенники нервного стрелка",
+      "Beinschützer des Zünderaufspürers",
+      "Grevas do Farejador de Bombas",
+      "Gambiere Rinforzate dell'Attivafiuto",
+      "격발기 탐색자의 경갑",
+      "機關嗅探者護脛",
+      "触发嗅探者的护胫"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232783,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sewer Wanderer's Belt",
+      "Cinturón de rondador de cloacas",
+      "Cinto do Errante do Esgoto",
+      "Sewer Wanderer's Belt",
+      "Cinturón de errante de las cloacas",
+      "Ceinture d’égoutière",
+      "Пояс сточного странника",
+      "Gürtel des Kanalisationsgängers",
+      "Cinto do Errante do Esgoto",
+      "Cintura del Viandante delle Fogne",
+      "하수도 방랑자의 허리띠",
+      "下水道漫遊者腰帶",
+      "下水道漫步者的腰带"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_belt.jpg"
+  },
+  {
+    "TagId": 232784,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stagecrasher's Legguards",
+      "Musleras del irrumpescenarios",
+      "Guarda-pernas do Invasor de Palco",
+      "Stagecrasher's Legguards",
+      "Musleras de rompescenarios",
+      "Garde-jambes de l’intrusion sur scène",
+      "Набедренники жажды славы",
+      "Beinschützer des Bühnenbrechers",
+      "Guarda-pernas do Invasor de Palco",
+      "Gambali Foderati dello Sfondapalco",
+      "무대파괴자의 다리보호대",
+      "舞台破壞者腿甲",
+      "舞台捣蛋鬼的护腿"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_pant.jpg"
+  },
+  {
+    "TagId": 232785,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Slimediver's Vest",
+      "Jubón de buceababa",
+      "Colete do Visgoleiro",
+      "Slimediver's Vest",
+      "Jubón de zambullebaba",
+      "Gilet de gélanaute",
+      "Жилет слизныряльщика",
+      "Weste des Schleimtauchers",
+      "Colete do Visgoleiro",
+      "Giubba dello Sguazzamelma",
+      "점액잠수부의 조끼",
+      "潛泥員外衣",
+      "软泥潜兵的背心"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_chest.jpg"
+  },
+  {
+    "TagId": 232786,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trigger-Sniffer's Handwraps",
+      "Manijas del husmeabombas",
+      "Mitenes do Farejador de Bombas",
+      "Trigger-Sniffer's Handwraps",
+      "Manijas de olisqueagatillos",
+      "Protège-mains de sniffe-détente",
+      "Повязки нервного стрелка",
+      "Handlappen des Zünderaufspürers",
+      "Mitenes do Farejador de Bombas",
+      "Mitene dell'Attivafiuto",
+      "격발기 탐색자의 손등싸개",
+      "機關嗅探者裹手",
+      "触发嗅探者的裹手"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_glove.jpg"
+  },
+  {
+    "TagId": 232787,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wristwraps of the Certified Hunter",
+      "Cubremuñecas de cazador certificado",
+      "Munhecas do Caçador Certificado",
+      "Wristwraps of the Certified Hunter",
+      "Cubremuñecas del cazador certificado",
+      "Bandelettes de traque certifiée",
+      "Напульсники сертифицированного охотника",
+      "Gelenkbänder des zertifizierten Jägers",
+      "Munhecas do Caçador Certificado",
+      "Bracciali Leggeri del Cacciatore Certificato",
+      "공인 사냥꾼의 손목싸개",
+      "認證獵人裹腕",
+      "认证猎手的裹腕"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_bracer.jpg"
+  },
+  {
+    "TagId": 232790,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Medal of Conquest",
+      "Medalla de conquista",
+      "Medalha de Dominação",
+      "Medal of Conquest",
+      "Medalla de conquista",
+      "Médaille de conquête",
+      "Медаль завоеваний",
+      "Medaille der Eroberung",
+      "Medalha de Dominação",
+      "Medaglia della Conquista",
+      "정복의 훈장",
+      "征服勳章",
+      "征服勋章"
+    ],
+    "Media": "achievement_legionpvp3tier4.jpg"
+  },
+  {
+    "TagId": 232804,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Capo's Molten Knuckles",
+      "Nudillos fundidos del capo",
+      "Soqueira Incandescente do Capo",
+      "Capo's Molten Knuckles",
+      "Nudillos fundidos de capo",
+      "Coup de poing en fusion de Capo",
+      "Раскаленный кастет Капо",
+      "Capos geschmolzener Schlagring",
+      "Soqueira Incandescente do Capo",
+      "Paranocche Fuse di Capo",
+      "카포의 불타는 너클",
+      "隊長的熔岩指虎",
+      "小头目的熔火指虎"
+    ],
+    "Media": "inv_hand_1h_ogresecurityboss_d_01.jpg"
+  },
+  {
+    "TagId": 232805,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Best-in-Slots",
+      "Lo mejor de lo mejor",
+      "Vale Cada Níquel",
+      "Best-in-Slots",
+      "Palanca de la suerte",
+      "As-des-Machines",
+      "БИС",
+      "Spieloplatt",
+      "Vale Cada Níquel",
+      "Leva della Slot",
+      "종결 무기",
+      "最佳裝備",
+      "最上品"
+    ],
+    "Media": "inv_mace_2h_goblinraid_d_02.jpg"
+  },
+  {
+    "TagId": 232806,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tiny Torq",
+      "Mini Torq",
+      "Torquito",
+      "Tiny Torq",
+      "Torq en miniatura",
+      "Mini Torq",
+      "Кроха Крутень",
+      "Minitorq",
+      "Torquito",
+      "Torquccio",
+      "작은 토크",
+      "迷你托克",
+      "小小托克"
+    ],
+    "Media": "inv_toygorilla_red.jpg"
+  },
+  {
+    "TagId": 232807,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Iron Chick",
+      "Polluelo de hierro",
+      "Pintinho de Ferro",
+      "Iron Chick",
+      "Pollo de hierro",
+      "Poule en fer",
+      "Железный цыпленок",
+      "Eisenhuhn",
+      "Pintinho de Ferro",
+      "Pulcino di Ferro",
+      "무쇠닭",
+      "鐵雛鳥",
+      "钢铁小鸡"
+    ],
+    "Media": "inv_chicken2_mechanical.jpg"
+  },
+  {
+    "TagId": 232838,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Viridian Mechasaur",
+      "Mecasaurio veridiano",
+      "Mecassauro Viridiano",
+      "Viridian Mechasaur",
+      "Mecasaurio viridiano",
+      "Mécasaure viridien",
+      "Изумрудный мехазавр",
+      "Smaragdgrüner Mechasaurier",
+      "Mecassauro Viridiano",
+      "Meccasauro Verdastro",
+      "녹빛 메카사우루스",
+      "翠綠機甲龍",
+      "翠绿机甲暴龙"
+    ],
+    "Media": "inv_babydevilsaur_green.jpg"
+  },
+  {
+    "TagId": 232839,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wavebreaker Mechasaur",
+      "Mecasaurio rompeolas",
+      "Mecassauro Quebraondas",
+      "Wavebreaker Mechasaur",
+      "Mecasaurio rompeolas",
+      "Mécasaure brise-vague",
+      "Морской мехазавр",
+      "Wellenbrechermechasaurier",
+      "Mecassauro Quebraondas",
+      "Meccasauro Spezzaonde",
+      "파도격파 메카사우루스",
+      "破浪機甲龍",
+      "破浪机甲暴龙"
+    ],
+    "Media": "inv_babydevilsaur_blue.jpg"
+  },
+  {
+    "TagId": 232840,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mechagopher",
+      "Mecataltuza",
+      "Mecasquilo",
+      "Mechagopher",
+      "Mecarroedor",
+      "Mécagophère",
+      "Мехагрыз",
+      "Mechaziesel",
+      "Mecasquilo",
+      "Meccatalpa",
+      "기계땅다람쥐",
+      "機甲地鼠",
+      "机器土拨鼠"
+    ],
+    "Media": "inv_mechanicalprairiedog_black.jpg"
+  },
+  {
+    "TagId": 232841,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Professor Punch",
+      "Profesor Puñetazos",
+      "Professor Murro",
+      "Professor Punch",
+      "Profesor Puños",
+      "Professeur Mandal",
+      "Профессор Тумак",
+      "Professor Prügel",
+      "Professor Murro",
+      "Professor Cazzotto",
+      "주먹 교수",
+      "重拳教授",
+      "重拳教授"
+    ],
+    "Media": "inv_toygorilla_green.jpg"
+  },
+  {
+    "TagId": 232842,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Mechasaur",
+      "Mecasaurio carmesí",
+      "Mecassauro Carmesim",
+      "Crimson Mechasaur",
+      "Mecasaurio escarlata",
+      "Mécasaure cramoisi",
+      "Багровый мехазавр",
+      "Scharlachroter Mechasaurier",
+      "Mecassauro Carmesim",
+      "Meccasauro Cremisi",
+      "진홍빛 메카사우루스",
+      "赤紅機甲龍",
+      "赤红机甲暴龙"
+    ],
+    "Media": "inv_babydevilsaur_red.jpg"
+  },
+  {
+    "TagId": 232843,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gorillion",
+      "Gorilión",
+      "Gorillion",
+      "Gorillion",
+      "Gorilión",
+      "Gorillion",
+      "Гориллион",
+      "Gorillion",
+      "Gorillion",
+      "Gorillione",
+      "고릴리온",
+      "超強猩猩",
+      "超新猩"
+    ],
+    "Media": "inv_toygorilla_blue.jpg"
+  },
+  {
+    "TagId": 232844,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fuz-Size Flarendo",
+      "Mini Fogorrex",
+      "Flarendo Diminuto",
+      "Fuz-Size Flarendo",
+      "Flarendo minidiversión",
+      "Fusendo miniature",
+      "Портативный Пламендо",
+      "Minileuchtendo",
+      "Flarendo Diminuto",
+      "Motorendino",
+      "아기자기한 플레렌도",
+      "小不點弗雷倫多",
+      "娇小弗莱兰多"
+    ],
+    "Media": "inv_babydevilsaur_yellow.jpg"
+  },
+  {
+    "TagId": 232845,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bilgewater Junkhauler",
+      "Portachatarra Pantoque",
+      "Cata-lixo de Borraquilha",
+      "Bilgewater Junkhauler",
+      "Chatarrero de Pantoque",
+      "Cameloteur de Baille-Fonds",
+      "Хламонос картеля Трюмных Вод",
+      "Schrottschlepper des Bilgewasserkartells",
+      "Cata-lixo de Borraquilha",
+      "Spostascarti degli Acqualorda",
+      "빌지워터 고물운반꾼",
+      "污水垃圾搬運工",
+      "锈水垃圾搬运工"
+    ],
+    "Media": "inv_111_sapper_bilgewater.jpg"
+  },
+  {
+    "TagId": 232846,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Steamwheedle Flunkie",
+      "Lacayo Bonvapor",
+      "Funcionário Exemplar de Bondebico",
+      "Steamwheedle Flunkie",
+      "Lacayo Bonvapor",
+      "Larbin de Gentepression",
+      "Прислужник Хитрой Шестеренки",
+      "Handlanger des Dampfdruckkartells",
+      "Funcionário Exemplar de Bondebico",
+      "Tirapiedi degli Spargifumo",
+      "스팀휘들 심부름꾼",
+      "熱砂走狗",
+      "热砂勤杂机"
+    ],
+    "Media": "inv_111_sapper_steamwheedle.jpg"
+  },
+  {
+    "TagId": 232847,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Personal-Use Sapper",
+      "Zapador de uso personal",
+      "Sapador de Uso Pessoal",
+      "Personal-Use Sapper",
+      "Zapador de uso personal",
+      "Sapeur à usage personnel",
+      "Сапер для личного пользования",
+      "Persönlicher Pionier",
+      "Sapador de Uso Pessoal",
+      "Geniere a Uso Personale",
+      "전용 공병",
+      "私人爆破兵",
+      "私人工兵"
+    ],
+    "Media": "inv_111_sapper_darkfuse.jpg"
+  },
+  {
+    "TagId": 232848,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mr. DELVER",
+      "Sr. ABISMAL",
+      "Sr. IMERSOR",
+      "Mr. DELVER",
+      "Sr. EXPLORADOR DE PROFUNDIDADES",
+      "M.\u00A0ARCHÉO",
+      "Мистер ВЫЛАЗЧИК",
+      "Mister TIEFENFORSCHER",
+      "Sr. IMERSOR",
+      "Signor SCORRIBOT",
+      "구렁 탐험봇",
+      "探究者先生",
+      "地下堡行者先生"
+    ],
+    "Media": "inv_111_sapper_darkfuse.jpg"
+  },
+  {
+    "TagId": 232849,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Venture Companyman",
+      "Empresario de Ventura",
+      "Prata da Casa da Empreendimentos",
+      "Venture Companyman",
+      "Empleado de Ventura y Cía.",
+      "Préposé de la KapitalRisk",
+      "Служащий Торговой компании",
+      "Vertreter der Venture Co.",
+      "Prata da Casa da Empreendimentos",
+      "Membro Leale della S.P.R. & Co.",
+      "투자개발회사 사원",
+      "風險投資公司員工",
+      "风险企业人"
+    ],
+    "Media": "inv_111_sapper_ventureco.jpg"
+  },
+  {
+    "TagId": 232850,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blackwater Kegmover",
+      "Muevebarriles de Aguasnegras",
+      "Barriqueiro de Aguanegra",
+      "Blackwater Kegmover",
+      "Muevebarriles de Aguasnegras",
+      "Porte-barrique des Flots noirs",
+      "Переносчик бочек картеля Черноводья",
+      "Fassschubser der Schwarzmeer AG",
+      "Barriqueiro de Aguanegra",
+      "Spostabotti degli Acquanera",
+      "블랙워터 통운반꾼",
+      "黑水搬桶工",
+      "黑水运桶工"
+    ],
+    "Media": "inv_111_sapper_blackwater.jpg"
+  },
+  {
+    "TagId": 232851,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rocketfist",
+      "Puñomisil",
+      "Punho a Jato",
+      "Rocketfist",
+      "Mecapuño",
+      "Poing-roquette",
+      "Турбокулак",
+      "Raketenfaust",
+      "Punho a Jato",
+      "Pugnorazzo",
+      "로켓주먹",
+      "火箭拳",
+      "火箭拳"
+    ],
+    "Media": "inv_toygorilla_yellow.jpg"
+  },
+  {
+    "TagId": 232852,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mutt",
+      "Chucho",
+      "Vira-lata",
+      "Mutt",
+      "Chucho",
+      "Cabot",
+      "Шавк",
+      "Trottel",
+      "Vira-lata",
+      "Ienino",
+      "머트",
+      "默特",
+      "穆特"
+    ],
+    "Media": "inv_babyhyena_purple.jpg"
+  },
+  {
+    "TagId": 232853,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eepy",
+      "Mimilón",
+      "Soneca",
+      "Eepy",
+      "Dormilón",
+      "Somnol",
+      "Сплюш",
+      "Lafen",
+      "Soneca",
+      "Eepy",
+      "에피",
+      "伊比",
+      "艾匹"
+    ],
+    "Media": "inv_babyhyena_green.jpg"
+  },
+  {
+    "TagId": 232854,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grinner",
+      "Risitas",
+      "Risadinha",
+      "Grinner",
+      "Sonrisas",
+      "Frimouss",
+      "Оскалс",
+      "Grinser",
+      "Risadinha",
+      "Smorfino",
+      "그리너",
+      "葛萊納",
+      "狞笑者"
+    ],
+    "Media": "inv_babyhyena_black.jpg"
+  },
+  {
+    "TagId": 232855,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Foreman",
+      "Capataz",
+      "Encarregada",
+      "Foreman",
+      "Supervisor",
+      "Contremaître",
+      "Бригадир",
+      "Schieber",
+      "Encarregada",
+      "Caposghigno",
+      "현장감독",
+      "工頭",
+      "工头"
+    ],
+    "Media": "inv_babyhyena_yellow.jpg"
+  },
+  {
+    "TagId": 232856,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Scruff",
+      "Andrajín",
+      "Kaska",
+      "Scruff",
+      "Peludo",
+      "Bouriffe",
+      "Щетинс",
+      "Strolchi",
+      "Kaska",
+      "Arruffio",
+      "꾀죄죄",
+      "髒髒",
+      "邋遢"
+    ],
+    "Media": "inv_babyhyena_blue.jpg"
+  },
+  {
+    "TagId": 232857,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Goggles",
+      "Gafas",
+      "Quatro-olhos",
+      "Goggles",
+      "Gafas",
+      "Lunettes",
+      "Очкарик",
+      "Glotzi",
+      "Quatro-olhos",
+      "Occhialetto",
+      "고글",
+      "古格斯",
+      "目镜"
+    ],
+    "Media": "inv_babyhyena_red.jpg"
+  },
+  {
+    "TagId": 232858,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cruncher",
+      "Masticón",
+      "Cascrec",
+      "Cruncher",
+      "Crujidos",
+      "Écrabouilleur",
+      "Хрустяш",
+      "Quetscher",
+      "Cascrec",
+      "Sgranocchiatore",
+      "파쇄자",
+      "輾碎者",
+      "咬碎者"
+    ],
+    "Media": "inv_cockroach2_black.jpg"
+  },
+  {
+    "TagId": 232859,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lab Rat",
+      "Rata de laboratorio",
+      "Rato de Laboratório",
+      "Lab Rat",
+      "Rata de laboratorio",
+      "Rat de laboratoire",
+      "Лабораторная крыса",
+      "Laborratte",
+      "Rato de Laboratório",
+      "Ratto da Laboratorio",
+      "실험쥐",
+      "實驗鼠",
+      "小白鼠"
+    ],
+    "Media": "inv_111_rat_white.jpg"
   },
   {
     "TagId": 232860,
@@ -4977,6 +10416,174 @@
     "Media": "inv_siren_isle_singing_fragments.jpg"
   },
   {
+    "TagId": 232863,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkfuse Research Notes",
+      "Notas de investigación mechaoscura",
+      "Anotações de Pesquisa dos Sombrafuso",
+      "Darkfuse Research Notes",
+      "Notas de investigación de Fundisombras",
+      "Notes de recherche imprégnées de ténèbres",
+      "Исследовательские записи Минеров",
+      "Forschungsnotizen der Düsternisverschmolzenen",
+      "Anotações de Pesquisa dos Sombrafuso",
+      "Appunti di Ricerca dei Micciascura",
+      "다크퓨즈 연구 일지",
+      "暗融研究筆記",
+      "暗索研究笔记"
+    ],
+    "Media": "inv_misc_note_04.jpg"
+  },
+  {
+    "TagId": 232864,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Forged Aspirant's Weapons",
+      "Arsenal: Armas de Aspirante forjado",
+      "Arsenal: Armas do Aspirante Forjado",
+      "Arsenal: Forged Aspirant's Weapons",
+      "Arsenal: armas de aspirante forjado",
+      "Arsenal\u00A0: armes de l’aspirant forgé",
+      "Арсенал: оружие кованого претендента",
+      "Arsenal: Waffen des geschmiedeten Aspiranten",
+      "Arsenal: Armas do Aspirante Forjado",
+      "Arsenale: Armi del Pretendente Forgiato",
+      "병기: 제련된 지원자의 무기",
+      "武器庫：百鍊志士武器",
+      "军械：炉铸候选者的武器"
+    ],
+    "Media": "inv_knife_1h_emeralddreamoutdoor_d_01.jpg"
+  },
+  {
+    "TagId": 232865,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Forged Gladiator's Weapons",
+      "Arsenal: Armas de Gladiador forjado",
+      "Arsenal: Armas do Gladiador Forjado",
+      "Arsenal: Forged Gladiator's Weapons",
+      "Arsenal: armas de Gladiador forjado",
+      "Arsenal\u00A0: armes du gladiateur forgé",
+      "Арсенал: оружие кованого гладиатора",
+      "Arsenal: Waffen des geschmiedeten Gladiators",
+      "Arsenal: Armas do Gladiador Forjado",
+      "Arsenale: Armi del Gladiatore Forgiato",
+      "병기: 제련된 검투사의 무기",
+      "武器庫：百鍊鬥士武器",
+      "军械：炉铸角斗士的武器"
+    ],
+    "Media": "inv_sword_2h_emeralddreamraid_d_01.jpg"
+  },
+  {
+    "TagId": 232866,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Elite Forged Gladiator's Weapons",
+      "Arsenal: Armas de Gladiador forjado de élite",
+      "Arsenal: Armas do Gladiador Forjado de Elite",
+      "Arsenal: Elite Forged Gladiator's Weapons",
+      "Arsenal de élite: armas de Gladiador de élite forjado",
+      "Arsenal\u00A0: armes du gladiateur forgé d’élite",
+      "Арсенал: оружие элитного кованого гладиатора",
+      "Arsenal: Waffen des geschmiedeten Elitegladiators",
+      "Arsenal: Armas do Gladiador Forjado de Elite",
+      "Arsenale: Armi d'Élite del Gladiatore Forgiato",
+      "병기: 정예 제련된 검투사의 무기",
+      "武器庫：精英百鍊鬥士武器",
+      "军械：精锐炉铸角斗士的武器"
+    ],
+    "Media": "inv_axe_1h_emeralddreamraid_d_01.jpg"
+  },
+  {
+    "TagId": 232867,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Prized Aspirant's Weapons",
+      "Arsenal: Armas de Aspirante premiado",
+      "Arsenal: Armas do Aspirante Precioso",
+      "Arsenal: Prized Aspirant's Weapons",
+      "Arsenal: armas de aspirante preciado",
+      "Arsenal\u00A0: armes de l’aspirant adulé",
+      "Арсенал: оружие призового претендента",
+      "Arsenal: Waffen des geachteten Aspiranten",
+      "Arsenal: Armas do Aspirante Precioso",
+      "Arsenale: Armi del Pretendente Stimato",
+      "병기: 찬양받는 지원자의 무기",
+      "武器庫：獲獎志士武器",
+      "军械：至臻候选者的武器"
+    ],
+    "Media": "inv_sword_2h_arathoroutdoor_d_01.jpg"
+  },
+  {
+    "TagId": 232868,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Prized Gladiator's Weapons",
+      "Arsenal: Armas de Gladiador premiado",
+      "Arsenal: Armas do Gladiador Precioso",
+      "Arsenal: Prized Gladiator's Weapons",
+      "Arsenal: armas de Gladiador preciado",
+      "Arsenal\u00A0: armes du gladiateur adulé",
+      "Арсенал: оружие призового гладиатора",
+      "Arsenal: Waffen des geachteten Gladiators",
+      "Arsenal: Armas do Gladiador Precioso",
+      "Arsenale: Armi del Gladiatore Stimato",
+      "병기: 찬양받는 검투사의 무기",
+      "武器庫：獲獎鬥士武器",
+      "军械：至臻角斗士的武器"
+    ],
+    "Media": "inv_knife_1h_goblinraid_d_02.jpg"
+  },
+  {
+    "TagId": 232869,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Elite Prized Gladiator's Weapons",
+      "Arsenal: Armas de Gladiador premiado de élite",
+      "Arsenal: Armas do Gladiador Precioso de Elite",
+      "Arsenal: Elite Prized Gladiator's Weapons",
+      "Arsenal: armas de Gladiador de élite preciado",
+      "Arsenal\u00A0: armes du gladiateur adulé d’élite",
+      "Арсенал: оружие элитного призового гладиатора",
+      "Arsenal: Waffen des geachteten Elitegladiators",
+      "Arsenal: Armas do Gladiador Precioso de Elite",
+      "Arsenale: Armi d'Élite del Gladiatore Stimato",
+      "병기: 정예 찬양받는 검투사의 무기",
+      "武器庫：精英獲獎鬥士武器",
+      "军械：精锐至臻角斗士的武器"
+    ],
+    "Media": "inv_axe_2h_goblinraid_d_01.jpg"
+  },
+  {
+    "TagId": 232874,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Undermine Stockpile",
+      "Reserva de Minahonda",
+      "Reserva da Inframina",
+      "Undermine Stockpile",
+      "Reserva de Minahonda",
+      "Réserve de Terremine",
+      "Запасы Нижней Шахты",
+      "Lorenhallvorräte",
+      "Reserva da Inframina",
+      "Deposito di Cavafonda",
+      "언더마인 비축품",
+      "幽坑城儲備",
+      "安德麦库存"
+    ],
+    "Media": "inv_eng_crate2.jpg"
+  },
+  {
     "TagId": 232877,
     "TagType": 21,
     "Names": [
@@ -4998,6 +10605,216 @@
     "Media": "inv_legion_cache_armyofthelight.jpg"
   },
   {
+    "TagId": 232883,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Turbo-Drain 5000",
+      "Turbodrenador 5000",
+      "Turbodreno 5000",
+      "Turbo-Drain 5000",
+      "Turbodrenaje 5000",
+      "Turbo-Draineur\u00A05000",
+      "Турбо-дренаж 5000",
+      "Turbo-Entzug 5000",
+      "Turbodreno 5000",
+      "Turbo-Drenaggio 5000",
+      "터보 배출기 5000",
+      "渦輪排氣管5000型",
+      "涡轮排放机5000型"
+    ],
+    "Media": "spell_winston_zap.jpg"
+  },
+  {
+    "TagId": 232886,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Algari Warmonger's Cloth Armor",
+      "Conjunto: Armadura de tela de belicista algari",
+      "Indumentária: Armadura de Tecido do Beligerante Algari",
+      "Ensemble: Algari Warmonger's Cloth Armor",
+      "Indumentaria: Armadura de tela de belicista algariano",
+      "Ensemble\u00A0: armure du belliciste algari en étoffe",
+      "Комплект: тканевые доспехи алгарийского завоевателя",
+      "Ensemble: Stoffrüstung des Algarikriegstreibers",
+      "Indumentária: Armadura de Tecido do Beligerante Algari",
+      "Set: Stoffa del Guerrafondaio Algari",
+      "복장: 알가르 전투사의 천 방어구",
+      "套裝：阿爾加好戰者布甲",
+      "套装：阿加好战者的布甲"
+    ],
+    "Media": "inv_cloth_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232887,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Algari Warmonger's Leather Armor",
+      "Conjunto: Armadura de cuero de belicista algari",
+      "Indumentária: Armadura de Couro do Beligerante Algari",
+      "Ensemble: Algari Warmonger's Leather Armor",
+      "Indumentaria: Armadura de cuero de belicista algariano",
+      "Ensemble\u00A0: armure du belliciste algari en cuir",
+      "Комплект: кожаные доспехи алгарийского завоевателя",
+      "Ensemble: Lederrüstung des Algarikriegstreibers",
+      "Indumentária: Armadura de Couro do Beligerante Algari",
+      "Set: Cuoio del Guerrafondaio Algari",
+      "복장: 알가르 전투사의 가죽 방어구",
+      "套裝：阿爾加好戰者皮甲",
+      "套装：阿加好战者的皮甲"
+    ],
+    "Media": "inv_leather_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232888,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Algari Warmonger's Mail Armor",
+      "Conjunto: Armadura de malla de belicista algari",
+      "Indumentária: Armadura de Malha do Beligerante Algari",
+      "Ensemble: Algari Warmonger's Mail Armor",
+      "Indumentaria: Armadura de malla de belicista algariano",
+      "Ensemble\u00A0: cotte de mailles du belliciste algari",
+      "Комплект: кольчужные доспехи алгарийского завоевателя",
+      "Ensemble: Kettenrüstung des Algarikriegstreibers",
+      "Indumentária: Armadura de Malha do Beligerante Algari",
+      "Set: Maglia del Guerrafondaio Algari",
+      "복장: 알가르 전투사의 사슬 방어구",
+      "套裝：阿爾加好戰者鎖甲",
+      "套装：阿加好战者的锁甲"
+    ],
+    "Media": "inv_mail_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232889,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Algari Warmonger's Plate Armor",
+      "Conjunto: Armadura de placas de belicista algari",
+      "Indumentária: Armadura de Placa do Beligerante Algari",
+      "Ensemble: Algari Warmonger's Plate Armor",
+      "Indumentaria: Armadura de placas de belicista algariano",
+      "Ensemble\u00A0: armure de plaques du belliciste algari",
+      "Комплект: латные доспехи алгарийского завоевателя",
+      "Ensemble: Plattenrüstung des Algarikriegstreibers",
+      "Indumentária: Armadura de Placa do Beligerante Algari",
+      "Set: Piastre del Guerrafondaio Algari",
+      "복장: 알가르 전투사의 판금 방어구",
+      "套裝：阿爾加好戰者鎧甲",
+      "套装：阿加好战者的板甲"
+    ],
+    "Media": "inv_plate_outdooremeralddream_d_01_helm.jpg"
+  },
+  {
+    "TagId": 232890,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Algari Warmonger's Weapons",
+      "Arsenal: Armas de belicista algari",
+      "Arsenal: Armas do Beligerante Algari",
+      "Arsenal: Algari Warmonger's Weapons",
+      "Arsenal: armas de Belicista algariano",
+      "Arsenal\u00A0: armes du belliciste algari",
+      "Арсенал: оружие алгарийского завоевателя",
+      "Arsenal: Waffen des Algarikriegstreibers",
+      "Arsenal: Armas do Beligerante Algari",
+      "Arsenale: Armi del Guerrafondaio Algari",
+      "병기: 알가르 전투사의 무기",
+      "武器庫：阿爾加好戰者武器",
+      "军械：阿加好战者的武器"
+    ],
+    "Media": "inv_knife_1h_emeralddreamoutdoor_d_01.jpg"
+  },
+  {
+    "TagId": 232891,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Amorphous Relic",
+      "Reliquia amorfa",
+      "Relíquia Amorfa",
+      "Amorphous Relic",
+      "Reliquia amorfa",
+      "Relique amorphe",
+      "Бесформенная реликвия",
+      "Amorphes Relikt",
+      "Relíquia Amorfa",
+      "Reliquia Amorfa",
+      "무정형 유물",
+      "無定形聖物",
+      "流变圣物"
+    ],
+    "Media": "inv_misc_trinket6oog_gronn2.jpg"
+  },
+  {
+    "TagId": 232895,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spotty",
+      "Manchitas",
+      "Manchinhas",
+      "Spotty",
+      "Maculada",
+      "Tachounet",
+      "Пятныш",
+      "Tüpfelchen",
+      "Manchinhas",
+      "Punty",
+      "점박이",
+      "點點",
+      "斑点鼠"
+    ],
+    "Media": "inv_rat2undermine_redpatchy.jpg"
+  },
+  {
+    "TagId": 232897,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blood-B-Gone",
+      "Chau Sangre",
+      "Sangue-Sai",
+      "Blood-B-Gone",
+      "No más sangre",
+      "Ab-Sang",
+      "Кровочист",
+      "Blut-Ex",
+      "Sangue-Sai",
+      "Smacchiasangue",
+      "피가 쏙 세제",
+      "去血霸",
+      "血立清"
+    ],
+    "Media": "inv_misc_pyriumgrenade.jpg"
+  },
+  {
+    "TagId": 232898,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Delver's Bounty",
+      "Recompensa de surcabismos",
+      "Recompensa do Imersor",
+      "Delver's Bounty",
+      "Botín de explorador de las profundidades",
+      "Butin de l’archéologue",
+      "Клад участника вылазки",
+      "Beute des Tiefenforschers",
+      "Recompensa do Imersor",
+      "Bottino della Scorribanda",
+      "구렁 탐험가의 은혜",
+      "探究者的獎賞",
+      "地下堡行者的奖赏"
+    ],
+    "Media": "icon_treasuremap.jpg"
+  },
+  {
     "TagId": 232901,
     "TagType": 21,
     "Names": [
@@ -5017,6 +10834,27 @@
       "奔月发射器"
     ],
     "Media": "inv_lunarrocketmount.jpg"
+  },
+  {
+    "TagId": 232902,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spy-copter Footage Roll",
+      "Rollo de grabación de giroespía",
+      "Imagens do Espiacóptero",
+      "Spy-copter Footage Roll",
+      "Rollo de metraje de espiacóptero",
+      "Bobine filmée par giro-espion",
+      "Пленка с записью со скрытнокоптера",
+      "Spionagekopter-Filmrolle",
+      "Imagens do Espiacóptero",
+      "Riprese dello Spiocottero",
+      "염탐콥터 영상 저장 장치",
+      "間諜機片段捲",
+      "飞天螺旋机录像带"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_reavesbattery_frost.jpg"
   },
   {
     "TagId": 232903,
@@ -5080,6 +10918,27 @@
       "马龙之肘"
     ],
     "Media": "inv_mace_01.jpg"
+  },
+  {
+    "TagId": 232907,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Unseemly Growth",
+      "Crecimiento impropio",
+      "Massa Repulsiva",
+      "Unseemly Growth",
+      "Crecimiento insólito",
+      "Croissance disgracieuse",
+      "Безобразная поросль",
+      "Ungehöriges Geschwür",
+      "Massa Repulsiva",
+      "Crescita Strana",
+      "괴이 성장물",
+      "非表象生長物",
+      "无明增生"
+    ],
+    "Media": "inv_qiraj_skinsandworm.jpg"
   },
   {
     "TagId": 232909,
@@ -5250,6 +11109,27 @@
     "Media": "inv_shoulder_armor_heartshoulder_c_01.jpg"
   },
   {
+    "TagId": 232922,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Resold Goods",
+      "Productos revendidos",
+      "Mercadorias Revendidas",
+      "Resold Goods",
+      "Bienes revendidos",
+      "Marchandises revendues",
+      "Перепроданный товар",
+      "Wiederverkaufte Waren",
+      "Mercadorias Revendidas",
+      "Beni Rivenduti",
+      "재판매된 상품",
+      "轉售的商品",
+      "倒卖的商品"
+    ],
+    "Media": "inv_eng_crate2.jpg"
+  },
+  {
     "TagId": 232923,
     "TagType": 21,
     "Names": [
@@ -5313,6 +11193,90 @@
     "Media": "inv_lovebroom_pink.jpg"
   },
   {
+    "TagId": 232927,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest",
+      "[DNT] Small Surge Chest"
+    ],
+    "Media": "inv_misc_treasurechest05a.jpg"
+  },
+  {
+    "TagId": 232928,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest",
+      "[DNT] Medium Surge Chest"
+    ],
+    "Media": "inv_misc_treasurechest05d.jpg"
+  },
+  {
+    "TagId": 232929,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest",
+      "[DNT] Large Surge Chest"
+    ],
+    "Media": "inv_misc_treasurechest05b.jpg"
+  },
+  {
+    "TagId": 232930,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Zaps Leadfoot",
+      "Zaps Pieplúmbeo",
+      "Zap Pé-de-chumbo",
+      "Zaps Leadfoot",
+      "Zaps Todotrapo",
+      "Zaps Chausse-Plomb",
+      "Цапс Свинцеступ",
+      "Hark Bleifuß",
+      "Zap Pé-de-chumbo",
+      "Zaps Piedepesante",
+      "잽스 리드풋",
+      "札普‧鉛腳",
+      "扎普斯·铅足"
+    ],
+    "Media": "inv_ventureco_necklace01_color2.jpg"
+  },
+  {
     "TagId": 232933,
     "TagType": 21,
     "Names": [
@@ -5355,6 +11319,90 @@
     "Media": "inv_shoulder_armor_heartshoulder_c_01.jpg"
   },
   {
+    "TagId": 232935,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vantus Rune: Liberation of Undermine",
+      "Runa vantus: Liberación de Minahonda",
+      "Runa Vantus: Libertação da Inframina",
+      "Vantus Rune: Liberation of Undermine",
+      "Runa vantus: Liberación de Minahonda",
+      "Rune de Vantus\u00A0: Libération de Terremine",
+      "Вантийская руна: освобождение Нижней Шахты",
+      "Vantusrune: Befreiung von Lorenhall",
+      "Runa Vantus: Libertação da Inframina",
+      "Runa Vantus - Liberazione di Cavafonda",
+      "반투스 룬: 언더마인 해방전선",
+      "梵陀符文：解放幽坑城",
+      "凡图斯符文：解放安德麦"
+    ],
+    "Media": "inv_10_inscription_glyphs_color5.jpg"
+  },
+  {
+    "TagId": 232936,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vantus Rune: Liberation of Undermine",
+      "Runa vantus: Liberación de Minahonda",
+      "Runa Vantus: Libertação da Inframina",
+      "Vantus Rune: Liberation of Undermine",
+      "Runa vantus: Liberación de Minahonda",
+      "Rune de Vantus\u00A0: Libération de Terremine",
+      "Вантийская руна: освобождение Нижней Шахты",
+      "Vantusrune: Befreiung von Lorenhall",
+      "Runa Vantus: Libertação da Inframina",
+      "Runa Vantus - Liberazione di Cavafonda",
+      "반투스 룬: 언더마인 해방전선",
+      "梵陀符文：解放幽坑城",
+      "凡图斯符文：解放安德麦"
+    ],
+    "Media": "inv_10_inscription_glyphs_color5.jpg"
+  },
+  {
+    "TagId": 232937,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vantus Rune: Liberation of Undermine",
+      "Runa vantus: Liberación de Minahonda",
+      "Runa Vantus: Libertação da Inframina",
+      "Vantus Rune: Liberation of Undermine",
+      "Runa vantus: Liberación de Minahonda",
+      "Rune de Vantus\u00A0: Libération de Terremine",
+      "Вантийская руна: освобождение Нижней Шахты",
+      "Vantusrune: Befreiung von Lorenhall",
+      "Runa Vantus: Libertação da Inframina",
+      "Runa Vantus - Liberazione di Cavafonda",
+      "반투스 룬: 언더마인 해방전선",
+      "梵陀符文：解放幽坑城",
+      "凡图斯符文：解放安德麦"
+    ],
+    "Media": "inv_10_inscription_glyphs_color5.jpg"
+  },
+  {
+    "TagId": 232944,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ethereal Warning Letter",
+      "Carta de advertencia de etéreos",
+      "Carta de Alerta Etérea",
+      "Ethereal Warning Letter",
+      "Carta de advertencia etérea",
+      "Lettre d’avertissement éthérée",
+      "Предупреждение об эфириалах",
+      "Astraler Warnbrief",
+      "Carta de Alerta Etérea",
+      "Lettera d'Avvertimento Eterea",
+      "에테리얼의 경고 편지",
+      "以太族警告信",
+      "虚灵警告信"
+    ],
+    "Media": "inv_letter_15.jpg"
+  },
+  {
     "TagId": 232946,
     "TagType": 21,
     "Names": [
@@ -5376,6 +11424,195 @@
     "Media": "inv_glaive_1h_artifactazgalor_d_01.jpg"
   },
   {
+    "TagId": 232978,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Louie Firehands",
+      "Louie Pirodedos",
+      "Luizinho Mão-de-fogo",
+      "Louie Firehands",
+      "Louie Ardemanos",
+      "Louie Brûlemains",
+      "Луи Огнерук",
+      "Ludwig Feuerhand",
+      "Luizinho Mão-de-fogo",
+      "Louie Manicalde",
+      "루이 파이어핸즈",
+      "路易‧火手",
+      "路易·火手"
+    ],
+    "Media": "inv_crab2pirate.jpg"
+  },
+  {
+    "TagId": 232979,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Jaks Jabberjaw",
+      "Jaks Parlaquija",
+      "Jaks Fala-matraca",
+      "Jaks Jabberjaw",
+      "Jaks Bocagrande",
+      "Jaks Parlemâche",
+      "Джекс Бармагрыз",
+      "Sven Sabbermaul",
+      "Jaks Fala-matraca",
+      "Jaks Dentistretti",
+      "작스 재버죠",
+      "賈斯‧喋顎",
+      "加克斯·唠颚"
+    ],
+    "Media": "ability_mount_rocketmount.jpg"
+  },
+  {
+    "TagId": 232980,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Axel Sneakfoot",
+      "Axel Piescurridizo",
+      "Axel Pé-ligeiro",
+      "Axel Sneakfoot",
+      "Axel Piesigilo",
+      "Axel Furtipied",
+      "Аксель Тихоступ",
+      "Axel Schleichfuß",
+      "Axel Pé-ligeiro",
+      "Axel Ditaleste",
+      "액셀 스닉풋",
+      "阿克塞爾‧匿腳",
+      "阿克赛尔·蹑脚"
+    ],
+    "Media": "inv_alchemy_elixir_03.jpg"
+  },
+  {
+    "TagId": 232981,
+    "TagType": 21,
+    "Names": [
+      null,
+      "GNZ Airmaster 9000",
+      "GNZ Domavientos 9000",
+      "GNZ Aeromestre 9000",
+      "GNZ Airmaster 9000",
+      "GNZ Aerosuper 9000",
+      "GNZ souverain des cieux\u00A09000",
+      "Двигатель GNZ \"Ас-9000\"",
+      "GNZ Luftmeister 9000",
+      "GNZ Aeromestre 9000",
+      "GNZ Mastrosprint 9000",
+      "GNZ 바람지배자 9000",
+      "GNZ空氣大師9000型",
+      "GNZ空中主宰9000型"
+    ],
+    "Media": "inv_111_engine_gold.jpg"
+  },
+  {
+    "TagId": 232982,
+    "TagType": 21,
+    "Names": [
+      null,
+      "The Pozzik Standard",
+      "El estándar Pozzik",
+      "Padrão Relé",
+      "The Pozzik Standard",
+      "El básico de Pozzik",
+      "Modèle standard de Pozzik",
+      "Стандартный двигатель Поззика",
+      "Pozziks Standardmodell",
+      "Padrão Relé",
+      "Classico di Pozzik",
+      "표준형 포직",
+      "普茲克標準",
+      "普兹克标准型"
+    ],
+    "Media": "inv_111_engine_iron.jpg"
+  },
+  {
+    "TagId": 232983,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Steamboil",
+      "Vapor",
+      "Fervivapor",
+      "Steamboil",
+      "Vaporio",
+      "Ébullivapeur",
+      "Паровой котел",
+      "Kesseldampf",
+      "Fervivapor",
+      "Vaporardente",
+      "증기가열",
+      "斯迪波爾",
+      "汽腾"
+    ],
+    "Media": "inv_misc_gem_pearl_13.jpg"
+  },
+  {
+    "TagId": 232984,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Handcrank",
+      "Manivela",
+      "Motorrotor",
+      "Handcrank",
+      "Manivela manual",
+      "Manivelle",
+      "Ручной привод",
+      "Handbremse",
+      "Motorrotor",
+      "Manovella",
+      "손회전축",
+      "手搖曲柄",
+      "起动曲柄"
+    ],
+    "Media": "inv_10_engineering_device_gadget2_color1.jpg"
+  },
+  {
+    "TagId": 232985,
+    "TagType": 21,
+    "Names": [
+      null,
+      "22H Slicks",
+      "Neumáticos 22H",
+      "Careca 22H",
+      "22H Slicks",
+      "Llantas de 22 pulgadas",
+      "Pneus lisses 55\u00A0cm",
+      "Гладкие шины 22H",
+      "22H-Rennreifen",
+      "Careca 22H",
+      "Gomme Lisce 22H",
+      "22H 민무늬 타이어",
+      "22H光頭胎",
+      "22H 干胎"
+    ],
+    "Media": "inv_111_wheel_red.jpg"
+  },
+  {
+    "TagId": 232986,
+    "TagType": 21,
+    "Names": [
+      null,
+      "GE86 Advance",
+      "GE86 Avanzadas",
+      "GE86 Avançado",
+      "GE86 Advance",
+      "GE86 superior",
+      "GE86 avancé",
+      "Колеса GE86 \"Улучшенные\"",
+      "GE86 Voran",
+      "GE86 Avançado",
+      "GE86 Pro",
+      "GE86 고속 타이어",
+      "GE86前進胎",
+      "GE86猛进胎"
+    ],
+    "Media": "inv_111_wheel_green.jpg"
+  },
+  {
     "TagId": 232988,
     "TagType": 21,
     "Names": [
@@ -5395,6 +11632,27 @@
       "虚空裂缝"
     ],
     "Media": "ability_hunter_readiness.jpg"
+  },
+  {
+    "TagId": 232989,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_helmet_goggles_pandariatradeskill_d_01.jpg"
   },
   {
     "TagId": 232991,

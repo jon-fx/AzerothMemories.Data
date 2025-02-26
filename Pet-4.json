@@ -2272,21 +2272,21 @@
     "TagType": 23,
     "Names": [
       null,
-      "Sporbit",
-      "Esporuelo",
-      "Esporito",
-      "Sporbit",
-      "Espórbita",
-      "Sporobête",
-      "Споровик",
-      "Sporenbiss",
-      "Esporito",
-      "Microspora",
-      "포자 파편",
-      "小孢子",
-      "孢点"
+      "Hemospore",
+      "Hemoespora",
+      "Hemosporo",
+      "Hemospore",
+      "Hemoespora",
+      "Hémospore",
+      "Гемоспора",
+      "Blutspore",
+      "Hemosporo",
+      "Emospora",
+      "혈액 구체",
+      "血孢子",
+      "血孢"
     ],
-    "Media": "wow_token01.jpg"
+    "Media": "inv_grey_sporecreature2.jpg"
   },
   {
     "TagId": 4508,
@@ -4179,6 +4179,804 @@
     "Media": "inv_babymurlocthrall.jpg"
   },
   {
+    "TagId": 4631,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Foreman",
+      "Capataz",
+      "Encarregada",
+      "Foreman",
+      "Supervisor",
+      "Contremaître",
+      "Бригадир",
+      "Schieber",
+      "Encarregada",
+      "Caposghigno",
+      "현장감독",
+      "工頭",
+      "工头"
+    ],
+    "Media": "inv_babyhyena_yellow.jpg"
+  },
+  {
+    "TagId": 4632,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Eepy",
+      "Mimilón",
+      "Soneca",
+      "Eepy",
+      "Dormilón",
+      "Somnol",
+      "Сплюш",
+      "Lafen",
+      "Soneca",
+      "Eepy",
+      "에피",
+      "伊比",
+      "艾匹"
+    ],
+    "Media": "inv_babyhyena_green.jpg"
+  },
+  {
+    "TagId": 4633,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Scruff",
+      "Andrajín",
+      "Kaska",
+      "Scruff",
+      "Peludo",
+      "Bouriffe",
+      "Шетинс",
+      "Strolchi",
+      "Kaska",
+      "Arruffio",
+      "꾀죄죄",
+      "髒髒",
+      "邋遢"
+    ],
+    "Media": "inv_babyhyena_blue.jpg"
+  },
+  {
+    "TagId": 4634,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Grinner",
+      "Risitas",
+      "Risadinha",
+      "Grinner",
+      "Sonrisas",
+      "Frimouss",
+      "Оскалс",
+      "Grinser",
+      "Risadinha",
+      "Smorfino",
+      "그리너",
+      "葛萊納",
+      "狞笑者"
+    ],
+    "Media": "inv_babyhyena_black.jpg"
+  },
+  {
+    "TagId": 4635,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Goggles",
+      "Gafas",
+      "Quatro-olhos",
+      "Goggles",
+      "Gafas",
+      "Lunettes",
+      "Очкарик",
+      "Glotzi",
+      "Quatro-olhos",
+      "Occhialetto",
+      "고글",
+      "古格斯",
+      "目镜"
+    ],
+    "Media": "inv_babyhyena_red.jpg"
+  },
+  {
+    "TagId": 4636,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Mutt",
+      "Chucho",
+      "Vira-lata",
+      "Mutt",
+      "Chucho",
+      "Cabot",
+      "Шавк",
+      "Trottel",
+      "Vira-lata",
+      "Ienino",
+      "머트",
+      "默特",
+      "穆特"
+    ],
+    "Media": "inv_babyhyena_purple.jpg"
+  },
+  {
+    "TagId": 4637,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Wavebreaker Mechasaur",
+      "Mecasaurio rompeolas",
+      "Mecassauro Quebraondas",
+      "Wavebreaker Mechasaur",
+      "Mecasaurio rompeolas",
+      "Mécasaure brise-vague",
+      "Морской мехазавр",
+      "Wellenbrechermechasaurier",
+      "Mecassauro Quebraondas",
+      "Meccasauro Spezzaonde",
+      "파도격파 메카사우루스",
+      "破浪機甲龍",
+      "破浪机甲暴龙"
+    ],
+    "Media": "inv_babydevilsaur_blue.jpg"
+  },
+  {
+    "TagId": 4638,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Crimson Mechasaur",
+      "Mecasaurio carmesí",
+      "Mecassauro Carmesim",
+      "Crimson Mechasaur",
+      "Mecasaurio escarlata",
+      "Mécasaure cramoisi",
+      "Багровый мехазавр",
+      "Scharlachroter Mechasaurier",
+      "Mecassauro Carmesim",
+      "Meccasauro Cremisi",
+      "진홍빛 메카사우루스",
+      "赤紅機甲龍",
+      "赤红机甲暴龙"
+    ],
+    "Media": "inv_babydevilsaur_red.jpg"
+  },
+  {
+    "TagId": 4639,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Viridian Mechasaur",
+      "Mecasaurio veridiano",
+      "Mecassauro Viridiano",
+      "Viridian Mechasaur",
+      "Mecasaurio viridiano",
+      "Mécasaure viridien",
+      "Изумрудный мехазавр",
+      "Smaragdgrüner Mechasaurier",
+      "Mecassauro Viridiano",
+      "Meccasauro Verdastro",
+      "녹빛 메카사우루스",
+      "翠綠機甲龍",
+      "翠绿机甲暴龙"
+    ],
+    "Media": "inv_babydevilsaur_green.jpg"
+  },
+  {
+    "TagId": 4640,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Fun-Size Flarendo",
+      "Mini Fogorrex",
+      "Flarendo Diminuto",
+      "Fun-Size Flarendo",
+      "Flarendo pequeñito",
+      "Fusendo miniature",
+      "Портативный Пламендо",
+      "Minileuchtendo",
+      "Flarendo Diminuto",
+      "Motorendino",
+      "아기자기한 플레렌도",
+      "小不點弗雷倫多",
+      "娇小弗莱兰多"
+    ],
+    "Media": "inv_babydevilsaur_yellow.jpg"
+  },
+  {
+    "TagId": 4641,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Rocketfist",
+      "Puñomisil",
+      "Punho a Jato",
+      "Rocketfist",
+      "Mecapuño",
+      "Poing-roquette",
+      "Турбокулак",
+      "Raketenfaust",
+      "Punho a Jato",
+      "Pugnorazzo",
+      "로켓주먹",
+      "火箭拳",
+      "火箭拳"
+    ],
+    "Media": "inv_toygorilla_yellow.jpg"
+  },
+  {
+    "TagId": 4642,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Gorillion",
+      "Gorilión",
+      "Gorillion",
+      "Gorillion",
+      "Gorilión",
+      "Gorillion",
+      "Гориллион",
+      "Gorillion",
+      "Gorillion",
+      "Gorillione",
+      "고릴리온",
+      "超強猩猩",
+      "超新猩"
+    ],
+    "Media": "inv_toygorilla_blue.jpg"
+  },
+  {
+    "TagId": 4643,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Tiny Torq",
+      "Mini Torq",
+      "Torq Minúsculo",
+      "Tiny Torq",
+      "Torq en miniatura",
+      "Mini Torq",
+      "Кроха Крутень",
+      "Minitorq",
+      "Torq Minúsculo",
+      "Torquccio",
+      "작은 토크",
+      "迷你托克",
+      "小小托克"
+    ],
+    "Media": "inv_toygorilla_red.jpg"
+  },
+  {
+    "TagId": 4644,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Professor Punch",
+      "Profesor Puñetazos",
+      "Professor Murro",
+      "Professor Punch",
+      "Profesor Puños",
+      "Professeur Mandal",
+      "Профессор Тумак",
+      "Professor Prügel",
+      "Professor Murro",
+      "Professor Cazzotto",
+      "주먹 교수",
+      "重拳教授",
+      "重拳教授"
+    ],
+    "Media": "inv_toygorilla_green.jpg"
+  },
+  {
+    "TagId": 4645,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Bilgewater Junkhauler",
+      "Portachatarra Pantoque",
+      "Cata-lixo de Borraquilha",
+      "Bilgewater Junkhauler",
+      "Chatarrero de Pantoque",
+      "Cameloteur de Baille-Fonds",
+      "Хламонос картеля Трюмных Вод",
+      "Schrottschlepper des Bilgewasserkartells",
+      "Cata-lixo de Borraquilha",
+      "Spostascarti degli Acqualorda",
+      "빌지워터 고물운반꾼",
+      "污水垃圾搬運工",
+      "锈水垃圾搬运工"
+    ],
+    "Media": "inv_111_sapper_bilgewater.jpg"
+  },
+  {
+    "TagId": 4646,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Personal-Use Sapper",
+      "Zapador de uso personal",
+      "Sapador de Uso Pessoal",
+      "Personal-Use Sapper",
+      "Zapador de uso personal",
+      "Sapeur à usage personnel",
+      "Сапер для личного пользования",
+      "Persönlicher Pionier",
+      "Sapador de Uso Pessoal",
+      "Geniere a Uso Personale",
+      "전용 공병",
+      "私人爆破兵",
+      "私人工兵"
+    ],
+    "Media": "inv_111_sapper_darkfuse.jpg"
+  },
+  {
+    "TagId": 4647,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Mr. DELVER",
+      "Sr. ABISMAL",
+      "Sr. IMERSOR",
+      "Mr. DELVER",
+      "Sr. EXPLORADOR DE PROFUNDIDADES",
+      "M.\u00A0ARCHÉO",
+      "Мистер ВЫЛАЗЧИК",
+      "Mister TIEFENFORSCHER",
+      "Sr. IMERSOR",
+      "Signor SCORRIBOT",
+      "구렁 탐험봇",
+      "探究者先生",
+      "地下堡行者先生"
+    ],
+    "Media": "inv_111_sapper_darkfuse.jpg"
+  },
+  {
+    "TagId": 4648,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Steamwheedle Flunkie",
+      "Lacayo Bonvapor",
+      "Funcionário Exemplar de Bondebico",
+      "Steamwheedle Flunkie",
+      "Lacayo Bonvapor",
+      "Larbin de Gentepression",
+      "Прислужник Хитрой Шестеренки",
+      "Handlanger des Dampfdruckkartells",
+      "Funcionário Exemplar de Bondebico",
+      "Tirapiedi degli Spargifumo",
+      "스팀휘들 심부름꾼",
+      "熱砂走狗",
+      "热砂勤杂机"
+    ],
+    "Media": "inv_111_sapper_steamwheedle.jpg"
+  },
+  {
+    "TagId": 4649,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Blackwater Kegmover",
+      "Muevebarriles de Aguasnegras",
+      "Barriqueiro de Aguanegra",
+      "Blackwater Kegmover",
+      "Muevebarriles de Aguasnegras",
+      "Porte-barrique des Flots noirs",
+      "Переносчик бочек картеля Черноводья",
+      "Fassschubser der Schwarzmeer AG",
+      "Barriqueiro de Aguanegra",
+      "Spostabotti degli Acquanera",
+      "블랙워터 통운반꾼",
+      "黑水搬桶工",
+      "黑水运桶工"
+    ],
+    "Media": "inv_111_sapper_blackwater.jpg"
+  },
+  {
+    "TagId": 4650,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Venture Companyman",
+      "Empresario de Ventura",
+      "Prata da Casa da Empreendimentos",
+      "Venture Companyman",
+      "Empleado de Ventura y Cía.",
+      "Préposé de la KapitalRisk",
+      "Служащий Торговой компании",
+      "Vertreter der Venture Co.",
+      "Prata da Casa da Empreendimentos",
+      "Membro Leale della S.P.R. & Co.",
+      "투자개발회사 사원",
+      "風險投資公司員工",
+      "风险企业人"
+    ],
+    "Media": "inv_111_sapper_ventureco.jpg"
+  },
+  {
+    "TagId": 4651,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Wily Rat",
+      "Rata astuta",
+      "Rato Astuto",
+      "Wily Rat",
+      "Rata astuta",
+      "Rat rusé",
+      "Пронырливая крыса",
+      "Listige Ratte",
+      "Rato Astuto",
+      "Ratto Scaltro",
+      "약삭빠른 쥐",
+      "機敏鼠",
+      "狡猾的老鼠"
+    ],
+    "Media": "inv_111_rat_brown.jpg"
+  },
+  {
+    "TagId": 4652,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Acid-Drenched Rat",
+      "Rata empapada en ácido",
+      "Rato Encharcado de Ácido",
+      "Acid-Drenched Rat",
+      "Rata empapada en ácido",
+      "Rat trempé d’acide",
+      "Вымокшая в кислоте крыса",
+      "Säuregetränkte Ratte",
+      "Rato Encharcado de Ácido",
+      "Ratto Intriso di Acido",
+      "산성 물질로 덮인 쥐",
+      "沁酸鼠",
+      "浸酸的老鼠"
+    ],
+    "Media": "inv_111_rat_radioactive.jpg"
+  },
+  {
+    "TagId": 4653,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Lab Rat",
+      "Rata de laboratorio",
+      "Rato de Laboratório",
+      "Lab Rat",
+      "Rata de laboratorio",
+      "Rat de laboratoire",
+      "Лабораторная крыса",
+      "Laborratte",
+      "Rato de Laboratório",
+      "Ratto da Laboratorio",
+      "실험쥐",
+      "實驗鼠",
+      "小白鼠"
+    ],
+    "Media": "inv_111_rat_white.jpg"
+  },
+  {
+    "TagId": 4654,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Underroach",
+      "Cucahonda",
+      "Baratoupeira",
+      "Underroach",
+      "Infraracha",
+      "Cancrelat",
+      "Шахтовый таракан",
+      "Tiefenschabe",
+      "Baratoupeira",
+      "Blattafonda",
+      "지하바퀴",
+      "幽坑蟑螂",
+      "地渊蟑螂"
+    ],
+    "Media": "inv_cockroach2_brown.jpg"
+  },
+  {
+    "TagId": 4655,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Cruncher",
+      "Masticón",
+      "Cascrec",
+      "Cruncher",
+      "Crujidos",
+      "Écrabouilleur",
+      "Хрустяш",
+      "Quetscher",
+      "Cascrec",
+      "Sgranocchiatore",
+      "파쇄자",
+      "輾碎者",
+      "咬碎者"
+    ],
+    "Media": "inv_cockroach2_black.jpg"
+  },
+  {
+    "TagId": 4656,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Bombshell Crab",
+      "Cangrejo caparabomba",
+      "Caranguejo Cascabomba",
+      "Bombshell Crab",
+      "Cangrejobús pinzas",
+      "Crabe obusier",
+      "Краб-бомбопанцирник",
+      "Bombenhülsenkrabbe",
+      "Caranguejo Cascabomba",
+      "Granchio Gusciobomba",
+      "폭탄껍질 게",
+      "彈殼蟹",
+      "爆壳螃蟹"
+    ],
+    "Media": "inv_crabbomb_blue.jpg"
+  },
+  {
+    "TagId": 4657,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Venture Crab",
+      "Cangrejo de Ventura",
+      "Caranguejo da Empreendimentos",
+      "Venture Crab",
+      "Cangrejo de aventura",
+      "Crabe de la KapitalRisk",
+      "Краб Торговой компании",
+      "Krabbe der Venture Co.",
+      "Caranguejo da Empreendimentos",
+      "Granchio della S.P.R. & Co.",
+      "투자개발회사 게",
+      "冒險蟹",
+      "风险蟹"
+    ],
+    "Media": "inv_crabbomb_yellow.jpg"
+  },
+  {
+    "TagId": 4658,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Cave Crab",
+      "Cangrejo de cueva",
+      "Caranguejo da Caverna",
+      "Cave Crab",
+      "Cangrejo de cueva",
+      "Crabe cavernicole",
+      "Пещерный краб",
+      "Höhlenkrabbe",
+      "Caranguejo da Caverna",
+      "Granchio delle Caverne",
+      "동굴 게",
+      "洞穴螃蟹",
+      "洞穴蟹"
+    ],
+    "Media": "inv_crabcave_blue.jpg"
+  },
+  {
+    "TagId": 4659,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Kaja Crab",
+      "Cangrejo de kaja",
+      "Jakaranguejo",
+      "Kaja Crab",
+      "Cangrejo de Kaja",
+      "Crabe de Kaja",
+      "Каджа-краб",
+      "Kajakrabbe",
+      "Jakaranguejo",
+      "Granchio Kaja",
+      "카자 게",
+      "卡迦蟹",
+      "卡亚蟹"
+    ],
+    "Media": "inv_crabcave_green.jpg"
+  },
+  {
+    "TagId": 4660,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Paleshell Crab",
+      "Cangrejo de caparazón pálido",
+      "Caranguejo Cascapálida",
+      "Paleshell Crab",
+      "Cangrejo conchapálida",
+      "Crabe coquille-pâle",
+      "Бледнопанцирный краб",
+      "Fahlpanzerkrabbe",
+      "Caranguejo Cascapálida",
+      "Granchio Gusciopallido",
+      "창백껍질 게",
+      "白殼蟹",
+      "苍壳蟹"
+    ],
+    "Media": "inv_crabcave_white.jpg"
+  },
+  {
+    "TagId": 4661,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Mechagopher",
+      "Mecataltuza",
+      "Mecasquilo",
+      "Mechagopher",
+      "Mecarroedor",
+      "Mécagophère",
+      "Мехагрыз",
+      "Mechaziesel",
+      "Mecasquilo",
+      "Meccatalpa",
+      "기계땅다람쥐",
+      "機甲地鼠",
+      "机器土拨鼠"
+    ],
+    "Media": "inv_mechanicalprairiedog_black.jpg"
+  },
+  {
+    "TagId": 4662,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Varmint Mark II",
+      "Alimaña Mark II",
+      "Azucrinante V2",
+      "Varmint Mark II",
+      "Alimaña versión II",
+      "Vermine mod.\u00A0II",
+      "Зверь-вредитель II",
+      "Shed-Ling Mk. II",
+      "Azucrinante V2",
+      "Caccianoci Modello II",
+      "소란스럽쥐 마크 II",
+      "無賴馬克II號",
+      "淘气包II型"
+    ],
+    "Media": "inv_mechanicalprairiedog_green.jpg"
+  },
+  {
+    "TagId": 4663,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Lime Roboclucker",
+      "Gallobot verde lima",
+      "Galobô Verde-limão",
+      "Lime Roboclucker",
+      "Robopollo lima",
+      "Robocoq vert",
+      "Лаймовый куробот",
+      "Limette Robogacker",
+      "Galobô Verde-limão",
+      "Robochioccia Verde",
+      "녹색 꼬꼬로봇",
+      "青檸機械咯咯雞",
+      "石灰绿机械打鸣鸡"
+    ],
+    "Media": "inv_chicken2_mechanical.jpg"
+  },
+  {
+    "TagId": 4664,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Iron Chick",
+      "Polluelo de hierro",
+      "Pintinho de Ferro",
+      "Iron Chick",
+      "Pollo de hierro",
+      "Poule en fer",
+      "Железный цыпленок",
+      "Eisenhuhn",
+      "Pintinho de Ferro",
+      "Pulcino di Ferro",
+      "무쇠닭",
+      "鐵雛鳥",
+      "钢铁小鸡"
+    ],
+    "Media": "inv_chicken2_mechanical.jpg"
+  },
+  {
+    "TagId": 4665,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Yellow Tropical Frog",
+      "Rana tropical amarilla",
+      "Sapo Tropical Amarelo",
+      "Yellow Tropical Frog",
+      "Rana tropical amarilla",
+      "Grenouille tropicale jaune",
+      "Желтая тропическая лягушка",
+      "Gelber Tropenfrosch",
+      "Sapo Tropical Amarelo",
+      "Rana Tropicale Gialla",
+      "노란색 열대 개구리",
+      "黃色熱帶蛙",
+      "黄色热带蛙"
+    ],
+    "Media": "inv_frog2_yellow.jpg"
+  },
+  {
+    "TagId": 4666,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Tropical Frog",
+      "Rana tropical",
+      "Sapo Tropical",
+      "Tropical Frog",
+      "Rana tropical",
+      "Grenouille tropicale",
+      "Тропическая лягушка",
+      "Tropenfrosch",
+      "Sapo Tropical",
+      "Rana Tropicale",
+      "열대 개구리",
+      "熱帶蛙",
+      "热带蛙"
+    ],
+    "Media": "inv_frog2_black.jpg"
+  },
+  {
+    "TagId": 4667,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Spring-Loaded Ribbitron",
+      "Croatrón con resorte",
+      "Coaxatron Impulsionado por Mola",
+      "Spring-Loaded Ribbitron",
+      "Lagartrón con resorte",
+      "Coassotron à ressort",
+      "Пружинный квакотрон",
+      "Federgetriebenes Quak-o-tron",
+      "Coaxatron Impulsionado por Mola",
+      "Cracratron a Molla",
+      "용수철식 개굴로봇",
+      "彈簧裝置蛙",
+      "弹簧呱鸣机"
+    ],
+    "Media": "inv_frog2_mechanical_yellow.jpg"
+  },
+  {
+    "TagId": 4668,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Ultrahopper EX",
+      "Ultrasaltarín EX",
+      "Ultrapula EX",
+      "Ultrahopper EX",
+      "Ultramontes EX",
+      "Ultrasauteur\u00A0EX",
+      "Ультраскок ИКС",
+      "Ultrahüpfer EX",
+      "Ultrapula EX",
+      "Ultrabalzatore EX",
+      "초강력폴짝이 EX",
+      "超級跳蛙EX",
+      "超级跳蛙EX型"
+    ],
+    "Media": "inv_frog2_mechanical_black.jpg"
+  },
+  {
     "TagId": 4669,
     "TagType": 23,
     "Names": [
@@ -4198,6 +4996,174 @@
       "蓝度"
     ],
     "Media": "inv_needledollpet_blue.jpg"
+  },
+  {
+    "TagId": 4670,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Hermes",
+      "Hermes",
+      "Hermes",
+      "Hermes",
+      "Hermes",
+      "Hermès",
+      "Гермес",
+      "Hermes",
+      "Hermes",
+      "Ermes",
+      "헤르메스",
+      "荷米士",
+      "赫尔墨斯"
+    ],
+    "Media": "inv_crabbomb_red.jpg"
+  },
+  {
+    "TagId": 4671,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Cauldrone",
+      "Calderobot",
+      "Caldeirone",
+      "Cauldrone",
+      "Caldrón",
+      "Chaudrone",
+      "Котел-бот",
+      "Kesseler",
+      "Caldeirone",
+      "Calderotto",
+      "가마봇",
+      "大鍋機器人",
+      "锅炉机器人"
+    ],
+    "Media": "inv_pet_cookbot.jpg"
+  },
+  {
+    "TagId": 4672,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Finnity",
+      "Finit",
+      "Finito",
+      "Finnity",
+      "Robodedos",
+      "Finnity",
+      "Бес-конечность",
+      "Finnity",
+      "Finito",
+      "Manolesta",
+      "피니티",
+      "芬尼提",
+      "小手机"
+    ],
+    "Media": "inv_mechanicalhandpet.jpg"
+  },
+  {
+    "TagId": 4673,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Crunchy",
+      "Crujín",
+      "Nham-nham",
+      "Crunchy",
+      "Dentelladas",
+      "Croustille",
+      "Хрустик",
+      "Knacki",
+      "Nham-nham",
+      "Mastichino",
+      "오독이",
+      "香酥脆",
+      "脆脆"
+    ],
+    "Media": "inv_misc_food_vendor_carrot.jpg"
+  },
+  {
+    "TagId": 4674,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Dosh",
+      "Numo",
+      "Dosh",
+      "Dosh",
+      "Guita",
+      "Flouz",
+      "Золотиш",
+      "Dosch",
+      "Dosh",
+      "Grana",
+      "도쉬",
+      "多許",
+      "多什"
+    ],
+    "Media": "achievement_boss_zuldazar_treasuregolem.jpg"
+  },
+  {
+    "TagId": 4675,
+    "TagType": 23,
+    "Names": [
+      null,
+      "FO-MO Mark II",
+      "Mark \"FO-MO\" II",
+      "CRO-CROAC V2",
+      "FO-MO Mark II",
+      "FO-MO versión II",
+      "FO-MO mod.\u00A0II",
+      "Незаменимая вещь II",
+      "FO-MO Mk. II",
+      "CRO-CROAC V2",
+      "FO-MO v2",
+      "가.즈.아 마크 II",
+      "FO-MO馬克二號",
+      "FO-MO II型"
+    ],
+    "Media": "inv_frog2_mechanical_gold.jpg"
+  },
+  {
+    "TagId": 4676,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Bawkinator 2000",
+      "Cacareabot 2000",
+      "Pulvericocó 2000",
+      "Bawkinator 2000",
+      "Gallinator 2000",
+      "Cotcotinator\u00A02000",
+      "Кудах-о-матик 2000",
+      "Gackinator 2000",
+      "Pulvericocó 2000",
+      "Chicchiribot 2000",
+      "꼬꼬로봇 2000",
+      "咯咯機2000型",
+      "声波终结鸡2000型"
+    ],
+    "Media": "inv_chicken2_mechanical.jpg"
+  },
+  {
+    "TagId": 4677,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Black Cave Crab",
+      "Cangrejo de cueva negro",
+      "Caranguejo da Caverna Preto",
+      "Black Cave Crab",
+      "Cangrejo de cueva negro",
+      "Crabe cavernicole noir",
+      "Черный пещерный краб",
+      "Schwarze Höhlenkrabbe",
+      "Caranguejo da Caverna Preto",
+      "Granchio delle Caverne Nero",
+      "검은 동굴 게",
+      "黑色洞穴螃蟹",
+      "黑色洞穴蟹"
+    ],
+    "Media": "inv_crabcave_black.jpg"
   },
   {
     "TagId": 4678,
@@ -4389,6 +5355,27 @@
     "Media": "inv_treasurecrabpet_blue.jpg"
   },
   {
+    "TagId": 4693,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Alchemical Runoff",
+      "Escorrentía alquímica",
+      "Restos Alquímicos",
+      "Alchemical Runoff",
+      "Deshecho alquímico",
+      "Écoulement alchimique",
+      "Алхимические отходы",
+      "Alchemieausfluss",
+      "Restos Alquímicos",
+      "Fuoriuscita Alchemica",
+      "연금술 유출물",
+      "鍊金奔行者",
+      "逃离的化学物质"
+    ],
+    "Media": "inv_maldraxxusslime_purple.jpg"
+  },
+  {
     "TagId": 4694,
     "TagType": 23,
     "Names": [
@@ -4429,6 +5416,27 @@
       "判判"
     ],
     "Media": "inv_parrotmount_purple.jpg"
+  },
+  {
+    "TagId": 4701,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Spotty",
+      "Manchitas",
+      "Manchinhas",
+      "Spotty",
+      "Maculada",
+      "Tachounet",
+      "Пятныш",
+      "Tüpfelchen",
+      "Manchinhas",
+      "Punty",
+      "점박이",
+      "點點",
+      "斑点鼠"
+    ],
+    "Media": "inv_rat2undermine_redpatchy.jpg"
   },
   {
     "TagId": 4702,
@@ -4638,7 +5646,7 @@
       "發條伍弗",
       "发条汪夫"
     ],
-    "Media": "inv_clockworkbeagle_gold.jpg"
+    "Media": "inv_clockworkbeagle_green.jpg"
   },
   {
     "TagId": 4723,
@@ -4668,13 +5676,13 @@
       null,
       "Battleboar Piglet",
       "Cochinillo jabaguerrero",
-      "Porquinho Javaliço",
+      "Filhote de Javaliço",
       "Battleboar Piglet",
       "Jabato jabaguerrero",
       "Marcassin de guerre",
       "Боевой поросенок",
       "Kampfeberfrischling",
-      "Porquinho Javaliço",
+      "Filhote de Javaliço",
       "Maialino da Guerra",
       "새끼 전투멧돼지",
       "戰鬥小豬",
@@ -4849,5 +5857,299 @@
       "食腐毒鳍龙"
     ],
     "Media": "inv_snapdragonmount03.jpg"
+  },
+  {
+    "TagId": 4733,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Merriment",
+      "Júbilo",
+      "Folia",
+      "Merriment",
+      "Alegría",
+      "Vivejoie",
+      "Веселье",
+      "Heiterkeit",
+      "Folia",
+      "Allegria",
+      "환희",
+      "歡笑",
+      "欢欣"
+    ],
+    "Media": "inv_shapetclassic.jpg"
+  },
+  {
+    "TagId": 4737,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Precision Powerdrill",
+      "Taladradora de precisión",
+      "Furadeira de Precisão",
+      "Precision Powerdrill",
+      "Taladro de precisión",
+      "Foreuse de précision",
+      "Высокоточный электробур",
+      "Präzisionsbohrmaschine",
+      "Furadeira de Precisão",
+      "Trivella di Precisione",
+      "정밀 동력 굴착기",
+      "精準動力鑽頭",
+      "精密动力钻"
+    ],
+    "Media": "ability_siege_engineer_sockwave_missile.jpg"
+  },
+  {
+    "TagId": 4738,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Status Symbol",
+      "Símbolo de estatus",
+      "Símbolo de Status",
+      "Status Symbol",
+      "Símbolo de estatus",
+      "Symbole social",
+      "Символ статуса",
+      "Statussymbol",
+      "Símbolo de Status",
+      "Status Symbol",
+      "상태 상징",
+      "狀態符號",
+      "地位象征"
+    ],
+    "Media": "inv_pet_peacock_gold.jpg"
+  },
+  {
+    "TagId": 4739,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Fancier Rat",
+      "Rata más elegante",
+      "Rato Mais Chique",
+      "Fancier Rat",
+      "Rata fina",
+      "Rat extravagant",
+      "Более модная крыса",
+      "Schickere Ratte",
+      "Rato Mais Chique",
+      "Ratto alla Moda",
+      "호화로운 쥐",
+      "老鼠迷",
+      "花哨巧鼠"
+    ],
+    "Media": "inv_rat2undermine_redpatchy.jpg"
+  },
+  {
+    "TagId": 4740,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Handbag Hyena",
+      "Hiena de bolsillo",
+      "Hiena de Colo",
+      "Handbag Hyena",
+      "Hiena de bolso",
+      "Hyène maroquine",
+      "Карманная гиена",
+      "Handtaschenhyäne",
+      "Hiena de Colo",
+      "Iena da Passeggio",
+      "손가방 하이에나",
+      "提袋土狼",
+      "提包土狼"
+    ],
+    "Media": "inv_babyhyena_purple.jpg"
+  },
+  {
+    "TagId": 4741,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Cannoneer",
+      "Cañonero",
+      "Canhoneiro",
+      "Cannoneer",
+      "Cañonero",
+      "Canonnier",
+      "Канонир",
+      "Kanonier",
+      "Canhoneiro",
+      "Cannoniere",
+      "포병",
+      "砲手",
+      "火炮手"
+    ],
+    "Media": "inv_crabbomb_blue.jpg"
+  },
+  {
+    "TagId": 4742,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Lookout",
+      "Oteador",
+      "Atalaia",
+      "Lookout",
+      "Oteador",
+      "Guetteur",
+      "Дозорный",
+      "Ausguck",
+      "Atalaia",
+      "Vedetta",
+      "망꾼",
+      "暸望手",
+      "哨兵"
+    ],
+    "Media": "inv_parrotmount_blue.jpg"
+  },
+  {
+    "TagId": 4743,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Swabbie",
+      "Bisoño",
+      "Grumete",
+      "Swabbie",
+      "Grumete",
+      "Moussaillon",
+      "Юнга",
+      "Deckhand",
+      "Grumete",
+      "Mozzo",
+      "뱃사람",
+      "水兵",
+      "海盗杂兵"
+    ],
+    "Media": "inv_111_sapper_blackwater.jpg"
+  },
+  {
+    "TagId": 4744,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Muddy Croach",
+      "Cucaracha fangosa",
+      "Cascuda Enlameada",
+      "Muddy Croach",
+      "Cuca embarrada",
+      "Blatte boueuse",
+      "Грязный ракан",
+      "Matschbedeckte Schabe",
+      "Cascuda Enlameada",
+      "Blatta Fangosa",
+      "진흙투성이 바퀴",
+      "泥濘蟑螂",
+      "沾泥的蟑螂"
+    ],
+    "Media": "inv_cockroach2_brown.jpg"
+  },
+  {
+    "TagId": 4745,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Rusty Croach",
+      "Cucaracha oxidada",
+      "Cascuda Enferrujada",
+      "Rusty Croach",
+      "Cuca herrumbrosa",
+      "Blatte rouillée",
+      "Ржавый ракан",
+      "Rostbraune Schabe",
+      "Cascuda Enferrujada",
+      "Blatta Arrugginita",
+      "녹슨 바퀴",
+      "鏽蝕蟑螂",
+      "锈污的蟑螂"
+    ],
+    "Media": "inv_cockroach2_orange.jpg"
+  },
+  {
+    "TagId": 4746,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Sooty Croach",
+      "Cucaracha hollinienta",
+      "Cascuda Fuliginosa",
+      "Sooty Croach",
+      "Cuca tiznada",
+      "Blatte noircie",
+      "Закопченный ракан",
+      "Rußbedeckte Schabe",
+      "Cascuda Fuliginosa",
+      "Blatta Fuligginosa",
+      "숯검댕이 바퀴",
+      "髒黑蟑螂",
+      "蒙灰的蟑螂"
+    ],
+    "Media": "inv_cockroach2_black.jpg"
+  },
+  {
+    "TagId": 4755,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Gleam",
+      "Destello",
+      "Reluzente",
+      "Gleam",
+      "Fulgor",
+      "Eclat",
+      "Блеск",
+      "Schimmer",
+      "Reluzente",
+      "Lucio",
+      "어스름빛",
+      "微光",
+      "灿光"
+    ],
+    "Media": "inv_misc_coin_17.jpg"
+  },
+  {
+    "TagId": 4759,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Craboom",
+      "Cangrebum",
+      "Guaiabum",
+      "Craboom",
+      "Cangrebum",
+      "Craboum",
+      "Крабомба",
+      "Krabbumm",
+      "Guaiabum",
+      "Deflagranchio",
+      "게폭발",
+      "蟹爆",
+      "大炸蟹"
+    ],
+    "Media": "inv_crabbomb_black.jpg"
+  },
+  {
+    "TagId": 4762,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Tock the Clocker Spaniel",
+      "Tictac, el Perrolex",
+      "Tic-tac, o Cronococker Spaniel",
+      "Tock the Clocker Spaniel",
+      "Tock, el can mecanizado",
+      "Tac, l’épagneul de l’horloge",
+      "Заводной спаниэль Ток",
+      "Tock die Uhrdogge",
+      "Tic-tac, o Cronococker Spaniel",
+      "Tictoc l'Orocker Spaniel",
+      "시계태엽 스패니얼 똑딱이",
+      "發條獵犬托克",
+      "机械猎犬嘀嗒"
+    ],
+    "Media": "inv_clockworkbeagle_blue.jpg"
   }
 ]

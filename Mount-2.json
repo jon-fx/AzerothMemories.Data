@@ -37,7 +37,7 @@
       "Pavone Azzurro Maestoso",
       "위풍당당한 하늘빛 공작새",
       "高貴蒼藍孔雀",
-      "威严碧蓝雌孔雀"
+      "威严碧蓝孔雀"
     ],
     "Media": "inv_peacockmount_blue.jpg"
   },
@@ -58,7 +58,7 @@
       "Pavone Radioso Brillante",
       "찬란한 햇빛 공작새",
       "亮麗日芒孔雀",
-      "夺目日冕雌孔雀"
+      "夺目日冕孔雀"
     ],
     "Media": "inv_peacockmount_orange.jpg"
   },
@@ -2205,6 +2205,569 @@
     "Media": "inv_brontsaurusmountspecial.jpg"
   },
   {
+    "TagId": 2272,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crimson Armored Growler",
+      "Gruñidora blindada carmesí",
+      "Rosnadora Couraçada Carmesim",
+      "Crimson Armored Growler",
+      "Rugidor acorazado carmesí",
+      "Grogneur cuirassé cramoisi",
+      "Багровый бронированный зубоскал",
+      "Purpurn gepanzerter Knurrer",
+      "Rosnadora Couraçada Carmesim",
+      "Ringhiatore Corazzato Cremisi",
+      "진홍빛 무장한 으르렁발톱",
+      "緋紅裝甲咆哮者",
+      "猩红装甲惊哮犬"
+    ],
+    "Media": "inv_red_hyena2goblinmount.jpg"
+  },
+  {
+    "TagId": 2274,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Blackwater Bonecrusher",
+      "Aplastahuesos Aguasnegras",
+      "Esmaga-ossos Aguanegra",
+      "Blackwater Bonecrusher",
+      "Aplastahuesos de Aguasnegras",
+      "Frappeur des Flots noirs",
+      "Черепогрыз Черноводья",
+      "Knochenzermalmer der Schwarzmeer AG",
+      "Esmaga-ossos Aguanegra",
+      "Spaccaossa degli Acquanera",
+      "블랙워터 뼈분쇄자",
+      "黑水碎骨者",
+      "黑水碾骨者"
+    ],
+    "Media": "inv_blue_hyena2goblinmount.jpg"
+  },
+  {
+    "TagId": 2276,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Darkfuse Chompactor",
+      "Compactadente mechaoscura",
+      "Nhocpactador de Sombrafuso",
+      "Darkfuse Chompactor",
+      "Zampador de Fundisombras",
+      "Gueule broyeuse imprégnée de ténèbres",
+      "Хламоглот Мрачных Минеров",
+      "Unrator der Düsternisverschmolzenen",
+      "Nhocpactador de Sombrafuso",
+      "Sgranocchiatore dei Micciascura",
+      "다크퓨즈 잡식기",
+      "暗融咬嚼者",
+      "暗索嚼压者"
+    ],
+    "Media": "inv_black_hyena2goblinmount.jpg"
+  },
+  {
+    "TagId": 2277,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Violet Armored Growler",
+      "Gruñidora blindada violeta",
+      "Rosnadora Couraçada Violeta",
+      "Violet Armored Growler",
+      "Rugidor acorazado violeta",
+      "Grogneur cuirassé pourpre",
+      "Фиолетовый бронированный зубоскал",
+      "Violett gepanzerter Knurrer",
+      "Rosnadora Couraçada Violeta",
+      "Ringhiatore Corazzato Violetto",
+      "보랏빛 무장한 으르렁발톱",
+      "紫色裝甲咆哮者",
+      "紫罗兰装甲惊哮犬"
+    ],
+    "Media": "inv_purple_hyena2goblinmount.jpg"
+  },
+  {
+    "TagId": 2278,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Flarendo the Furious",
+      "Fogorrex, el Furioso",
+      "Flarendo, o Furioso",
+      "Flarendo the Furious",
+      "Flarendo el Furioso",
+      "Fusendo le Furieux",
+      "Пламендо Неистовый",
+      "Leuchtendo der Lodernde",
+      "Flarendo, o Furioso",
+      "Motorendo il Furioso",
+      "격노한 자 플레렌도",
+      "『狂怒者』弗雷倫多",
+      "狂龙弗莱兰多"
+    ]
+  },
+  {
+    "TagId": 2279,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Thunderdrum Misfire",
+      "Cohetoide fallido",
+      "Falha do Tambor Trovejante",
+      "Thunderdrum Misfire",
+      "Casquillo de tambor atronador",
+      "Tir accidentel de baril du tonnerre",
+      "Громосбойная ракета",
+      "Donnertrommelfehlzündung",
+      "Falha do Tambor Trovejante",
+      "Razzo Cilecca Tonante",
+      "천둥북 오발탄",
+      "雷鼓啞火",
+      "雷鼓哑炮火箭"
+    ]
+  },
+  {
+    "TagId": 2280,
+    "TagType": 22,
+    "Names": [
+      null,
+      "The Topskimmer Special",
+      "El especial de Birlatope",
+      "Especial do Fineza",
+      "The Topskimmer Special",
+      "Especial de Suprarrayador",
+      "Spécialité de Rasesurface",
+      "Фирменная ракета Накипьсниммса",
+      "Oberskimmer Spezial",
+      "Especial do Fineza",
+      "Speciale di Schiumacima",
+      "톱스키머 특제 로켓",
+      "頂掠特殊坐騎",
+      "紧身特快"
+    ],
+    "Media": "inv_purple_rocketmount5.jpg"
+  },
+  {
+    "TagId": 2281,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Steamwheedle Supplier",
+      "Benefactor Bonvapor",
+      "Fornecedor de Bondebico",
+      "Steamwheedle Supplier",
+      "Suministrador de Bonvapor",
+      "Grossiste de Gentepression",
+      "Шустрец Хитрой Шестеренки",
+      "Liefermodul des Dampfdruckkartells",
+      "Fornecedor de Bondebico",
+      "Erogatore degli Spargifumo",
+      "스팀휘들 보급원",
+      "熱砂補給者",
+      "热砂补给机"
+    ],
+    "Media": "inv_green_rocketmount5.jpg"
+  },
+  {
+    "TagId": 2283,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Innovation Investigator",
+      "Investigador de innovaciones",
+      "Investigador de Inovação",
+      "Innovation Investigator",
+      "Investigador de innovaciones",
+      "Investigateur d’innovations",
+      "Исследователь инноваций",
+      "Innovationsermittler",
+      "Investigador de Inovação",
+      "Sperimentatore dell'Innovazione",
+      "혁신 조사관",
+      "創新調查員",
+      "创新调查者"
+    ],
+    "Media": "inv_black_rocketmount5.jpg"
+  },
+  {
+    "TagId": 2284,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ocher Delivery Rocket",
+      "Cohete de entrega ocre",
+      "Foguete de Entrega Ocre",
+      "Ocher Delivery Rocket",
+      "Cohete para envíos ocre",
+      "Fusée de livraison ocre",
+      "Охряная ракета курьера",
+      "Ockerfarbene Zustellungsrakete",
+      "Foguete de Entrega Ocre",
+      "Razzo per Consegne Ocra",
+      "황토색 배달 로켓",
+      "赭黃快遞火箭",
+      "黄褐运载火箭"
+    ],
+    "Media": "inv_yellow_rocketmount5.jpg"
+  },
+  {
+    "TagId": 2286,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Blackwater Shredder Deluxe Mk 2",
+      "Trituradora de Aguasnegras Deluxe Mk 2",
+      "Retalhador Aguanegra Deluxe V2",
+      "Blackwater Shredder Deluxe Mk 2",
+      "Machacador de Aguasnegras deluxe Mk. 2",
+      "Déchiqueteur des Flots noirs de luxe mod.\u00A0II",
+      "Элитный крошшер Черноводья II",
+      "Schwarzmeerschredder Deluxe Mk. 2",
+      "Retalhador Aguanegra Deluxe V2",
+      "Segatutto Deluxe degli Acquanera v2",
+      "초호화 블랙워터 벌목기 마크 II",
+      "超級黑水伐木機二代",
+      "黑水伐木机尊享版MK2型"
+    ],
+    "Media": "inv_goblinshreddermech_blue.jpg"
+  },
+  {
+    "TagId": 2287,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Darkfuse Demolisher",
+      "Machacadora mechaoscura",
+      "Demolidor Sombrafuso",
+      "Darkfuse Demolisher",
+      "Demoledor Fundisombras",
+      "Imploseur imprégné de ténèbres",
+      "Мастодонт Мрачных Минеров",
+      "Verwüster der Düsternisverschmolzenen",
+      "Demolidor Sombrafuso",
+      "Demolitore dei Micciascura",
+      "다크퓨즈 철거자",
+      "暗融毀滅者",
+      "暗索歼灭者"
+    ],
+    "Media": "inv_goblinshreddermech_black.jpg"
+  },
+  {
+    "TagId": 2288,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Personalized Goblin S.C.R.A.Per",
+      "Goblin personalizado de C.H.A.T.A.R.R.A.",
+      "Goblin S.U.C.A.T.eiro Personalizado",
+      "Personalized Goblin S.C.R.A.Per",
+      "C.H.A.T.A.R.R.A.dor goblin personalizado",
+      "D.E.B.R.I.S. gobelin personnalisé",
+      "Персональный гоблинский сборщик ХЛАМа",
+      "Personalisierter Goblinverschrotter",
+      "Goblin S.U.C.A.T.eiro Personalizado",
+      "S.C.A.R.T.O.M.A.N.T.E. Personalizzato dei Goblin",
+      "맞춤형 고블린 폐.품 처분기",
+      "個人化哥布林S.C.R.A.P裝置",
+      "私人订制地精S.C.R.A.P拆废机"
+    ],
+    "Media": "inv_goblinshreddermech_green.jpg"
+  },
+  {
+    "TagId": 2289,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Venture Co-ordinator",
+      "Coordinaventuras",
+      "Gerente da Empreendimentos S.A.",
+      "Venture Co-ordinator",
+      "Coordinador de Ventura y Cía.",
+      "Koordinatrice Kapitale",
+      "Координатор Торговой компании",
+      "Ko-ordinator der Venture Company",
+      "Gerente da Empreendimentos S.A.",
+      "Sprecatore della S.P.R. & Co.",
+      "투자개발회사 조율자",
+      "風險投資公司協辦者",
+      "风险投资协调器"
+    ],
+    "Media": "inv_goblinshreddermech_yellow.jpg"
+  },
+  {
+    "TagId": 2290,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Asset Advocator",
+      "Defensor de dispositivos",
+      "Defensor de Ativos",
+      "Asset Advocator",
+      "Defensor de recursos",
+      "Réévaluateur de ressources",
+      "Апеллянт активов",
+      "Anlagenbefürworter",
+      "Defensor de Ativos",
+      "Difensore del Patrimonio",
+      "자산 중재인",
+      "資產保全者",
+      "资产倡导者"
+    ],
+    "Media": "inv_goblinshreddermech.jpg"
+  },
+  {
+    "TagId": 2291,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Salvaged Goblin Gazillionaire's Flying Machine",
+      "Máquina voladora goblin recuperada de archimegamillonario",
+      "Máquina Voadora do Gazilionário Goblin Recondicionada",
+      "Salvaged Goblin Gazillionaire's Flying Machine",
+      "Máquina voladora de muchimillonario goblin saqueada",
+      "Machine volante recyclée de Gobelin milliardaire",
+      "Восстановленный ветролет гоблина-триллиардера",
+      "Geborgene Flugmaschine des Goblingeldsacks",
+      "Máquina Voadora do Gazilionário Goblin Recondicionada",
+      "Macchina Volante Recuperata del Goblin Gazzillionario",
+      "회수된 고블린 억만장자의 비행기",
+      "回收的哥布林億萬富翁的飛行器",
+      "回收的地精亿万富豪飞行器"
+    ],
+    "Media": "inv_goblinflyingmachine_yellow.jpg"
+  },
+  {
+    "TagId": 2292,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Margin Manipulator",
+      "Manipulador de márgenes",
+      "Manipulador de Margem",
+      "Margin Manipulator",
+      "Manipulador de márgenes",
+      "Manipulateur de marge",
+      "Маржевый манипулятор",
+      "Margenmanipulator",
+      "Manipulador de Margem",
+      "Manipolatore Marginale",
+      "이윤 조작기",
+      "空間操縱者",
+      "差额操纵者"
+    ],
+    "Media": "inv_goblinflyingmachine_blue.jpg"
+  },
+  {
+    "TagId": 2293,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Darkfuse Spy-Eye",
+      "Ojoespía mechaoscura",
+      "Vigilante Sombrafuso",
+      "Darkfuse Spy-Eye",
+      "Ojo espía de Fundisombras",
+      "Œil-espion imprégné de ténèbres",
+      "Шпионолет Мрачных Минеров",
+      "Spionagedrohne der Düsternisverschmolzenen",
+      "Vigilante Sombrafuso",
+      "Occhio-Spia dei Micciascura",
+      "다크퓨즈 첩보기",
+      "暗融間諜之眼",
+      "暗索谍眼飞行器"
+    ],
+    "Media": "inv_goblinflyingmachine_black.jpg"
+  },
+  {
+    "TagId": 2294,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Mean Green Flying Machine",
+      "Máquina voladora verde mezquino",
+      "Máquina Voadora Verde Matadora",
+      "Mean Green Flying Machine",
+      "Máquina voladora verde y malvada",
+      "Vilaine machine volante verte",
+      "Злой зеленый ветролет",
+      "Supergrüne Flugmaschine",
+      "Máquina Voadora Verde Matadora",
+      "Macchina Volante Verdognola",
+      "지독한 녹색 비행기",
+      "難駕馭的綠色飛行器",
+      "钞绿色飞行器"
+    ],
+    "Media": "inv_goblinflyingmachine_green.jpg"
+  },
+  {
+    "TagId": 2295,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bilgewater Bombardier",
+      "Protobombardero Pantoque",
+      "Bombardeiro de Borraquilha",
+      "Bilgewater Bombardier",
+      "Bombardero de Pantoque",
+      "Bombardier de Baille-Fonds",
+      "Торпедник Трюмных Вод",
+      "Bombardierer des Bilgewasserkartells",
+      "Bombardeiro de Borraquilha",
+      "Bombardiera degli Acqualorda",
+      "빌지워터 폭격수",
+      "污水擲彈者",
+      "锈水轰炸机"
+    ],
+    "Media": "inv_goblinflyingmachine_red.jpg"
+  },
+  {
+    "TagId": 2296,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Delver's Gob-Trotter",
+      "Goblinave de surcabismos",
+      "Aerogoblin do Imersor",
+      "Delver's Gob-Trotter",
+      "Trotón de explorador de profundidades",
+      "Gob-trotteur du Gouffre",
+      "Вездешлямзель для вылазок",
+      "Gobtrotter des Tiefenforschers",
+      "Aerogoblin do Imersor",
+      "Giramondo Goblin delle Scorribande",
+      "구렁 탐험가의 고블린 쾌속정",
+      "探究者的哥布林奔走者",
+      "地下堡行者的地精奔行器"
+    ],
+    "Media": "inv_airshipmountgoblin.jpg"
+  },
+  {
+    "TagId": 2298,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Prized Gladiator's Fel Bat",
+      "Murciélago vil de Gladiador premiado",
+      "Morcevil do Gladiador Precioso",
+      "Prized Gladiator's Fel Bat",
+      "Murciélago vil de Gladiador preciado",
+      "Gangroptère du gladiateur adulé",
+      "Сквернотопырь призового гладиатора",
+      "Teufelsfledermaus des geachteten Gladiators",
+      "Morcevil do Gladiador Precioso",
+      "Vilpipistrello del Gladiatore Stimato",
+      "찬양받는 검투사의 지옥 박쥐",
+      "獲獎鬥士魔蝠",
+      "至臻角斗士的魔蝠"
+    ]
+  },
+  {
+    "TagId": 2299,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Electro Eel",
+      "Anguila eléctrica feroz",
+      "Enguia Elétrica Cruel",
+      "Vicious Electro Eel",
+      "Electroanguila sañosa",
+      "Électro-anguille vicieuse",
+      "Злобный электрический угорь",
+      "Boshafter Zitteraal",
+      "Enguia Elétrica Cruel",
+      "Anguilla Elettrica Malvagia",
+      "흉포한 전기 장어",
+      "凶暴電鰻",
+      "勇猛的电鳗"
+    ],
+    "Media": "inv_electriceelviciousmount_red.jpg"
+  },
+  {
+    "TagId": 2300,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Electro Eel",
+      "Anguila eléctrica feroz",
+      "Enguia Elétrica Cruel",
+      "Vicious Electro Eel",
+      "Electroanguila sañosa",
+      "Électro-anguille vicieuse",
+      "Злобный электрический угорь",
+      "Boshafter Zitteraal",
+      "Enguia Elétrica Cruel",
+      "Anguilla Elettrica Malvagia",
+      "흉포한 전기 장어",
+      "凶暴電鰻",
+      "勇猛的电鳗"
+    ],
+    "Media": "inv_electriceelviciousmount_blue.jpg"
+  },
+  {
+    "TagId": 2301,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Unstable Rocket",
+      "Cohete inestable",
+      "Foguete Instável",
+      "Unstable Rocket",
+      "Cohete inestable",
+      "Fusée instable",
+      "Нестабильная ракета",
+      "Instabile Rakete",
+      "Foguete Instável",
+      "Razzo Instabile",
+      "불안정한 로켓",
+      "不穩定的火箭",
+      "不稳定的火箭"
+    ],
+    "Media": "ability_mount_rocketmount.jpg"
+  },
+  {
+    "TagId": 2302,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Unstable Rocket",
+      "Cohete inestable",
+      "Foguete Instável",
+      "Unstable Rocket",
+      "Cohete inestable",
+      "Fusée instable",
+      "Нестабильная ракета",
+      "Instabile Rakete",
+      "Foguete Instável",
+      "Razzo Instabile",
+      "불안정한 로켓",
+      "不穩定的火箭",
+      "不稳定的火箭"
+    ],
+    "Media": "ability_mount_rocketmount.jpg"
+  },
+  {
+    "TagId": 2303,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Violet Goblin Shredder",
+      "Trituradora goblin violeta",
+      "Retalhador Goblínico Violeta",
+      "Violet Goblin Shredder",
+      "Trituradora goblin violeta",
+      "Déchiqueteur gobelin pourpre",
+      "Фиолетовый гоблинский крошшер",
+      "Violetter Goblinschredder",
+      "Retalhador Goblínico Violeta",
+      "Sbrindellatore Goblin Violetto",
+      "보랏빛 고블린 벌목기",
+      "紫色哥布林伐木機",
+      "紫罗兰地精伐木机"
+    ]
+  },
+  {
     "TagId": 2304,
     "TagType": 22,
     "Names": [
@@ -2287,6 +2850,26 @@
       "混沌熔铸驭风者"
     ],
     "Media": "inv_30thwyvernmount_red.jpg"
+  },
+  {
+    "TagId": 2313,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Junkmaestro's Magnetomech",
+      "Magnetomeca de Chatamaestro",
+      "Mecaímã da Lixomestra",
+      "Junkmaestro's Magnetomech",
+      "Meca magnético de maestro chatarrero",
+      "Magnétoméca d’as de la casse",
+      "Магнитомеха хлам-маэстро",
+      "Magnetomech des Schrottmaestros",
+      "Mecaímã da Lixomestra",
+      "Robomagnete della Maestra dei Rottami",
+      "고물의 거장의 자석기계복",
+      "垃圾大師的磁力機械",
+      "渣客大师的磁力机甲"
+    ]
   },
   {
     "TagId": 2315,
@@ -2454,7 +3037,7 @@
       "銀月城掃帚",
       "银月城扫帚"
     ],
-    "Media": "inv_lovebroom_pink.jpg"
+    "Media": "inv_lovebroom_red.jpg"
   },
   {
     "TagId": 2330,
@@ -2496,7 +3079,7 @@
       "天空女巫掃帚",
       "苍穹女巫的扫帚"
     ],
-    "Media": "inv_lovebroom_pink.jpg"
+    "Media": "inv_lovebroom_blue.jpg"
   },
   {
     "TagId": 2332,
@@ -2539,6 +3122,27 @@
       "索伊兹的复古斩浪者"
     ],
     "Media": "inv_goblinsurfboardmount_red.jpg"
+  },
+  {
+    "TagId": 2334,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bronze Goblin Waveshredder",
+      "Trizaolas goblin de bronce",
+      "Retalhador de Ondas Goblínico de Bronze",
+      "Bronze Goblin Waveshredder",
+      "Trituraolas goblin de bronce",
+      "Déchiqueteur de vagues gobelin en bronze",
+      "Бронзовый гоблинский волнокрошшер",
+      "Bronzegoblinwellenschredder",
+      "Retalhador de Ondas Goblínico de Bronze",
+      "Tagliaonde Bronzeo dei Goblin",
+      "청동 고블린 파도분쇄기",
+      "青銅哥布林破浪板",
+      "青铜地精斩浪者"
+    ],
+    "Media": "inv_goblinsurfboardmount_green.jpg"
   },
   {
     "TagId": 2339,
@@ -2688,6 +3292,48 @@
     "Media": "ability_mount_quilenflyingmount.jpg"
   },
   {
+    "TagId": 2476,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sha-Warped Cloud Serpent",
+      "Dragón nimbo transmutado por el sha",
+      "Serpente das Nuvens Deformada pelo Sha",
+      "Sha-Warped Cloud Serpent",
+      "Dragón nimbo combado de sha",
+      "Serpent-nuage déformé par les sha",
+      "Окутанный ша облачный змей",
+      "Sha-verzerrte Wolkenschlange",
+      "Serpente das Nuvens Deformada pelo Sha",
+      "Serpe delle Nubi Distorta dallo Sha",
+      "샤로 뒤틀린 운룡",
+      "煞曲雲蛟",
+      "附煞云端翔龙"
+    ],
+    "Media": "inv_shaserpentmount.jpg"
+  },
+  {
+    "TagId": 2477,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sha-Warped Riding Tiger",
+      "Tigre de montar transmutado por el sha",
+      "Tigre de Montaria Deformado pelo Sha",
+      "Sha-Warped Riding Tiger",
+      "Tigre de montar combado de sha",
+      "Tigre de monte déformé par les sha",
+      "Окутанный ша ездовой тигр",
+      "Sha-verzerrter Reittiger",
+      "Tigre de Montaria Deformado pelo Sha",
+      "Tigre Cavalcabile Distorta dallo Sha",
+      "샤로 뒤틀린 길들인 호랑이",
+      "煞曲騎乘虎",
+      "附煞骑乘虎"
+    ],
+    "Media": "inv_shatigermount.jpg"
+  },
+  {
     "TagId": 2478,
     "TagType": 22,
     "Names": [
@@ -2699,7 +3345,7 @@
       "Halcón de fuego real llameante",
       "Faucon de feu royal flamboyant",
       "Пылающий королевский огнеястреб",
-      "Flammender Feuerfalke des Königs",
+      "Königlicher flammender Feuerfalke",
       "Falcão de Fogo Real Fulgurante",
       "Falco di Fuoco Regale Ardente",
       "타오르는 왕실 불꽃매",
@@ -2707,5 +3353,299 @@
       "祥云锦绣火鹰"
     ],
     "Media": "inv_misc_orb_05.jpg"
+  },
+  {
+    "TagId": 2480,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crimson Shreddertank",
+      "Tanque triturador goblin",
+      "Tanquetalhador Carmesim",
+      "Crimson Shreddertank",
+      "Tanque triturador carmesí",
+      "Déchiquetank cramoisi",
+      "Багровый танкокрошшер",
+      "Karmesinroter Schredderpanzer",
+      "Tanquetalhador Carmesim",
+      "Segatronchi di Difesa Cremisi",
+      "진홍빛 벌목전차",
+      "赤紅伐木坦克",
+      "赤红切割坦克"
+    ],
+    "Media": "inv_goblinspidertank.jpg"
+  },
+  {
+    "TagId": 2481,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Midnight Darkmoon Charger",
+      "Destrero de Luna Negra de medianoche",
+      "Corcel da Meia-noite de Negraluna",
+      "Midnight Darkmoon Charger",
+      "Destrero de la Luna Negra de medianoche",
+      "Destrier de minuit de Sombrelune",
+      "Полуночный скакун Новолуния",
+      "Mitternachtschwarzes Dunkelmondstreitross",
+      "Corcel da Meia-noite de Negraluna",
+      "Gran Destriero di Mezzanotte di Lunacupa",
+      "한밤의 다크문 군마",
+      "午夜暗月戰騎",
+      "午夜暗月军马"
+    ],
+    "Media": "inv_darkmoonhorsemount_black.jpg"
+  },
+  {
+    "TagId": 2482,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Lively Darkmoon Charger",
+      "Destrero de Luna Negra vivaz",
+      "Corcel Vivaz de Negraluna",
+      "Lively Darkmoon Charger",
+      "Destrero de la Luna Negra vivaz",
+      "Destrier enjoué de Sombrelune",
+      "Яркий скакун Новолуния",
+      "Lebhaftes Dunkelmondstreitross",
+      "Corcel Vivaz de Negraluna",
+      "Gran Destriero Vivace di Lunacupa",
+      "활기찬 다크문 군마",
+      "活潑暗月戰騎",
+      "活跃暗月军马"
+    ],
+    "Media": "inv_darkmoonhorsemount_green.jpg"
+  },
+  {
+    "TagId": 2483,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Violet Darkmoon Charger",
+      "Destrero de Luna Negra violeta",
+      "Corcel Violeta de Negraluna",
+      "Violet Darkmoon Charger",
+      "Destrero de la Luna Negra violeta",
+      "Destrier pourpre de Sombrelune",
+      "Фиолетовый скакун Новолуния",
+      "Violettes Dunkelmondstreitross",
+      "Corcel Violeta de Negraluna",
+      "Gran Destriero Violetto di Lunacupa",
+      "보랏빛 다크문 군마",
+      "紫羅蘭暗月戰騎",
+      "紫罗兰暗月军马"
+    ],
+    "Media": "inv_darkmoonhorsemount_purple.jpg"
+  },
+  {
+    "TagId": 2484,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Snowy Darkmoon Charger",
+      "Destrero de Luna Negra níveo",
+      "Corcel Nevado de Negraluna",
+      "Snowy Darkmoon Charger",
+      "Destrero de la Luna Negra de las nieves",
+      "Destrier des neiges de Sombrelune",
+      "Снежный скакун Новолуния",
+      "Schneeweißes Dunkelmondstreitross",
+      "Corcel Nevado de Negraluna",
+      "Gran Destriero Nevoso di Lunacupa",
+      "새하얀 다크문 군마",
+      "雪白暗月戰騎",
+      "雪白暗月军马"
+    ],
+    "Media": "inv_darkmoonhorsemount_white.jpg"
+  },
+  {
+    "TagId": 2487,
+    "TagType": 22,
+    "Names": [
+      null,
+      "The Big G",
+      "El Gran G",
+      "O Gezão",
+      "The Big G",
+      "La gran G",
+      "Le G-néral",
+      "Большой Гэ",
+      "Chef G",
+      "O Gezão",
+      "Il Grande G",
+      "대두윅스",
+      "大G",
+      "加老大"
+    ],
+    "Media": "inv_gallywixmechmount.jpg"
+  },
+  {
+    "TagId": 2488,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Shimmermist Free Runner",
+      "Corredor libre brillobruma",
+      "Corredor Brumescente Livre",
+      "Shimmermist Free Runner",
+      "Corredor libre Nieblabrillante",
+      "Coureur libre halo-de-brume",
+      "Свободный мерцающий туманный бегун",
+      "Schimmernebelfreiläufer",
+      "Corredor Brumescente Livre",
+      "Cavalcatore Brumaluce Libero",
+      "아지랑이안개 자유 질주마",
+      "爍霧自由奔行者",
+      "闪雾自由奔行者"
+    ],
+    "Media": "inv_horse2ardenwealdmount_blue.jpg"
+  },
+  {
+    "TagId": 2489,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Pearlescent Butterfly",
+      "Mariposa perlescente",
+      "Borboleta Perolescente",
+      "Pearlescent Butterfly",
+      "Mariposa perlescente",
+      "Papillon perlescent",
+      "Перламутровая бабочка",
+      "Perlmuttschmetterling",
+      "Borboleta Perolescente",
+      "Farfalla Perlescente",
+      "진줏빛 나비",
+      "珠光蝴蝶",
+      "珠光彩蝶"
+    ],
+    "Media": "inv_butterflymount_pearl.jpg"
+  },
+  {
+    "TagId": 2491,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ruby Butterfly",
+      "Mariposa rubí",
+      "Borboleta de Rubi",
+      "Ruby Butterfly",
+      "Mariposa de rubí",
+      "Papillon rubis",
+      "Рубиновая бабочка",
+      "Rubinschmetterling",
+      "Borboleta de Rubi",
+      "Farfalla di Rubino",
+      "루비 나비",
+      "紅寶石蝴蝶",
+      "红玉彩蝶"
+    ],
+    "Media": "inv_butterflymount_red.jpg"
+  },
+  {
+    "TagId": 2492,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Spring Butterfly",
+      "Mariposa primaveral",
+      "Borboleta da Primavera",
+      "Spring Butterfly",
+      "Mariposa primaveral",
+      "Papillon printanier",
+      "Весенняя бабочка",
+      "Frühlingsschmetterling",
+      "Borboleta da Primavera",
+      "Farfalla Primaverile",
+      "봄철 나비",
+      "春日蝴蝶",
+      "春日彩蝶"
+    ],
+    "Media": "inv_butterflymount_pink.jpg"
+  },
+  {
+    "TagId": 2494,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Midnight Butterfly",
+      "Mariposa de medianoche",
+      "Borboleta da Meia-noite",
+      "Midnight Butterfly",
+      "Mariposa de medianoche",
+      "Papillon de minuit",
+      "Полуночная бабочка",
+      "Mitternachtsschmetterling",
+      "Borboleta da Meia-noite",
+      "Farfalla di Mezzanotte",
+      "한밤 나비",
+      "午夜蝴蝶",
+      "午夜彩蝶"
+    ],
+    "Media": "inv_butterflymount_purple.jpg"
+  },
+  {
+    "TagId": 2495,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Emerald Snail",
+      "Caracol esmeralda",
+      "Lesma Esmeralda",
+      "Emerald Snail",
+      "Caracol esmeralda",
+      "Escargot d’émeraude",
+      "Изумрудная улитка",
+      "Smaragdschnecke",
+      "Lesma Esmeralda",
+      "Lumaca di Smeraldo",
+      "에메랄드 달팽이",
+      "翡翠蝸牛",
+      "翡翠蜗牛"
+    ],
+    "Media": "inv_snailrockmount_green.jpg"
+  },
+  {
+    "TagId": 2507,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Prototype A.S.M.R.",
+      "Prototipo A.S.M.R.",
+      "Protótipo do A.S.M.R.",
+      "Prototype A.S.M.R.",
+      "Prototipo de A.S.M.R.",
+      "Prototype d’A.S.M.R.",
+      "Прототип АСМР",
+      "A.S.M.R.-Prototyp",
+      "Protótipo do A.S.M.R.",
+      "Prototipo A.S.M.R.",
+      "귀.가.간.질 시제품",
+      "A.S.M.R.原型機",
+      "原型A.S.M.R."
+    ],
+    "Media": "inv_goblinflyingmachine.jpg"
+  },
+  {
+    "TagId": 2508,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Enterprising Shreddertank",
+      "Tanque triturador dinámico",
+      "Tanquetalhador Empreendedor",
+      "Enterprising Shreddertank",
+      "Tanque triturador de emprendimiento",
+      "Déchiquetank entreprenant",
+      "Предприимчивый танкокрошшер",
+      "Unternehmerischer Schredderpanzer",
+      "Tanquetalhador Empreendedor",
+      "Segatronchi di Difesa Intraprendente",
+      "진취적인 벌목전차",
+      "創業伐木坦克",
+      "进取型切割坦克"
+    ],
+    "Media": "inv_goblinspidertank.jpg"
   }
 ]

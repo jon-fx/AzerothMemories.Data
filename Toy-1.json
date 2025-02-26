@@ -6750,7 +6750,7 @@
       "Caixa de Chutáveis",
       "Box of Puntables",
       "Caja de cosas pateables",
-      "Boîte de jouets à lancer",
+      "Boîte de jouets à botter",
       "Пни-коробка",
       "Kiste des Ver-tretbaren",
       "Caixa de Chutáveis",
@@ -7539,6 +7539,27 @@
     "Media": "inv_11xp_generic_blizzardphoenixring01.jpg"
   },
   {
+    "TagId": 1515,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Explosive Victory",
+      "Victoria explosiva",
+      "Vitória Explosiva",
+      "Explosive Victory",
+      "Victoria explosiva",
+      "Victoire explosive",
+      "Взрывная победа",
+      "Explosiver Sieg",
+      "Vitória Explosiva",
+      "Vittoria Esplosiva",
+      "폭발적인 승리",
+      "爆炸性勝利",
+      "爆裂凯旋"
+    ],
+    "Media": "inv_goblinsapperpet.jpg"
+  },
+  {
     "TagId": 1516,
     "TagType": 30,
     "Names": [
@@ -7600,6 +7621,69 @@
       "炉铸勇士的尊崇旗帜"
     ],
     "Media": "inv_11xp_awc_banner01.jpg"
+  },
+  {
+    "TagId": 1521,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Delve-O-Bot 7001",
+      "Abism-O-bot 7001",
+      "Imersobô 7001",
+      "Delve-O-Bot 7001",
+      "Profundibot 7001",
+      "Méca-Gouffre\u00A07001",
+      "Вылазкобот-7001",
+      "Tiefenbot 7001",
+      "Imersobô 7001",
+      "Scorribot 7001",
+      "구렁로봇 7001",
+      "探究機器人7001型",
+      "地下堡机器人7001型"
+    ],
+    "Media": "inv_111_robocopter_robocopter.jpg"
+  },
+  {
+    "TagId": 1522,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Spotlight Materializer 1000",
+      "Materializador de atención 1000",
+      "Materializador de Holofotes 1000",
+      "Spotlight Materializer 1000",
+      "Foco materializador 1000",
+      "Matérialiseur de projo\u00A01000",
+      "Материализатор подсветки 1000",
+      "Scheinwerferlichtmaterialisierer 1000",
+      "Materializador de Holofotes 1000",
+      "Materializzatore di Riflettori 1000",
+      "집중 조명 물질화 장치 1000",
+      "聚光具現儀1000型",
+      "聚光灯显化器1000"
+    ],
+    "Media": "ability_priest_flashoflight.jpg"
+  },
+  {
+    "TagId": 1523,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Throwaway Gangster Disguise",
+      "Disfraz de gángster desechable",
+      "Disfarce de Gângster Descartável",
+      "Throwaway Gangster Disguise",
+      "Disfraz de gánster desechable",
+      "Déguisement de gangster jetable",
+      "Одноразовая маскировка под разбойника",
+      "Wegwerfverkleidung für Gangster",
+      "Disfarce de Gângster Descartável",
+      "Camuffamento da Gangster Usa e Getta",
+      "싸구려 폭력단원 변장",
+      "拋棄式幫派偽裝",
+      "一次性恶棍伪装"
+    ],
+    "Media": "inv_111_underminegangsterdisguise.jpg"
   },
   {
     "TagId": 1524,
@@ -7770,6 +7854,69 @@
     "Media": "inv_11xp_holiday_xmascracker01.jpg"
   },
   {
+    "TagId": 1534,
+    "TagType": 30,
+    "Names": [
+      null,
+      "G.O.L.E.M, Jr.",
+      "G.O.L.E.M Jr.",
+      "G.O.L.E.M. Jr.",
+      "G.O.L.E.M, Jr.",
+      "G.O.L.E.M. Jr.",
+      "G.O.L.E.M. junior",
+      "ГОЛЕМ-младший",
+      "G.O.L.E.M. Jr.",
+      "G.O.L.E.M. Jr.",
+      "G.O.L.E.M. Jr.",
+      "고.생.최.대.기 2호",
+      "G.O.L.E.M.二世",
+      "G.O.L.E.M二世"
+    ],
+    "Media": "inv_misc_enggizmos_33.jpg"
+  },
+  {
+    "TagId": 1535,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Atomic Regoblinator",
+      "Regoblinizador atómico",
+      "Regoblinador Atômico",
+      "Atomic Regoblinator",
+      "Regoblinizador atómico",
+      "Regobelinateur atomique",
+      "Атомный регоблинатор",
+      "Atomarer Regoblinierer",
+      "Regoblinador Atômico",
+      "Rigoblinatore Atomico",
+      "원자 재고블린화",
+      "原子哥布林重組裝置",
+      "原子地精重塑器"
+    ],
+    "Media": "inv_offhand_1h_goblinraid_d_02.jpg"
+  },
+  {
+    "TagId": 1536,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Uncracked Cold Ones",
+      "Latas frías sin abrir",
+      "Geladas Intocadas",
+      "Uncracked Cold Ones",
+      "Latas frías sin abrir",
+      "Boissons fraîches non ouvertes",
+      "Невскрытые холодные напитки",
+      "Ungeöffnete Kaltgetränke",
+      "Geladas Intocadas",
+      "Lattine Fredde Non Aperte",
+      "따지 않은 시원한 콜라",
+      "未裂開的冰涼可樂",
+      "未开封的冰饮"
+    ],
+    "Media": "inv_drink_21_color04.jpg"
+  },
+  {
     "TagId": 1537,
     "TagType": 30,
     "Names": [
@@ -7833,6 +7980,27 @@
     "Media": "inv_bfa_paragoncache_orderofembers.jpg"
   },
   {
+    "TagId": 1540,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Fireworks Hat",
+      "Sombrero de fuegos artificiales",
+      "Chapéu de Fogos de Artifício",
+      "Fireworks Hat",
+      "Sombrero de fuegos artificiales",
+      "Chapeau à feux d’artifice",
+      "Пирошапка",
+      "Feuerwerkhut",
+      "Chapéu de Fogos de Artifício",
+      "Cappello d'Artificio",
+      "폭죽 모자",
+      "煙火帽",
+      "烟花之帽"
+    ],
+    "Media": "inv_helm_misc_fireworkpartyhat.jpg"
+  },
+  {
     "TagId": 1541,
     "TagType": 30,
     "Names": [
@@ -7854,19 +8022,40 @@
     "Media": "inv_legion_cache_hightmountaintribes.jpg"
   },
   {
+    "TagId": 1542,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Sha-Warped Tea Set",
+      "Juego de té transmutado por el sha",
+      "Conjunto de Chá Deformado pelo Sha",
+      "Sha-Warped Tea Set",
+      "Juego de té combado de sha",
+      "Service à thé déformé par les sha",
+      "Окутанный ша чайный набор",
+      "Sha-verzerrtes Teeservice",
+      "Conjunto de Chá Deformado pelo Sha",
+      "Set da Tè Distorto dallo Sha",
+      "샤로 뒤틀린 다기 세트",
+      "煞曲茶具組",
+      "附煞茶具"
+    ],
+    "Media": "6246537.jpg"
+  },
+  {
     "TagId": 1543,
     "TagType": 30,
     "Names": [
       null,
       "Soweezi's Comfy Lawn Chair",
       "Silla de patio cómoda de Soweezi",
-      "Cadeira de Jardim Confortável de Facin",
+      "Cadeira de Praia Confortável de Facin",
       "Soweezi's Comfy Lawn Chair",
       "Silla de jardín cómoda de Soweezi",
       "Chaise longue confortable de Soweezi",
       "Уютное садовое кресло Спокса",
       "Gemütlicher Gartenstuhl von Sowiezi",
-      "Cadeira de Jardim Confortável de Facin",
+      "Cadeira de Praia Confortável de Facin",
       "Sdraio Comoda di Soweezi",
       "소위지의 안락한 마당 의자",
       "索威金的舒適草坪椅",
@@ -7896,6 +8085,90 @@
     "Media": "inv_10_blacksmithing_craftedoptional_engineering_uprez.jpg"
   },
   {
+    "TagId": 1548,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Bilgewater Cartel Banner",
+      "Estandarte del cártel Pantoque",
+      "Estandarte do Cartel Borraquilha",
+      "Bilgewater Cartel Banner",
+      "Estandarte del Cártel Pantoque",
+      "Bannière du cartel Baille-Fonds",
+      "Знамя картеля Трюмных Вод",
+      "Banner des Bilgewasserkartells",
+      "Estandarte do Cartel Borraquilha",
+      "Stendardo del Cartello degli Acqualorda",
+      "빌지워터 무역회사 깃발",
+      "污水企業旗幟",
+      "锈水财阀旗帜"
+    ],
+    "Media": "inv_111_goblincasinochips_bilgewater.jpg"
+  },
+  {
+    "TagId": 1549,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Blackwater Cartel Banner",
+      "Estandarte del cártel Aguasnegras",
+      "Estandarte Cartel Aguanegra",
+      "Blackwater Cartel Banner",
+      "Estandarte del Cártel Aguasnegras",
+      "Bannière du cartel des Flots noirs",
+      "Знамя картеля Черноводья",
+      "Banner der Schwarzmeer AG",
+      "Estandarte Cartel Aguanegra",
+      "Stendardo del Cartello degli Acquanera",
+      "블랙워터 무역회사 깃발",
+      "黑水集團旌旗",
+      "黑水财阀旗帜"
+    ],
+    "Media": "inv_111_goblincasinochips_blackwater.jpg"
+  },
+  {
+    "TagId": 1550,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Steamwheedle Cartel Banner",
+      "Estandarte del cártel Bonvapor",
+      "Estandarte Cartel Bondebico",
+      "Steamwheedle Cartel Banner",
+      "Estandarte del Cártel Bonvapor",
+      "Bannière du cartel Gentepression",
+      "Знамя картеля Хитрой Шестеренки",
+      "Banner des Dampfdruckkartells",
+      "Estandarte Cartel Bondebico",
+      "Stendardo del Cartello degli Spargifumo",
+      "스팀휘들 무역회사 깃발",
+      "熱砂企業旌旗",
+      "热砂财阀旗帜"
+    ],
+    "Media": "inv_111_goblincasinochips_steamwheedle.jpg"
+  },
+  {
+    "TagId": 1551,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Venture Co. Banner",
+      "Estandarte de Ventura y Cía.",
+      "Estandarte da Empreendimentos S.A.",
+      "Venture Co. Banner",
+      "Estandarte de Ventura y Cía.",
+      "Bannière de la KapitalRisk",
+      "Знамя Торговой компании",
+      "Banner der Venture Co.",
+      "Estandarte da Empreendimentos S.A.",
+      "Stendardo della S.P.R. & Co.",
+      "투자개발회사 깃발",
+      "風險投資公司旌旗",
+      "风险投资公司旗帜"
+    ],
+    "Media": "inv_111_goblincasinochips_ventureco.jpg"
+  },
+  {
     "TagId": 1553,
     "TagType": 30,
     "Names": [
@@ -7915,5 +8188,299 @@
       "满眼星光目镜"
     ],
     "Media": "inv_helm_goggles_shadowlandstradeskill_d_01_blue.jpg"
+  },
+  {
+    "TagId": 1554,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Throwin' Sawblade",
+      "Hoja de sierra arrojadiza",
+      "Laminosserra de Arremesso",
+      "Throwin' Sawblade",
+      "Hoja de sierra lanzable",
+      "Lancer de lame de scie",
+      "Летучая циркулярная пила",
+      "Wurfsägeblatt",
+      "Laminosserra de Arremesso",
+      "Lancio Lama Rotante",
+      "톱날 던지기",
+      "投擲鋸刃",
+      "投掷锯刃"
+    ],
+    "Media": "inv_misc_sawblade_01.jpg"
+  },
+  {
+    "TagId": 1555,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Personal Fishing Barge",
+      "Barcaza de pesca personal",
+      "Barcaça de Pesca Pessoal",
+      "Personal Fishing Barge",
+      "Barcaza de pesca personal",
+      "Barge de pêche personnelle",
+      "Личная рыболовная баржа",
+      "Persönlicher Fischkutter",
+      "Barcaça de Pesca Pessoal",
+      "Chiatta da Pesca Personale",
+      "개인용 낚싯배",
+      "私人釣魚駁船",
+      "私人捕鱼船"
+    ],
+    "Media": "inv_misc_8xp_balloon_horse01.jpg"
+  },
+  {
+    "TagId": 1556,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Storefront-in-a-Box",
+      "Tienda en una caja",
+      "Barraca Portátil",
+      "Storefront-in-a-Box",
+      "Escaparate de bolsillo",
+      "Boutique en boîte",
+      "Раскладной прилавок",
+      "Laden-aus-der-Kiste",
+      "Barraca Portátil",
+      "Bancarella in Scatola",
+      "상자에 담긴 점포",
+      "盒中店面",
+      "盒装店面"
+    ],
+    "Media": "inv_10_engineering_device_gadget2_color3.jpg"
+  },
+  {
+    "TagId": 1557,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Take-Home Flarendo",
+      "Fogorrex portátil",
+      "Lembrancinha de Flarendo",
+      "Take-Home Flarendo",
+      "Flarendo para llevar",
+      "Fusendo à emporter",
+      "Сувенирный Пламендо",
+      "Leuchtendo zum Mitnehmen",
+      "Lembrancinha de Flarendo",
+      "Motorendo Tascabile",
+      "플레렌도 기념 촬영",
+      "弗雷倫多紀念品",
+      "弗莱兰多合影器"
+    ],
+    "Media": "inv_misc_ selfiecamera_01.jpg"
+  },
+  {
+    "TagId": 1558,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Take-Home Torq",
+      "Torq portátil",
+      "Lembrancinha de Torq",
+      "Take-Home Torq",
+      "Torq para llevar",
+      "Torq à emporter",
+      "Сувенирный Крутень",
+      "Torq zum Mitnehmen",
+      "Lembrancinha de Torq",
+      "Torq Tascabile",
+      "토크 기념 촬영",
+      "托克紀念品",
+      "托克合影器"
+    ],
+    "Media": "inv_misc_ selfiecamera_01.jpg"
+  },
+  {
+    "TagId": 1559,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Explosive Hearthstone",
+      "Piedra de hogar explosiva",
+      "Pedra de Regresso Explosiva",
+      "Explosive Hearthstone",
+      "Piedra de hogar explosiva",
+      "Pierre de foyer explosive",
+      "Взрывной камень возвращения",
+      "Explosiver Ruhestein",
+      "Pedra de Regresso Explosiva",
+      "Pietra del Ritorno Esplosiva",
+      "폭발적인 귀환석",
+      "爆炸爐石",
+      "高爆炉石"
+    ],
+    "Media": "inv_111_goldenbomb_goldblue.jpg"
+  },
+  {
+    "TagId": 1560,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Gallagio Pipeline Rerouter",
+      "Redireccionador de tuberías del Gallagio",
+      "Redirecionador de Tubulação do Gallagio",
+      "Gallagio Pipeline Rerouter",
+      "Reorientador de tuberías de El Gallagio",
+      "Rerouteur de pipeline du Gallagio",
+      "Переключатель трубопровода Галаджио",
+      "Leitungsverleger des Garbagio",
+      "Redirecionador de Tubulação do Gallagio",
+      "Reindirizzatore delle Condutture del Gallagio",
+      "갤라지오 수송관 전환기",
+      "加樂宮管線重設器",
+      "加乐宫管路改道器"
+    ],
+    "Media": "inv_hammer_2h_centaur_b_03.jpg"
+  },
+  {
+    "TagId": 1561,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Everlasting Noggenfogger Elixir",
+      "Elixir de Tragonublo interminable",
+      "Elixir Nublacuca Infinito",
+      "Everlasting Noggenfogger Elixir",
+      "Elixir de Tragonublo eterno",
+      "Élixir Brouillecaboche éternel",
+      "Вечный эликсир Гогельмогеля",
+      "Noggenfoggers immerwährendes Elixier",
+      "Elixir Nublacuca Infinito",
+      "Elisir di Granstrippo Interminabile",
+      "영원한 노겐포저의 비약",
+      "恆久諾格弗格藥劑",
+      "恒久诺格弗格药剂"
+    ],
+    "Media": "inv_potion_83.jpg"
+  },
+  {
+    "TagId": 1565,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Desk-in-a-Box",
+      "Escritorio de bolsillo",
+      "Escrivaninha-na-caixa",
+      "Desk-in-a-Box",
+      "Escritorio portátil",
+      "Bureau en boîte",
+      "Стол-из-табакерки",
+      "Schreibtisch-in-der-Kiste",
+      "Escrivaninha-na-caixa",
+      "Scrivania in Scatola",
+      "상자 속 책상",
+      "桌具組",
+      "便携书桌"
+    ],
+    "Media": "inv_10_engineering2_boxofbombs_friendly_color1.jpg"
+  },
+  {
+    "TagId": 1566,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Undermine Supply Crate",
+      "Cajón de suministros de Minahonda",
+      "Caixote de Suprimentos da Inframina",
+      "Undermine Supply Crate",
+      "Cajón de suministros de Minahonda",
+      "Caisse de fournitures de Terremine",
+      "Ящик с припасами Нижней Шахты",
+      "Lorenhallvorratskiste",
+      "Caixote de Suprimentos da Inframina",
+      "Cassa di Rifornimenti di Cavafonda",
+      "언더마인 보급품 상자",
+      "幽坑城補給箱",
+      "安德麦补给箱"
+    ],
+    "Media": "inv_10_engineering2_boxofbombs_friendly_color2.jpg"
+  },
+  {
+    "TagId": 1567,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Organically-Sourced Wellington Bobber",
+      "Corcho Wellington de origen orgánico",
+      "Flutuador de Beef Wellington de Origem Orgânica",
+      "Organically-Sourced Wellington Bobber",
+      "Corcho Wellington orgánico",
+      "Flotteur biologique de Wellington",
+      "Поплавок в виде органической сосиски в тесте",
+      "Biologisch produzierter Wallensteinfiletschwimmer",
+      "Flutuador de Beef Wellington de Origem Orgânica",
+      "Galleggiante di Filetto Biologico",
+      "유기적인 웰링턴 낚시찌",
+      "有機威靈頓牛排浮標",
+      "有机来源的惠灵顿浮标"
+    ],
+    "Media": "inv_111_fishingbobber_meat.jpg"
+  },
+  {
+    "TagId": 1568,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Artisan Beverage Goblet Bobber",
+      "Corcho de cáliz de bebida artesanal",
+      "Flutuador de Cálice de Bebida Artesanal",
+      "Artisan Beverage Goblet Bobber",
+      "Corcho cáliz de bebida artesanal",
+      "Flotteur en forme de coupe à boisson artisanale",
+      "Поплавок в виде кубка для изысканных напитков",
+      "Kunsthandwerkskelch-Schwimmer",
+      "Flutuador de Cálice de Bebida Artesanal",
+      "Galleggiante Calice di Bibita Artigianale",
+      "장인 음료잔 낚시찌",
+      "匠藝飲料杯浮標",
+      "精品饮料杯浮标"
+    ],
+    "Media": "inv_111_fishingbobber_can.jpg"
+  },
+  {
+    "TagId": 1569,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Limited Edition Rocket Bobber",
+      "Corcho cohete de edición limitada",
+      "Flutuador de Foguete - Edição Limitada",
+      "Limited Edition Rocket Bobber",
+      "Corcho cohete de edición limitada",
+      "Flotteur-missile en édition limitée",
+      "Поплавок в виде ракеты лимитированного выпуска",
+      "Streng limitierter Raketenschwimmer",
+      "Flutuador de Foguete - Edição Limitada",
+      "Galleggiante Razzo in Edizione Limitata",
+      "한정판 로켓 낚시찌",
+      "限定版火箭浮標",
+      "限量款火箭浮标"
+    ],
+    "Media": "inv_111_fishingbobber_rocket.jpg"
+  },
+  {
+    "TagId": 1572,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Prized Legend's Pennant",
+      "Grímpola de leyenda premiada",
+      "Galhardete da Lenda Preciosa",
+      "Prized Legend's Pennant",
+      "Grímpola de Leyenda Preciada",
+      "Pennon de légende adulé",
+      "Флаг призовой легенды",
+      "Anhänger der geachteten Legende",
+      "Galhardete da Lenda Preciosa",
+      "Vessillo della Leggenda Stimata",
+      "찬양받는 전설의 깃발",
+      "獲獎傳奇錦旗",
+      "至臻传说的旌旗"
+    ],
+    "Media": "inv_twwsoloshufflepennantreward_icons_purple.jpg"
   }
 ]
