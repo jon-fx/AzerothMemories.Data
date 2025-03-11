@@ -2599,7 +2599,7 @@
       "Set: Ornamenti della Monarca Perlescente",
       "복장: 무지갯빛 대왕나비의 장식",
       "套裝：珠光帝王蝶裝飾",
-      "警告：珠光帝王蝶的华饰"
+      "套装：珠光帝王蝶的华饰"
     ],
     "Media": "inv_armor_butterfly_c_01_helm.jpg"
   },
@@ -3336,7 +3336,7 @@
       "煞曲茶具組",
       "附煞茶具"
     ],
-    "Media": "6246537.jpg"
+    "Media": "inv_11xp_generic_shateaset01.jpg"
   },
   {
     "TagId": 235289,
@@ -6955,19 +6955,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Crimson Shreddertank",
+      "Tanque triturador goblin",
+      "Tanquetalhador Carmesim",
+      "Crimson Shreddertank",
+      "Tanque triturador carmesí",
+      "Déchiquetank cramoisi",
+      "Багровый танкокрошшер",
+      "Karmesinroter Schredderpanzer",
+      "Tanquetalhador Carmesim",
+      "Segatronchi di Difesa Cremisi",
+      "진홍빛 벌목전차",
+      "赤紅伐木坦克",
+      "赤红切割坦克"
     ],
     "Media": "inv_goblinspidertank.jpg"
   },
@@ -8106,6 +8106,27 @@
     "Media": "icon_treasuremap.jpg"
   },
   {
+    "TagId": 235629,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_book_09.jpg"
+  },
+  {
     "TagId": 235634,
     "TagType": 21,
     "Names": [
@@ -8364,13 +8385,13 @@
       null,
       "Pearlescent Butterfly",
       "Mariposa perlescente",
-      "Borboleta Perolescente",
+      "Borboleta Perolada",
       "Pearlescent Butterfly",
       "Mariposa perlescente",
       "Papillon perlescent",
       "Перламутровая бабочка",
       "Perlmuttschmetterling",
-      "Borboleta Perolescente",
+      "Borboleta Perolada",
       "Farfalla Perlescente",
       "진줏빛 나비",
       "珠光蝴蝶",

@@ -2306,7 +2306,8 @@
       "격노한 자 플레렌도",
       "『狂怒者』弗雷倫多",
       "狂龙弗莱兰多"
-    ]
+    ],
+    "Media": "inv_mechadevilsaurmount_yellow.jpg"
   },
   {
     "TagId": 2279,
@@ -2326,7 +2327,8 @@
       "천둥북 오발탄",
       "雷鼓啞火",
       "雷鼓哑炮火箭"
-    ]
+    ],
+    "Media": "inv_red_rocketmount5.jpg"
   },
   {
     "TagId": 2280,
@@ -2459,15 +2461,15 @@
     "TagType": 22,
     "Names": [
       null,
-      "Personalized Goblin S.C.R.A.Per",
-      "Goblin personalizado de C.H.A.T.A.R.R.A.",
-      "Goblin S.U.C.A.T.eiro Personalizado",
-      "Personalized Goblin S.C.R.A.Per",
+      "Personalized Goblin S.C.R.A.P.per",
+      "C.H.A.T.A.R.R.A.dora goblin personalizada",
+      "Goblin da S.U.C.A.T.A. Personalizado",
+      "Personalized Goblin S.C.R.A.P.per",
       "C.H.A.T.A.R.R.A.dor goblin personalizado",
-      "D.E.B.R.I.S. gobelin personnalisé",
+      "D.E.B.R.I.S.eur gobelin personnalisé",
       "Персональный гоблинский сборщик ХЛАМа",
       "Personalisierter Goblinverschrotter",
-      "Goblin S.U.C.A.T.eiro Personalizado",
+      "Goblin da S.U.C.A.T.A. Personalizado",
       "S.C.A.R.T.O.M.A.N.T.E. Personalizzato dei Goblin",
       "맞춤형 고블린 폐.품 처분기",
       "個人化哥布林S.C.R.A.P裝置",
@@ -2639,7 +2641,7 @@
       "Giramondo Goblin delle Scorribande",
       "구렁 탐험가의 고블린 쾌속정",
       "探究者的哥布林奔走者",
-      "地下堡行者的地精奔行器"
+      "地下堡行者的地精疾行器"
     ],
     "Media": "inv_airshipmountgoblin.jpg"
   },
@@ -2661,7 +2663,8 @@
       "찬양받는 검투사의 지옥 박쥐",
       "獲獎鬥士魔蝠",
       "至臻角斗士的魔蝠"
-    ]
+    ],
+    "Media": "inv_felbatgladiatormount_copper.jpg"
   },
   {
     "TagId": 2299,
@@ -2765,7 +2768,8 @@
       "보랏빛 고블린 벌목기",
       "紫色哥布林伐木機",
       "紫罗兰地精伐木机"
-    ]
+    ],
+    "Media": "inv_goblinshreddermech_purple.jpg"
   },
   {
     "TagId": 2304,
@@ -2869,7 +2873,8 @@
       "고물의 거장의 자석기계복",
       "垃圾大師的磁力機械",
       "渣客大师的磁力机甲"
-    ]
+    ],
+    "Media": "inv_goblinshreddermechboss.jpg"
   },
   {
     "TagId": 2315,
@@ -3164,6 +3169,111 @@
       "加尼的垃圾堆"
     ],
     "Media": "inv_compy_purple.jpg"
+  },
+  {
+    "TagId": 2342,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Meeksi Rufflefur",
+      "Meeksi pelocrespo",
+      "Pelo-eriçado Miksi",
+      "Meeksi Rufflefur",
+      "Peloerizado meeksi",
+      "Ébouriffeur meeksi",
+      "Лохмошерст микси",
+      "Wuschelpelz der Meeksi",
+      "Pelo-eriçado Miksi",
+      "Arruffapelo Meeksi",
+      "미크시 펄럭모피",
+      "米克西亂毛小熊貓",
+      "绒毛米克西"
+    ],
+    "Media": "inv_redpandamount_blue.jpg"
+  },
+  {
+    "TagId": 2343,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Meeksi Softpaw",
+      "Meeksi patasuave",
+      "Pata-macia Miksi",
+      "Meeksi Softpaw",
+      "Patasuave meeksi",
+      "Doucepatte meeksi",
+      "Мягколап микси",
+      "Weichtatze der Meeksi",
+      "Pata-macia Miksi",
+      "Zampamolle Meeksi",
+      "미크시 부들발바닥",
+      "米克西軟掌小熊貓",
+      "柔爪米克西"
+    ],
+    "Media": "inv_redpandamount_gray.jpg"
+  },
+  {
+    "TagId": 2344,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Meeksi Rollingpaw",
+      "Meeksi patarrodante",
+      "Pata-andante Miksi",
+      "Meeksi Rollingpaw",
+      "Patarrodante meeksi",
+      "Roulepatte meeksi",
+      "Покатун микси",
+      "Rollpfote der Meeksi",
+      "Pata-andante Miksi",
+      "Ruzzolazampa Meeksi",
+      "미크시 둘둘발바닥",
+      "米克西滾掌小熊貓",
+      "滚爪米克西"
+    ],
+    "Media": "inv_redpandamount_orange.jpg"
+  },
+  {
+    "TagId": 2345,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Meeksi Teatuft",
+      "Meeksi peluchái",
+      "Tufo-de-chá Miksi",
+      "Meeksi Teatuft",
+      "Copete meeksi",
+      "Touffethé meeksi",
+      "Пухочай микси",
+      "Teebüschel der Meeksi",
+      "Tufo-de-chá Miksi",
+      "Pelditè Meeksi",
+      "미크시 찻잔터럭",
+      "米克西茶簇小熊貓",
+      "茶毛米克西"
+    ],
+    "Media": "inv_redpandamount_red.jpg"
+  },
+  {
+    "TagId": 2346,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Meeksi Brewthief",
+      "Meeksi robabrebaje",
+      "Rouba-infusão Miksi",
+      "Meeksi Brewthief",
+      "Ladrón de cerveza meeksi",
+      "Voleur de bière meeksi",
+      "Чаекрад микси",
+      "Gebräudieb der Meeksi",
+      "Rouba-infusão Miksi",
+      "Rubabirra Meeksi",
+      "미크시 찻물도둑",
+      "米克西釀賊小熊貓",
+      "酿盗米克西"
+    ],
+    "Media": "inv_redpandamount_violet.jpg"
   },
   {
     "TagId": 2347,
@@ -3508,13 +3618,13 @@
       null,
       "Pearlescent Butterfly",
       "Mariposa perlescente",
-      "Borboleta Perolescente",
+      "Borboleta Perolada",
       "Pearlescent Butterfly",
       "Mariposa perlescente",
       "Papillon perlescent",
       "Перламутровая бабочка",
       "Perlmuttschmetterling",
-      "Borboleta Perolescente",
+      "Borboleta Perolada",
       "Farfalla Perlescente",
       "진줏빛 나비",
       "珠光蝴蝶",
