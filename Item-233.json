@@ -58,7 +58,7 @@
       "Scatola di Poltiglia Leggermente Remunerativa",
       "약간 수익성 있는 오물 상자",
       "裝著稍有價值淤泥的箱子",
-      "略微赚头的淤泥盒"
+      "略有赚头的淤泥箱"
     ],
     "Media": "inv_inscription_inkred03.jpg"
   },
@@ -2583,6 +2583,69 @@
     "Media": "inv_redpandamount_violet.jpg"
   },
   {
+    "TagId": 233288,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Recruit's Tabard",
+      "Tabardo de recluta radiante",
+      "Tabardo do Recruta Radiante",
+      "Radiant Recruit's Tabard",
+      "Tabardo de recluta radiante",
+      "Tabard de recrue radieuse",
+      "Гербовая накидка сияющего новобранца",
+      "Wappenrock des strahlenden Rekruten",
+      "Tabardo do Recruta Radiante",
+      "Insegna della Recluta Radiosa",
+      "빛나는 신병의 휘장",
+      "聖輝新兵的外袍",
+      "光耀新兵的战袍"
+    ],
+    "Media": "inv_tabard_nightfall_a_01.jpg"
+  },
+  {
+    "TagId": 233289,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Stalwart's Tabard",
+      "Tabardo de inquebrantable radiante",
+      "Tabardo do Impávido Radiante",
+      "Radiant Stalwart's Tabard",
+      "Tabardo de incondicional radiante",
+      "Tabard de vaillante radieuse",
+      "Гербовая накидка сияющего защитника",
+      "Wappenrock des strahlenden Unerschütterlichen",
+      "Tabardo do Impávido Radiante",
+      "Insegna del Prode Radioso",
+      "빛나는 충성대원의 휘장",
+      "聖輝堅兵的外袍",
+      "光耀坚兵的战袍"
+    ],
+    "Media": "inv_tabard_nightfall_b_01.jpg"
+  },
+  {
+    "TagId": 233290,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sacred Templar's Tabard",
+      "Tabardo de templario sagrado",
+      "Tabardo do Templário Sagrado",
+      "Sacred Templar's Tabard",
+      "Tabardo de templario sagrado",
+      "Tabard de templier sacré",
+      "Гербовая накидка священного храмовника",
+      "Wappenrock des heiligen Templers",
+      "Tabardo do Templário Sagrado",
+      "Insegna del Templare Sacro",
+      "신성한 기사단원의 휘장",
+      "神聖聖殿騎士的外袍",
+      "崇敬圣殿骑士的战袍"
+    ],
+    "Media": "inv_tabard_nightfall_c_01.jpg"
+  },
+  {
     "TagId": 233291,
     "TagType": 21,
     "Names": [
@@ -2707,6 +2770,69 @@
       "金色发条肩铠"
     ],
     "Media": "inv_shoulder_armor_clockwork_d_01.jpg"
+  },
+  {
+    "TagId": 233297,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Recruit's Buckle",
+      "Hebilla de recluta radiante",
+      "Fivela do Recruta Radiante",
+      "Radiant Recruit's Buckle",
+      "Hebilla de recluta radiante",
+      "Boucle de recrue radieuse",
+      "Пояс с пряжкой сияющего новобранца",
+      "Schnalle des strahlenden Rekruten",
+      "Fivela do Recruta Radiante",
+      "Fibbia della Recluta Radiosa",
+      "빛나는 신병의 죔쇠",
+      "聖輝新兵的扣環",
+      "光耀新兵的腰扣"
+    ],
+    "Media": "inv_buckle_armor_nightfalll_a_01.jpg"
+  },
+  {
+    "TagId": 233298,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Stalwart's Buckle",
+      "Hebilla de inquebrantable radiante",
+      "Fivela do Impávido Radiante",
+      "Radiant Stalwart's Buckle",
+      "Hebilla de incondicional radiante",
+      "Boucle de vaillante radieuse",
+      "Пояс с пряжкой сияющего защитника",
+      "Schnalle des strahlenden Unerschütterlichen",
+      "Fivela do Impávido Radiante",
+      "Fibbia del Prode Radioso",
+      "빛나는 충성대원의 죔쇠",
+      "聖輝堅兵的扣環",
+      "光耀坚兵的腰扣"
+    ],
+    "Media": "inv_buckle_armor_nightfalll_b_01.jpg"
+  },
+  {
+    "TagId": 233299,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sacred Templar's Buckle",
+      "Hebilla de templario sagrado",
+      "Fivela do Templário Sagrado",
+      "Sacred Templar's Buckle",
+      "Hebilla de templario sagrado",
+      "Boucle de templier sacré",
+      "Пояс с пряжкой священного храмовника",
+      "Schnalle des heiligen Templers",
+      "Fivela do Templário Sagrado",
+      "Fibbia del Templare Sacro",
+      "신성한 기사단원의 죔쇠",
+      "神聖聖殿騎士的扣環",
+      "崇敬圣殿骑士的腰扣"
+    ],
+    "Media": "inv_buckle_armor_nightfall_c_01.jpg"
   },
   {
     "TagId": 233300,

@@ -1,22 +1,127 @@
 [
   {
+    "TagId": 42000,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Total Props Destroyed",
+      "Total de utilería destruida",
+      "Total de objetos cenográficos destruídos",
+      "Total Props Destroyed",
+      "Total de atrezo destruido",
+      "Total d’accessoires détruits",
+      "Уничтоженные декорации",
+      "Zerstörte Requisiten insgesamt",
+      "Total de objetos cenográficos destruídos",
+      "Totale oggetti distrutti",
+      "총 파괴한 소품",
+      "道具摧毀總數",
+      "摧毁布景总数"
+    ],
+    "Media": "achievement_worldevent_dastardlyduos.jpg"
+  },
+  {
+    "TagId": 42001,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Total Runs Completed",
+      "Total de rondas completadas",
+      "Total de séries concluídas",
+      "Total Runs Completed",
+      "Total de encuentros completados",
+      "Total de matchs disputés",
+      "Завершенные битвы",
+      "Abgeschlossene Runden insgesamt",
+      "Total de séries concluídas",
+      "Totale sessioni completate",
+      "총 완료한 회차",
+      "通關總數",
+      "完成挑战总数"
+    ],
+    "Media": "achievement_worldevent_dastardlyduos.jpg"
+  },
+  {
+    "TagId": 42002,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Bullhorn of Plenty",
+      "Cuerno de abundancia",
+      "Berrante da abundância",
+      "Bullhorn of Plenty",
+      "Megáfono de abundancia",
+      "Cor d’abondance",
+      "Несмолкающий рупор",
+      "Megafon der Vielen",
+      "Berrante da abundância",
+      "Cornucopia",
+      "풍요의 황소 뿔",
+      "豐碩牛角",
+      "诱敌扩音器"
+    ],
+    "Media": "achievement_worldevent_dastardlyduos.jpg"
+  },
+  {
+    "TagId": 42003,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Bullhorn of More Plenty",
+      "Cuerno de más abundancia",
+      "Berrante da abundância plena",
+      "Bullhorn of More Plenty",
+      "Megáfono de más abundancia",
+      "Cor de plus d’abondance",
+      "Совсем несмолкающий рупор",
+      "Megafon der noch Vieleren",
+      "Berrante da abundância plena",
+      "Supercornucopia",
+      "큰 풍요의 황소 뿔",
+      "更豐碩的牛角",
+      "树敌扩音器"
+    ],
+    "Media": "achievement_worldevent_dastardlyduos.jpg"
+  },
+  {
+    "TagId": 42004,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Bullhorn of Most Plenty",
+      "Cuerno de muchísima abundancia",
+      "Berrante da abundância mais plena",
+      "Bullhorn of Most Plenty",
+      "Megáfono de la máxima abundancia",
+      "Cor d’abondance abondante",
+      "Да смолкнет ли он когда-нибудь?",
+      "Megafon der Vielsten",
+      "Berrante da abundância mais plena",
+      "Megacornucopia",
+      "풍성한 풍요의 황소 뿔",
+      "最豐碩的牛角",
+      "公敌扩音器"
+    ],
+    "Media": "achievement_worldevent_dastardlyduos.jpg"
+  },
+  {
     "TagId": 42116,
     "TagType": 20,
     "Names": [
       null,
       "Let Me Solo Him: The Underpin (copy)",
-      "Déjenmelo a mí: El Capo de Minahonda",
-      "Deixe-me enfrentá-lo a sós: o Infrachefe",
+      "Déjenmelo a mí: El Capo de Minahonda (copia)",
+      "Me deixa solar: o Infrachefe (cópia)",
       "Let Me Solo Him: The Underpin (copy)",
-      "Déjamelo a mí: Pez Hondo",
-      "Tête-à-tête\u00A0: le Père Foreur",
-      "Да я его в одиночку: Бур-босс",
-      "Ich kann das allein: Der Lorenboss",
-      "Deixe-me enfrentá-lo a sós: o Infrachefe",
-      "A lui ci penso io: il Capofondo",
-      "솔플 가능? 가능!: 대지주",
-      "讓我單挑他：幽坑霸主",
-      "前有单挑：幽坑太保"
+      "Déjamelo a mí: Pez Hondo (copia)",
+      "Tête-à-tête\u00A0: le Père Foreur (copie)",
+      "Да я его в одиночку: Бур-босс (копия)",
+      "Ich kann das allein: Der Lorenboss (Kopie)",
+      "Me deixa solar: o Infrachefe (cópia)",
+      "A lui ci penso io: il Capofondo (copia)",
+      "솔플 가능? 가능!: 대지주 (복제)",
+      "讓我單挑他：幽坑霸主(複本)",
+      "前有单挑：幽坑太保（副本）"
     ],
     "Media": "inv_airshipmountgold.jpg"
   }

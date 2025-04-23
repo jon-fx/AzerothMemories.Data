@@ -168,6 +168,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217016,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Orb",
+      "Invocar orbe",
+      "Evocar Orbe",
+      "Summon Orb",
+      "Invocar orbe",
+      "Invocation d’un orbe",
+      "Призыв сферы",
+      "Kugel beschwören",
+      "Evocar Orbe",
+      "Evocazione: Globo",
+      "보주 소환",
+      "召喚寶珠",
+      "召唤宝珠"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217017,
     "TagType": 26,
     "Names": [
@@ -2840,13 +2861,13 @@
       null,
       "Tear Gas",
       "Gas lacrimógeno",
-      "Gás Lacrimejante",
+      "Gás Lacrimogêneo",
       "Tear Gas",
       "Gas lacrimógeno",
       "Gaz lacrymogène",
       "Слезоточивый газ",
       "Tränengas",
-      "Gás Lacrimejante",
+      "Gás Lacrimogêneo",
       "Gas Lacrimogeno",
       "최루 가스",
       "催淚毒氣",
@@ -2861,13 +2882,13 @@
       null,
       "Tear Gas",
       "Gas lacrimógeno",
-      "Gás Lacrimejante",
+      "Gás Lacrimogêneo",
       "Tear Gas",
       "Gas lacrimógeno",
       "Gaz lacrymogène",
       "Слезоточивый газ",
       "Tränengas",
-      "Gás Lacrimejante",
+      "Gás Lacrimogêneo",
       "Gas Lacrimogeno",
       "최루 가스",
       "催淚毒氣",
@@ -4241,6 +4262,111 @@
     "Media": "icon_treasuremap.jpg"
   },
   {
+    "TagId": 1217421,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Worgen Spirit",
+      "Invocar espíritu de huargen",
+      "Evocar Espírito Worgen",
+      "Summon Worgen Spirit",
+      "Invocar espíritu de huargen",
+      "Invocation d’un esprit worgen",
+      "Призыв духа воргена",
+      "Worgengeist beschwören",
+      "Evocar Espírito Worgen",
+      "Evocazione: Spirito Worgen",
+      "늑대인간 영혼 소환",
+      "召喚狼人靈魂",
+      "召唤狼人灵魂"
+    ],
+    "Media": "ability_racial_viciousness.jpg"
+  },
+  {
+    "TagId": 1217422,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Evocar Espírito de Rethilgore",
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Invocation de l’esprit de Rethiltripe",
+      "Призыв духа Ретилгора",
+      "Geist von Rotkralle beschwören",
+      "Evocar Espírito de Rethilgore",
+      "Evocazione: Spirito di Sanguenero",
+      "레실고어의 영혼 소환",
+      "召喚瑞希高爾的靈魂",
+      "召唤雷希戈尔的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217423,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Invocation de l’esprit d’Odo l’Aveugle",
+      "Призыв духа Одо Слепого Стража",
+      "Geist von Odo dem Blindseher beschwören",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Evocazione: Spirito di Odo l'Osservatore Cieco",
+      "눈먼감시자 오도의 영혼 소환",
+      "召喚『盲視者』歐多的靈魂",
+      "召唤盲眼守卫奥杜的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217425,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Evocar Espírito de Rethilgore",
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Invocation de l’esprit de Rethiltripe",
+      "Призыв духа Ретилгора",
+      "Geist von Rotkralle beschwören",
+      "Evocar Espírito de Rethilgore",
+      "Evocazione: Spirito di Sanguenero",
+      "레실고어의 영혼 소환",
+      "召喚瑞希高爾的靈魂",
+      "召唤雷希戈尔的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217426,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Invocation de l’esprit d’Odo l’Aveugle",
+      "Призыв духа Одо Слепого Стража",
+      "Geist von Odo dem Blindseher beschwören",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Evocazione: Spirito di Odo l'Osservatore Cieco",
+      "눈먼감시자 오도의 영혼 소환",
+      "召喚『盲視者』歐多的靈魂",
+      "召唤盲眼守卫奥杜的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217427,
     "TagType": 26,
     "Names": [
@@ -4451,6 +4577,90 @@
     "Media": "achievement_guildperk_everybodysfriend.jpg"
   },
   {
+    "TagId": 1217440,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Evocar Espírito de Rethilgore",
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Invocation de l’esprit de Rethiltripe",
+      "Призыв духа Ретилгора",
+      "Geist von Rotkralle beschwören",
+      "Evocar Espírito de Rethilgore",
+      "Evocazione: Spirito di Sanguenero",
+      "레실고어의 영혼 소환",
+      "召喚瑞希高爾的靈魂",
+      "召唤雷希戈尔的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217442,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Invocation de l’esprit d’Odo l’Aveugle",
+      "Призыв духа Одо Слепого Стража",
+      "Geist von Odo dem Blindseher beschwören",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Evocazione: Spirito di Odo l'Osservatore Cieco",
+      "눈먼감시자 오도의 영혼 소환",
+      "召喚『盲視者』歐多的靈魂",
+      "召唤盲眼守卫奥杜的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217443,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Evocar Espírito de Rethilgore",
+      "Summon Spirit of Rethilgore",
+      "Invocar espíritu de Rethilgore",
+      "Invocation de l’esprit de Rethiltripe",
+      "Призыв духа Ретилгора",
+      "Geist von Rotkralle beschwören",
+      "Evocar Espírito de Rethilgore",
+      "Evocazione: Spirito di Sanguenero",
+      "레실고어의 영혼 소환",
+      "召喚瑞希高爾的靈魂",
+      "召唤雷希戈尔的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217444,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Summon Spirit of Odo the Blindwatcher",
+      "Invocar espíritu de Odo el Vigía Ciego",
+      "Invocation de l’esprit d’Odo l’Aveugle",
+      "Призыв духа Одо Слепого Стража",
+      "Geist von Odo dem Blindseher beschwören",
+      "Evocar Espírito de Odo, o Vigia Cego",
+      "Evocazione: Spirito di Odo l'Osservatore Cieco",
+      "눈먼감시자 오도의 영혼 소환",
+      "召喚『盲視者』歐多的靈魂",
+      "召唤盲眼守卫奥杜的灵魂"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217445,
     "TagType": 26,
     "Names": [
@@ -4596,6 +4806,27 @@
       "气泡"
     ],
     "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 1217455,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual",
+      "Golden Ghost Visual"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1217456,
@@ -5102,6 +5333,27 @@
     "Media": "ability_warstomp.jpg"
   },
   {
+    "TagId": 1217531,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation",
+      "[DNT] Summoned Orb Area Trigger Creation"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217533,
     "TagType": 26,
     "Names": [
@@ -5163,6 +5415,27 @@
       "重部署模块"
     ],
     "Media": "inv_10_blacksmithing_craftedoptional_engineering_uprez.jpg"
+  },
+  {
+    "TagId": 1217540,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller",
+      "[DNT] Summoned Orb Area Trigger Special Action Button Controller"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1217548,
@@ -5774,6 +6047,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217613,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dastardly Duos",
+      "Dúos indómitos",
+      "Duplas da Discórdia",
+      "Dastardly Duos",
+      "Dúos despiadados",
+      "Duos infâmes",
+      "Коварные Дуо",
+      "Durchtriebene Duos",
+      "Duplas da Discórdia",
+      "Compari Ignobili",
+      "수라 짝패",
+      "殘虐雙煞",
+      "卑鄙双雄"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217614,
     "TagType": 26,
     "Names": [
@@ -5982,6 +6276,27 @@
       "血肉盛宴"
     ],
     "Media": "ability_creature_poison_01_purple.jpg"
+  },
+  {
+    "TagId": 1217637,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Animatronic - Gear Grabbed",
+      "Repeatable Event - Dastardly Duos - Animatronic - Gear Grabbed",
+      "Evento Repetível - Duplas da Discórdia - Animatronic - Equipamento Pego",
+      "Repeatable Event - Dastardly Duos - Animatronic - Gear Grabbed",
+      "Evento repetible - Dúos despiadados - Animatrónico - Engranaje agarrado",
+      "Évènement répétable – Duos infâmes – Animatronique – Engrenage attrapé",
+      "Повторяющееся событие – Коварные Дуо – аниматроник – получение шестеренки",
+      "Wiederholbares Ereignis - Durchtriebene Duos - Animatronik - Zahnrad geschnappt",
+      "Evento Repetível - Duplas da Discórdia - Animatronic - Equipamento Pego",
+      "Evento Ripetibile - Compari Ignobili - Animatronico - Equipaggiamento Preso",
+      "반복 이벤트 - 수라 짝패 - 자동인형 - 톱니바퀴 붙잡기",
+      "可重複事件 - 殘虐雙煞 - 機械玩偶 - 取得齒輪",
+      "可重复事件 - 卑鄙双雄 - 仿生 - 拿取齿轮"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1217638,
@@ -6886,6 +7201,68 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217702,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger",
+      "Repeatable Event - Dastardly Duos - Score Placard - Area Trigger"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217705,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burst of Experience",
+      "Ráfaga de experiencia",
+      "Estouro de Experiência",
+      "Burst of Experience",
+      "Ráfaga de experiencia",
+      "Gain d’expérience",
+      "Всплеск опыта",
+      "Erfahrungsschub",
+      "Estouro de Experiência",
+      "Scarica d'Esperienza",
+      "넘치는 경험치",
+      "經驗爆發",
+      "经验爆发"
+    ]
+  },
+  {
+    "TagId": 1217706,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb",
+      "[DNT] Push Loot from Orb"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217707,
     "TagType": 26,
     "Names": [
@@ -6970,6 +7347,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217714,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle",
+      "[DNT] Worm Idle"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217716,
     "TagType": 26,
     "Names": [
@@ -6989,6 +7387,48 @@
       "[DNT] Transmitter Communication"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217717,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell",
+      "[DNT] Bio Worm Spawm Spell"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217718,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile",
+      "[DNT] Bio Worm Idle Missile"
+    ],
+    "Media": "spell_nature_acid_01.jpg"
   },
   {
     "TagId": 1217719,
@@ -7159,6 +7599,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217732,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hawk Bazooka",
+      "Bazuca halcón",
+      "Bazuca do Falcão",
+      "Hawk Bazooka",
+      "Bazuca de halcón",
+      "Fauconzooka",
+      "Ястребиная базука",
+      "Falkenbazooka",
+      "Bazuca do Falcão",
+      "Falco Bazooka",
+      "매 바주카",
+      "獵鷹火箭筒",
+      "飞鹰火箭筒"
+    ],
+    "Media": "spell_nature_acid_01.jpg"
+  },
+  {
     "TagId": 1217736,
     "TagType": 26,
     "Names": [
@@ -7197,6 +7658,27 @@
       "[DNT] Boss to Clip Beam Aura",
       "[DNT] Boss to Clip Beam Aura",
       "[DNT] Boss to Clip Beam Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217738,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX",
+      "[DNT] Cosmetic Arcane Lightning FX"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -7558,6 +8040,27 @@
     "Media": "inv_gallywixmechmount.jpg"
   },
   {
+    "TagId": 1217761,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow",
+      "[DNT] Arcane Glow"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217764,
     "TagType": 26,
     "Names": [
@@ -7789,6 +8292,27 @@
     "Media": "inv_summerfest_firespirit.jpg"
   },
   {
+    "TagId": 1217777,
+    "TagType": 26,
+    "Names": [
+      null,
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform",
+      "{DNT} Arcaneform"
+    ],
+    "Media": "spell_arcane_blink.jpg"
+  },
+  {
     "TagId": 1217778,
     "TagType": 26,
     "Names": [
@@ -7869,6 +8393,27 @@
       "수집 중",
       "收集",
       "收集"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217782,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova",
+      "[DNT] Cosmetic Death Nova"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -7982,16 +8527,16 @@
     "TagType": 26,
     "Names": [
       null,
-      "Grevious Injury",
+      "Grievous Injury",
       "Lesión severa",
       "Ferida Grave",
-      "Grevious Injury",
-      "Herida grave",
+      "Grievous Injury",
+      "Herida atroz",
       "Blessure mortelle",
       "Страшное ранение",
       "Schwere Verletzung",
       "Ferida Grave",
-      "Infortunio Grave",
+      "Ferita Grave",
       "심각한 부상",
       "嚴重受傷",
       "恶劣伤势"
@@ -8146,6 +8691,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217804,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Molten Slag",
+      "Invocar escoria fundida",
+      "Evocar Escória Derretida",
+      "Summon Molten Slag",
+      "Invocar escoria fundida",
+      "Invocation d’une scorie en fusion",
+      "Призыв горящего шлака",
+      "Geschmolzene Schlacke beschwören",
+      "Evocar Escória Derretida",
+      "Evocazione: Scorie Fuse",
+      "용암 바위 소환",
+      "召喚熔化的熔渣",
+      "召唤熔火炉渣"
+    ],
+    "Media": "spell_fire_elemental_totem.jpg"
+  },
+  {
+    "TagId": 1217805,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Molten Slag",
+      "Invocar escoria fundida",
+      "Evocar Escória Derretida",
+      "Summon Molten Slag",
+      "Invocar escoria fundida",
+      "Invocation d’une scorie en fusion",
+      "Призыв горящего шлака",
+      "Geschmolzene Schlacke beschwören",
+      "Evocar Escória Derretida",
+      "Evocazione: Scorie Fuse",
+      "용암 바위 소환",
+      "召喚熔化的熔渣",
+      "召唤熔火炉渣"
+    ],
+    "Media": "spell_fire_elemental_totem.jpg"
+  },
+  {
+    "TagId": 1217806,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Molten Slag",
+      "Invocar escoria fundida",
+      "Evocar Escória Derretida",
+      "Summon Molten Slag",
+      "Invocar escoria fundida",
+      "Invocation d’une scorie en fusion",
+      "Призыв горящего шлака",
+      "Geschmolzene Schlacke beschwören",
+      "Evocar Escória Derretida",
+      "Evocazione: Scorie Fuse",
+      "용암 바위 소환",
+      "召喚熔化的熔渣",
+      "召唤熔火炉渣"
+    ],
+    "Media": "spell_fire_elemental_totem.jpg"
+  },
+  {
     "TagId": 1217807,
     "TagType": 26,
     "Names": [
@@ -8188,6 +8796,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217811,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Shield",
+      "Escudo de arrabio",
+      "Escudo Derretido",
+      "Molten Shield",
+      "Escudo de arrabio",
+      "Bouclier de la fournaise",
+      "Раскаленный щит",
+      "Geschmolzener Schild",
+      "Escudo Derretido",
+      "Scudo Fuso",
+      "타오르는 보호막",
+      "熔火護盾",
+      "熔岩护盾"
+    ],
+    "Media": "ability_warrior_shieldbreak.jpg"
+  },
+  {
     "TagId": 1217812,
     "TagType": 26,
     "Names": [
@@ -8207,6 +8836,27 @@
       "纯净空气"
     ],
     "Media": "inv_10_jewelcrafting_bg_air.jpg"
+  },
+  {
+    "TagId": 1217813,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Molten Shield",
+      "Escudo de arrabio",
+      "Escudo Derretido",
+      "Molten Shield",
+      "Escudo de arrabio",
+      "Bouclier de la fournaise",
+      "Раскаленный щит",
+      "Geschmolzener Schild",
+      "Escudo Derretido",
+      "Scudo Fuso",
+      "타오르는 보호막",
+      "熔火護盾",
+      "熔岩护盾"
+    ],
+    "Media": "spell_fire_incinerate.jpg"
   },
   {
     "TagId": 1217814,
@@ -8881,6 +9531,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217857,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield Smash",
+      "Machaque con escudo",
+      "Esmagamento com Escudo",
+      "Shield Smash",
+      "Machaque con escudo",
+      "Frappe de bouclier",
+      "Сокрушение щитом",
+      "Schildschmettern",
+      "Esmagamento com Escudo",
+      "Schianto di Scudo",
+      "방패 강타",
+      "盾牌潰擊",
+      "盾牌重击"
+    ],
+    "Media": "inv_shield_05.jpg"
+  },
+  {
     "TagId": 1217858,
     "TagType": 26,
     "Names": [
@@ -9154,6 +9825,90 @@
     "Media": "inv_misc_paperpackage01a.jpg"
   },
   {
+    "TagId": 1217875,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
+    "TagId": 1217876,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
+    "TagId": 1217877,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
+    "TagId": 1217878,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirlwind",
+      "Torbellino",
+      "Redemoinho",
+      "Whirlwind",
+      "Torbellino",
+      "Tourbillon",
+      "Вихрь",
+      "Wirbelwind",
+      "Redemoinho",
+      "Turbine",
+      "소용돌이",
+      "旋風斬",
+      "旋风斩"
+    ],
+    "Media": "ability_whirlwind.jpg"
+  },
+  {
     "TagId": 1217879,
     "TagType": 26,
     "Names": [
@@ -9173,6 +9928,27 @@
       "转移位置"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217880,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Impending Victory",
+      "Victoria inminente",
+      "Vitória Iminente",
+      "Impending Victory",
+      "Victoria inminente",
+      "Victoire imminente",
+      "Верная победа",
+      "Bevorstehender Sieg",
+      "Vitória Iminente",
+      "Vittoria Imminente",
+      "예견된 승리",
+      "勝利在望",
+      "胜利在望"
+    ],
+    "Media": "spell_impending_victory.jpg"
   },
   {
     "TagId": 1217885,
@@ -9364,6 +10140,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1217907,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Restore",
+      "Restaurar",
+      "Recuperar",
+      "Restore",
+      "Restaurar",
+      "Restaurer",
+      "Восстановление",
+      "Wiederherstellen",
+      "Recuperar",
+      "Rigenerazione",
+      "회복",
+      "恢復",
+      "恢复"
+    ],
+    "Media": "spell_holy_flashheal.jpg"
+  },
+  {
+    "TagId": 1217908,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Powerup - Cheery Bomb onInteract",
+      "Repeatable Event - Dastardly Duos - Powerup - Cheery Bomb onInteract",
+      "Evento Repetível - Duplas da Discórdia - Poder - Bomba de Aplauso - Ao Interagir",
+      "Repeatable Event - Dastardly Duos - Powerup - Cheery Bomb onInteract",
+      "Evento repetible - Dúos despiadados - Potenciador - Bomba de ánimos al interactuar",
+      "Évènement répétable – Duos infâmes – Bonus – Bombe d’applaudissements Interaction",
+      "Повторяющееся событие – Коварные Дуо – усиление – взаимодействие с бомбой поддержки",
+      "Wiederholbares Ereignis - Durchtriebene Duos - Stärkung - Jubelbombe bei Interaktion",
+      "Evento Repetível - Duplas da Discórdia - Poder - Bomba de Aplauso - Ao Interagir",
+      "Evento Ripetibile - Compari Ignobili - Potenziamento - Bomballegra - Interazione",
+      "반복 이벤트 - 수라 짝패 - 강화 - 환호 폭탄 상호작용 시",
+      "可重複事件 - 殘虐雙煞 - 強化 - 歡呼炸彈(互動)",
+      "可重复事件 - 卑鄙双雄 - 强化物品 - 欢呼炸弹互动时"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217910,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel",
+      "[NOT USED] Open Mysterious Satchel"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217911,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Open Mysterious Satchel",
+      "Abrir cartera misteriosa",
+      "Abrir Algibeira Misteriosa",
+      "Open Mysterious Satchel",
+      "Abrir bolsa misteriosa",
+      "Ouvrir la sacoche mystérieuse",
+      "Открытие таинственной сумки",
+      "Geheimnisvollen Ranzen öffnen",
+      "Abrir Algibeira Misteriosa",
+      "Apertura Sacchetto Misterioso",
+      "수수께끼의 주머니 열기",
+      "開啟神秘背袋",
+      "打开神秘背包"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217912,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell",
+      "[DNT] Ground Flyer Spawn Spell"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1217913,
     "TagType": 26,
     "Names": [
@@ -9383,6 +10264,27 @@
       "黑暗灼烧"
     ],
     "Media": "ability_mage_fierypayback.jpg"
+  },
+  {
+    "TagId": 1217914,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell",
+      "[DNT] Flyer Spawn Spell"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1217915,
@@ -9528,6 +10430,27 @@
       "거대한 거미줄",
       "大片蛛網",
       "大型蛛网"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1217924,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Score Stats",
+      "Estadísticas de puntaje",
+      "Estatísticas de Pontuação",
+      "Score Stats",
+      "Estadísticas de puntuación",
+      "Statistiques sur les scores",
+      "Статистика счета",
+      "Punktwerte",
+      "Estatísticas de Pontuação",
+      "Punteggio Statistiche",
+      "점수 통계",
+      "分數屬性",
+      "得分属性"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10108,7 +11031,7 @@
       "Raiva da Estrada!",
       "Road Rage!",
       "¡Furia de carretera!",
-      "Rage motorisée",
+      "Rage motorisée\u00A0!",
       "Ярость на дороге!",
       "Raserei!",
       "Raiva da Estrada!",

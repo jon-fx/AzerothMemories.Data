@@ -11229,7 +11229,7 @@
       "%s, o Abundante",
       "%s the Bountiful",
       "%s el Pródigo",
-      "%s, le magnanime",
+      "%s, l’abondance",
       "Богач %s",
       "%s, der Großzügige",
       "%s, o Abundante",
@@ -11328,7 +11328,7 @@
       "Cohetenauta %s",
       "Fogueteiro %s",
       "Skyrocketer %s",
-      "Cohetero %s",
+      "Fulminante %s",
       "Fusée céleste %s",
       "Турбогонщик %s",
       "Raketenreiter %s",
@@ -11846,13 +11846,13 @@
       null,
       "Darkfuse Diplomat %s",
       "Diplomático mechaoscura %s",
-      "%s, Diplomata Sombrafuso",
+      "%s, Diplomata de Sombrafuso",
       "Darkfuse Diplomat %s",
       "Diplomático Fundisombras %s",
       "Diplomate imprégné de ténèbres %s",
       "Переговорщик Мрачных Минеров %s",
       "Diplomat der Düsternisverschmolzenen %s",
-      "%s, Diplomata Sombrafuso",
+      "%s, Diplomata de Sombrafuso",
       "Diplomatico dei Micciascura %s",
       "다크퓨즈 외교관 %s",
       "暗融外交官%s",
@@ -12057,6 +12057,226 @@
       "굴림판의 왕 %s",
       "收線能手%s",
       "%s, 转轮高手"
+    ]
+  },
+  {
+    "TagId": 896,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Recruit %s",
+      "Recluta %s",
+      "Recruta %s",
+      "Recruit %s",
+      "Recluta %s",
+      "Recrue %s",
+      "Новобранец %s",
+      "Rekrut %s",
+      "Recruta %s",
+      "Recluta %s",
+      "신병 %s",
+      "新兵%s",
+      "新兵 %s"
+    ]
+  },
+  {
+    "TagId": 897,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Reservist %s",
+      "Reservista %s",
+      "Reservista %s",
+      "Reservist %s",
+      "Reservista %s",
+      "Réserviste %s",
+      "Резервист %s",
+      "Reservist %s",
+      "Reservista %s",
+      "Riservista %s",
+      "예비군 %s",
+      "後備軍%s",
+      "预备兵 %s"
+    ]
+  },
+  {
+    "TagId": 898,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Field Sacredite %s",
+      "Sacredito de campo %s",
+      "Sacradita de Campo %s",
+      "Field Sacredite %s",
+      "Sacrodita de Campo %s",
+      "Sacrédit de terrain %s",
+      "Полевой сакралит %s",
+      "Feldsakradit %s",
+      "Sacradita de Campo %s",
+      "Sacredita da Campo %s",
+      "야전 성령자 %s",
+      "野戰聖焰師%s",
+      "战地圣典学者 %s"
+    ]
+  },
+  {
+    "TagId": 899,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Sentry %s",
+      "Centinela %s",
+      "Sentinela %s",
+      "Sentry %s",
+      "Centinela %s",
+      "Sentinelle %s",
+      "Часовой %s",
+      "Wachposten %s",
+      "Sentinela %s",
+      "Sentinella %s",
+      "파수병 %s",
+      "哨衛%s",
+      "哨兵 %s"
+    ]
+  },
+  {
+    "TagId": 900,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Stalwart %s",
+      "Adepto %s",
+      "Impávido %s",
+      "Stalwart %s",
+      "Incondicional %s",
+      "Fidèle %s",
+      "Стойкий защитник %s",
+      "Unerschütterlicher %s",
+      "Impávido %s",
+      "Animoso %s",
+      "충성대원 %s",
+      "堅兵%s",
+      "坚兵 %s"
+    ]
+  },
+  {
+    "TagId": 901,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Ardent %s",
+      "Ardiente %s",
+      "Ardente %s",
+      "Ardent %s",
+      "%s el Ferviente",
+      "Ardent %s",
+      "Ревнитель %s",
+      "Unermüdlicher %s",
+      "Ardente %s",
+      "Fervente %s",
+      "헌신자 %s",
+      "虔誠者%s",
+      "焰牧 %s"
+    ]
+  },
+  {
+    "TagId": 902,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Aeroknight %s",
+      "Caballero aéreo %s",
+      "Cavaleiro Aéreo %s",
+      "Aeroknight %s",
+      "Aerocaballero %s",
+      "Aérochevalier %s",
+      "Воздушный рыцарь %s",
+      "Luftritter %s",
+      "Cavaleiro Aéreo %s",
+      "Aerocavaliere %s",
+      "하늘기사 %s",
+      "空騎士%s",
+      "流空骑士 %s"
+    ]
+  },
+  {
+    "TagId": 903,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Flame Guard %s",
+      "Guardia de las llamas %s",
+      "Guarda das Chamas %s",
+      "Flame Guard %s",
+      "Guardia de las Llamas %s",
+      "Garde des flammes %s",
+      "Пламенный страж %s",
+      "Flammenwache %s",
+      "Guarda das Chamas %s",
+      "Guardia della Fiamma %s",
+      "불꽃수호병 %s",
+      "聖焰守衛%s",
+      "圣焰守卫 %s"
+    ]
+  },
+  {
+    "TagId": 904,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Radiant Officer %s",
+      "Oficial refulgente %s",
+      "Oficial Resplendoroso %s",
+      "Radiant Officer %s",
+      "Oficial Radiante %s",
+      "Officier radieux %s",
+      "Сияющий офицер %s",
+      "Strahlenoffizier %s",
+      "Oficial Resplendoroso %s",
+      "Ufficiale Radioso %s",
+      "광휘의 장교 %s",
+      "聖輝軍官%s",
+      "光耀军官 %s"
+    ]
+  },
+  {
+    "TagId": 905,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Sacred Templar %s",
+      "Templario sagrado %s",
+      "Templário Sagrado %s",
+      "Sacred Templar %s",
+      "Templario Sagrado %s",
+      "Templier sacré %s",
+      "Священный храмовник %s",
+      "Heiliger Templer %s",
+      "Templário Sagrado %s",
+      "Templare Sacro %s",
+      "신성한 기사단원 %s",
+      "神聖聖殿騎士%s",
+      "崇敬圣殿骑士 %s"
+    ]
+  },
+  {
+    "TagId": 908,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Mad",
+      "%s, el Loco",
+      "%s, o Louco",
+      "%s the Mad",
+      "%s el Loco",
+      "%s le Fou",
+      "%s Безумный",
+      "%s der Wahnsinnige",
+      "%s, o Louco",
+      "%s il Folle",
+      "광인 %s",
+      "狂人%s",
+      "狂人 %s"
     ]
   }
 ]

@@ -1121,7 +1121,7 @@
       "Acampamento do Bando de Guerra - Santuário do Ocaso",
       "Warband Campsite - Nightfall Sanctum",
       "Campamento de la banda guerrera - Sagrario del Ocaso",
-      "Campement de bataillon\u00A0: sanctuaire Crépusculaire",
+      "Campement de bataillon\u00A0: sanctuaire Noctechute",
       "Место для лагеря отряда – Святыня Сумерек",
       "Kriegsmeutenlagerplatz - Nachtsturzsanktum",
       "Acampamento do Bando de Guerra - Santuário do Ocaso",
@@ -4619,6 +4619,27 @@
     "Media": "inv_leatherworking_90_hidescrap.jpg"
   },
   {
+    "TagId": 467396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell",
+      "[DNT] Battlefield Creature LOD Cover Spell"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 467397,
     "TagType": 26,
     "Names": [
@@ -4743,6 +4764,48 @@
       "爆焰手雷"
     ],
     "Media": "creatureportrait_g_bomb_02.jpg"
+  },
+  {
+    "TagId": 467416,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead",
+      "[DNT] Enforce LOD 1 - Allow Dead"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 467417,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead",
+      "[DNT] Enforce LOD 2 - Allow Dead"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 467418,
@@ -5018,6 +5081,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 467440,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura",
+      "[DNT] Scenario Completed Aura"
+    ],
+    "Media": "inv_ability_lightsmithpaladin_sacredweapon.jpg"
+  },
+  {
     "TagId": 467441,
     "TagType": 26,
     "Names": [
@@ -5121,6 +5205,27 @@
       "焦化"
     ],
     "Media": "warlock_charredremains.jpg"
+  },
+  {
+    "TagId": 467456,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score",
+      "[DNT] Scenario - Show Player Score"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 467458,
@@ -5233,7 +5338,7 @@
     "Names": [
       null,
       "Mister Lock-N-Stalk",
-      "Señor Persecutor",
+      "Señor Acechamil",
       "Dr. Mirabela",
       "Mister Lock-N-Stalk",
       "Don Carga y Acecha",
@@ -5506,7 +5611,7 @@
     "Names": [
       null,
       "Mister Lock-N-Stalk",
-      "Señor Persecutor",
+      "Señor Acechamil",
       "Dr. Mirabela",
       "Mister Lock-N-Stalk",
       "Don Carga y Acecha",
@@ -7875,6 +7980,48 @@
     "Media": "inv_dwarvenmechboss_bronze.jpg"
   },
   {
+    "TagId": 467709,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Diggy Doink",
+      "Palazo",
+      "Lapada Doída",
+      "Diggy Doink",
+      "Pum cavador",
+      "Creusage farceur",
+      "Хлобысь",
+      "Graberumms",
+      "Lapada Doída",
+      "Affondo a Fondo",
+      "딱콩",
+      "東挖西挖",
+      "毒辣敲打"
+    ],
+    "Media": "inv_misc_2h_kobold_shovel_a_01.jpg"
+  },
+  {
+    "TagId": 467717,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Righteous Strike",
+      "Golpe justiciero",
+      "Golpe Íntegro",
+      "Righteous Strike",
+      "Golpe de rectitud",
+      "Frappe vertueuse",
+      "Праведный удар",
+      "Rechtschaffener Stoß",
+      "Golpe Íntegro",
+      "Assalto Virtuoso",
+      "정의로운 일격",
+      "公正打擊",
+      "正义打击"
+    ],
+    "Media": "spell_holy_holysmite.jpg"
+  },
+  {
     "TagId": 467718,
     "TagType": 26,
     "Names": [
@@ -8148,6 +8295,27 @@
     "Media": "inv_quiver_1h_mawraid_d_01.jpg"
   },
   {
+    "TagId": 467750,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Canonized",
+      "Canonizado",
+      "Canonizado",
+      "Canonized",
+      "Canonizado",
+      "Canonisation",
+      "Канонизация",
+      "Kanonisiert",
+      "Canonizado",
+      "Canonizzato",
+      "시성",
+      "封聖",
+      "封圣"
+    ],
+    "Media": "inv_10_engineering2_pvpflaregun_color1.jpg"
+  },
+  {
     "TagId": 467755,
     "TagType": 26,
     "Names": [
@@ -8232,6 +8400,27 @@
     "Media": "ability_racial_molemachine.jpg"
   },
   {
+    "TagId": 467759,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Canonized",
+      "Canonizado",
+      "Canonizado",
+      "Canonized",
+      "Canonizado",
+      "Canonisation",
+      "Канонизация",
+      "Kanonisiert",
+      "Canonizado",
+      "Canonizzato",
+      "시성",
+      "封聖",
+      "封圣"
+    ],
+    "Media": "inv_10_engineering2_pvpflaregun_color1.jpg"
+  },
+  {
     "TagId": 467760,
     "TagType": 26,
     "Names": [
@@ -8251,6 +8440,27 @@
       "[DNT] Debug - Spawn TRAP (Zero Power)"
     ],
     "Media": "inv_10_engineering_device_gadget1_color2.jpg"
+  },
+  {
+    "TagId": 467761,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Canonized",
+      "Canonizado",
+      "Canonizado",
+      "Canonized",
+      "Canonizado",
+      "Canonisation",
+      "Канонизация",
+      "Kanonisiert",
+      "Canonizado",
+      "Canonizzato",
+      "시성",
+      "封聖",
+      "封圣"
+    ],
+    "Media": "inv_10_engineering2_pvpflaregun_color1.jpg"
   },
   {
     "TagId": 467767,
@@ -8337,6 +8547,27 @@
     "Media": "inv_10_engineering_device_gadget1_color3.jpg"
   },
   {
+    "TagId": 467771,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Virtuous Vigor",
+      "Vigor virtuoso",
+      "Vigor Virtuoso",
+      "Virtuous Vigor",
+      "Vigor virtuoso",
+      "Vigueur vertueuse",
+      "Доблестная бодрость",
+      "Tugendhafte Tatkraft",
+      "Vigor Virtuoso",
+      "Vigore Virtuoso",
+      "고결한 활력",
+      "善潔活力",
+      "坚贞活力"
+    ],
+    "Media": "spell_holy_devineaegis.jpg"
+  },
+  {
     "TagId": 467772,
     "TagType": 26,
     "Names": [
@@ -8356,6 +8587,27 @@
       "新地下堡伙伴"
     ],
     "Media": "achievement_dungeon_coinoperatedcrowdpummeler.jpg"
+  },
+  {
+    "TagId": 467773,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pious Pursuit",
+      "Persecución devota",
+      "Perseguição Devotada",
+      "Pious Pursuit",
+      "Persecución piadosa",
+      "Traque pieuse",
+      "Благочестивая погоня",
+      "Fromme Verfolgung",
+      "Perseguição Devotada",
+      "Inseguimento Devoto",
+      "경건한 추적",
+      "虔敬追擊",
+      "虔诚追击"
+    ],
+    "Media": "spell_holy_divinepurpose.jpg"
   },
   {
     "TagId": 467774,
@@ -8440,6 +8692,48 @@
       "雷电导管"
     ],
     "Media": "spell_shaman_staticshock.jpg"
+  },
+  {
+    "TagId": 467779,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pious Pursuit",
+      "Persecución devota",
+      "Perseguição Devotada",
+      "Pious Pursuit",
+      "Persecución piadosa",
+      "Traque pieuse",
+      "Благочестивая погоня",
+      "Fromme Verfolgung",
+      "Perseguição Devotada",
+      "Inseguimento Devoto",
+      "경건한 추적",
+      "虔敬追擊",
+      "虔诚追击"
+    ],
+    "Media": "spell_holy_divinepurpose.jpg"
+  },
+  {
+    "TagId": 467780,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pious Pursuit",
+      "Persecución devota",
+      "Perseguição Devotada",
+      "Pious Pursuit",
+      "Persecución piadosa",
+      "Traque pieuse",
+      "Благочестивая погоня",
+      "Fromme Verfolgung",
+      "Perseguição Devotada",
+      "Inseguimento Devoto",
+      "경건한 추적",
+      "虔敬追擊",
+      "虔诚追击"
+    ],
+    "Media": "spell_holy_divinepurpose.jpg"
   },
   {
     "TagId": 467781,
@@ -9387,6 +9681,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 467890,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Penitent Charge",
+      "Arremetida penitente",
+      "Investida Penitente",
+      "Penitent Charge",
+      "Carga penitente",
+      "Charge pénitente",
+      "Покаянный рывок",
+      "Büßender Ansturm",
+      "Investida Penitente",
+      "Carica Penitente",
+      "참회자의 돌진",
+      "懺悔衝鋒",
+      "悔悟冲锋"
+    ],
+    "Media": "inv_ability_warrior_championsspear.jpg"
+  },
+  {
     "TagId": 467892,
     "TagType": 26,
     "Names": [
@@ -9765,6 +10080,27 @@
     "Media": "inv_misc_powder_tin.jpg"
   },
   {
+    "TagId": 467915,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Penitent Charge",
+      "Arremetida penitente",
+      "Investida Penitente",
+      "Penitent Charge",
+      "Carga penitente",
+      "Charge pénitente",
+      "Покаянный рывок",
+      "Büßender Ansturm",
+      "Investida Penitente",
+      "Carica Penitente",
+      "참회자의 돌진",
+      "懺悔衝鋒",
+      "悔悟冲锋"
+    ],
+    "Media": "inv_ability_warrior_championsspear.jpg"
+  },
+  {
     "TagId": 467918,
     "TagType": 26,
     "Names": [
@@ -9826,6 +10162,27 @@
       "改装车宝箱"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 467921,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rekindled Duty",
+      "Deber reavivado",
+      "Dever Reavivado",
+      "Rekindled Duty",
+      "Deber reavivado",
+      "Devoir ravivé",
+      "Пламенное служение",
+      "Wieder entfachte Pflicht",
+      "Dever Reavivado",
+      "Dovere Ravvivato",
+      "다시 타오르는 의무감",
+      "復燃之責",
+      "复燃之责"
+    ],
+    "Media": "spell_holy_blindingheal.jpg"
   },
   {
     "TagId": 467922,
@@ -9996,6 +10353,48 @@
     "Media": "inv_elemental_primal_water.jpg"
   },
   {
+    "TagId": 467932,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rekindled Duty",
+      "Deber reavivado",
+      "Dever Reavivado",
+      "Rekindled Duty",
+      "Deber reavivado",
+      "Devoir ravivé",
+      "Пламенное служение",
+      "Wieder entfachte Pflicht",
+      "Dever Reavivado",
+      "Dovere Ravvivato",
+      "다시 타오르는 의무감",
+      "復燃之責",
+      "复燃之责"
+    ],
+    "Media": "spell_holy_blindingheal.jpg"
+  },
+  {
+    "TagId": 467933,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rekindled Duty",
+      "Deber reavivado",
+      "Dever Reavivado",
+      "Rekindled Duty",
+      "Deber reavivado",
+      "Devoir ravivé",
+      "Пламенное служение",
+      "Wieder entfachte Pflicht",
+      "Dever Reavivado",
+      "Dovere Ravvivato",
+      "다시 타오르는 의무감",
+      "復燃之責",
+      "复燃之责"
+    ],
+    "Media": "spell_holy_blindingheal.jpg"
+  },
+  {
     "TagId": 467934,
     "TagType": 26,
     "Names": [
@@ -10015,6 +10414,27 @@
       "超大捆劣性炸药"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 467935,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Purifying Storm",
+      "Tormenta purificadora",
+      "Tempestade Purificante",
+      "Purifying Storm",
+      "Tormenta purificadora",
+      "Tempête purificatrice",
+      "Очищающая буря",
+      "Läuternder Sturm",
+      "Tempestade Purificante",
+      "Tempesta Purificante",
+      "정화하는 폭풍",
+      "淨化風暴",
+      "净涤风暴"
+    ],
+    "Media": "spell_shaman_stormearthfire.jpg"
   },
   {
     "TagId": 467936,

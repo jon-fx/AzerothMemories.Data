@@ -1,5 +1,26 @@
 [
   {
+    "TagId": 1219001,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile",
+      "[DNT] Pick Up Missile"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1219004,
     "TagType": 26,
     "Names": [
@@ -166,6 +187,48 @@
       "残存电伏"
     ],
     "Media": "spell_shaman_crashlightning.jpg"
+  },
+  {
+    "TagId": 1219026,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Destroying",
+      "Destruyendo",
+      "Destruindo",
+      "Destroying",
+      "Destruyendo",
+      "Destruction",
+      "Уничтожение",
+      "Zerstören",
+      "Destruindo",
+      "Distruzione",
+      "파괴",
+      "摧毀",
+      "摧毁"
+    ],
+    "Media": "spell_sandexplosion.jpg"
+  },
+  {
+    "TagId": 1219030,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Open Mysterious Satchel",
+      "Abrir cartera misteriosa",
+      "Abrir Algibeira Misteriosa",
+      "Open Mysterious Satchel",
+      "Abrir bolsa misteriosa",
+      "Ouvrir la sacoche mystérieuse",
+      "Открытие таинственной сумки",
+      "Geheimnisvollen Ranzen öffnen",
+      "Abrir Algibeira Misteriosa",
+      "Apertura Sacchetto Misterioso",
+      "수수께끼의 주머니 열기",
+      "開啟神秘背袋",
+      "打开神秘背包"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1219034,
@@ -764,7 +827,7 @@
       "Medicóptero mechaoscura",
       "Curacóptero dos Sombrafuso",
       "Darkfuse Medichopper",
-      "Cortador sanitario de Fundisombras",
+      "Helicóptero sanitario de Fundisombras",
       "Médicoptère imprégné de ténèbres",
       "Медвертушка Мрачных Минеров",
       "Sanikopter der Düsternisverschmolzenen",
@@ -1575,6 +1638,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1219186,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit",
+      "[DNT] Ping Unit"
+    ],
+    "Media": "inv_glove_armor_princessgloves_a_01.jpg"
+  },
+  {
     "TagId": 1219190,
     "TagType": 26,
     "Names": [
@@ -1678,6 +1762,27 @@
       "狂战士咆哮"
     ],
     "Media": "warrior_disruptingshout.jpg"
+  },
+  {
+    "TagId": 1219211,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unlocking",
+      "Abriendo",
+      "Destrancando",
+      "Unlocking",
+      "Abriendo",
+      "Déverrouillage",
+      "Отпирание",
+      "Entsperren",
+      "Destrancando",
+      "Apertura",
+      "열기",
+      "開鎖",
+      "解锁"
+    ],
+    "Media": "inv_glove_armor_princessgloves_a_01.jpg"
   },
   {
     "TagId": 1219220,
@@ -2016,6 +2121,27 @@
     "Media": "achievement_guildperk_cashflow_rank2.jpg"
   },
   {
+    "TagId": 1219265,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scourge of the Aspects",
+      "Azote de los Aspectos",
+      "Flagelo dos Aspectos",
+      "Scourge of the Aspects",
+      "Azote de los Aspectos",
+      "Fléau des Aspects",
+      "Бич Аспектов",
+      "Geißel der Aspekte",
+      "Flagelo dos Aspectos",
+      "Flagello degli Aspetti",
+      "위상의 재앙",
+      "守護巨龍之災",
+      "守护巨龙之祸"
+    ],
+    "Media": "inv_pet_chromaticdragon.jpg"
+  },
+  {
     "TagId": 1219268,
     "TagType": 26,
     "Names": [
@@ -2147,7 +2273,7 @@
     "Names": [
       null,
       "Gallybux Pest Eliminator",
-      "Eliminador de plagas gallyfichas",
+      "Eliminador de plagas de gallyfichas",
       "Exterminador de Pragas de Gallygrana",
       "Gallybux Pest Eliminator",
       "Exterminador de plagas Gallybusto",
@@ -2168,7 +2294,7 @@
     "Names": [
       null,
       "Gallybux Pest Eliminator",
-      "Eliminador de plagas Gallybux",
+      "Eliminador de plagas de gallyfichas",
       "Exterminador de Pragas de Gallygrana",
       "Gallybux Pest Eliminator",
       "Exterminador de plagas Gallybusto",
@@ -2189,7 +2315,7 @@
     "Names": [
       null,
       "Gallybux Pest Eliminator",
-      "Eliminador de plagas Gallybux",
+      "Eliminador de plagas de gallyfichas",
       "Exterminador de Pragas de Gallygrana",
       "Gallybux Pest Eliminator",
       "Exterminador de plagas Gallybusto",
@@ -2210,7 +2336,7 @@
     "Names": [
       null,
       "Gallybux Pest Eliminator",
-      "Eliminador de plagas Gallybux",
+      "Eliminador de plagas de gallyfichas",
       "Exterminador de Pragas de Gallygrana",
       "Gallybux Pest Eliminator",
       "Exterminador de plagas Gallybusto",
@@ -2709,12 +2835,33 @@
     "Media": "ability_shaman_ancestralguidance.jpg"
   },
   {
+    "TagId": 1219326,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy",
+      "Dummy"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1219331,
     "TagType": 26,
     "Names": [
       null,
       "Gallybux Finale Blast",
-      "Estallido de Gallybux Final",
+      "Final explosivo de gallyfichas",
       "Disparo Final de Gallygrana",
       "Gallybux Finale Blast",
       "Explosión final de Gallybusto",
@@ -2756,7 +2903,7 @@
     "Names": [
       null,
       "Gallybux Finale Blast",
-      "Estallido de Gallybux Final",
+      "Final explosivo de gallyfichas",
       "Disparo Final de Gallygrana",
       "Gallybux Finale Blast",
       "Explosión final de Gallybusto",
@@ -3738,6 +3885,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1219464,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Zeppelin Sign",
+      "Repeatable Event - Dastardly Duos - Zeppelin Sign",
+      "Evento Repetível - Duplas da Discórdia - Placa do Zepelim",
+      "Repeatable Event - Dastardly Duos - Zeppelin Sign",
+      "Evento repetible - Dúos despiadados - Cartel de zepelín",
+      "Évènement répétable – Duos infâmes – Pancarte de zeppelin",
+      "Повторяющееся событие – Коварные Дуо – знак дирижабля",
+      "Wiederholbares Ereignis - Durchtriebene Duos - Zeppelinschild",
+      "Evento Repetível - Duplas da Discórdia - Placa do Zepelim",
+      "Evento Ripetibile - Compari Ignobili - Insegna dello Zeppelin",
+      "반복 이벤트 - 수라 짝패- 비행선 간판",
+      "可重複事件 - 殘虐雙煞 - 飛艇標誌",
+      "可重复事件 - 卑鄙双雄 - 飞艇信号"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1219467,
     "TagType": 26,
     "Names": [
@@ -4080,13 +4248,13 @@
       null,
       "Darkfuse Rider",
       "Jinete mechaoscura",
-      "Cavalgante Sombrafuso",
+      "Cavalgante de Sombrafuso",
       "Darkfuse Rider",
       "Jinete de Fundisombras",
       "Chevaucheuse imprégnée de ténèbres",
       "Ездок из картеля Мрачных Минеров",
       "Reiter der Düsternisverschmolzenen",
-      "Cavalgante Sombrafuso",
+      "Cavalgante de Sombrafuso",
       "Cavaliera dei Micciascura",
       "다크퓨즈 기수",
       "暗融騎兵",
@@ -4101,13 +4269,13 @@
       null,
       "Darkfuse Rider",
       "Jinete mechaoscura",
-      "Cavalgante Sombrafuso",
+      "Cavalgante de Sombrafuso",
       "Darkfuse Rider",
       "Jinete de Fundisombras",
       "Chevaucheur imprégné de ténèbres",
       "Ездок из картеля Мрачных Минеров",
       "Reiter der Düsternisverschmolzenen",
-      "Cavalgante Sombrafuso",
+      "Cavalgante de Sombrafuso",
       "Cavaliera dei Micciascura",
       "다크퓨즈 기수",
       "暗融騎兵",
@@ -4242,6 +4410,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1219530,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura",
+      "[DNT]Chromatic Dragon Sleep Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1219534,
     "TagType": 26,
     "Names": [
@@ -4364,6 +4553,27 @@
       "전하 충전",
       "靜電能量",
       "静电充能"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1219556,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny",
+      "Repeatable Event - Dastardly Duos - Spotlight - Bunny"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4762,6 +4972,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1219626,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frumpy Softpaw",
+      "Patasuave cinéreo",
+      "Farrapão Patafofa",
+      "Frumpy Softpaw",
+      "Patasuave desaliñado",
+      "Doucepatte grincheux",
+      "Лохматый мягколап",
+      "Altmodische Weichtatze",
+      "Farrapão Patafofa",
+      "Frumpy Zampamolle",
+      "지저분한 폭신발바닥",
+      "邋遢軟掌小熊貓",
+      "柔爪小呆熊"
+    ],
+    "Media": "inv_redpandapet_gray.jpg"
+  },
+  {
     "TagId": 1219627,
     "TagType": 26,
     "Names": [
@@ -4909,6 +5140,48 @@
     "Media": "spell_priest_void flay.jpg"
   },
   {
+    "TagId": 1219640,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Web Bomb",
+      "Bomba de telaraña",
+      "Bomba de Teia",
+      "Web Bomb",
+      "Bomba de telaraña",
+      "Bombe de toile",
+      "Паутинная бомба",
+      "Netzbombe",
+      "Bomba de Teia",
+      "Bomba Ragnatela",
+      "거미줄 폭탄",
+      "織網炸彈",
+      "缠网炸弹"
+    ],
+    "Media": "inv_ability_web_nova.jpg"
+  },
+  {
+    "TagId": 1219647,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dummy",
+      "Muñeco",
+      "Boneco",
+      "Dummy",
+      "Muñeco",
+      "Mannequin",
+      "Манекен",
+      "Attrappe",
+      "Boneco",
+      "Manichino",
+      "허수아비",
+      "假人",
+      "假人"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1219648,
     "TagType": 26,
     "Names": [
@@ -4928,6 +5201,27 @@
       "追溯信号"
     ],
     "Media": "inv_misc_scopea.jpg"
+  },
+  {
+    "TagId": 1219650,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dummy",
+      "Muñeco",
+      "Boneco",
+      "Dummy",
+      "Muñeco",
+      "Mannequin",
+      "Манекен",
+      "Attrappe",
+      "Boneco",
+      "Manichino",
+      "허수아비",
+      "假人",
+      "假人"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1219651,
@@ -5075,6 +5369,27 @@
       "“防震击”苏打水"
     ],
     "Media": "inv_alchemy_80_potion01blue.jpg"
+  },
+  {
+    "TagId": 1219666,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Port to Camp",
+      "Teletransportar a campamento",
+      "Teleporte para Acampamento",
+      "Port to Camp",
+      "Teletransporte a campamento",
+      "Téléportation au camp",
+      "Телепорт в лагерь",
+      "Zum Lager teleportieren",
+      "Teleporte para Acampamento",
+      "Teletrasporto: Accampamento",
+      "야영지로 순간이동",
+      "營地傳送門",
+      "传送到营地"
+    ],
+    "Media": "inv_gizmo_rocketbootextreme.jpg"
   },
   {
     "TagId": 1219669,
@@ -5350,6 +5665,27 @@
     "Media": "inv_elemental_mote_water01.jpg"
   },
   {
+    "TagId": 1219702,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)",
+      "Port to Camp (visual on porter)"
+    ],
+    "Media": "inv_gizmo_rocketbootextreme.jpg"
+  },
+  {
     "TagId": 1219703,
     "TagType": 26,
     "Names": [
@@ -5369,6 +5705,48 @@
       "Spray Water [DNT]"
     ],
     "Media": "spell_frost_summonwaterelemental.jpg"
+  },
+  {
+    "TagId": 1219705,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spotted Black Riding Goat",
+      "Cabra de montar negra moteada",
+      "Bode de Montaria Negro Mosqueado",
+      "Spotted Black Riding Goat",
+      "Cabra de montar negra moteada",
+      "Chèvre de monte noire tachetée",
+      "Пятнистый черный ездовой козел",
+      "Gefleckte schwarze Reitziege",
+      "Bode de Montaria Negro Mosqueado",
+      "Caprone Cavalcabile Nero Maculato",
+      "길들인 검은색 점박이 염소",
+      "斑點黑色騎乘山羊",
+      "斑点黑色骑乘山羊"
+    ],
+    "Media": "ability_mount_goatmountblack.jpg"
+  },
+  {
+    "TagId": 1219714,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)",
+      "Repeatable Event - Dastardly Duos - Port to Camp (prompt)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1219716,
@@ -5493,6 +5871,27 @@
       "휙",
       "碰",
       "噗"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1219737,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual"
     ],
     "Media": "trade_engineering.jpg"
   },

@@ -567,6 +567,27 @@
     "Media": "inv_10_engineering2_boxofbombs_friendly_color1.jpg"
   },
   {
+    "TagId": 235052,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Weathered Mysterious Satchel",
+      "Cartera misteriosa desgastada",
+      "Algibeira Misteriosa Desgastada",
+      "Weathered Mysterious Satchel",
+      "Bolsa misteriosa desgastada",
+      "Sacoche mystérieuse usée",
+      "Истрепанная таинственная сумка",
+      "Verwitterter geheimnisvoller Ranzen",
+      "Algibeira Misteriosa Desgastada",
+      "Sacchetto Misterioso Logoro",
+      "너덜너덜한 수수께끼의 주머니",
+      "陳舊的神秘背袋",
+      "风化的神秘背包"
+    ],
+    "Media": "inv_1115_welcomebundledrop.jpg"
+  },
+  {
     "TagId": 235053,
     "TagType": 21,
     "Names": [
@@ -586,6 +607,27 @@
       "完成的C.H.E.T.T.清单"
     ],
     "Media": "inv_misc_punchcards_prismatic.jpg"
+  },
+  {
+    "TagId": 235054,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pristine Mysterious Satchel",
+      "Cartera misteriosa prístina",
+      "Algibeira Misteriosa Imaculada",
+      "Pristine Mysterious Satchel",
+      "Bolsa misteriosa prístina",
+      "Sacoche mystérieuse immaculée",
+      "Безупречная таинственная сумка",
+      "Ein makelloser geheimnisvoller Ranzen",
+      "Algibeira Misteriosa Imaculada",
+      "Sacchetto Misterioso Intatto",
+      "온전한 수수께끼의 주머니",
+      "完好的神秘背袋",
+      "完好的神秘背包"
+    ],
+    "Media": "inv_1115_firstkillbundledrop.jpg"
   },
   {
     "TagId": 235055,
@@ -3192,6 +3234,27 @@
     "Media": "ability_mount_cranemountpurple.jpg"
   },
   {
+    "TagId": 235274,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echo of N'zoth",
+      "Eco de N'zoth",
+      "Eco de N'Zoth",
+      "Echo of N'zoth",
+      "Eco de N'Zoth",
+      "Écho de N’Zoth",
+      "Отголосок Н'Зота",
+      "Echo von N'zoth",
+      "Eco de N'Zoth",
+      "Eco di N'zoth",
+      "느조스의 메아리",
+      "恩若司的回音",
+      "恩佐斯的回响"
+    ],
+    "Media": "inv_eyeofnzothpet.jpg"
+  },
+  {
     "TagId": 235279,
     "TagType": 21,
     "Names": [
@@ -3274,6 +3337,48 @@
       "羞羞的书"
     ],
     "Media": "inv_misc_book_05.jpg"
+  },
+  {
+    "TagId": 235284,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echo of N'zoth",
+      "Eco de N'zoth",
+      "Eco de N'Zoth",
+      "Echo of N'zoth",
+      "Eco de N'Zoth",
+      "Écho de N’Zoth",
+      "Отголосок Н'Зота",
+      "Echo von N'zoth",
+      "Eco de N'Zoth",
+      "Eco di N'zoth",
+      "느조스의 메아리",
+      "恩若司的回音",
+      "恩佐斯的回响"
+    ],
+    "Media": "inv_eyeofnzothpet.jpg"
+  },
+  {
+    "TagId": 235285,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echo of N'zoth",
+      "Eco de N'zoth",
+      "Eco de N'Zoth",
+      "Echo of N'zoth",
+      "Eco de N'Zoth",
+      "Écho de N’Zoth",
+      "Отголосок Н'Зота",
+      "Echo von N'zoth",
+      "Eco de N'Zoth",
+      "Eco di N'zoth",
+      "느조스의 메아리",
+      "恩若司的回音",
+      "恩佐斯的回响"
+    ],
+    "Media": "inv_eyeofnzothpet.jpg"
   },
   {
     "TagId": 235286,
@@ -4397,7 +4502,7 @@
       "Máscara de arlequín al reverso",
       "Máscara de Tolo Burlesca",
       "Topsy Turvy Fool's Mask",
-      "Máscara de bufón patas arriba",
+      "Máscara de bufón carnavalesca",
       "Masque de folie du charivari",
       "Маска коронованного болвана",
       "Maske des kunterbunten Narren",
@@ -4418,7 +4523,7 @@
       "Máscara de payaso al reverso",
       "Máscara de Palhaço Burlesca",
       "Topsy Turvy Clown's Mask",
-      "Máscara de payaso patas arriba",
+      "Máscara de payaso carnavalesca",
       "Masque de clownerie du charivari",
       "Маска коронованного клоуна",
       "Maske des kunterbunten Clowns",
@@ -4439,7 +4544,7 @@
       "Máscara de bufón al reverso",
       "Máscara de Bobo Burlesca",
       "Topsy Turvy Jester's Mask",
-      "Máscara de juglar patas arriba",
+      "Máscara de juglar carnavalesca",
       "Masque de bouffonnerie du charivari",
       "Маска коронованного шута",
       "Maske des kunterbunten Witzbolds",
@@ -4460,7 +4565,7 @@
       "Máscara de bromista al reverso",
       "Máscara de Bufão Burlesca",
       "Topsy Turvy Joker's Mask",
-      "Máscara de bromista patas arriba",
+      "Máscara de bromista carnavalesca",
       "Masque de farce du charivari",
       "Маска коронованного джокера",
       "Maske des kunterbunten Spaßvogels",
@@ -4754,7 +4859,7 @@
       "Júbilo",
       "Folia",
       "Merriment",
-      "Alegría",
+      "Dicha",
       "Vivejoie",
       "Веселье",
       "Heiterkeit",
@@ -5059,6 +5164,27 @@
       "米雷达尔锻制重锤"
     ],
     "Media": "inv_misc_1h_arathormallet_a_01.jpg"
+  },
+  {
+    "TagId": 235414,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Faceless Mask of Multitudes",
+      "Máscara ignota de multitudes",
+      "Máscara Sem-rosto das Multidões",
+      "Faceless Mask of Multitudes",
+      "Máscara ignota de las multitudes",
+      "Masque sans visage des multitudes",
+      "Безликая маска множества",
+      "Gesichtslosenmaske der Mannigfaltigkeiten",
+      "Máscara Sem-rosto das Multidões",
+      "Maschera Senza Volto delle Moltitudini",
+      "증식의 얼굴 없는 가면",
+      "眾人無面者面具",
+      "无面者的众怨面具"
+    ],
+    "Media": "inv_helmet_186v4.jpg"
   },
   {
     "TagId": 235415,
@@ -6367,10 +6493,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Missile Guided Throat Slitter",
+      "Missile-Guided Throat Slitter",
       "Rebanagargantas guiado con misil",
       "Cortador de Gargantas Teleguiado",
-      "Missile Guided Throat Slitter",
+      "Missile-Guided Throat Slitter",
       "Rebanacuellos teledirigido",
       "Égorgeur téléguidé",
       "Управляемый горлорез",
@@ -7104,13 +7230,13 @@
       null,
       "Box of Darkfuse Miscellany",
       "Caja surtida mechaoscura",
-      "Caixa de Itens Diversos Sombrafuso",
+      "Caixa de Itens Diversos de Sombrafuso",
       "Box of Darkfuse Miscellany",
       "Caja con trastos de los Fundisombras",
       "Assortiment imprégné de ténèbres",
       "Ящик мелочей \"Мрачных Решал\"",
       "Kiste mit allerlei Waren der Düsternisverschmolzenen",
-      "Caixa de Itens Diversos Sombrafuso",
+      "Caixa de Itens Diversos de Sombrafuso",
       "Scatola di Oggetti Vari dei Micciascura",
       "다크퓨즈 잡동사니 상자",
       "一箱暗融雜物",
@@ -8127,6 +8253,27 @@
     "Media": "inv_misc_book_09.jpg"
   },
   {
+    "TagId": 235631,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies",
+      "[NOT USED] Mysterious Large Satchel of Goodies"
+    ],
+    "Media": "inv_misc_bag_15.jpg"
+  },
+  {
     "TagId": 235634,
     "TagType": 21,
     "Names": [
@@ -8219,7 +8366,7 @@
       "Dado de arlequín al reverso",
       "Dado de Tolo Burlesco",
       "Topsy Turvy Fool's Die",
-      "Dado de bufón patas arriba",
+      "Dado de bufón carnavalesco",
       "Dé de folie du charivari",
       "Игральная кость коронованного болвана",
       "Würfel des kunterbunten Narren",
@@ -8240,7 +8387,7 @@
       "Dado de payaso al reverso",
       "Dado de Palhaço Burlesco",
       "Topsy Turvy Clown's Die",
-      "Dado de payaso patas arriba",
+      "Dado de payaso carnavalesco",
       "Dé de clownerie du charivari",
       "Игральная кость коронованного клоуна",
       "Würfel des kunterbunten Clowns",
@@ -8261,7 +8408,7 @@
       "Dado de bufón al reverso",
       "Dado de Bobo Burlesco",
       "Topsy Turvy Jester's Die",
-      "Dado de juglar patas arriba",
+      "Dado de juglar carnavalesco",
       "Dé de bouffonnerie du charivari",
       "Игральная кость коронованного шута",
       "Würfel des kunterbunten Witzbolds",
@@ -8282,7 +8429,7 @@
       "Dado de bromista al reverso",
       "Dado de Bufão Burlesco",
       "Topsy Turvy Joker's Die",
-      "Dado de bromista patas arriba",
+      "Dado de bromista carnavalesco",
       "Dé de farce du charivari",
       "Игральная кость коронованного джокера",
       "Würfel des kunterbunten Spaßvogels",
@@ -8618,7 +8765,7 @@
       "Conjunto: Kit de máscaras al reverso",
       "Indumentária: Conjunto de Máscara Burlesca",
       "Ensemble: Topsy Turvy Mask Set",
-      "Indumentaria: Conjunto de máscaras patas arriba",
+      "Indumentaria: Conjunto de máscaras carnavalescas",
       "Ensemble\u00A0: masques du charivari",
       "Комплект: набор масок \"Коронованные прохиндеи\"",
       "Ensemble: Kunterbuntes Maskenset",
@@ -8629,6 +8776,27 @@
       "套装：酣歌畅戏面具"
     ],
     "Media": "inv_helm_armor_darkmoonmask_c_01.jpg"
+  },
+  {
+    "TagId": 235665,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Burner Clock",
+      "Reloj descartable",
+      "Relógio Descartável",
+      "Burner Clock",
+      "Reloj quemador",
+      "Chronomètre jetable",
+      "Одноразовый таймер",
+      "Brenneruhr",
+      "Relógio Descartável",
+      "Cronometro Usa e Getta",
+      "연소기 시계",
+      "燃燒時鐘",
+      "一次性钟表"
+    ],
+    "Media": "inv_misc_pocketwatch_02.jpg"
   },
   {
     "TagId": 235667,
@@ -9072,6 +9240,48 @@
     "Media": "inv_mechagon_blueprints.jpg"
   },
   {
+    "TagId": 235700,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reins of the Void-Scarred Gryphon",
+      "Riendas del Grifo marcado por el Vacío",
+      "Rédeas do Grifo Marcado pelo Caos",
+      "Reins of the Void-Scarred Gryphon",
+      "Riendas de grifo marcado por el Vacío",
+      "Rênes de griffon marqué par le Vide",
+      "Поводья зараженного Бездной грифона",
+      "Zügel des leerenvernarbten Greifs",
+      "Rédeas do Grifo Marcado pelo Caos",
+      "Redini del Grifone Sfregiato dal Vuoto",
+      "공허의 자취가 남은 그리핀 고삐",
+      "虛無之痕獅鷲獸韁繩",
+      "虚痕狮鹫的缰绳"
+    ],
+    "Media": "inv_misc_elitegryphon.jpg"
+  },
+  {
+    "TagId": 235701,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Decaying Mecha-Scrapper Construction Kit",
+      "Kit de construcción de mecachatarrero en decadencia",
+      "Kit de Construção do Sucateiro Mecânico em Decomposição",
+      "Decaying Mecha-Scrapper Construction Kit",
+      "Equipo de construcción de desguazameca putrefacto",
+      "Nécessaire de construction de robot-ferrailleur décrépit",
+      "Теряющий силу комплект для сборки Хламобота",
+      "Zerfallendes Konstruktionsset für einen Mechaverschrotter",
+      "Kit de Construção do Sucateiro Mecânico em Decomposição",
+      "Kit di Costruzione del Riciclatore Meccanico Decadente",
+      "썩어가는 기계고철상 조립 도구",
+      "腐朽的機械廢料機組裝套件",
+      "衰竭的机械拆解者制造器"
+    ],
+    "Media": "inv_misc_head_clockworkgnome_01.jpg"
+  },
+  {
     "TagId": 235703,
     "TagType": 21,
     "Names": [
@@ -9114,6 +9324,90 @@
     "Media": "inv_potion_141.jpg"
   },
   {
+    "TagId": 235705,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Void-Forged Stallion's Reins",
+      "Riendas del semental forjado por el Vacío",
+      "Rédeas do Garanhão Marcado pelo Caos",
+      "Void-Forged Stallion's Reins",
+      "Riendas de semental forjado en el Vacío",
+      "Rênes d’étalon forgé par le Vide",
+      "Поводья кованного в Бездне жеребца",
+      "Zügel des leerenvernarbten Hengstes",
+      "Rédeas do Garanhão Marcado pelo Caos",
+      "Redini dello Stallone Forgiato dal Vuoto",
+      "공허로 단련된 군마 고삐",
+      "虛無鑄造戰馬韁繩",
+      "虚铸骏马的缰绳"
+    ],
+    "Media": "ability_mount_nightmarehorse.jpg"
+  },
+  {
+    "TagId": 235706,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Void-Scarred Pack Mother's Harness",
+      "Arnés de Madre de manada marcada por el Vacío",
+      "Arnês da Mãe da Matilha Marcada pelo Caos",
+      "Void-Scarred Pack Mother's Harness",
+      "Arnés de madre del grupo marcada por el vacío.",
+      "Harnais de la mère de meute marquée par le Vide",
+      "Упряжь зараженной Бездной матери стаи",
+      "Harnisch der leerenvernarbten Rudelmutter",
+      "Arnês da Mãe da Matilha Marcada pelo Caos",
+      "Imbracatura della Capobranco Sfregiata dal Vuoto",
+      "공허의 자취가 남은 무리 어미 고삐",
+      "虛無之痕族母韁繩",
+      "虚痕狼母的缰绳"
+    ],
+    "Media": "ability_mount_blackdirewolf.jpg"
+  },
+  {
+    "TagId": 235707,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reins of the Void-Scarred Windrider",
+      "Riendas del Jinete del viento marcado por el Vacío",
+      "Rédeas da Mantícora Marcada pelo Caos",
+      "Reins of the Void-Scarred Windrider",
+      "Riendas de jinete del viento marcado por el Vacío",
+      "Rênes de coursier du vent marqué par le Vide",
+      "Поводья зараженного Бездной ветрокрыла",
+      "Zügel des leerenvernarbten Windreiters",
+      "Rédeas da Mantícora Marcada pelo Caos",
+      "Redini della Viverna dei Venti Sfregiata dal Vuoto",
+      "공허의 자취가 남은 와이번 고삐",
+      "虛無之痕乘風者韁繩",
+      "虚痕驭风者的缰绳"
+    ],
+    "Media": "ability_mount_wyvern_01.jpg"
+  },
+  {
+    "TagId": 235709,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ny'alothan Shadow Worm",
+      "Gusano sombrío ny'alothano",
+      "Verme Sombrio Ny'alothano",
+      "Ny'alothan Shadow Worm",
+      "Gusano de sombra de Ny'alotha",
+      "Ver d’ombre de Ny’alotha",
+      "Ни'алотский темный червь",
+      "Ny'alothischer Schattenwurm",
+      "Verme Sombrio Ny'alothano",
+      "Verme d'Ombra di Ny'alotha",
+      "나이알로사 어둠벌레",
+      "奈奧羅薩暗影蟲",
+      "尼奥罗萨暗影蠕虫"
+    ],
+    "Media": "inv_serpentmount_blue.jpg"
+  },
+  {
     "TagId": 235710,
     "TagType": 21,
     "Names": [
@@ -9133,6 +9427,48 @@
       "诺格弗格的精选清爽版"
     ],
     "Media": "inv_potion_134.jpg"
+  },
+  {
+    "TagId": 235711,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Corruption of the Aspects",
+      "Corrupción de los Aspectos",
+      "Corrupção dos Aspectos",
+      "Corruption of the Aspects",
+      "Corrupción de los Aspectos",
+      "Corruption des Aspects",
+      "Порча Аспектов",
+      "Verderbnis der Aspekte",
+      "Corrupção dos Aspectos",
+      "Corruzione degli Aspetti",
+      "위상의 타락",
+      "守護巨龍之腐",
+      "守护巨龙之堕"
+    ],
+    "Media": "inv_dragonchromaticmount.jpg"
+  },
+  {
+    "TagId": 235712,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Void-Crystal Panther",
+      "Pantera de cristal del Vacío",
+      "Pantera do Cristal de Caos",
+      "Void-Crystal Panther",
+      "Pantera de cristal del Vacío",
+      "Panthère en cristal du Vide",
+      "Пантера из кристалла Бездны",
+      "Leerenkristallpanther",
+      "Pantera do Cristal de Caos",
+      "Pantera di Cristallo del Vuoto",
+      "공허수정 표범",
+      "虛無水晶獵豹",
+      "虚空水晶猎豹"
+    ],
+    "Media": "ability_mount_onyxpanther_black.jpg"
   },
   {
     "TagId": 235713,
@@ -10605,6 +10941,111 @@
     "Media": "inv_plate_raidpaladin_n_01robe.jpg"
   },
   {
+    "TagId": 235793,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Parrot Cage (Void-Scarred Parrot)",
+      "Jaula de loro (Loro marcado por el Vacío)",
+      "Jaula de Papagaio (Papagaio Marcado pelo Caos)",
+      "Parrot Cage (Void-Scarred Parrot)",
+      "Jaula de loro (loro marcado por el Vacío)",
+      "Cage de perroquet (Perroquet marqué par le Vide)",
+      "Клетка с попугаем (зараженный Бездной попугай)",
+      "Papageienkäfig (leerenvernarbter Papagei)",
+      "Jaula de Papagaio (Papagaio Marcado pelo Caos)",
+      "Gabbia del Pappagallo (Pappagallo Sfregiato dal Vuoto)",
+      "앵무새 우리 (공허의 자취가 남은 앵무새)",
+      "鸚鵡籠(虛無之痕鸚鵡)",
+      "鹦鹉笼（虚痕鹦鹉）"
+    ],
+    "Media": "inv_icon_feather05b.jpg"
+  },
+  {
+    "TagId": 235794,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eye of Chaos",
+      "Ojo de caos",
+      "Olho do Caos",
+      "Eye of Chaos",
+      "Ojo de caos",
+      "Œil du chaos",
+      "Око хаоса",
+      "Auge des Chaos",
+      "Olho do Caos",
+      "Occhio del Caos",
+      "혼돈의 눈",
+      "混沌之眼",
+      "混沌之眼"
+    ],
+    "Media": "inv_eyeofnzothpet.jpg"
+  },
+  {
+    "TagId": 235795,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Void-Scarred Scorpid",
+      "Escórpido marcado por el Vacío",
+      "Escorpídeo Marcado pelo Caos",
+      "Void-Scarred Scorpid",
+      "Escórpido marcado por el Vacío",
+      "Scorpide marqué par le Vide",
+      "Зараженный Бездной скорпид",
+      "Leerenvernarbter Skorpid",
+      "Escorpídeo Marcado pelo Caos",
+      "Scorpide Sfregiato dal Vuoto",
+      "공허의 자취가 남은 전갈",
+      "虛無之痕蠍子",
+      "虚痕蝎"
+    ],
+    "Media": "ability_hunter_pet_scorpid.jpg"
+  },
+  {
+    "TagId": 235797,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Void-Scarred Egg",
+      "Huevo marcado por el Vacío",
+      "Ovo Marcado pelo Caos",
+      "Void-Scarred Egg",
+      "Huevo marcado por el Vacío",
+      "Œuf marqué par le Vide",
+      "Зараженное Бездной яйцо",
+      "Leerenvernarbtes Ei",
+      "Ovo Marcado pelo Caos",
+      "Uovo Sfregiato dal Vuoto",
+      "공허의 자취가 남은 알",
+      "虛無之痕鳥蛋",
+      "虚痕卵"
+    ],
+    "Media": "inv_10_worlddroplevelingoptionalreagent_egg_color3.jpg"
+  },
+  {
+    "TagId": 235798,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_03.jpg"
+  },
+  {
     "TagId": 235799,
     "TagType": 21,
     "Names": [
@@ -10666,6 +11107,48 @@
       "私人捕鱼船"
     ],
     "Media": "inv_misc_8xp_balloon_horse01.jpg"
+  },
+  {
+    "TagId": 235803,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Potion of Mysterious Celerity",
+      "Poción de celeridad misteriosa",
+      "Poção de Celeridade Misteriosa",
+      "Potion of Mysterious Celerity",
+      "Poción de celeridad misteriosa",
+      "Potion de célérité mystérieuse",
+      "Зелье таинственной стремительности",
+      "Trank der mysteriösen Schnelligkeit",
+      "Poção de Celeridade Misteriosa",
+      "Pozione della Celerità Misteriosa",
+      "수수께끼의 기민함의 물약",
+      "神秘迅敏藥水",
+      "神秘敏锐药水"
+    ],
+    "Media": "inv_alchemy_elixir_03.jpg"
+  },
+  {
+    "TagId": 235804,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_03.jpg"
   },
   {
     "TagId": 235805,
@@ -10813,6 +11296,69 @@
       "机械地精的铁面"
     ],
     "Media": "inv_mace_2h_goblinhead_d_01.jpg"
+  },
+  {
+    "TagId": 235815,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_01.jpg"
+  },
+  {
+    "TagId": 235816,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Potion of Mysterious Swiftstrike",
+      "Poción de golpeveloz misteriosa",
+      "Poção de Golpepresto Misterioso",
+      "Potion of Mysterious Swiftstrike",
+      "Poción golpeveloz misteriosa",
+      "Potion de frappe rapide mystérieuse",
+      "Зелье таинственного молниеносного удара",
+      "Trank des mysteriösen Flinkschlags",
+      "Poção de Golpepresto Misterioso",
+      "Pozione del Colpolesto Misterioso",
+      "수수께끼의 신속 타격의 물약",
+      "神秘迅擊藥水",
+      "神秘迅击药水"
+    ],
+    "Media": "inv_alchemy_elixir_01.jpg"
+  },
+  {
+    "TagId": 235817,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_01.jpg"
   },
   {
     "TagId": 235819,
@@ -11172,6 +11718,132 @@
     "Media": "inv_sword_2h_outdoorundermine_c_01_purple.jpg"
   },
   {
+    "TagId": 235837,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_06.jpg"
+  },
+  {
+    "TagId": 235838,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Potion of Mysterious Tenacity",
+      "Poción de tenacidad misteriosa",
+      "Poção de Tenacidade Misteriosa",
+      "Potion of Mysterious Tenacity",
+      "Poción de tenacidad misteriosa",
+      "Potion de ténacité mystérieuse",
+      "Зелье таинственного упорства",
+      "Trank der mysteriösen Hartnäckigkeit",
+      "Poção de Tenacidade Misteriosa",
+      "Pozione della Tenacia Misteriosa",
+      "수수께끼의 강인함의 물약",
+      "神秘堅毅藥水",
+      "神秘坚韧药水"
+    ],
+    "Media": "inv_alchemy_elixir_06.jpg"
+  },
+  {
+    "TagId": 235839,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_06.jpg"
+  },
+  {
+    "TagId": 235842,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_05.jpg"
+  },
+  {
+    "TagId": 235843,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Potion of Mysterious Revivification",
+      "Poción de revitalización misteriosa",
+      "Poção de Revivificação Misteriosa",
+      "Potion of Mysterious Revivification",
+      "Poción de revivificación misteriosa",
+      "Potion de revivification mystérieuse",
+      "Зелье таинственного оживления",
+      "Trank der mysteriösen Wiederbelebung",
+      "Poção de Revivificação Misteriosa",
+      "Pozione della Rivivificazione Misteriosa",
+      "수수께끼의 원기 회복의 물약",
+      "神秘賦活藥水",
+      "神秘焕生药水"
+    ],
+    "Media": "inv_alchemy_elixir_05.jpg"
+  },
+  {
+    "TagId": 235844,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_alchemy_elixir_05.jpg"
+  },
+  {
     "TagId": 235845,
     "TagType": 21,
     "Names": [
@@ -11233,6 +11905,27 @@
       null
     ],
     "Media": "inv_shield_1h_goblinraid_d_01.jpg"
+  },
+  {
+    "TagId": 235848,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_enggizmos_16.jpg"
   },
   {
     "TagId": 235853,
@@ -11382,6 +12075,27 @@
     "Media": "inv_misc_coin_16.jpg"
   },
   {
+    "TagId": 235911,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Weathered Mysterious Satchel",
+      "Cartera misteriosa desgastada",
+      "Algibeira Misteriosa Desgastada",
+      "Weathered Mysterious Satchel",
+      "Bolsa misteriosa desgastada",
+      "Sacoche mystérieuse usée",
+      "Истрепанная таинственная сумка",
+      "Verwitterter geheimnisvoller Ranzen",
+      "Algibeira Misteriosa Desgastada",
+      "Sacchetto Misterioso Logoro",
+      "너덜너덜한 수수께끼의 주머니",
+      "陳舊的神秘背袋",
+      "风化的神秘背包"
+    ],
+    "Media": "inv_1115_welcomebundledrop.jpg"
+  },
+  {
     "TagId": 235916,
     "TagType": 21,
     "Names": [
@@ -11403,6 +12117,1245 @@
     "Media": "inv_misc_note_01.jpg"
   },
   {
+    "TagId": 235922,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Shield",
+      "Escudo misterioso",
+      "Escudo Misterioso",
+      "Mysterious Shield",
+      "Escudo misterioso",
+      "Bouclier mystérieux",
+      "Таинственный щит",
+      "Mysteriöser Schild",
+      "Escudo Misterioso",
+      "Scudo Misterioso",
+      "수수께끼의 방패",
+      "神秘之盾",
+      "神秘盾牌"
+    ],
+    "Media": "inv_shield_1h_undergroundquest_b_02.jpg"
+  },
+  {
+    "TagId": 235923,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Lantern",
+      "Farol misterioso",
+      "Lanterna Misteriosa",
+      "Mysterious Lantern",
+      "Farol misterioso",
+      "Lanterne mystérieuse",
+      "Таинственный фонарь",
+      "Mysteriöse Laterne",
+      "Lanterna Misteriosa",
+      "Lanterna Misteriosa",
+      "수수께끼의 등불",
+      "神秘燈籠",
+      "神秘提灯"
+    ],
+    "Media": "inv_offhand_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235924,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Drill-Tipped Stave",
+      "Báculo con broca misterioso",
+      "Báculo Perfurador Misterioso",
+      "Mysterious Drill-Tipped Stave",
+      "Báculo con taladro misterioso",
+      "Bâton foreur mystérieux",
+      "Таинственный посох со сверлом",
+      "Mysteriöser Bohrerstab",
+      "Báculo Perfurador Misterioso",
+      "Bastone a Trivella Misterioso",
+      "수수께끼의 굴착지팡이",
+      "神秘鑽頭護杖",
+      "神秘钻头棍"
+    ],
+    "Media": "inv_staff_2h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235925,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Beacon Staff",
+      "Bastón baliza misterioso",
+      "Cajado Sinalizador Misterioso",
+      "Mysterious Beacon Staff",
+      "Bastón baliza misterioso",
+      "Bâton fanal mystérieux",
+      "Таинственный посох-маяк",
+      "Mysteriöser Leuchtfeuerstab",
+      "Cajado Sinalizador Misterioso",
+      "Bastone Segnalatore Misterioso",
+      "수수께끼의 등대지팡이",
+      "神秘信標法杖",
+      "神秘道标杖"
+    ],
+    "Media": "inv_staff_2h_undergroundquest_b_02.jpg"
+  },
+  {
+    "TagId": 235926,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Polearm",
+      "Arma de asta misteriosa",
+      "Arma de Haste Misteriosa",
+      "Mysterious Polearm",
+      "Arma de asta misteriosa",
+      "Arme d’hast mystérieuse",
+      "Таинственная алебарда",
+      "Mysteriöse Stangenwaffe",
+      "Arma de Haste Misteriosa",
+      "Arma ad Asta Misteriosa",
+      "수수께끼의 장창",
+      "神秘矛戟",
+      "神秘长锋"
+    ],
+    "Media": "inv_polearm_2h_undergroundquest_b_02.jpg"
+  },
+  {
+    "TagId": 235927,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Spade",
+      "Pala misteriosa",
+      "Pá Misteriosa",
+      "Mysterious Spade",
+      "Pala misteriosa",
+      "Pelle mystérieuse",
+      "Таинственная пика",
+      "Mysteriöser Spaten",
+      "Pá Misteriosa",
+      "Vanga Misteriosa",
+      "수수께끼의 삽",
+      "神秘之鏟",
+      "神秘铲子"
+    ],
+    "Media": "inv_polearm_2h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235928,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Waraxe",
+      "Hacha de guerra misteriosa",
+      "Machado de Guerra Misterioso",
+      "Mysterious Waraxe",
+      "Hacha de guerra misteriosa",
+      "Hache de guerre mystérieuse",
+      "Таинственный боевой топор",
+      "Mysteriöse Kriegsaxt",
+      "Machado de Guerra Misterioso",
+      "Ascia da Guerra Misteriosa",
+      "수수께끼의 전쟁도끼",
+      "神秘戰斧",
+      "神秘战斧"
+    ],
+    "Media": "inv_axe_2h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235929,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Torch",
+      "Antorcha misteriosa",
+      "Tocha Misteriosa",
+      "Mysterious Torch",
+      "Antorcha misteriosa",
+      "Torche mystérieuse",
+      "Таинственный факел",
+      "Mysteriöse Fackel",
+      "Tocha Misteriosa",
+      "Torcia Misteriosa",
+      "수수께끼의 횃불",
+      "神秘火炬",
+      "神秘火炬"
+    ],
+    "Media": "inv_mace_1h_undergroundquest_b_02.jpg"
+  },
+  {
+    "TagId": 235930,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Sharpshooter",
+      "Tirador certero misterioso",
+      "Atirador de Elite Misterioso",
+      "Mysterious Sharpshooter",
+      "Tirador certero misterioso",
+      "Tireur de précision mystérieux",
+      "Таинственная снайперская винтовка",
+      "Mysteriöser Scharfschütze",
+      "Atirador de Elite Misterioso",
+      "Fucile da Tiratore Misterioso",
+      "수수께끼의 저격용 총",
+      "神秘狙擊者",
+      "神秘刃枪"
+    ],
+    "Media": "inv_firearm_2h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235931,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Sword",
+      "Espada misteriosa",
+      "Espada Misteriosa",
+      "Mysterious Sword",
+      "Espada misteriosa",
+      "Épée mystérieuse",
+      "Таинственный меч",
+      "Mysteriöses Schwert",
+      "Espada Misteriosa",
+      "Spada Misteriosa",
+      "수수께끼의 검",
+      "神秘之劍",
+      "神秘利剑"
+    ],
+    "Media": "inv_sword_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235932,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Blade",
+      "Hoja misteriosa",
+      "Lâmina Misteriosa",
+      "Mysterious Blade",
+      "Hoja misteriosa",
+      "Lame mystérieuse",
+      "Таинственный клинок",
+      "Mysteriöse Klinge",
+      "Lâmina Misteriosa",
+      "Lama Misteriosa",
+      "수수께끼의 칼날",
+      "神秘之刃",
+      "神秘利刃"
+    ],
+    "Media": "inv_sword_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235933,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Hammer",
+      "Martillo misterioso",
+      "Martelo Misterioso",
+      "Mysterious Hammer",
+      "Martillo misterioso",
+      "Marteau mystérieux",
+      "Таинственный молот",
+      "Mysteriöser Hammer",
+      "Martelo Misterioso",
+      "Martello Misterioso",
+      "수수께끼의 망치",
+      "神秘之錘",
+      "神秘锤子"
+    ],
+    "Media": "inv_mace_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235934,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Pummeler",
+      "Aporreadora misteriosa",
+      "Esbordoador Misterioso",
+      "Mysterious Pummeler",
+      "Moledora misteriosa",
+      "Disperseur mystérieux",
+      "Таинственный пробойник",
+      "Mysteriöser Verprügler",
+      "Esbordoador Misterioso",
+      "Flagellatore Misterioso",
+      "수수께끼의 뾰족철퇴",
+      "神秘懲戒錘",
+      "神秘轻锤"
+    ],
+    "Media": "inv_mace_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235935,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Ritual Knife",
+      "Cuchillo ritual misterioso",
+      "Faca Ritualística Misteriosa",
+      "Mysterious Ritual Knife",
+      "Cuchillo de ritual misterioso",
+      "Couteau rituel mystérieux",
+      "Таинственный ритуальный нож",
+      "Mysteriöses Ritualmesser",
+      "Faca Ritualística Misteriosa",
+      "Coltello Rituale Misterioso",
+      "수수께끼의 의식용 손칼",
+      "神秘儀式小刀",
+      "神秘仪式小刀"
+    ],
+    "Media": "inv_knife_1h_undergroundquest_b_02.jpg"
+  },
+  {
+    "TagId": 235936,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Shank",
+      "Faca misteriosa",
+      "Estoque Misterioso",
+      "Mysterious Shank",
+      "Faca misteriosa",
+      "Surin mystérieux",
+      "Таинственная заточка",
+      "Mysteriöser Shiv",
+      "Estoque Misterioso",
+      "Daga Misteriosa",
+      "수수께끼의 단도",
+      "神秘小刀",
+      "神秘军刺"
+    ],
+    "Media": "inv_knife_1h_undergroundquest_b_03.jpg"
+  },
+  {
+    "TagId": 235937,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Cleaver",
+      "Rebanadora misteriosa",
+      "Cutelo Misterioso",
+      "Mysterious Cleaver",
+      "Cuchilla misteriosa",
+      "Fendoir mystérieux",
+      "Таинственный колун",
+      "Mysteriöses Spaltbeil",
+      "Cutelo Misterioso",
+      "Mannaia Misteriosa",
+      "수수께끼의 가로날도끼",
+      "神秘斬斧",
+      "神秘劈肉斧"
+    ],
+    "Media": "inv_axe_1h_undergroundquest_b_03.jpg"
+  },
+  {
+    "TagId": 235938,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Hatchet",
+      "Hachuela misteriosa",
+      "Machadinha Misteriosa",
+      "Mysterious Hatchet",
+      "Hachuela misteriosa",
+      "Hachette mystérieuse",
+      "Таинственный топорик",
+      "Mysteriöses Kriegsbeil",
+      "Machadinha Misteriosa",
+      "Accetta Misteriosa",
+      "수수께끼의 손도끼",
+      "神秘短斧",
+      "神秘短柄斧"
+    ],
+    "Media": "inv_axe_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235939,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Chisel",
+      "Cincel misterioso",
+      "Cinzel Misterioso",
+      "Mysterious Chisel",
+      "Cincel misterioso",
+      "Burin mystérieux",
+      "Таинственный резец",
+      "Mysteriöser Meißel",
+      "Cinzel Misterioso",
+      "Scalpello Misterioso",
+      "수수께끼의 끌",
+      "神秘鑿子",
+      "神秘凿子"
+    ],
+    "Media": "inv_knife_1h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235940,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Spellblade",
+      "Hoja de hechizo misteriosa",
+      "Magilâmina Misteriosa",
+      "Mysterious Spellblade",
+      "Hoja de hechizo misteriosa",
+      "Sorcelame mystérieuse",
+      "Таинственный чародейский клинок",
+      "Mysteriöse Zauberklinge",
+      "Magilâmina Misteriosa",
+      "Lama Incantata Misteriosa",
+      "수수께끼의 마법단검",
+      "神秘法刃",
+      "神秘法术之刃"
+    ],
+    "Media": "inv_sword_1h_undergroundquest_b_02.jpg"
+  },
+  {
+    "TagId": 235941,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Bolthrower",
+      "Lanzasaetas misterioso",
+      "Lança-setas Misteriosa",
+      "Mysterious Bolthrower",
+      "Lanzavirotes misterioso",
+      "Lance-carreaux mystérieux",
+      "Таинственный самострел",
+      "Mysteriöse Bolzenschleuder",
+      "Lança-setas Misteriosa",
+      "Sparadardi Misterioso",
+      "수수께끼의 화살발사기",
+      "神秘弩弓",
+      "神秘飞矢弩"
+    ],
+    "Media": "inv_crossbow_2h_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235942,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Cuffs",
+      "Puños misteriosos",
+      "Manilhas Misteriosas",
+      "Mysterious Cuffs",
+      "Puños misteriosos",
+      "Crispins mystérieux",
+      "Таинственные манжеты",
+      "Mysteriöse Manschetten",
+      "Manilhas Misteriosas",
+      "Polsiere Misteriose",
+      "수수께끼의 소매장식",
+      "神秘腕輪",
+      "神秘腕扣"
+    ],
+    "Media": "inv_bracer_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235943,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Cord",
+      "Cordón misterioso",
+      "Cordão Misterioso",
+      "Mysterious Cord",
+      "Cordones misteriosos",
+      "Corde mystérieuse",
+      "Таинственный шнурованный ремень",
+      "Mysteriöse Kordel",
+      "Cordão Misterioso",
+      "Fascione Misterioso",
+      "수수께끼의 장식끈",
+      "神秘之索",
+      "神秘束带"
+    ],
+    "Media": "inv_belt_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235944,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Shoulderpads",
+      "Hombreras misteriosas",
+      "Ombreiras Misteriosas",
+      "Mysterious Shoulderpads",
+      "Hombreras misteriosas",
+      "Protège-épaules mystérieux",
+      "Таинственные наплечные пластины",
+      "Mysteriöse Schulterpolster",
+      "Ombreiras Misteriosas",
+      "Spalletti Misteriosi",
+      "수수께끼의 어깨덧대",
+      "神秘肩墊",
+      "神秘肩垫"
+    ],
+    "Media": "inv_shoulder_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235945,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Leggings",
+      "Leotardos misteriosos",
+      "Perneiras Misteriosas",
+      "Mysterious Leggings",
+      "Leotardos misteriosos",
+      "Jambières mystérieuses",
+      "Таинственные поножи",
+      "Mysteriöse Gamaschen",
+      "Perneiras Misteriosas",
+      "Gambiere Misteriose",
+      "수수께끼의 다리보호구",
+      "神秘護腿",
+      "神秘护腿"
+    ],
+    "Media": "inv_pant_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235946,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Cowl",
+      "Capucha misteriosa",
+      "Capucho Misterioso",
+      "Mysterious Cowl",
+      "Capucha misteriosa",
+      "Capuche mystérieuse",
+      "Таинственный клобук",
+      "Mysteriöse Gugel",
+      "Capucho Misterioso",
+      "Copricapo Misterioso",
+      "수수께끼의 수도두건",
+      "神秘風帽",
+      "神秘风帽"
+    ],
+    "Media": "inv_helm_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235947,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Handwraps",
+      "Manijas misteriosas",
+      "Mitenes Misteriosas",
+      "Mysterious Handwraps",
+      "Manijas misteriosas",
+      "Protège-mains mystérieux",
+      "Таинственные повязки",
+      "Mysteriöse Handwickel",
+      "Mitenes Misteriosas",
+      "Mitene Misteriosi",
+      "수수께끼의 손등싸개",
+      "神秘裹手",
+      "神秘裹手"
+    ],
+    "Media": "inv_glove_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235948,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Sandals",
+      "Sandalias misteriosas",
+      "Sandálias Misteriosas",
+      "Mysterious Sandals",
+      "Sandalias misteriosas",
+      "Sandales mystérieuses",
+      "Таинственные сандалии",
+      "Mysteriöse Sandalen",
+      "Sandálias Misteriosas",
+      "Grancalzari Misteriosi",
+      "수수께끼의 덧신",
+      "神秘便鞋",
+      "神秘便鞋"
+    ],
+    "Media": "inv_boot_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235949,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Robes",
+      "Togas misteriosas",
+      "Vestes Misteriosas",
+      "Mysterious Robes",
+      "Toga misteriosa",
+      "Robe mystérieuse",
+      "Таинственные одеяния",
+      "Mysteriöse Roben",
+      "Vestes Misteriosas",
+      "Veste Misteriosa",
+      "수수께끼의 로브",
+      "神秘長袍",
+      "神秘长袍"
+    ],
+    "Media": "inv_robe_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235950,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Bindings",
+      "Ataduras misteriosas",
+      "Braceletes Misteriosos",
+      "Mysterious Bindings",
+      "Ataduras misteriosas",
+      "Manchettes mystérieuses",
+      "Таинственные обвязки",
+      "Mysteriöse Bindungen",
+      "Braceletes Misteriosos",
+      "Manette Misteriose",
+      "수수께끼의 손목띠",
+      "神秘束腕",
+      "神秘束腕"
+    ],
+    "Media": "inv_bracer_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235951,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Sash",
+      "Fajín misterioso",
+      "Faixa Misteriosa",
+      "Mysterious Sash",
+      "Fajín misterioso",
+      "Écharpe mystérieuse",
+      "Таинственный кушак",
+      "Mysteriöse Schärpe",
+      "Faixa Misteriosa",
+      "Fascia Misteriosa",
+      "수수께끼의 장식띠",
+      "神秘束帶",
+      "神秘腰索"
+    ],
+    "Media": "inv_belt_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235952,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Epaulets",
+      "Cubrehombros misteriosos",
+      "Palas Misteriosas",
+      "Mysterious Epaulets",
+      "Cubrehombros misterioso",
+      "Épaulettes mystérieuses",
+      "Таинственные эполеты",
+      "Mysteriöse Schulterklappen",
+      "Palas Misteriosas",
+      "Spalline Misteriose",
+      "수수께끼의 견장",
+      "神秘肩冑",
+      "神秘衬肩"
+    ],
+    "Media": "inv_shoulder_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235953,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Pants",
+      "Pantalones misteriosos",
+      "Calças Misteriosas",
+      "Mysterious Pants",
+      "Pantalones misteriosos",
+      "Pantalon mystérieux",
+      "Таинственные штаны",
+      "Mysteriöse Hose",
+      "Calças Misteriosas",
+      "Pantaloni Misteriosi",
+      "수수께끼의 바지",
+      "神秘束褲",
+      "神秘长裤"
+    ],
+    "Media": "inv_pant_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235954,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Headgear",
+      "Protector de cabeza misterioso",
+      "Almofre Misterioso",
+      "Mysterious Headgear",
+      "Casco misterioso",
+      "Couvre-chef mystérieux",
+      "Таинственный головной убор",
+      "Mysteriöser Kopfschutz",
+      "Almofre Misterioso",
+      "Cappello Misterioso",
+      "수수께끼의 머리보호구",
+      "神秘頭盔",
+      "神秘帽子"
+    ],
+    "Media": "inv_helm_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235955,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Gloves",
+      "Guantes misteriosos",
+      "Luvas Misteriosas",
+      "Mysterious Gloves",
+      "Guantes misteriosos",
+      "Gants mystérieux",
+      "Таинственные перчатки",
+      "Mysteriöse Handschuhe",
+      "Luvas Misteriosas",
+      "Guanti Misteriosi",
+      "수수께끼의 장갑",
+      "神秘手套",
+      "神秘手套"
+    ],
+    "Media": "inv_glove_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235956,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Boots",
+      "Botas misteriosas",
+      "Botas Misteriosas",
+      "Mysterious Boots",
+      "Botas misteriosas",
+      "Bottes mystérieuses",
+      "Таинственные сапоги",
+      "Mysteriöse Stiefel",
+      "Botas Misteriosas",
+      "Stivali Misteriosi",
+      "수수께끼의 장화",
+      "神秘長靴",
+      "神秘长靴"
+    ],
+    "Media": "inv_boot_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235957,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Vest",
+      "Jubón misterioso",
+      "Colete Misterioso",
+      "Mysterious Vest",
+      "Jubón misterioso",
+      "Gilet mystérieux",
+      "Таинственный жилет",
+      "Mysteriöse Weste",
+      "Colete Misterioso",
+      "Giubba Misteriosa",
+      "수수께끼의 조끼",
+      "神秘外衣",
+      "神秘背心"
+    ],
+    "Media": "inv_chest_leather_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235958,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Bracers",
+      "Brazales misteriosos",
+      "Braçadeiras Misteriosas",
+      "Mysterious Bracers",
+      "Brazales misteriosos",
+      "Brassards mystérieux",
+      "Таинственные наручи",
+      "Mysteriöse Armschienen",
+      "Braçadeiras Misteriosas",
+      "Bracciali Misteriosi",
+      "수수께끼의 팔보호구",
+      "神秘護腕",
+      "神秘腕甲"
+    ],
+    "Media": "inv_bracer_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235959,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Belt",
+      "Cinturón misterioso",
+      "Cinto Misterioso",
+      "Mysterious Belt",
+      "Cinturón misterioso",
+      "Ceinture mystérieuse",
+      "Таинственный пояс",
+      "Mysteriöser Gürtel",
+      "Cinto Misterioso",
+      "Cintura Misteriosa",
+      "수수께끼의 허리띠",
+      "神秘腰帶",
+      "神秘腰带"
+    ],
+    "Media": "inv_belt_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235960,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Shoulderguards",
+      "Guardahombros misteriosos",
+      "Guarda-ombros Misteriosos",
+      "Mysterious Shoulderguards",
+      "Guardahombros misteriosos",
+      "Garde-épaules mystérieux",
+      "Таинственные наплечные щитки",
+      "Mysteriöse Schulterschützer",
+      "Guarda-ombros Misteriosos",
+      "Spallacci Foderati Misteriosi",
+      "수수께끼의 어깨보호대",
+      "神秘肩衛",
+      "神秘护肩"
+    ],
+    "Media": "inv_shoulder_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235961,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Greaves",
+      "Grebas misteriosas",
+      "Grevas Misteriosas",
+      "Mysterious Greaves",
+      "Grebas misteriosas",
+      "Grèves mystérieuses",
+      "Таинственные наголенники",
+      "Mysteriöse Beinschützer",
+      "Grevas Misteriosas",
+      "Gambiere Rinforzate Misteriose",
+      "수수께끼의 경갑",
+      "神秘護脛",
+      "神秘护胫"
+    ],
+    "Media": "inv_pant_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235962,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Coif",
+      "Almófar misterioso",
+      "Coifa Misteriosa",
+      "Mysterious Coif",
+      "Almófar misterioso",
+      "Camail mystérieux",
+      "Таинственный капюшон",
+      "Mysteriöse Kappe",
+      "Coifa Misteriosa",
+      "Camaglio Misterioso",
+      "수수께끼의 코이프",
+      "神秘罩盔",
+      "神秘罩帽"
+    ],
+    "Media": "inv_helm_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235963,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Grips",
+      "Mandiletes misteriosos",
+      "Guantes Misteriosos",
+      "Mysterious Grips",
+      "Mandiletes misteriosos",
+      "Poignes mystérieuses",
+      "Таинственные захваты",
+      "Mysteriöser Handschutz",
+      "Guantes Misteriosos",
+      "Paramani Misteriosi",
+      "수수께끼의 손장갑",
+      "神秘之握",
+      "神秘之握"
+    ],
+    "Media": "inv_glove_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235964,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Striders",
+      "Zancos misteriosos",
+      "Chapins Misteriosos",
+      "Mysterious Striders",
+      "Zancos misteriosos",
+      "Cuissardes mystérieuses",
+      "Таинственные походные сапоги",
+      "Mysteriöse Schreiter",
+      "Chapins Misteriosos",
+      "Stivalacci Misteriosi",
+      "수수께끼의 성큼장화",
+      "神秘行靴",
+      "神秘踏靴"
+    ],
+    "Media": "inv_boot_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235965,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Chainmail",
+      "Malla de anillas misteriosa",
+      "Malha de Anéis Misteriosa",
+      "Mysterious Chainmail",
+      "Malla de anillas misteriosa",
+      "Cotte de mailles mystérieuse",
+      "Таинственная кольчуга",
+      "Mysteriöser Kettenpanzer",
+      "Malha de Anéis Misteriosa",
+      "Cotta di Maglia Misteriosa",
+      "수수께끼의 쇠사슬갑옷",
+      "神秘鎖子甲",
+      "神秘链甲"
+    ],
+    "Media": "inv_chest_mail_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235966,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Vambraces",
+      "Avambrazos misteriosos",
+      "Avambraços Misteriosos",
+      "Mysterious Vambraces",
+      "Avambrazos misteriosos",
+      "Protège-bras mystérieux",
+      "Таинственные тяжелые наручи",
+      "Mysteriöse Unterarmschienen",
+      "Avambraços Misteriosos",
+      "Avambracci Misteriosi",
+      "수수께끼의 완갑",
+      "神秘護臂",
+      "神秘腕铠"
+    ],
+    "Media": "inv_bracer_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235967,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Girdle",
+      "Faja misteriosa",
+      "Cinturão Misterioso",
+      "Mysterious Girdle",
+      "Faja misteriosa",
+      "Ceinturon mystérieux",
+      "Таинственный ремень",
+      "Mysteriöser Gurt",
+      "Cinturão Misterioso",
+      "Cinturone Misterioso",
+      "수수께끼의 요대",
+      "神秘束腰",
+      "神秘束腰"
+    ],
+    "Media": "inv_belt_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235968,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Pauldrons",
+      "Espaldares misteriosos",
+      "Brafoneiras Misteriosas",
+      "Mysterious Pauldrons",
+      "Espaldares misteriosos",
+      "Espauliers mystérieux",
+      "Таинственное наплечье",
+      "Mysteriöse Schulterstücke",
+      "Brafoneiras Misteriosas",
+      "Paraspalle Misteriosi",
+      "수수께끼의 견갑",
+      "神秘肩鎧",
+      "神秘肩铠"
+    ],
+    "Media": "inv_shoulder_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235969,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Helm",
+      "Yelmo misterioso",
+      "Elmo Misterioso",
+      "Mysterious Helm",
+      "Yelmo misterioso",
+      "Heaume mystérieux",
+      "Таинственный шлем",
+      "Mysteriöser Helm",
+      "Elmo Misterioso",
+      "Elmo Misterioso",
+      "수수께끼의 투구",
+      "神秘頭盔",
+      "神秘头盔"
+    ],
+    "Media": "inv_helm_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235970,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Legguards",
+      "Musleras misteriosas",
+      "Guarda-pernas Misteriosos",
+      "Mysterious Legguards",
+      "Musleras misteriosas",
+      "Garde-jambes mystérieux",
+      "Таинственные набедренники",
+      "Mysteriöse Beinschützer",
+      "Guarda-pernas Misteriosos",
+      "Gambali Foderati Misteriosi",
+      "수수께끼의 다리보호대",
+      "神秘腿甲",
+      "神秘腿铠"
+    ],
+    "Media": "inv_pant_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235971,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Gauntlets",
+      "Guanteletes misteriosos",
+      "Manoplas Misteriosas",
+      "Mysterious Gauntlets",
+      "Guanteletes misteriosos",
+      "Gantelets mystérieux",
+      "Таинственные рукавицы",
+      "Mysteriöse Stulpen",
+      "Manoplas Misteriosas",
+      "Guanti Lunghi Misteriosi",
+      "수수께끼의 건틀릿",
+      "神秘護手",
+      "神秘手甲"
+    ],
+    "Media": "inv_glove_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235972,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Sabatons",
+      "Escarpes misteriosos",
+      "Escarpes Misteriosos",
+      "Mysterious Sabatons",
+      "Escarpes misteriosos",
+      "Solerets mystérieux",
+      "Таинственные башмаки",
+      "Mysteriöse Stein",
+      "Escarpes Misteriosos",
+      "Calzari Misteriosi",
+      "수수께끼의 발덮개",
+      "神秘脛甲",
+      "神秘胄靴"
+    ],
+    "Media": "inv_boot_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235973,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Breastplate",
+      "Coraza misteriosa",
+      "Peitoral Misterioso",
+      "Mysterious Breastplate",
+      "Coraza misteriosa",
+      "Cuirasse mystérieuse",
+      "Таинственная кираса",
+      "Mysteriöse Brustplatte",
+      "Peitoral Misterioso",
+      "Pettorale Corazzato Misterioso",
+      "수수께끼의 가슴보호갑",
+      "神秘胸甲",
+      "神秘胸铠"
+    ],
+    "Media": "inv_chest_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235974,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Cloak",
+      "Capa misteriosa",
+      "Manto Misterioso",
+      "Mysterious Cloak",
+      "Capa misteriosa",
+      "Cape mystérieuse",
+      "Таинственный плащ",
+      "Mysteriöse Münze",
+      "Manto Misterioso",
+      "Mantello Misterioso",
+      "수수께끼의 망토",
+      "神秘披風",
+      "神秘披风"
+    ],
+    "Media": "inv_cape_plate_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235975,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Shawl",
+      "Chal misterioso",
+      "Xale Misterioso",
+      "Mysterious Shawl",
+      "Chal misterioso",
+      "Châle mystérieux",
+      "Таинственная шаль",
+      "Mysteriöser Schal",
+      "Xale Misterioso",
+      "Scialle Misterioso",
+      "수수께끼의 어깨망토",
+      "神秘披巾",
+      "神秘披肩"
+    ],
+    "Media": "inv_cape_cloth_undergroundquest_b_01.jpg"
+  },
+  {
+    "TagId": 235976,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Pendant",
+      "Colgante misterioso",
+      "Pingente Misterioso",
+      "Mysterious Pendant",
+      "Colgante misterioso",
+      "Pendentif mystérieux",
+      "Таинственная подвеска",
+      "Mysteriöser Anhänger",
+      "Pingente Misterioso",
+      "Pendente Misterioso",
+      "수수께끼의 펜던트",
+      "神秘墜飾",
+      "神秘挂坠"
+    ],
+    "Media": "inv_6_0raid_necklace_4a.jpg"
+  },
+  {
+    "TagId": 235977,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Ring",
+      "Anillo misterioso",
+      "Anel Misterioso",
+      "Mysterious Ring",
+      "Anillo misterioso",
+      "Anneau mystérieux",
+      "Таинственное кольцо",
+      "Mysteriöser Ring",
+      "Anel Misterioso",
+      "Anello Misterioso",
+      "수수께끼의 반지",
+      "神秘戒指",
+      "神秘指环"
+    ],
+    "Media": "inv_ring_progenitorraid_03_yellow.jpg"
+  },
+  {
+    "TagId": 235978,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Signet",
+      "Sello misterioso",
+      "Sinete Misterioso",
+      "Mysterious Signet",
+      "Sello misterioso",
+      "Chevalière mystérieuse",
+      "Таинственная печатка",
+      "Mysteriöses Signet",
+      "Sinete Misterioso",
+      "Anello con Sigillo Misterioso",
+      "수수께끼의 인장",
+      "神秘璽戒",
+      "神秘徽戒"
+    ],
+    "Media": "inv_ring_revendrethraid_02_gold.jpg"
+  },
+  {
+    "TagId": 235979,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mysterious Band",
+      "Sortija misteriosa",
+      "Elo Misterioso",
+      "Mysterious Band",
+      "Sortija misteriosa",
+      "Bague mystérieuse",
+      "Таинственный перстень",
+      "Geheimnisvolles Band",
+      "Elo Misterioso",
+      "Vera Misteriosa",
+      "수수께끼의 고리",
+      "神秘指環",
+      "神秘指箍"
+    ],
+    "Media": "inv_10_dungeonjewelry_primitive_ring_1gnoll_color5.jpg"
+  },
+  {
+    "TagId": 235980,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Scourge of the Aspects",
+      "Azote de los Aspectos",
+      "Flagelo dos Aspectos",
+      "Scourge of the Aspects",
+      "Azote de los Aspectos",
+      "Fléau des Aspects",
+      "Бич Аспектов",
+      "Geißel der Aspekte",
+      "Flagelo dos Aspectos",
+      "Flagello degli Aspetti",
+      "위상의 재앙",
+      "守護巨龍之災",
+      "守护巨龙之祸"
+    ],
+    "Media": "inv_chromaticdragonpet2.jpg"
+  },
+  {
     "TagId": 235984,
     "TagType": 21,
     "Names": [
@@ -11422,6 +13375,69 @@
       "废料操纵者的最后一搏"
     ],
     "Media": "creatureportrait_infernal_ball_02.jpg"
+  },
+  {
+    "TagId": 235985,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Heroic Half Shell",
+      "Medio caparazón heroico",
+      "Casco Heroico",
+      "Heroic Half Shell",
+      "Media concha heroica",
+      "Demi-carapace héroïque",
+      "Героический панцирь",
+      "Heroische Halbmuschel",
+      "Casco Heroico",
+      "Guscio Eroico",
+      "영웅의 반껍질",
+      "英雄半殼",
+      "英雄龟壳"
+    ],
+    "Media": "inv_cape_special_turtleshell_c_01.jpg"
+  },
+  {
+    "TagId": 235986,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Evil King's Half Shell",
+      "Medio caparazón de rey malvado",
+      "Casco do Rei Maligno",
+      "Evil King's Half Shell",
+      "Media concha de rey malvado",
+      "Demi-carapace du roi maléfique",
+      "Панцирь злого короля",
+      "Halbmuschel des bösen Königs",
+      "Casco do Rei Maligno",
+      "Guscio del Re Malvagio",
+      "사악한 왕의 반껍질",
+      "邪王半殼",
+      "王霸的龟壳"
+    ],
+    "Media": "inv_cape_special_turtleshell_c_02.jpg"
+  },
+  {
+    "TagId": 235987,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adorned Half Shell",
+      "Medio caparazón adornado",
+      "Casco Adornado",
+      "Adorned Half Shell",
+      "Media concha adornada",
+      "Demi-carapace décorée",
+      "Украшенный панцирь",
+      "Verzierte Halbmuschel",
+      "Casco Adornado",
+      "Guscio Adornato",
+      "장식된 반껍질",
+      "華飾半殼",
+      "缀饰龟壳"
+    ],
+    "Media": "inv_cape_special_turtleshell_c_03.jpg"
   },
   {
     "TagId": 235988,

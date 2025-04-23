@@ -4856,7 +4856,7 @@
       "Derrame de aceite",
       "Derramar Óleo",
       "Spew Oil",
-      "Derramar aceite",
+      "Derramar petróleo",
       "Jet de naphte",
       "Нефтяной фонтан",
       "Öl speien",
@@ -4867,6 +4867,27 @@
       "喷油"
     ],
     "Media": "spell_yorsahj_bloodboil_black.jpg"
+  },
+  {
+    "TagId": 468546,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Purifying Storm",
+      "Tormenta purificadora",
+      "Tempestade Purificante",
+      "Purifying Storm",
+      "Tormenta purificadora",
+      "Tempête purificatrice",
+      "Очищающая буря",
+      "Läuternder Sturm",
+      "Tempestade Purificante",
+      "Tempesta Purificante",
+      "정화하는 폭풍",
+      "淨化風暴",
+      "净涤风暴"
+    ],
+    "Media": "spell_shaman_stormearthfire.jpg"
   },
   {
     "TagId": 468549,
@@ -5285,6 +5306,27 @@
       "[DNT] Quest End/Abandoned",
       "[DNT] Quest End/Abandoned",
       "[DNT] Quest End/Abandoned"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 468583,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash",
+      "[DNT] Cone Slash"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9115,7 +9157,7 @@
     "Names": [
       null,
       "Ferocious Bite",
-      "Mordida feroz",
+      "Mordedura feroz",
       "Mordida Feroz",
       "Ferocious Bite",
       "Mordedura feroz",

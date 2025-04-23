@@ -210,6 +210,27 @@
     "Media": "inv_wildfirebomb.jpg"
   },
   {
+    "TagId": 1218011,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Spotlight, Large",
+      "Repeatable Event - Dastardly Duos - Spotlight, Large",
+      "Evento Repetível - Duplas da Discórdia - Holofote, Grande",
+      "Repeatable Event - Dastardly Duos - Spotlight, Large",
+      "Evento repetible - Dúos despiadados - Foco, grande",
+      "Évènement répétable – Duos infâmes – Projecteur, grand",
+      "Повторяющееся событие – Коварные Дуо – прожектор, большой",
+      "Wiederholbares Ereignis - Durchtriebene Duos - Scheinwerfer, groß",
+      "Evento Repetível - Duplas da Discórdia - Holofote, Grande",
+      "Evento Ripetibile - Compari Ignobili - Riflettore, Grande",
+      "반복 이벤트 - 수라 짝패 - 집중조명, 대형",
+      "可重複事件 - 殘虐雙煞 - 聚光燈，大",
+      "可重复事件 - 卑鄙双雄 - 大型聚光灯"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1218012,
     "TagType": 26,
     "Names": [
@@ -1205,7 +1226,7 @@
       "Conjunto: Kit de máscaras al reverso",
       "Indumentária: Conjunto de Máscara Burlesca",
       "Ensemble: Topsy Turvy Mask Set",
-      "Indumentaria: Conjunto de máscaras patas arriba",
+      "Indumentaria: Conjunto de máscaras carnavalescas",
       "Ensemble\u00A0: masques du charivari",
       "Комплект: набор масок \"Коронованные прохиндеи\"",
       "Ensemble: Kunterbuntes Maskenset",
@@ -3003,6 +3024,27 @@
     "Media": "inv_protoramearthen_black.jpg"
   },
   {
+    "TagId": 1218229,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Scarred Gryphon",
+      "Grifo marcado por el Vacío",
+      "Grifo Marcado pelo Caos",
+      "Void-Scarred Gryphon",
+      "Grifo marcado por el Vacío",
+      "Griffon marqué par le Vide",
+      "Зараженный Бездной грифон",
+      "Leerenvernarbter Greif",
+      "Grifo Marcado pelo Caos",
+      "Grifone Sfregiato dal Vuoto",
+      "공허의 자취가 남은 그리핀",
+      "虛無之痕獅鷲獸",
+      "虚痕狮鹫"
+    ],
+    "Media": "inv_misc_elitegryphon.jpg"
+  },
+  {
     "TagId": 1218231,
     "TagType": 26,
     "Names": [
@@ -3295,6 +3337,27 @@
       "巨拳重击"
     ],
     "Media": "ability_rogue_kidneyshot.jpg"
+  },
+  {
+    "TagId": 1218259,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deploy Mecha-Scrapper",
+      "Desplegar mecachatarrero",
+      "Acionar Sucateiro Mecânico",
+      "Deploy Mecha-Scrapper",
+      "Desplegar desguazameca",
+      "Déploiement de robot-ferrailleur",
+      "Размещение Хламобота",
+      "Mechaverschrotter einsetzen",
+      "Acionar Sucateiro Mecânico",
+      "Schieramento Riciclatore Meccanico",
+      "기계고철상 배치",
+      "部署機械廢料機",
+      "部署机械拆解者"
+    ],
+    "Media": "inv_misc_head_clockworkgnome_01.jpg"
   },
   {
     "TagId": 1218260,
@@ -3885,6 +3948,69 @@
     "Media": "inv_10_engineering_device_gadget3_color3.jpg"
   },
   {
+    "TagId": 1218305,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Forged Stallion",
+      "Semental forjado por el Vacío",
+      "Garanhão Forjado no Caos",
+      "Void-Forged Stallion",
+      "Semental forjado en el Vacío",
+      "Étalon forgé par le Vide",
+      "Кованный в Бездне жеребец",
+      "Leerengeschmiedeter Hengst",
+      "Garanhão Forjado no Caos",
+      "Stallone Forgiato dal Vuoto",
+      "공허로 단련된 군마",
+      "虛無鑄造戰馬",
+      "虚铸骏马"
+    ],
+    "Media": "ability_mount_nightmarehorse.jpg"
+  },
+  {
+    "TagId": 1218306,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Scarred Pack Mother",
+      "Madre de manada marcada por el Vacío",
+      "Matriarca da Alcateia Marcada pelo Caos",
+      "Void-Scarred Pack Mother",
+      "Madre del grupo marcada por el Vacío",
+      "Mère de meute marquée par le Vide",
+      "Зараженная Бездной мать стаи",
+      "Leerenvernarbte Rudelmutter",
+      "Matriarca da Alcateia Marcada pelo Caos",
+      "Capobranco Sfregiata dal Vuoto",
+      "공허의 자취가 남은 무리 어미",
+      "虛無之痕族母",
+      "虚痕狼母"
+    ],
+    "Media": "ability_mount_blackdirewolf.jpg"
+  },
+  {
+    "TagId": 1218307,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Scarred Windrider",
+      "Jinete del viento marcado por el Vacío",
+      "Mantícora Marcada pelo Caos",
+      "Void-Scarred Windrider",
+      "Jinete del viento marcado por el Vacío",
+      "Coursier du vent marqué par le Vide",
+      "Зараженный Бездной ветрокрыл",
+      "Leerenvernarbter Windreiter",
+      "Mantícora Marcada pelo Caos",
+      "Viverna dei Venti Sfregiata dal Vuoto",
+      "공허의 자취가 남은 와이번",
+      "虛無之痕乘風者",
+      "虚痕驭风者"
+    ],
+    "Media": "ability_mount_wyvern_01.jpg"
+  },
+  {
     "TagId": 1218308,
     "TagType": 26,
     "Names": [
@@ -3948,6 +4074,27 @@
     "Media": "inv_potion_134.jpg"
   },
   {
+    "TagId": 1218314,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ny'alothan Shadow Worm",
+      "Gusano sombrío ny'alothano",
+      "Verme Sombrio Ny'alothano",
+      "Ny'alothan Shadow Worm",
+      "Gusano de sombra de Ny'alotha",
+      "Ver d’ombre de Ny’alotha",
+      "Ни'алотский темный червь",
+      "Ny'alothischer Schattenwurm",
+      "Verme Sombrio Ny'alothano",
+      "Verme d'Ombra di Ny'alotha",
+      "나이알로사 어둠벌레",
+      "奈奧羅薩暗影蟲",
+      "尼奥罗萨暗影蠕虫"
+    ],
+    "Media": "inv_serpentmount_blue.jpg"
+  },
+  {
     "TagId": 1218315,
     "TagType": 26,
     "Names": [
@@ -3967,6 +4114,48 @@
       "电穿刺针测试型号"
     ],
     "Media": "inv_10_tailoring_purchasedthread_color2.jpg"
+  },
+  {
+    "TagId": 1218316,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corruption of the Aspects",
+      "Corrupción de los Aspectos",
+      "Corrupção dos Aspectos",
+      "Corruption of the Aspects",
+      "Corrupción de los Aspectos",
+      "Corruption des Aspects",
+      "Порча Аспектов",
+      "Verderbnis der Aspekte",
+      "Corrupção dos Aspectos",
+      "Corruzione degli Aspetti",
+      "위상의 타락",
+      "守護巨龍之腐",
+      "守护巨龙之堕"
+    ],
+    "Media": "inv_dragonchromaticmount2.jpg"
+  },
+  {
+    "TagId": 1218317,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Crystal Panther",
+      "Pantera de cristal del Vacío",
+      "Pantera de Cristal do Caos",
+      "Void-Crystal Panther",
+      "Pantera de cristal del Vacío",
+      "Panthère en cristal du Vide",
+      "Пантера из кристалла Бездны",
+      "Leerenkristallpanther",
+      "Pantera de Cristal do Caos",
+      "Pantera di Cristallo del Vuoto",
+      "공허수정 표범",
+      "虛無水晶獵豹",
+      "虚空水晶猎豹"
+    ],
+    "Media": "ability_mount_onyxpanther_black.jpg"
   },
   {
     "TagId": 1218318,
@@ -4746,6 +4935,48 @@
     "Media": "spell_shaman_staticshock.jpg"
   },
   {
+    "TagId": 1218378,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eye of Chaos",
+      "Ojo de caos",
+      "Olho do Caos",
+      "Eye of Chaos",
+      "Ojo de caos",
+      "Œil du chaos",
+      "Око хаоса",
+      "Auge des Chaos",
+      "Olho do Caos",
+      "Occhio del Caos",
+      "혼돈의 눈",
+      "混沌之眼",
+      "混沌之眼"
+    ],
+    "Media": "inv_eyeofnzothpet.jpg"
+  },
+  {
+    "TagId": 1218379,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Scarred Parrot",
+      "Loro marcado por el Vacío",
+      "Papagaio Marcado pelo Caos",
+      "Void-Scarred Parrot",
+      "Loro marcado por el Vacío",
+      "Perroquet marqué par le Vide",
+      "Зараженный Бездной попугай",
+      "Leerenvernarbter Papagei",
+      "Papagaio Marcado pelo Caos",
+      "Pappagallo Sfregiato dal Vuoto",
+      "공허의 자취가 남은 앵무새",
+      "虛無之痕鸚鵡",
+      "虚痕鹦鹉"
+    ],
+    "Media": "inv_icon_feather05b.jpg"
+  },
+  {
     "TagId": 1218380,
     "TagType": 26,
     "Names": [
@@ -4767,6 +4998,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1218381,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Scarred Scorpid",
+      "Escórpido marcado por el Vacío",
+      "Escorpídeo Marcado pelo Caos",
+      "Void-Scarred Scorpid",
+      "Escórpido marcado por el Vacío",
+      "Scorpide marqué par le Vide",
+      "Зараженный Бездной скорпид",
+      "Leerenvernarbter Skorpid",
+      "Escorpídeo Marcado pelo Caos",
+      "Scorpide Sfregiato dal Vuoto",
+      "공허의 자취가 남은 전갈",
+      "虛無之痕蠍子",
+      "虚痕蝎"
+    ],
+    "Media": "ability_hunter_pet_scorpid.jpg"
+  },
+  {
     "TagId": 1218382,
     "TagType": 26,
     "Names": [
@@ -4786,6 +5038,27 @@
       "错乱车间"
     ],
     "Media": "spell_shaman_staticshock.jpg"
+  },
+  {
+    "TagId": 1218383,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void-Scarred Tallstrider Chick",
+      "Polluelo de zancaalta marcado por el Vacío",
+      "Filhote de Moa Marcado pelo Caos",
+      "Void-Scarred Tallstrider Chick",
+      "Cría de zancaalta marcada por el Vacío",
+      "Jeune haut trotteur marqué par le Vide",
+      "Зараженный Бездной детеныш долгонога",
+      "Leerenvernarbtes Weitschreiterküken",
+      "Filhote de Moa Marcado pelo Caos",
+      "Cucciolo di Zampalunga Sfregiato dal Vuoto",
+      "공허의 자취가 남은 어린 타조",
+      "虛無之痕小陸行鳥",
+      "虚痕陆行雏鸟"
+    ],
+    "Media": "ability_hunter_pet_tallstrider.jpg"
   },
   {
     "TagId": 1218385,
@@ -4828,6 +5101,69 @@
       "错乱车间"
     ],
     "Media": "spell_shaman_staticshock.jpg"
+  },
+  {
+    "TagId": 1218387,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]",
+      "[DNT] Diluted Potion of Celerity [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_03.jpg"
+  },
+  {
+    "TagId": 1218388,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mysterious Celerity",
+      "Celeridad misteriosa",
+      "Celeridade Misteriosa",
+      "Mysterious Celerity",
+      "Celeridad misteriosa",
+      "Célérité mystérieuse",
+      "Таинственная стремительность",
+      "Mysteriöse Schnelligkeit",
+      "Celeridade Misteriosa",
+      "Celerità Misteriosa",
+      "수수께끼의 기민함",
+      "神秘迅敏",
+      "神秘敏锐"
+    ],
+    "Media": "inv_alchemy_elixir_03.jpg"
+  },
+  {
+    "TagId": 1218389,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]",
+      "[DNT] Concentrated Potion of Celerity [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_03.jpg"
   },
   {
     "TagId": 1218390,
@@ -4878,13 +5214,13 @@
       null,
       "Darkfuse Bazooka",
       "Bazuca mechaoscura",
-      "Bazuca Sombrafuso",
+      "Bazuca de Sombrafuso",
       "Darkfuse Bazooka",
       "Bazuca de Fundisombras",
       "Bazooka imprégné de ténèbres",
       "Базука Мрачных Минеров",
       "Bazooka der Düsternisverschmolzenen",
-      "Bazuca Sombrafuso",
+      "Bazuca de Sombrafuso",
       "Bazooka dei Micciascura",
       "다크퓨즈 바주카",
       "暗融火箭筒",
@@ -4899,13 +5235,13 @@
       null,
       "Darkfuse Shockrod",
       "Vara eléctrica mechaoscura",
-      "Bastão Elétrico Sombrafuso",
+      "Bastão Elétrico de Sombrafuso",
       "Darkfuse Shockrod",
       "Vara de descargas de Fundisombras",
       "Électro-matraque imprégnée de ténèbres",
       "Электрожезл Мрачных Минеров",
       "Schockrute der Düsternisverschmolzenen",
-      "Bastão Elétrico Sombrafuso",
+      "Bastão Elétrico de Sombrafuso",
       "Barra d'Urto dei Micciascura",
       "다크퓨즈 충격봉",
       "暗融電擊棒",
@@ -4920,13 +5256,13 @@
       null,
       "Darkfuse Firecrackers",
       "Petardos mechaoscura",
-      "Bombinhas Sombrafuso",
+      "Bombinhas de Sombrafuso",
       "Darkfuse Firecrackers",
       "Petardos de Fundisombras",
       "Pétards imprégnés de ténèbres",
       "Хлопушки Мрачных Минеров",
       "Knallfrösche der Düsternisverschmolzenen",
-      "Bombinhas Sombrafuso",
+      "Bombinhas de Sombrafuso",
       "Petardi dei Micciascura",
       "다크퓨즈 폭죽",
       "暗融鞭炮",
@@ -4941,13 +5277,13 @@
       null,
       "Darkfuse Powershot",
       "Potentiro mechaoscura",
-      "Tirambaço Sombrafuso",
+      "Tirambaço de Sombrafuso",
       "Darkfuse Powershot",
       "Pegatiros de Fundisombras",
       "Puissant canon imprégné de ténèbres",
       "Ручная пушка Мрачных Минеров",
       "Kraftwumme der Düsternisverschmolzenen",
-      "Tirambaço Sombrafuso",
+      "Tirambaço de Sombrafuso",
       "Tiro Potente dei Micciascura",
       "다크퓨즈 강력총",
       "暗融能量槍",
@@ -4962,13 +5298,13 @@
       null,
       "Darkfuse Neckslicer",
       "Rebanacuellos mechaoscura",
-      "Degoladora Sombrafuso",
+      "Degoladora de Sombrafuso",
       "Darkfuse Neckslicer",
       "Rajacuellos de Fundisombras",
       "Décapiteur imprégné de ténèbres",
       "Горлорез Мрачных Минеров",
       "Nackenschlitzer der Düsternisverschmolzenen",
-      "Degoladora Sombrafuso",
+      "Degoladora de Sombrafuso",
       "Tagliacollo dei Micciascura",
       "다크퓨즈 목절단기",
       "暗融割頸者",
@@ -5004,13 +5340,13 @@
       null,
       "Darkfuse Bazooka",
       "Bazuca mechaoscura",
-      "Bazuca Sombrafuso",
+      "Bazuca de Sombrafuso",
       "Darkfuse Bazooka",
       "Bazuca de Fundisombras",
       "Bazooka imprégné de ténèbres",
       "Базука Мрачных Минеров",
       "Bazooka der Düsternisverschmolzenen",
-      "Bazuca Sombrafuso",
+      "Bazuca de Sombrafuso",
       "Bazooka dei Micciascura",
       "다크퓨즈 바주카",
       "暗融火箭筒",
@@ -5025,13 +5361,13 @@
       null,
       "Darkfuse Shockrod",
       "Vara eléctrica mechaoscura",
-      "Bastão Elétrico Sombrafuso",
+      "Bastão Elétrico de Sombrafuso",
       "Darkfuse Shockrod",
       "Vara de descargas de Fundisombras",
       "Électro-matraque imprégnée de ténèbres",
       "Электрожезл Мрачных Минеров",
       "Schockrute der Düsternisverschmolzenen",
-      "Bastão Elétrico Sombrafuso",
+      "Bastão Elétrico de Sombrafuso",
       "Barra d'Urto dei Micciascura",
       "다크퓨즈 충격봉",
       "暗融電擊棒",
@@ -5046,13 +5382,13 @@
       null,
       "Darkfuse Firecrackers",
       "Petardos mechaoscura",
-      "Bombinhas Sombrafuso",
+      "Bombinhas de Sombrafuso",
       "Darkfuse Firecrackers",
       "Petardos de Fundisombras",
       "Pétards imprégnés de ténèbres",
       "Хлопушки Мрачных Минеров",
       "Knallfrösche der Düsternisverschmolzenen",
-      "Bombinhas Sombrafuso",
+      "Bombinhas de Sombrafuso",
       "Petardi dei Micciascura",
       "다크퓨즈 폭죽",
       "暗融鞭炮",
@@ -5067,13 +5403,13 @@
       null,
       "Darkfuse Powershot",
       "Potentiro mechaoscura",
-      "Tirambaço Sombrafuso",
+      "Tirambaço de Sombrafuso",
       "Darkfuse Powershot",
       "Pegatiros de Fundisombras",
       "Puissant canon imprégné de ténèbres",
       "Ручная пушка Мрачных Минеров",
       "Kraftwumme der Düsternisverschmolzenen",
-      "Tirambaço Sombrafuso",
+      "Tirambaço de Sombrafuso",
       "Tiro Potente dei Micciascura",
       "다크퓨즈 강력총",
       "暗融能量槍",
@@ -5088,13 +5424,13 @@
       null,
       "Darkfuse Neckslicer",
       "Rebanacuellos mechaoscura",
-      "Degoladora Sombrafuso",
+      "Degoladora de Sombrafuso",
       "Darkfuse Neckslicer",
       "Rajacuellos de Fundisombras",
       "Décapiteur imprégné de ténèbres",
       "Горлорез Мрачных Минеров",
       "Nackenschlitzer der Düsternisverschmolzenen",
-      "Degoladora Sombrafuso",
+      "Degoladora de Sombrafuso",
       "Tagliacollo dei Micciascura",
       "다크퓨즈 목절단기",
       "暗融割頸者",
@@ -5120,6 +5456,27 @@
       "B.B.B.F.G.",
       "B.B.B.F.G.",
       "B.B.B.F.G."
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218408,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Repeatable Event - Dastardly Duos - Score - Kill Score, Bonus (after the fight)",
+      "Repeatable Event - Dastardly Duos - Score - Kill Score, Bonus (after the fight)",
+      "Evento Repetível - Duplas da Discórdia - Pontuação - Pontuação de Abate, Bônus (após a luta)",
+      "Repeatable Event - Dastardly Duos - Score - Kill Score, Bonus (after the fight)",
+      "Evento repetible - Dúos despiadados - Puntuación - Puntuación de muertes, bonus (tras la pelea)",
+      "Évènement répétable – Duos infâmes – Score – Score d’élimination, bonus (après le combat)",
+      "Повторяющееся событие – Коварные Дуо – счет – счет за убийства, бонус (после битвы)",
+      "Wiederholbares Ereignis - Durchtriebene Duos - Punkte - Siegpunkte, Bonus (nach Kampf)",
+      "Evento Repetível - Duplas da Discórdia - Pontuação - Pontuação de Abate, Bônus (após a luta)",
+      "Evento Ripetibile - Compari Ignobili - Punteggio - Punteggio Uccisione, Bonus (dopo lo scontro)",
+      "반복 이벤트 - 수라 짝패 - 점수 - 처치 점수, 추가 (전투 이후)",
+      "可重複事件 - 殘虐雙煞 - 分數 - 擊殺分數，加成(對戰後)",
+      "可重复事件 - 卑鄙双雄 - 得分 - 消灭得分，加成（战后）"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5607,6 +5964,69 @@
     "Media": "inv_111_wheel_blue.jpg"
   },
   {
+    "TagId": 1218453,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Diluted Potion of Swiftstrike [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_01.jpg"
+  },
+  {
+    "TagId": 1218454,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mysterious Swiftstrike",
+      "Golpeveloz misterioso",
+      "Golpepresto Misterioso",
+      "Mysterious Swiftstrike",
+      "Golpeveloz misterioso",
+      "Frappe rapide mystérieuse",
+      "Таинственный молниеносный удар",
+      "Mysteriöser Flinkschlag",
+      "Golpepresto Misterioso",
+      "Colpolesto Misterioso",
+      "수수께끼의 신속 타격",
+      "神秘迅擊",
+      "神秘迅击"
+    ],
+    "Media": "inv_alchemy_elixir_01.jpg"
+  },
+  {
+    "TagId": 1218456,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]",
+      "[DNT] Concentrated Potion of Swiftstrike [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_01.jpg"
+  },
+  {
     "TagId": 1218459,
     "TagType": 26,
     "Names": [
@@ -6006,6 +6426,69 @@
     "Media": "achievement_alliedrace_mechagnome.jpg"
   },
   {
+    "TagId": 1218496,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]",
+      "[DNT] Diluted Potion of Tenacity [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_06.jpg"
+  },
+  {
+    "TagId": 1218497,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mysterious Tenacity",
+      "Tenacidad misteriosa",
+      "Tenacidade Misteriosa",
+      "Mysterious Tenacity",
+      "Tenacidad misteriosa",
+      "Ténacité mystérieuse",
+      "Таинственное упорство",
+      "Mysteriöse Zähigkeit",
+      "Tenacidade Misteriosa",
+      "Tenacia Misteriosa",
+      "수수께끼의 강인함",
+      "神秘堅毅",
+      "神秘坚韧"
+    ],
+    "Media": "inv_alchemy_elixir_06.jpg"
+  },
+  {
+    "TagId": 1218498,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]",
+      "[DNT] Concentrated Potion of Tenacity [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_06.jpg"
+  },
+  {
     "TagId": 1218500,
     "TagType": 26,
     "Names": [
@@ -6025,6 +6508,69 @@
       "充能的极巨大炸弹"
     ],
     "Media": "achievement_alliedrace_mechagnome.jpg"
+  },
+  {
+    "TagId": 1218501,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]",
+      "[DNT] Diluted Potion of Revivification [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_05.jpg"
+  },
+  {
+    "TagId": 1218502,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification",
+      "[dnt] Mysterious Revivification"
+    ],
+    "Media": "inv_alchemy_elixir_05.jpg"
+  },
+  {
+    "TagId": 1218503,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]",
+      "[DNT] Concentrated Potion of Revivification [Do Not Use]"
+    ],
+    "Media": "inv_alchemy_elixir_05.jpg"
   },
   {
     "TagId": 1218504,
@@ -6111,6 +6657,27 @@
     "Media": "inv_misc_food_legion_goooil_drop.jpg"
   },
   {
+    "TagId": 1218517,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista",
+      "[DNT] Object Interact Spell - Content 016 - Ballista"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1218518,
     "TagType": 26,
     "Names": [
@@ -6174,6 +6741,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1218521,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eligible for the Daily Bonus",
+      "Puede recibir la bonificación diaria",
+      "Qualificado para o Bônus Diário",
+      "Eligible for the Daily Bonus",
+      "Puedes obtener el bonus diario",
+      "Éligible au bonus quotidien",
+      "Можно получить ежедневную награду",
+      "Anspruch auf den täglichen Bonus",
+      "Qualificado para o Bônus Diário",
+      "Idoneo per il Bonus Giornaliero",
+      "수수께끼의 추가 보상 획득 가능",
+      "可取得每日神秘加成",
+      "可以获得每日神秘奖励"
+    ],
+    "Media": "inv_1115_firstkillbundledrop.jpg"
+  },
+  {
+    "TagId": 1218523,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]",
+      "[DNT] Ineligible for First Kill of the Day Bonus [Tracker]"
+    ],
+    "Media": "inv_misc_orb_04.jpg"
+  },
+  {
     "TagId": 1218527,
     "TagType": 26,
     "Names": [
@@ -6216,6 +6825,48 @@
     "Media": "ability_vehicle_oiljets.jpg"
   },
   {
+    "TagId": 1218535,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire",
+      "[DNT] Ballista Fire"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218536,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Score Stats, Bonus",
+      "Estadísticas de puntaje, bonificación",
+      "Estatísticas de Pontuação, Bônus",
+      "Score Stats, Bonus",
+      "Estadísticas de puntuación, bonus",
+      "Statistiques sur les scores, bonus",
+      "Статистика счета, бонус",
+      "Punktwerte, Bonus",
+      "Estatísticas de Pontuação, Bônus",
+      "Punteggio Statistiche, Bonus",
+      "점수 통계, 추가 점수",
+      "分數屬性，加成",
+      "得分属性，加成"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1218537,
     "TagType": 26,
     "Names": [
@@ -6235,6 +6886,48 @@
       "叠起的卡牌"
     ],
     "Media": "inv_10_inscription_darkmooncards_spore_blank.jpg"
+  },
+  {
+    "TagId": 1218540,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bowl",
+      "Cuenco",
+      "Tigela",
+      "Bowl",
+      "Cuenco",
+      "Coupe",
+      "Миска",
+      "Schale",
+      "Tigela",
+      "Scodella",
+      "그릇",
+      "碗",
+      "盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218542,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ineligible for Daily Mysterious Bonus",
+      "No puede recibir una bonificación misteriosa diaria",
+      "Não Qualificado para o Bônus Misterioso Diário",
+      "Ineligible for Daily Mysterious Bonus",
+      "No puedes obtener el bonus misterioso diario",
+      "Inéligible au bonus mystérieux quotidien",
+      "Невозможно получить ежедневную таинственную награду",
+      "Kein Anspruch auf den täglichen geheimnisvollen Bonus",
+      "Não Qualificado para o Bônus Misterioso Diário",
+      "Non Idoneo per il Bonus Giornaliero Misterioso",
+      "수수께끼의 추가 보상 획득 불가",
+      "無法取得每日神秘加成",
+      "无法获得每日神秘奖励"
+    ],
+    "Media": "inv_misc_orb_04.jpg"
   },
   {
     "TagId": 1218545,
@@ -6426,6 +7119,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1218559,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218560,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load",
+      "[DNT] Object Interact Spell - Content 016 - Ballista - Load"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218561,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sureki Ballista Impact",
+      "Impacto de balista sureki",
+      "Impacto da Balista Sureki",
+      "Sureki Ballista Impact",
+      "Impacto de balista sureki",
+      "Impact de baliste sureki",
+      "Попадание из баллисты суреки",
+      "Einschlag einer Balliste der Sureki",
+      "Impacto da Balista Sureki",
+      "Impatto della Balista dei Sureki",
+      "수레키 쇠뇌 충격",
+      "蘇芮基弩砲衝擊",
+      "苏雷吉弩炮冲击"
+    ],
+    "Media": "inv_misc_ammo_arrow_01.jpg"
+  },
+  {
     "TagId": 1218567,
     "TagType": 26,
     "Names": [
@@ -6445,6 +7201,132 @@
       "安德麦蚌"
     ],
     "Media": "inv_misc_shell_02.jpg"
+  },
+  {
+    "TagId": 1218571,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218572,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218579,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile",
+      "[DNT] Skitterling Aura - Has Missile"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218580,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218594,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista",
+      "[DNT] Charge to Ballista"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218597,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista",
+      "[DNT] Load Ballista"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1218598,
@@ -6510,6 +7392,26 @@
     "Media": "inv_inscription_80_deck_blockades.jpg"
   },
   {
+    "TagId": 1218602,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles",
+      "[DNT] Ballista Missiles"
+    ]
+  },
+  {
     "TagId": 1218603,
     "TagType": 26,
     "Names": [
@@ -6548,6 +7450,27 @@
       "고블린 글라이더",
       "哥布林滑翔裝置",
       "地精滑翔机"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218611,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -6615,6 +7538,69 @@
     "Media": "ability_rogue_keepitrolling.jpg"
   },
   {
+    "TagId": 1218628,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218629,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218630,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1218631,
     "TagType": 26,
     "Names": [
@@ -6634,6 +7620,27 @@
       "浩劫火箭"
     ],
     "Media": "ability_mount_rocketmountblue.jpg"
+  },
+  {
+    "TagId": 1218634,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1218635,
@@ -6676,6 +7683,48 @@
       "追溯信号"
     ],
     "Media": "inv_misc_scopea.jpg"
+  },
+  {
+    "TagId": 1218637,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Food Bowl",
+      "Tazón de comida",
+      "Tigela de Comida",
+      "Food Bowl",
+      "Cuenco de comida",
+      "Bol de nourriture",
+      "Миска с едой",
+      "Fressnapf",
+      "Tigela de Comida",
+      "Scodella di Cibo",
+      "음식 그릇",
+      "餐碗",
+      "食盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1218638,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Discard",
+      "Desechar",
+      "Descartar",
+      "Discard",
+      "Desechar",
+      "Jeter",
+      "Отложить",
+      "Ablegen",
+      "Descartar",
+      "Scarto",
+      "버리기",
+      "丟棄",
+      "丢弃"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1218642,
@@ -7652,7 +8701,7 @@
       "Marcapasos de seforio improvisado",
       "Marca-passo Improvisado de Cequatrum",
       "Improvised Seaforium Pacemaker",
-      "Pacificador de seforio improvisado",
+      "Marcapasos de seforio improvisado",
       "Stimulateur cardiaque improvisé à l’hydroglycérine",
       "Импровизированный сефориевый стимулятор",
       "Improvisierter Zephyriumschrittmacher",

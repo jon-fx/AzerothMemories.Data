@@ -7615,7 +7615,7 @@
       "Кованое престижное знамя чемпиона",
       "Prestigeträchtiges Banner des geschmiedeten Champions",
       "Estandarte Prestigioso do Campeão Forjado",
-      "Stendardo Prestigioso del Gladiatore Forgiato",
+      "Stendardo Prestigioso del Campione Forgiato",
       "제련된 용사의 명망 높은 깃발",
       "百鍊勇士威望旌旗",
       "炉铸勇士的尊崇旗帜"
@@ -7690,19 +7690,19 @@
     "TagType": 30,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Prized Banner of the Algari",
+      "Estandarte premiado de los algari",
+      "Estandarte dos Algari Precioso",
+      "Prized Banner of the Algari",
+      "Estandarte preciado algariano",
+      "Bannière algarie adulée",
+      "Призовое алгарийское знамя",
+      "Geachtetes Banner der Algari",
+      "Estandarte dos Algari Precioso",
+      "Stendardo degli Algari Stimato",
+      "찬양받는 알가르의 깃발",
+      "阿爾加獲獎旌旗",
+      "至臻阿加旗帜"
     ],
     "Media": "inv_11xp_mdi_banner04.jpg"
   },
@@ -7711,19 +7711,19 @@
     "TagType": 30,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Prized Champion's Prestigious Banner",
+      "Estandarte prestigioso de campeón premiado",
+      "Estandarte Prestigioso do Campeão Precioso",
+      "Prized Champion's Prestigious Banner",
+      "Estandarte prestigioso de campeón preciado",
+      "Bannière prestigieuse de championnat adulée",
+      "Призовое престижное знамя чемпиона",
+      "Prestigeträchtiges Banner des geachteten Champions",
+      "Estandarte Prestigioso do Campeão Precioso",
+      "Stendardo Prestigioso del Campione Stimato",
+      "찬양받는 용사의 명망 높은 깃발",
+      "獲獎勇士威望旌旗",
+      "至臻勇士的尊崇旗帜"
     ],
     "Media": "inv_11xp_awc_banner04.jpg"
   },
@@ -8463,6 +8463,48 @@
     "Media": "inv_111_fishingbobber_rocket.jpg"
   },
   {
+    "TagId": 1570,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Arathi Entertainer's Flame",
+      "Llama del animador arathi",
+      "Chama do Artista Arathi",
+      "Arathi Entertainer's Flame",
+      "Llama de animador arathi",
+      "Flamme de bateleur arathi",
+      "Пламя аратийского артиста",
+      "Flamme des Arathiunterhalters",
+      "Chama do Artista Arathi",
+      "Fiamma dell'Intrattenitore Arathi",
+      "아라시 연예인의 불꽃",
+      "阿拉希雜耍之焰",
+      "阿拉希艺人的烈焰"
+    ],
+    "Media": "inv_misc_orb_05.jpg"
+  },
+  {
+    "TagId": 1571,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Flame's Radiance Banner",
+      "Estandarte de Fulgor de la Llama",
+      "Estandarte do Resplendor da Chama",
+      "Flame's Radiance Banner",
+      "Estandarte de la Radiancia de la Llama",
+      "Bannière de la Radiance de la Flamme",
+      "Знамя Сияния Пламени",
+      "Banner der Strahlen der Flamme",
+      "Estandarte do Resplendor da Chama",
+      "Stendardo della Radiosità della Fiamma",
+      "불꽃의 광휘 깃발",
+      "聖焰輝光旌旗",
+      "圣焰之耀旗帜"
+    ],
+    "Media": "inv_guild_standard_alliance_a.jpg"
+  },
+  {
     "TagId": 1572,
     "TagType": 30,
     "Names": [
@@ -8482,5 +8524,89 @@
       "至臻传说的旌旗"
     ],
     "Media": "inv_twwsoloshufflepennantreward_icons_purple.jpg"
+  },
+  {
+    "TagId": 1573,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Dastardly Banner",
+      "Estandarte despiadado",
+      "Estandarte da Discórdia",
+      "Dastardly Banner",
+      "Estandarte despiadado",
+      "Bannière infâme",
+      "Знамя коварства",
+      "Durchtriebenes Banner",
+      "Estandarte da Discórdia",
+      "Stendardo Ignobile",
+      "수라의 깃발",
+      "殘虐旌旗",
+      "卑鄙旗帜"
+    ],
+    "Media": "inv_banner_01.jpg"
+  },
+  {
+    "TagId": 1574,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Winner's Podium",
+      "Podio de ganadores",
+      "Pódio do Vencedor",
+      "Winner's Podium",
+      "Podio de ganador",
+      "Podium de victoire",
+      "Подиум победителя",
+      "Siegerpodest",
+      "Pódio do Vencedor",
+      "Podio del Vincitore",
+      "승자의 단상",
+      "勝者的領獎台",
+      "胜者领奖台"
+    ],
+    "Media": "inv_11xp_event_dastardlyduos_podium01_nocollision.jpg"
+  },
+  {
+    "TagId": 1578,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Radiant Lynx Whistle",
+      "Silbato de lince radiante",
+      "Apito do Lince Radiante",
+      "Radiant Lynx Whistle",
+      "Silbato de lince radiante",
+      "Sifflet à lynx radieux",
+      "Свисток сияющей рыси",
+      "Strahlende Luchspfeife",
+      "Apito do Lince Radiante",
+      "Fischietto della Lince Radiosa",
+      "광휘의 스라소니 호루라기",
+      "聖輝山貓之哨",
+      "光耀山猫哨子"
+    ],
+    "Media": "inv_11_0_misc_whistle_color1.jpg"
+  },
+  {
+    "TagId": 1579,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Secret Fish Goggles",
+      "Gafas de peces secretos",
+      "Óculos de Peixes Secretos",
+      "Secret Fish Goggles",
+      "Gafas de peces secretos",
+      "Lunettes à poissons secrets",
+      "Очки для поиска тайной рыбы",
+      "Fischfinderbrille",
+      "Óculos de Peixes Secretos",
+      "Occhiali dei Pesci Segreti",
+      "숨겨진 물고기 고글",
+      "神秘魚護目鏡",
+      "隐秘之鱼护目镜"
+    ],
+    "Media": "inv_gizmo_newgoggles.jpg"
   }
 ]

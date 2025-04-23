@@ -3427,19 +3427,19 @@
     "TagType": 23,
     "Names": [
       null,
-      "Charismatic Courier",
-      "Mensajero carismático",
-      "Mensageira Carismática",
-      "Charismatic Courier",
-      "Mensajero carismático",
-      "Messager charmeur",
-      "Обворожительный курьер",
-      "Charismatischer Kurier",
-      "Mensageira Carismática",
-      "Corriere Carismatico",
-      "매력적인 급사",
-      "神恩信差",
-      "诱人信使"
+      "Whoopy",
+      "Lulú",
+      "Urru",
+      "Whoopy",
+      "Wupi",
+      "Hululo",
+      "Крикуша",
+      "Hupsi",
+      "Urru",
+      "Edvige",
+      "슈웅이",
+      "烏皮",
+      "小飒"
     ],
     "Media": "inv_snowowlpet_white.jpg"
   },
@@ -4846,7 +4846,7 @@
       "Caccianoci Modello II",
       "소란스럽쥐 마크 II",
       "無賴馬克II號",
-      "淘气包II型"
+      "淘气鼠II型"
     ],
     "Media": "inv_mechanicalprairiedog_green.jpg"
   },
@@ -5867,7 +5867,7 @@
       "Júbilo",
       "Folia",
       "Merriment",
-      "Alegría",
+      "Dicha",
       "Vivejoie",
       "Веселье",
       "Heiterkeit",
@@ -6090,6 +6090,90 @@
     "Media": "inv_cockroach2_black.jpg"
   },
   {
+    "TagId": 4747,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Eye of Chaos",
+      "Ojo de caos",
+      "Olho do Caos",
+      "Eye of Chaos",
+      "Ojo de caos",
+      "Œil du chaos",
+      "Око хаоса",
+      "Auge des Chaos",
+      "Olho do Caos",
+      "Occhio del Caos",
+      "혼돈의 눈",
+      "混沌之眼",
+      "混沌之眼"
+    ],
+    "Media": "inv_eyeofnzothpet.jpg"
+  },
+  {
+    "TagId": 4748,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Void-Scarred Parrot",
+      "Loro marcado por el Vacío",
+      "Papagaio Marcado pelo Caos",
+      "Void-Scarred Parrot",
+      "Loro marcado por el Vacío",
+      "Perroquet marqué par le Vide",
+      "Зараженный Бездной попугай",
+      "Leerenvernarbter Papagei",
+      "Papagaio Marcado pelo Caos",
+      "Pappagallo Sfregiato dal Vuoto",
+      "공허의 자취가 남은 앵무새",
+      "虛無之痕鸚鵡",
+      "虚痕鹦鹉"
+    ],
+    "Media": "inv_icon_feather05b.jpg"
+  },
+  {
+    "TagId": 4749,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Void-Scarred Scorpid",
+      "Escórpido marcado por el Vacío",
+      "Escorpídeo Marcado pelo Caos",
+      "Void-Scarred Scorpid",
+      "Escórpido marcado por el Vacío",
+      "Scorpide marqué par le Vide",
+      "Зараженный Бездной скорпид",
+      "Leerenvernarbter Skorpid",
+      "Escorpídeo Marcado pelo Caos",
+      "Scorpide Sfregiato dal Vuoto",
+      "공허의 자취가 남은 전갈",
+      "虛無之痕蠍子",
+      "虚痕蝎"
+    ],
+    "Media": "ability_hunter_pet_scorpid.jpg"
+  },
+  {
+    "TagId": 4750,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Void-Scarred Tallstrider Chick",
+      "Polluelo de zancaalta marcado por el Vacío",
+      "Filhote de Moa Marcado pelo Caos",
+      "Void-Scarred Tallstrider Chick",
+      "Cría de zancaalta marcada por el Vacío",
+      "Jeune haut trotteur marqué par le Vide",
+      "Зараженный Бездной детеныш долгонога",
+      "Leerenvernarbtes Weitschreiterküken",
+      "Filhote de Moa Marcado pelo Caos",
+      "Cucciolo di Zampalunga Sfregiato dal Vuoto",
+      "공허의 자취가 남은 어린 타조",
+      "虛無之痕小陸行鳥",
+      "虚痕陆行雏鸟"
+    ],
+    "Media": "ability_hunter_pet_tallstrider.jpg"
+  },
+  {
     "TagId": 4755,
     "TagType": 23,
     "Names": [
@@ -6111,6 +6195,48 @@
     "Media": "inv_misc_coin_17.jpg"
   },
   {
+    "TagId": 4756,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Scourge of the Aspects",
+      "Azote de los Aspectos",
+      "Flagelo dos Aspectos",
+      "Scourge of the Aspects",
+      "Azote de los Aspectos",
+      "Fléau des Aspects",
+      "Бич Аспектов",
+      "Geißel der Aspekte",
+      "Flagelo dos Aspectos",
+      "Flagello degli Aspetti",
+      "위상의 재앙",
+      "守護巨龍之災",
+      "守护巨龙之祸"
+    ],
+    "Media": "inv_chromaticdragonpet2.jpg"
+  },
+  {
+    "TagId": 4757,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Frumpy Softpaw",
+      "Patasuave cinéreo",
+      "Farrapão Patafofa",
+      "Frumpy Softpaw",
+      "Patasuave desaliñado",
+      "Doucepatte grincheux",
+      "Лохматый мягколап",
+      "Altmodische Weichtatze",
+      "Farrapão Patafofa",
+      "Frumpy Zampamolle",
+      "지저분한 폭신발바닥",
+      "邋遢軟掌小熊貓",
+      "柔爪小呆熊"
+    ],
+    "Media": "inv_redpandapet_gray.jpg"
+  },
+  {
     "TagId": 4759,
     "TagType": 23,
     "Names": [
@@ -6130,6 +6256,27 @@
       "大炸蟹"
     ],
     "Media": "inv_crabbomb_black.jpg"
+  },
+  {
+    "TagId": 4761,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Pascal the Wonder Pup",
+      "Pascal, el Cachorro maravilla",
+      "Pascal, o Cãozinho Maravilha",
+      "Pascal the Wonder Pup",
+      "Pascal, el perrito maravilla",
+      "Pascal le Chiot prodige",
+      "Чудо-щенок Паскаль",
+      "Pascal der Wunderwelpe",
+      "Pascal, o Cãozinho Maravilha",
+      "Pascal il Cucciolo Meraviglia",
+      "천재견공 파스칼",
+      "『迷路小狗』帕斯卡",
+      "神奇小犬帕斯卡"
+    ],
+    "Media": "inv_chihuahuadogpet_body_tan.jpg"
   },
   {
     "TagId": 4762,
@@ -6172,5 +6319,110 @@
       "三鲜"
     ],
     "Media": "inv_babymurloc3bronze.jpg"
+  },
+  {
+    "TagId": 4792,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Ada the Sweetest",
+      "Ada, la más dulce",
+      "Aida, a Pitchula",
+      "Ada the Sweetest",
+      "Ada la Dulcérrima",
+      "Ada l’Adorable",
+      "Милейшая Ада",
+      "Ada die Süßeste",
+      "Aida, a Pitchula",
+      "Ada la Più Cucciola",
+      "상큼한 에이다",
+      "『蜜糖』艾達",
+      "甜心爱犬阿妲"
+    ],
+    "Media": "inv_chihuahuadogpet_body_tan.jpg"
+  },
+  {
+    "TagId": 4793,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Weechi",
+      "Weechi",
+      "Uíxi",
+      "Weechi",
+      "Weechi",
+      "Weechi",
+      "Уичи",
+      "Wietschi",
+      "Uíxi",
+      "Weechi",
+      "위치",
+      "威奇",
+      "威奇"
+    ],
+    "Media": "inv_chihuahuadogpet_body_tan.jpg"
+  },
+  {
+    "TagId": 4794,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Mister Mans",
+      "Señor Mans",
+      "Mansel",
+      "Mister Mans",
+      "Señor Mans",
+      "Monsieur Mans",
+      "Мистер Мэнс",
+      "Mister Mans",
+      "Mansel",
+      "Signor Mans",
+      "만즈 씨",
+      "曼斯先生",
+      "曼斯先生"
+    ],
+    "Media": "inv_babyarathilynx_black.jpg"
+  },
+  {
+    "TagId": 4804,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Swiftpaw",
+      "Zarpaveloz",
+      "Patalépida",
+      "Swiftpaw",
+      "Zarpapresta",
+      "Patte-Vive",
+      "Скоропрыг",
+      "Flinkpfote",
+      "Patalépida",
+      "Zampasvelta",
+      "빠른발",
+      "迅爪",
+      "迅掌"
+    ],
+    "Media": "inv_babyarathilynx_gold.jpg"
+  },
+  {
+    "TagId": 4806,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Spicy Mean-Ball",
+      "Malbóndiga",
+      "Vraumôndega Bolanhesa",
+      "Spicy Mean-Ball",
+      "Malabola picante",
+      "Méchante boulette épicée",
+      "Острая вредноделька",
+      "Scharfes Dreistbällchen",
+      "Vraumôndega Bolanhesa",
+      "Birbante Peperina",
+      "매콤한 표독구",
+      "嗆辣暴躁球",
+      "香辣陋球"
+    ],
+    "Media": "inv_ironstarlettepet.jpg"
   }
 ]
