@@ -174,13 +174,13 @@
       null,
       "Large Renaissance Katana",
       "Katana de renacimiento grande",
-      "Katana  Renascentista Grande",
+      "Katana Renascentista Grande",
       "Large Renaissance Katana",
       "Gran katana del renacimiento",
       "Grand katana de la renaissance",
       "Большая катана Возрождения",
       "Großes Katana der Renaissance",
-      "Katana  Renascentista Grande",
+      "Katana Renascentista Grande",
       "Katana del Rinascimento Ampia",
       "거대한 부흥의 검",
       "文藝復興大太刀",
@@ -2457,6 +2457,48 @@
     "Media": "6ih_ironhorde_stone_base_stonewalledge.jpg"
   },
   {
+    "TagId": 238739,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chrono Corsair",
+      "Cronocorsario",
+      "Cronocorsário",
+      "Chrono Corsair",
+      "Cronocorsario",
+      "Chronocorsaire",
+      "Хронокорсар",
+      "Chronokorsar",
+      "Cronocorsário",
+      "Cronocorsaro",
+      "시간의 해적용",
+      "時空海盜",
+      "时流海盗"
+    ],
+    "Media": "inv_piratedragonmount.jpg"
+  },
+  {
+    "TagId": 238740,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Distilled Knowledge of Timeways",
+      "Conocimiento destilado de los portales del tiempo",
+      "Conhecimento de Percursos Temporais Destilado",
+      "Distilled Knowledge of Timeways",
+      "Conocimiento destilado de las líneas temporales",
+      "Connaissance distillée des Voies temporelles",
+      "Чистые знания о временных потоках",
+      "Destilliertes Wissen der Zeitwege",
+      "Conhecimento de Percursos Temporais Destilado",
+      "Conoscenza dei Flussi Temporali Distillata",
+      "걸러낸 시간의 길의 지식",
+      "精煉的時間之道知識",
+      "时间流学识精粹"
+    ],
+    "Media": "inv_alchemy_endlessflask_02.jpg"
+  },
+  {
     "TagId": 238741,
     "TagType": 21,
     "Names": [
@@ -3255,6 +3297,48 @@
     "Media": "inv_mace_2h_goblinraid_d_01.jpg"
   },
   {
+    "TagId": 238790,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Remnant of Azeroth",
+      "Remanente de Azeroth",
+      "Resquício de Azeroth",
+      "Remnant of Azeroth",
+      "Remanente de Azeroth",
+      "Vestige d’Azeroth",
+      "Остаток Азерот",
+      "Überrest von Azeroth",
+      "Resquício de Azeroth",
+      "Residui di Azeroth",
+      "아제로스의 잔재",
+      "艾澤拉斯殘骸",
+      "艾泽拉斯的残血"
+    ],
+    "Media": "inv__glowingazeritecrystal.jpg"
+  },
+  {
+    "TagId": 238791,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Remnant of Azeroth",
+      "Remanente de Azeroth",
+      "Resquício de Azeroth",
+      "Remnant of Azeroth",
+      "Remanente de Azeroth",
+      "Vestige d’Azeroth",
+      "Остаток Азерот",
+      "Überrest von Azeroth",
+      "Resquício de Azeroth",
+      "Residui di Azeroth",
+      "아제로스의 잔재",
+      "艾澤拉斯殘骸",
+      "艾泽拉斯的残血"
+    ],
+    "Media": "inv__glowingazeritecrystal.jpg"
+  },
+  {
     "TagId": 238796,
     "TagType": 21,
     "Names": [
@@ -3274,6 +3358,279 @@
       "三鲜"
     ],
     "Media": "inv_babymurloc3bronze.jpg"
+  },
+  {
+    "TagId": 238803,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Order of Embers",
+      "Mención de la Orden de las Ascuas",
+      "Comenda da Ordem das Brasas",
+      "Commendation of the Order of Embers",
+      "Mención de la Orden de Ascuas",
+      "Recommandation de l’Ordre des Braises",
+      "Знак признания ордена Пылающих Углей",
+      "Belobigung des Glutordens",
+      "Comenda da Ordem das Brasas",
+      "Encomio dell'Ordine delle Braci",
+      "잿불단의 훈장",
+      "燼火會表揚令",
+      "灰烬骑士团奖章"
+    ],
+    "Media": "inv__faction_orderofembers.jpg"
+  },
+  {
+    "TagId": 238804,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of Proudmoore Admiralty",
+      "Mención del Almirantazgo Valiente",
+      "Comenda do Almirantado Proudmore",
+      "Commendation of Proudmoore Admiralty",
+      "Mención del Almirantazgo de la Casa Valiente",
+      "Recommandation de l’Amirauté des Portvaillant",
+      "Знак признания адмиралтейства Праудмуров",
+      "Belobigung der Prachtmeeradmiralität",
+      "Comenda do Almirantado Proudmore",
+      "Encomio dell'Ammiragliato dei Marefiero",
+      "프라우드무어 해군의 훈장",
+      "普勞德摩爾海軍府表揚令",
+      "普罗德摩尔海军部奖章"
+    ],
+    "Media": "inv_faction_proudmooreadmiralty.jpg"
+  },
+  {
+    "TagId": 238805,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of Storm's Wake",
+      "Mención de Estela de la Tormenta",
+      "Comenda do Rastro da Tempestade",
+      "Commendation of Storm's Wake",
+      "Mención del Despertar de la Tormenta",
+      "Recommandation du Sillage des tempêtes",
+      "Знак признания ордена Возрождения Шторма",
+      "Belobigung der Sturmwacht",
+      "Comenda do Rastro da Tempestade",
+      "Encomio dei Destatempesta",
+      "깨어난 폭풍의 훈장",
+      "風暴守望表揚令",
+      "风暴之末奖章"
+    ],
+    "Media": "inv_faction_stormswake.jpg"
+  },
+  {
+    "TagId": 238806,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the 7th Legion",
+      "Mención de La Séptima Legión",
+      "Comenda da 7ª Legião",
+      "Commendation of the 7th Legion",
+      "Mención de la Séptima Legión",
+      "Recommandation de la 7e\u00A0Légion",
+      "Знак признания 7-го легиона",
+      "Belobigung der 7. Legion",
+      "Comenda da 7ª Legião",
+      "Encomio della VII Legione",
+      "7군단의 훈장",
+      "第七軍團表揚令",
+      "第七军团奖章"
+    ],
+    "Media": "inv_faction_alliancewareffort.jpg"
+  },
+  {
+    "TagId": 238809,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Waveblade Ankoan",
+      "Mención de los Ankoanos Cuchilla marina",
+      "Comenda dos Ankoanos Lamionda",
+      "Commendation of the Waveblade Ankoan",
+      "Mención de los ankoan Hojamarea",
+      "Recommandation des Ankoïens du Brisant",
+      "Знак признания Клинков Волн",
+      "Belobigung der Ankoaner der Meeresklinge",
+      "Comenda dos Ankoanos Lamionda",
+      "Encomio degli Ankoan Lamaonda",
+      "파도칼날 안코안의 훈장",
+      "潮刃安寇恩表揚令",
+      "波涛之刃剑鱼人奖章"
+    ],
+    "Media": "inv_inscription_82_contract_ankoan.jpg"
+  },
+  {
+    "TagId": 238816,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of Talanji's Expedition",
+      "Mención de la Expedición de Talanji",
+      "Comenda da Expedição de Talanji",
+      "Commendation of Talanji's Expedition",
+      "Mención de la Expedición de Talanji",
+      "Recommandation de l’Expédition de Talanji",
+      "Знак признания экспедиции Таланджи",
+      "Belobigung von Talanjis Expedition",
+      "Comenda da Expedição de Talanji",
+      "Encomio della Spedizione di Talanji",
+      "탈란지의 원정대의 훈장",
+      "塔蘭姬的遠征隊表揚令",
+      "塔兰吉远征队奖章"
+    ],
+    "Media": "inv_faction_talanjisexpedition.jpg"
+  },
+  {
+    "TagId": 238817,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Voldunai",
+      "Mención de los Voldunai",
+      "Comenda dos Voldunai",
+      "Commendation of the Voldunai",
+      "Mención de los Voldunai",
+      "Recommandation des Volduni",
+      "Знак признания жителей Вол'дуна",
+      "Belobigung der Voldunai",
+      "Comenda dos Voldunai",
+      "Encomio dei Voldunai",
+      "볼두나이의 훈장",
+      "沃魯敦人表揚令",
+      "沃顿奈奖章"
+    ],
+    "Media": "inv_faction_voldunai.jpg"
+  },
+  {
+    "TagId": 238818,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Zandalari Empire",
+      "Mención del Imperio zandalari",
+      "Comenda do Império Zandalari",
+      "Commendation of the Zandalari Empire",
+      "Mención del Imperio Zandalari",
+      "Recommandation de l’Empire zandalari",
+      "Знак признания империи Зандалари",
+      "Belobigung des Zandalariimperiums",
+      "Comenda do Império Zandalari",
+      "Encomio dell'Impero degli Zandalari",
+      "잔달라 제국의 훈장",
+      "贊達拉帝國表揚令",
+      "赞达拉帝国奖章"
+    ],
+    "Media": "inv_faction_zandalariempire.jpg"
+  },
+  {
+    "TagId": 238819,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Honorbound",
+      "Mención de los Honorables",
+      "Comenda da Brigada da Honra",
+      "Commendation of the Honorbound",
+      "Mención de los Defensores del Honor",
+      "Recommandation de la Brigade de l’Honneur",
+      "Знак признания Армии Чести",
+      "Belobigung der Eidgebundenen",
+      "Comenda da Brigada da Honra",
+      "Encomio della Brigata dell'Onore",
+      "명예결속단의 훈장",
+      "榮勛軍團表揚令",
+      "荣耀战团奖章"
+    ],
+    "Media": "inv_faction_hordewareffort.jpg"
+  },
+  {
+    "TagId": 238820,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Unshackled",
+      "Mención de los Desencadenados",
+      "Comenda dos Libertos",
+      "Commendation of the Unshackled",
+      "Mención de los Desencadenados",
+      "Recommandation des Affranchis",
+      "Знак признания Освобожденных",
+      "Belobigung der Entfesselten",
+      "Comenda dos Libertos",
+      "Encomio dei Liberti",
+      "속박 풀린 자의 훈장",
+      "破縛者表揚令",
+      "破镣者奖章"
+    ],
+    "Media": "inv_faction_unshackled.jpg"
+  },
+  {
+    "TagId": 238821,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Champions of Azeroth",
+      "Mención de los Campeones de Azeroth",
+      "Comenda dos Campeões de Azeroth",
+      "Commendation of the Champions of Azeroth",
+      "Mención de los Campeones de Azeroth",
+      "Recommandation des Champions d’Azeroth",
+      "Знак признания защитников Азерот",
+      "Belobigung der Champions von Azeroth",
+      "Comenda dos Campeões de Azeroth",
+      "Encomio dei Campioni di Azeroth",
+      "아제로스의 용사들의 훈장",
+      "艾澤拉斯的勇士表揚令",
+      "艾泽拉斯的勇士奖章"
+    ],
+    "Media": "inv_faction_championsofazeroth.jpg"
+  },
+  {
+    "TagId": 238822,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Tortollan Seekers",
+      "Mención de los Buscadores tortollanos",
+      "Comenda dos Peregrinos Tortollanos",
+      "Commendation of the Tortollan Seekers",
+      "Mención de los Buscadores Tortolianos",
+      "Recommandation des Chercheurs tortollans",
+      "Знак признания тортолланских искателей",
+      "Belobigung der tortollanischen Sucher",
+      "Comenda dos Peregrinos Tortollanos",
+      "Encomio dei Cercatori Tortolliani",
+      "토르톨란 탐구단의 훈장",
+      "托爾托追尋者表揚令",
+      "始祖龟求知者奖章"
+    ],
+    "Media": "inv_faction_tortollanseekers.jpg"
+  },
+  {
+    "TagId": 238823,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Rustbolt Resistance",
+      "Mención de la Resistencia de Pernoxidado",
+      "Comenda da Resistência Ferrúgia",
+      "Commendation of the Rustbolt Resistance",
+      "Mención de la Resistencia de Pernoóxido",
+      "Recommandation de la Résistance de Mécarouille",
+      "Знак признания Ржавоболтского сопротивления",
+      "Belobigung des Rostbolzenwiderstands",
+      "Comenda da Resistência Ferrúgia",
+      "Encomio della Resistenza di Bullonaccio",
+      "녹슨나사 저항군의 훈장",
+      "鏽栓反抗軍表揚令",
+      "锈栓抵抗军奖章"
+    ],
+    "Media": "inv_faction_rustbolt.jpg"
   },
   {
     "TagId": 238824,
@@ -3316,6 +3673,48 @@
       null
     ],
     "Media": "inv_chihuahuadogpet_body_tan.jpg"
+  },
+  {
+    "TagId": 238826,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Rajani",
+      "Mención de los Rajani",
+      "Comenda dos Rajani",
+      "Commendation of the Rajani",
+      "Mención de los rajani",
+      "Recommandation des Rajani",
+      "Знак признания Раджани",
+      "Belobigung der Rajani",
+      "Comenda dos Rajani",
+      "Encomio dei Rajani",
+      "라자니의 훈장",
+      "萊加尼表揚令",
+      "莱加尼奖章"
+    ],
+    "Media": "inv_faction_83_rajani.jpg"
+  },
+  {
+    "TagId": 238827,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Commendation of the Uldum Accord",
+      "Mención del Acuerdo de Uldum",
+      "Comenda do Acordo de Uldum",
+      "Commendation of the Uldum Accord",
+      "Mención del Acuerdo de Uldum",
+      "Recommandation de l’Accord d’Uldum",
+      "Знак признания Ульдумского союза",
+      "Belobigung des Abkommens von Uldum",
+      "Comenda do Acordo de Uldum",
+      "Encomio della Coalizione di Uldum",
+      "울둠 협의회의 훈장",
+      "奧丹姆協議者表揚令",
+      "奥丹姆联军奖章"
+    ],
+    "Media": "inv_faction_83_uldumaccord.jpg"
   },
   {
     "TagId": 238829,
@@ -3539,7 +3938,7 @@
       "Erizo de la cosecha primaveral",
       "Porc-épic glaneur de printemps",
       "Весенний жатвобраз",
-      "Frühlingsschwein der Ernte",
+      "Frühlingsigel der Ernte",
       "Ouriço da Colheita Primaveril",
       "Ricciospino Primaverile",
       "봄의 추수고슴도치",

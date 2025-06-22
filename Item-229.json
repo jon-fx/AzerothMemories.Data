@@ -1785,6 +1785,48 @@
     "Media": "inv_bracer_plate_earthendungeon_c_01.jpg"
   },
   {
+    "TagId": 229094,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Barrel of Tar",
+      "Barril de alquitrán",
+      "Barril de Piche",
+      "Barrel of Tar",
+      "Barril de brea",
+      "Baril de goudron",
+      "Бочка смолы",
+      "Teerfass",
+      "Barril de Piche",
+      "Barile di Pece",
+      "타르 병",
+      "焦油桶",
+      "焦油桶"
+    ],
+    "Media": "inv_cask_01.jpg"
+  },
+  {
+    "TagId": 229095,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stolen Torches",
+      "Antorchas robadas",
+      "Tochas Roubadas",
+      "Stolen Torches",
+      "Antorchas robadas",
+      "Torches volées",
+      "Украденные факелы",
+      "Gestohlene Fackeln",
+      "Tochas Roubadas",
+      "Torce Rubate",
+      "도둑맞은 횃불",
+      "被偷的火炬",
+      "失窃的火炬"
+    ],
+    "Media": "inv_torch_lit.jpg"
+  },
+  {
     "TagId": 229096,
     "TagType": 21,
     "Names": [
@@ -5392,7 +5434,7 @@
       "Teste Cacciate del Collezionista Instancabile",
       "지치지 않는 수집가의 뒤쫓기는 머리",
       "不倦收集者的獵物頭顱",
-      "不倦收藏家的战利品"
+      "不倦收藏家的颅饰肩甲"
     ],
     "Media": "inv_shoulder_mail_raidhuntergoblin_d_01.jpg"
   },
@@ -7201,6 +7243,27 @@
       "克罗米的百宝袋"
     ],
     "Media": "inv_legion_cache_armyofthelight.jpg"
+  },
+  {
+    "TagId": 229361,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Xal'atath, Blade of the Black Empire",
+      "Xal'atath, Daga del Imperio Negro",
+      "Xal'atath, a Lâmina do Império Negro",
+      "Xal'atath, Blade of the Black Empire",
+      "Xal'atath, Daga del Imperio Negro",
+      "Xal’atath, lame de l’Empire noir",
+      "Ксал'атат, клинок Темной Империи",
+      "Xal'atath, Klinge des Schwarzen Imperiums",
+      "Xal'atath, a Lâmina do Império Negro",
+      "Xal'atath, Lama dell'Impero Nero",
+      "잘아타스 - 검은 제국의 비수",
+      "薩拉塔斯，黑暗帝國之刃",
+      "萨拉塔斯，黑暗帝国之刃"
+    ],
+    "Media": "inv_knife_1h_artifactcthun_d_01.jpg"
   },
   {
     "TagId": 229364,

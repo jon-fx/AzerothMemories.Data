@@ -4599,6 +4599,27 @@
     "Media": "inv_misc_orb_05.jpg"
   },
   {
+    "TagId": 235345,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Familiar Emblem",
+      "Emblema familiar",
+      "Emblema Conhecido",
+      "Familiar Emblem",
+      "Emblema familiar",
+      "Emblème familier",
+      "Знакомая эмблема",
+      "Vertrautes Emblem",
+      "Emblema Conhecido",
+      "Emblema di Famiglia",
+      "가문 문장",
+      "熟悉的紋章",
+      "熟悉的徽章"
+    ],
+    "Media": "inv_legendary_sigilofwisdom.jpg"
+  },
+  {
     "TagId": 235346,
     "TagType": 21,
     "Names": [
@@ -5059,6 +5080,27 @@
       "漆料：黄饼之黄"
     ],
     "Media": "inv_inscription_inkyellow04.jpg"
+  },
+  {
+    "TagId": 235392,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_weapon_shortblade_14.jpg"
   },
   {
     "TagId": 235399,
@@ -5744,7 +5786,7 @@
       "Mandiletes nitrosos",
       "Nitropoignes",
       "Захваты из нитрокожи",
-      "Nitrobeschlagenes Greifer",
+      "Nitrobeschlagene Greifer",
       "Guantes de Cobertura Nítrica",
       "Paramani Nitrorivestiti",
       "니트로철판 손장갑",
@@ -9447,7 +9489,7 @@
       "守護巨龍之腐",
       "守护巨龙之堕"
     ],
-    "Media": "inv_dragonchromaticmount.jpg"
+    "Media": "inv_dragonchromaticmount2.jpg"
   },
   {
     "TagId": 235712,
@@ -11514,13 +11556,13 @@
       null,
       "Statically Charged Vest",
       "Jubón cargado de estática",
-      "Colete Carregado com Estática",
+      "Colete Carregado de Estática",
       "Statically Charged Vest",
       "Jubón cargado de estática",
       "Gilet à charge statique",
       "Заряженный статикой жилет",
       "Statisch aufgeladene Weste",
-      "Colete Carregado com Estática",
+      "Colete Carregado de Estática",
       "Giubba Caricata Statisticamente",
       "전하로 충만한 조끼",
       "靜電能外衣",
@@ -13564,5 +13606,89 @@
       null
     ],
     "Media": "inv_shield_06.jpg"
+  },
+  {
+    "TagId": 235996,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stolen Ironforge Supplies",
+      "Suministros robados de Forjaz",
+      "Suprimentos de Altaforja Roubados",
+      "Stolen Ironforge Supplies",
+      "Suministros de Forjaz robados",
+      "Fournitures volées à Forgefer",
+      "Похищенные припасы из Стальгорна",
+      "Gestohlene Eisenschmiedevorräte",
+      "Suprimentos de Altaforja Roubados",
+      "Rifornimenti di Forgiardente Rubati",
+      "도둑맞은 아이언포지 보급품",
+      "遭竊的鐵爐堡補給品",
+      "失窃的铁炉堡补给品"
+    ],
+    "Media": "inv_misc_crate03alliance.jpg"
+  },
+  {
+    "TagId": 235997,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Skins of Dwarven Stout",
+      "Odres de cerveza enana",
+      "Odres de Stout Enânica",
+      "Skins of Dwarven Stout",
+      "Odres de cerveza enana",
+      "Outres de bière brune naine",
+      "Мехи дворфийского портера",
+      "Schläuche mit Zwergenstarkbier",
+      "Odres de Stout Enânica",
+      "Otri di Birra Scura Nanica",
+      "드워프 스타우트 맥주",
+      "矮人啤酒袋",
+      "矮人烈酒囊"
+    ],
+    "Media": "inv_drink_milk_02.jpg"
+  },
+  {
+    "TagId": 235998,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Packages of Blood Sausage",
+      "Paquetes de morcilla",
+      "Pacotes de Chouriço",
+      "Packages of Blood Sausage",
+      "Paquetes de morcilla",
+      "Paquets de boudin",
+      "Упакованные кровяные колбаски",
+      "Pakete mit Blutwurst",
+      "Pacotes de Chouriço",
+      "Pacchetti di Sanguinaccio",
+      "선지 소시지 소포",
+      "血腸包",
+      "包装血肠"
+    ],
+    "Media": "inv_misc_food_49.jpg"
+  },
+  {
+    "TagId": 235999,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bundle of Heavy Silk Bandages",
+      "Rollo de vendas de seda gruesa",
+      "Saco de Bandagens Grossas de Seda",
+      "Bundle of Heavy Silk Bandages",
+      "Fardo de vendas de seda gruesa",
+      "Paquet de bandages épais en soie",
+      "Рулон плотных шелковых бинтов",
+      "Paket mit schweren Seidenverbänden",
+      "Saco de Bandagens Grossas de Seda",
+      "Pacchetto di Bende Pesanti di Seta",
+      "두꺼운 비단 붕대 꾸러미",
+      "厚絲質繃帶捆",
+      "厚丝质绷带捆"
+    ],
+    "Media": "inv_misc_bandage_02.jpg"
   }
 ]

@@ -949,19 +949,19 @@
     "TagType": 22,
     "Names": [
       null,
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue",
-      "[PH] Goblin Surfboard - Blue"
+      "Kickin' Kezan Waveshredder",
+      "Trizaolas genial de Kezan",
+      "Retalhador de Ondas de Kezan Irado",
+      "Kickin' Kezan Waveshredder",
+      "Trituraolas relajado de Kezan",
+      "Déchiqueteur de vagues à ruades de Kezan",
+      "Улетный кезанский волнокрошшер",
+      "Cooler Kezanischer Wellenschredder",
+      "Retalhador de Ondas de Kezan Irado",
+      "Tagliaonde Scalciante di Kezan",
+      "시원통쾌 케잔 파도분쇄기",
+      "有型凱贊破浪板",
+      "炫酷科赞斩浪者"
     ],
     "Media": "inv_goblinsurfboardmount_blue.jpg"
   },
@@ -3948,6 +3948,27 @@
     "Media": "inv_goblinspidertank.jpg"
   },
   {
+    "TagId": 2518,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Chrono Corsair",
+      "Cronocorsario",
+      "Cronocorsário",
+      "Chrono Corsair",
+      "Cronocorsario",
+      "Chronocorsaire",
+      "Хронокорсар",
+      "Chronokorsar",
+      "Cronocorsário",
+      "Cronocorsaro",
+      "시간의 해적용",
+      "時空海盜",
+      "时流海盗"
+    ],
+    "Media": "inv_piratedragonmount.jpg"
+  },
+  {
     "TagId": 2519,
     "TagType": 22,
     "Names": [
@@ -3980,7 +4001,7 @@
       "Erizo de la cosecha primaveral",
       "Porc-épic glaneur de printemps",
       "Весенний жатвобраз",
-      "Frühlingsschwein der Ernte",
+      "Frühlingsigel der Ernte",
       "Ouriço da Colheita Primaveril",
       "Ricciospino Primaverile",
       "봄의 추수고슴도치",
@@ -4219,5 +4240,299 @@
       "虚痕山猫"
     ],
     "Media": "inv_arathilynxmount_nightfall.jpg"
+  },
+  {
+    "TagId": 2572,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Banshee's Chilling Charger",
+      "Destrero escalofriante de alma en pena",
+      "Corcel Gélido da Banshee",
+      "Banshee's Chilling Charger",
+      "Destrero escalofriante de alma en pena",
+      "Destrier glaçant de la banshee",
+      "Леденящий душу скакун банши",
+      "Grausiges Streitross der Banshee",
+      "Corcel Gélido da Banshee",
+      "Gran Destriero Raggelante della Banshee",
+      "밴시의 싸늘한 군마",
+      "女妖駭人戰騎",
+      "悚然女妖军马"
+    ],
+    "Media": "inv_forsakenhorsemount_blue.jpg"
+  },
+  {
+    "TagId": 2575,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Grandmaster's Prophetic Board",
+      "Tablero profético de gran maestro",
+      "Tabuleiro Profético do Grande Mestre",
+      "Grandmaster's Prophetic Board",
+      "Tablero profético de gran maestro",
+      "Échiquier prophétique de grand maître",
+      "Пророческая доска гроссмейстера",
+      "Prophetisches Brett des Großmeisters",
+      "Tabuleiro Profético do Grande Mestre",
+      "Tabellone Profetico del Grande Maestro",
+      "그랜드마스터의 예언자 발판",
+      "特級大師的預言飛板",
+      "特级大师的先知棋盘"
+    ],
+    "Media": "inv_chessmount_black.jpg"
+  },
+  {
+    "TagId": 2576,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Grandmaster's Deep Board",
+      "Tablero profundo de gran maestro",
+      "Tabuleiro Profundo do Grande Mestre",
+      "Grandmaster's Deep Board",
+      "Tablero profundo de gran maestro",
+      "Échiquier profond de grand maître",
+      "Глубинная доска гроссмейстера",
+      "Tiefblaues Brett des Großmeisters",
+      "Tabuleiro Profundo do Grande Mestre",
+      "Tavola Profonda del Grande Maestro",
+      "그랜드마스터의 심연 발판",
+      "宗師深淵飛板",
+      "特级大师的深海棋盘"
+    ],
+    "Media": "inv_chessmount_blue.jpg"
+  },
+  {
+    "TagId": 2577,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Grandmaster's Royal Board",
+      "Tablero real de gran maestro",
+      "Tabuleiro Régio do Grande Mestre",
+      "Grandmaster's Royal Board",
+      "Tablero real de gran maestro",
+      "Échiquier royal de grand maître",
+      "Королевская доска гроссмейстера",
+      "Königliches Brett des Großmeisters",
+      "Tabuleiro Régio do Grande Mestre",
+      "Tavola Regale del Grande Maestro",
+      "그랜드마스터의 왕실 발판",
+      "宗師皇家飛板",
+      "特级大师的皇家棋盘"
+    ],
+    "Media": "inv_chessmount_gold.jpg"
+  },
+  {
+    "TagId": 2578,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Grandmaster's Smokey Board",
+      "Tablero humeante de gran maestro",
+      "Tabuleiro Fúmeo do Grande Mestre",
+      "Grandmaster's Smokey Board",
+      "Tablero de humo de gran maestro",
+      "Échiquier fumé de grand maître",
+      "Дымная доска гроссмейстера",
+      "Rauchiges Brett des Großmeisters",
+      "Tabuleiro Fúmeo do Grande Mestre",
+      "Tavola Fumosa del Grande Maestro",
+      "그랜드마스터의 연기 발판",
+      "宗師煙霧飛板",
+      "特级大师的云烟棋盘"
+    ],
+    "Media": "inv_chessmount_white.jpg"
+  },
+  {
+    "TagId": 2579,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Forsaken's Grotesque Charger",
+      "Destrero grotesco de Renegado",
+      "Corcel Grotesco da Renegada",
+      "Forsaken's Grotesque Charger",
+      "Destrero grotesco de los Renegados",
+      "Destrier grotesque de Réprouvé",
+      "Гротескный скакун Отрекшихся",
+      "Groteskes Streitross der Verlassenen",
+      "Corcel Grotesco da Renegada",
+      "Gran Destriero Grottesco dei Reietti",
+      "포세이큰의 흉측한 군마",
+      "被遺忘者怪誕戰騎",
+      "被遗忘者的怪诞军马"
+    ],
+    "Media": "inv_forsakenhorsemount_green.jpg"
+  },
+  {
+    "TagId": 2580,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Wailing Banshee's Charger",
+      "Destrero de alma en pena gemebunda",
+      "Corcel da Banshee Ululante",
+      "Wailing Banshee's Charger",
+      "Destrero de alma en pena gemebunda",
+      "Destrier de la banshee hurlante",
+      "Стенающий скакун банши",
+      "Streitross der heulenden Banshee",
+      "Corcel da Banshee Ululante",
+      "Destriero della Banshee Lamentosa",
+      "울부짖는 밴시의 군마",
+      "哀嚎女妖戰騎",
+      "哀嚎女妖军马"
+    ],
+    "Media": "inv_forsakenhorsemount_purple.jpg"
+  },
+  {
+    "TagId": 2581,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Banshee's Sickening Charger",
+      "Destrero enfermante de alma en pena",
+      "Corcel Doentio da Banshee",
+      "Banshee's Sickening Charger",
+      "Destrero enfermizo de alma en pena",
+      "Destrier écœurant de la banshee",
+      "Безобразный скакун банши",
+      "Widerwärtiges Streitross der Banshee",
+      "Corcel Doentio da Banshee",
+      "Gran Destriero Malato della Banshee",
+      "밴시의 병든 군마",
+      "女妖病態戰騎",
+      "病态女妖军马"
+    ],
+    "Media": "inv_forsakenhorsemount_yellow.jpg"
+  },
+  {
+    "TagId": 2582,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Shaohao's Sage Serpent",
+      "Dragón de sabio de Shaohao",
+      "Serpente Sapiente de Shaohao",
+      "Shaohao's Sage Serpent",
+      "Dragón nimbo erudito de Saohao",
+      "Serpent sage de Shaohao",
+      "Мудрый змей Шаохао",
+      "Shaohaos Weisenschlange",
+      "Serpente Sapiente de Shaohao",
+      "Serpente Saggio di Shaohao",
+      "샤오하오의 현룡",
+      "紹昊的賢者蛟龍",
+      "少昊的贤明翔龙"
+    ],
+    "Media": "inv_celestialserpentmount_jade.jpg"
+  },
+  {
+    "TagId": 2586,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Moonlit Nightsaber",
+      "Sable de la noche selénico",
+      "Sabre-da-noite Enluarado",
+      "Moonlit Nightsaber",
+      "Sable de la noche luniscente",
+      "Sabre-de-nuit sélénite",
+      "Лунный ночной саблезуб",
+      "Monderleuchteter Nachtsäbler",
+      "Sabre-da-noite Enluarado",
+      "Fiera della Notte Lunare",
+      "달빛 밤호랑이",
+      "月光夜刃豹",
+      "月照夜刃豹"
+    ],
+    "Media": "inv_nightsaber2mountwhite.jpg"
+  },
+  {
+    "TagId": 2587,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ivory Savagemane",
+      "Crinferoz de marfil",
+      "Crinabruta de Marfim",
+      "Ivory Savagemane",
+      "Crinbrava de marfil",
+      "Crin-féroce d’ivoire",
+      "Палевый лютогрив",
+      "Ebenweiße Wutmähne",
+      "Crinabruta de Marfim",
+      "Crineferoce d'Avorio",
+      "상아색 야성갈기",
+      "象牙蠻鬃",
+      "乳白狂鬃龙"
+    ],
+    "Media": "ability_mount_raptor_white.jpg"
+  },
+  {
+    "TagId": 2600,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Unarmored Deathtusk Felboar",
+      "Jabalí vil Colmillo de la muerte desguarnecido",
+      "Viljavardo Mortusco Desencouraçado",
+      "Unarmored Deathtusk Felboar",
+      "Jabalí vil Colmimuerte desguarnecido",
+      "Sanglier gangrené mort-défense sans armure",
+      "Скверносвин-смертоклык без брони",
+      "Ungerüsteter Todeshauerteufelseber",
+      "Viljavardo Mortusco Desencouraçado",
+      "Vilcinghiale Zannaletale Senza Armatura",
+      "무방비한 죽음엄니 지옥멧돼지",
+      "無裝甲的亡牙惡魔野豬",
+      "轻装死牙魔能野猪"
+    ],
+    "Media": "ability_mount_felboarmount.jpg"
+  },
+  {
+    "TagId": 2604,
+    "TagType": 22,
+    "Names": [
+      null,
+      "OC91 Chariot",
+      "Cuadriga OC91",
+      "Carruagem SC91",
+      "OC91 Chariot",
+      "Ensamblaje OC91",
+      "Char\u00A0OC91",
+      "Шагоход ОС91",
+      "Kampfmodul OC91",
+      "Carruagem SC91",
+      "Biga OC91",
+      "OC91 전차",
+      "OC91戰車",
+      "OC91战车"
+    ],
+    "Media": "inv_overchargedmech.jpg"
+  },
+  {
+    "TagId": 2605,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Inarius' Charger",
+      "Destrero de Inarius",
+      "Corcel de Inárius",
+      "Inarius' Charger",
+      "Destrero de Inarius",
+      "Destrier d’Inarius",
+      "Скакун Инария",
+      "Inarius' Streitross",
+      "Corcel de Inárius",
+      "Gran Destriero di Inarius",
+      "이나리우스의 군마",
+      "伊納瑞斯的戰騎",
+      "伊纳瑞斯的天使战马"
+    ],
+    "Media": "inv_inariusmount.jpg"
   }
 ]

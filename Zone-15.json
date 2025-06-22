@@ -1129,7 +1129,7 @@
       "Serraria do Planalto",
       "Highlands Mill",
       "Aserradero de las Tierra Altas",
-      "Scierie des Hautes-Terres",
+      "Scierie des hautes-terres",
       "Верхние вырубки",
       "Das Hochlandsägewerk",
       "Serraria do Planalto",
@@ -6460,6 +6460,986 @@
     ]
   },
   {
+    "TagId": 15713,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Wetlands",
+      "Los Humedales",
+      "Pantanal",
+      "Wetlands",
+      "Humedales",
+      "Les Paluns",
+      "Болотина",
+      "Das Sumpfland",
+      "Pantanal",
+      "Paludi Grigie",
+      "저습지",
+      "濕地",
+      "湿地"
+    ]
+  },
+  {
+    "TagId": 15714,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Hinterlands",
+      "Tierras del Interior",
+      "Terras Agrestes",
+      "The Hinterlands",
+      "Tierras del Interior",
+      "Les Hinterlands",
+      "Внутренние земли",
+      "Das Hinterland",
+      "Terras Agrestes",
+      "Entroterre",
+      "동부 내륙지",
+      "辛特蘭",
+      "辛特兰"
+    ]
+  },
+  {
+    "TagId": 15715,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Twilight Highlands",
+      "Tierras Altas Crepusculares",
+      "Planalto do Crepúsculo",
+      "Twilight Highlands",
+      "Tierras Altas Crepusculares",
+      "Hautes-terres du Crépuscule",
+      "Сумеречное нагорье",
+      "Das Schattenhochland",
+      "Planalto do Crepúsculo",
+      "Alture del Crepuscolo",
+      "황혼의 고원",
+      "暮光高地",
+      "暮光高地"
+    ]
+  },
+  {
+    "TagId": 15716,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Arathi Highlands",
+      "Tierras Altas de Arathi",
+      "Planalto Arathi",
+      "Arathi Highlands",
+      "Tierras Altas de Arathi",
+      "Hautes-terres Arathies",
+      "Нагорье Арати",
+      "Das Arathihochland",
+      "Planalto Arathi",
+      "Altopiani d'Arathi",
+      "아라시 고원",
+      "阿拉希高地",
+      "阿拉希高地"
+    ]
+  },
+  {
+    "TagId": 15717,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hillsbrad Foothills",
+      "Laderas de Trabalomas",
+      "Contraforte de Eira dos Montes",
+      "Hillsbrad Foothills",
+      "Laderas de Trabalomas",
+      "Contreforts de Hautebrande",
+      "Предгорья Хилсбрада",
+      "Das Vorgebirge des Hügellands",
+      "Contraforte de Eira dos Montes",
+      "Alture di Colletorto",
+      "언덕마루 구릉지",
+      "希爾斯布萊德丘陵",
+      "希尔斯布莱德丘陵"
+    ]
+  },
+  {
+    "TagId": 15718,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Circle of Elements",
+      "Círculo de Elementos",
+      "Círculo dos Elementos",
+      "Circle of Elements",
+      "Círculo de los Elementos",
+      "Cercle des Éléments",
+      "Круг стихий",
+      "Der Zirkel der Elemente",
+      "Círculo dos Elementos",
+      "Circolo degli Elementi",
+      "정령의 의회",
+      "元素之環",
+      "元素法阵"
+    ]
+  },
+  {
+    "TagId": 15719,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hammerfall",
+      "Sentencia",
+      "Ruína do Martelo",
+      "Hammerfall",
+      "Sentencia",
+      "Trépas-d’Orgrim",
+      "Павший Молот",
+      "Hammerfall",
+      "Ruína do Martelo",
+      "Requie del Martello",
+      "망치 주둔지",
+      "落錘鎮",
+      "落锤镇"
+    ]
+  },
+  {
+    "TagId": 15720,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "O Mar Proibido",
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "Mer Interdite",
+      "Зловещее море",
+      "Das Verbotene Meer",
+      "O Mar Proibido",
+      "Mar delle Insidie",
+      "성난 바다",
+      "禁忌之海",
+      "禁忌之海"
+    ]
+  },
+  {
+    "TagId": 15721,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Boulder'gor",
+      "Roca'gor",
+      "Pedre'gor",
+      "Boulder'gor",
+      "Roca'gor",
+      "Roche’gor",
+      "Камен'гор",
+      "Fels'gor",
+      "Pedre'gor",
+      "Roccia'gor",
+      "돌주먹 언덕",
+      "博多戈爾",
+      "博德戈尔"
+    ]
+  },
+  {
+    "TagId": 15722,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Circle of East Binding",
+      "Círculo de Vinculación Este",
+      "Círculo de União Oriental",
+      "Circle of East Binding",
+      "Círculo de Vínculo Este",
+      "Cercle de Lien oriental",
+      "Восточный круг подчинения",
+      "Der Kreis der Östlichen Bindung",
+      "Círculo de União Oriental",
+      "Circolo del Vincolo Orientale",
+      "동쪽 봉인의 마법진",
+      "東部禁錮法陣",
+      "东部禁锢法阵"
+    ]
+  },
+  {
+    "TagId": 15723,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Drowned Reef",
+      "El Arrecife Hundido",
+      "Recife dos Afogados",
+      "The Drowned Reef",
+      "Arrecife Hundido",
+      "Récif Englouti",
+      "Подводный риф",
+      "Das Versunkene Riff",
+      "Recife dos Afogados",
+      "Scogliera Sommersa",
+      "가라앉은 산호초",
+      "水下暗礁",
+      "水下暗礁"
+    ]
+  },
+  {
+    "TagId": 15724,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Faldir's Cove",
+      "Cala de Faldir",
+      "Enseada de Faldir",
+      "Faldir's Cove",
+      "Cala de Faldir",
+      "Crique de Faldir",
+      "Бухта Фальдира",
+      "Die Faldirbucht",
+      "Enseada de Faldir",
+      "Baia di Faldir",
+      "팔디르의 만",
+      "法迪爾海灣",
+      "法迪尔海湾"
+    ]
+  },
+  {
+    "TagId": 15725,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Thoradin's Wall",
+      "Muro de Thoradin",
+      "Muralha de Thoradin",
+      "Thoradin's Wall",
+      "Muralla de Thoradin",
+      "Mur de Thoradin",
+      "Стена Торадина",
+      "Thoradinswall",
+      "Muralha de Thoradin",
+      "Muro di Thoradin",
+      "소라딘의 성벽",
+      "索拉丁之牆",
+      "索拉丁之墙"
+    ]
+  },
+  {
+    "TagId": 15726,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Thandol Span",
+      "Puente Thandol",
+      "Ponte Thandol",
+      "Thandol Span",
+      "Puente Thandol",
+      "Viaduc de Thandol",
+      "Мост Тандола",
+      "Der Thandolübergang",
+      "Ponte Thandol",
+      "Viadotto di Thandol",
+      "탄돌 교각",
+      "薩多爾大橋",
+      "萨多尔大桥"
+    ]
+  },
+  {
+    "TagId": 15727,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Boulderfist Hall",
+      "Sala Puño de Roca",
+      "Forte Punho de Pedra",
+      "Boulderfist Hall",
+      "Sala Puño de Roca",
+      "Hall Rochepoing",
+      "Крепость Тяжелого Кулака",
+      "Die Halle der Felsfäuste",
+      "Forte Punho de Pedra",
+      "Fortilizio dei Rocciadura",
+      "돌주먹 소굴",
+      "石拳大廳",
+      "石拳大厅"
+    ]
+  },
+  {
+    "TagId": 15728,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Witherbark Village",
+      "Poblado Secacorteza",
+      "Aldeia Cascasseca",
+      "Witherbark Village",
+      "Poblado Secacorteza",
+      "Fanécorce",
+      "Деревня Сухокожих",
+      "Das Lager der Bleichborken",
+      "Aldeia Cascasseca",
+      "Villaggio degli Scorzasecca",
+      "마른나무껍질 마을",
+      "枯木村",
+      "枯木村"
+    ]
+  },
+  {
+    "TagId": 15729,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Go'Shek Farm",
+      "Granja Go'Shek",
+      "Fazenda Go'Shek",
+      "Go'Shek Farm",
+      "Granja Go'shek",
+      "Ferme de Go’Shek",
+      "Ферма Го'Шека",
+      "Go'Sheks Hof",
+      "Fazenda Go'Shek",
+      "Fattoria di Go'shek",
+      "고셰크 농장",
+      "格沙克農場",
+      "格沙克农场"
+    ]
+  },
+  {
+    "TagId": 15730,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Drywhisker Gorge",
+      "Cañón Mostacho Seco",
+      "Garganta Seca",
+      "Drywhisker Gorge",
+      "Cañón Mostacho Seco",
+      "Gorge des Sèches-Moustaches",
+      "Теснина Сухоусов",
+      "Die Schlucht der Trockenstoppel",
+      "Garganta Seca",
+      "Gola dei Baffosecco",
+      "마른수염 골짜기",
+      "枯鬚峽谷",
+      "枯须峡谷"
+    ]
+  },
+  {
+    "TagId": 15731,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Dabyrie's Farmstead",
+      "Granja de Dabyrie",
+      "Fazenda dos Dabyrie",
+      "Dabyrie's Farmstead",
+      "Granja de Dabyrie",
+      "Ferme des Dabyrie",
+      "Усадьба Дабири",
+      "Der Bauernhof der Dabyries",
+      "Fazenda dos Dabyrie",
+      "Cascina dei Dabyrie",
+      "다비리 농장",
+      "達比雷農莊",
+      "达比雷农场"
+    ]
+  },
+  {
+    "TagId": 15732,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Circle of Outer Binding",
+      "Círculo de Vinculación Exterior",
+      "Círculo da União Externa",
+      "Circle of Outer Binding",
+      "Círculo de Vínculo Exterior",
+      "Cercle de Lien extérieur",
+      "Внешний круг подчинения",
+      "Der Kreis der Äußeren Bindung",
+      "Círculo da União Externa",
+      "Circolo del Vincolo Esterno",
+      "외부 봉인의 마법진",
+      "外禁錮法陣",
+      "外禁锢法阵"
+    ]
+  },
+  {
+    "TagId": 15733,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Refuge Pointe",
+      "Refugio de la Zaga",
+      "Ponta do Refúgio",
+      "Refuge Pointe",
+      "Refugio de la Zaga",
+      "Refuge de l’Ornière",
+      "Опорный пункт",
+      "Die Zuflucht",
+      "Ponta do Refúgio",
+      "Fosso dei Rifugiati",
+      "임시 주둔지",
+      "避難谷地",
+      "避难谷地"
+    ]
+  },
+  {
+    "TagId": 15734,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Circle of Inner Binding",
+      "Círculo de Vinculación Interior",
+      "Círculo da União Interna",
+      "Circle of Inner Binding",
+      "Círculo de Vínculo Interior",
+      "Cercle de Lien intérieur",
+      "Внутренний круг подчинения",
+      "Der Kreis der Inneren Bindung",
+      "Círculo da União Interna",
+      "Circolo del Vincolo Interno",
+      "내부 봉인의 마법진",
+      "內禁錮法陣",
+      "内禁锢法阵"
+    ]
+  },
+  {
+    "TagId": 15735,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Ar'gorok",
+      "Ar'gorok",
+      "Ar'gorok",
+      "Ar'gorok",
+      "Ar'gorok",
+      "Ar’gorok",
+      "Ар'горок",
+      "Ar'gorok",
+      "Ar'gorok",
+      "Ar'gorok",
+      "아르고로크",
+      "亞格洛克",
+      "阿戈罗克"
+    ]
+  },
+  {
+    "TagId": 15736,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Hatchet Ridge",
+      "Cresta Hachazo",
+      "Serra do Machado",
+      "Hatchet Ridge",
+      "Cumbre Destral",
+      "Crête de la Cognée",
+      "Кряж лесорубов",
+      "Der Axtkamm",
+      "Serra do Machado",
+      "Cresta della Scure",
+      "손도끼 마루",
+      "戰斧山脊",
+      "战斧山"
+    ]
+  },
+  {
+    "TagId": 15737,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Newstead",
+      "Granovel",
+      "Novaterra",
+      "Newstead",
+      "Finca Nueva",
+      "Grangeneuve",
+      "Новоземье",
+      "Neuhof",
+      "Novaterra",
+      "Nuova Fattoria",
+      "뉴스테드",
+      "紐沃農莊",
+      "纽斯泰德"
+    ]
+  },
+  {
+    "TagId": 15738,
+    "TagType": 24,
+    "Names": [
+      null,
+      "High Perch",
+      "Alto Pedestal",
+      "Alcândora",
+      "High Perch",
+      "Nido Alto",
+      "Haut-Perchoir",
+      "Гнездо",
+      "Der Hochstand",
+      "Alcândora",
+      "Alto Osservatorio",
+      "높은 감시대",
+      "高地駐營",
+      "远望栖地"
+    ]
+  },
+  {
+    "TagId": 15739,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Northfold Crossing",
+      "Cruce Redilnorte",
+      "Encruzilhada do Aprisco Norte",
+      "Northfold Crossing",
+      "Cruce Redilnorte",
+      "Croisée de Nordclos",
+      "Северный перекресток",
+      "Das Nordhofkreuz",
+      "Encruzilhada do Aprisco Norte",
+      "Crocevia dei Norten",
+      "북부습곡 십자로",
+      "諾斯弗德路口",
+      "诺斯弗德路口"
+    ]
+  },
+  {
+    "TagId": 15740,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Drywhisker Mine",
+      "Mina Mostacho Seco",
+      "Mina Bigodesseco",
+      "Drywhisker Mine",
+      "Mina Mostacho Seco",
+      "Mine des Sèches-Moustaches",
+      "Рудник Сухоусов",
+      "Die Mine der Trockenstoppel",
+      "Mina Bigodesseco",
+      "Miniera dei Baffosecco",
+      "마른수염 광산",
+      "枯鬚礦場",
+      "枯须矿洞"
+    ]
+  },
+  {
+    "TagId": 15741,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Highlands Mill",
+      "Aserradero de Tierras Altas",
+      "Serraria do Planalto",
+      "Highlands Mill",
+      "Aserradero de las Tierras Altas",
+      "Scierie des hautes-terres",
+      "Верхние вырубки",
+      "Das Hochlandsägewerk",
+      "Serraria do Planalto",
+      "Segheria delle Alture",
+      "고원 제재소",
+      "高地伐木場",
+      "高地伐木场"
+    ]
+  },
+  {
+    "TagId": 15742,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Stromgarde Keep",
+      "Castillo de Stromgarde",
+      "Bastilha de Stromgarde",
+      "Stromgarde Keep",
+      "Castillo de Stromgarde",
+      "Donjon de Stromgarde",
+      "Крепость Стромгард",
+      "Burg Stromgarde",
+      "Bastilha de Stromgarde",
+      "Forte di Stromgarde",
+      "스트롬가드 요새",
+      "激流堡",
+      "激流堡"
+    ]
+  },
+  {
+    "TagId": 15743,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Valorcall Pass",
+      "Paso Valeroso",
+      "Passagem Clamabravo",
+      "Valorcall Pass",
+      "Senda del Valor",
+      "Passe de Vaillehuche",
+      "Дорога Храброгласа",
+      "Der Heldenrufpass",
+      "Passagem Clamabravo",
+      "Passo di Granvalore",
+      "밸러콜의 길",
+      "英勇之喚小徑",
+      "唤勇之路"
+    ]
+  },
+  {
+    "TagId": 15744,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Galson's Lode",
+      "Filón de Galson",
+      "Veio do Galson",
+      "Galson's Lode",
+      "Mina de Galson",
+      "Filon de Galson",
+      "Рудник Гальсона",
+      "Galsons Mine",
+      "Veio do Galson",
+      "Vena Mineraria di Galson",
+      "갤슨의 광맥",
+      "賈爾森礦場",
+      "加尔森的矿洞"
+    ]
+  },
+  {
+    "TagId": 15745,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Vermillion Redoubt",
+      "Reducto Bermellón",
+      "Rubro Reduto",
+      "Vermillion Redoubt",
+      "Reducto Bermellón",
+      "La redoute Vermillon",
+      "Гранатовый Редут",
+      "Das Zinnoberrefugium",
+      "Rubro Reduto",
+      "Trincea Vermiglia",
+      "주홍빛 보루",
+      "朱紅壁壘",
+      "朱红庇护所"
+    ]
+  },
+  {
+    "TagId": 15746,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Nethander Stead",
+      "Granja Nethander",
+      "Sítio de Nethander",
+      "Nethander Stead",
+      "Granja Nethander",
+      "Ferme des Nethander",
+      "Владение Нетандера",
+      "Die Nethandersiedlung",
+      "Sítio de Nethander",
+      "Cascina dei Nethander",
+      "네산더 농장",
+      "奈杉德崗哨",
+      "奈杉德哨岗"
+    ]
+  },
+  {
+    "TagId": 15747,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Durnholde Keep",
+      "Castillo de Durnholde",
+      "Forte do Desterro",
+      "Durnholde Keep",
+      "Castillo de Durnholde",
+      "Donjon de Fort-de-Durn",
+      "Крепость Дарнхольд",
+      "Burg Durnholde",
+      "Forte do Desterro",
+      "Forte Durnholde",
+      "던홀드 요새",
+      "敦霍爾德城堡",
+      "敦霍尔德城堡"
+    ]
+  },
+  {
+    "TagId": 15748,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Dun Garok",
+      "Dun Garok",
+      "Dun Garok",
+      "Dun Garok",
+      "Dun Garok",
+      "Dun Garok",
+      "Дун Гарок",
+      "Dun Garok",
+      "Dun Garok",
+      "Dun Garok",
+      "던 가록",
+      "丹加洛克",
+      "丹加洛克"
+    ]
+  },
+  {
+    "TagId": 15749,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Eastern Strand",
+      "Playa del Este",
+      "Praia Oriental",
+      "Eastern Strand",
+      "Playa del Este",
+      "Rivage Oriental",
+      "Восточное побережье",
+      "Der Oststrand",
+      "Praia Oriental",
+      "Riva Orientale",
+      "동부 해안",
+      "東部海灘",
+      "东部海滩"
+    ]
+  },
+  {
+    "TagId": 15750,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Thoradin's Wall",
+      "Muro de Thoradin",
+      "Muralha de Thoradin",
+      "Thoradin's Wall",
+      "Muralla de Thoradin",
+      "Mur de Thoradin",
+      "Стена Торадина",
+      "Thoradinswall",
+      "Muralha de Thoradin",
+      "Muro di Thoradin",
+      "소라딘의 성벽",
+      "索拉丁之牆",
+      "索拉丁之墙"
+    ]
+  },
+  {
+    "TagId": 15751,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Great Sea",
+      "Mare Magnum",
+      "O Grande Oceano",
+      "The Great Sea",
+      "Mare Magnum",
+      "La Grande mer",
+      "Великое море",
+      "Das Große Meer",
+      "O Grande Oceano",
+      "Grande Mare",
+      "대해",
+      "無盡之海",
+      "无尽之海"
+    ]
+  },
+  {
+    "TagId": 15752,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Ravenholdt Manor",
+      "Mansión Ravenholdt",
+      "Mansão de Corvoforte",
+      "Ravenholdt Manor",
+      "Mansión Ravenholdt",
+      "Manoir de Ravenholdt",
+      "Поместье Черного Ворона",
+      "Das Rabenholdtanwesen",
+      "Mansão de Corvoforte",
+      "Maniero dei Corvolesto",
+      "라벤홀트 장원",
+      "拉文霍德莊園",
+      "拉文霍德庄园"
+    ]
+  },
+  {
+    "TagId": 15753,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Altar of Zul",
+      "El Altar de Zul",
+      "Altar de Zul",
+      "The Altar of Zul",
+      "Altar de Zul",
+      "L’Autel de Zul",
+      "Алтарь Зула",
+      "Der Altar von Zul",
+      "Altar de Zul",
+      "Altare di Zul",
+      "줄의 제단",
+      "祖爾祭壇",
+      "祖尔祭坛"
+    ]
+  },
+  {
+    "TagId": 15754,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Jintha'Alor",
+      "Jintha'Alor",
+      "Jintha'Alor",
+      "Jintha'Alor",
+      "Jintha'Alor",
+      "Jintha’Alor",
+      "Джинта'Алор",
+      "Jintha'Alor",
+      "Jintha'Alor",
+      "Jintha'alor",
+      "진타알로",
+      "辛薩羅",
+      "辛萨罗"
+    ]
+  },
+  {
+    "TagId": 15755,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Zun'watha",
+      "Zun'watha",
+      "Zun'watha",
+      "Zun'watha",
+      "Zun'watha",
+      "Zun’watha",
+      "Зун'вата",
+      "Zun'watha",
+      "Zun'watha",
+      "Zun'watha",
+      "준와타",
+      "祖瓦沙",
+      "祖瓦沙"
+    ]
+  },
+  {
+    "TagId": 15756,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "O Mar Proibido",
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "Mer Interdite",
+      "Зловещее море",
+      "Das Verbotene Meer",
+      "O Mar Proibido",
+      "Mar delle Insidie",
+      "성난 바다",
+      "禁忌之海",
+      "禁忌之海"
+    ]
+  },
+  {
+    "TagId": 15757,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Shadra'Alor",
+      "Shadra'Alor",
+      "Shadra'Alor",
+      "Shadra'Alor",
+      "Shadra'Alor",
+      "Shadra’Alor",
+      "Шадра'Алор",
+      "Shadra'Alor",
+      "Shadra'Alor",
+      "Shadra'Alor",
+      "샤드라알로",
+      "沙德拉洛",
+      "沙德拉洛"
+    ]
+  },
+  {
+    "TagId": 15758,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Bogen's Ledge",
+      "Arrecife de Bogen",
+      "Covil do Bogen",
+      "Bogen's Ledge",
+      "Arrecife de Bogen",
+      "Escarpement de Bogen",
+      "Грот Богена",
+      "Bogens Kante",
+      "Covil do Bogen",
+      "Grotta di Bogen",
+      "보겐의 절벽",
+      "伯根的棚屋",
+      "伯根的棚屋"
+    ]
+  },
+  {
+    "TagId": 15759,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Dun Modr",
+      "Dun Modr",
+      "Dun Modr",
+      "Dun Modr",
+      "Dun Modr",
+      "Dun Modr",
+      "Дун Модр",
+      "Dun Modr",
+      "Dun Modr",
+      "Dun Modr",
+      "던 모드르",
+      "丹莫德",
+      "丹莫德"
+    ]
+  },
+  {
+    "TagId": 15760,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Saltspray Glen",
+      "Cañada Salobre",
+      "Vale Espuma de Sal",
+      "Saltspray Glen",
+      "Cañada Salobre",
+      "Vallon des Embruns",
+      "Долина Солевого Тумана",
+      "Die Salzgischtschlucht",
+      "Vale Espuma de Sal",
+      "Radura Salmastra",
+      "소금물 습지대",
+      "鹽沫沼澤",
+      "盐沫沼泽"
+    ]
+  },
+  {
+    "TagId": 15761,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Thandol Span",
+      "Puente Thandol",
+      "Ponte Thandol",
+      "Thandol Span",
+      "Puente Thandol",
+      "Viaduc de Thandol",
+      "Мост Тандола",
+      "Der Thandolübergang",
+      "Ponte Thandol",
+      "Viadotto di Thandol",
+      "탄돌 교각",
+      "薩多爾大橋",
+      "萨多尔大桥"
+    ]
+  },
+  {
     "TagId": 15763,
     "TagType": 24,
     "Names": [
@@ -6477,6 +7457,326 @@
       "배수로",
       "排水口",
       "排水道"
+    ]
+  },
+  {
+    "TagId": 15764,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Ny'alotha, the Waking City",
+      "Ny’alotha, la Ciudad Despierta",
+      "Ny'alotha, a Cidade Desperta",
+      "Ny'alotha, the Waking City",
+      "Ny'alotha, Ciudad del Despertar",
+      "Ny’alotha, la cité en éveil",
+      "Ни'алота, Пробуждающийся Город",
+      "Ny'alotha, die Erwachte Stadt",
+      "Ny'alotha, a Cidade Desperta",
+      "Ny'alotha, la Città Risvegliata",
+      "깨어난 도시 나이알로사",
+      "奈奧羅薩，甦醒之城",
+      "尼奥罗萨，觉醒之城"
+    ]
+  },
+  {
+    "TagId": 15765,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Ny'alotha",
+      "Ny'alotha",
+      "Ny'alotha",
+      "Ny'alotha",
+      "Ny'alotha",
+      "Ny’alotha",
+      "Ни'алота",
+      "Ny'alotha",
+      "Ny'alotha",
+      "Ny'alotha",
+      "나이알로사",
+      "奈奧羅薩",
+      "尼奥罗萨"
+    ]
+  },
+  {
+    "TagId": 15766,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Locus of Infinite Truths",
+      "Intersticio de Verdades Infinitas",
+      "Lócus das Infinitas Verdades",
+      "Locus of Infinite Truths",
+      "Enclave de Verdades Infinitas",
+      "Noyau des Vérités infinies",
+      "Средоточие бесконечных истин",
+      "Der Kern der Unendlichen Wahrheiten",
+      "Lócus das Infinitas Verdades",
+      "Locus delle Verità Infinite",
+      "무한한 진실의 공간",
+      "無盡真相之地",
+      "无尽真理之地"
+    ]
+  },
+  {
+    "TagId": 15767,
+    "TagType": 24,
+    "Names": [
+      null,
+      "N'Zoth",
+      "N'Zoth",
+      "N'Zoth",
+      "N'Zoth",
+      "N'Zoth",
+      "N’Zoth",
+      "Н'Зот",
+      "N'Zoth",
+      "N'Zoth",
+      "N'zoth",
+      "느조스",
+      "恩若司",
+      "恩佐斯"
+    ]
+  },
+  {
+    "TagId": 15768,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Den of Transfusion",
+      "Cubil de Transfusión",
+      "Covil de Transfusão",
+      "Den of Transfusion",
+      "Cubil de Transfusión",
+      "Tanière de Transfusion",
+      "Полость переливания",
+      "Der Hort der Transfusion",
+      "Covil de Transfusão",
+      "Antro della Trasfusione",
+      "수혈의 동굴",
+      "汲血巢穴",
+      "传输腔室"
+    ]
+  },
+  {
+    "TagId": 15769,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Terrace of Desolation",
+      "Terraza de Desolación",
+      "Terraço da Desolação",
+      "Terrace of Desolation",
+      "Bancal de Desolación",
+      "Terrasse de la Désolation",
+      "Терраса Отчаяния",
+      "Die Terrasse der Verwüstung",
+      "Terraço da Desolação",
+      "Terrazza della Desolazione",
+      "황폐의 단상",
+      "淒涼露台",
+      "苍凉高台"
+    ]
+  },
+  {
+    "TagId": 15770,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Twilight Landing",
+      "Caída del Crepúsculo",
+      "Patamar do Crepúsculo",
+      "Twilight Landing",
+      "Desembarco Crepuscular",
+      "Aire du Crépuscule",
+      "Сумеречная терраса",
+      "Die Zwielichtlandung",
+      "Patamar do Crepúsculo",
+      "Poggio del Crepuscolo",
+      "황혼내림",
+      "暮光平臺",
+      "暮光高台"
+    ]
+  },
+  {
+    "TagId": 15771,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Warren of Decay",
+      "Madriguera de Descomposición",
+      "Galeria de Decomposição",
+      "Warren of Decay",
+      "Túneles de Descomposición",
+      "Dédale de Décomposition",
+      "Логово разложения",
+      "Die Höhle des Verfalls",
+      "Galeria de Decomposição",
+      "Antro del Decadimento",
+      "부패의 소굴",
+      "凋零地道",
+      "销蚀魔穴"
+    ]
+  },
+  {
+    "TagId": 15772,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Chamber of Rebirth",
+      "Cámara del Renacer",
+      "Câmara de Renascimento",
+      "Chamber of Rebirth",
+      "Cámara de Renacimiento",
+      "Chambre de Renaissance",
+      "Камера возрождения",
+      "Die Kammer der Wiedergeburt",
+      "Câmara de Renascimento",
+      "Sala della Rinascita",
+      "환생의 방",
+      "重生之室",
+      "重生腔室"
+    ]
+  },
+  {
+    "TagId": 15773,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Spawning Pit",
+      "Foso de Engendración",
+      "Fosso de Incubação",
+      "Spawning Pit",
+      "Foso Engendrador",
+      "Fosse de Gestation",
+      "Логово выводка",
+      "Die Brutgrube",
+      "Fosso de Incubação",
+      "Fossa di Germinazione",
+      "산란의 구덩이",
+      "繁殖陷窟",
+      "增殖之池"
+    ]
+  },
+  {
+    "TagId": 15774,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Maw of Gor'ma",
+      "Fauces de Gor'ma",
+      "Gorja de Gor'ma",
+      "Maw of Gor'ma",
+      "Fauces de Gor'ma",
+      "Gueule de Gor’ma",
+      "Утроба Гор'мы",
+      "Der Schlund des Gor'ma",
+      "Gorja de Gor'ma",
+      "Fauci di Gor'ma",
+      "고르마의 아귀",
+      "戈瑪之口",
+      "戈玛之喉"
+    ]
+  },
+  {
+    "TagId": 15775,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Hive",
+      "La Colmena",
+      "Colmeia",
+      "The Hive",
+      "La Colmena",
+      "La Ruche",
+      "Улей",
+      "Der Schwarm",
+      "Colmeia",
+      "Alveare",
+      "중심지",
+      "巢穴",
+      "虫巢"
+    ]
+  },
+  {
+    "TagId": 15776,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Ritual Chamber",
+      "Cámara de Rituales",
+      "Câmara Ritual",
+      "The Ritual Chamber",
+      "Cámara Ritual",
+      "Chambre du Rituel",
+      "Ритуальный зал",
+      "Die Ritualkammer",
+      "Câmara Ritual",
+      "Stanza del Rituale",
+      "의식의 방",
+      "儀式之廳",
+      "仪式大厅"
+    ]
+  },
+  {
+    "TagId": 15777,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Annex of Prophecy",
+      "Anexo de Profecía",
+      "Anexo da Profecia",
+      "Annex of Prophecy",
+      "Anexo de la Profecía",
+      "Annexe de la Prophétie",
+      "Придел Пророчества",
+      "Der Annex der Prophezeiung",
+      "Anexo da Profecia",
+      "Annesso della Profezia",
+      "계시의 관",
+      "預言別館",
+      "预言侧殿"
+    ]
+  },
+  {
+    "TagId": 15778,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Obsidian Overlook",
+      "Mirador Obsidiana",
+      "Mirante Obsidiano",
+      "Obsidian Overlook",
+      "Mirador Obsidiana",
+      "Surplomb d’Obsidienne",
+      "Обсидиановый дозор",
+      "Die Obsidianwarte",
+      "Mirante Obsidiano",
+      "Loggia di Ossidiana",
+      "흑요석 전망대",
+      "黑曜瞰臺",
+      "黑曜石瞭望台"
+    ]
+  },
+  {
+    "TagId": 15779,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Vision of Destiny",
+      "Visión del Destino",
+      "Visão do Destino",
+      "Vision of Destiny",
+      "Visión del Destino",
+      "Vision de la Destinée",
+      "Видение судьбы",
+      "Die Vision des Schicksals",
+      "Visão do Destino",
+      "Visione del Destino",
+      "운명의 환영",
+      "命運幻象",
+      "命运幻象"
     ]
   },
   {
@@ -6580,6 +7880,26 @@
     ]
   },
   {
+    "TagId": 15794,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]",
+      "Marrin's Enclave [UNUSED]"
+    ]
+  },
+  {
     "TagId": 15827,
     "TagType": 24,
     "Names": [
@@ -6677,6 +7997,66 @@
       "신성한 공동",
       "聖谷",
       "圣礼窟"
+    ]
+  },
+  {
+    "TagId": 15841,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Scarlet Halls",
+      "Cámaras Escarlata",
+      "Salões Escarlates",
+      "Scarlet Halls",
+      "Cámaras Escarlata",
+      "Salles Écarlates",
+      "Залы Алого ордена",
+      "Die Scharlachroten Hallen",
+      "Salões Escarlates",
+      "Sale Scarlatte",
+      "붉은십자군 전당",
+      "血色大廳",
+      "血色大厅"
+    ]
+  },
+  {
+    "TagId": 15842,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Huntsman's Cloister",
+      "Claustro del Cazador",
+      "Claustro do Guarda-caça",
+      "Huntsman's Cloister",
+      "Claustro del Cazador",
+      "Cloître du veneur",
+      "Двор охотника",
+      "Der Kreuzgang des Jägers",
+      "Claustro do Guarda-caça",
+      "Chiostro dei Cacciatori",
+      "사냥꾼의 회랑",
+      "獵手迴廊",
+      "猎手回廊"
+    ]
+  },
+  {
+    "TagId": 15843,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Training Grounds",
+      "Campo de Entrenamiento",
+      "Campo de Treinamento",
+      "Training Grounds",
+      "Campo de Entrenamiento",
+      "Terrain d’entraînement",
+      "Тренировочная площадка",
+      "Das Ausbildungsgelände",
+      "Campo de Treinamento",
+      "Cortile d'Addestramento",
+      "훈련장",
+      "訓練場",
+      "训练场"
     ]
   },
   {
@@ -6857,6 +8237,26 @@
       "오그리마의 환영",
       "奧格瑪幻象",
       "奥格瑞玛的幻象"
+    ]
+  },
+  {
+    "TagId": 15989,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Lordaeron Garrison",
+      "Cuartel de Lordaeron",
+      "Guarnição de Lordaeron",
+      "Lordaeron Garrison",
+      "Ciudadela de Lordaeron",
+      "Fief de Lordaeron",
+      "Лордеронский гарнизон",
+      "Die Garnison von Lordaeron",
+      "Guarnição de Lordaeron",
+      "Guarnigione di Lordaeron",
+      "로데론 주둔지",
+      "羅德隆要塞",
+      "洛丹伦要塞"
     ]
   },
   {

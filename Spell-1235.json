@@ -147,6 +147,86 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1235265,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Grandmaster's Prophetic Attire",
+      "Conjunto: Atuendo profético de gran maestro",
+      "Indumentária: Vestuário Profético do Grande Mestre",
+      "Ensemble: Grandmaster's Prophetic Attire",
+      "Indumentaria: Atuendo profético de gran maestro",
+      "Ensemble\u00A0: costume prophétique de grand maître",
+      "Комплект: пророческое убранство гроссмейстера",
+      "Ensemble: Prophetisches Gewand des Großmeisters",
+      "Indumentária: Vestuário Profético do Grande Mestre",
+      "Set: Completo Profetico del Grande Maestro",
+      "복장: 그랜드마스터의 예언자 의복",
+      "套裝：特級大師預言裝束",
+      "套装：特级大师的先知装束"
+    ]
+  },
+  {
+    "TagId": 1235277,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Grandmaster's Deep Attire",
+      "Conjunto: Ropajes profundos de gran maestro",
+      "Indumentária: Vestuário Profundo do Grande Mestre",
+      "Ensemble: Grandmaster's Deep Attire",
+      "Indumentaria: Atuendo profundo de gran maestro",
+      "Ensemble\u00A0: costume de grand maître profond",
+      "Комплект: глубинное убранство гроссмейстера",
+      "Ensemble: Tiefengewand des Großmeisters",
+      "Indumentária: Vestuário Profundo do Grande Mestre",
+      "Set: Completo Profondo del Grande Maestro",
+      "복장: 그랜드마스터의 심연 의복",
+      "套裝：特級大師深淵裝束",
+      "套装：特级大师的深海装束"
+    ]
+  },
+  {
+    "TagId": 1235280,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Grandmaster's Royal Attire",
+      "Conjunto: Ropajes reales de gran maestro",
+      "Indumentária: Vestuário Régio do Grande Mestre",
+      "Ensemble: Grandmaster's Royal Attire",
+      "Indumentaria: Atuendo real de gran maestro",
+      "Ensemble\u00A0: costume de grand maître royal",
+      "Комплект: королевское убранство гроссмейстера",
+      "Ensemble: Königliches Gewand des Großmeisters",
+      "Indumentária: Vestuário Régio do Grande Mestre",
+      "Set: Completo Regale del Grande Maestro",
+      "복장: 그랜드마스터의 왕실 의복",
+      "套裝：特級大師皇家裝束",
+      "套装：特级大师的皇家装束"
+    ]
+  },
+  {
+    "TagId": 1235282,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Grandmaster's Smoke Attire",
+      "Conjunto: Ropajes humeantes de gran maestro",
+      "Indumentária: Vestuário Fúmeo do Grande Mestre",
+      "Ensemble: Grandmaster's Smoke Attire",
+      "Indumentaria: Atuendo de humo de gran maestro",
+      "Ensemble\u00A0: costume de grand maître fumé",
+      "Комплект: дымное убранство гроссмейстера",
+      "Ensemble: Rauchgewand des Großmeisters",
+      "Indumentária: Vestuário Fúmeo do Grande Mestre",
+      "Set: Completo Fumoso del Grande Maestro",
+      "복장: 그랜드마스터의 연기 의복",
+      "套裝：特級大師白煙裝束",
+      "套装：特级大师的云烟装束"
+    ]
+  },
+  {
     "TagId": 1235309,
     "TagType": 26,
     "Names": [
@@ -370,7 +450,7 @@
       "Комплект: пернатая коллекция верховного мага",
       "Ensemble: Gefiederte Sammlung des Erzmagiers",
       "Indumentária: Coleção Emplumada do Arquimago",
-      "Set: Collezione Piumata dell'Archimago",
+      "Set: Collezione Piumata dell'Arcimago",
       "복장: 대마법사의 깃털 달린 수집품",
       "套裝：大法師羽織收藏",
       "套装：羽饰大法师收藏"
@@ -397,5 +477,152 @@
       "套装：羽饰先知收藏"
     ],
     "Media": "inv_helm_armor_karazhan_c_01.jpg"
+  },
+  {
+    "TagId": 1235756,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grandmaster's Prophetic Board",
+      "Tablero profético de gran maestro",
+      "Tabuleiro Profético do Grande Mestre",
+      "Grandmaster's Prophetic Board",
+      "Tablero profético de gran maestro",
+      "Échiquier prophétique de grand maître",
+      "Пророческая доска гроссмейстера",
+      "Prophetisches Brett des Großmeisters",
+      "Tabuleiro Profético do Grande Mestre",
+      "Tabellone Profetico del Grande Maestro",
+      "그랜드마스터의 예언자 발판",
+      "特級大師的預言飛板",
+      "特级大师的先知棋盘"
+    ],
+    "Media": "inv_chessmount_black.jpg"
+  },
+  {
+    "TagId": 1235763,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grandmaster's Deep Board",
+      "Tablero profundo de gran maestro",
+      "Tabuleiro Profundo do Grande Mestre",
+      "Grandmaster's Deep Board",
+      "Tablero profundo de gran maestro",
+      "Échiquier profond de grand maître",
+      "Глубинная доска гроссмейстера",
+      "Tiefblaues Brett des Großmeisters",
+      "Tabuleiro Profundo do Grande Mestre",
+      "Tavola Profonda del Grande Maestro",
+      "그랜드마스터의 심연 발판",
+      "宗師深淵飛板",
+      "特级大师的深海棋盘"
+    ],
+    "Media": "inv_chessmount_blue.jpg"
+  },
+  {
+    "TagId": 1235803,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grandmaster's Royal Board",
+      "Tablero real de gran maestro",
+      "Tabuleiro Régio do Grande Mestre",
+      "Grandmaster's Royal Board",
+      "Tablero real de gran maestro",
+      "Échiquier royal de grand maître",
+      "Королевская доска гроссмейстера",
+      "Königliches Brett des Großmeisters",
+      "Tabuleiro Régio do Grande Mestre",
+      "Tavola Regale del Grande Maestro",
+      "그랜드마스터의 왕실 발판",
+      "宗師皇家飛板",
+      "特级大师的皇家棋盘"
+    ],
+    "Media": "inv_chessmount_gold.jpg"
+  },
+  {
+    "TagId": 1235806,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grandmaster's Smokey Board",
+      "Tablero humeante de gran maestro",
+      "Tabuleiro Fúmeo do Grande Mestre",
+      "Grandmaster's Smokey Board",
+      "Tablero de humo de gran maestro",
+      "Échiquier fumé de grand maître",
+      "Дымная доска гроссмейстера",
+      "Rauchiges Brett des Großmeisters",
+      "Tabuleiro Fúmeo do Grande Mestre",
+      "Tavola Fumosa del Grande Maestro",
+      "그랜드마스터의 연기 발판",
+      "宗師煙霧飛板",
+      "特级大师的云烟棋盘"
+    ],
+    "Media": "inv_chessmount_white.jpg"
+  },
+  {
+    "TagId": 1235817,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Forsaken's Grotesque Charger",
+      "Destrero grotesco de Renegado",
+      "Corcel Grotesco da Renegada",
+      "Forsaken's Grotesque Charger",
+      "Destrero grotesco de los Renegados",
+      "Destrier grotesque de Réprouvé",
+      "Гротескный скакун банши",
+      "Groteskes Streitross der Verlassenen",
+      "Corcel Grotesco da Renegada",
+      "Gran Destriero Grottesco dei Reietti",
+      "포세이큰의 흉측한 군마",
+      "被遺忘者怪誕戰騎",
+      "被遗忘者的怪诞军马"
+    ],
+    "Media": "inv_forsakenhorsemount_green.jpg"
+  },
+  {
+    "TagId": 1235819,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wailing Banshee's Charger",
+      "Destrero de alma en pena gemebunda",
+      "Corcel da Banshee Ululante",
+      "Wailing Banshee's Charger",
+      "Destrero de alma en pena gemebunda",
+      "Destrier de la banshee hurlante",
+      "Стенающий скакун банши",
+      "Streitross der heulenden Banshee",
+      "Corcel da Banshee Ululante",
+      "Destriero della Banshee Lamentosa",
+      "울부짖는 밴시의 군마",
+      "哀嚎女妖戰騎",
+      "哀嚎女妖军马"
+    ],
+    "Media": "inv_forsakenhorsemount_purple.jpg"
+  },
+  {
+    "TagId": 1235820,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Banshee's Sickening Charger",
+      "Destrero enfermante de alma en pena",
+      "Corcel Doentio da Banshee",
+      "Banshee's Sickening Charger",
+      "Destrero enfermizo de alma en pena",
+      "Destrier écœurant de la banshee",
+      "Безобразный скакун банши",
+      "Widerwärtiges Streitross der Banshee",
+      "Corcel Doentio da Banshee",
+      "Gran Destriero Malato della Banshee",
+      "밴시의 병든 군마",
+      "女妖病態戰騎",
+      "病态女妖军马"
+    ],
+    "Media": "inv_forsakenhorsemount_yellow.jpg"
   }
 ]

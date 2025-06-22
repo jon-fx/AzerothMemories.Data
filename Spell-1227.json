@@ -67,19 +67,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Scourge Strike",
-      "Golpe de la plaga",
-      "Golpe do Flagelo",
-      "Scourge Strike",
-      "Golpe de la Plaga",
-      "Frappe du Fléau",
-      "Удар Плети",
-      "Geißelstoß",
-      "Golpe do Flagelo",
-      "Assalto del Flagello",
-      "스컬지의 일격",
-      "天譴打擊",
-      "天灾打击"
+      "Festering Wound",
+      "Herida degenerativa",
+      "Ferida Purulenta",
+      "Festering Wound",
+      "Herida degenerativa",
+      "Blessure purulente",
+      "Гнойная язва",
+      "Schwärende Wunde",
+      "Ferida Purulenta",
+      "Ferita Putrescente",
+      "고름 상처",
+      "膿瘡傷口",
+      "溃烂之伤"
     ],
     "Media": "spell_yorsahj_bloodboil_purpleoil.jpg"
   },
@@ -1071,6 +1071,48 @@
     "Media": "spell_shadow_shadesofdarkness.jpg"
   },
   {
+    "TagId": 1227334,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maintenance",
+      "Mantenimiento",
+      "Manutenção",
+      "Maintenance",
+      "Mantenimiento",
+      "Maintenance",
+      "Техобслуживание",
+      "Wartung",
+      "Manutenção",
+      "Manutenzione",
+      "점검",
+      "維護",
+      "维护"
+    ],
+    "Media": "spell_holy_healingaura.jpg"
+  },
+  {
+    "TagId": 1227335,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maintenance",
+      "Mantenimiento",
+      "Manutenção",
+      "Maintenance",
+      "Mantenimiento",
+      "Maintenance",
+      "Техобслуживание",
+      "Wartung",
+      "Manutenção",
+      "Manutenzione",
+      "점검",
+      "維護",
+      "维护"
+    ],
+    "Media": "spell_holy_healingaura.jpg"
+  },
+  {
     "TagId": 1227336,
     "TagType": 26,
     "Names": [
@@ -1111,6 +1153,27 @@
       "[DNT] 11.1 Sound - Undermine - Traffic - (1) Periodic Sound Trigger - Traffic Flyby - High"
     ],
     "Media": "spell_frost_frostbolt02.jpg"
+  },
+  {
+    "TagId": 1227345,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Adamant Defense",
+      "Defensa adamantina",
+      "Defesas Adamantinas",
+      "Adamant Defense",
+      "Defensa de adamantita",
+      "Défense adamantine",
+      "Несокрушимая защита",
+      "Unerschütterliche Verteidigung",
+      "Defesas Adamantinas",
+      "Difesa Adamantina",
+      "철통 방어",
+      "不滅防禦",
+      "坚钢防御"
+    ],
+    "Media": "spell_shaman_improvedearthshield.jpg"
   },
   {
     "TagId": 1227346,
@@ -1722,6 +1785,26 @@
     "Media": "inv_ability_poison_orb.jpg"
   },
   {
+    "TagId": 1227459,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowform",
+      "Forma de las sombras",
+      "Forma de Sombra",
+      "Shadowform",
+      "Forma de las Sombras",
+      "Forme d’ombre",
+      "Облик Тьмы",
+      "Schattengestalt",
+      "Forma de Sombra",
+      "Forma d'Ombra",
+      "어둠의 형상",
+      "暗影形態",
+      "暗影形态"
+    ]
+  },
+  {
     "TagId": 1227473,
     "TagType": 26,
     "Names": [
@@ -1846,6 +1929,27 @@
       "赋力信息素"
     ],
     "Media": "inv_11_0_raid_spymastersweb_purple.jpg"
+  },
+  {
+    "TagId": 1227528,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gold Pile",
+      "Montón de oro",
+      "Pilha de Ouro",
+      "Gold Pile",
+      "Montón de oro",
+      "Pile d’or",
+      "Груда золота",
+      "Goldhaufen",
+      "Pilha de Ouro",
+      "Mucchio d'Oro",
+      "황금 더미",
+      "金幣堆",
+      "金子堆"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_electricalparts_color1.jpg"
   },
   {
     "TagId": 1227551,
@@ -2140,6 +2244,27 @@
       "暗影箭"
     ],
     "Media": "spell_shadow_shadowbolt.jpg"
+  },
+  {
+    "TagId": 1227673,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene",
+      "[DNT] Play Scene"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1227674,
@@ -2454,6 +2579,27 @@
       "复仇心切"
     ],
     "Media": "ability_warrior_revenge.jpg"
+  },
+  {
+    "TagId": 1227873,
+    "TagType": 26,
+    "Names": [
+      null,
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)",
+      "11.1.7 Lorewalking - Elves - Sunwell Visual (AS)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1227967,
