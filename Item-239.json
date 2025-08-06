@@ -1155,6 +1155,27 @@
     "Media": "inv_helm_mail_zandalardungeon_c_01.jpg"
   },
   {
+    "TagId": 239074,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Void Lure",
+      "Cebo del Vacío",
+      "Isca Caótica",
+      "Void Lure",
+      "Cebo del Vacío",
+      "Leurre du Vide",
+      "Приманка Бездны",
+      "Leerenköder",
+      "Isca Caótica",
+      "Esca del Vuoto",
+      "공허 미끼",
+      "虛無誘餌",
+      "虚空诱饵"
+    ],
+    "Media": "inv_nullstone_void.jpg"
+  },
+  {
     "TagId": 239076,
     "TagType": 21,
     "Names": [
@@ -1266,13 +1287,13 @@
       null,
       "Sa'bak's Blessed",
       "Bendecido de Sa'bak",
-      "Abençoado por Sa'bak",
+      "Abençoado de Sa'bak",
       "Sa'bak's Blessed",
       "Bendecido por Sa'bak",
       "Béni de Sa’bak",
       "Любимец Са'бека",
       "Sa'baks Gesegneter",
-      "Abençoado por Sa'bak",
+      "Abençoado de Sa'bak",
       "Benedetto di Sa'bak",
       "사바크의 축복",
       "沙巴克賜福者",
@@ -1617,6 +1638,27 @@
     "Media": "inv_blacksmithing_70_demonsteelbar.jpg"
   },
   {
+    "TagId": 239109,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_questionmark.jpg"
+  },
+  {
     "TagId": 239115,
     "TagType": 21,
     "Names": [
@@ -1827,6 +1869,27 @@
     "Media": "inv_legion_cache_hightmountaintribes.jpg"
   },
   {
+    "TagId": 239129,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Questionable Tentacle",
+      "Tentáculo cuestionable",
+      "Tentáculo Questionável",
+      "Questionable Tentacle",
+      "Tentáculo cuestionable",
+      "Tentacule douteux",
+      "Подозрительное щупальце",
+      "Fragwürdiger Tentakel",
+      "Tentáculo Questionável",
+      "Tentacolo di Dubbia Origine",
+      "미심쩍은 촉수",
+      "可疑的觸手",
+      "可疑的触手"
+    ],
+    "Media": "inv_fishing_innards_meat_ammonite.jpg"
+  },
+  {
     "TagId": 239135,
     "TagType": 21,
     "Names": [
@@ -1874,7 +1937,7 @@
     "Names": [
       null,
       "Lamplighter's Pauldrons",
-      "Espaldares de farolero",
+      "Espaldares de farolera",
       "Brafoneiras de Luminar",
       "Lamplighter's Pauldrons",
       "Espaldares de prendelámparas",
@@ -1930,6 +1993,27 @@
       null
     ],
     "Media": "inv_misc_tabard_a_01auchenai.jpg"
+  },
+  {
+    "TagId": 239141,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_polearm_2h_etherealraid_d_01.jpg"
   },
   {
     "TagId": 239142,
@@ -1995,6 +2079,69 @@
     "Media": "achievement_dungeon_ulduar77_heroic.jpg"
   },
   {
+    "TagId": 239153,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Key of the Eternal Night",
+      "Llave de noche eterna",
+      "Chave da Noite Eterna",
+      "Key of the Eternal Night",
+      "Llave de la Noche Eterna",
+      "Clé de la Nuit éternelle",
+      "Ключ вечной ночи",
+      "Schlüssel der ewigen Nacht",
+      "Chave da Noite Eterna",
+      "Chiave della Notte Eterna",
+      "영원한 밤의 열쇠",
+      "永夜之鑰",
+      "永夜之钥"
+    ],
+    "Media": "inv_crestupgrade_ethereal_weathered.jpg"
+  },
+  {
+    "TagId": 239154,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Key of the Waning Moon",
+      "Llave de la luna menguante",
+      "Chave da Lua Minguante",
+      "Key of the Waning Moon",
+      "Llave de la Luna Menguante",
+      "Clé de la Lune décroissante",
+      "Ключ убывающей луны",
+      "Schlüssel des abnehmenden Mondes",
+      "Chave da Lua Minguante",
+      "Chiave della Luna Calante",
+      "기우는 달의 열쇠",
+      "缺月之鑰",
+      "残月之钥"
+    ],
+    "Media": "inv_crestupgrade_ethereal_carved.jpg"
+  },
+  {
+    "TagId": 239155,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Key of the Dark Sun",
+      "Llave del sol oscuro",
+      "Chave do Sol Negro",
+      "Key of the Dark Sun",
+      "Llave del Sol Oscuro",
+      "Clé du Soleil sombre",
+      "Ключ темного солнца",
+      "Schlüssel der dunklen Sonne",
+      "Chave do Sol Negro",
+      "Chiave del Sole Oscuro",
+      "검은 태양의 열쇠",
+      "暗日之鑰",
+      "暗日之钥"
+    ],
+    "Media": "inv_crestupgrade_ethereal_gilded.jpg"
+  },
+  {
     "TagId": 239157,
     "TagType": 21,
     "Names": [
@@ -2058,6 +2205,111 @@
     "Media": "achievement_dungeon_ulduar77_normal.jpg"
   },
   {
+    "TagId": 239204,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_treasurechest03c.jpg"
+  },
+  {
+    "TagId": 239209,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_sword_2h_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239249,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Untethered Battery",
+      "Batería desatada",
+      "Bateria Desprendida",
+      "Untethered Battery",
+      "Batería desvinculada",
+      "Batterie détachée",
+      "Батарея Безграничья",
+      "Ungebundene Batterie",
+      "Bateria Desprendida",
+      "Batteria Slegata",
+      "풀어헤쳐진 전지",
+      "無縛電池",
+      "无拘电池"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_reavesbattery_iron.jpg"
+  },
+  {
+    "TagId": 239276,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Purple Peat Cell Key",
+      "Llave de celda de Petapúrpura",
+      "Chave da Cela de Turfa Roxa",
+      "Purple Peat Cell Key",
+      "Llave de celda de Sustrato Morado",
+      "Clé de cellule de Tourbe violette",
+      "Ключ от клетки Лилового Торфа",
+      "Lila-Torf-Zellenschlüssel",
+      "Chave da Cela de Turfa Roxa",
+      "Chiave della Prigione di Torba Viola",
+      "보라색 토탄 감방 열쇠",
+      "紫色泥媒牢籠鑰匙",
+      "紫腐牢房钥匙"
+    ],
+    "Media": "inv_misc_key_08.jpg"
+  },
+  {
+    "TagId": 239314,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arcane Lure",
+      "Cebo arcano",
+      "Isca Arcana",
+      "Arcane Lure",
+      "Cebo Arcano",
+      "Appât arcanique",
+      "Чародейская приманка",
+      "Arkaner Köder",
+      "Isca Arcana",
+      "Esca Arcana",
+      "비전 미끼",
+      "秘法誘餌",
+      "奥术诱饵"
+    ],
+    "Media": "spell_misc_conjuremanajewel.jpg"
+  },
+  {
     "TagId": 239440,
     "TagType": 21,
     "Names": [
@@ -2100,6 +2352,804 @@
     "Media": "inv_shoulder_armor_cartelbomber_d_01.jpg"
   },
   {
+    "TagId": 239446,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Uncharged Crystal",
+      "Cristal sin carga",
+      "Cristal Descarregado",
+      "Uncharged Crystal",
+      "Cristal sin carga",
+      "Cristal déchargé",
+      "Незаряженный кристалл",
+      "Ungeladener Kristall",
+      "Cristal Descarregado",
+      "Cristallo Scaricato",
+      "충전되지 않은 수정",
+      "尚未充能的水晶",
+      "未充能的水晶"
+    ],
+    "Media": "inv_misc_gem_diamond_02.jpg"
+  },
+  {
+    "TagId": 239448,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Vestments",
+      "Vestimenta de magi reshii",
+      "Vestimenta do Magus de Reshii",
+      "Reshii Magi's Vestments",
+      "Vestimentas de magi reshii",
+      "Habits de mage reshii",
+      "Одеяние заклинателя реши",
+      "Gewänder des Reshiimagiers",
+      "Vestimenta do Magus de Reshii",
+      "Veste del Magus Reshii",
+      "레시 점성술사의 예복",
+      "瑞西魔導師法衣",
+      "雷什法师的法衣"
+    ],
+    "Media": "inv_chest_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239449,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Slippers",
+      "Zapatillas de magi reshii",
+      "Sapatilhas do Magus de Reshii",
+      "Reshii Magi's Slippers",
+      "Zapatillas de magi reshii",
+      "Mules de mage reshii",
+      "Туфли заклинателя реши",
+      "Pantoffeln des Reshiimagiers",
+      "Sapatilhas do Magus de Reshii",
+      "Pianelle del Magus Reshii",
+      "레시 점성술사의 끌신",
+      "瑞西魔導師軟靴",
+      "雷什法师的软鞋"
+    ],
+    "Media": "inv_boot_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239450,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Gloves",
+      "Guantes de magi reshii",
+      "Luvas do Magus de Reshii",
+      "Reshii Magi's Gloves",
+      "Guantes de magi reshii",
+      "Gants de mage reshii",
+      "Перчатки заклинателя реши",
+      "Handschuhe des Reshiimagiers",
+      "Luvas do Magus de Reshii",
+      "Guanti del Magus Reshii",
+      "레시 점성술사의 장갑",
+      "瑞西魔導師手套",
+      "雷什法师的手套"
+    ],
+    "Media": "inv_glove_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239451,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Crown",
+      "Corona de magi reshii",
+      "Cordão do Magus de Reshii",
+      "Reshii Magi's Crown",
+      "Corona de magi reshii",
+      "Couronne de mage reshii",
+      "Корона заклинателя реши",
+      "Krone des Reshiimagiers",
+      "Cordão do Magus de Reshii",
+      "Corona del Magus Reshii",
+      "레시 점성술사의 왕관",
+      "瑞西魔導師之冠",
+      "雷什法师的头冠"
+    ],
+    "Media": "inv_helm_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239452,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Leggings",
+      "Leotardos de magi reshii",
+      "Perneiras do Magus de Reshii",
+      "Reshii Magi's Leggings",
+      "Leotardos de magi reshii",
+      "Jambières de mage reshii",
+      "Поножи заклинателя реши",
+      "Gamaschen des Reshiimagiers",
+      "Perneiras do Magus de Reshii",
+      "Gambiere del Magus Reshii",
+      "레시 점성술사의 다리보호구",
+      "瑞西魔導師護腿",
+      "雷什法师的护腿"
+    ],
+    "Media": "inv_pant_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239453,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Spines",
+      "Espinas de magi reshii",
+      "Espinhos do Magus de Reshii",
+      "Reshii Magi's Spines",
+      "Espinas de magi reshii",
+      "Aiguillons de mage reshii",
+      "Шипастые наплечники заклинателя реши",
+      "Spitzen des Reshiimagiers",
+      "Espinhos do Magus de Reshii",
+      "Spallacci del Magus Reshii",
+      "레시 점성술사의 가시",
+      "瑞西魔導師脊刺",
+      "雷什法师的肩脊"
+    ],
+    "Media": "inv_shoulder_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239454,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Cord",
+      "Cordón de magi reshii",
+      "Cordão do Magus de Reshii",
+      "Reshii Magi's Cord",
+      "Cordón de magi reshii",
+      "Corde de mage reshii",
+      "Шнурованный ремень заклинателя реши",
+      "Kordel des Reshiimagiers",
+      "Cordão do Magus de Reshii",
+      "Fascione del Magus Reshii",
+      "레시 점성술사의 장식끈",
+      "瑞西魔導師之索",
+      "雷什法师的腰绳"
+    ],
+    "Media": "inv_belt_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239455,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Magi's Bands",
+      "Braciles de magi reshii",
+      "Embraces do Magus de Reshii",
+      "Reshii Magi's Bands",
+      "Braciles de magi reshii",
+      "Poignets de mage reshii",
+      "Поручи заклинателя реши",
+      "Bänder des Reshiimiagiers",
+      "Embraces do Magus de Reshii",
+      "Fasce del Magus Reshii",
+      "레시 점성술사의 손목매듭",
+      "瑞西魔導師手環",
+      "雷什法师的腕带"
+    ],
+    "Media": "inv_bracer_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239456,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Jerkin",
+      "Chaleco de explorador reshii",
+      "Gibão do Batedor de Reshii",
+      "Reshii Scout's Jerkin",
+      "Chaleco de explorador reshii",
+      "Pourpoint de reconnaissance reshii",
+      "Жакет разведчика реши",
+      "Wams des Reshiispähers",
+      "Gibão do Batedor de Reshii",
+      "Giaco dell'Esploratore Reshii",
+      "레시 정찰병의 웃옷",
+      "瑞西斥候上衣",
+      "雷什斥候的外衣"
+    ],
+    "Media": "inv_chest _leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239457,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Soles",
+      "Suelas de explorador reshii",
+      "Solas do Batedor de Reshii",
+      "Reshii Scout's Soles",
+      "Suelas de explorador reshii",
+      "Semelles de reconnaissance reshii",
+      "Башмаки разведчика реши",
+      "Sohlen des Reshiispähers",
+      "Solas do Batedor de Reshii",
+      "Scarpe dell'Esploratore Reshii",
+      "레시 정찰병의 발싸개",
+      "瑞西斥候鞋墊",
+      "雷什斥候的便鞋"
+    ],
+    "Media": "inv_boots_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239458,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Grips",
+      "Mandiletes de explorador reshii",
+      "Guantes do Batedor de Reshii",
+      "Reshii Scout's Grips",
+      "Mandiletes de explorador reshii",
+      "Poignes de reconnaissance reshii",
+      "Захваты разведчика реши",
+      "Handschutz des Reshiispähers",
+      "Guantes do Batedor de Reshii",
+      "Paramani dell'Esploratore Reshii",
+      "레시 정찰병의 손장갑",
+      "瑞西斥候之握",
+      "雷什斥候的护手"
+    ],
+    "Media": "inv_glove_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239459,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Hood",
+      "Caperuza de explorador reshii",
+      "Capuz do Batedor de Reshii",
+      "Reshii Scout's Hood",
+      "Caperuza de explorador reshii",
+      "Chaperon de reconnaissance reshii",
+      "Капюшон разведчика реши",
+      "Kapuze des Reshiispähers",
+      "Capuz do Batedor de Reshii",
+      "Cappuccio dell'Esploratore Reshii",
+      "레시 정찰병의 두건",
+      "瑞西斥候兜帽",
+      "雷什斥候的兜帽"
+    ],
+    "Media": "inv_helm_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239460,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Breeches",
+      "Calzones de explorador reshii",
+      "Calções do Batedor de Reshii",
+      "Reshii Scout's Breeches",
+      "Calzones de explorador reshii",
+      "Braies de reconnaissance reshii",
+      "Брюки разведчика реши",
+      "Bundhosen des Reshiispähers",
+      "Calções do Batedor de Reshii",
+      "Brachette dell'Esploratore Reshii",
+      "레시 정찰병의 짧은바지",
+      "瑞西斥候馬褲",
+      "雷什斥候的马裤"
+    ],
+    "Media": "inv_pants_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239461,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Shoulderpads",
+      "Hombreras de explorador reshii",
+      "Ombreiras do Batedor de Reshii",
+      "Reshii Scout's Shoulderpads",
+      "Hombreras de explorador reshii",
+      "Protège-épaules de reconnaissance reshii",
+      "Наплечники разведчика реши",
+      "Schulterpolster des Reshiispähers",
+      "Ombreiras do Batedor de Reshii",
+      "Spalletti dell'Esploratore Reshii",
+      "레시 정찰병의 어깨덧대",
+      "瑞西斥候肩墊",
+      "雷什斥候的护肩"
+    ],
+    "Media": "inv_shoulder_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239462,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Belt",
+      "Cinturón de explorador reshii",
+      "Cinto do Batedor de Reshii",
+      "Reshii Scout's Belt",
+      "Cinturón de explorador reshii",
+      "Ceinture de reconnaissance reshii",
+      "Пояс разведчика реши",
+      "Gürtel des Reshiispähers",
+      "Cinto do Batedor de Reshii",
+      "Cintura dell'Esploratore Reshii",
+      "레시 정찰병의 허리띠",
+      "瑞西斥候腰帶",
+      "雷什斥候的腰带"
+    ],
+    "Media": "inv_belt_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239463,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Scout's Bracers",
+      "Brazales de explorador reshii",
+      "Braçadeiras do Batedor de Reshii",
+      "Reshii Scout's Bracers",
+      "Brazales de explorador reshii",
+      "Brassards de reconnaissance reshii",
+      "Наручи разведчика реши",
+      "Armschienen des Reshiispähers",
+      "Braçadeiras do Batedor de Reshii",
+      "Bracciali dell'Esploratore Reshii",
+      "레시 정찰병의 팔보호구",
+      "瑞西斥候護腕",
+      "雷什斥候的护腕"
+    ],
+    "Media": "inv_bracer_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239464,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Brigandine",
+      "Brigandina de hostigador reshii",
+      "Brigandina do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Brigandine",
+      "Brigantina de hostigador reshii",
+      "Brigandine d’escarmouche reshii",
+      "Панцирь застрельщика реши",
+      "Brigantine des Reshiischarmützlers",
+      "Brigandina do Escaramuçador de Reshii",
+      "Brigantina dello Schermagliatore Reshii",
+      "레시 척후병의 사슬리벳 갑옷",
+      "瑞西爭鬥者步兵甲",
+      "雷什散兵的轻铠"
+    ],
+    "Media": "inv_chest_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239465,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Boots",
+      "Botas de hostigador reshii",
+      "Botas do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Boots",
+      "Botas de hostigador reshii",
+      "Bottes d’escarmouche reshii",
+      "Сапоги застрельщика реши",
+      "Stiefel des Reshiischarmützlers",
+      "Botas do Escaramuçador de Reshii",
+      "Stivali dello Schermagliatore Reshii",
+      "레시 척후병의 장화",
+      "瑞西爭鬥者長靴",
+      "雷什散兵的长靴"
+    ],
+    "Media": "inv_boot_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239466,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Gauntlets",
+      "Guanteletes de hostigador reshii",
+      "Manoplas do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Gauntlets",
+      "Guanteletes de hostigador reshii",
+      "Gantelets d’escarmouche reshii",
+      "Рукавицы застрельщика реши",
+      "Stulpen des Reshiischarmützlers",
+      "Manoplas do Escaramuçador de Reshii",
+      "Guanti Lunghi dello Schermagliatore Reshii",
+      "레시 척후병의 건틀릿",
+      "瑞西爭鬥者護手",
+      "雷什散兵的手铠"
+    ],
+    "Media": "inv_glove_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239467,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Cowl",
+      "Capucha de hostigador reshii",
+      "Capucho do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Cowl",
+      "Capucha de hostigador reshii",
+      "Capuche d’escarmouche reshii",
+      "Клобук застрельщика реши",
+      "Gugel des Reshiischarmützlers",
+      "Capucho do Escaramuçador de Reshii",
+      "Copricapo dello Schermagliatore Reshii",
+      "레시 척후병의 수도두건",
+      "瑞西爭鬥者風帽",
+      "雷什散兵的风帽"
+    ],
+    "Media": "inv_helm_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239468,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Legguards",
+      "Musleras de hostigador reshii",
+      "Guarda-pernas do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Legguards",
+      "Musleras de hostigador reshii",
+      "Garde-jambes d’escarmouche reshii",
+      "Набедренники застрельщика реши",
+      "Beinschützer des Reshiischarmützlers",
+      "Guarda-pernas do Escaramuçador de Reshii",
+      "Gambali Foderati dello Schermagliatore Reshii",
+      "레시 척후병의 다리보호대",
+      "瑞西爭鬥者腿甲",
+      "雷什散兵的腿甲"
+    ],
+    "Media": "inv_pant_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239469,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Pauldrons",
+      "Espaldares de hostigador reshii",
+      "Brafoneiras do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Pauldrons",
+      "Espaldares de hostigador reshii",
+      "Espauliers d’escarmouche reshii",
+      "Наплечье застрельщика реши",
+      "Schulterstücke des Reshiischarmützlers",
+      "Brafoneiras do Escaramuçador de Reshii",
+      "Paraspalle dello Schermagliatore Reshii",
+      "레시 척후병의 견갑",
+      "瑞西爭鬥者肩鎧",
+      "雷什散兵的肩甲"
+    ],
+    "Media": "inv_shoulder_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239470,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Sash",
+      "Fajín de hostigador reshii",
+      "Faixa do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Sash",
+      "Fajín de hostigador reshii",
+      "Écharpe d’escarmouche reshii",
+      "Кушак застрельщика реши",
+      "Schärpe des Reshiischarmützlers",
+      "Faixa do Escaramuçador de Reshii",
+      "Fascia dello Schermagliatore Reshii",
+      "레시 척후병의 장식띠",
+      "瑞西爭鬥者束帶",
+      "雷什散兵的束带"
+    ],
+    "Media": "inv_belt_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239471,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Skirmisher's Armguards",
+      "Guardabrazos de hostigador reshii",
+      "Guarda-braços do Escaramuçador de Reshii",
+      "Reshii Skirmisher's Armguards",
+      "Guardabrazos de hostigador reshii",
+      "Garde-bras d’escarmouche reshii",
+      "Боевые наручи застрельщика реши",
+      "Armschützer des Reshiischarmützlers",
+      "Guarda-braços do Escaramuçador de Reshii",
+      "Bracciali Foderati dello Schermagliatore Reshii",
+      "레시 척후병의 손목보호대",
+      "瑞西爭鬥者臂甲",
+      "雷什散兵的臂甲"
+    ],
+    "Media": "inv_bracer_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239472,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Breastplate",
+      "Coraza de bruto reshii",
+      "Peitoral do Brutamontes de Reshii",
+      "Reshii Brute's Breastplate",
+      "Coraza de bruto reshii",
+      "Cuirasse de brute reshii",
+      "Кираса громилы реши",
+      "Brustplatte des Reshiischlägers",
+      "Peitoral do Brutamontes de Reshii",
+      "Pettorale Corazzato del Bruto Reshii",
+      "레시 투사의 가슴보호갑",
+      "瑞西蠻兵胸甲",
+      "雷什蛮兵的胸铠"
+    ],
+    "Media": "inv_chest_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239473,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Sollerets",
+      "Zapatos herrados de bruto reshii",
+      "Escarpes do Brutamontes de Reshii",
+      "Reshii Brute's Sollerets",
+      "Zapatos herrados de bruto reshii",
+      "Solerets de brute reshii",
+      "Солереты громилы реши",
+      "Fußharnisch des Reshiischlägers",
+      "Escarpes do Brutamontes de Reshii",
+      "Stivalacci del Bruto Reshii",
+      "레시 투사의 쇠구두",
+      "瑞西蠻兵鋼靴",
+      "雷什蛮兵的钢靴"
+    ],
+    "Media": "inv_boot_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239474,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Handguards",
+      "Manoplas de bruto reshii",
+      "Protetores de Mão do Brutamontes de Reshii",
+      "Reshii Brute's Handguards",
+      "Manoplas de bruto reshii",
+      "Garde-mains de brute reshii",
+      "Боевые рукавицы громилы реши",
+      "Handschützer des Reshiischlägers",
+      "Protetores de Mão do Brutamontes de Reshii",
+      "Guardamani Foderati del Bruto Reshii",
+      "레시 투사의 손보호대",
+      "瑞西蠻兵手甲",
+      "雷什蛮兵的手甲"
+    ],
+    "Media": "inv_glove_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239475,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Helmet",
+      "Yelmo de bruto reshii",
+      "Capacete do Brutamontes de Reshii",
+      "Reshii Brute's Helmet",
+      "Casco de bruto reshii",
+      "Casque de brute reshii",
+      "Шлем громилы реши",
+      "Helm des Reshiischlägers",
+      "Capacete do Brutamontes de Reshii",
+      "Elmetto del Bruto Reshii",
+      "레시 투사의 보호모",
+      "瑞西蠻兵盔帽",
+      "雷什蛮兵的头盔"
+    ],
+    "Media": "inv_helm_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239476,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Greaves",
+      "Grebas de bruto reshii",
+      "Grevas do Brutamontes de Reshii",
+      "Reshii Brute's Greaves",
+      "Grebas de bruto reshii",
+      "Grèves de brute reshii",
+      "Наголенники громилы реши",
+      "Beinschützer des Reshiischlägers",
+      "Grevas do Brutamontes de Reshii",
+      "Gambiere Rinforzate del Bruto Reshii",
+      "레시 투사의 경갑",
+      "瑞西蠻兵護脛",
+      "雷什蛮兵的护胫"
+    ],
+    "Media": "inv_pant_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239477,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Epaulettes",
+      "Charreteras de bruto reshii",
+      "Paletas do Brutamontes de Reshii",
+      "Reshii Brute's Epaulettes",
+      "Charreteras de bruto reshii",
+      "Épaulettes de brute reshii",
+      "Эполеты громилы реши",
+      "Schulterklappen des Reshiischlägers",
+      "Paletas do Brutamontes de Reshii",
+      "Spalline del Bruto Reshii",
+      "레시 투사의 견장",
+      "瑞西蠻兵肩冑",
+      "雷什蛮兵的肩章"
+    ],
+    "Media": "inv_shoulder_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239478,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Greatbelt",
+      "Gran cinturón de bruto reshii",
+      "Correão do Brutamontes de Reshii",
+      "Reshii Brute's Greatbelt",
+      "Gran cinturón de bruto reshii",
+      "Grande ceinture de brute reshii",
+      "Большой пояс громилы реши",
+      "Großgürtel des Reshiischlägers",
+      "Correão do Brutamontes de Reshii",
+      "Grancintura del Bruto Reshii",
+      "레시 투사의 철갑허리띠",
+      "瑞西蠻兵巨腰帶",
+      "雷什蛮兵的重型腰带"
+    ],
+    "Media": "inv_belt_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239479,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reshii Brute's Vambraces",
+      "Avambrazos de bruto reshii",
+      "Avambraços do Brutamontes de Reshii",
+      "Reshii Brute's Vambraces",
+      "Avambrazos de bruto reshii",
+      "Protège-bras de brute reshii",
+      "Тяжелые наручи громилы реши",
+      "Unterarmschienen des Reshiischlägers",
+      "Avambraços do Brutamontes de Reshii",
+      "Avambracci del Bruto Reshii",
+      "레시 투사의 완갑",
+      "瑞西蠻兵護臂",
+      "雷什蛮兵的臂甲"
+    ],
+    "Media": "inv_bracer_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 239484,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Smuggler's Mark",
+      "Marca de contrabandista",
+      "Marca do Contrabandista",
+      "Smuggler's Mark",
+      "Marca de contrabandista",
+      "Marque de contrebandier",
+      "Метка контрабандиста",
+      "Zeichen des Schmugglers",
+      "Marca do Contrabandista",
+      "Marchio del Contrabbandiere",
+      "밀수업자의 표식",
+      "走私者的印記",
+      "走私者的印记"
+    ],
+    "Media": "inv_misc_notefolded1c.jpg"
+  },
+  {
+    "TagId": 239485,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pattern: Pure Energizing Fiber",
+      "Patrón: Fibra energizante pura",
+      "Molde: Fibra Energizante Pura",
+      "Pattern: Pure Energizing Fiber",
+      "Patrón: fibra energizante pura",
+      "Patron\u00A0: fibre énergisante pure",
+      "Выкройка: чистое заряжающее волокно",
+      "Muster: Reine Energiefaser",
+      "Molde: Fibra Energizante Pura",
+      "Modello: Fibra Energizzante Pura",
+      "도안: 순수한 원기 섬유",
+      "圖樣：純粹賦能纖維",
+      "图样：纯粹赋能纤维"
+    ],
+    "Media": "inv_10_inscription2_scroll2_color2.jpg"
+  },
+  {
+    "TagId": 239486,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pattern: Pure Chronomantic Fiber",
+      "Patrón: Fibra cronomántica pura",
+      "Molde: Fibra Cronomântica Pura",
+      "Pattern: Pure Chronomantic Fiber",
+      "Patrón: fibra cronomántica pura",
+      "Patron\u00A0: fibre chronomatique pure",
+      "Выкройка: чистое хрономантическое волокно",
+      "Muster: Reine chronomantische Faser",
+      "Molde: Fibra Cronomântica Pura",
+      "Modello: Fibra Cronomantica Pura",
+      "도안: 순수한 시간 섬유",
+      "圖樣：純粹時光纖維",
+      "图样：纯粹时空纤维"
+    ],
+    "Media": "inv_10_inscription2_scroll2_color2.jpg"
+  },
+  {
+    "TagId": 239487,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pattern: Pure Dexterous Fiber",
+      "Patrón: Fibra diestra pura",
+      "Molde: Fibra Ágil Pura",
+      "Pattern: Pure Dexterous Fiber",
+      "Patrón: fibra de destreza pura",
+      "Patron\u00A0: fibre adroite pure",
+      "Выкройка: чистое волокно сноровки",
+      "Muster: Reine Geschicklichkeitsfaser",
+      "Molde: Fibra Ágil Pura",
+      "Modello: Fibra Agile Pura",
+      "도안: 순수한 기민 섬유",
+      "圖樣：純粹靈巧纖維",
+      "图样：纯粹敏锐纤维"
+    ],
+    "Media": "inv_10_inscription2_scroll2_color2.jpg"
+  },
+  {
+    "TagId": 239488,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pattern: Pure Precise Fiber",
+      "Patrón: Fibra precisa pura",
+      "Molde: Fibra Precisa Pura",
+      "Pattern: Pure Precise Fiber",
+      "Patrón: fibra precisa pura",
+      "Patron\u00A0: fibre précise pure",
+      "Выкройка: чистое волокно точности",
+      "Muster: Reine Präzisionsfaser",
+      "Molde: Fibra Precisa Pura",
+      "Modello: Fibra Precisa Pura",
+      "도안: 순수한 정밀 섬유",
+      "圖樣：純粹精準纖維",
+      "图样：纯粹精准纤维"
+    ],
+    "Media": "inv_10_inscription2_scroll2_color2.jpg"
+  },
+  {
     "TagId": 239489,
     "TagType": 21,
     "Names": [
@@ -2119,6 +3169,90 @@
       "光耀军官的宝箱"
     ],
     "Media": "inv_legion_cache_armyofthelight.jpg"
+  },
+  {
+    "TagId": 239495,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Missing Voidband",
+      "Banda del Vacío perdida",
+      "Aro Caótico Perdido",
+      "Missing Voidband",
+      "Aro del Vacío desaparecido",
+      "Bague du Vide manquante",
+      "Потерянное кольцо Бездны",
+      "Vermisstes Leerenband",
+      "Aro Caótico Perdido",
+      "Vera del Vuoto Perduta",
+      "사라진 공허띠",
+      "消失的虛無指環",
+      "遗失的虚空之戒"
+    ],
+    "Media": "inv_jewelry_ring_144.jpg"
+  },
+  {
+    "TagId": 239497,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hidden Tokens",
+      "Fichas ocultas",
+      "Fichas Oculto",
+      "Hidden Tokens",
+      "Fichas ocultas",
+      "Jetons cachés",
+      "Спрятанные жетоны",
+      "Verborgene Abzeichen",
+      "Fichas Oculto",
+      "Gettoni Nascosti",
+      "숨겨진 징표",
+      "隱藏代幣",
+      "隐藏的代币"
+    ],
+    "Media": "inv_misc_coinbag_special.jpg"
+  },
+  {
+    "TagId": 239500,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stolen Apparel",
+      "Ropa robada",
+      "Traje de Estola",
+      "Stolen Apparel",
+      "Vestimenta robada",
+      "Tenue volée",
+      "Украденная одежда",
+      "Gestohlene Kleidung",
+      "Traje de Estola",
+      "Abbigliamento Rubato",
+      "도둑맞은 의류",
+      "遭竊的服飾",
+      "失窃的服饰"
+    ],
+    "Media": "inv_cloth_broker_c_01_chest.jpg"
+  },
+  {
+    "TagId": 239501,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Shadowed Scrolls",
+      "Pergaminos ensombrecidos",
+      "Pergaminhos Obscuros",
+      "Shadowed Scrolls",
+      "Pergaminos ensombrecidos",
+      "Parchemin ombreux",
+      "Затененные свитки",
+      "Beschattete Schriftrollen",
+      "Pergaminhos Obscuros",
+      "Pergamene Adombrate",
+      "어둠에 물든 두루마리",
+      "暗影卷軸",
+      "蔽影卷轴"
+    ],
+    "Media": "inv_misc_scrollrolled03b.jpg"
   },
   {
     "TagId": 239502,
@@ -2247,6 +3381,27 @@
     "Media": "inv_shoulder_armor_cartelbomber_d_01.jpg"
   },
   {
+    "TagId": 239510,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Misplaced Shipment",
+      "Envío extraviado",
+      "Remessa Extraviada",
+      "Misplaced Shipment",
+      "Envío extraviado",
+      "Cargaison égarée",
+      "Потерянный груз",
+      "Versetzte Lieferung",
+      "Remessa Extraviada",
+      "Carico Smarrito",
+      "변위된 화물",
+      "錯置的貨物",
+      "遗失的货物"
+    ],
+    "Media": "inv_misc_paperpackage01a.jpg"
+  },
+  {
     "TagId": 239546,
     "TagType": 21,
     "Names": [
@@ -2289,6 +3444,300 @@
     "Media": "spell_shadow_shadowmend.jpg"
   },
   {
+    "TagId": 239564,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arcane Runed Sigil",
+      "Sigilo rúnico arcano",
+      "Signo Arcano com Runas",
+      "Arcane Runed Sigil",
+      "Sigilo con runas Arcanas",
+      "Sceau runique des arcanes",
+      "Чародейская руническая печать",
+      "Arkanes Runensiegel",
+      "Signo Arcano com Runas",
+      "Sigillo Runico Arcano",
+      "비전 룬새김 인장",
+      "秘法符文符印",
+      "奥术符文魔印"
+    ],
+    "Media": "spell_arcane_rune.jpg"
+  },
+  {
+    "TagId": 239566,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arcane Runed Signet",
+      "Sello rúnico arcano",
+      "Sinete Arcano com Runas",
+      "Arcane Runed Signet",
+      "Sello con runas Arcanas",
+      "Chevalière runique des arcanes",
+      "Чародейский рунический перстень",
+      "Arkanes Runensignet",
+      "Sinete Arcano com Runas",
+      "Anello con Sigillo Runico Arcano",
+      "비전 룬새김 인장",
+      "秘法符文璽戒",
+      "奥术符文徽记"
+    ],
+    "Media": "inv_misc_rune_15.jpg"
+  },
+  {
+    "TagId": 239567,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tailwind Conduit",
+      "Conducto de viento de cola",
+      "Conduíte do Vento em Popa",
+      "Tailwind Conduit",
+      "Conducto de viento de cola",
+      "Conduit à vent arrière",
+      "Проводник попутного ветра",
+      "Rückenwindleiter",
+      "Conduíte do Vento em Popa",
+      "Condotto del Vento a Favore",
+      "순풍 도관",
+      "順風導體",
+      "顺风导体"
+    ],
+    "Media": "inv_112_raidtrinkets_curiodelves_tailwindgenerator_purple.jpg"
+  },
+  {
+    "TagId": 239568,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Audio Amplification Crystal",
+      "Cristal de audioamplificación",
+      "Cristal Amplificador de Áudio",
+      "Audio Amplification Crystal",
+      "Cristal de amplificación de sonido",
+      "Cristal d’amplification audio",
+      "Звукоусиливающий кристалл",
+      "Audioverstärkungskristall",
+      "Cristal Amplificador de Áudio",
+      "Cristallo d'Amplificazione Audio",
+      "음성 증폭 수정",
+      "音訊強化水晶",
+      "音频增幅水晶"
+    ],
+    "Media": "inv_112_raidtrinkets_curiodelves_etherealsoundwaveemitter.jpg"
+  },
+  {
+    "TagId": 239569,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Battered Aegis",
+      "Égida maltrecha",
+      "Égide Desgastada",
+      "Battered Aegis",
+      "Égida maltrecha",
+      "Égide endommagée",
+      "Побитая эгида",
+      "Ramponierte Aegis",
+      "Égide Desgastada",
+      "Egida Rovinata",
+      "닳아해진 아이기스",
+      "破損的禦盾",
+      "破损的徽盾"
+    ],
+    "Media": "trade_archaeology_dentedshield.jpg"
+  },
+  {
+    "TagId": 239570,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Temporal Decelerator Crystal",
+      "Cristal desacelerador temporal",
+      "Cristal de Desaceleração Temporal",
+      "Temporal Decelerator Crystal",
+      "Cristal desacelerador temporal",
+      "Cristal de décélération temporelle",
+      "Кристалл временного замедления",
+      "Temporalentschleunigungskristall",
+      "Cristal de Desaceleração Temporal",
+      "Cristallo di Decelerazione Temporale",
+      "시간 감속 수정",
+      "時間減速水晶",
+      "时间缓速水晶"
+    ],
+    "Media": "inv_10_all_memorycrystal_color1.jpg"
+  },
+  {
+    "TagId": 239571,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sands of K'aresh",
+      "Arenas de K'aresh",
+      "Areias de K'aresh",
+      "Sands of K'aresh",
+      "Arenas de K'aresh",
+      "Sables de K’aresh",
+      "Пески К'ареша",
+      "Sande von K'aresh",
+      "Areias de K'aresh",
+      "Sabbie di K'aresh",
+      "크아레쉬의 모래",
+      "凱瑞西之沙",
+      "卡雷什之沙"
+    ],
+    "Media": "inv_10_jewelcrafting_blottedsand_color3.jpg"
+  },
+  {
+    "TagId": 239573,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ethereal Energy Converter",
+      "Conversor de energía etérea",
+      "Conversor de Energia Etérea",
+      "Ethereal Energy Converter",
+      "Conversor de energía de los etéreos",
+      "Convertisseur d’énergie éthérien",
+      "Энергетический конвертер эфириалов",
+      "Astraler Energieumwandler",
+      "Conversor de Energia Etérea",
+      "Convertitore d'Energia Eterea",
+      "에테리얼 마력 변환기",
+      "以太能量轉換器",
+      "虚灵能量转化器"
+    ],
+    "Media": "inv_112_raidtrinkets_curiodelves_etherealconverter.jpg"
+  },
+  {
+    "TagId": 239576,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mana-Tinted Glasses",
+      "Gafas teñidas de maná",
+      "Óculos Tintos de Mana",
+      "Mana-Tinted Glasses",
+      "Gafas tintadas de maná",
+      "Lunettes teintées au mana",
+      "Очки с напылением маны",
+      "Managetönte Brille",
+      "Óculos Tintos de Mana",
+      "Occhiali Tinti di Mana",
+      "마나 색조 안경",
+      "微量法力眼鏡",
+      "法力色泽的眼镜"
+    ],
+    "Media": "inv_helm_glasses_b_01_black_teal.jpg"
+  },
+  {
+    "TagId": 239578,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Quizzical Device",
+      "Dispositivo curioso",
+      "Dispositivo Zombeteiro",
+      "Quizzical Device",
+      "Dispositivo desconcertante",
+      "Appareil énigmatique",
+      "Загадочное устройство",
+      "Sonderbares Gerät",
+      "Dispositivo Zombeteiro",
+      "Dispositivo Interrogativo",
+      "기발한 장치",
+      "搞怪裝置",
+      "莫名其妙的装置"
+    ],
+    "Media": "inv_egg_05.jpg"
+  },
+  {
+    "TagId": 239579,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hatarang",
+      "Sombrerang",
+      "Chapéu-bumerangue",
+      "Hatarang",
+      "Sombrebumerán",
+      "Bout-de-rang",
+      "Шляпоранг",
+      "Hatarang",
+      "Chapéu-bumerangue",
+      "Cappello-boomerang",
+      "모자 부메랑",
+      "哈塔朗",
+      "回力帽子"
+    ],
+    "Media": "inv_helm_armor_luckyhat_c_01_brown.jpg"
+  },
+  {
+    "TagId": 239580,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Nether Overlay Matrix",
+      "Matriz de superposición abisal",
+      "Matriz de Sobreposição Etérea",
+      "Nether Overlay Matrix",
+      "Matriz de cobertura abisal",
+      "Matrice de superposition néantine",
+      "Перекрывающая матрица Пустоты",
+      "Nether-Overlay-Matrix",
+      "Matriz de Sobreposição Etérea",
+      "Matrice di Sovrapposizione Fatua",
+      "황천 전도 매트릭스",
+      "虛空重疊矩陣",
+      "虚空嵌套矩阵"
+    ],
+    "Media": "inv_112_raidtrinkets_netheroverlaymatrix.jpg"
+  },
+  {
+    "TagId": 239594,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Valorstone",
+      "Piedra de valor carmesí",
+      "Pedra da Bravura Carmesim",
+      "Crimson Valorstone",
+      "Piedra de valor carmesí",
+      "Pierre de vaillance cramoisie",
+      "Багровый камень доблести",
+      "Blutroter Tapferkeitsstein",
+      "Pedra da Bravura Carmesim",
+      "Pietra del Valore Cremisi",
+      "진홍빛 용맹석",
+      "赤紅勇氣石",
+      "猩红神勇石"
+    ],
+    "Media": "inv_valorstone_red.jpg"
+  },
+  {
+    "TagId": 239607,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Charged Crystal",
+      "Cristal cargado",
+      "Cristal Carregado",
+      "Charged Crystal",
+      "Cristal cargado",
+      "Cristal chargé",
+      "Заряженный кристалл",
+      "Aufgeladener Kristall",
+      "Cristal Carregado",
+      "Cristallo Caricato",
+      "충전된 수정",
+      "充能水晶",
+      "充能的水晶"
+    ],
+    "Media": "inv_misc_gem_sapphire_02.jpg"
+  },
+  {
     "TagId": 239628,
     "TagType": 21,
     "Names": [
@@ -2329,6 +3778,69 @@
       "狗头人孤儿哨"
     ],
     "Media": "ability_hunter_beastcall.jpg"
+  },
+  {
+    "TagId": 239690,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Phantom Bloom",
+      "Flor fantasma",
+      "Flor-fantasma",
+      "Phantom Bloom",
+      "Flor fantasmal",
+      "Fleur fantôme",
+      "Фантомник",
+      "Phantomblüte",
+      "Flor-fantasma",
+      "Bocciolo Fantasma",
+      "환영꽃",
+      "魅影花",
+      "幻影蕾"
+    ],
+    "Media": "inv_herb_karesh.jpg"
+  },
+  {
+    "TagId": 239691,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Phantom Bloom",
+      "Flor fantasma",
+      "Flor-fantasma",
+      "Phantom Bloom",
+      "Flor fantasmal",
+      "Fleur fantôme",
+      "Фантомник",
+      "Phantomblüte",
+      "Flor-fantasma",
+      "Bocciolo Fantasma",
+      "환영꽃",
+      "魅影花",
+      "幻影蕾"
+    ],
+    "Media": "inv_herb_karesh.jpg"
+  },
+  {
+    "TagId": 239692,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Phantom Bloom",
+      "Flor fantasma",
+      "Flor-fantasma",
+      "Phantom Bloom",
+      "Flor fantasmal",
+      "Fleur fantôme",
+      "Фантомник",
+      "Phantomblüte",
+      "Flor-fantasma",
+      "Bocciolo Fantasma",
+      "환영꽃",
+      "魅影花",
+      "幻影蕾"
+    ],
+    "Media": "inv_herb_karesh.jpg"
   },
   {
     "TagId": 239693,

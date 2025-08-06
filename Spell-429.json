@@ -886,21 +886,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Aquatic Hex",
-      "Maleficio acuático",
-      "Bagata Aquática",
-      "Aquatic Hex",
-      "Maleficio acuático",
-      "Maléfice aquatique",
-      "Водяной сглаз",
-      "Wasserverhexung",
-      "Bagata Aquática",
-      "Maleficio Acquatico",
-      "물의 사술",
-      "水生妖術",
-      "深海妖术"
+      "Low Tide",
+      "Marea baja",
+      "Maré Baixa",
+      "Low Tide",
+      "Marea baja",
+      "Marée basse",
+      "Отлив",
+      "Ebbe",
+      "Maré Baixa",
+      "Bassa Marea",
+      "썰물",
+      "低潮",
+      "退潮"
     ],
-    "Media": "inv_misc_fish_70.jpg"
+    "Media": "inv_fishing_82_viperfish.jpg"
   },
   {
     "TagId": 429046,
@@ -3063,6 +3063,27 @@
       "繁花盛绽"
     ],
     "Media": "inv_misc_trailofflowers.jpg"
+  },
+  {
+    "TagId": 429179,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Create Spark of Dreams",
+      "Crear chispa de sueños",
+      "Criar Centelha dos Sonhos",
+      "Create Spark of Dreams",
+      "Crear chispa de sueños",
+      "Créer une étincelle des rêves",
+      "Создание искры снов",
+      "Funken der Träume erzeugen",
+      "Criar Centelha dos Sonhos",
+      "Creazione Scintilla dei Sogni",
+      "꿈의 불꽃 만들기",
+      "製造夢境火花",
+      "制造梦境火花"
+    ],
+    "Media": "inv_legion_faction_dreamweavers.jpg"
   },
   {
     "TagId": 429180,

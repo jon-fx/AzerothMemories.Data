@@ -8804,19 +8804,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title",
-      "%s the [PH] TBD Title"
+      "%s the Unbound",
+      "%s, el Desligado",
+      "%s, o Desatado",
+      "%s the Unbound",
+      "%s el Desvinculado",
+      "%s, le délié",
+      "%s Неприкаянный",
+      "%s, der Ungebundene",
+      "%s, o Desatado",
+      "%s lo Svincolato",
+      "풀어헤쳐진 %s",
+      "無縛者%s",
+      "无拘者 %s"
     ]
   },
   {
@@ -11684,19 +11684,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "Delver %s",
-      "Surcabismos %s",
-      "Imersor %s",
-      "Delver %s",
-      "%s, Explorador de Profundidades",
-      "Gouffrologue %s",
-      "Исследователь вылазок %s",
-      "Tiefenforscher %s",
-      "Imersor %s",
-      "Scorribandiere %s",
-      "구렁 탐험가 %s",
-      "探究者%s",
-      "地下堡行者 %s"
+      "Flickering %s",
+      "Titilante %s",
+      "%s, o Tremeluzente",
+      "Flickering %s",
+      "%s el Parpadeante",
+      "%s, lueur vacillante",
+      "Мерцающий %s",
+      "%s der Flackernde",
+      "%s, o Tremeluzente",
+      "%s il Lampeggiante",
+      "명멸하는 %s",
+      "閃爍%s",
+      "烁光的 %s"
     ]
   },
   {
@@ -11997,6 +11997,46 @@
       "고물의 거장 %s",
       "垃圾大師%s",
       "渣客大师 %s"
+    ]
+  },
+  {
+    "TagId": 890,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Famed Slayer of Dimensius",
+      "%s, asesino de Dimensius renombrado",
+      "%s, Renomado Matador de Dimensius",
+      "%s, Famed Slayer of Dimensius",
+      "%s, Afamado Asesino de Dimensius",
+      "%s, célèbre tueur de Dimensius",
+      "%s, прославленный победитель Пространствуса",
+      "%s, ruhmreicher Bezwinger von Dimensius",
+      "%s, Renomado Matador de Dimensius",
+      "%s, Giustiziere di Dimensius",
+      "명예로운 디멘시우스 학살자 %s",
+      "迪曼修斯剋星%s",
+      "%s, 闻名遐迩的迪门修斯杀手"
+    ]
+  },
+  {
+    "TagId": 891,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Void Vanquisher %s",
+      "Vencedor del Vacío %s",
+      "Subjugador do Caos %s",
+      "Void Vanquisher %s",
+      "Vencedor del Vacío %s",
+      "Vainqueur du Vide %s",
+      "Покоритель Бездны %s",
+      "Leerenbezwinger %s",
+      "Subjugador do Caos %s",
+      "Dominatore del Vuoto %s",
+      "공허 제압자 %s",
+      "虛無鎮壓者%s",
+      "虚空征服者 %s"
     ]
   },
   {
@@ -12311,12 +12351,92 @@
       "%s el Loco",
       "%s le Fou",
       "%s Безумный",
-      "%s der Wahnsinnige",
+      "%s der Verrückte",
       "%s, o Louco",
       "%s il Folle",
       "광인 %s",
       "狂人%s",
       "狂人 %s"
+    ]
+  },
+  {
+    "TagId": 909,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Astral Warlord %s",
+      "Señor de la guerra astral %s",
+      "Senhor da Guerra Astral %s",
+      "Astral Warlord %s",
+      "Señor de la Guerra Astral %s",
+      "Seigneur de guerre astral %s",
+      "Астральный полководец %s",
+      "Astraler Kriegsfürst %s",
+      "Senhor da Guerra Astral %s",
+      "Signore della Guerra Astrale %s",
+      "은하를 누비는 대장군 %s",
+      "星界督軍%s",
+      "星界督军 %s"
+    ]
+  },
+  {
+    "TagId": 910,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Astral Gladiator %s",
+      "Gladiador astral %s",
+      "Gladiador Astral %s",
+      "Astral Gladiator %s",
+      "Gladiador Astral %s",
+      "Gladiateur astral %s",
+      "Астральный гладиатор %s",
+      "Astraler Gladiator %s",
+      "Gladiador Astral %s",
+      "Gladiatore Astrale %s",
+      "은하를 누비는 검투사 %s",
+      "星界鬥士%s",
+      "星界角斗士 %s"
+    ]
+  },
+  {
+    "TagId": 911,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Astral Legend %s",
+      "Leyenda astral %s",
+      "Lenda Astral %s",
+      "Astral Legend %s",
+      "Leyenda Astral %s",
+      "Légende astrale %s",
+      "Астральная легенда %s",
+      "Astrale Legende %s",
+      "Lenda Astral %s",
+      "Leggenda Astrale %s",
+      "은하를 누비는 전설 %s",
+      "星界傳奇%s",
+      "星界传奇 %s"
+    ]
+  },
+  {
+    "TagId": 912,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Astral Marshal %s",
+      "Mariscal astral %s",
+      "Marechal Astral %s",
+      "Astral Marshal %s",
+      "Mariscal Astral %s",
+      "Maréchal astral %s",
+      "Астральный маршал %s",
+      "Astraler Marschall %s",
+      "Marechal Astral %s",
+      "Maresciallo Astrale %s",
+      "은하를 누비는 사령관 %s",
+      "星界元帥%s",
+      "星界元帅 %s"
     ]
   },
   {
@@ -12337,6 +12457,206 @@
       "삼중 위협 %s",
       "『三重威脅』%s",
       "三重威胁 %s"
+    ]
+  },
+  {
+    "TagId": 914,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Unbound Hero",
+      "%s, el Héroe desligado",
+      "%s, o Herói Desatado",
+      "%s the Unbound Hero",
+      "%s el Héroe Desvinculado",
+      "%s, le héros délié",
+      "Неприкаянный герой %s",
+      "%s, der ungebundene Held",
+      "%s, o Herói Desatado",
+      "%s, l'Eroe Svincolato",
+      "풀어헤쳐진 영웅 %s",
+      "無縛英雄%s",
+      "无拘英雄 %s"
+    ]
+  },
+  {
+    "TagId": 915,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Delver Within",
+      "%s, el Surcabismos interior",
+      "%s, o Imersor Interior",
+      "%s the Delver Within",
+      "%s, Explorador de Profundidades Interiores",
+      "%s l’Archéologue intérieur",
+      "Исследователь глубин %s",
+      "%s der Tieferforscher im Inneren",
+      "%s, o Imersor Interior",
+      "%s lo Scorribandiere Guerrigliero",
+      "내부 구렁 탐험가 %s",
+      "地心探究者%s",
+      "%s, 地心行者"
+    ]
+  },
+  {
+    "TagId": 916,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Contract Killer %s",
+      "Asesino a sueldo %s",
+      "Matador de Aluguel %s",
+      "Contract Killer %s",
+      "Asesino a Sueldo %s",
+      "Tueur à gages %s",
+      "Убийца по контракту %s",
+      "Auftragsmörder %s",
+      "Matador de Aluguel %s",
+      "Sicario %s",
+      "청부업자 %s",
+      "契約殺手%s",
+      "合约打手 %s"
+    ]
+  },
+  {
+    "TagId": 917,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Star Savior %s",
+      "Salvador Estelar %s",
+      "Salvador Estelar %s",
+      "Star Savior %s",
+      "Salvador Estelar %s",
+      "Sauveur stellaire %s",
+      "Спаситель звезд %s",
+      "Sternenretter %s",
+      "Salvador Estelar %s",
+      "Salvatore Stellare %s",
+      "별의 구원자 %s",
+      "星辰救世主%s",
+      "寰宇救星 %s"
+    ]
+  },
+  {
+    "TagId": 918,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s Bronzebeard",
+      "%s Barbabronce",
+      "%s Barbabronze",
+      "%s Bronzebeard",
+      "%s Barbabronce",
+      "%s Barbe-de-Bronze",
+      "%s Бронзобород",
+      "%s Bronzebart",
+      "%s Barbabronze",
+      "%s Barbabronzea",
+      "%s 브론즈비어드",
+      "%s銅鬚",
+      "%s·铜须"
+    ]
+  },
+  {
+    "TagId": 924,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s of the Twilight Star",
+      "%s de la Estrella crepuscular",
+      "%s da Estrela Crepuscular",
+      "%s of the Twilight Star",
+      "%s de la Estrella Crepuscular",
+      "%s de l’étoile du crépuscule",
+      "%s с Сумеречной звезды",
+      "%s des Zwielichtsterns",
+      "%s da Estrela Crepuscular",
+      "%s della Stella del Crepuscolo",
+      "황혼의 별에서 온 %s",
+      "暮光之星%s",
+      "暮光之星的%s"
+    ]
+  },
+  {
+    "TagId": 927,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Ba'%s",
+      "Ba'%s",
+      "Ba'%s",
+      "Ba'%s",
+      "Ba'%s",
+      "Ba’%s",
+      "Ба'%s",
+      "Ba'%s",
+      "Ba'%s",
+      "Ba'%s",
+      "바%s",
+      "巴%s",
+      "巴·%s"
+    ]
+  },
+  {
+    "TagId": 928,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Zo'%s",
+      "Zo'%s",
+      "Zo'%s",
+      "Zo'%s",
+      "Zo'%s",
+      "Zo’%s",
+      "Зо'%s",
+      "Zo'%s",
+      "Zo'%s",
+      "Zo'%s",
+      "조%s",
+      "佐%s",
+      "佐·%s"
+    ]
+  },
+  {
+    "TagId": 929,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Om'%s",
+      "Om'%s",
+      "Om'%s",
+      "Om'%s",
+      "Om'%s",
+      "Om’%s",
+      "Ом'%s",
+      "Om'%s",
+      "Om'%s",
+      "Om'%s",
+      "옴%s",
+      "奧姆%s",
+      "欧·%s"
+    ]
+  },
+  {
+    "TagId": 937,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Delver %s",
+      "Surcabismos %s",
+      "Imersor %s",
+      "Delver %s",
+      "%s, Explorador de Profundidades",
+      "Gouffrologue %s",
+      "Исследователь вылазок %s",
+      "Tiefenforscher %s",
+      "Imersor %s",
+      "Scorribandiere %s",
+      "구렁 탐험가 %s",
+      "探究者%s",
+      "地下堡行者 %s"
     ]
   }
 ]

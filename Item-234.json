@@ -63,6 +63,27 @@
     "Media": "inv_babydevilsaur_yellow.jpg"
   },
   {
+    "TagId": 234036,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bruffalon Meat",
+      "Carne de brúfalo",
+      "Carne de Brúfalo",
+      "Bruffalon Meat",
+      "Carne de brúfalo",
+      "Viande de bruffalon",
+      "Мясо зуброна",
+      "Brüffelchfleisch",
+      "Carne de Brúfalo",
+      "Carne di Bruffalo",
+      "브루팔론 고기",
+      "麋牛肉",
+      "驼牛肉"
+    ],
+    "Media": "inv_misc_food_70.jpg"
+  },
+  {
     "TagId": 234037,
     "TagType": 21,
     "Names": [
@@ -3112,19 +3133,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Gorillion Fork",
-      "Tenedor de Gorilión",
-      "Garfo de Gorillion",
-      "Gorillion Fork",
-      "Tenedor de Gorilión",
-      "Fourche de Gorillion",
-      "Вилка от Гориллиона",
-      "Gorillionärgabel",
-      "Garfo de Gorillion",
-      "Forchettone del Gorillione",
-      "고릴리온 포크",
-      "超強無敵叉子",
-      "超新猩叉子"
+      "Mega-Mecha Fork",
+      "Tenedor de megameca",
+      "Garfo de Megameca",
+      "Mega-Mecha Fork",
+      "Tenedor de megamecagorila",
+      "Méga-méca-fourchette",
+      "Мегамеханическая вилка",
+      "Megamechagabel",
+      "Garfo de Megameca",
+      "Forcone Megameccanico",
+      "초합금 메카 포크",
+      "巨大機械叉子",
+      "百万机甲叉子"
     ],
     "Media": "inv_misc_2h_babynagafork_a_01.jpg"
   },
@@ -3133,19 +3154,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Gorillion Grease",
-      "Grasa de Gorilión",
-      "Graxa de Gorillion",
-      "Gorillion Grease",
-      "Grasa de Gorilión",
-      "Graisse de Gorillion",
-      "Смазка для Гориллиона",
-      "Gorillionschmiere",
-      "Graxa de Gorillion",
-      "Grasso del Gorillione",
-      "고릴리온 윤활유",
-      "超強猩猩潤滑油",
-      "超新猩机油"
+      "Mega-Mecha Grease",
+      "Aceite de Megamecagorila",
+      "Graxa de Megameca",
+      "Mega-Mecha Grease",
+      "Grasa de megamecagorila",
+      "Méga-méca-cambouis",
+      "Мегамеханическая смазка",
+      "Megamechaschmiere",
+      "Graxa de Megameca",
+      "Grasso Megameccanico",
+      "초합금 메카 윤활유",
+      "巨大機械潤滑油",
+      "百万机甲机油"
     ],
     "Media": "inv_misc_stoneoil.jpg"
   },
@@ -3154,19 +3175,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Gorillion Batteries",
-      "Baterías de Gorilión",
-      "Baterias do Gorillion",
-      "Gorillion Batteries",
-      "Baterías de Gorilión",
-      "Batteries de Gorillon",
-      "Аккумулятор от Гориллиона",
-      "Gorillionbatterien",
-      "Baterias do Gorillion",
-      "Batterie del Gorillione",
-      "고릴리온 전지",
-      "超強猩猩電池",
-      "超新猩电池"
+      "Mega-Mecha Gorilla Batteries",
+      "Baterías de Megamecagorila",
+      "Baterias do Megameca-gorila",
+      "Mega-Mecha Gorilla Batteries",
+      "Baterías de megamecagorila",
+      "Batteries de méga-méca-gorille",
+      "Аккумулятор от мегамеханической гориллы",
+      "Megamechabatterien",
+      "Baterias do Megameca-gorila",
+      "Batterie del Gorilla Megameccanico",
+      "초합금 메카 고릴라 전지",
+      "巨大機械猩猩電池",
+      "百万机甲猩电池"
     ],
     "Media": "inv_10_engineering_manufacturedparts_reavesbattery_uprez.jpg"
   },
@@ -3175,19 +3196,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Gorillion Engine",
-      "Motor de Gorilión",
-      "Motor do Gorillion",
-      "Gorillion Engine",
-      "Motor de Gorilión",
-      "Moteur de Gorillon",
-      "Двигатель Гориллиона",
-      "Gorillionmotor",
-      "Motor do Gorillion",
-      "Motore del Gorillione",
-      "고릴리온 동력기관",
-      "超強猩猩引擎",
-      "超新猩引擎"
+      "Mega-Mecha Engine",
+      "Motor de megameca",
+      "Motor de Megameca",
+      "Mega-Mecha Engine",
+      "Motor de megamecagorila",
+      "Méga-méca-moteur",
+      "Мегамеханический двигатель",
+      "Megamechamotor",
+      "Motor de Megameca",
+      "Motore Megameccanico",
+      "초합금 메카 동력장치",
+      "巨大機械引擎",
+      "百万机甲引擎"
     ],
     "Media": "inv_engineering_90_ardenwealdgrenade_yellow.jpg"
   },
@@ -3196,19 +3217,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Gorillion Chasis",
-      "Carcasa de Gorilión",
-      "Chassi de Gorillion",
-      "Gorillion Chasis",
-      "Chasis de Gorilión",
-      "Châssis de Gorillion",
-      "Каркас Гориллиона",
-      "Gorillionchassis",
-      "Chassi de Gorillion",
-      "Telaio del Gorillione",
-      "고릴리온 골격",
-      "超強猩猩機體",
-      "超新猩机架"
+      "Mega-Mecha Chasis",
+      "Carcasa de megameca",
+      "Chassi de Megameca",
+      "Mega-Mecha Chasis",
+      "Chasis de megamecagorila",
+      "Méga-méca-châssis",
+      "Мегамеханический каркас",
+      "Megamechachassis",
+      "Chassi de Megameca",
+      "Telaio Megameccanico",
+      "초합금 메카 골격",
+      "巨大機械機體",
+      "百万机甲机架"
     ],
     "Media": "inv_toygorilla_red.jpg"
   },
@@ -3360,6 +3381,27 @@
     "Media": "inv_misc_treasurechest01b.jpg"
   },
   {
+    "TagId": 234452,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chopped Wood",
+      "Madera cortada",
+      "Lenha Cortada",
+      "Chopped Wood",
+      "Madera cortada",
+      "Bois taillé",
+      "Нарубленная древесина",
+      "Gehacktes Holz",
+      "Lenha Cortada",
+      "Legna Tagliata",
+      "베어낸 나무",
+      "切碎的木頭",
+      "砍下的木头"
+    ],
+    "Media": "inv_tradeskillitem_03.jpg"
+  },
+  {
     "TagId": 234453,
     "TagType": 21,
     "Names": [
@@ -3442,6 +3484,27 @@
       "晶簇碎块"
     ],
     "Media": "inv_10_mining_traceore_color3.jpg"
+  },
+  {
+    "TagId": 234457,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Butcher's Knife",
+      "Cuchillo de carnicero",
+      "Faca de Açougueiro",
+      "Butcher's Knife",
+      "Cuchillo de carnicero",
+      "Couteau de boucher",
+      "Нож мясника",
+      "Schlachtermesser",
+      "Faca de Açougueiro",
+      "Coltello da Macellaio",
+      "도살자의 비수",
+      "屠夫小刀",
+      "屠宰刀"
+    ],
+    "Media": "inv_knife_1h_garrison_a_01.jpg"
   },
   {
     "TagId": 234466,
@@ -4431,6 +4494,27 @@
     "Media": "inv_knife_1h_darkmoon_c_01_purple.jpg"
   },
   {
+    "TagId": 234591,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_sword_1h_outdoorethereal_c_01.jpg"
+  },
+  {
     "TagId": 234592,
     "TagType": 21,
     "Names": [
@@ -4647,13 +4731,13 @@
       null,
       "Dulux Bluesberry Blast",
       "Explosión arándana deluxe",
-      "Mirtilo Máximo Luxo",
+      "Mirtilo Máximo de Luxo",
       "Dulux Bluesberry Blast",
       "Bomba de bayazul de lujo",
       "Banana Bam Luxx",
       "Черничный чемпион \"Люкс\"",
       "Blaubeerenexplosion Deluxe",
-      "Mirtilo Máximo Luxo",
+      "Mirtilo Máximo de Luxo",
       "Bomba al Mirtillo Deluxe",
       "환상의 푸른열매 작렬 맛",
       "超級藍莓卡碰",
@@ -7938,6 +8022,27 @@
     "Media": "inv_kilt_mail_panda_b_01green.jpg"
   },
   {
+    "TagId": 234815,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plague Sample",
+      "Muestra de plaga",
+      "Amostra de Peste",
+      "Plague Sample",
+      "Muestra de peste",
+      "Échantillon de peste",
+      "Образец чумы",
+      "Seuchengelee",
+      "Amostra de Peste",
+      "Campione di Piaga",
+      "역병 표본",
+      "瘟疫樣本",
+      "魔药样本"
+    ],
+    "Media": "inv_archaeology_orcclans_jareye.jpg"
+  },
+  {
     "TagId": 234816,
     "TagType": 21,
     "Names": [
@@ -10542,6 +10647,27 @@
     "Media": "inv_cape_legionhonor_d_02.jpg"
   },
   {
+    "TagId": 234944,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rancor Essence",
+      "Esencia de rencor",
+      "Essência Rancorosa",
+      "Rancor Essence",
+      "Esencia de rencor",
+      "Essence de rancœur",
+      "Сущность ненависти",
+      "Grollessenz",
+      "Essência Rancorosa",
+      "Essenza di Rancore",
+      "원한의 정수",
+      "怨恨精華",
+      "仇怨精华"
+    ],
+    "Media": "inv_maldraxxusslime_plague.jpg"
+  },
+  {
     "TagId": 234945,
     "TagType": 21,
     "Names": [
@@ -10589,7 +10715,7 @@
     "Names": [
       null,
       "Ensemble: Drake Hunter's Kit",
-      "Conjunto: Conjunto de cazador de dracos",
+      "Conjunto: Equipo de cazador de dracos",
       "Indumentária: Kit do Caçador de Dracos",
       "Ensemble: Drake Hunter's Kit",
       "Indumentaria: Vestimenta de cazador de dracos",
