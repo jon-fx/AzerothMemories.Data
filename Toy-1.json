@@ -7732,19 +7732,19 @@
     "TagType": 30,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Unbound Banner of the Algari",
+      "Estandarte desligado de los algari",
+      "Estandarte dos Algari Desatado",
+      "Unbound Banner of the Algari",
+      "Estandarte desvinculado algariano",
+      "Bannière algarie déliée",
+      "Алгарийское знамя грозы неприкаянных",
+      "Freies Banner der Algari",
+      "Estandarte dos Algari Desatado",
+      "Stendardo degli Algari Svincolato",
+      "풀어헤쳐진 알가르의 깃발",
+      "無縛阿爾加旌旗",
+      "无拘阿加旗帜"
     ],
     "Media": "inv_11xp_mdi_banner02.jpg"
   },
@@ -7753,19 +7753,19 @@
     "TagType": 30,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Astral Champion's Prestigious Banner",
+      "Estandarte prestigioso de campeón astral",
+      "Estandarte Prestigioso do Campeão Astral",
+      "Astral Champion's Prestigious Banner",
+      "Estandarte prestigioso de campeón astral",
+      "Bannière prestigieuse de championnat astral",
+      "Астральное престижное знамя защитника",
+      "Prestigeträchtiges Banner des astralen Champions",
+      "Estandarte Prestigioso do Campeão Astral",
+      "Stendardo Prestigioso del Campione Astrale",
+      "은하를 누비는 용사의 명망 높은 깃발",
+      "星界勇士威望旌旗",
+      "星界勇士的尊崇旗帜"
     ],
     "Media": "inv_11xp_awc_banner02.jpg"
   },
@@ -8568,6 +8568,27 @@
     "Media": "inv_11xp_event_dastardlyduos_podium01_nocollision.jpg"
   },
   {
+    "TagId": 1575,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Flight Master's Whistle",
+      "Silbato del maestro de vuelo",
+      "Apito do Mestre de Voo",
+      "Flight Master's Whistle",
+      "Silbato de maestro de vuelo",
+      "Sifflet de maître de vol",
+      "Свисток распорядителя полетов",
+      "Pfeife des Flugmeisters",
+      "Apito do Mestre de Voo",
+      "Fischietto del Maestro di Volo",
+      "비행 조련사의 호루라기",
+      "飛行管理員的哨子",
+      "飞行管理员的哨子"
+    ],
+    "Media": "ability_hunter_beastcall.jpg"
+  },
+  {
     "TagId": 1578,
     "TagType": 30,
     "Names": [
@@ -8692,6 +8713,48 @@
       "萨拉塔斯，黑暗帝国之刃的回响"
     ],
     "Media": "inv_knife_1h_artifactcthun_d_01.jpg"
+  },
+  {
+    "TagId": 1589,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Starlight Beacon",
+      "Baliza de luz estelar",
+      "Sinalizador da Luz Estelar",
+      "Starlight Beacon",
+      "Baliza de luz estelar",
+      "Balise de lumière stellaire",
+      "Маяк звездного света",
+      "Sternenleuchtfeuer",
+      "Sinalizador da Luz Estelar",
+      "Faro di Lucestellare",
+      "별빛 봉화",
+      "星光信標",
+      "星光道标"
+    ],
+    "Media": "inv_archaeology_70_starlightbeacon.jpg"
+  },
+  {
+    "TagId": 1590,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Stormforged Grapple Launcher",
+      "Lanzaganchos tronaforjado",
+      "Lança-Gancho Forjado em Tempestade",
+      "Stormforged Grapple Launcher",
+      "Lanzaenganches Tronaforjado",
+      "Lance-grappin forge-foudre",
+      "Закаленный бурей гарпун",
+      "Sturmgeschmiedeter Greifhakenwerfer",
+      "Lança-Gancho Forjado em Tempestade",
+      "Lancia Rampino dei Forgiatuono",
+      "폭풍벼림 갈고리 발사기",
+      "風鑄爪鉤槍",
+      "雷铸爪钩枪"
+    ],
+    "Media": "inv_firearm_2h_rifle_draenorraid_d_01.jpg"
   },
   {
     "TagId": 1591,
@@ -9007,6 +9070,27 @@
       "虚灵商摊"
     ],
     "Media": "inv_misc_bandage_netherweave.jpg"
+  },
+  {
+    "TagId": 1617,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Lil' Exodar",
+      "Mini Exodar",
+      "Exodarzinha",
+      "Lil' Exodar",
+      "Exodarcito",
+      "Mini Exodar",
+      "Экзодарик",
+      "Mini-Exodar",
+      "Exodarzinha",
+      "Piccola Exodar",
+      "소형 엑소다르",
+      "小艾克索達",
+      "小埃索达"
+    ],
+    "Media": "inv_dimensionalshippet.jpg"
   },
   {
     "TagId": 1618,

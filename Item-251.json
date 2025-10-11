@@ -1,5 +1,593 @@
 [
   {
+    "TagId": 251016,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Warmonger's Cloth Armor",
+      "Conjunto: Armadura de tela de Belicista forjado",
+      "Indumentária: Armadura de Tecido do Fomentador da Guerra Forjado",
+      "Ensemble: Forged Warmonger's Cloth Armor",
+      "Indumentaria: Armadura de tela de belicista forjado",
+      "Ensemble\u00A0: armure de belliciste forgé en étoffe",
+      "Комплект: тканевый доспех кованого завоевателя",
+      "Ensemble: Stoffrüstung des geschmiedeten Kriegstreibers",
+      "Indumentária: Armadura de Tecido do Fomentador da Guerra Forjado",
+      "Set: Stoffa del Guerrafondaio Forgiato",
+      "복장: 제련된 전투사의 천 방어구",
+      "套裝：百鍊好戰者布甲",
+      "套装：炉铸好战者的布甲"
+    ],
+    "Media": "inv_cloth_outdoorarathor_d_01_helm.jpg"
+  },
+  {
+    "TagId": 251017,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Warmonger's Leather Armor",
+      "Conjunto: Armadura de cuero de Belicista forjado",
+      "Indumentária: Armadura de Couro do Fomentador da Guerra Forjado",
+      "Ensemble: Forged Warmonger's Leather Armor",
+      "Indumentaria: Armadura de cuero de belicista forjado",
+      "Ensemble\u00A0: armure de belliciste forgé en cuir",
+      "Комплект: кожаный доспех кованого завоевателя",
+      "Ensemble: Lederrüstung des geschmiedeten Kriegstreibers",
+      "Indumentária: Armadura de Couro do Fomentador da Guerra Forjado",
+      "Set: Cuoio del Guerrafondaio Forgiato",
+      "복장: 제련된 전투사의 가죽 방어구",
+      "套裝：百鍊好戰者皮甲",
+      "套装：炉铸好战者的皮甲"
+    ],
+    "Media": "inv_leather_outdoorarathor_d_01_helm.jpg"
+  },
+  {
+    "TagId": 251018,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Warmonger's Mail Armor",
+      "Conjunto: Armadura de malla de Belicista forjado",
+      "Indumentária: Armadura de Malha do Fomentador da Guerra Forjado",
+      "Ensemble: Forged Warmonger's Mail Armor",
+      "Indumentaria: Armadura de malla de belicista forjado",
+      "Ensemble\u00A0: cottes de mailles de belliciste forgé",
+      "Комплект: кольчужный доспех кованого завоевателя",
+      "Ensemble: Kettenrüstung des geschmiedeten Kriegstreibers",
+      "Indumentária: Armadura de Malha do Fomentador da Guerra Forjado",
+      "Set: Maglia del Guerrafondaio Forgiato",
+      "복장: 제련된 전투사의 사슬 방어구",
+      "套裝：百鍊好戰者鎖甲",
+      "套装：炉铸好战者的锁甲"
+    ],
+    "Media": "inv_mail_outdoorarathor_d_01_helm.jpg"
+  },
+  {
+    "TagId": 251019,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Forged Warmonger's Plate Armor",
+      "Conjunto: Armadura de placas de Belicista forjado",
+      "Indumentária: Armadura de Placa do Fomentador da Guerra Forjado",
+      "Ensemble: Forged Warmonger's Plate Armor",
+      "Indumentaria: Armadura de placas de belicista forjado",
+      "Ensemble\u00A0: armure de plaques de belliciste forgé",
+      "Комплект: латный доспех кованого завоевателя",
+      "Ensemble: Plattenrüstung des geschmiedeten Kriegstreibers",
+      "Indumentária: Armadura de Placa do Fomentador da Guerra Forjado",
+      "Set: Piastre del Guerrafondaio Forgiato",
+      "복장: 제련된 전투사의 판금 방어구",
+      "套裝：百鍊好戰者鎧甲",
+      "套装：炉铸好战者的板甲"
+    ],
+    "Media": "inv_plate_outdoorarathor_d_01_helm.jpg"
+  },
+  {
+    "TagId": 251020,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Forged Warmonger's Weapons",
+      "Arsenal: Armas de Belicista forjado",
+      "Arsenal: Armas do Fomentador da Guerra Forjado",
+      "Arsenal: Forged Warmonger's Weapons",
+      "Arsenal: armas de belicista forjado",
+      "Arsenal\u00A0: armes de belliciste forgé",
+      "Арсенал: оружие кованого завоевателя",
+      "Arsenal: Waffen des geschmiedeten Kriegstreibers",
+      "Arsenal: Armas do Fomentador da Guerra Forjado",
+      "Arsenale: Armi del Guerrafondaio Forgiato",
+      "병기: 제련된 전투사의 무기",
+      "武器庫：百鍊好戰者武器",
+      "军械：炉铸好战者的武器"
+    ],
+    "Media": "inv_sword_2h_arathoroutdoor_d_01.jpg"
+  },
+  {
+    "TagId": 251023,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bronze Simulacrum",
+      "Falsificación de bronce",
+      "Simulacro de Bronze",
+      "Bronze Simulacrum",
+      "Simulacro de bronce",
+      "Simulacre en bronze",
+      "Бронзовый симулякр",
+      "Bronzenes Simulakrum",
+      "Simulacro de Bronze",
+      "Simulacro di Bronzo",
+      "청동 복제물",
+      "青銅幻象",
+      "青铜幻影"
+    ],
+    "Media": "inv_10_jewelcrafting_gem3primal_earth_cut_bronze.jpg"
+  },
+  {
+    "TagId": 251236,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Warmonger's Cloth Armor",
+      "Conjunto: Armadura de tela de Belicista premiado",
+      "Indumentária: Armadura de Tecido do Fomentador da Guerra Precioso",
+      "Ensemble: Prized Warmonger's Cloth Armor",
+      "Indumentaria: Armadura de tela de belicista preciado",
+      "Ensemble\u00A0: armure de belliciste adulé en étoffe",
+      "Комплект: тканевый доспех призового завоевателя",
+      "Ensemble: Stoffrüstung des geachteten Kriegstreibers",
+      "Indumentária: Armadura de Tecido do Fomentador da Guerra Precioso",
+      "Set: Stoffa del Guerrafondaio Stimato",
+      "복장: 찬양받는 전투사의 천 방어구",
+      "套裝：獲獎好戰者布甲",
+      "套装：至臻好战者的布甲"
+    ],
+    "Media": "inv_cloth_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 251237,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Warmonger's Leather Armor",
+      "Conjunto: Armadura de cuero de Belicista premiado",
+      "Indumentária: Armadura de Couro do Fomentador da Guerra Precioso",
+      "Ensemble: Prized Warmonger's Leather Armor",
+      "Indumentaria: Armadura de cuero de belicista preciado",
+      "Ensemble\u00A0: armure de belliciste adulé en cuir",
+      "Комплект: кожаный доспех призового завоевателя",
+      "Ensemble: Lederrüstung des geachteten Kriegstreibers",
+      "Indumentária: Armadura de Couro do Fomentador da Guerra Precioso",
+      "Set: Cuoio del Guerrafondaio Stimato",
+      "복장: 찬양받는 전투사의 가죽 방어구",
+      "套裝：獲獎好戰者皮甲",
+      "套装：至臻好战者的皮甲"
+    ],
+    "Media": "inv_leather_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 251238,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Warmonger's Mail Armor",
+      "Conjunto: Armadura de malla de Belicista premiado",
+      "Indumentária: Armadura de Malha do Fomentador da Guerra Precioso",
+      "Ensemble: Prized Warmonger's Mail Armor",
+      "Indumentaria: Armadura de malla de belicista preciado",
+      "Ensemble\u00A0: cotte de mailles de belliciste adulé",
+      "Комплект: кольчужный доспех призового завоевателя",
+      "Ensemble: Kettenrüstung des geachteten Kriegstreibers",
+      "Indumentária: Armadura de Malha do Fomentador da Guerra Precioso",
+      "Set: Maglia del Guerrafondaio Stimato",
+      "복장: 찬양받는 전투사의 사슬 방어구",
+      "套裝：獲獎好戰者鎖甲",
+      "套装：至臻好战者的锁甲"
+    ],
+    "Media": "inv_mail_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 251239,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Prized Warmonger's Plate Armor",
+      "Conjunto: Armadura de placas de Belicista premiado",
+      "Indumentária: Armadura de Placa do Fomentador da Guerra Precioso",
+      "Ensemble: Prized Warmonger's Plate Armor",
+      "Indumentaria: Armadura de placas de belicista preciado",
+      "Ensemble\u00A0: armure de plaques de belliciste adulé",
+      "Комплект: латные доспехи призового завоевателя",
+      "Ensemble: Plattenrüstung des geachteten Kriegstreibers",
+      "Indumentária: Armadura de Placa do Fomentador da Guerra Precioso",
+      "Set: Piastre del Guerrafondaio Stimato",
+      "복장: 찬양받는 전투사의 판금 방어구",
+      "套裝：獲獎好戰者鎧甲",
+      "套装：至臻好战者的板甲"
+    ],
+    "Media": "inv_plate_outdoorundermine_c_01_helm.jpg"
+  },
+  {
+    "TagId": 251240,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Prized Warmonger's Weapons",
+      "Arsenal: Armas de Belicista premiado",
+      "Arsenal: Armas do Fomentador da Guerra Precioso",
+      "Arsenal: Prized Warmonger's Weapons",
+      "Arsenal: armas de belicista preciado",
+      "Arsenal\u00A0: armes de belliciste adulé",
+      "Арсенал: оружие призового завоевателя",
+      "Arsenal: Waffen des geachteten Kriegstreibers",
+      "Arsenal: Armas do Fomentador da Guerra Precioso",
+      "Arsenale: Armi del Guerrafondaio Stimato",
+      "병기: 찬양받는 전투사의 무기",
+      "武器庫：獲獎好戰者武器",
+      "军械：至臻好战者的武器"
+    ],
+    "Media": "inv_axe_1h_outdoorundermine_c_01.jpg"
+  },
+  {
+    "TagId": 251243,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Astral Warmonger's Cloth Armor",
+      "Conjunto: Armadura de tela de Belicista astral",
+      "Indumentária: Armadura de Tecido do Fomentador da Guerra Astral",
+      "Ensemble: Astral Warmonger's Cloth Armor",
+      "Indumentaria: Armadura de tela de belicista astral",
+      "Ensemble\u00A0: armure de belliciste astral en étoffe",
+      "Комплект: тканевый доспех астрального завоевателя",
+      "Ensemble: Stoffrüstung des astralen Kriegstreibers",
+      "Indumentária: Armadura de Tecido do Fomentador da Guerra Astral",
+      "Set: Stoffa del Guerrafondaio Astrale",
+      "복장: 은하를 누비는 전투사의 천 방어구",
+      "套裝：星界好戰者布甲",
+      "套装：星界好战者的布甲"
+    ],
+    "Media": "inv_helm_cloth_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 251244,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Astral Warmonger's Leather Armor",
+      "Conjunto: Armadura de cuero de Belicista astral",
+      "Indumentária: Armadura de Couro do Fomentador da Guerra Astral",
+      "Ensemble: Astral Warmonger's Leather Armor",
+      "Indumentaria: Armadura de cuero de belicista astral",
+      "Ensemble\u00A0: armure de belliciste astral en cuir",
+      "Комплект: кожаный доспех астрального завоевателя",
+      "Ensemble: Lederrüstung des astralen Kriegstreibers",
+      "Indumentária: Armadura de Couro do Fomentador da Guerra Astral",
+      "Set: Cuoio del Guerrafondaio Astrale",
+      "복장: 은하를 누비는 전투사의 가죽 방어구",
+      "套裝：星界好戰者皮甲",
+      "套装：星界好战者的皮甲"
+    ],
+    "Media": "inv_helm_leather_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 251245,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Astral Warmonger's Mail Armor",
+      "Conjunto: Armadura de malla de Belicista astral",
+      "Indumentária: Armadura de Malha do Fomentador da Guerra Astral",
+      "Ensemble: Astral Warmonger's Mail Armor",
+      "Indumentaria: Armadura de malla de belicista astral",
+      "Ensemble\u00A0: cotte de mailles de belliciste astral",
+      "Комплект: кольчужный доспех астрального завоевателя",
+      "Ensemble: Kettenrüstung des astralen Kriegstreibers",
+      "Indumentária: Armadura de Malha do Fomentador da Guerra Astral",
+      "Set: Maglia del Guerrafondaio Astrale",
+      "복장: 은하를 누비는 전투사의 사슬 방어구",
+      "套裝：星界好戰者鎖甲",
+      "套装：星界好战者的锁甲"
+    ],
+    "Media": "inv_helm_mail_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 251246,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Astral Warmonger's Plate Armor",
+      "Conjunto: Armadura de placas de Belicista astral",
+      "Indumentária: Armadura de Placa do Fomentador da Guerra Astral",
+      "Ensemble: Astral Warmonger's Plate Armor",
+      "Indumentaria: Armadura de placas de belicista astral",
+      "Ensemble\u00A0: armure de plaques de belliciste astral",
+      "Комплект: латные доспехи астрального завоевателя",
+      "Ensemble: Plattenrüstung des astralen Kriegstreibers",
+      "Indumentária: Armadura de Placa do Fomentador da Guerra Astral",
+      "Set: Piastre del Guerrafondaio Astrale",
+      "복장: 은하를 누비는 전투사의 판금 방어구",
+      "套裝：星界好戰者鎧甲",
+      "套装：星界好战者的板甲"
+    ],
+    "Media": "inv_helm_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 251247,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Astral Warmonger's Weapons",
+      "Arsenal: Armas de Belicista astral",
+      "Arsenal: Armas do Fomentador da Guerra Astral",
+      "Arsenal: Astral Warmonger's Weapons",
+      "Arsenal: armas de belicista astral",
+      "Arsenal\u00A0: armes de belliciste astral",
+      "Арсенал: оружие астрального завоевателя",
+      "Arsenal: Waffen des astralen Kriegstreibers",
+      "Arsenal: Armas do Fomentador da Guerra Astral",
+      "Arsenale: Armi del Guerrafondaio Astrale",
+      "병기: 은하를 누비는 전투사의 무기",
+      "武器庫：星界好戰者武器",
+      "军械：星界好战者的武器"
+    ],
+    "Media": "inv_axe_1h_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 251248,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion",
+      "[DNT] Keystone Dungeon - Any Completion"
+    ],
+    "Media": "inv_jewelcrafting_empyreansapphire_02.jpg"
+  },
+  {
+    "TagId": 251249,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only",
+      "[DNT] Keystone Dungeon - Timed Only"
+    ],
+    "Media": "inv_jewelcrafting_crimsonspinel_02.jpg"
+  },
+  {
+    "TagId": 251261,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level",
+      "[DNT] Keystone Level"
+    ],
+    "Media": "inv_misc_gem_bloodstone_03.jpg"
+  },
+  {
+    "TagId": 251262,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Vambraces",
+      "Avambrazos de campeón de rocío marítimo",
+      "Avambraços do Campeão Marencharcado",
+      "Tidesoaked Champion's Vambraces",
+      "Avambrazos de campeón cubierto por la marea",
+      "Protège-bras de brave trempés d’écume",
+      "Тяжелые наручи омытого волнами защитника",
+      "Gezeitengetränkte Unterarmschienen des Champions",
+      "Avambraços do Campeão Marencharcado",
+      "Avambracci del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 완갑",
+      "浸潮勇士護臂",
+      "覆潮勇士的臂铠"
+    ],
+    "Media": "inv_bracer_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251263,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Epaulets",
+      "Cubrehombros de campeón de rocío marítimo",
+      "Palas do Campeão Marencharcado",
+      "Tidesoaked Champion's Epaulets",
+      "Cubrehombros de campeón cubierto por la marea",
+      "Épaulettes de brave trempées d’écume",
+      "Эполеты омытого волнами защитника",
+      "Gezeitengetränkte Schulterklappen des Champions",
+      "Palas do Campeão Marencharcado",
+      "Spalline del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 견장",
+      "浸潮勇士肩冑",
+      "覆潮勇士的肩章"
+    ],
+    "Media": "inv_shoulder_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251264,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Legguards",
+      "Musleras de campeón de rocío marítimo",
+      "Guarda-pernas do Campeão Marencharcado",
+      "Tidesoaked Champion's Legguards",
+      "Musleras de campeón cubierto por la marea",
+      "Garde-jambes de brave trempés d’écume",
+      "Набедренники омытого волнами защитника",
+      "Gezeitengetränkter Beinschützer des Champions",
+      "Guarda-pernas do Campeão Marencharcado",
+      "Gambali Foderati del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 다리보호대",
+      "浸潮勇士腿甲",
+      "覆潮勇士的腿甲"
+    ],
+    "Media": "inv_pant_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251265,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Faceguard",
+      "Visera de campeón de rocío marítimo",
+      "Viseira do Campeão Marencharcado",
+      "Tidesoaked Champion's Faceguard",
+      "Visera de campeón cubierto por la marea",
+      "Ventaille de brave trempée d’écume",
+      "Большой шлем омытого волнами защитника",
+      "Gezeitengetränkter Gesichtsschutz des Champions",
+      "Viseira do Campeão Marencharcado",
+      "Elmo Foderato del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 얼굴보호대",
+      "浸潮勇士面甲",
+      "覆潮勇士的面甲"
+    ],
+    "Media": "inv_helm_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251266,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Handguards",
+      "Manoplas de campeón de rocío marítimo",
+      "Protetores de Mão do Campeão Marencharcado",
+      "Tidesoaked Champion's Handguards",
+      "Manoplas de campeón cubierto por la marea",
+      "Garde-mains de brave trempés d’écume",
+      "Боевые рукавицы омытого волнами защитника",
+      "Gezeitengetränkter Handschützer des Champions",
+      "Protetores de Mão do Campeão Marencharcado",
+      "Guardamani Foderati del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 손보호대",
+      "浸潮勇士手甲",
+      "覆潮勇士的手甲"
+    ],
+    "Media": "inv_glove_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251267,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Waistguard",
+      "Guardarrenes de campeón de rocío marítimo",
+      "Cinta do Campeão Marencharcado",
+      "Tidesoaked Champion's Waistguard",
+      "Guardarrenes de campeón cubierto por la marea",
+      "Sangle de brave trempée d’écume",
+      "Воинский пояс омытого волнами защитника",
+      "Gezeitengetränkter Taillenschutz des Champions",
+      "Cinta do Campeão Marencharcado",
+      "Cintura Foderata del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 허리보호대",
+      "浸潮勇士護腰",
+      "覆潮勇士的腰甲"
+    ],
+    "Media": "inv_belt_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251268,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Breastplate",
+      "Coraza de campeón de rocío marítimo",
+      "Peitoral do Campeão Marencharcado",
+      "Tidesoaked Champion's Breastplate",
+      "Coraza de campeón cubierto por la marea",
+      "Cuirasse de brave trempée d’écume",
+      "Кираса омытого волнами защитника",
+      "Gezeitengetränkte Brustplatte des Champions",
+      "Peitoral do Campeão Marencharcado",
+      "Pettorale Corazzato del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 가슴보호갑",
+      "浸潮勇士胸甲",
+      "覆潮勇士的胸铠"
+    ],
+    "Media": "inv_chest_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251269,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tidesoaked Champion's Jackboots",
+      "Botas militares de campeón de rocío marítimo",
+      "Botas de Cano Alto do Campeão Marencharcado",
+      "Tidesoaked Champion's Jackboots",
+      "Botas militares de campeón cubierto por la marea",
+      "Bottes cavalières de brave trempées d’écume",
+      "Сапоги омытого волнами защитника",
+      "Gezeitengetränkte Reitstiefel des Champions",
+      "Botas de Cano Alto do Campeão Marencharcado",
+      "Stivali Militari del Campione Inzuppato dalla Marea",
+      "해일충만 용사의 기수장화",
+      "浸潮勇士長筒軍靴",
+      "覆潮勇士的长靴"
+    ],
+    "Media": "inv_boot_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
+    "TagId": 251271,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Tidesoaked Battlegear",
+      "Conjunto: Equipo de batalla de rocío marítimo",
+      "Indumentária: Equipamento de Batalha Marencharcado",
+      "Ensemble: Tidesoaked Battlegear",
+      "Indumentaria: Equipo de batalla cubierto por la marea",
+      "Ensemble\u00A0: tenue de combat trempée d’écume",
+      "Комплект: омытая волнами броня",
+      "Ensemble: Gezeitengetränkte Schlachtrüstung",
+      "Indumentária: Equipamento de Batalha Marencharcado",
+      "Set: Tenuta Feroce Inzuppata dalla Marea",
+      "복장: 해일충만 전투장비",
+      "套裝：浸潮戰裝",
+      "套装：覆潮战甲"
+    ],
+    "Media": "inv_helm_plate_vrykulwarrior_b_01.jpg"
+  },
+  {
     "TagId": 251529,
     "TagType": 21,
     "Names": [
@@ -84,6 +672,111 @@
     "Media": "inv_cape_leather_outdoorethereal_c_01.jpg"
   },
   {
+    "TagId": 251536,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Highmountain's Finest Draping Cloak",
+      "Capa drapeada elegante de Altamontaña",
+      "Manto Drapejado de Alta Montanha da Melhor Qualidade",
+      "Highmountain's Finest Draping Cloak",
+      "Capa con caída de categoría de Monte Alto",
+      "Cape drapée d’élite de Haut-Roc",
+      "Тончайший драпированный плащ Крутогорья",
+      "Feinster wallender Umhang von Hochberg",
+      "Manto Drapejado de Alta Montanha da Melhor Qualidade",
+      "Mantello Drappeggiato d'Eccellenza di Alto Monte",
+      "높은산 최고급 장식용 망토",
+      "高嶺上好覆體披風",
+      "至高岭精工覆合披风"
+    ],
+    "Media": "inv_cape_legiondungeon_c_04.jpg"
+  },
+  {
+    "TagId": 251538,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pondskipper's Cloak",
+      "Capa de trotacharcos",
+      "Manto de Pula-poças",
+      "Pondskipper's Cloak",
+      "Capa de brincacharcas",
+      "Cape de saute-mare",
+      "Плащ водомерки",
+      "Umhang des Teichspringers",
+      "Manto de Pula-poças",
+      "Mantello del Saltatore delle Pozze",
+      "연못폴짝이의 망토",
+      "池躍者披風",
+      "池塘跃兽的披风"
+    ],
+    "Media": "inv_cape_legiondungeon_c_04.jpg"
+  },
+  {
+    "TagId": 251539,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tattered Highmountain Cloak",
+      "Capa de Altamontaña raída",
+      "Manto de Alta Montanha Esfarrapado",
+      "Tattered Highmountain Cloak",
+      "Capa destrozada de Monte Alto",
+      "Cape de Haut-Roc en lambeaux",
+      "Рваный плащ Крутогорья",
+      "Zerlumpter Umhang von Hochberg",
+      "Manto de Alta Montanha Esfarrapado",
+      "Mantello Lacero di Alto Monte",
+      "너덜너덜한 높은산 망토",
+      "破損的高嶺披風",
+      "破烂的至高岭披风"
+    ],
+    "Media": "inv_cape_legiondungeon_c_04.jpg"
+  },
+  {
+    "TagId": 251540,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cloak of the Forest's Nightmare",
+      "Capa de la pesadilla del bosque",
+      "Manto do Pesadelo da Floresta",
+      "Cloak of the Forest's Nightmare",
+      "Capa de la pesadilla del bosque",
+      "Cape du cauchemar de la forêt",
+      "Плащ лесного кошмара",
+      "Umhang des Waldalptraums",
+      "Manto do Pesadelo da Floresta",
+      "Mantello dell'Incubo della Foresta",
+      "숲의 악몽 망토",
+      "森林夢魘披風",
+      "森林梦魇的披风"
+    ],
+    "Media": "inv_cape_legiondungeon_c_04.jpg"
+  },
+  {
+    "TagId": 251541,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Highmountain's Finest Cloak",
+      "Capa elegante de Altamontaña",
+      "Manto de Alta Montanha da Melhor Qualidade",
+      "Highmountain's Finest Cloak",
+      "Capa de categoría de Monte Alto",
+      "Cape d’élite de Haut-Roc",
+      "Тончайший плащ Крутогорья",
+      "Feinster Umhang von Hochberg",
+      "Manto de Alta Montanha da Melhor Qualidade",
+      "Mantello d'Eccellenza di Alto Monte",
+      "높은산 최고급 망토",
+      "高嶺上好披風",
+      "至高岭精工披风"
+    ],
+    "Media": "inv_cape_legiondungeon_c_04.jpg"
+  },
+  {
     "TagId": 251543,
     "TagType": 21,
     "Names": [
@@ -103,6 +796,279 @@
       "破裂的钥石"
     ],
     "Media": "inv_relics_hourglass_02.jpg"
+  },
+  {
+    "TagId": 251562,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tome of Combat Training",
+      "Tomo de instrucción de combate",
+      "Tomo do Treino de Combate",
+      "Tome of Combat Training",
+      "Escrito de instrucción de combate",
+      "Tome d’entraînement au combat",
+      "Фолиант боевых учений",
+      "Foliant des Kampftrainings",
+      "Tomo do Treino de Combate",
+      "Tomo dell'Addestramento al Combattimento",
+      "전투 훈련의 고서",
+      "戰鬥訓練之書",
+      "战斗训练之书"
+    ],
+    "Media": "inv_10_inscription2_book1_color4.jpg"
+  },
+  {
+    "TagId": 251631,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bottled Time",
+      "Tiempo embotellado",
+      "Tempo Engarrafado",
+      "Bottled Time",
+      "Tiempo embotellado",
+      "Temps en bouteille",
+      "Время в бутылке",
+      "Abgefüllte Zeit",
+      "Tempo Engarrafado",
+      "Tempo Imbottigliato",
+      "병에 담긴 시간",
+      "瓶裝時光",
+      "瓶装时间"
+    ],
+    "Media": "inv_10_alchemy_bottle_shape4_yellow.jpg"
+  },
+  {
+    "TagId": 251674,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sssurine's Luxurious Sssandals",
+      "Sssandalias lujosas de Sssurine",
+      "Ssandálias Luxuosas de Sssurine",
+      "Sssurine's Luxurious Sssandals",
+      "Sssandalias lujosssas de Sssurine",
+      "Sssandales luxueuses de Sssurine",
+      "Шшшикарные сссандалии Сссюрин",
+      "Sssurines luxuriöse Sssandalen",
+      "Ssandálias Luxuosas de Sssurine",
+      "Calzari della Lusssuria di Sssurine",
+      "수린의 호사스러운 덧신",
+      "瑟琳的華貴便鞋",
+      "苏琳妮的奢华软鞋"
+    ],
+    "Media": "inv_boot_cloth_legionquest100_b_01.jpg"
+  },
+  {
+    "TagId": 251690,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stormborn Laminar Overdrape",
+      "Sobremantón de láminas de Natormento",
+      "Himácio Laminar do Filho da Tempestade",
+      "Stormborn Laminar Overdrape",
+      "Sobremantón laminado de Natormento",
+      "Drapé long laminaire issu-des-tempêtes",
+      "Большая пластинчатая накидка детей бури",
+      "Sturmgeborener Laminarüberwurf",
+      "Himácio Laminar do Filho da Tempestade",
+      "Sopravveste Laminata Tempestosa",
+      "폭풍살이 박편 덧외투",
+      "颶裔札片覆體披氅",
+      "风裔层叠大帔"
+    ],
+    "Media": "inv_cape_mail_legionquest100_b_01.jpg"
+  },
+  {
+    "TagId": 251795,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reins of the Brimstone Courser",
+      "Riendas del Corcel de azufre",
+      "Rédeas do Ginete Sulfúreo",
+      "Reins of the Brimstone Courser",
+      "Riendas del trotador de azufre",
+      "Rênes de coursier de soufre",
+      "Поводья серного скакуна",
+      "Zügel des Schwefelrenners",
+      "Rédeas do Ginete Sulfúreo",
+      "Redini del Corsiero Sulfureo",
+      "유황 군마 고삐",
+      "磺石逐夢馬韁繩",
+      "硫磺骏马的缰绳"
+    ],
+    "Media": "inv_horse2bastionmount_purple.jpg"
+  },
+  {
+    "TagId": 251796,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reins of the Chestnut Courser",
+      "Riendas del Corcel castaño",
+      "Rédeas do Ginete Castanho",
+      "Reins of the Chestnut Courser",
+      "Riendas del trotador castaño",
+      "Rênes de coursier alezan",
+      "Поводья каштанового скакуна",
+      "Zügel des Kastanienbraunen Renners",
+      "Rédeas do Ginete Castanho",
+      "Redini del Corsiero Castagna",
+      "밤색 군마 고삐",
+      "栗色逐夢馬韁繩",
+      "栗色骏马的缰绳"
+    ],
+    "Media": "inv_horse2ardenwealdmount_doe.jpg"
+  },
+  {
+    "TagId": 251821,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cache of Infinite Power",
+      "Alijo de poder infinito",
+      "Baú de Poder Infinito",
+      "Cache of Infinite Power",
+      "Alijo de poder infinito",
+      "Cache de pouvoir infini",
+      "Тайник бесконечной силы",
+      "Truhe mit ewiger Macht",
+      "Baú de Poder Infinito",
+      "Cassa della Potenza Infinita",
+      "무한한 힘의 보관함",
+      "恆龍之力寶箱",
+      "永恒威能宝箱"
+    ],
+    "Media": "inv_treasurechest_felfirecitadel.jpg"
+  },
+  {
+    "TagId": 251827,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stygian Silk Cloak",
+      "Capa de seda estigia",
+      "Manto de Seda do Evocador",
+      "Stygian Silk Cloak",
+      "Capa de seda estigia",
+      "Cape en soie stygienne",
+      "Плащ из стигийского шелка",
+      "Stygischer Seidenumhang",
+      "Manto de Seda do Evocador",
+      "Mantello di Seta Stigia",
+      "저승의 비단 망토",
+      "冥魄絲綢披風",
+      "冥河之丝披风"
+    ],
+    "Media": "inv_cape_cloth_legiondungeon_c_03.jpg"
+  },
+  {
+    "TagId": 251874,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Antoran Guard's Golden Cape",
+      "Esclavina dorada de guardia antoriano",
+      "Capa Dourada da Guarda Antorana",
+      "Antoran Guard's Golden Cape",
+      "Manteo dorado de guardia antoran",
+      "Pèlerine dorée de la garde antoréenne",
+      "Золотая накидка стража Анторуса",
+      "Goldenes Cape der antorischen Wache",
+      "Capa Dourada da Guarda Antorana",
+      "Cappa Dorata della Guardia degli Antoran",
+      "안토란 경비병의 황금빛 단망토",
+      "安托洛斯護衛黃金披風",
+      "安托兰守卫的金色斗披"
+    ],
+    "Media": "inv_cape_plate_legiondungeon_c_03.jpg"
+  },
+  {
+    "TagId": 251876,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cloak of the Hunting Dream",
+      "Capa del sueño cazador",
+      "Manto do Sonho Caçador",
+      "Cloak of the Hunting Dream",
+      "Capa del sueño de caza",
+      "Cape du rêve de chasse",
+      "Плащ снов об охоте",
+      "Umhang des Jagdtraums",
+      "Manto do Sonho Caçador",
+      "Mantello del Sogno Venatorio",
+      "수렵의 꿈의 망토",
+      "狩獵之夢披風",
+      "狩猎梦境披风"
+    ],
+    "Media": "inv_cape_legionhonor_d_01.jpg"
+  },
+  {
+    "TagId": 251877,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ruthless Marauder's Cape",
+      "Esclavina de merodeador despiadado",
+      "Capa do Saqueador Inclemente",
+      "Ruthless Marauder's Cape",
+      "Manteo de maleante implacable",
+      "Pèlerine de maraude impitoyable",
+      "Накидка безжалостного мародера",
+      "Umhang des skrupellosen Marodeurs",
+      "Capa do Saqueador Inclemente",
+      "Cappa del Predone Crudele",
+      "무자비한 약탈자의 단망토",
+      "無情掠奪者披風",
+      "无情掠夺者的披风"
+    ],
+    "Media": "inv_cape_legionhonor_d_01.jpg"
+  },
+  {
+    "TagId": 251878,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ruthless Marauder's Shroud",
+      "Sudario de merodeador despiadado",
+      "Mortalha do Saqueador Inclemente",
+      "Ruthless Marauder's Shroud",
+      "Sudario de maleante implacable",
+      "Voile de maraude impitoyable",
+      "Покров безжалостного мародера",
+      "Schleier des skrupellosen Marodeurs",
+      "Mortalha do Saqueador Inclemente",
+      "Manto del Predone Crudele",
+      "무자비한 약탈자의 수의",
+      "無情掠奪者罩氅",
+      "无情掠夺者的罩袍"
+    ],
+    "Media": "inv_cape_legionhonor_d_01.jpg"
+  },
+  {
+    "TagId": 251879,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Draping Shroud of the Hunting Dream",
+      "Sudario drapeado del sueño cazador",
+      "Mortalha Drapejada do Sonho Caçador",
+      "Draping Shroud of the Hunting Dream",
+      "Sudario con caída del sueño de caza",
+      "Voile drapé du rêve de chasse",
+      "Драпированный покров снов об охоте",
+      "Wallender Schleier des Jagdtraums",
+      "Mortalha Drapejada do Sonho Caçador",
+      "Manto Drappeggiato del Sogno Venatorio",
+      "수렵의 꿈의 장식용 수의",
+      "狩獵之夢覆體罩氅",
+      "狩猎梦境覆合罩袍"
+    ],
+    "Media": "inv_cape_legionhonor_d_01.jpg"
   },
   {
     "TagId": 251880,
@@ -208,5 +1174,341 @@
       null
     ],
     "Media": "inv_glaive_1h_etherealraid_d_01.jpg"
+  },
+  {
+    "TagId": 251901,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Legion Armor Scraps",
+      "Restos de armaduras de la Legión",
+      "Sobras de Armadura da Legião",
+      "Legion Armor Scraps",
+      "Restos de armadura de la Legión",
+      "Morceaux d’armures de la Légion",
+      "Обломки брони Легиона",
+      "Überreste einer Legionsrüstung",
+      "Sobras de Armadura da Legião",
+      "Resti di Armatura della Legione",
+      "군단 방어구 조각",
+      "軍團護甲廢料",
+      "军团护甲碎片"
+    ],
+    "Media": "inv_misc_wartornscrap_chain.jpg"
+  },
+  {
+    "TagId": 251964,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Frost Marshal's Carbine",
+      "Carabina de mariscal de escarcha",
+      "Carabina do Marechal do Gelo",
+      "Frost Marshal's Carbine",
+      "Carabina de mariscal de escarcha",
+      "Carabine de maréchal du givre",
+      "Карабин ледяного маршала",
+      "Frostiger Karabiner des Zeitmarschalls",
+      "Carabina do Marechal do Gelo",
+      "Carabina del Maresciallo dei Lupi Bianchi",
+      "냉기 사령관의 기병총",
+      "冰霜元帥卡賓槍",
+      "冰霜元帅的卡宾枪"
+    ],
+    "Media": "inv_firearm_2h_witchhunter_c_01.jpg"
+  },
+  {
+    "TagId": 251966,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Libram of Azure Light",
+      "Tratado de Luz azur",
+      "Incunábulo de Luz Lazúli",
+      "Libram of Azure Light",
+      "Tratado sobre luz azur",
+      "Libram de lumière azur",
+      "Манускрипт лазурного света",
+      "Buchband des Azurlichts",
+      "Incunábulo de Luz Lazúli",
+      "Libram della Luce Azzurra",
+      "푸른 빛의 성서",
+      "蒼藍之光聖契",
+      "碧蓝圣光圣契"
+    ],
+    "Media": "inv_offhand_1h_libram_b_01.jpg"
+  },
+  {
+    "TagId": 251971,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tome of Cerulean Ciphers",
+      "Tomo de claves cerúleas",
+      "Tomo de Cifras Cerúleas",
+      "Tome of Cerulean Ciphers",
+      "Tomo sobre claves cerúleas",
+      "Tome de formules céruléennes",
+      "Фолиант сапфировых письмен",
+      "Foliant der himmelblauen Chiffren",
+      "Tomo de Cifras Cerúleas",
+      "Tomo dei Cifrari Cerulei",
+      "청색 암호의 고서",
+      "天藍密文秘典",
+      "天蓝密文宝典"
+    ],
+    "Media": "inv_offhand_1h_libram_b_02.jpg"
+  },
+  {
+    "TagId": 251972,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sapphire Scarab Bulwark",
+      "Baluarte de escarabajo de zafiro",
+      "Baluarte do Escaravelho de Safira",
+      "Sapphire Scarab Bulwark",
+      "Baluarte de escarabajo de zafiro",
+      "Rempart de scarabée saphir",
+      "Бастион сапфирового скарабея",
+      "Saphirenes Skarabäusbollwerk",
+      "Baluarte do Escaravelho de Safira",
+      "Scudo Barricata dello Scarabeo di Zaffiro",
+      "사파이어 딱정벌레 보루 방패",
+      "藍寶石甲蟲壁壘",
+      "蓝玉圣甲虫壁障"
+    ],
+    "Media": "inv_shield_1h_scarab_c_01.jpg"
+  },
+  {
+    "TagId": 251985,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trapper's Black Quiver",
+      "Carcaj negro de trampero",
+      "Aljava Preta do Armadilheiro",
+      "Trapper's Black Quiver",
+      "Carcaj negro de trampero",
+      "Carquois noir de trappeur",
+      "Черный колчан зверолова",
+      "Schwarzer Köcher des Fallenstellers",
+      "Aljava Preta do Armadilheiro",
+      "Faretra Nera del Mastro Bracconiere",
+      "덫사냥꾼의 검은색 화살통",
+      "陷捕者的黑色箭袋",
+      "捕兽者的黑色箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251986,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trapper's Blue Quiver",
+      "Carcaj azul de trampero",
+      "Aljava Azul do Armadilheiro",
+      "Trapper's Blue Quiver",
+      "Carcaj azul de trampero",
+      "Carquois bleu de trappeur",
+      "Синий колчан зверолова",
+      "Blauer Köcher des Fallenstellers",
+      "Aljava Azul do Armadilheiro",
+      "Faretra Blu del Mastro Bracconiere",
+      "덫사냥꾼의 푸른색 화살통",
+      "陷捕者的藍色箭袋",
+      "捕兽者的蓝色箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251987,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trapper's Brown Quiver",
+      "Carcaj marrón de trampero",
+      "Aljava Marrom do Armadilheiro",
+      "Trapper's Brown Quiver",
+      "Carcaj marrón de trampero",
+      "Carquois marron de trappeur",
+      "Коричневый колчан зверолова",
+      "Brauner Köcher des Fallenstellers",
+      "Aljava Marrom do Armadilheiro",
+      "Faretra Marrone del Mastro Bracconiere",
+      "덫사냥꾼의 갈색 화살통",
+      "陷捕者的棕色箭袋",
+      "捕兽者的棕色箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251988,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trapper's Dark Brown Quiver",
+      "Carcaj marrón oscuro de trampero",
+      "Aljava Marrom-escuro do Armadilheiro",
+      "Trapper's Dark Brown Quiver",
+      "Carcaj marrón oscuro de trampero",
+      "Carquois marron foncé de trappeur",
+      "Темно-коричневый колчан зверолова",
+      "Dunkelbrauner Köcher des Fallenstellers",
+      "Aljava Marrom-escuro do Armadilheiro",
+      "Faretra Marrone Scuro del Mastro Bracconiere",
+      "덫사냥꾼의 암갈색 화살통",
+      "陷捕者的暗棕色箭袋",
+      "捕兽者的深棕箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251989,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Frostwolf Hunting Quiver",
+      "Carcaj de caza Lobo Gélido",
+      "Aljava de Caça do Lobo do Gelo",
+      "Frostwolf Hunting Quiver",
+      "Carcaj de caza Lobo Gélido",
+      "Carquois de chasse loup-de-givre",
+      "Охотничий колчан клана Северного Волка",
+      "Jagdköcher der Frostwölfe",
+      "Aljava de Caça do Lobo do Gelo",
+      "Faretra da Caccia dei Lupi Bianchi",
+      "서리늑대 사냥용 화살통",
+      "霜狼狩獵箭袋",
+      "霜狼狩猎箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251990,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trapper's Light Brown Quiver",
+      "Carcaj marrón suave de trampero",
+      "Aljava Marrom-claro do Armadilheiro",
+      "Trapper's Light Brown Quiver",
+      "Carcaj marrón claro de trampero",
+      "Carquois marron clair de trappeur",
+      "Светло-коричневый колчан зверолова",
+      "Hellbrauner Köcher des Fallenstellers",
+      "Aljava Marrom-claro do Armadilheiro",
+      "Faretra Marrone Chiaro del Mastro Bracconiere",
+      "덫사냥꾼의 연갈색 화살통",
+      "陷捕者的亮棕色箭袋",
+      "捕兽者的浅棕箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251991,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trapper's Red Quiver",
+      "Carcaj rojo de trampero",
+      "Aljava Vermelha do Armadilheiro",
+      "Trapper's Red Quiver",
+      "Carcaj rojo de trampero",
+      "Carquois rouge de trappeur",
+      "Красный колчан зверолова",
+      "Roter Köcher des Fallenstellers",
+      "Aljava Vermelha do Armadilheiro",
+      "Faretra Rossa del Mastro Bracconiere",
+      "덫사냥꾼의 붉은색 화살통",
+      "陷捕者的紅色箭袋",
+      "捕兽者的红色箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251992,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trapper's Purple Quiver",
+      "Carcaj púrpura de trampero",
+      "Aljava Roxa do Armadilheiro",
+      "Trapper's Purple Quiver",
+      "Carcaj morado de trampero",
+      "Carquois violet de trappeur",
+      "Фиолетовый колчан зверолова",
+      "Purpurner Köcher des Fallenstellers",
+      "Aljava Roxa do Armadilheiro",
+      "Faretra Viola del Mastro Bracconiere",
+      "덫사냥꾼의 보라색 화살통",
+      "陷捕者的紫色箭袋",
+      "捕兽者的紫色箭袋"
+    ],
+    "Media": "inv_quiver_1h_tribal_b_01.jpg"
+  },
+  {
+    "TagId": 251993,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gilded Starlight Matrix",
+      "Matriz de luz estelar dorada",
+      "Matriz de Luz Estelar Dourada",
+      "Gilded Starlight Matrix",
+      "Matriz de luz estelar dorada",
+      "Matrice de lumière stellaire dorée",
+      "Позолоченная матрица звездного света",
+      "Vergoldete Sternlichmatrix",
+      "Matriz de Luz Estelar Dourada",
+      "Matrice della Luce Stellare Dorata",
+      "금빛 별빛 매트릭스",
+      "鍍金星光矩陣",
+      "鎏金星光矩阵"
+    ],
+    "Media": "achievement_dungeon_ulduar77_heroic.jpg"
+  },
+  {
+    "TagId": 251994,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Runed Starlight Matrix",
+      "Matriz de luz estelar rúnica",
+      "Matriz de Luz Estelar Rúnica",
+      "Runed Starlight Matrix",
+      "Matriz de luz estelar con runas",
+      "Matrice de lumière stellaire runique",
+      "Руническая матрица звездного света",
+      "Runenverzierte Sternlichmatrix",
+      "Matriz de Luz Estelar Rúnica",
+      "Matrice della Luce Stellare Runica",
+      "룬새김 별빛 매트릭스",
+      "符文星光矩陣",
+      "符文星光矩阵"
+    ],
+    "Media": "achievement_dungeon_ulduar77_normal.jpg"
+  },
+  {
+    "TagId": 251999,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Flawed Felfire Crystal",
+      "Cristal de fuego vil imperfecto",
+      "Cristal de Fogovil Defeituoso",
+      "Flawed Felfire Crystal",
+      "Cristal de fuego vil imperfecto",
+      "Cristal gangrefeu imparfait",
+      "Треснувший кристалл огня Скверны",
+      "Fehlerhafter Teufelsfeuerkristall",
+      "Cristal de Fogovil Defeituoso",
+      "Cristallo di Vilfuoco Imperfetto",
+      "이 빠진 지옥불 수정",
+      "受損魔火水晶",
+      "瑕疵的邪火水晶"
+    ],
+    "Media": "inv_stone_weightstone_08.jpg"
   }
 ]

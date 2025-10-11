@@ -4561,15 +4561,15 @@
     "TagType": 21,
     "Names": [
       null,
-      "Untethered Captain' s Greaves",
+      "Untethered Captain's Greaves",
       "Grebas de capitán desatado",
-      "Grevas do Capitão Desprendido",
-      "Untethered Captain' s Greaves",
+      "Grevas de Capitão Desprendido",
+      "Untethered Captain's Greaves",
       "Grebas de capitán desvinculado",
-      "Grèves de capitaine détaché",
+      "Grèves de capitaine détachées",
       "Наголенники неприкаянного капитана",
       "Beinschützer des ungebundenen Hauptmanns",
-      "Grevas do Capitão Desprendido",
+      "Grevas de Capitão Desprendido",
       "Gambiere Rinforzate del Capitano Slegato",
       "풀어헤쳐진 대장의 경갑",
       "離繫隊長護脛",
@@ -7014,6 +7014,69 @@
     "Media": "inv_cloth_raidwarlockt2_d_01_robe.jpg"
   },
   {
+    "TagId": 244449,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Set Keystone Map: Black Rook Hold",
+      "Establecer mapa de piedra angular: Fuerte Torre Oscura",
+      "Definir Mapa da Pedra-chave: Castelo Corvo Negro",
+      "Set Keystone Map: Black Rook Hold",
+      "Establecer mapa de piedra angular: Torreón Grajo Negro",
+      "Lier la clé mythique au donjon Bastion du Freux",
+      "Подземелье ключа: крепость Черной Ладьи",
+      "Schlüsselsteinkarte festlegen: Rabenwehr",
+      "Definir Mapa da Pedra-chave: Castelo Corvo Negro",
+      "Impostazione Mappa Chiave del Potere: Forte Corvonero",
+      "쐐기돌 지도 설정: 검은 떼까마귀 요새",
+      "設定鑰石地圖：玄鴉堡",
+      "设置钥石地图：黑鸦堡垒"
+    ],
+    "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
+    "TagId": 244457,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Keystone Container",
+      "Contenedor de piedra angular",
+      "Recipiente de Pedra-chave",
+      "Keystone Container",
+      "Contenedor de piedra angular",
+      "Coffret de clé",
+      "Контейнер с эпохальным ключом",
+      "Schlüsselsteinbehälter",
+      "Recipiente de Pedra-chave",
+      "Contenitore di Chiavi del Potere",
+      "쐐기돌 용기",
+      "鑰石箱",
+      "钥石箱"
+    ],
+    "Media": "achievement_challengemode_gold.jpg"
+  },
+  {
+    "TagId": 244458,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Add Keystone Affix: Sands of Time",
+      "Agregar afijo de piedra angular: Arenas del tiempo",
+      "Acrescentar Afixo de Pedra-chave: Areias do Tempo",
+      "Add Keystone Affix: Sands of Time",
+      "Añadir afijo de piedra angular: Arenas del tiempo",
+      "Ajouter l’affixe Sables du temps à la clé mythique",
+      "Добавить свойство ключа \"Пески времени\"",
+      "Schlüsselsteinaffix hinzufügen: Sande der Zeit",
+      "Acrescentar Afixo de Pedra-chave: Areias do Tempo",
+      "Aggiunta Modificatore Chiave del Potere: Sabbie del Tempo",
+      "쐐기돌 속성 추가: 시간의 모래",
+      "加上鑰石強化：時間之沙",
+      "添加钥石词缀：时间之沙"
+    ],
+    "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
     "TagId": 244461,
     "TagType": 21,
     "Names": [
@@ -8715,6 +8778,27 @@
     "Media": "inv_wand_1h_430nightelf_c_01.jpg"
   },
   {
+    "TagId": 244668,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 244680,
     "TagType": 21,
     "Names": [
@@ -10099,6 +10183,69 @@
       "夺目速度之靴"
     ],
     "Media": "inv_boots_02.jpg"
+  },
+  {
+    "TagId": 244862,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token",
+      null,
+      "[DNT] Small Bronze Token",
+      "[DNT] Small Bronze Token"
+    ],
+    "Media": "inv_misc_coin_16.jpg"
+  },
+  {
+    "TagId": 244863,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token",
+      null,
+      "[DNT] Large Bronze Token",
+      "[DNT] Large Bronze Token"
+    ],
+    "Media": "inv_misc_coin_06.jpg"
+  },
+  {
+    "TagId": 244864,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token",
+      null,
+      "[DNT] Gathering Token",
+      "[DNT] Gathering Token"
+    ],
+    "Media": "inv_misc_coinbag04.jpg"
   },
   {
     "TagId": 244865,

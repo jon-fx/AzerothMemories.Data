@@ -9681,6 +9681,27 @@
     "Media": "inv_misc_book_09.jpg"
   },
   {
+    "TagId": 235630,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Runespeaker Wraps",
+      "Conjunto: Sobrevestes de hablarrunas",
+      "Indumentária: Ataduras do Voz-das-runas",
+      "Ensemble: Runespeaker Wraps",
+      "Indumentaria: Envolturas de hablarrunas",
+      "Ensemble\u00A0: houppelandes de parle-runes",
+      "Комплект: покровы заклинателя рун",
+      "Ensemble: Runensprecher-Tücher",
+      "Indumentária: Ataduras do Voz-das-runas",
+      "Set: Fasciature dell'Oratore Runico",
+      "복장: 룬예언자 싸개",
+      "套裝：符文語者裹布",
+      "套装：符语者的罩袍"
+    ],
+    "Media": "inv_cape_cloth_vrykulcaster_b_01.jpg"
+  },
+  {
     "TagId": 235631,
     "TagType": 21,
     "Names": [
@@ -9695,7 +9716,7 @@
       "[NOT USED] Mysterious Large Satchel of Goodies",
       "[NOT USED] Mysterious Large Satchel of Goodies",
       "[NOT USED] Mysterious Large Satchel of Goodies",
-      "[NOT USED] Mysterious Large Satchel of Goodies",
+      null,
       "[NOT USED] Mysterious Large Satchel of Goodies",
       "[NOT USED] Mysterious Large Satchel of Goodies"
     ],
@@ -13619,7 +13640,7 @@
       "Tomo etéreo de conocimientos de herrería",
       "Tome éthérien de connaissance de la forge",
       "Астральный том со знаниями кузнечного дела",
-      "Astraler Foliant des Kürschnereiwissens",
+      "Astraler Foliant des Schmiedekunstwissens",
       "Tomo Etéreo de Conhecimento de Ferraria",
       "Tomo Etereo di Conoscenza di Forgiatura",
       "대장기술 지식의 에테리얼 고서",
@@ -13753,6 +13774,195 @@
       "压制陷阱"
     ],
     "Media": "item_enchantedpearl.jpg"
+  },
+  {
+    "TagId": 235900,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Chestguard",
+      "Coselete forjado en oro sagrado",
+      "Couraça Forjada a Ouro Sagrada",
+      "Holy Goldforged Chestguard",
+      "Coselete forjado en oro Sagrado",
+      "Corselet sacré de forge-d’or",
+      "Священный златокованный нагрудник",
+      "Heiliger goldgeschmiedeter Brustschutz",
+      "Couraça Forjada a Ouro Sagrada",
+      "Corazza Foderata Sacra Oroforgiata",
+      "신성한 황금단조 가슴보호대",
+      "神聖金鑄護胸",
+      "神圣金铸胸甲"
+    ],
+    "Media": "inv_armor_chest_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235901,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Gorget",
+      "Gorjal forjado en oro sagrado",
+      "Gorjal Forjado a Ouro Sagrado",
+      "Holy Goldforged Gorget",
+      "Gorjal forjado en oro Sagrado",
+      "Gorgerin sacré de forge-d’or",
+      "Священный златокованный воротник",
+      "Heilige goldgeschmiedete Halskrause",
+      "Gorjal Forjado a Ouro Sagrado",
+      "Gorgiera Sacra Oroforgiata",
+      "신성한 황금단조 목가리개",
+      "神聖金鑄頸圈",
+      "神圣金铸项饰"
+    ],
+    "Media": "inv_armor_helmet_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235902,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Pauldrons",
+      "Espaldares forjados en oro sagrado",
+      "Brafoneiras Forjadas a Ouro Sagradas",
+      "Holy Goldforged Pauldrons",
+      "Espaldares forjados en oro Sagrados",
+      "Espauliers sacrés de forge-d’or",
+      "Священное златокованное наплечье",
+      "Heilige goldgeschmiedete Schulterstücke",
+      "Brafoneiras Forjadas a Ouro Sagradas",
+      "Paraspalle Sacri Oroforgiati",
+      "신성한 황금단조 견갑",
+      "神聖金鑄肩鎧",
+      "神圣金铸肩甲"
+    ],
+    "Media": "inv_armor_shoulder_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235903,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gold Lightforged Chestguard",
+      "Coselete templeluz dorado",
+      "Couraça Forjada a Luz Dourada",
+      "Gold Lightforged Chestguard",
+      "Coselete forjado por la Luz de oro",
+      "Corselet sancteforge en or",
+      "Золотой нагрудный доспех озаренных",
+      "Goldener lichtgeschmiedeter Brustschutz",
+      "Couraça Forjada a Luz Dourada",
+      "Corazza Foderata dei Forgialuce Dorata",
+      "황금 빛벼림 가슴보호대",
+      "黃金光鑄護胸",
+      "黄金光铸胸甲"
+    ],
+    "Media": "inv_armor_chest_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235904,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Gloves",
+      "Guantes forjados en oro sagrado",
+      "Luvas Forjadas a Ouro Sagradas",
+      "Holy Goldforged Gloves",
+      "Guantes forjados en oro Sagrados",
+      "Gants sacrés de forge-d’or",
+      "Священные златокованные перчатки",
+      "Heilige goldgeschmiedete Handschuhe",
+      "Luvas Forjadas a Ouro Sagradas",
+      "Guanti Sacri Oroforgiati",
+      "신성한 황금단조 장갑",
+      "神聖金鑄手套",
+      "神圣金铸手套"
+    ],
+    "Media": "inv_armor_glove_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235905,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Girdle",
+      "Faja forjada en oro sagrado",
+      "Cinturão Forjado a Ouro Sagrado",
+      "Holy Goldforged Girdle",
+      "Faja forjada en oro Sagrada",
+      "Ceinturon sacré de forge-d’or",
+      "Священный златокованный ремень",
+      "Heiliger goldgeschmiedeter Gurt",
+      "Cinturão Forjado a Ouro Sagrado",
+      "Cinturone Sacro Oroforgiato",
+      "신성한 황금단조 요대",
+      "神聖金鑄束腰",
+      "神圣金铸腰带"
+    ],
+    "Media": "inv_armor_belt_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235906,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Legplates",
+      "Quijotes forjados en oro sagrado",
+      "Coxotes Forjados a Ouro Sagrados",
+      "Holy Goldforged Legplates",
+      "Quijotes forjados en oro Sagrados",
+      "Cuissards sacrés de forge-d’or",
+      "Священные златокованные ножные латы",
+      "Heilige goldgeschmiedete Beinplatten",
+      "Coxotes Forjados a Ouro Sagrados",
+      "Gambali Corazzati Sacri Oroforgiati",
+      "신성한 황금단조 다리갑옷",
+      "神聖金鑄腿鎧",
+      "神圣金铸腿甲"
+    ],
+    "Media": "inv_armor_pants_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235907,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Hoofguards",
+      "Guardapezuñas forjados en oro sagrado",
+      "Protetores de Casco Forjados a Ouro Sagrados",
+      "Holy Goldforged Hoofguards",
+      "Guardapezuñas forjadas en oro Sagradas",
+      "Garde-sabots sacrés de forge-d’or",
+      "Священные златокованные накопытники",
+      "Heilige goldgeschmiedete Hufschützer",
+      "Protetores de Casco Forjados a Ouro Sagrados",
+      "Parazoccoli Sacri Oroforgiati",
+      "신성한 황금단조 발굽보호대",
+      "神聖金鑄護蹄",
+      "神圣金铸护蹄"
+    ],
+    "Media": "inv_armor_boot_lightforgeddraenei_d_01.jpg"
+  },
+  {
+    "TagId": 235908,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Holy Goldforged Bracers",
+      "Brazales forjados en oro sagrado",
+      "Braçadeiras Forjadas a Ouro Sagradas",
+      "Holy Goldforged Bracers",
+      "Brazales forjados en oro Sagrados",
+      "Brassards sacrés de forge-d’or",
+      "Священные златокованные наручи",
+      "Heilige goldgeschmiedete Armschienen",
+      "Braçadeiras Forjadas a Ouro Sagradas",
+      "Bracciali Sacri Oroforgiati",
+      "신성한 황금단조 팔보호구",
+      "神聖金鑄護腕",
+      "神圣金铸护腕"
+    ],
+    "Media": "inv_armor_bracer_lightforgeddraenei_d_01.jpg"
   },
   {
     "TagId": 235909,

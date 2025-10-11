@@ -5588,7 +5588,7 @@
       "\"Ecologista\" %s",
       "\"Conservacionista\" %s",
       "\"Conservationist\" %s",
-      "\"Conservacionista\" %s",
+      "Conservacionista %s",
       "«\u00A0Écologiste\u00A0» %s",
       "\"Борец за охрану природы\" %s",
       "\"Restaurator\" %s",
@@ -12580,6 +12580,46 @@
     ]
   },
   {
+    "TagId": 925,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Khaz Algar Enthusiast %s",
+      "Entusiasta de Khaz Algar %s",
+      "Entusiasta de Khaz Algar%s",
+      "Khaz Algar Enthusiast %s",
+      "%s, Entusiasta de Khaz Algar",
+      "Féru de Khaz Algar %s",
+      "%s, любитель Каз Алгара",
+      "Enthusiast von Khaz Algar %s",
+      "Entusiasta de Khaz Algar%s",
+      "Entusiasta di Khaz Algar %s",
+      "카즈 알가르 애호가 %s",
+      "卡茲阿爾加愛好者%s",
+      "卡兹阿加爱好者 %s"
+    ]
+  },
+  {
+    "TagId": 926,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Chronoscholar %s",
+      "Cronoerudito %s",
+      "Cronoerudito %s",
+      "Chronoscholar %s",
+      "Cronoerudito %s",
+      "Érudit temporel %s",
+      "Хрономудрец %s",
+      "Chronogelehrter %s",
+      "Cronoerudito %s",
+      "Cronostudioso %s",
+      "시간의 학자 %s",
+      "時光學者%s",
+      "时序学者 %s"
+    ]
+  },
+  {
     "TagId": 927,
     "TagType": 31,
     "Names": [
@@ -12657,6 +12697,46 @@
       "구렁 탐험가 %s",
       "探究者%s",
       "地下堡行者 %s"
+    ]
+  },
+  {
+    "TagId": 970,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Infernal",
+      "%s, el Infernal",
+      "%s o Infernal",
+      "%s the Infernal",
+      "%s el Infernal",
+      "%s l’infernal",
+      "%s Инфернальный",
+      "%s, der Höllische",
+      "%s o Infernal",
+      "%s l'Infernale",
+      "불지옥의 %s",
+      "煉獄火%s",
+      "狱火使者 %s"
+    ]
+  },
+  {
+    "TagId": 971,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s of the Infinite Chaos",
+      "%s, del Caos Infinito",
+      "%s do Caos Infinito",
+      "%s of the Infinite Chaos",
+      "%s del Caos Infinito",
+      "%s du chaos infini",
+      "%s Бесконечного хаоса",
+      "%s des ewigen Chaos",
+      "%s do Caos Infinito",
+      "%s del Caos Infinito",
+      "무한한 혼돈의 %s",
+      "無盡混沌者%s",
+      "永恒混乱的 %s"
     ]
   }
 ]
