@@ -1846,5 +1846,89 @@
       "《魔兽世界》二十一周年"
     ],
     "Media": "inv_misc_celebrationcake_01.jpg"
+  },
+  {
+    "TagId": 61874,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Unbound Tank",
+      "El tanque imparable",
+      "O tanque desatado",
+      "The Unbound Tank",
+      "El tanque desvinculado",
+      "Tank délié",
+      "Неприкаянный танк",
+      "Der ungebundene Tank",
+      "O tanque desatado",
+      "Il difensore svincolato",
+      "풀어헤쳐진 방어 담당",
+      "無縛坦克",
+      "无拘坦克"
+    ],
+    "Media": "inv_shield_05.jpg"
+  },
+  {
+    "TagId": 61875,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Unbound Healer",
+      "El sanador imparable",
+      "O curandeiro desatado",
+      "The Unbound Healer",
+      "El sanador desvinculado",
+      "Guérisseur délié",
+      "Неприкаянный лекарь",
+      "Der ungebundene Heiler",
+      "O curandeiro desatado",
+      "Il guaritore svincolato",
+      "풀어헤쳐진 치유 담당",
+      "無縛治療者",
+      "无拘治疗者"
+    ],
+    "Media": "petbattle_health.jpg"
+  },
+  {
+    "TagId": 61876,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Unbound Damage Dealer",
+      "El infligidor de daño imparable",
+      "O causador de dano desatado",
+      "The Unbound Damage Dealer",
+      "El DPS desvinculado",
+      "DPS délié",
+      "Неприкаянный боец",
+      "Die ungebundene Schadensklasse",
+      "O causador de dano desatado",
+      "L'assaltatore svincolato",
+      "풀어헤쳐진 공격 담당",
+      "無縛傷害輸出",
+      "无拘伤害输出者"
+    ],
+    "Media": "ability_dualwield.jpg"
+  },
+  {
+    "TagId": 61877,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Unbound Dungeon Master",
+      "El amo de calabozos imparable",
+      "O mestre das masmorras desatado",
+      "The Unbound Dungeon Master",
+      "El maestro de mazmorras desatado",
+      "Maîtrise des donjons déliée",
+      "Неприкаянный покоритель подземелий",
+      "Der ungebundene Dungeonmeister",
+      "O mestre das masmorras desatado",
+      "Maestro delle spedizioni svincolato",
+      "풀어헤쳐진 던전의 지배자",
+      "無縛地城大師",
+      "无拘地下城大师"
+    ],
+    "Media": "achievement_dungeon_heroic_gloryoftheraider.jpg"
   }
 ]
