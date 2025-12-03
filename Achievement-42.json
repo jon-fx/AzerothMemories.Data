@@ -1170,7 +1170,7 @@
       "Me deixa solar: Princesa do Nexus Ky'veza",
       "A lei ci penso io: Principessa del Nexus Ky'veza",
       "솔플 가능? 가능!: 연합공작 카이베자",
-      "讓我單挑她：奧核公主奇維扎",
+      "讓我單挑她：奈薩斯公主奇維扎",
       "前有单挑：节点女亲王凯威扎"
     ],
     "Media": "inv_airshipmountethereal.jpg"
@@ -1195,6 +1195,27 @@
       "存放无忧"
     ],
     "Media": "inv_cape_special_treasure_c_01.jpg"
+  },
+  {
+    "TagId": 42192,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Snowball Fight!",
+      "¡Guerra de nieve!",
+      "Guerra de bola de neve!",
+      "Snowball Fight!",
+      "¡Pelea de bolas de nieve!",
+      "Bataille de boules de neige\u00A0!",
+      "Поиграем в снежки!",
+      "Schneeballschlacht!",
+      "Guerra de bola de neve!",
+      "Palle di neve!",
+      "눈덩이 싸움!",
+      "雪球大戰！",
+      "雪球大战！"
+    ],
+    "Media": "inv_holiday_christmas_present_01.jpg"
   },
   {
     "TagId": 42193,
@@ -1867,6 +1888,531 @@
       "过载地下堡行者"
     ],
     "Media": "inv_trinket_80_titan01b.jpg"
+  },
+  {
+    "TagId": 42270,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Deathlord's Campaign",
+      "Campaña del señor de la muerte",
+      "A campanha do Senhor da Morte",
+      "The Deathlord's Campaign",
+      "La campaña del señor de la Muerte",
+      "La campagne du seigneur de la mort",
+      "Кампания владыки смерти",
+      "Die Kampagne des Todesgebieters",
+      "A campanha do Senhor da Morte",
+      "La campagna del signore della ,orte",
+      "죽음군주의 대장정",
+      "死亡領主戰役",
+      "死亡领主的战役"
+    ],
+    "Media": "spell_deathknight_armyofthedead.jpg"
+  },
+  {
+    "TagId": 42271,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Slayer's Campaign",
+      "Campaña del destripador",
+      "A campanha do Matador",
+      "The Slayer's Campaign",
+      "La campaña del asesino",
+      "La campagne meurtrière",
+      "Кампания истребителя",
+      "Die Kampagne des Rächers",
+      "A campanha do Matador",
+      "La campagna del flagello dei demoni",
+      "학살자의 대장정",
+      "斬魔者戰役",
+      "屠魔者的战役"
+    ],
+    "Media": "ability_demonhunter_glide.jpg"
+  },
+  {
+    "TagId": 42272,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Archdruid's Campaign",
+      "Campaña del archidruida",
+      "A campanha do Arquidruida",
+      "The Archdruid's Campaign",
+      "La campaña del archidruida",
+      "La campagne de l’archidruide",
+      "Кампания верховного друида",
+      "Die Kampagne des Erzdruiden",
+      "A campanha do Arquidruida",
+      "La campagna dell'arcidruido",
+      "대드루이드의 대장정",
+      "大德魯伊戰役",
+      "大德鲁伊的战役"
+    ],
+    "Media": "spell_arcane_teleportmoonglade.jpg"
+  },
+  {
+    "TagId": 42273,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Huntmaster's Campaign",
+      "Campaña del maestro de la caza",
+      "A campanha do Mestre da Caça",
+      "The Huntmaster's Campaign",
+      "La campaña del maestro de caza",
+      "La campagne de la chasse",
+      "Кампания верховного следопыта",
+      "Die Kampagne des Meisterjägers",
+      "A campanha do Mestre da Caça",
+      "La campagna del maestro cacciatore",
+      "사냥지배자의 대장정",
+      "狩獵大師戰役",
+      "狩猎大师的战役"
+    ],
+    "Media": "achievement_doublejeopardy.jpg"
+  },
+  {
+    "TagId": 42274,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Archmage's Campaign",
+      "Campaña del archimago",
+      "A campanha do Arquimago",
+      "The Archmage's Campaign",
+      "La campaña del archimago",
+      "La campagne de l’archimage",
+      "Кампания верховного мага",
+      "Die Kampagne des Erzmagiers",
+      "A campanha do Arquimago",
+      "La campagna dell'arcimago",
+      "대마법사의 대장정",
+      "大法師戰役",
+      "大法师的战役"
+    ],
+    "Media": "inv_legion_faction_kirintor.jpg"
+  },
+  {
+    "TagId": 42275,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Grandmaster's Campaign",
+      "Campaña del gran maestro",
+      "A campanha do Grão-mestre",
+      "The Grandmaster's Campaign",
+      "La campaña del gran maestro",
+      "La campagne de grand maître",
+      "Кампания великого мастера",
+      "Die Kampagne des Großmeisters",
+      "A campanha do Grão-mestre",
+      "La campagna del gran maestro",
+      "대사부의 대장정",
+      "宗師戰役",
+      "大宗师的战役"
+    ],
+    "Media": "monk_ability_transcendence.jpg"
+  },
+  {
+    "TagId": 42276,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Highlord's Campaign",
+      "Campaña del alto señor",
+      "A campanha do Grão-lorde",
+      "The Highlord's Campaign",
+      "La campaña del alto señor",
+      "La campagne du généralissime",
+      "Кампания верховного лорда",
+      "Der Kampagne des Hochlords",
+      "A campanha do Grão-lorde",
+      "La campagna del gran signore",
+      "대영주의 대장정",
+      "大領主戰役",
+      "大领主的战役"
+    ],
+    "Media": "ability_paladin_intercession.jpg"
+  },
+  {
+    "TagId": 42277,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The High Priest's Campaign",
+      "Campaña del sumo sacerdote",
+      "A campanha do Sumo Sacerdote",
+      "The High Priest's Campaign",
+      "La campaña del sumo sacerdote",
+      "La campagne de la grande prêtrise",
+      "Кампания верховного жреца",
+      "Die Kampagne des Hohepriesters",
+      "A campanha do Sumo Sacerdote",
+      "La campagna del gran Sacerdote",
+      "대사제의 대장정",
+      "高階牧師戰役",
+      "大祭司的战役"
+    ],
+    "Media": "ability_priest_ascension.jpg"
+  },
+  {
+    "TagId": 42279,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Shadowblade's Campaign",
+      "Campaña de la hoja de las sombras",
+      "A campanha do Umbralâmina",
+      "The Shadowblade's Campaign",
+      "La campaña de la Hoja de las Sombras",
+      "La campagne de la lame-de-l’ombre",
+      "Кампания теневого клинка",
+      "Die Kampagne der Schattenklinge",
+      "A campanha do Umbralâmina",
+      "La campagna della Lama dell'Ombra",
+      "그림자칼날의 대장정",
+      "影尊戰役",
+      "暗影之刃的战役"
+    ],
+    "Media": "ability_rogue_nightblade.jpg"
+  },
+  {
+    "TagId": 42280,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Farseer's Campaign",
+      "Campaña del clarividente",
+      "A campanha da clarividência",
+      "The Farseer's Campaign",
+      "La campaña del clarividente",
+      "La campagne du long-voyant",
+      "Кампания предсказателя",
+      "Die Kampagne des Scharfsehers",
+      "A campanha da clarividência",
+      "La campagna del chiaroveggente",
+      "선견자의 대장정",
+      "先知戰役",
+      "先知的战役"
+    ],
+    "Media": "ability_shaman_echooftheelements.jpg"
+  },
+  {
+    "TagId": 42281,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Netherlord's Campaign",
+      "Campaña del señor abisal",
+      "A campanha do Senhor do Éter",
+      "The Netherlord's Campaign",
+      "La campaña del señor abisal",
+      "La campagne de l’âme du Néant",
+      "Кампания повелителя Пустоты",
+      "Der Kampagne des Netherlords",
+      "A campanha do Senhor do Éter",
+      "La campagna del signore del Fatuo",
+      "황천군주의 대장정",
+      "虛空領主戰役",
+      "虚空之王的战役"
+    ],
+    "Media": "classicon_warlock.jpg"
+  },
+  {
+    "TagId": 42282,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Battlelord's Campaign",
+      "Campaña del señor de la batalla",
+      "A campanha do Senhor da Batalha",
+      "The Battlelord's Campaign",
+      "La campaña del señor de la batalla",
+      "La campagne de la seigneurie de bataille",
+      "Кампания воеводы",
+      "Der Kampagne des Schlachtenfürsten",
+      "A campanha do Senhor da Batalha",
+      "La campagna del signore della battaglia",
+      "전투군주의 대장정",
+      "戰鬥領主戰役",
+      "战争领主的战役"
+    ],
+    "Media": "inv_legion_faction_valarjar.jpg"
+  },
+  {
+    "TagId": 42287,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Deathlord",
+      "Potencial oculto del señor de la muerte",
+      "Potencial oculto do Senhor da Morte",
+      "Hidden Potential of the Deathlord",
+      "Potencial oculto del señor de la Muerte",
+      "Potentiel caché de la mort",
+      "Скрытый потенциал владыки смерти",
+      "Verstecktes Potenzial des Todesgebieters",
+      "Potencial oculto do Senhor da Morte",
+      "Potenziale nascosto del signore della morte",
+      "죽음군주의 숨겨진 잠재력",
+      "死亡領主潛能",
+      "死亡领主潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42288,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Slayer",
+      "Potencial oculto del destripador",
+      "Potencial oculto do Matador",
+      "Hidden Potential of the Slayer",
+      "Potencial oculto del asesino",
+      "Potentiel caché meurtrier",
+      "Скрытый потенциал истребителя",
+      "Verstecktes Potenzial des Rächers",
+      "Potencial oculto do Matador",
+      "Potenziale nascosto del flagello dei demoni",
+      "학살자의 숨겨진 잠재력",
+      "斬魔者潛能",
+      "屠魔者潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42289,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Archdruid",
+      "Potencial oculto del archidruida",
+      "Potencial oculto do Arquidruida",
+      "Hidden Potential of the Archdruid",
+      "Potencial oculto del archidruida",
+      "Potentiel caché de l’archidruidisme",
+      "Скрытый потенциал верховного друида",
+      "Verstecktes Potenzial des Erzdruiden",
+      "Potencial oculto do Arquidruida",
+      "Potenziale nascosto dell'arcidruido",
+      "대드루이드의 숨겨진 잠재력",
+      "大德魯伊潛能",
+      "大德鲁伊潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42290,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Huntmaster",
+      "Potencial oculto del maestro de caza",
+      "Potencial oculto do Mestre da Caça",
+      "Hidden Potential of the Huntmaster",
+      "Potencial oculto del maestro de caza",
+      "Potentiel caché de la chasse",
+      "Скрытый потенциал верховного следопыта",
+      "Verstecktes Potenzial des Meisterjägers",
+      "Potencial oculto do Mestre da Caça",
+      "Potenziale nascosto del maestro cacciatore",
+      "사냥지배자의 숨겨진 잠재력",
+      "狩獵大師潛能",
+      "狩猎大师潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42291,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Archmage",
+      "Potencial oculto del archimago",
+      "Potencial oculto do Arquimago",
+      "Hidden Potential of the Archmage",
+      "Potencial oculto del archimago",
+      "Potentiel caché de l’archimage",
+      "Скрытый потенциал верховного мага",
+      "Verstecktes Potenzial des Erzmagiers",
+      "Potencial oculto do Arquimago",
+      "Potenziale nascosto dell'arcimago",
+      "대마법사의 숨겨진 잠재력",
+      "大法師潛能",
+      "大法师潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42292,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Grandmaster",
+      "Potencial oculto del gran maestro",
+      "Potencial oculto do Grão-mestre",
+      "Hidden Potential of the Grandmaster",
+      "Potencial oculto del gran maestro",
+      "Potentiel caché de grand maître",
+      "Скрытый потенциал великого мастера",
+      "Verstecktes Potenzial des Großmeisters",
+      "Potencial oculto do Grão-mestre",
+      "Potenziale nascosto del gran maestro",
+      "대사부의 숨겨진 잠재력",
+      "宗師潛能",
+      "大宗师潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42293,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Highlord",
+      "Potencial oculto del alto señor",
+      "Potencial oculto do Grão-lorde",
+      "Hidden Potential of the Highlord",
+      "Potencial oculto del alto señor",
+      "Potentiel caché de généralissime",
+      "Скрытый потенциал верховного лорда",
+      "Verstecktes Potenzial des Hochlords",
+      "Potencial oculto do Grão-lorde",
+      "Potenziale nascosto del gran signore",
+      "대영주의 숨겨진 잠재력",
+      "大領主潛能",
+      "大领主潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42294,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the High Priest",
+      "Potencial oculto del sumo sacerdote",
+      "Potencial oculto do Sumo Sacerdote",
+      "Hidden Potential of the High Priest",
+      "Potencial oculto del sumo sacerdote",
+      "Potentiel caché de grande prêtrise",
+      "Скрытый потенциал верховного жреца",
+      "Verstecktes Potenzial des Hohepriesters",
+      "Potencial oculto do Sumo Sacerdote",
+      "Potenziale nascosto del gran Sacerdote",
+      "대사제의 숨겨진 잠재력",
+      "高階牧師潛能",
+      "大祭司潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42295,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Shadowblade",
+      "Potencial oculto de la hoja de las sombras",
+      "Potencial oculto do Umbralâmina",
+      "Hidden Potential of the Shadowblade",
+      "Potencial oculto de la Hoja de las Sombras",
+      "Potentiel caché de la lame-de-l’ombre",
+      "Скрытый потенциал теневого клинка",
+      "Verstecktes Potenzial der Schattenklinge",
+      "Potencial oculto do Umbralâmina",
+      "Potenziale nascosto della Lama dell'Ombra",
+      "그림자칼날의 숨겨진 잠재력",
+      "影尊潛能",
+      "暗影之刃潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42296,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Farseer",
+      "Potencial oculto del clarividente",
+      "Potencial oculto do Clarividente",
+      "Hidden Potential of the Farseer",
+      "Potencial oculto del clarividente",
+      "Potentiel caché de longue vue",
+      "Скрытый потенциал предсказателя",
+      "Verstecktes Potenzial des Scharfsehers",
+      "Potencial oculto do Clarividente",
+      "Potenziale nascosto del chiaroveggente",
+      "선견자의 숨겨진 잠재력",
+      "先知潛能",
+      "先知潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42297,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Netherlord",
+      "Potencial oculto del señor abisal",
+      "Potencial oculto do Senhor do Éter",
+      "Hidden Potential of the Netherlord",
+      "Potencial oculto del señor abisal",
+      "Potentiel caché de l’âme du Néant",
+      "Скрытый потенциал повелителя Пустоты",
+      "Verstecktes Potenzial des Netherlords",
+      "Potencial oculto do Senhor do Éter",
+      "Potenziale nascosto del signore del Fatuo",
+      "황천군주의 숨겨진 잠재력",
+      "虛空領主潛能",
+      "虚空之王潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42298,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hidden Potential of the Battlelord",
+      "Potencial oculto del señor de la batalla",
+      "Potencial oculto do Senhor da Batalha",
+      "Hidden Potential of the Battlelord",
+      "Potencial oculto del señor de la batalla",
+      "Potentiel caché de la seigneurie de bataille",
+      "Скрытый потенциал воеводы",
+      "Verstecktes Potenzial des Schlachtenfürsten",
+      "Potencial oculto do Senhor da Batalha",
+      "Potenziale nascosto del signore della battaglia",
+      "전투군주의 숨겨진 잠재력",
+      "戰鬥領主",
+      "战争领主潜能无限"
+    ],
+    "Media": "achievement_bg_abshutout.jpg"
+  },
+  {
+    "TagId": 42299,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Visions of a Shadowed Sun",
+      "Visiones de un sol ensombrecido",
+      "Visões de um Sol Encoberto",
+      "Visions of a Shadowed Sun",
+      "Visiones de un sol ensombrecido",
+      "Visions d’un soleil occulté",
+      "Образ затемненного солнца",
+      "Visionen einer verdunkelten Sonne",
+      "Visões de um Sol Encoberto",
+      "Visioni di un sole adombrato",
+      "어둠에 물든 태양의 환영",
+      "影陽幻象",
+      "暗影蔽日的幻象"
+    ],
+    "Media": "inv_sword_1h_voidelf_d_01.jpg"
   },
   {
     "TagId": 42301,
@@ -2722,7 +3268,7 @@
       "Локальные задания Расколотых островов II",
       "Weltquests der Verheerten Inseln II",
       "Missões Mundiais das Ilhas Partidas II",
-      "Missioni Mondiali sulle Isole Disperse II",
+      "Missioni mondiali sulle Isole Disperse II",
       "부서진 섬 전역 퀘스트 II",
       "破碎群島世界任務II",
       "破碎群岛世界任务 II"
@@ -2974,7 +3520,7 @@
       "Локальные задания Расколотых островов IV",
       "Weltquests der Verheerten Inseln IV",
       "Missões Mundiais das Ilhas Partidas IV",
-      "Missioni Mondiali sulle Isole Disperse IV",
+      "Missioni mondiali sulle Isole Disperse IV",
       "부서진 섬 전역 퀘스트 IV",
       "破碎群島世界任務IV",
       "破碎群岛世界任务 IV"
@@ -3100,7 +3646,7 @@
       "Локальные задания Расколотых островов III",
       "Weltquests der Verheerten Inseln III",
       "Missões Mundiais das Ilhas Partidas III",
-      "Missioni Mondiali sulle Isole Disperse III",
+      "Missioni mondiali sulle Isole Disperse III",
       "부서진 섬 전역 퀘스트 III",
       "破碎群島世界任務III",
       "破碎群岛世界任务 III"
@@ -4087,7 +4633,7 @@
       "Локальные задания Расколотых островов V",
       "Weltquests der Verheerten Inseln V",
       "Missões Mundiais das Ilhas Partidas V",
-      "Missioni Mondiali sulle Isole Disperse V",
+      "Missioni mondiali sulle Isole Disperse V",
       "부서진 섬 전역 퀘스트 V",
       "破碎群島世界任務V",
       "破碎群岛世界任务 V"

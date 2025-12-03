@@ -126,6 +126,111 @@
     "Media": "inv_wand_1h_arathoroutdoor_d_01.jpg"
   },
   {
+    "TagId": 241043,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elodor Barrel",
+      "Barril de Elodor",
+      "Barril de Elodor",
+      "Elodor Barrel",
+      "Barril de Elodar",
+      "Tonneau d’Élodor",
+      "Элодорская бочка",
+      "Fass aus Elodor",
+      "Barril de Elodor",
+      "Barile di Elodor",
+      "엘로도르 통",
+      "埃羅多爾桶子",
+      "艾洛多尔桶"
+    ],
+    "Media": "7416339.jpg"
+  },
+  {
+    "TagId": 241044,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Argussian Crate",
+      "Cajón argusiano",
+      "Caixote Argussiano",
+      "Argussian Crate",
+      "Cajón de Argus",
+      "Caisse argusséenne",
+      "Аргусский ящик",
+      "Kiste von Argus",
+      "Caixote Argussiano",
+      "Cassa Argussiana",
+      "아르거시안 상자",
+      "阿古斯貨箱",
+      "阿古斯箱子"
+    ],
+    "Media": "7416341.jpg"
+  },
+  {
+    "TagId": 241062,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lordaeron Rectangular Rug",
+      "Alfombra rectangular de Lordaeron",
+      "Tapete Retangular de Lordaeron",
+      "Lordaeron Rectangular Rug",
+      "Alfombra rectangular de Lordaeron",
+      "Tapis rectangulaire de Lordaeron",
+      "Лордеронский прямоугольный коврик",
+      "Rechteckiger Teppich aus Lordaeron",
+      "Tapete Retangular de Lordaeron",
+      "Tappeto Rettangolare di Lordaeron",
+      "로데론 직사강형 양탄자",
+      "羅德隆方形地毯",
+      "洛丹伦长方形毯子"
+    ],
+    "Media": "7416413.jpg"
+  },
+  {
+    "TagId": 241066,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forsaken Spiked Brazier",
+      "Brasero con pinchos renegado",
+      "Braseiro Espinhoso Renegado",
+      "Forsaken Spiked Brazier",
+      "Blandón con pinchos de los Renegados",
+      "Brasero réprouvé à pointes",
+      "Шипастая жаровня Отрекшихся",
+      "Stachelkohlenpfanne der Verlassenen",
+      "Braseiro Espinhoso Renegado",
+      "Braciere Chiodato dei Reietti",
+      "포세이큰 쐐기 화로",
+      "被遺忘者尖刺火盆",
+      "被遗忘者尖刺火盆"
+    ],
+    "Media": "7416431.jpg"
+  },
+  {
+    "TagId": 241067,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Large Forsaken Spiked Brazier",
+      "Brasero con pinchos renegado grande",
+      "Braseiro Espinhoso Renegado Grande",
+      "Large Forsaken Spiked Brazier",
+      "Blandón con pinchos de los Renegados grande",
+      "Grand brasero réprouvé à pointes",
+      "Большая шипастая жаровня Отрекшихся",
+      "Große Stachelkohlenpfanne der Verlassenen",
+      "Braseiro Espinhoso Renegado Grande",
+      "Braciere Chiodato dei Reietti Grande",
+      "대형 포세이큰 쐐기 화로",
+      "大型被遺忘者尖刺火盆",
+      "大型被遗忘者尖刺火盆"
+    ],
+    "Media": "7416435.jpg"
+  },
+  {
     "TagId": 241126,
     "TagType": 21,
     "Names": [
@@ -1537,19 +1642,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Ensemble: Fel-Marked Scales",
-      "Conjunto: Escamas marcadas por la vileza",
-      "Indumentária: Escamas da Marcavil",
-      "Ensemble: Fel-Marked Scales",
-      "Indumentaria: Escamas marcadas por la vileza",
-      "Ensemble\u00A0: écailles marquées par la corruption",
-      "Комплект: отмеченная Скверной чешуя",
-      "Ensemble: Teufelsgezeichnete Schuppen",
-      "Indumentária: Escamas da Marcavil",
-      "Set: Scaglie Vilmarchiate",
-      "복장: 지옥징표 비늘 방어구",
-      "套裝：魔化印記之鱗",
-      "套装：邪能印痕鳞甲"
+      "Ensemble: Tidecaller's Scales",
+      "Conjunto: Escamas del clamamareas",
+      "Indumentária: Escamas do Chamaré",
+      "Ensemble: Tidecaller's Scales",
+      "Indumentaria: escamas de clamamareas",
+      "Ensemble\u00A0: écailles de mande-flots",
+      "Комплект: чешуя призывателя приливов",
+      "Ensemble: Schuppen des Gezeitenrufers",
+      "Indumentária: Escamas do Chamaré",
+      "Set: Scaglie dell'Invocatore delle Maree",
+      "복장: 파도소환사의 비늘",
+      "套裝：喚潮者之鱗",
+      "套装：唤潮者的鳞甲"
     ],
     "Media": "inv_chest_mail_legionhonor_d_01.jpg"
   },
@@ -2062,10 +2167,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Ensemble: Wine-dark Royal Robes",
-      "Conjunto: Prendas reales vino oscuro",
+      "Ensemble: Wine-Dark Royal Robes",
+      "Conjunto: Togas reales vino oscuro",
       "Indumentária: Vestes Reais Vinho-escuras",
-      "Ensemble: Wine-dark Royal Robes",
+      "Ensemble: Wine-Dark Royal Robes",
       "Indumentaria: Togas reales tintas",
       "Ensemble\u00A0: robe de sombrevin royal",
       "Комплект: темно-бордовые королевские одеяния",
@@ -2601,7 +2706,7 @@
       "套裝：劫海者戰鬥裝束",
       "套装：海上奇兵的戎装"
     ],
-    "Media": "inv_chest_leather_27v1.jpg"
+    "Media": "inv_chest_leather_legiondungeon_c_01.jpg"
   },
   {
     "TagId": 241408,
@@ -6846,6 +6951,153 @@
     "Media": "achievement_goblinhead.jpg"
   },
   {
+    "TagId": 241617,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elegant Padded Chair",
+      "Silla acolchada elegante",
+      "Cadeira Acolchoada Elegante",
+      "Elegant Padded Chair",
+      "Silla acolchada elegante",
+      "Siège rembourré élégant",
+      "Элегантный мягкий стул",
+      "Eleganter gepolsterter Stuhl",
+      "Cadeira Acolchoada Elegante",
+      "Sedia Imbottita Elegante",
+      "품격 있는 안감 의자",
+      "優雅襯墊椅子",
+      "优雅的软垫椅子"
+    ],
+    "Media": "7416439.jpg"
+  },
+  {
+    "TagId": 241618,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elegant Padded Footstool",
+      "Apoyapiés acolchado elegante",
+      "Banqueta Acolchoada Elegante",
+      "Elegant Padded Footstool",
+      "Taburete de pie acolchado elegante",
+      "Repose-pieds rembourré élégant",
+      "Элегантный мягкий пуф",
+      "Eleganter gepolsterter Schemel",
+      "Banqueta Acolchoada Elegante",
+      "Poggiapiedi Imbottito Elegante",
+      "품격 있는 안감 받침대",
+      "優雅襯墊腳凳",
+      "优雅的软垫脚凳"
+    ],
+    "Media": "7416443.jpg"
+  },
+  {
+    "TagId": 241620,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Elegant Wooden Dresser",
+      "Cómoda de madera elegante",
+      "Cômoda de Madeira Elegante",
+      "Elegant Wooden Dresser",
+      "Cómoda de madera elegante",
+      "Penderie en bois élégante",
+      "Элегантный деревянный гардероб",
+      "Elegante Holzkommode",
+      "Cômoda de Madeira Elegante",
+      "Cassettone di Legno Elegante",
+      "품격 있는 목재 옷장",
+      "優雅木製衣櫃",
+      "优雅的木制衣柜"
+    ],
+    "Media": "7416447.jpg"
+  },
+  {
+    "TagId": 241621,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Small Elegant End Table",
+      "Rinconera pequeña elegante",
+      "Mesa de Canto Pequena Elegante",
+      "Small Elegant End Table",
+      "Mesilla elegante pequeña",
+      "Petite table d’appoint élégante",
+      "Небольшой элегантный приставной столик",
+      "Kleiner eleganter Beistelltisch",
+      "Mesa de Canto Pequena Elegante",
+      "Tavolino Elegante Piccolo",
+      "소형 품격 있는 협탁",
+      "小型優雅邊桌",
+      "小型优雅边桌"
+    ],
+    "Media": "7416451.jpg"
+  },
+  {
+    "TagId": 241622,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ornate Weapon Rack",
+      "Expositor de armas ornamentado",
+      "Cavalete de Armas Ornado",
+      "Ornate Weapon Rack",
+      "Expositor de armas ornamental",
+      "Râtelier d’armes ouvragé",
+      "Украшенная оружейная стойка",
+      "Verzierter Waffenständer",
+      "Cavalete de Armas Ornado",
+      "Rastrelliera delle Armi Adornata",
+      "화려한 무기 선반",
+      "華麗武器架",
+      "华丽的武器架"
+    ],
+    "Media": "7416455.jpg"
+  },
+  {
+    "TagId": 241623,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7416459.jpg"
+  },
+  {
+    "TagId": 241625,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7416467.jpg"
+  },
+  {
     "TagId": 241632,
     "TagType": 21,
     "Names": [
@@ -9181,19 +9433,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Fel-Marked Drape",
-      "Mantón marcado por la vileza",
-      "Clâmide Marcavil",
-      "Fel-Marked Drape",
-      "Mantón marcado por la vileza",
-      "Drapé marqué par la corruption",
-      "Отмеченные Скверной пелерина",
-      "Teufelsgezeichnetes Tuch",
-      "Clâmide Marcavil",
-      "Drappo Vilmarchiato",
-      "지옥징표 외투",
-      "魔化印記披氅",
-      "邪能印痕斗披"
+      "Tidecaller's Drape",
+      "Mantón del clamamareas",
+      "Clâmide do Chamaré",
+      "Tidecaller's Drape",
+      "Mantón de clamamareas",
+      "Drapé de mande-flots",
+      "Пелерина призывателя приливов",
+      "Tuch des Gezeitenrufers",
+      "Clâmide do Chamaré",
+      "Drappo dell'Invocatore delle Maree",
+      "파도소환사의 외투",
+      "喚潮者披氅",
+      "唤潮者的斗披"
     ],
     "Media": "inv_cape_legionhonor_d_04.jpg"
   },
@@ -9202,19 +9454,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Fel-Marked Draping Cloak",
-      "Capa drapeada marcada por la vileza",
-      "Manto Drapejado Marcavil",
-      "Fel-Marked Draping Cloak",
-      "Capa con caída marcada por la vileza",
-      "Cape drapée marquée par la corruption",
-      "Отмеченный Скверной плащ с драпировкой",
-      "Teufelsgezeichneter wallender Umhang",
-      "Manto Drapejado Marcavil",
-      "Mantello Drappeggiato Vilmarchiato",
-      "지옥징표 장식용 망토",
-      "魔化印記覆體披風",
-      "邪能印痕覆合斗篷"
+      "Tidecaller's Draping Cloak",
+      "Capa drapeada del clamamareas",
+      "Manto Drapejado do Chamaré",
+      "Tidecaller's Draping Cloak",
+      "Capa con caída de clamamareas",
+      "Cape drapée de mande-flots",
+      "Драпированный плащ призывателя приливов",
+      "Wallender Umhang des Gezeitenrufers",
+      "Manto Drapejado do Chamaré",
+      "Mantello Drappeggiato dell'Invocatore delle Maree",
+      "파도소환사의 장식용 망토",
+      "喚潮者覆體披風",
+      "唤潮者的覆合斗篷"
     ],
     "Media": "inv_cape_legionhonor_d_04.jpg"
   },

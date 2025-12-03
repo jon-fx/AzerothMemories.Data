@@ -1231,7 +1231,7 @@
       "Лук вуду племени Амани",
       "Voodoobogen der Amani'shi",
       "Arco de Vodu Amani'shi",
-      "Arco Vudù Amani'shi",
+      "Arco Vudù di Amani'shi",
       "아마니쉬 부두 활",
       "阿曼尼希巫毒弓",
       "阿曼尼巫毒之弓"
@@ -4032,6 +4032,69 @@
     "Media": "inv_polearm_2h_outdoorundermine_c_01.jpg"
   },
   {
+    "TagId": 232427,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gorgoa Reeds",
+      "Juncos de Gorgoa",
+      "Juncos do Gorgoa",
+      "Gorgoa Reeds",
+      "Juncos del Gorgoa",
+      "Roseaux de la Gorgoa",
+      "Горгоанские тростники",
+      "Gorgoaschilfrohre",
+      "Juncos do Gorgoa",
+      "Giunchi del Gorgoa",
+      "고르고아 갈대",
+      "果戈亞蘆葦",
+      "戈尔格亚芦苇"
+    ],
+    "Media": "inv_jewelry_trinket_05.jpg"
+  },
+  {
+    "TagId": 232428,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soulthread",
+      "Hilánima",
+      "Almalha",
+      "Soulthread",
+      "Hilo de alma",
+      "Fil imprégné d’âme",
+      "Нить душ",
+      "Seelenfaden",
+      "Almalha",
+      "Filo d'Anima",
+      "영혼실",
+      "靈魂絲線",
+      "灵魂之丝"
+    ],
+    "Media": "inv_tailoring_spellthread_violet_spellthread.jpg"
+  },
+  {
+    "TagId": 232429,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pristine Soul-Eater Hide",
+      "Cuero de devorador de almas prístino",
+      "Pelego de Devorador de Almas Imaculado",
+      "Pristine Soul-Eater Hide",
+      "Pellejo de comealmas prístino",
+      "Peau de mangeur d’âmes en parfait état",
+      "Нетронутая шкура пожирателя душ",
+      "Makelloser Seelenfresserbalg",
+      "Pelego de Devorador de Almas Imaculado",
+      "Pelle di Mangiatore di Anime Intatta",
+      "온전한 영혼포식자 가죽",
+      "完好的噬魂者獸皮",
+      "完好的食魂者之皮"
+    ],
+    "Media": "inv_skinning_80_tempesthide.jpg"
+  },
+  {
     "TagId": 232430,
     "TagType": 21,
     "Names": [
@@ -5439,6 +5502,27 @@
     "Media": "inv_weapon_rifle_01.jpg"
   },
   {
+    "TagId": 232513,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mawrat Teeth",
+      "Dientes de faucerrata",
+      "Dentes de Rato-da-gorja",
+      "Mawrat Teeth",
+      "Dientes de rata de Las Fauces",
+      "Dents de rat de l’Antre",
+      "Зубы крысы Утробы",
+      "Schlundrattenzähne",
+      "Dentes de Rato-da-gorja",
+      "Denti di Rattofauce",
+      "나락쥐 이빨",
+      "淵喉污鼠牙齒",
+      "噬渊鼠之牙"
+    ],
+    "Media": "inv_misc_toothb_05.jpg"
+  },
+  {
     "TagId": 232514,
     "TagType": 21,
     "Names": [
@@ -6762,6 +6846,27 @@
     "Media": "inv_felbatgladiatormount_void.jpg"
   },
   {
+    "TagId": 232618,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lesser K'areshi Artifact",
+      "Artefacto k'areshi inferior",
+      "Artefato K'areshi Inferior",
+      "Lesser K'areshi Artifact",
+      "Artefacto k'areshi inferior",
+      "Artéfact k’areshi inférieur",
+      "Малый к'арешский артефакт",
+      "Geringes Artefakt der K'areshi",
+      "Artefato K'areshi Inferior",
+      "Manufatto K'areshi Minore",
+      "하급 크아레쉬 유물",
+      "次級凱瑞西文物",
+      "次级卡雷什神器"
+    ],
+    "Media": "trade_archaeology_silverscrollcase.jpg"
+  },
+  {
     "TagId": 232619,
     "TagType": 21,
     "Names": [
@@ -6823,6 +6928,27 @@
       "高能升腾雕文"
     ],
     "Media": "inv_glyph_minorshaman.jpg"
+  },
+  {
+    "TagId": 232623,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_enlightenedbrokers_paragoncache01.jpg"
   },
   {
     "TagId": 232624,
@@ -12201,6 +12327,27 @@
     "Media": "inv_rat2undermine_redpatchy.jpg"
   },
   {
+    "TagId": 232896,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_10_dungeonjewelry_centaur_necklace_1_color3.jpg"
+  },
+  {
     "TagId": 232897,
     "TagType": 21,
     "Names": [
@@ -12346,6 +12493,27 @@
       "马龙之肘"
     ],
     "Media": "inv_mace_01.jpg"
+  },
+  {
+    "TagId": 232906,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
   },
   {
     "TagId": 232907,

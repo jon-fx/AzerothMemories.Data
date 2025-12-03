@@ -627,7 +627,7 @@
       "恐嚇尖嘯",
       "惊骇尖啸"
     ],
-    "Media": "spell_mage_temporalshield.jpg"
+    "Media": "inv_sonic_missile.jpg"
   },
   {
     "TagId": 1244109,
@@ -733,6 +733,867 @@
       "相位迁跃"
     ],
     "Media": "spell_arcane_arcane04.jpg"
+  },
+  {
+    "TagId": 1244117,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tome of Shadowforge Cunning",
+      "Tomo de astucia de Forjatiniebla",
+      "Tomo da Astúcia de Umbraforja",
+      "Tome of Shadowforge Cunning",
+      "Escrito sobre astucia de Forjatiniebla",
+      "Tome de ruse ombreforge",
+      "Фолиант хитрости Тенегорна",
+      "Foliant der Schattenschmiedelist",
+      "Tomo da Astúcia de Umbraforja",
+      "Tomo della Scaltrezza di Forgiascura",
+      "어둠괴철로의 간계 고서",
+      "影爐狡詐秘典",
+      "暗炉狡诈之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244118,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tome of Pandaren Wisdom",
+      "Tomo de sabiduría pandaren",
+      "Tomo da Sabedoria Pandarênica",
+      "Tome of Pandaren Wisdom",
+      "Escrito sobre sabiduría pandaren",
+      "Tome de sagesse pandarène",
+      "Фолиант мудрости пандаренов",
+      "Foliant der Pandarenweisheit",
+      "Tomo da Sabedoria Pandarênica",
+      "Tomo della Saggezza dei Pandaren",
+      "판다렌의 지혜 고서",
+      "熊貓人智慧秘典",
+      "熊猫人睿智之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244119,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tome of Draenei Faith",
+      "Tomo de fe draenei",
+      "Tomo da Fé Draeneica",
+      "Tome of Draenei Faith",
+      "Escrito sobre fe draenei",
+      "Tome de foi draeneï",
+      "Фолиант веры дренеев",
+      "Foliant des Draeneiglaubens",
+      "Tomo da Fé Draeneica",
+      "Tomo della Fede dei Draenei",
+      "드레나이의 신앙 고서",
+      "德萊尼信仰秘典",
+      "德莱尼信仰之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244120,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scribe's Working Notes",
+      "Notas de trabajo del escriba",
+      "Anotações de Trabalho do Escriba",
+      "Scribe's Working Notes",
+      "Notas de trabajo de escriba",
+      "Notes de travail de calligraphe",
+      "Рабочие записи начертателя",
+      "Arbeitsnotizen des Schreibers",
+      "Anotações de Trabalho do Escriba",
+      "Appunti di Lavoro dello Scriba",
+      "주문각인사의 작업 기록",
+      "雕銘師的工作筆記",
+      "铭文师的工作笔记"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244121,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Welcoming Pantry\" Painting to storage",
+      "Almacenar cuadro \"Despensa acogedora",
+      "Colocar Quadro \"Despensa Acolhedora\" no Armazenamento",
+      "Add \"Welcoming Pantry\" Painting to storage",
+      "Añadir cuadro \"Despensa acogedora\" al almacenamiento",
+      "Placer un tableau «\u00A0Garde-manger alléchant\u00A0» dans la réserve",
+      "Добавить картину \"Изобильная кладовая\" на склад",
+      "Gemälde \"Einladende Speisekammer\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Despensa Acolhedora\" no Armazenamento",
+      "Aggiunta Quadro \"Dispensa Accogliente\" al Magazzino",
+      "\"활짝 열린 식료품\" 저장고 그림 창고 추가",
+      "將「食物的歡迎」圖畫加入收藏",
+      "将“迎宾果盘”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244122,
+    "TagType": 26,
+    "Names": [
+      null,
+      "\"Fruit of the Arcan'dor\" Painting",
+      "Cuadro \"Fruta del Arcan'dor\"",
+      "Quadro \"Fruto da Arcan'dor\"",
+      "\"Fruit of the Arcan'dor\" Painting",
+      "Cuadro \"Fruta del Arcan'dor\"",
+      "Tableau «\u00A0Fruit de l’arcan’dor\u00A0»",
+      "Картина \"Плод аркан'дора\"",
+      "Gemälde \"Frucht des Arcan'dor\"",
+      "Quadro \"Fruto da Arcan'dor\"",
+      "Quadro \"Frutto dell'Arcan'dor\"",
+      "\"아르칸도르의 열매\" 그림",
+      "「奧肯多爾果實」圖畫",
+      "“阿坎多尔的果实”画作"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244123,
+    "TagType": 26,
+    "Names": [
+      null,
+      "\"Raising Your Eyes\" Painting",
+      "Cuadro \"Ojos al cielo\"",
+      "Quadro \"Levantem os Olhos\"",
+      "\"Raising Your Eyes\" Painting",
+      "Cuadro \"Alzando la vista\"",
+      "Tableau «\u00A0Levez les yeux\u00A0»",
+      "Картина \"Смотри наверх\"",
+      "Gemälde \"Erhebt Eure Augen\"",
+      "Quadro \"Levantem os Olhos\"",
+      "Quadro \"Alzare lo Sguardo\"",
+      "\"눈을 들어 올릴 때\" 그림",
+      "「抬起眼睛」圖畫",
+      "“仰望天空”画作"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244124,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Healthy Conjuration\" Painting to storage",
+      "Almacenar cuadro \"Conjuración saludable",
+      "Colocar Quadro \"Conjuração Saudável\" no Armazenamento",
+      "Add \"Healthy Conjuration\" Painting to storage",
+      "Añadir cuadro \"Conjuración saludable\" al almacenamiento",
+      "Placer un tableau «\u00A0Conjuration saine\u00A0» dans la réserve",
+      "Добавить картину \"Здоровое творение\" на склад",
+      "Gemälde \"Gesunde Beschwörung\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Conjuração Saudável\" no Armazenamento",
+      "Aggiunta Quadro \"Evocazione Salutare\" al Magazzino",
+      "\"건강한 창조물\" 그림 창고 추가",
+      "將「召喚健康」圖畫加入收藏",
+      "将“健康造餐”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244125,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"The Water Lilies\" Painting to storage",
+      "Almacenar cuadro \"Los lirios",
+      "Colocar Quadro \"Os Lírios-d'Água\" no Armazenamento",
+      "Add \"The Water Lilies\" Painting to storage",
+      "Añadir cuadro \"Los nenúfares\" al almacenamiento",
+      "Placer un tableau «\u00A0Les nénuphars\u00A0» dans la réserve",
+      "Добавить картину \"Кувшинки\" на склад",
+      "Gemälde \"Die Seerosen\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Os Lírios-d'Água\" no Armazenamento",
+      "Aggiunta Quadro \"Le Ninfee\" al Magazzino",
+      "\"수련\" 그림 창고 추가",
+      "將「睡蓮」圖畫加入收藏",
+      "将“池塘睡莲”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244126,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Broken Steps\" Painting to storage",
+      "Almacenar cuadro \"Escalones rotos",
+      "Colocar Quadro \"Passos Interrompidos\" no Armazenamento",
+      "Add \"Broken Steps\" Painting to storage",
+      "Añadir cuadro \"Pasos rotos\" al almacenamiento",
+      "Placer un tableau «\u00A0Steppes brisées\u00A0» dans la réserve",
+      "Добавить картину \"Разбитые ступени\" на склад",
+      "Gemälde \"Zerbrochene Stufen\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Passos Interrompidos\" no Armazenamento",
+      "Aggiunta Quadro \"Gradini Rotti\" al Magazzino",
+      "\"부서진 계단\" 그림 창고 추가",
+      "將「破碎台階」圖畫加入收藏",
+      "将“破碎之阶”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244127,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Through the Portal\" Painting to storage",
+      "Almacenar cuadro \"A través del portal",
+      "Colocar Quadro \"Pelo Portal\" no Armazenamento",
+      "Add \"Through the Portal\" Painting to storage",
+      "Añadir cuadro \"A través del portal\" al almacenamiento",
+      "Placer un tableau «\u00A0À travers le portail\u00A0» dans la réserve",
+      "Добавить картину \"Через портал\" на склад",
+      "Gemälde \"Durch das Portal\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Pelo Portal\" no Armazenamento",
+      "Aggiunta Quadro \"Attraverso il Portale\" al Magazzino",
+      "\"차원문을 지나\" 그림 창고 추가",
+      "將「傳送門中奇遇」圖畫加入收藏",
+      "将“突入传送门”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244128,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Smiling Suns\" Painting to storage",
+      "Almacenar cuadro \"Soles sonrientes",
+      "Colocar Quadro \"Sóis Sorridentes\" no Armazenamento",
+      "Add \"Smiling Suns\" Painting to storage",
+      "Añadir cuadro \"Soles sonrientes\" al almacenamiento",
+      "Placer un tableau «\u00A0Soleils souriants\u00A0» dans la réserve",
+      "Добавить картину \"Улыбающиеся солнца\" на склад",
+      "Gemälde \"Lächelnde Sonnen\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Sóis Sorridentes\" no Armazenamento",
+      "Aggiunta Quadro \"Soli Sorridenti\" al Magazzino",
+      "\"미소 짓는 해바라기\" 그림 창고 추가",
+      "將「微笑向日葵」圖畫加入收藏",
+      "将“向日笑颜”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244129,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Shu'halo Perspective\" Painting to storage",
+      "Almacenar cuadro \"Perspectiva shu'halo",
+      "Colocar Quadro \"Perspectiva dos Shu'halo\" no Armazenamento",
+      "Add \"Shu'halo Perspective\" Painting to storage",
+      "Añadir cuadro \"La perspectiva de los Shu'halo\" al almacenamiento",
+      "Placer un tableau «\u00A0Perspective de Shu’halo\u00A0» dans la réserve",
+      "Добавить картину \"Перспектива Шу'хало\" на склад",
+      "Gemälde \"Perspektive der Shu'halo\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Perspectiva dos Shu'halo\" no Armazenamento",
+      "Aggiunta Quadro \"Prospettiva degli Shu'halo\" al Magazzino",
+      "\"슈할로의 자화상\" 그림 창고 추가",
+      "將「舒哈魯透視」圖畫加入收藏",
+      "将“舒哈鲁视角”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244130,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Tidesage's Omen\" Painting to storage",
+      "Almacenar cuadro \"Presagio de maresabio",
+      "Colocar Quadro \"Agouro do Sábio das Marés\" no Armazenamento",
+      "Add \"Tidesage's Omen\" Painting to storage",
+      "Añadir cuadro \"El augurio del Sabiomar\" al almacenamiento",
+      "Placer un tableau «\u00A0Présage des eaugures\u00A0» dans la réserve",
+      "Добавить картину \"Знамение жреца моря\" на склад",
+      "Gemälde \"Omen des Gezeitenweisen\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Agouro do Sábio das Marés\" no Armazenamento",
+      "Aggiunta Quadro \"Presagio del Saggio delle Maree\" al Magazzino",
+      "\"파도현자의 전조\" 그림 창고 추가",
+      "將「浪潮賢者的惡兆」圖畫加入收藏",
+      "将“海贤的预兆”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244131,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Fate of All Life\" Painting to storage",
+      "Almacenar cuadro \"El destino de toda vida",
+      "Colocar Quadro \"O Destino de Toda a Vida\" no Armazenamento",
+      "Add \"Fate of All Life\" Painting to storage",
+      "Añadir cuadro \"El destino de toda vida\" al almacenamiento",
+      "Placer un tableau «\u00A0Le destin de toute vie\u00A0» dans la réserve",
+      "Добавить картину \"Удел всего живого\" на склад",
+      "Gemälde \"Schicksal allen Lebens\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"O Destino de Toda a Vida\" no Armazenamento",
+      "Aggiunta Quadro \"Destino di Ogni Vita\" al Magazzino",
+      "\"모든 생명의 운명\" 그림 창고 추가",
+      "將「生命的定數」圖畫加入收藏",
+      "将“万物的命运”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tome of Forsaken Resilience",
+      "Tomo de temple de los Renegados",
+      "Tomo da Resiliência dos Renegados",
+      "Tome of Forsaken Resilience",
+      "Escrito sobre resistencia de los Renegados",
+      "Tome de résilience réprouvée",
+      "Фолиант стойкости Отрекшихся",
+      "Foliant der Unverwüstlichkeit der Verlassenen",
+      "Tomo da Resiliência dos Renegados",
+      "Tomo della Resilienza dei Reietti",
+      "포세이큰의 인내력 고서",
+      "被遺忘者韌性秘典",
+      "被遗忘者坚毅之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244133,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Tea and Sin\" Painting to storage",
+      "Almacenar cuadro \"Té y pecado",
+      "Colocar Quadro \"Chá e Pecado\" no Armazenamento",
+      "Add \"Tea and Sin\" Painting to storage",
+      "Añadir cuadro \"Té y pecado\" al almacenamiento",
+      "Placer un tableau «\u00A0Thé et péché\u00A0» dans la réserve",
+      "Добавить картину \"Чай и грех\" на склад",
+      "Gemälde \"Tee und Sünde\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Chá e Pecado\" no Armazenamento",
+      "Aggiunta Quadro \"Tè e Peccato\" al Magazzino",
+      "\"차와 죄악\" 그림 창고 추가",
+      "將「茶心唯爾」圖畫加入收藏",
+      "将“煮茶论罪”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244134,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Light's Vengeance\" Painting to storage",
+      "Almacenar cuadro \"Venganza de la Luz",
+      "Colocar Quadro \"Vingador da Luz\" no Armazenamento",
+      "Add \"Light's Vengeance\" Painting to storage",
+      "Añadir cuadro \"Venganza de la Luz\" al almacenamiento",
+      "Placer un tableau «\u00A0Vengeance de la Lumière\u00A0» dans la réserve",
+      "Добавить картину \"Возмездие Света\" на склад",
+      "Gemälde \"Lichträcher\" zur Haustruhe hinzufügen",
+      "Colocar Quadro \"Vingador da Luz\" no Armazenamento",
+      "Aggiunta Quadro \"Vendetta della Luce\" al Magazzino",
+      "\"빛의 복수\" 그림 창고 추가",
+      "將「光明的報復」圖畫加入收藏",
+      "将“圣光的复仇”画作放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244135,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Open Tome of the Dragon's Dedication",
+      "Tomo abierto de la dedicación del dragón",
+      "Tomo da Dedicação Dragônica Aberto",
+      "Open Tome of the Dragon's Dedication",
+      "Escrito sobre la dedicación del dragón abierto",
+      "Tome ouvert de dévouement draconique",
+      "Открытый фолиант преданности дракона",
+      "Offener Foliant der Drachenhingabe",
+      "Tomo da Dedicação Dragônica Aberto",
+      "Tomo Aperto della Dedizione del Drago",
+      "펼쳐진 용의 헌신 고서",
+      "開啟的龍之奉獻秘典",
+      "翻开的巨龙奉献之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244136,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tome of the Lost Dragon",
+      "Tomo del dragón perdido",
+      "Tomo do Dragão Perdido",
+      "Tome of the Lost Dragon",
+      "Escrito sobre el dragón perdido",
+      "Tome du dragon perdu",
+      "Фолиант потерянного дракона",
+      "Foliant des verlorenen Drachen",
+      "Tomo do Dragão Perdido",
+      "Tomo del Drago Perduto",
+      "방황하는 용의 고서",
+      "龍之奉獻秘典",
+      "失落巨龙之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244137,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tome of Reliquary Insights",
+      "Tomo de creencias del relicario",
+      "Tomo de Revelações do Relicário",
+      "Tome of Reliquary Insights",
+      "Escrito sobre perspicacia del Relicario",
+      "Tome de vision du Reliquaire",
+      "Фолиант проницательности Реликвария",
+      "Foliant der Erkenntnisse der Archäologischen Akademie",
+      "Tomo de Revelações do Relicário",
+      "Tomo delle Conoscenze del Reliquiario",
+      "성물회의 통찰 고서",
+      "聖匣見識秘典",
+      "神圣遗物学会洞察之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244138,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kaheti Scribe's Records",
+      "Registros del escriba kaheti",
+      "Registros do Escriba Kaheti",
+      "Kaheti Scribe's Records",
+      "Registros de escriba kaheti",
+      "Archives de scribe kaheti",
+      "Записи кахети-начертателя",
+      "Aufzeichnungen des Schreibers der Kaheti",
+      "Registros do Escriba Kaheti",
+      "Registri dello Scriba Kaheti",
+      "카헤티 서기의 기록",
+      "卡罕提雕銘師的紀錄",
+      "卡赫提铭文师的档案"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244139,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tome of Earthen Directives",
+      "Tomo de directivas terráneas",
+      "Tomo de Diretivas Telúricas",
+      "Tome of Earthen Directives",
+      "Escrito sobre directivas de los terráneos",
+      "Tome de directives terrestres",
+      "Фолиант директив земельников",
+      "Foliant der Edikte der Irdenen",
+      "Tomo de Diretivas Telúricas",
+      "Tomo delle Direttive dei Terrigeni",
+      "토석인 지령 고서",
+      "土靈律令秘典",
+      "土灵指令之书"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244140,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wide Hide-Covered Bench",
+      "Banco de cuero ancho",
+      "Banco Coberto de Peles Largo",
+      "Wide Hide-Covered Bench",
+      "Banco cubierto por un pellejo ancho",
+      "Large banc couvert de peaux",
+      "Широкая покрытая шкурами скамья",
+      "Breite lederbespannte Bank",
+      "Banco Coberto de Peles Largo",
+      "Panca con Pelle Ampia",
+      "넓은 가죽으로 덮은 긴 의자",
+      "覆有獸皮的寬型長椅",
+      "铺着毛皮的加宽长椅"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244141,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Razorwind Wall Mirror",
+      "Espejo de pared del Ventajo",
+      "Espelho de Parede de Vento Cortante",
+      "Razorwind Wall Mirror",
+      "Espejo de pared del Ventajo",
+      "Miroir mural de Tranchevent",
+      "Настенное зеркало Колючего Ветра",
+      "Wandspiegel der Klingenschlucht",
+      "Espelho de Parede de Vento Cortante",
+      "Specchio a Muro di Brezza Aguzza",
+      "칼끝바람 벽 거울",
+      "烈風牆鏡",
+      "烈风壁挂镜子"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244142,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Farmer's Water Trough to storage",
+      "Almacenar abrevadero de agua de agricultor",
+      "Colocar Gamela de Água do Fazendeiro no Armazenamento",
+      "Add Farmer's Water Trough to storage",
+      "Añadir abrevadero de granjero al almacenamiento",
+      "Placer un abreuvoir de ferme dans la réserve",
+      "Добавить водяной желоб фермера на склад",
+      "Wassertrog des Bauern zur Haustruhe hinzufügen",
+      "Colocar Gamela de Água do Fazendeiro no Armazenamento",
+      "Aggiunta Abbeveratoio del Contadino al Magazzino",
+      "농장 식수 통 창고 추가",
+      "將農夫水槽加入收藏",
+      "将农夫的水槽放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244143,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Hay-Filled Sturdy Feeding Trough to storage",
+      "Almacenar comedero sólido lleno de heno",
+      "Colocar Cocho Robusto com Feno no Armazenamento",
+      "Add Hay-Filled Sturdy Feeding Trough to storage",
+      "Añadir abrevadero recio lleno de paja al almacenamiento",
+      "Placer une auge robuste remplie de foin dans la réserve",
+      "Добавить прочную кормушку с сеном на склад",
+      "Heugefüllten stabilen Futtertrog zur Haustruhe hinzufügen",
+      "Colocar Cocho Robusto com Feno no Armazenamento",
+      "Aggiunta Mangiatoia Robusta Piena di Fieno al Magazzino",
+      "튼튼한 건초 여물통 창고 추가",
+      "將填滿乾草的結實飼料槽加入收藏",
+      "将填满甘草的牢固喂食槽放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244144,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Carved Stone Bench to storage",
+      "Almacenar banco de piedra tallado",
+      "Colocar Banco de Pedra Entalhado no Armazenamento",
+      "Add Carved Stone Bench to storage",
+      "Añadir banco de piedra tallada al almacenamiento",
+      "Placer un banc sculpté en pierre dans la réserve",
+      "Добавить резную каменную скамью на склад",
+      "Gemeißelte Steinbank zur Haustruhe hinzufügen",
+      "Colocar Banco de Pedra Entalhado no Armazenamento",
+      "Aggiunta Panca in Pietra Scolpita al Magazzino",
+      "조각된 긴 석재 의자 창고 추가",
+      "將石雕長椅加入收藏",
+      "将雕刻石制长椅放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244145,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming",
+      "[DNT] Plush Cushioned Chair - DO NOT USE - new asset coming"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244146,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Sturdy Brazier to storage",
+      "Almacenar brasero resistente",
+      "Colocar Braseiro Robusto no Armazenamento",
+      "Add Sturdy Brazier to storage",
+      "Añadir blandón recio al almacenamiento",
+      "Placer un brasero robuste dans la réserve",
+      "Добавить прочную жаровню на склад",
+      "Stabile Kohlenpfanne zur Haustruhe hinzufügen",
+      "Colocar Braseiro Robusto no Armazenamento",
+      "Aggiunta Braciere Robusto al Magazzino",
+      "튼튼한 화로 창고 추가",
+      "將結實火盆加入收藏",
+      "将牢固的火盆放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244147,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Founder's Point Street Light to storage",
+      "Almacenar poste de luz de Punto del Fundador",
+      "Colocar Poste de Iluminação do Marco do Fundador no Armazenamento",
+      "Add Founder's Point Street Light to storage",
+      "Añadir farola del Punto de la Fundadora al almacenamiento",
+      "Placer un lampadaire du cap Fondateur dans la réserve",
+      "Добавить уличный фонарь из лагеря Основателя на склад",
+      "Straßenlaterne der Gründerspitze zur Haustruhe hinzufügen",
+      "Colocar Poste de Iluminação do Marco do Fundador no Armazenamento",
+      "Aggiunta Luce Stradale di Punta della Fondazione al Magazzino",
+      "개척자의 터전 거리 조명 창고 추가",
+      "將開拓角街燈加入收藏",
+      "将创始者之角街灯放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244148,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Founder's Point Lamppost to storage",
+      "Almacenar farola de Punto del Fundador",
+      "Colocar Poste de Luz do Marco do Fundador no Armazenamento",
+      "Add Founder's Point Lamppost to storage",
+      "Añadir poste de luz del Punto de la Fundadora al almacenamiento",
+      "Placer un réverbère du cap Fondateur dans la réserve",
+      "Добавить фонарный столб из лагеря Основателя на склад",
+      "Laternenmast der Gründerspitze zur Haustruhe hinzufügen",
+      "Colocar Poste de Luz do Marco do Fundador no Armazenamento",
+      "Aggiunta Lampione di Punta della Fondazione al Magazzino",
+      "개척자의 터전 가로등불 창고 추가",
+      "將開拓角路燈加入收藏",
+      "将创始者之角路灯放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244149,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Sturdy Feeding Trough to storage",
+      "Almacenar comedero sólido",
+      "Colocar Cocho Robusto no Armazenamento",
+      "Add Sturdy Feeding Trough to storage",
+      "Añadir abrevadero recio al almacenamiento",
+      "Placer une auge robuste dans la réserve",
+      "Добавить прочную кормушку на склад",
+      "Stabilen Futtertrog zur Haustruhe hinzufügen",
+      "Colocar Cocho Robusto no Armazenamento",
+      "Aggiunta Mangiatoia Robusta al Magazzino",
+      "튼튼한 여물통 창고 추가",
+      "將結實飼料槽加入收藏",
+      "将牢固的食槽放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244150,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE",
+      "[DNT] Unlit Tusked Sconce - DO NOT USE"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244151,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tusked Hanging Sconce",
+      "Aplique colgante con colmillos",
+      "Arandela Pendente com Presas",
+      "Tusked Hanging Sconce",
+      "Aplique colgante con colmillos",
+      "Bougeoir suspendu à défenses",
+      "Клыкастый подвесной светильник",
+      "Hauerbewehrte Hängeleuchte",
+      "Arandela Pendente com Presas",
+      "Candeliere a Sospensione Zannuto",
+      "엄니 벽걸이 촛대",
+      "獠牙吊掛燭台",
+      "獠牙悬挂灯台"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244152,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Horned Banded Barrel",
+      "Barril con anillos astado",
+      "Barril Listrado com Chifres",
+      "Horned Banded Barrel",
+      "Barril con franjas y cuernos",
+      "Tonneau ficelé à cornes",
+      "Рогатая окованная бочка",
+      "Hornbewehrtes gebändertes Fass",
+      "Barril Listrado com Chifres",
+      "Barile Rinforzato con Corna",
+      "뿔 달린 매듭 통",
+      "犄角條紋桶",
+      "巨角箍边桶"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244153,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Open Horned Banded Barrel",
+      "Barril con anillos astado abierto",
+      "Barril Listrado com Chifres Aberto",
+      "Open Horned Banded Barrel",
+      "Barril con franjas y cuernos abierto",
+      "Tonneau ouvert ficelé à cornes",
+      "Открытая рогатая окованная бочка",
+      "Offenes hornbewehrtes gebändertes Fass",
+      "Barril Listrado com Chifres Aberto",
+      "Barile Rinforzato con Corna Aperto",
+      "열린 뿔 달린 매듭 통",
+      "開啟的犄角條紋桶",
+      "打开的巨角箍边桶"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244154,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Long Orgrimmar Bench",
+      "Banco largo de Orgrimmar",
+      "Banco de Orgrimmar Longo",
+      "Long Orgrimmar Bench",
+      "Banco largo de Orgrimmar",
+      "Banc d’Orgrimmar long",
+      "Длинная оргриммарская скамья",
+      "Lange Bank aus Orgrimmar",
+      "Banco de Orgrimmar Longo",
+      "Panca di Orgrimmar Lunga",
+      "연장형 오그리마 긴 의자",
+      "奧格瑪長椅",
+      "加长奥格瑞玛长椅"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244155,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crude Banded Crate",
+      "Cajón rayado burdo",
+      "Caixote Listrado Rústico",
+      "Crude Banded Crate",
+      "Cajón con franjas rudimentario",
+      "Caisse ficelée grossière",
+      "Грубый окованный ящик",
+      "Grobe gebänderte Kiste",
+      "Caixote Listrado Rústico",
+      "Cassa Rinforzata Rudimentale",
+      "조잡한 띠매듭 상자",
+      "粗糙條紋箱",
+      "粗制箍边箱"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244156,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Open Crude Banded Crate",
+      "Cajón rayado burdo abierto",
+      "Caixote Listrado Rústico Aberto",
+      "Open Crude Banded Crate",
+      "Cajón con franjas rudimentario abierto",
+      "Caisse ficelée grossière ouverte",
+      "Открытый грубый окованный ящик",
+      "Offene grobe gebänderte Kiste",
+      "Caixote Listrado Rústico Aberto",
+      "Cassa Rinforzata Rudimentale Aperta",
+      "열린 조잡한 띠매듭 상자",
+      "開啟的粗糙條紋箱",
+      "打开的粗制箍边箱"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244159,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)",
+      "Play Movie (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1244165,
@@ -1179,10 +2040,10 @@
     "TagType": 26,
     "Names": [
       null,
-      "Thunder-ridged Elekk",
+      "Thunder-Ridged Elekk",
       "Elekk con crestas de trueno",
       "Elekk Crivado de Trovões",
-      "Thunder-ridged Elekk",
+      "Thunder-Ridged Elekk",
       "Elekk salpicado por el trueno",
       "Elekk ourlé d’éclairs",
       "Иссеченный молнией элекк",
@@ -1305,10 +2166,10 @@
     "TagType": 26,
     "Names": [
       null,
-      "Cinder-seared Elekk",
-      "Elekk chamuscado con cenizas",
+      "Cinder-Seared Elekk",
+      "Elekk chamuscado por cenizas",
       "Elekk Calcinado em Cinzas",
-      "Cinder-seared Elekk",
+      "Cinder-Seared Elekk",
       "Elekk abrasado por las cenizas",
       "Elekk carbonisé",
       "Опаленный золой элекк",
@@ -1347,10 +2208,10 @@
     "TagType": 26,
     "Names": [
       null,
-      "Legion Forged Elekk",
+      "Legion-Forged Elekk",
       "Elekk forjado por la Legión",
       "Elekk Forjado da Legião",
-      "Legion Forged Elekk",
+      "Legion-Forged Elekk",
       "Elekk forjado por la Legión",
       "Elekk forgé par la Légion",
       "Закаленный Легионом элекк",
@@ -1972,6 +2833,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1244372,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Small Covered Wooden Table to storage",
+      "Almacenar mesa de madera cubierta pequeña",
+      "Colocar Mesa de Madeira Coberta Pequena no Armazenamento",
+      "Add Small Covered Wooden Table to storage",
+      "Añadir mesa de madera cubierta pequeña al almacenamiento",
+      "Placer une petite table couverte en bois dans la réserve",
+      "Добавить маленький накрытый деревянный стол на склад",
+      "Kleinen gedeckten Holztisch zur Haustruhe hinzufügen",
+      "Colocar Mesa de Madeira Coberta Pequena no Armazenamento",
+      "Aggiunta Tavolo di Legno Coperto Piccolo al Magazzino",
+      "소형 덮개로 덮은 목재 탁자 창고 추가",
+      "將小型有桌巾的木桌加入收藏",
+      "将小型遮盖的木制桌子放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244373,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Small Sturdy Wooden Table to storage",
+      "Almacenar mesa de madera sólida pequeña",
+      "Colocar Mesa de Madeira Robusta Pequena no Armazenamento",
+      "Add Small Sturdy Wooden Table to storage",
+      "Añadir mesa de madera recia pequeña al almacenamiento",
+      "Placer une petite table robuste en bois dans la réserve",
+      "Добавить маленький прочный деревянный стол на склад",
+      "Kleinen stabilen Holztisch zur Haustruhe hinzufügen",
+      "Colocar Mesa de Madeira Robusta Pequena no Armazenamento",
+      "Aggiunta Tavolo di Legno Robusto Piccolo al Magazzino",
+      "소형 튼튼한 목재 탁자 창고 추가",
+      "將小型結實木桌加入收藏",
+      "将小型牢固的木制桌子放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1244387,
     "TagType": 26,
     "Names": [
@@ -2203,6 +3106,27 @@
     "Media": "inv_misc_trinket6oih_lanternb3.jpg"
   },
   {
+    "TagId": 1244429,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Elegant Seat Cushion",
+      "Cojín elegante",
+      "Almofada de Assento Elegante",
+      "Elegant Seat Cushion",
+      "Cojín de asiento elegante",
+      "Assise élégante",
+      "Элегантная подушка для сидения",
+      "Elegantes Sitzkissen",
+      "Almofada de Assento Elegante",
+      "Cuscino da Seduta Elegante",
+      "품격 있는 좌식 방석",
+      "優雅坐墊",
+      "优雅的座椅软垫"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1244438,
     "TagType": 26,
     "Names": [
@@ -2249,19 +3173,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Ensemble: Felreaver's Legion Attire",
-      "Conjunto: Atuendo de la Legión de atracador vil",
-      "Indumentária: Vestuário de Legião do Aníquilus",
-      "Ensemble: Felreaver's Legion Attire",
-      "Indumentaria: Atuendo de la Legión de atracavil",
-      "Ensemble\u00A0: tenue de la Légion de saccageur gangrené",
-      "Комплект: пылающее снаряжение сквернобота",
-      "Ensemble: Legionsgewand des Teufelshäschers",
-      "Indumentária: Vestuário de Legião do Aníquilus",
-      "Set: Completo della Legione del Vilrazziatore",
-      "복장: 지옥약탈자의 군단 의복",
-      "套裝：魔化收割者的軍團裝束",
-      "套装：魔能机甲的军团装束"
+      "Ensemble: Fashion of the Fanatic Felcyclist",
+      "Conjunto: Atuendo a la moda del ciclista vil fanático",
+      "Indumentária: Moda do Vilciclista Fanático",
+      "Ensemble: Fashion of the Fanatic Felcyclist",
+      "Indumentaria: Atuendo del vilciclista fanático",
+      "Ensemble\u00A0: mode de gangrecycliste fanatique",
+      "Комплект: скарб суматошного скверноциклиста",
+      "Ensemble: Mode des fanatischen Teufelsrasers",
+      "Indumentária: Moda do Vilciclista Fanático",
+      "Set: Vesti del Vilciclista Visionario",
+      "복장: 광적인 지옥폭주족의 옷차림",
+      "套裝：狂熱魔化車手的時髦外衣",
+      "套装：狂热邪能摩托手的时尚"
     ],
     "Media": "inv_helm_armor_felreaver_d_01.jpg"
   },
@@ -3146,6 +4070,132 @@
       "[DNT] Test Sound Water Channel Beam"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1244573,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mushan Dumpling Stack",
+      "Pila de dumplings de mushan",
+      "Pilha de Bolinhos de Mushan",
+      "Mushan Dumpling Stack",
+      "Montón de empanadillas mushan",
+      "Pile de raviolis de mushan",
+      "Горка кнедликов с мясом мушана",
+      "Mushanklößchenstapel",
+      "Pilha de Bolinhos de Mushan",
+      "Pila di Ravioli dei Mushan",
+      "무샨 만두 더미",
+      "牡山餃子堆",
+      "穆山饺子堆"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244574,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Small Orgrimmar Chair",
+      "Silla pequeña de Orgrimmar",
+      "Cadeira de Orgrimmar Pequena",
+      "Small Orgrimmar Chair",
+      "Silla de Orgrimmar pequeña",
+      "Petite chaise d’Orgrimmar",
+      "Маленький оргриммарский стул",
+      "Kleiner Stuhl aus Orgrimmar",
+      "Cadeira de Orgrimmar Pequena",
+      "Sedia di Orgrimmar Piccola",
+      "소형 오그리마 의자",
+      "小型奧格瑪椅子",
+      "小型奥格瑞玛椅子"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244575,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drake Kebab Platter",
+      "Bandeja con kebab de draco",
+      "Travessa de Kebab de Draco",
+      "Drake Kebab Platter",
+      "Bandeja de kebab de draco",
+      "Plat de brochettes de drake",
+      "Блюдо с драконьим шашлыком",
+      "Teller mit Drachenkebab",
+      "Travessa de Kebab de Draco",
+      "Piatto di Kebab di Draco",
+      "비룡 케밥 요리 접시",
+      "飛龍烤肉拼盤",
+      "幼龙串烧拼盘"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244576,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Roast Riverbeast Platter",
+      "Bandeja con bestia de río asada",
+      "Travessa de Fera-do-rio Assada",
+      "Roast Riverbeast Platter",
+      "Bandeja de bestia fluvial asada",
+      "Rôti de potamodonte",
+      "Блюдо с жареным мясом речного чудища",
+      "Teller mit gerösteter Flussbestie",
+      "Travessa de Fera-do-rio Assada",
+      "Piatto di Bestia dei Fiumi Arrosto",
+      "강물하마 숯불구이 요리 접시",
+      "烤河獸拼盤",
+      "香烤淡水兽拼盘"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244577,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Valdrakken Blossomfruit Platter",
+      "Bandeja con fruta floral de Valdrakken",
+      "Travessa de Florafruta de Valdrakken",
+      "Valdrakken Blossomfruit Platter",
+      "Bandeja de frutaflor de Valdrakken",
+      "Plat de fruits de fleurs de Valdrakken",
+      "Блюдо с вальдраккенскими цветофруктами",
+      "Teller mit Blütenfrüchten aus Valdrakken",
+      "Travessa de Florafruta de Valdrakken",
+      "Piatto di Fruttifiore di Valdrakken",
+      "발드라켄 만개열매 접시",
+      "沃卓肯綻放果拼盤",
+      "瓦德拉肯繁华水果拼盘"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244579,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bruffalon Rib Platter",
+      "Bandeja con costillas de brúfalo",
+      "Travessa de Costelas de Brúfalo",
+      "Bruffalon Rib Platter",
+      "Bandeja de costillas de brúfalo",
+      "Côtes de bruffalon",
+      "Блюдо с ребрышками зуброна",
+      "Teller mit Brüffelchrippchen",
+      "Travessa de Costelas de Brúfalo",
+      "Piatto di Costolette di Bruffalo",
+      "브루팔론 갈비뼈 요리 접시",
+      "麋牛肋排拼盤",
+      "驼牛肋排拼盘"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
   },
   {
     "TagId": 1244592,
@@ -4090,6 +5140,48 @@
       "Quiet Suicide [DNT]"
     ],
     "Media": "spell_shadow_lifedrain.jpg"
+  },
+  {
+    "TagId": 1244954,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Elegant Carved Door",
+      "Puerta tallada elegante",
+      "Porta Entalhada Elegante",
+      "Elegant Carved Door",
+      "Puerta tallada elegante",
+      "Porte sculptée élégante",
+      "Элегантная резная дверь",
+      "Elegante geschnitzte Tür",
+      "Porta Entalhada Elegante",
+      "Porta Intagliata Elegante",
+      "품격 있는 조각된 문",
+      "優雅紋刻大門",
+      "优雅的雕花门"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1244955,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Elven Woodvine Trellis",
+      "Enrejado de vides élfico",
+      "Treliça de Vinha-do-bosque Élfica",
+      "Elven Woodvine Trellis",
+      "Pérgola de vides de madera élfica",
+      "Treille de vrillebois elfe",
+      "Эльфийский сабиевый трельяж",
+      "Elfisches Waldrebengerüst",
+      "Treliça de Vinha-do-bosque Élfica",
+      "Traliccio di Legno con Rampicante Elfico",
+      "엘프 나무덩굴 격자망",
+      "精靈木藤棚架",
+      "精灵木藤篱笆"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
   },
   {
     "TagId": 1244958,

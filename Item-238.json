@@ -3700,14 +3700,14 @@
     "TagType": 21,
     "Names": [
       null,
-      "Ashjra'kamas, The Corrupted",
+      "Ashjra'kamas, the Corrupted",
       "Ashjra'kamas, el corrupto",
       "Ashjra'kamas, a Corrompida",
-      "Ashjra'kamas, The Corrupted",
+      "Ashjra'kamas, the Corrupted",
       "Ashjra'kamas, la Corrupta",
       "Ashjra’kamas, la Corrompue",
       "Ашжра'камас Оскверненный",
-      "Ashjra'kamas, Das Verderbte",
+      "Ashjra'kamas, das Verderbte",
       "Ashjra'kamas, a Corrompida",
       "Ashjra'kamas, Manto Corrotto",
       "아쉬즈라카마스 - 타락의 수의",
@@ -3721,14 +3721,14 @@
     "TagType": 21,
     "Names": [
       null,
-      "Ashjra'kamas, The Purified",
+      "Ashjra'kamas, the Purified",
       "Ashjra'kamas, el purificado",
       "Ashjra'kamas, a Purificada",
-      "Ashjra'kamas, The Purified",
+      "Ashjra'kamas, the Purified",
       "Ashjra'kamas, la Purificada",
       "Ashjra’kamas, la Purifiée",
       "Ашжра'камас Очищенный",
-      "Ashjra'kamas, Das Geläuterte",
+      "Ashjra'kamas, das Geläuterte",
       "Ashjra'kamas, a Purificada",
       "Ashjra'kamas, Manto Purificato",
       "아쉬즈라카마스 - 순수의 수의",
@@ -3742,14 +3742,14 @@
     "TagType": 21,
     "Names": [
       null,
-      "Ashjra'kamas, The Celestial",
+      "Ashjra'kamas, the Celestial",
       "Ashjra'kamas, el celestial",
       "Ashjra'kamas, a Celestial",
-      "Ashjra'kamas, The Celestial",
+      "Ashjra'kamas, the Celestial",
       "Ashjra'kamas, la Celestial",
       "Ashjra’kamas, la Céleste",
       "Ашжра'камас Небесный",
-      "Ashjra'kamas, Das Himmlische",
+      "Ashjra'kamas, das Himmlische",
       "Ashjra'kamas, a Celestial",
       "Ashjra'kamas, Manto Celestiale",
       "아쉬즈라카마스 - 천상의 수의",
@@ -6510,6 +6510,153 @@
     "Media": "inv_icon_feather08a.jpg"
   },
   {
+    "TagId": 238857,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Moon-Blessed Storage Crate",
+      "Cajón de almacenamiento bendecido por la luna",
+      "Caixote de Armazenamento Abençoado pela Lua",
+      "Moon-Blessed Storage Crate",
+      "Cajón de almacenamiento bendecido por la luna",
+      "Caisse de stockage bénie par la lune",
+      "Благословенный луной складской сундук",
+      "Mondgesegnete Vorratstruhe",
+      "Caixote de Armazenamento Abençoado pela Lua",
+      "Cassa del Magazzino Benedetta dalla Luna",
+      "달의 축복 보관 상자",
+      "月祐儲物箱",
+      "月福储物箱"
+    ],
+    "Media": "7416063.jpg"
+  },
+  {
+    "TagId": 238858,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 238859,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cenarion Privacy Screen",
+      "Biombo de privacidad de Cenarion",
+      "Divisória Cenariana",
+      "Cenarion Privacy Screen",
+      "Biombo Cenarion",
+      "Brise-vue cénarien",
+      "Кенарийская ширма",
+      "Cenarische Sichtblende",
+      "Divisória Cenariana",
+      "Paravento Cenariano",
+      "세나리온 차단막",
+      "塞納里奧隔板",
+      "塞纳里奥私密屏风"
+    ],
+    "Media": "7416071.jpg"
+  },
+  {
+    "TagId": 238860,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Deluxe Val'sharah Bed",
+      "Cama de Val'sharah de lujo",
+      "Cama de Val'sharah de Luxo",
+      "Deluxe Val'sharah Bed",
+      "Cama lujosa de Val'sharah",
+      "Lit luxueux de Val’sharah",
+      "Изысканная кровать из Валь'шары",
+      "Luxusbett aus Val'sharah",
+      "Cama de Val'sharah de Luxo",
+      "Letto di Val'sharah Pregiato",
+      "호화 발샤라 침대",
+      "豪華維爾薩拉床",
+      "豪华瓦尔莎拉床铺"
+    ],
+    "Media": "7416075.jpg"
+  },
+  {
+    "TagId": 238861,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cenarion Rectangular Rug",
+      "Alfombra rectangular de Cenarion",
+      "Tapete Cenariano Retangular",
+      "Cenarion Rectangular Rug",
+      "Alfombra rectangular Cenarion",
+      "Tapis rectangulaire cénarien",
+      "Кенарийский прямоугольный коврик",
+      "Rechteckiger cenarischer Teppich",
+      "Tapete Cenariano Retangular",
+      "Tappeto Rettangolare Cenariano",
+      "세나리온 직사각형 융탄자",
+      "塞納里奧方地毯",
+      "塞纳里奥长方形毯子"
+    ],
+    "Media": "7416079.jpg"
+  },
+  {
+    "TagId": 238862,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7416083.jpg"
+  },
+  {
+    "TagId": 238863,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kaldorei Desk",
+      "Escritorio kaldorei",
+      "Mesa Kaldorei",
+      "Kaldorei Desk",
+      "Escritorio kaldorei",
+      "Bureau kaldorei",
+      "Калдорайский письменный стол",
+      "Schreibtisch der Kaldorei",
+      "Mesa Kaldorei",
+      "Scrivania dei Kaldorei",
+      "칼도레이 책상",
+      "卡多雷桌子",
+      "卡多雷桌子"
+    ],
+    "Media": "7416087.jpg"
+  },
+  {
     "TagId": 238865,
     "TagType": 21,
     "Names": [
@@ -7623,6 +7770,27 @@
     "Media": "inv_jewelry_ring_62.jpg"
   },
   {
+    "TagId": 238931,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 238932,
     "TagType": 21,
     "Names": [
@@ -8209,6 +8377,153 @@
       "火裔炣美拉"
     ],
     "Media": "inv_chimerafiremount_yellow.jpg"
+  },
+  {
+    "TagId": 238969,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 238970,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 238971,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 238972,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 238973,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 238974,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 238975,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Reliquary Telescope",
+      "Telescopio relicario",
+      "Telescópio de Relicário",
+      "Reliquary Telescope",
+      "Telescopio del Relicario",
+      "Télescope du Reliquaire",
+      "Телескоп Реликвария",
+      "Teleskop der Archäologischen Akademie",
+      "Telescópio de Relicário",
+      "Telescopio del Reliquiario",
+      "성물회 망원경",
+      "聖匣望遠鏡",
+      "神圣遗物学会望远镜"
+    ],
+    "Media": "7416111.jpg"
   },
   {
     "TagId": 238976,

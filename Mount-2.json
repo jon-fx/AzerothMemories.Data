@@ -4419,7 +4419,7 @@
       "Morcevil Repulsivo",
       "Wretched Fel Bat",
       "Murciélago vil desdichado",
-      "Gangroptère abjecte",
+      "Gangroptère abject",
       "Гнусный сквернотопырь",
       "Elende Teufelsfledermaus",
       "Morcevil Repulsivo",
@@ -4450,6 +4450,27 @@
       "晦影卡雷鹏"
     ],
     "Media": "inv_kareshflyermount_black.jpg"
+  },
+  {
+    "TagId": 2550,
+    "TagType": 22,
+    "Names": [
+      null,
+      "K'arroc Swiftwing",
+      "Alapresta k'arroc",
+      "Celerasa K'arroc",
+      "K'arroc Swiftwing",
+      "Alapresta k'arroc",
+      "Vol-au-vent k’arroc",
+      "К'аррух-быстрокрыл",
+      "K'arrocflinkschwinge",
+      "Celerasa K'arroc",
+      "K'arroc Alalesta",
+      "크아로크 날쌘날개",
+      "卡洛克迅翼",
+      "迅翼卡雷鹏"
+    ],
+    "Media": "inv_kareshflyermount_blue.jpg"
   },
   {
     "TagId": 2552,
@@ -4759,7 +4780,7 @@
       "Пророческая доска гроссмейстера",
       "Prophetisches Brett des Großmeisters",
       "Tabuleiro Profético do Grande Mestre",
-      "Tabellone Profetico del Grande Maestro",
+      "Tavola Profetica del Grande Maestro",
       "그랜드마스터의 예언자 발판",
       "特級大師預言棋盤",
       "特级大师的先知棋盘"
@@ -5170,10 +5191,10 @@
     "TagType": 22,
     "Names": [
       null,
-      "Thunder-ridged Elekk",
+      "Thunder-Ridged Elekk",
       "Elekk con crestas de trueno",
       "Elekk Crivado de Trovões",
-      "Thunder-ridged Elekk",
+      "Thunder-Ridged Elekk",
       "Elekk salpicado por el trueno",
       "Elekk ourlé d’éclairs",
       "Иссеченный молнией элекк",
@@ -5191,10 +5212,10 @@
     "TagType": 22,
     "Names": [
       null,
-      "Cinder-seared Elekk",
-      "Elekk chamuscado con cenizas",
+      "Cinder-Seared Elekk",
+      "Elekk chamuscado por cenizas",
       "Elekk Calcinado em Cinzas",
-      "Cinder-seared Elekk",
+      "Cinder-Seared Elekk",
       "Elekk abrasado por las cenizas",
       "Elekk carbonisé",
       "Опаленный золой элекк",
@@ -5233,10 +5254,10 @@
     "TagType": 22,
     "Names": [
       null,
-      "Legion Forged Elekk",
+      "Legion-Forged Elekk",
       "Elekk forjado por la Legión",
       "Elekk Forjado da Legião",
-      "Legion Forged Elekk",
+      "Legion-Forged Elekk",
       "Elekk forjado por la Legión",
       "Elekk forgé par la Légion",
       "Закаленный Легионом элекк",
@@ -6549,5 +6570,257 @@
       "钴蓝相位捕猎者"
     ],
     "Media": "inv_warpstalkermount_blue.jpg"
+  },
+  {
+    "TagId": 2795,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bronze Wilderling",
+      "Salvajezno de bronce",
+      "Silvestrito Bronze",
+      "Bronze Wilderling",
+      "Salvajizo de bronce",
+      "Lycodrac de bronze",
+      "Бронзовый чащобник",
+      "Bronzewildling",
+      "Silvestrito Bronze",
+      "Selvante Bronzeo",
+      "청동 야생룡",
+      "青銅荒野獸",
+      "青铜荒蚺"
+    ],
+    "Media": "inv_wolfserpentmountbronze.jpg"
+  },
+  {
+    "TagId": 2796,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bronze Aquilon",
+      "Aquilón de bronce",
+      "Áquilon de Bronze",
+      "Bronze Aquilon",
+      "Aquilon de bronce",
+      "Aquilon de bronze",
+      "Бронзовый аквилон",
+      "Bronzeaquilon",
+      "Áquilon de Bronze",
+      "Aquilon Bronzeo",
+      "청동 아퀼론",
+      "青銅阿奎隆",
+      "青铜北风长"
+    ],
+    "Media": "inv_automatonfliermount_bronze.jpg"
+  },
+  {
+    "TagId": 2797,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bronze Corpsefly",
+      "Mosca cadavérica de bronce",
+      "Moscadáver de Bronze",
+      "Bronze Corpsefly",
+      "Moscadáver de bronce",
+      "Mouche nécrophage de bronze",
+      "Бронзовая трупная муха",
+      "Bronzene Leichenfliege",
+      "Moscadáver de Bronze",
+      "Insetto Necrofago Bronzeo",
+      "청동 시체파리",
+      "青銅屍蠅",
+      "青铜冥蝇"
+    ],
+    "Media": "inv_flymaldraxxusmount_bronze.jpg"
+  },
+  {
+    "TagId": 2798,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bronze Gravewing",
+      "Alatumba de bronce",
+      "Tumulasa de Bronze",
+      "Bronze Gravewing",
+      "Alatumba de bronce",
+      "Tombaile de bronze",
+      "Бронзовый танатокрыл",
+      "Bronzene Grabschwinge",
+      "Tumulasa de Bronze",
+      "Alagreve Bronzeo",
+      "청동 무덤날개",
+      "青銅墓翼",
+      "青铜墓翼蝠"
+    ],
+    "Media": "inv_gargoylebrute2mount_bronze.jpg"
+  },
+  {
+    "TagId": 2802,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Geargrinder Mk. 11",
+      "Rugemotores Mk. 11",
+      "Trincatraca V11",
+      "Geargrinder Mk. 11",
+      "Cadenas Mk. 11",
+      "Écrouabouille Mod.\u00A011",
+      "Зуботочер-11",
+      "Gangzwinger Mk. 11",
+      "Trincatraca V11",
+      "Pestaruote v11",
+      "연마공 마크 11",
+      "齒輪幫11號",
+      "磨轮号Mk. 11型"
+    ],
+    "Media": "inv_111_raid_achievement_vexieandthegeargrinders.jpg"
+  },
+  {
+    "TagId": 2803,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Skypaw Glimmerfur",
+      "Lumipelaje celespata",
+      "Pelo-rútilo Pata do Céu",
+      "Skypaw Glimmerfur",
+      "Pieltitilo cielozarpa",
+      "Mantelume patteciel",
+      "Небеснолапый мерцающий лисохвост",
+      "Himmelspfotenglimmerpelz",
+      "Pelo-rútilo Pata do Céu",
+      "Mantolume Zampacielo",
+      "하늘발바닥 옅은빛털",
+      "天掌爍毛",
+      "天爪烁裘狐"
+    ],
+    "Media": "inv_fox2_blue.jpg"
+  },
+  {
+    "TagId": 2804,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crimson Lupine",
+      "Lupino carmesí",
+      "Lupino Carmesim",
+      "Crimson Lupine",
+      "Lupino carmesí",
+      "Lupin cramoisi",
+      "Багровый люпин",
+      "Purpurlupin",
+      "Lupino Carmesim",
+      "Lupino Cremisi",
+      "진홍빛 늑대",
+      "赤紅原狼",
+      "赤红元狼"
+    ],
+    "Media": "inv_progenitorwolf.jpg"
+  },
+  {
+    "TagId": 2807,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Brawlin' Bruno",
+      "Bruno, el camorrista",
+      "Bruno Brigão",
+      "Brawlin' Bruno",
+      "Bruno el Bronco",
+      "Bruno le bastonneur",
+      "Боец Бруно",
+      "Boxer-Bruno",
+      "Bruno Brigão",
+      "Bruno Battagliero",
+      "난투꾼 브루노",
+      "鬥陣布魯諾",
+      "进击的布鲁诺"
+    ],
+    "Media": "inv_crocoliskmount_green.jpg"
+  },
+  {
+    "TagId": 2808,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ballistic Bronco",
+      "Bronco balístico",
+      "Bronco Balístico",
+      "Ballistic Bronco",
+      "Corcel colérico",
+      "Bronco balistique",
+      "Быстроходный Бронко",
+      "Renitente Reitrakete",
+      "Bronco Balístico",
+      "Bronco Balistico",
+      "탄도 브론코",
+      "彈道布朗可",
+      "脱缰野马飞弹"
+    ],
+    "Media": "inv_rocketmount3_orange.jpg"
+  },
+  {
+    "TagId": 2815,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Snowpaw Glimmerfur Prowler",
+      "Merodeador lumipelaje patanieve",
+      "Predador Pelo-rútilo Pata de Neve",
+      "Snowpaw Glimmerfur Prowler",
+      "Merodeador pieltitilo nievezarpa",
+      "Rôdeur mantelume neigepatte",
+      "Снежнолапый мерцающий лисохвост",
+      "Schneepfotenglimmerpelzstreuner",
+      "Predador Pelo-rútilo Pata de Neve",
+      "Predatore Mantolume Zampaneve",
+      "눈발톱 옅은빛털 배회자",
+      "雪掌爍毛潛伏者",
+      "雪爪烁裘徘徊者"
+    ],
+    "Media": "inv_fox2_white.jpg"
+  },
+  {
+    "TagId": 2823,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Savage Crimson Battle Turtle",
+      "Tortuga de batalla carmesí salvaje",
+      "Tartaruga de Batalha Carmesim Selvagem",
+      "Savage Crimson Battle Turtle",
+      "Tortuga de batalla carmesí salvaje",
+      "Tortue cramoisie de bataille sauvage",
+      "Свирепая багровая боевая черепаха",
+      "Wilde blutrote Kampfschildkröte",
+      "Tartaruga de Batalha Carmesim Selvagem",
+      "Tartaruga da Battaglia Cremisi Selvaggia",
+      "포악한 진홍색 전투거북",
+      "野蠻赤紅戰龜",
+      "野红战龟"
+    ],
+    "Media": "inv_turtlemount2_red.jpg"
+  },
+  {
+    "TagId": 2825,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Cloudborn Razorwing",
+      "Alatajo natonube",
+      "Talhasa Natinimbus",
+      "Cloudborn Razorwing",
+      "Alafilada nubífero",
+      "Rasaile des nuées",
+      "Облачный бритвокрыл",
+      "Wolkengeborene Klingenschwinge",
+      "Talhasa Natinimbus",
+      "Alafina Nubegenito",
+      "구름살이 칼날날개",
+      "雲裔刃翼",
+      "云裔刀翼兽"
+    ],
+    "Media": "inv_mawexpansionfliermountwhite.jpg"
   }
 ]

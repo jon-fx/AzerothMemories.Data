@@ -166,6 +166,27 @@
     ]
   },
   {
+    "TagId": 1252051,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses",
+      "[DNT] Test Level Up Houses"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1252052,
     "TagType": 26,
     "Names": [
@@ -425,6 +446,26 @@
       "병기: 은하를 누비는 전투사의 무기",
       "武器庫：星界好戰者武器",
       "军械：星界好战者的武器"
+    ]
+  },
+  {
+    "TagId": 1252088,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dismiss Tome",
+      "Retirar tomo",
+      "Dispensar Tomo",
+      "Dismiss Tome",
+      "Retirar tomo",
+      "Renvoi de tome",
+      "Отложить собрание летописей",
+      "Folianten freigeben",
+      "Dispensar Tomo",
+      "Chiusura Tomo",
+      "고서 소환 해제",
+      "解散典籍",
+      "解散宝典"
     ]
   },
   {
@@ -827,6 +868,69 @@
     "Media": "inv_cosmicvoid_buff.jpg"
   },
   {
+    "TagId": 1252380,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Shadowmoon Open-Air Shed to storage",
+      "Almacenar cobertizo de exteriores sombraluna",
+      "Colocar Choupana a Céu Aberto da Lua Negra no Armazenamento",
+      "Add Shadowmoon Open-Air Shed to storage",
+      "Añadir choza abierta de Sombraluna al almacenamiento",
+      "Placer un abri de plein air d’Ombrelune dans la réserve",
+      "Добавить уличный навес Призрачной Луны на склад",
+      "Offenen Schattenmondschuppen zur Haustruhe hinzufügen",
+      "Colocar Choupana a Céu Aberto da Lua Negra no Armazenamento",
+      "Aggiunta Capanno a Cielo Aperto dei Torvaluna al Magazzino",
+      "어둠달 옥외 헛간 창고 추가",
+      "將影月谷開放式小屋加入收藏",
+      "将影月开放式棚屋放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252381,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenic Fencepost",
+      "Poste de cerca draénico",
+      "Poste de Cerca Draenoriano",
+      "Draenic Fencepost",
+      "Poste de cerca draénico",
+      "Piquet draenique",
+      "Дренейский столб",
+      "Draenischer Zaunpfahl",
+      "Poste de Cerca Draenoriano",
+      "Palo per Recinzione Draenoriano",
+      "드레나이 울타리 말뚝",
+      "德萊尼欄杆柱",
+      "德莱尼栅栏桩"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252382,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenic Ottoman",
+      "Otomana draénica",
+      "Almofadão Draenoriano",
+      "Draenic Ottoman",
+      "Sofá sin respaldo draénico",
+      "Ottomane draenique",
+      "Дренейский пуфик",
+      "Draenisches Sitzkissen",
+      "Almofadão Draenoriano",
+      "Ottomana Draenoriana",
+      "드레나이 오토만",
+      "德萊尼沙發",
+      "德莱尼搁脚凳"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1252394,
     "TagType": 26,
     "Names": [
@@ -846,6 +950,195 @@
       "卡雷什之沙"
     ],
     "Media": "inv_112_achievement_zone_karesh.jpg"
+  },
+  {
+    "TagId": 1252395,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Embroidered Embaari Tent to storage",
+      "Almacenar tienda embaari bordada",
+      "Colocar Barraca Ornada Embaari no Armazenamento",
+      "Add Embroidered Embaari Tent to storage",
+      "Añadir tienda Embaari bordada al almacenamiento",
+      "Placer une tente brodée d’Embarii dans la réserve",
+      "Добавить расшитый шатер Эмбаари на склад",
+      "Besticktes Zelt aus Embaari zur Haustruhe hinzufügen",
+      "Colocar Barraca Ornada Embaari no Armazenamento",
+      "Aggiunta Tenda di Embaari Ricamata al Magazzino",
+      "수놓은 엠바리 천막 창고 추가",
+      "將鑲邊安伯瑞帳篷加入收藏",
+      "将镶边安波里帐篷放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenic Wooden Table",
+      "Mesa de madera draénica",
+      "Mesa de Madeira Draenoriana",
+      "Draenic Wooden Table",
+      "Mesa de madera draénica",
+      "Table draenique en bois",
+      "Дренейский деревянный стол",
+      "Draenischer Holztisch",
+      "Mesa de Madeira Draenoriana",
+      "Tavolo di Legno Draenoriano",
+      "드레나이 목재 탁자",
+      "德萊尼木桌",
+      "德莱尼木制桌子"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252397,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Square Draenic Table",
+      "Mesa cuadrada draénica",
+      "Mesa Draenoriana Quadrada",
+      "Square Draenic Table",
+      "Mesa cuadrada draénica",
+      "Table draenique carrée",
+      "Квадратный дренейский стол",
+      "Quadratischer Draeneitisch",
+      "Mesa Draenoriana Quadrada",
+      "Tavolo Quadrato Draenoriano",
+      "사각형 드레나이 탁자",
+      "德萊尼方形桌",
+      "方形德莱尼桌子"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252398,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Shadowmoon Greenhouse to storage",
+      "Almacenar invernadero sombraluna",
+      "Colocar Estufa da Lua Negra no Armazenamento",
+      "Add Shadowmoon Greenhouse to storage",
+      "Añadir invernadero de Sombraluna al almacenamiento",
+      "Placer une serre d’Ombrelune dans la réserve",
+      "Добавить оранжерею Призрачной Луны на склад",
+      "Schattenmondgewächshaus zur Haustruhe hinzufügen",
+      "Colocar Estufa da Lua Negra no Armazenamento",
+      "Aggiunta Serra dei Torvaluna al Magazzino",
+      "어둠달 온실 창고 추가",
+      "將影月谷溫室加入收藏",
+      "将影月温室放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252399,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenic Wooden Wall Shelf",
+      "Estante de pared de madera draénico",
+      "Prateleira de Parede de Madeira Draenoriana",
+      "Draenic Wooden Wall Shelf",
+      "Estante de muro de madera draénico",
+      "Étagère murale draenique en bois",
+      "Дренейская деревянная настенная полка",
+      "Draenisches Holzwandregal",
+      "Prateleira de Parede de Madeira Draenoriana",
+      "Mensola in Legno Draenoriano",
+      "드레나이 목재 벽 선반",
+      "德萊尼木壁架",
+      "德莱尼木制壁挂架子"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252400,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Elodor Armory Rack to storage",
+      "Almacenar expositor de armamento elodor",
+      "Colocar Cavalete de Armadura de Elodor no Armazenamento",
+      "Add Elodor Armory Rack to storage",
+      "Añadir expositor de armamento de Elodar al almacenamiento",
+      "Placer un râtelier d’armurerie d’Élodor dans la réserve",
+      "Добавить элодорскую оружейную стойку на склад",
+      "Arsenalständer aus Elodor zur Haustruhe hinzufügen",
+      "Colocar Cavalete de Armadura de Elodor no Armazenamento",
+      "Aggiunta Rastrelliera dell'Armeria di Elodor al Magazzino",
+      "엘로도르 무기고 선반 창고 추가",
+      "將埃羅多爾軍械架加入收藏",
+      "将艾洛多尔军械架放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252401,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenei Stargazer's Telescope",
+      "Telescopio de astrónomo draenei",
+      "Telescópio de Miráster Draenoriano",
+      "Draenei Stargazer's Telescope",
+      "Telescopio de ojoestelar draenei",
+      "Télescope d’astronome draeneï",
+      "Дренейский телескоп звездочета",
+      "Teleskop des Draeneisternguckers",
+      "Telescópio de Miráster Draenoriano",
+      "Telescopio da Scrutastelle dei Draenei",
+      "드레나이 별응시자의 망원경",
+      "德萊尼凝星者的望遠鏡",
+      "德莱尼观星者的望远镜"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252402,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenethyst Lantern",
+      "Farol draenetista",
+      "Lanterna de Draenetista",
+      "Draenethyst Lantern",
+      "Farol de draenetista",
+      "Lanterne en draenéthyste",
+      "Дренетистовый фонарь",
+      "Draenethystlaterne",
+      "Lanterna de Draenetista",
+      "Lanterna di Draenetista",
+      "드레니시스트 등불",
+      "德萊尼燈籠",
+      "德拉诺水晶灯笼"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252403,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add \"Dawning Hope\" Mosaic to storage",
+      "Almacenar mosaico \"Esperanza del alba",
+      "Colocar Mosaico \"Esperança Nascente\" no Armazenamento",
+      "Add \"Dawning Hope\" Mosaic to storage",
+      "Añadir mosaico \"Esperanza del atardecer\" al almacenamiento",
+      "Placer une mosaïque «\u00A0Espoir naissant\u00A0» dans la réserve",
+      "Добавить мозаику \"Заря надежды\" на склад",
+      "Mosaik \"Aufkeimende Hoffnung\" zur Haustruhe hinzufügen",
+      "Colocar Mosaico \"Esperança Nascente\" no Armazenamento",
+      "Aggiunta Mosaico \"Speranza Nascente\" al Magazzino",
+      "\"희망의 여명\" 모자이크 창고 추가",
+      "將「拂曉希望」鑲嵌畫加入收藏",
+      "将“晨光希望”镶嵌放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
   },
   {
     "TagId": 1252407,
@@ -953,6 +1246,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1252441,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Small Karabor Fountain",
+      "Fuente pequeña de Karabor",
+      "Fonte de Karabor Pequena",
+      "Small Karabor Fountain",
+      "Fuente de Karabor pequeña",
+      "Petite fontaine de Karabor",
+      "Маленький караборский фонтан",
+      "Kleiner Brunnen aus Karabor",
+      "Fonte de Karabor Pequena",
+      "Fontana Piccola di Karabor",
+      "소형 카라보르 분수대",
+      "小型卡拉伯爾噴泉",
+      "小型卡拉波喷泉"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252442,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Moon-Blessed Barrel",
+      "Barril bendecido por la luna",
+      "Barril Abençoado pela Lua",
+      "Moon-Blessed Barrel",
+      "Barril bendecido por la luna",
+      "Tonneau béni par la lune",
+      "Благословленная луной бочка",
+      "Mondgesegnetes Fass",
+      "Barril Abençoado pela Lua",
+      "Barile Benedetto dalla Luna",
+      "달의 축복 통",
+      "月祐木桶",
+      "月福之桶"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252443,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Draenic Basin to storage",
+      "Almacenar cuenco draénico",
+      "Colocar Cuba Draenoriana no Armazenamento",
+      "Add Draenic Basin to storage",
+      "Añadir cuenco draénico al almacenamiento",
+      "Placer un bassin draenique dans la réserve",
+      "Добавить дренейскую купель на склад",
+      "Draenisches Becken zur Haustruhe hinzufügen",
+      "Colocar Cuba Draenoriana no Armazenamento",
+      "Aggiunta Bacino Draenoriano al Magazzino",
+      "드레나이 대야 창고 추가",
+      "將德萊尼水盆加入收藏",
+      "将德莱尼盆子放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1252444,
     "TagType": 26,
     "Names": [
@@ -1035,6 +1391,48 @@
       "侍王之奴"
     ],
     "Media": "spell_holy_prayerofshadowprotection.jpg"
+  },
+  {
+    "TagId": 1252453,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]",
+      "Teleport - Stormwind [DNT]"
+    ],
+    "Media": "spell_arcane_teleportdalaran.jpg"
+  },
+  {
+    "TagId": 1252454,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]",
+      "Teleport - Orgrimmar [DNT]"
+    ],
+    "Media": "spell_arcane_teleportdalaran.jpg"
   },
   {
     "TagId": 1252455,
@@ -1231,7 +1629,7 @@
     "Names": [
       null,
       "Void Rift Storm",
-      "Tormenta de falla de Vacío",
+      "Tormenta de falla del Vacío",
       "Tempestade da Fissura do Caos",
       "Void Rift Storm",
       "Tormenta de falla de Vacío",
@@ -1310,6 +1708,174 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1252639,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Telredor Recliner",
+      "Tumbona de Telredor",
+      "Espreguiçadeira de Telredor",
+      "Telredor Recliner",
+      "Sillón reclinable de Telredor",
+      "Siège inclinable de Telredor",
+      "Телредорское глубокое кресло",
+      "Liege aus Telredor",
+      "Espreguiçadeira de Telredor",
+      "Poltrona Reclinabile di Telredor",
+      "텔레도르 안락의자",
+      "泰倫多爾躺椅",
+      "泰雷多尔躺椅"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252640,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Razorwind Cooking Grill",
+      "Parrilla de Ventajo",
+      "Grelha de Cozinha de Vento Cortante",
+      "Razorwind Cooking Grill",
+      "Parrilla de cocina del Ventajo",
+      "Grill de Tranchevent",
+      "Решетка для гриля Колючего Ветра",
+      "Kochgrill der Klingenschlucht",
+      "Grelha de Cozinha de Vento Cortante",
+      "Griglia di Cottura di Brezza Aguzza",
+      "칼끝바람 요리 석쇠",
+      "烈風烹飪烤架",
+      "烈风烹饪烤架"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252647,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Argussian Circular Rug",
+      "Alfombra circular argusiana",
+      "Tapete Circular Argussiano",
+      "Argussian Circular Rug",
+      "Alfombra circular de Argus",
+      "Tapis circulaire argusséen",
+      "Аргусский круглый коврик",
+      "Runder Teppich von Argus",
+      "Tapete Circular Argussiano",
+      "Tappeto Circolare di Argus",
+      "아르거시안 원형 양탄자",
+      "阿古斯圓地毯",
+      "阿古斯圆形毯子"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252648,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Draenei Farmer's Trellis to storage",
+      "Almacenar enrejado de granjero draenei",
+      "Colocar Treliça de Fazenda Draeneica no Armazenamento",
+      "Add Draenei Farmer's Trellis to storage",
+      "Añadir pérgola de granjero draenei al almacenamiento",
+      "Placer une treille de ferme draeneï dans la réserve",
+      "Добавить дренейскую фермерскую решетку на склад",
+      "Rankgerüst des Draeneibauern zur Haustruhe hinzufügen",
+      "Colocar Treliça de Fazenda Draeneica no Armazenamento",
+      "Aggiunta Traliccio da Fattoria dei Draenei al Magazzino",
+      "드레나이 농부의 격자망 창고 추가",
+      "將德萊尼農夫的棚架加入收藏",
+      "将德莱尼农夫的篱笆放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252649,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenic Fence",
+      "Cerca draénica",
+      "Cerca Draenoriana",
+      "Draenic Fence",
+      "Cerca draénica",
+      "Clôture draenique",
+      "Дренейская ограда",
+      "Draenischer Zaun",
+      "Cerca Draenoriana",
+      "Recinzione Draenoriana",
+      "드레나이 울타리",
+      "德萊尼柵欄",
+      "德莱尼栅栏"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252651,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Emblem of the Naaru's Blessing",
+      "Emblema de bendición de los naaru",
+      "Emblema da Bênção dos Naaru",
+      "Emblem of the Naaru's Blessing",
+      "Emblema de la bendición del naaru",
+      "Emblème de la bénédiction des Naaru",
+      "Эмблема благословения наару",
+      "Emblem des Segens der Naaru",
+      "Emblema da Bênção dos Naaru",
+      "Emblema della Benedizione dei Naaru",
+      "나루의 축복 문장",
+      "那魯祝福紋章",
+      "纳鲁祝福纹章"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252652,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenethyst Sconce",
+      "Aplique draenetista",
+      "Arandela de Draenetista",
+      "Draenethyst Sconce",
+      "Aplique de draenetista",
+      "Bougeoir en draenéthyste",
+      "Дренетистовый светильник",
+      "Draenethystwandleuchte",
+      "Arandela de Draenetista",
+      "Candeliere di Draenetista",
+      "드레니시스트 촛대",
+      "德萊尼燭台",
+      "德拉诺水晶灯台"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252653,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grand Draenethyst Lamp",
+      "Lámpara grande draenetista",
+      "Lanterna de Draenetista Grande",
+      "Grand Draenethyst Lamp",
+      "Lámpara de draenetista majestuosa",
+      "Grande lampe en draenéthyste",
+      "Большая дренетистовая лампа",
+      "Große Draenethystlampe",
+      "Lanterna de Draenetista Grande",
+      "Lampada di Draenetista Grandiosa",
+      "웅장한 드레니시스트 등불",
+      "宏偉德萊尼油燈",
+      "大型德拉诺水晶灯具"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1252657,
     "TagType": 26,
     "Names": [
@@ -1327,6 +1893,27 @@
       "[DNT] Death Sequence",
       "[DNT] Death Sequence",
       "[DNT] Death Sequence"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252658,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon",
+      "[DNT] Treasure Hunting Beacon"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -1604,6 +2191,27 @@
     "Media": "inv_artifact_tome01.jpg"
   },
   {
+    "TagId": 1252746,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)",
+      "[DNT] Fishing (Brain channel version)"
+    ],
+    "Media": "ui_profession_fishing.jpg"
+  },
+  {
     "TagId": 1252762,
     "TagType": 26,
     "Names": [
@@ -1877,6 +2485,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1252835,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Netherlight Command Map",
+      "Mapa del comando de Luz Abisal",
+      "Mapa de Comando de Eterluz",
+      "Netherlight Command Map",
+      "Mapa de mando de Luz Abisal",
+      "Carte de commandement de Halo-du-Néant",
+      "Стратегическая карта света Пустоты",
+      "Kommandokarte des Netherlichts",
+      "Mapa de Comando de Eterluz",
+      "Mappa di Comando di Lucefatua",
+      "황천빛 사령관의 지도",
+      "虛空之光指揮圖",
+      "虚空之光指挥地图"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252836,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tusked Weapon Stand",
+      "Mostrador de armas con colmillos",
+      "Suporte de Armas com Presas",
+      "Tusked Weapon Stand",
+      "Soporte de armas con colmillos",
+      "Support d’armes à défenses",
+      "Оружейная стойка с клыками",
+      "Hauerbewehrter Waffenständer",
+      "Suporte de Armas com Presas",
+      "Supporto per Armi Zannuto",
+      "엄니 무기 고정대",
+      "獠牙武器架",
+      "獠牙武器架"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1252838,
     "TagType": 26,
     "Names": [
@@ -1896,6 +2546,48 @@
       "光缚通道"
     ],
     "Media": "spell_holy_fanaticism.jpg"
+  },
+  {
+    "TagId": 1252839,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jagged Orgrimmar Trellis",
+      "Enrejado dentado de Orgrimmar",
+      "Treliça de Orgrimmar Serrilhada",
+      "Jagged Orgrimmar Trellis",
+      "Pérgola de Orgrimmar dentada",
+      "Treille dentelée d’Orgrimmar",
+      "Оргриммарский трельяж с зубцами",
+      "Zackiges Rankgerüst aus Orgrimmar",
+      "Treliça de Orgrimmar Serrilhada",
+      "Traliccio di Orgrimmar Irregolare",
+      "삐죽삐죽한 오그리마 격자망",
+      "鋸齒奧格瑪棚架",
+      "锯齿奥格瑞玛栅栏"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252840,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hide-Covered Bench",
+      "Banco de cuero",
+      "Banco Coberto de Peles",
+      "Hide-Covered Bench",
+      "Banco cubierto por un pellejo",
+      "Banc couvert de peaux",
+      "Покрытая шкурами скамья",
+      "Lederbespannte Bank",
+      "Banco Coberto de Peles",
+      "Panca con Pelle",
+      "가죽으로 덮은 긴 의자",
+      "覆有獸皮的長椅",
+      "铺着毛皮的长椅"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
   },
   {
     "TagId": 1252844,
@@ -2045,6 +2737,90 @@
     "Media": "ui_majorfactions_ karesh.jpg"
   },
   {
+    "TagId": 1252870,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenic Forge",
+      "Forja draénica",
+      "Forja Draenoriana",
+      "Draenic Forge",
+      "Forja draénica",
+      "Forge draenique",
+      "Дренейская кузня",
+      "Draenische Schmiede",
+      "Forja Draenoriana",
+      "Forgia Draenoriana",
+      "드레나이 가열로",
+      "德萊尼熔爐",
+      "德莱尼熔炉"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252872,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura",
+      "[PH] Attacker Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252873,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252878,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1252880,
     "TagType": 26,
     "Names": [
@@ -2062,6 +2838,27 @@
       "[DNT] Root",
       "[DNT] Root",
       "[DNT] Root"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252881,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]",
+      "[PH]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -2087,6 +2884,27 @@
     "Media": "spell_druid_massentanglement.jpg"
   },
   {
+    "TagId": 1252892,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement",
+      "[DNT] Treasure Hunt Placement"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1252899,
     "TagType": 26,
     "Names": [
@@ -2104,6 +2922,27 @@
       "빛의 반향",
       "光明迴響",
       "圣光回响"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252901,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned",
+      "[DNT] Check if Treasure Spawned"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -2127,6 +2966,111 @@
       "圣光回响"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252915,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenethyst Lamppost",
+      "Farola draenetista",
+      "Poste de Luz de Draenetista",
+      "Draenethyst Lamppost",
+      "Poste de luz de draenetista",
+      "Réverbère en draenéthyste",
+      "Дренетистовый фонарный столб",
+      "Draenethystlaternenmast",
+      "Poste de Luz de Draenetista",
+      "Lampione di Draenetista",
+      "드레니시스트 가로등불",
+      "德萊尼路燈",
+      "德拉诺水晶路灯"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252916,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Add Large Karabor Fountain to storage",
+      "Almacenar fuente de Karabor grande",
+      "Colocar Fonte de Karabor Grande no Armazenamento",
+      "Add Large Karabor Fountain to storage",
+      "Añadir fuente de Karabor grande al almacenamiento",
+      "Placer une grande fontaine de Karabor dans la réserve",
+      "Добавить крупный караборский фонтан на склад",
+      "Großen Brunnen aus Karabor zur Haustruhe hinzufügen",
+      "Colocar Fonte de Karabor Grande no Armazenamento",
+      "Aggiunta Fontana Grande di Karabor al Magazzino",
+      "대형 카라보르 분수대 창고 추가",
+      "將大型卡拉伯爾噴泉加入收藏",
+      "将大型卡拉波喷泉放入储存空间"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252917,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Draenethyst String Lights",
+      "Guirnalda de luces draenetista",
+      "Cordão de Luzes de Draenetista",
+      "Draenethyst String Lights",
+      "Fila de luces de draenetista",
+      "Guirlande lumineuse en draenéthyste",
+      "Дренетистовая гирлянда",
+      "Draenethystlichterkette",
+      "Cordão de Luzes de Draenetista",
+      "Stringa di Luci di Draenetista",
+      "드레니시스트 끈 조명",
+      "德萊尼燈串",
+      "德拉诺水晶串灯"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1252937,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh",
+      "[DNT]  Treasure Hunt Refresh"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252951,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Punt!",
+      "¡Puntapié!",
+      "Pontapé!",
+      "Punt!",
+      "¡Puntapié!",
+      "Botté\u00A0!",
+      "Пинок!",
+      "Wegtreten!",
+      "Pontapé!",
+      "Calcio Puntato!",
+      "차내기!",
+      "踹！",
+      "踢飞！"
+    ],
+    "Media": "ability_monk_mightyoxkick.jpg"
   },
   {
     "TagId": 1252952,
@@ -2253,5 +3197,26 @@
       "[DNT] Launch Quest"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252977,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Punt!",
+      "¡Puntapié!",
+      "Pontapé!",
+      "Punt!",
+      "¡Puntapié!",
+      "Botté\u00A0!",
+      "Пинок!",
+      "Wegtreten!",
+      "Pontapé!",
+      "Calcio Puntato!",
+      "차내기!",
+      "踹！",
+      "踢飞！"
+    ],
+    "Media": "ability_monk_mightyoxkick.jpg"
   }
 ]
