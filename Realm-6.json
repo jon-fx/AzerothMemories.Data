@@ -308,9 +308,9 @@
       "US-Nazgrim (Classic)",
       "US-Nazgrim (Classic)",
       "US-Nazgrim (Classic)",
-      "US-Nazgrim (Classic)",
-      "US-Nazgrim (Classic)",
-      "US-Nazgrim (Classic)"
+      "US-나즈그림 (Classic)",
+      "US-納茲格寧姆 (Classic)",
+      "US-纳兹戈林 (Classic)"
     ],
     "Media": "nazgrim"
   },
@@ -329,9 +329,9 @@
       "US-Galakras (Classic)",
       "US-Galakras (Classic)",
       "US-Galakras (Classic)",
-      "US-Galakras (Classic)",
-      "US-Galakras (Classic)",
-      "US-Galakras (Classic)"
+      "US-갈라크라스 (Classic)",
+      "US-葛拉卡斯 (Classic)",
+      "US-迦拉卡斯 (Classic)"
     ],
     "Media": "galakras"
   },
@@ -345,14 +345,14 @@
       "US-Ra-den (Classic)",
       "US-Ra-den (Classic)",
       "US-Ra-den (Classic)",
+      "US-Ra Den (Classic)",
       "US-Ra-den (Classic)",
       "US-Ra-den (Classic)",
       "US-Ra-den (Classic)",
-      "US-Ra-den (Classic)",
-      "US-Ra-den (Classic)",
-      "US-Ra-den (Classic)",
-      "US-Ra-den (Classic)",
-      "US-Ra-den (Classic)"
+      "US-Ra-Den (Classic)",
+      "US-라덴 (Classic)",
+      "US-萊公 (Classic)",
+      "US-莱登 (Classic)"
     ],
     "Media": "raden"
   },
@@ -371,9 +371,9 @@
       "US-Lei Shen (Classic)",
       "US-Lei Shen (Classic)",
       "US-Lei Shen (Classic)",
-      "US-Lei Shen (Classic)",
-      "US-Lei Shen (Classic)",
-      "US-Lei Shen (Classic)"
+      "US-레이 션 (Classic)",
+      "US-雷神 (Classic)",
+      "US-雷神 (Classic)"
     ],
     "Media": "lei-shen"
   },
@@ -392,9 +392,9 @@
       "US-Immerseus (Classic)",
       "US-Immerseus (Classic)",
       "US-Immerseus (Classic)",
-      "US-Immerseus (Classic)",
-      "US-Immerseus (Classic)",
-      "US-Immerseus (Classic)"
+      "US-잿빛너울 (Classic)",
+      "US-伊莫爾西斯 (Classic)",
+      "US-伊墨苏斯 (Classic)"
     ],
     "Media": "immerseus"
   },
@@ -408,14 +408,14 @@
       "EU-Shek'zeer (Classic)",
       "EU-Shek'zeer (Classic)",
       "EU-Shek'zeer (Classic)",
+      "EU-Shek’zeer (Classic)",
       "EU-Shek'zeer (Classic)",
       "EU-Shek'zeer (Classic)",
       "EU-Shek'zeer (Classic)",
       "EU-Shek'zeer (Classic)",
-      "EU-Shek'zeer (Classic)",
-      "EU-Shek'zeer (Classic)",
-      "EU-Shek'zeer (Classic)",
-      "EU-Shek'zeer (Classic)"
+      "EU-셰크지르 (Classic)",
+      "EU-杉齊爾 (Classic)",
+      "EU-夏柯希尔 (Classic)"
     ],
     "Media": "shekzeer"
   },
@@ -434,9 +434,9 @@
       "EU-Garalon (Classic)",
       "EU-Garalon (Classic)",
       "EU-Garalon (Classic)",
-      "EU-Garalon (Classic)",
-      "EU-Garalon (Classic)",
-      "EU-Garalon (Classic)"
+      "EU-가랄론 (Classic)",
+      "EU-加拉隆 (Classic)",
+      "EU-加拉隆 (Classic)"
     ],
     "Media": "garalon"
   },
@@ -455,9 +455,9 @@
       "EU-Norushen (Classic)",
       "EU-Norushen (Classic)",
       "EU-Norushen (Classic)",
-      "EU-Norushen (Classic)",
-      "EU-Norushen (Classic)",
-      "EU-Norushen (Classic)"
+      "EU-노루셴 (Classic)",
+      "EU-諾努衫 (Classic)",
+      "EU-诺鲁什 (Classic)"
     ],
     "Media": "norushen"
   },
@@ -468,17 +468,17 @@
       "EU-Hoptallus (Classic)",
       "EU-Hoptallus (Classic)",
       "EU-Hoptallus (Classic)",
+      "EU-Saltallus (Classic)",
+      "EU-Hoptallus (Classic)",
+      "EU-Hoptallus (Classic)",
+      "EU-Sautallus (Classic)",
       "EU-Hoptallus (Classic)",
       "EU-Hoptallus (Classic)",
       "EU-Hoptallus (Classic)",
       "EU-Hoptallus (Classic)",
-      "EU-Hoptallus (Classic)",
-      "EU-Hoptallus (Classic)",
-      "EU-Hoptallus (Classic)",
-      "EU-Hoptallus (Classic)",
-      "EU-Hoptallus (Classic)",
-      "EU-Hoptallus (Classic)",
-      "EU-Hoptallus (Classic)"
+      "EU-홉탈루스 (Classic)",
+      "EU-跳跳巨兔妖 (Classic)",
+      "EU-跳跳大王 (Classic)"
     ],
     "Media": "hoptallus"
   },
@@ -525,6 +525,27 @@
     "Media": "us-auxiliary-70"
   },
   {
+    "TagId": 6509,
+    "TagType": 4,
+    "Names": [
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70",
+      "KR-KR Auxiliary 70"
+    ],
+    "Media": "kr-auxiliary-70"
+  },
+  {
     "TagId": 6510,
     "TagType": 4,
     "Names": [
@@ -544,5 +565,26 @@
       "EU-EU Auxiliary 70"
     ],
     "Media": "eu-auxiliary-70"
+  },
+  {
+    "TagId": 6512,
+    "TagType": 4,
+    "Names": [
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170",
+      "TW-TW Auxiliary 170"
+    ],
+    "Media": "tw-auxiliary-170"
   }
 ]
