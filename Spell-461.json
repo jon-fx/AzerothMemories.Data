@@ -2791,6 +2791,27 @@
     "Media": "spell_priest_divinestar_holy.jpg"
   },
   {
+    "TagId": 461251,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Charged Missiles",
+      "Misiles cargados",
+      "Projéteis Carregados",
+      "Charged Missiles",
+      "Misiles cargados",
+      "Projectiles chargés",
+      "Заряженные стрелы",
+      "Aufgeladene Geschosse",
+      "Projéteis Carregados",
+      "Missili Caricati",
+      "충전된 투사체",
+      "充能飛彈",
+      "充能飞弹"
+    ],
+    "Media": "ability_mage_missilebarrage.jpg"
+  },
+  {
     "TagId": 461255,
     "TagType": 26,
     "Names": [
@@ -2816,21 +2837,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Static Cloud",
-      "Nube estática",
-      "Nuvem Estática",
-      "Static Cloud",
-      "Nube estática",
-      "Nuage statique",
-      "Статическое облако",
-      "Statische Wolke",
-      "Nuvem Estática",
-      "Nube Statica",
-      "정전기 구름",
-      "靜止之雲",
-      "静电遮蔽"
+      "Focusing Crystal",
+      "Cristal de enfoque",
+      "Cristal de Concentração",
+      "Focusing Crystal",
+      "Cristal de enfoque",
+      "Cristal de focalisation",
+      "Фокусирующий кристалл",
+      "Fokussierkristall",
+      "Cristal de Concentração",
+      "Cristallo Focalizzante",
+      "집중의 수정",
+      "聚焦水晶",
+      "聚焦水晶"
     ],
-    "Media": "inv_misc_stormlordsfavor.jpg"
+    "Media": "ability_racial_arcaneaffinity.jpg"
   },
   {
     "TagId": 461259,
@@ -2879,19 +2900,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Big Brained",
-      "Gran intelecto",
-      "Cabeção",
-      "Big Brained",
-      "Gran pensador",
-      "Grosse cervelle",
-      "Светлая голова",
-      "Hirnschmalz",
-      "Cabeção",
-      "Cervellone",
-      "지성인",
-      "腦力大增",
-      "清晰头脑"
+      "Brainstorm",
+      "Tormenta mental",
+      "Tempestade Cerebral",
+      "Brainstorm",
+      "Inspiración mental",
+      "Tempête cérébrale",
+      "Мозговой шторм",
+      "Geistesblitz",
+      "Tempestade Cerebral",
+      "Colpo di Genio",
+      "두뇌의 폭풍",
+      "腦力激盪",
+      "头脑风暴"
     ],
     "Media": "ability_kaztik_dominatemind.jpg"
   },
@@ -6258,19 +6279,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Big Brained",
-      "Gran intelecto",
-      "Cabeção",
-      "Big Brained",
-      "Gran pensador",
-      "Grosse cervelle",
-      "Светлая голова",
-      "Hirnschmalz",
-      "Cabeção",
-      "Cervellone",
-      "지성인",
-      "腦力大增",
-      "清晰头脑"
+      "Brainstorm",
+      "Tormenta mental",
+      "Tempestade Cerebral",
+      "Brainstorm",
+      "Inspiración mental",
+      "Tempête cérébrale",
+      "Мозговой шторм",
+      "Geistesblitz",
+      "Tempestade Cerebral",
+      "Colpo di Genio",
+      "두뇌의 폭풍",
+      "腦力激盪",
+      "头脑风暴"
     ],
     "Media": "ability_kaztik_dominatemind.jpg"
   },
@@ -10084,7 +10105,7 @@
       "宇宙昇華",
       "星宇飞升"
     ],
-    "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 461907,
@@ -10294,7 +10315,7 @@
       "薩拉塔斯的交易：晉升者",
       "萨拉塔斯的交易：扬升"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 461917,
@@ -10546,7 +10567,7 @@
       "薩拉塔斯的交易：晉升者",
       "萨拉塔斯的交易：扬升"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 461935,
@@ -10567,7 +10588,7 @@
       "薩拉塔斯的交易：晉升者",
       "萨拉塔斯的交易：扬升"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 461936,
@@ -10588,7 +10609,7 @@
       "薩拉塔斯的交易：晉升者",
       "萨拉塔斯的交易：扬升"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 461937,
@@ -11131,7 +11152,7 @@
       "Cancelar Sumir + Aparecer (Até o Cancelamento)",
       "Annullamento Dissolvenza +/- (Fino alla Cancellazione)",
       "소실 + 등장 (취소할 때까지) 취소",
-      "取消淡出 + 淡入(直到取消為止)",
+      "取消淡出 + 淡入（直到取消為止）",
       "取消淡出与淡入（直到取消）"
     ],
     "Media": "trade_engineering.jpg"
@@ -11257,7 +11278,7 @@
       "Sumir + Aparecer (Até o Cancelamento)",
       "Dissolvenza +/- (Fino alla Cancellazione)",
       "소실 + 등장 (취소할 때까지)",
-      "淡出 + 淡入(直到取消為止)",
+      "淡出 + 淡入（直到取消為止）",
       "淡出与淡入（直到取消）"
     ],
     "Media": "trade_engineering.jpg"

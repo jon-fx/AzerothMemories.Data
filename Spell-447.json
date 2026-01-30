@@ -2133,7 +2133,7 @@
       "Passo Sinérgico (aplicações)",
       "Passo Sinergico (Accumuli)",
       "협공의 발걸음 (중첩)",
-      "協調步法(堆疊)",
+      "協調步法（堆疊）",
       "协同步法（叠加）"
     ],
     "Media": "trade_engineering.jpg"
@@ -2154,7 +2154,7 @@
       "Passo Sinérgico (Aura de Ajustar)",
       "Passo Sinergico (Aura di Scala)",
       "협공의 발걸음 (크기 조절 오라)",
-      "協調步法(調幅光環)",
+      "協調步法（調幅光環）",
       "协同步法（调整光环）"
     ],
     "Media": "trade_engineering.jpg"
@@ -2217,7 +2217,7 @@
       "Passo Sinérgico (Ajustar)",
       "Passo Sinergico (Scala)",
       "협공의 발걸음 (크기 조절)",
-      "協調步法(調幅)",
+      "協調步法（調幅）",
       "协同步法（调整）"
     ],
     "Media": "trade_engineering.jpg"
@@ -3277,19 +3277,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)",
-      "[PH] Firefly2 Mount (Green)"
+      "Elder Glowmite",
+      "Brillácaro ancestral",
+      "Luminácaro Ancião",
+      "Elder Glowmite",
+      "Polibrilla anciana",
+      "Ancienne mite luisante",
+      "Старый светлячок",
+      "Alte Glühmilbe",
+      "Luminácaro Ancião",
+      "Luminacaro Anziano",
+      "장로 발광진드기",
+      "老微光蜱蟲",
+      "年老的萤光螨"
     ],
     "Media": "inv_firefly2mount_green.jpg"
   },
@@ -7678,7 +7678,7 @@
       "野蠻搥擊",
       "野蛮重殴"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_arathilynxmount_black.jpg"
   },
   {
     "TagId": 447430,
@@ -7698,6 +7698,27 @@
       "[DNT] Kill Credit - Pheromones",
       "[DNT] Kill Credit - Pheromones",
       "[DNT] Kill Credit - Pheromones"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 447431,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Root Self",
+      "Enraizarse",
+      "Enraizar a Si Mesmo",
+      "Root Self",
+      "Enraizarse",
+      "Auto-immobilisation",
+      "Укоренение",
+      "Selbst festwurzeln",
+      "Enraizar a Si Mesmo",
+      "Autoimmobilizzazione",
+      "이동 불가",
+      "自我定身",
+      "自我定身"
     ],
     "Media": "trade_engineering.jpg"
   },

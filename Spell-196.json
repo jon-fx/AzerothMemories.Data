@@ -1170,7 +1170,7 @@
       "Receita: Cota Batalhante (Grau 2)",
       "Modello: Usbergo del Battagliero (Grado 2)",
       "도안: 전투결속 갑옷 (2 등급)",
-      "配方：鬥縛鍊衫(等級2)",
+      "配方：鬥縛鍊衫（等級2）",
       "配方：战缚胸甲（等级 2）"
     ],
     "Media": "ui_profession_leatherworking.jpg"
@@ -1509,6 +1509,69 @@
       "傳送門爆炸",
       "传送门爆炸"
     ]
+  },
+  {
+    "TagId": 196085,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tornado Kick",
+      "Patada de tornado",
+      "Chute Tornado",
+      "Tornado Kick",
+      "Patada de tornado",
+      "Tornade de pieds",
+      "Удар торнадо",
+      "Tornadotritt",
+      "Chute Tornado",
+      "Calcio del Tornado",
+      "선풍각",
+      "龍捲踢",
+      "飓风腿"
+    ],
+    "Media": "ability_monk_flyingdragonkick.jpg"
+  },
+  {
+    "TagId": 196086,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tornado Kick",
+      "Patada de tornado",
+      "Chute Tornado",
+      "Tornado Kick",
+      "Patada de tornado",
+      "Tornade de pieds",
+      "Удар торнадо",
+      "Tornadotritt",
+      "Chute Tornado",
+      "Calcio del Tornado",
+      "선풍각",
+      "龍捲踢",
+      "飓风腿"
+    ],
+    "Media": "ability_monk_flyingdragonkick.jpg"
+  },
+  {
+    "TagId": 196087,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tornado Kick",
+      "Patada de tornado",
+      "Chute Tornado",
+      "Tornado Kick",
+      "Patada de tornado",
+      "Tornade de pieds",
+      "Удар торнадо",
+      "Tornadotritt",
+      "Chute Tornado",
+      "Calcio del Tornado",
+      "선풍각",
+      "龍捲踢",
+      "飓风腿"
+    ],
+    "Media": "ability_monk_flyingdragonkick.jpg"
   },
   {
     "TagId": 196088,
@@ -12865,7 +12928,7 @@
       "50 Point Torch (Catch)",
       "50 Point Torch (Catch)",
       "50점 횃불 (잡기)",
-      "50 Point Torch (Catch)",
+      "50 Point Torch（Catch）",
       "50分火炬（接住）"
     ],
     "Media": "trade_engineering.jpg"
@@ -12886,7 +12949,7 @@
       "Juggle Torch (Other, Slow)",
       "Juggle Torch (Other, Slow)",
       "마술 횃불 (기타, 느림)",
-      "拋擲火炬(其他，慢)",
+      "拋擲火炬（其他，慢）",
       "Juggle Torch (Other, Slow)"
     ],
     "Media": "trade_engineering.jpg"
@@ -12928,7 +12991,7 @@
       "Juggle Torch (Other, Medium)",
       "Juggle Torch (Other, Medium)",
       "마술 횃불 (기타, 중간)",
-      "拋擲火炬(其他，中)",
+      "拋擲火炬（其他，中）",
       "Juggle Torch (Other, Medium)"
     ],
     "Media": "trade_engineering.jpg"
@@ -12949,7 +13012,7 @@
       "Juggle Torch (Other, Fast)",
       "Juggle Torch (Other, Fast)",
       "마술 횃불 (기타, 빠름)",
-      "拋擲火炬(其他，快)",
+      "拋擲火炬（其他，快）",
       "Juggle Torch (Other, Fast)"
     ],
     "Media": "trade_engineering.jpg"
@@ -15637,7 +15700,7 @@
       "Cosmetic - Druid Morph Impact (5x)",
       "Cosmetic - Druid Morph Impact (5x)",
       "장식 - 드루이드 변이 충격 (5x)",
-      "Cosmetic - Druid Morph Impact (5x)",
+      "Cosmetic - Druid Morph Impact（5x）",
       "Cosmetic - Druid Morph Impact (5x)"
     ],
     "Media": "spell_frost_arcticwinds.jpg"

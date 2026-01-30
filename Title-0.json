@@ -10849,9 +10849,9 @@
       "Matador de Rainhas %s",
       "Queenslayer %s",
       "Matarreinas %s",
-      "Assassin de la reine %s",
+      "Régicide %s",
       "Убийца королевы %s",
-      "Königinnenmörder %s",
+      "Königinnentöter %s",
       "Matador de Rainhas %s",
       "%s lo Sterminatore di Regine",
       "여왕을 쓰러뜨린 자 %s",
@@ -12560,6 +12560,46 @@
     ]
   },
   {
+    "TagId": 919,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Thorn of Twilight",
+      "%s, Espina del crepúsculo",
+      "%s, Espinho do Crepúsculo",
+      "%s, Thorn of Twilight",
+      "%s, Espina del Crepúsculo",
+      "%s, épine du crépuscule",
+      "Терн Сумерек %s",
+      "%s, Dorn des Zwielichts",
+      "%s, Espinho do Crepúsculo",
+      "%s, Spina del Crepuscolo",
+      "황혼의 가시 %s",
+      "暮光之刺%s",
+      "%s, 暮光之棘"
+    ]
+  },
+  {
+    "TagId": 920,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, Definitely Not a Cultist",
+      "%s, definitivamente no cultista",
+      "%s, Definitivamente não é um Sectário",
+      "%s, Definitely Not a Cultist",
+      "%s, Aquel que para nada es un cultor",
+      "%s, ne fait pas du tout partie d’une secte",
+      "Ни разу не сектант %s",
+      "%s, ganz sicher kein Kultist",
+      "%s, Definitivamente não é um Sectário",
+      "%s, Nient'affatto un Cultista",
+      "자칭 진짜 신도 %s",
+      "絕非邪教徒的%s",
+      "%s, 并非教徒"
+    ]
+  },
+  {
     "TagId": 924,
     "TagType": 31,
     "Names": [
@@ -12680,6 +12720,26 @@
     ]
   },
   {
+    "TagId": 935,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Loa-Speaker %s",
+      "Portavoz loa %s",
+      "Voz-dos-loas %s",
+      "Loa-Speaker %s",
+      "Portavoz de los Loa %s",
+      "Parle-Loa %s",
+      "Говорящий с лоа %s",
+      "Loasprecher %s",
+      "Voz-dos-loas %s",
+      "Oratore dei Loa %s",
+      "로아 전령 %s",
+      "羅亞語者%s",
+      "神灵代言人 %s"
+    ]
+  },
+  {
     "TagId": 937,
     "TagType": 31,
     "Names": [
@@ -12697,6 +12757,126 @@
       "구렁 탐험가 %s",
       "探究者%s",
       "地下堡行者 %s"
+    ]
+  },
+  {
+    "TagId": 938,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Galactic Marshal %s",
+      "Mariscal galáctico %s",
+      "Marechal Galáctico %s",
+      "Galactic Marshal %s",
+      "Mariscal Galáctico %s",
+      "Maréchal galactique %s",
+      "Галактический маршал %s",
+      "Galaktischer Marschall %s",
+      "Marechal Galáctico %s",
+      "Maresciallo Galattico %s",
+      "우주를 호령하는 사령관 %s",
+      "銀河元帥%s",
+      "星河元帅 %s"
+    ]
+  },
+  {
+    "TagId": 940,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Galactic Warlord %s",
+      "Señor de la guerra galáctico %s",
+      "Senhor da Guerra Galáctico %s",
+      "Galactic Warlord %s",
+      "Señor de la Guerra Galáctico %s",
+      "Seigneur de guerre %s",
+      "Галактический полководец %s",
+      "Galaktischer Kriegsfürst %s",
+      "Senhor da Guerra Galáctico %s",
+      "Signore della Guerra Galattico %s",
+      "우주를 호령하는 대장군 %s",
+      "銀河督軍%s",
+      "星河督军 %s"
+    ]
+  },
+  {
+    "TagId": 942,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Galactic Legend %s",
+      "Leyenda galáctica %s",
+      "Lenda Galáctica %s",
+      "Galactic Legend %s",
+      "Leyenda Galáctica %s",
+      "Légende galactique %s",
+      "Галактическая легенда %s",
+      "Galaktische Legende %s",
+      "Lenda Galáctica %s",
+      "Leggenda Galattica %s",
+      "우주를 호령하는 전설 %s",
+      "銀河傳奇%s",
+      "星河传奇 %s"
+    ]
+  },
+  {
+    "TagId": 944,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Galactic Gladiator %s",
+      "Gladiador galáctico %s",
+      "Gladiador Galáctico %s",
+      "Galactic Gladiator %s",
+      "Gladiador Galáctico %s",
+      "Gladiateur galactique %s",
+      "Галактический гладиатор %s",
+      "Galaktischer Gladiator %s",
+      "Gladiador Galáctico %s",
+      "Gladiatore Galattico %s",
+      "우주를 호령하는 검투사 %s",
+      "銀河鬥士%s",
+      "星河角斗士 %s"
+    ]
+  },
+  {
+    "TagId": 967,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Umbral",
+      "%s, el Umbrío",
+      "%s, a Umbrática",
+      "%s the Umbral",
+      "%s el Umbrío",
+      "%s l’ombreux",
+      "%s Сумрачный",
+      "%s der Schattenhafte",
+      "%s, a Umbrática",
+      "%s l'Ombrale",
+      "암영의 %s",
+      "晦影者%s",
+      "晦暗者 %s"
+    ]
+  },
+  {
+    "TagId": 968,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s the Umbral Hero",
+      "%s, el Héroe umbrío",
+      "%s, o Herói Umbrático",
+      "%s the Umbral Hero",
+      "%s el Héroe Umbrío",
+      "%s le héros ombreux",
+      "Сумрачный герой %s",
+      "%s der Schattenheld",
+      "%s, o Herói Umbrático",
+      "%s, l'Eroe Ombrale",
+      "암영의 영웅 %s",
+      "晦影英雄%s",
+      "晦暗英雄 %s"
     ]
   },
   {
@@ -12757,6 +12937,86 @@
       "무한한 혼돈의 %s",
       "無盡混沌者%s",
       "永恒混乱的 %s"
+    ]
+  },
+  {
+    "TagId": 974,
+    "TagType": 31,
+    "Names": [
+      null,
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s"
+    ]
+  },
+  {
+    "TagId": 975,
+    "TagType": 31,
+    "Names": [
+      null,
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s"
+    ]
+  },
+  {
+    "TagId": 976,
+    "TagType": 31,
+    "Names": [
+      null,
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s"
+    ]
+  },
+  {
+    "TagId": 977,
+    "TagType": 31,
+    "Names": [
+      null,
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s",
+      "[PH] %s"
     ]
   }
 ]

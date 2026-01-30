@@ -2377,19 +2377,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Reanimation",
-      "Reanimación",
-      "Reanimação",
-      "Reanimation",
-      "Reanimación",
-      "Réanimation",
-      "Поднятие мертвых",
-      "Zombie erschaffen",
-      "Reanimação",
-      "Rianimazione",
-      "되살리기",
-      "復生亡骸",
-      "复苏"
+      "Zombify",
+      "Zombificar",
+      "Zumbificar",
+      "Zombify",
+      "Zombificar",
+      "Zombification",
+      "Превращение в зомби",
+      "Zombifizieren",
+      "Zumbificar",
+      "Zombificazione",
+      "좀비화",
+      "殭屍化",
+      "僵尸化"
     ],
     "Media": "ability_deathknight_reanimation.jpg"
   },
@@ -6926,6 +6926,27 @@
     "Media": "ability_warrior_innerrage.jpg"
   },
   {
+    "TagId": 210372,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessing of Dawn",
+      "Bendición del amanecer",
+      "Bênção do Amanhecer",
+      "Blessing of Dawn",
+      "Bendición del alba",
+      "Bénédiction de l’aube",
+      "Благословение рассвета",
+      "Segen des Morgens",
+      "Bênção do Amanhecer",
+      "Benedizione dell'Alba",
+      "여명의 축복",
+      "黎明祝福",
+      "黎明祝福"
+    ],
+    "Media": "ability_deathwing_bloodcorruption_earth.jpg"
+  },
+  {
     "TagId": 210373,
     "TagType": 26,
     "Names": [
@@ -7073,6 +7094,27 @@
     "Media": "spell_shadow_antimagicshell.jpg"
   },
   {
+    "TagId": 210380,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessing of Dawn",
+      "Bendición del amanecer",
+      "Bênção do Amanhecer",
+      "Blessing of Dawn",
+      "Bendición del alba",
+      "Bénédiction de l’aube",
+      "Благословение рассвета",
+      "Segen des Morgens",
+      "Bênção do Amanhecer",
+      "Benedizione dell'Alba",
+      "여명의 축복",
+      "黎明祝福",
+      "黎明祝福"
+    ],
+    "Media": "ability_deathwing_bloodcorruption_earth.jpg"
+  },
+  {
     "TagId": 210381,
     "TagType": 26,
     "Names": [
@@ -7113,6 +7155,27 @@
       "透心折磨"
     ],
     "Media": "ability_socererking_arcanemines.jpg"
+  },
+  {
+    "TagId": 210383,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blessing of Dawn",
+      "Bendición del amanecer",
+      "Bênção do Amanhecer",
+      "Blessing of Dawn",
+      "Bendición del alba",
+      "Bénédiction de l’aube",
+      "Благословение рассвета",
+      "Segen des Morgens",
+      "Bênção do Amanhecer",
+      "Benedizione dell'Alba",
+      "여명의 축복",
+      "黎明祝福",
+      "黎明祝福"
+    ],
+    "Media": "ability_deathwing_bloodcorruption_earth.jpg"
   },
   {
     "TagId": 210384,
@@ -14120,7 +14183,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14161,7 +14224,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14245,7 +14308,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14328,7 +14391,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14349,7 +14412,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14390,7 +14453,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14474,7 +14537,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14516,7 +14579,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -14663,7 +14726,7 @@
       "Teleport (DND)",
       "Teleport (DND)",
       "순간이동(DND)",
-      "Teleport (DND)",
+      "Teleport（DND）",
       "Teleport (DND)"
     ],
     "Media": "spell_shadow_teleport.jpg"
@@ -15170,7 +15233,7 @@
       "魔導師之觸",
       "大法师之触"
     ],
-    "Media": "ability_mage_netherwindpresence.jpg"
+    "Media": "inv_ability_mage_radiantspark.jpg"
   },
   {
     "TagId": 210825,
@@ -15359,7 +15422,7 @@
       "魔導師之觸",
       "大法师之触"
     ],
-    "Media": "ability_mage_netherwindpresence.jpg"
+    "Media": "inv_ability_mage_radiantspark.jpg"
   },
   {
     "TagId": 210834,

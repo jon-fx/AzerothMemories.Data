@@ -1,5 +1,1349 @@
 [
   {
+    "TagId": 250000,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Frenzyward of the Black Talon",
+      "Amparo del frenesí de la garranegra",
+      "Guarda Frenética da Garra Negra",
+      "Frenzyward of the Black Talon",
+      "Resguardo frenético de los Garranegra",
+      "Garde-frénésie de la Serre noire",
+      "Оберег буйства Черного когтя",
+      "Rasereischutz der Schwarzkrallen",
+      "Guarda Frenética da Garra Negra",
+      "Egida Frenetica dell'Artiglio Nero",
+      "검은 갈퀴발톱의 광란수호물",
+      "黑爪狂衛",
+      "黑爪龙人的狂乱结界"
+    ],
+    "Media": "inv_chest_mail_raidevokermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250001,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Disappearing Cloth of the Grim Jest",
+      "Tela desaparecida de bufonería funesta",
+      "Tecido Desvanecente da Alegria Macabra",
+      "Disappearing Cloth of the Grim Jest",
+      "Tela de desaparición de la broma macabra",
+      "Tissu de dissimulation de la farce sinistre",
+      "Плащ-невидимка мрачных острот",
+      "Verschwindender Stoff der grauenvollen Narretei",
+      "Tecido Desvanecente da Alegria Macabra",
+      "Tessuto Fantasma della Macabra Beffa",
+      "암담한 재담의 사라지는 천",
+      "弄臣隱身布披",
+      "冷酷戏谑的消失披风"
+    ],
+    "Media": "inv_cape_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250002,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trick Bracers of the Grim Jest",
+      "Brazales de trucos de bufonería funesta",
+      "Braçadeiras Travessas da Alegria Macabra",
+      "Trick Bracers of the Grim Jest",
+      "Brazales para trucos de la broma macabra",
+      "Brassards blagueurs de la farce sinistre",
+      "Наручи для трюков мрачных острот",
+      "Trickschienen der grauenvollen Narretei",
+      "Braçadeiras Travessas da Alegria Macabra",
+      "Bracciali Ingannevoli della Macabra Beffa",
+      "암담한 재담의 속임수 팔보호구",
+      "弄臣戲法護腕",
+      "冷酷戏谑的诡计护腕"
+    ],
+    "Media": "inv_bracer_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250003,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Toolbelt of the Grim Jest",
+      "Cinturón de herramientas de bufonería funesta",
+      "Cinto de Ferramentas da Alegria Macabra",
+      "Toolbelt of the Grim Jest",
+      "Cinturón portaherramientas de la broma macabra",
+      "Ceinture porte-outils de la farce sinistre",
+      "Пояс с инструментами мрачных острот",
+      "Werkzeuggürtel der grauenvollen Narretei",
+      "Cinto de Ferramentas da Alegria Macabra",
+      "Cintura di Attrezzi della Macabra Beffa",
+      "암담한 재담의 도구 허리띠",
+      "弄臣工具腰帶",
+      "冷酷戏谑的工具腰带"
+    ],
+    "Media": "inv_belt_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250004,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Venom Casks of the Grim Jest",
+      "Tonel venenoso de bufonería funesta",
+      "Barris de Veneno da Alegria Macabra",
+      "Venom Casks of the Grim Jest",
+      "Toneles de veneno de la broma macabra",
+      "Épaulettes venimeuses de la farce sinistre",
+      "Флаконы с ядом мрачных острот",
+      "Giftbehälter der grauenvollen Narretei",
+      "Barris de Veneno da Alegria Macabra",
+      "Barili di Veleno della Macabra Beffa",
+      "암담한 재담의 맹독 보관통",
+      "弄臣劇毒桶肩",
+      "冷酷戏谑的剧毒之桶"
+    ],
+    "Media": "inv_shoulder_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250005,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blade Holsters of the Grim Jest",
+      "Fundas de sable de bufonería funesta",
+      "Coldres de Lâminas da Alegria Macabra",
+      "Blade Holsters of the Grim Jest",
+      "Vainas de hojas de la broma macabra",
+      "Fourreaux de la farce sinistre",
+      "Ножны мрачных острот",
+      "Klingenholster der grauenvollen Narretei",
+      "Coldres de Lâminas da Alegria Macabra",
+      "Fodere per Lame della Macabra Beffa",
+      "암담한 재담의 칼날집",
+      "弄臣刀刃腿套",
+      "冷酷戏谑的利刃刀囊"
+    ],
+    "Media": "inv_pant_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250006,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Masquerade of the Grim Jest",
+      "Mascarada de bufonería funesta",
+      "Máscara de Baile da Alegria Macabra",
+      "Masquerade of the Grim Jest",
+      "Mascarada de la broma macabra",
+      "Mascarade de la farce sinistre",
+      "Маскарад мрачных острот",
+      "Maskerade der grauenvollen Narretei",
+      "Máscara de Baile da Alegria Macabra",
+      "Mascherata della Macabra Beffa",
+      "암담한 재담의 가면",
+      "弄臣假面",
+      "冷酷戏谑的假面"
+    ],
+    "Media": "inv_helm_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250007,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sleight of Hand of the Grim Jest",
+      "Prestidigitación de bufonería funesta",
+      "Mão Leve da Alegria Macabra",
+      "Sleight of Hand of the Grim Jest",
+      "Juego de manos de la broma macabra",
+      "Tour de main de la farce sinistre",
+      "Ловкость рук мрачных острот",
+      "Fingerfertigkeit der grauenvollen Narretei",
+      "Mão Leve da Alegria Macabra",
+      "Gioco di Prestigio della Macabra Beffa",
+      "암담한 재담의 손재주",
+      "弄臣快手",
+      "冷酷戏谑的妙手"
+    ],
+    "Media": "inv_glove_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250008,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Balancing Boots of the Grim Jest",
+      "Botas de equilibrio de bufonería funesta",
+      "Botas do Equilíbrio da Alegria Macabra",
+      "Balancing Boots of the Grim Jest",
+      "Botas de equilibrio de la broma macabra",
+      "Bottes d’équilibre de la farce sinistre",
+      "Балансировочные сапоги мрачных острот",
+      "Balancierstiefel der grauenvollen Narretei",
+      "Botas do Equilíbrio da Alegria Macabra",
+      "Stivali Stabilizzanti della Macabra Beffa",
+      "암담한 재담의 균형 장화",
+      "弄臣平衡靴",
+      "冷酷戏谑的平衡长靴"
+    ],
+    "Media": "inv_boot_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250009,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fantastic Finery of the Grim Jest",
+      "Galas fantásticas de bufonería funesta",
+      "Ornato Fantástico da Alegria Macabra",
+      "Fantastic Finery of the Grim Jest",
+      "Galas grandiosas de la broma macabra",
+      "Parure fantastique de la farce sinistre",
+      "Фантастическое убранство мрачных острот",
+      "Fantastischer Aufputz der grauenvollen Narretei",
+      "Ornato Fantástico da Alegria Macabra",
+      "Abito Fantastico della Macabra Beffa",
+      "암담한 재담의 광적인 치장",
+      "弄臣奇異華服",
+      "冷酷戏谑的奇妙华服"
+    ],
+    "Media": "inv_chest_leather_raidroguemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250010,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Windwrap of Ra-den's Chosen",
+      "Rodea viento del elegido de Ra-Den",
+      "Manto Borrascoso do Escolhido de Ra-den",
+      "Windwrap of Ra-den's Chosen",
+      "Envoltura de viento de elegido de Ra den",
+      "Houppevent de l’élite de Ra Den",
+      "Ветрошаль избранника Ра-дена",
+      "Windwickel des Auserwählten von Ra-den",
+      "Manto Borrascoso do Escolhido de Ra-den",
+      "Palandrana del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 바람포",
+      "萊公天選者疾風裹布",
+      "莱登选民的风裹披风"
+    ],
+    "Media": "inv_cape_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250011,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Strikeguards of Ra-den's Chosen",
+      "Golpeguardas del elegido de Ra-Den",
+      "Guarda-golpes do Escolhido de Ra-den",
+      "Strikeguards of Ra-den's Chosen",
+      "Guardagolpes de elegido de Ra den",
+      "Garde-frappes de l’élite de Ra Den",
+      "Наручные щитки избранника Ра-дена",
+      "Stoßschützer des Auserwählten von Ra-den",
+      "Guarda-golpes do Escolhido de Ra-den",
+      "Gambali d'Assalto del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 타격보호대",
+      "萊公天選者打擊腕衛",
+      "莱登选民的猛击护臂"
+    ],
+    "Media": "inv_bracer_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250012,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stormsigil of Ra-den's Chosen",
+      "Sigilo de tormenta del elegido de Ra-Den",
+      "Signo Tempestuoso do Escolhido de Ra-den",
+      "Stormsigil of Ra-den's Chosen",
+      "Sello de tormenta de elegido de Ra den",
+      "Sceau des tempêtes de l’élite de Ra Den",
+      "Печать бури избранника Ра-дена",
+      "Sturmsiegel des Auserwählten von Ra-den",
+      "Signo Tempestuoso do Escolhido de Ra-den",
+      "Sigillo della Tempesta del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 폭풍인장",
+      "萊公天選者風暴符印",
+      "莱登选民的风暴印记"
+    ],
+    "Media": "inv_belt_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250013,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aurastones of Ra-den's Chosen",
+      "Aurarocas del elegido de Ra-Den",
+      "Petrauras do Escolhido de Ra-den",
+      "Aurastones of Ra-den's Chosen",
+      "Piedras de aura de elegido de Ra den",
+      "Pierres d’aura de l’élite de Ra Den",
+      "Камни с аурой избранника Ра-дена",
+      "Aurasteine des Auserwählten von Ra-den",
+      "Petrauras do Escolhido de Ra-den",
+      "Pietraure del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 기의 돌",
+      "萊公天選者光環之石",
+      "莱登选民的灵气之石"
+    ],
+    "Media": "inv_shoulder_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250014,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Swiftsweepers of Ra-den's Chosen",
+      "Velobarridos del elegido de Ra-Den",
+      "Varrelozes do Escolhido de Ra-den",
+      "Swiftsweepers of Ra-den's Chosen",
+      "Recorredores raudos de elegido de Ra den",
+      "Preste-jambes de l’élite de Ra Den",
+      "Быстроходы избранника Ра-дена",
+      "Flinkfeger des Auserwählten von Ra-den",
+      "Varrelozes do Escolhido de Ra-den",
+      "Spazzaceleri del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 싹쓸이 바지",
+      "萊公天選者迅疾掃靴",
+      "莱登选民的迅捷扫腿"
+    ],
+    "Media": "inv_pant_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250015,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fearsome Visage of Ra-den's Chosen",
+      "Semblante aterrador del elegido de Ra-Den",
+      "Capelina Assustadora do Escolhido de Ra-den",
+      "Fearsome Visage of Ra-den's Chosen",
+      "Rostro temible de elegido de Ra den",
+      "Visage redoutable de l’élite de Ra Den",
+      "Грозный лик избранника Ра-дена",
+      "Furchterregendes Antlitz des Auserwählten von Ra-den",
+      "Capelina Assustadora do Escolhido de Ra-den",
+      "Maschera Terrificante del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 무시무시한 안면",
+      "萊公天選者恐怖面具",
+      "莱登选民的骇人面容"
+    ],
+    "Media": "inv_helm_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250016,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Thunderfists of Ra-den's Chosen",
+      "Puñotruenos del elegido de Ra-Den",
+      "Punhos de Trovão do Escolhido de Ra-den",
+      "Thunderfists of Ra-den's Chosen",
+      "Puñotruenos de elegido de Ra den",
+      "Poings de tonnerre de l’élite de Ra Den",
+      "Громовые кулаки избранника Ра-дена",
+      "Donnerfäuste des Auserwählten von Ra-den",
+      "Punhos de Trovão do Escolhido de Ra-den",
+      "Pugni Folgoranti del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 천둥주먹",
+      "萊公天選者雷霆之拳",
+      "莱登选民的雷霆之拳"
+    ],
+    "Media": "inv_glove_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250017,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Storm Crashers of Ra-den's Chosen",
+      "Estrellatormentas del elegido de Ra-Den",
+      "Tempestrombos do Escolhido de Ra-den",
+      "Storm Crashers of Ra-den's Chosen",
+      "Revientatormentas de elegido de Ra den",
+      "Écrase-tempêtes de l’élite de Ra Den",
+      "Бурекрушители избранника Ра-дена",
+      "Sturmzermalmer des Auserwählten von Ra-den",
+      "Tempestrombos do Escolhido de Ra-den",
+      "Devastatempeste del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 폭풍추적화",
+      "萊公天選者風暴毀滅靴",
+      "莱登选民的风暴踏靴"
+    ],
+    "Media": "inv_boot_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250018,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Battle Garb of Ra-den's Chosen",
+      "Atuendo de batalla del elegido de Ra-Den",
+      "Induto de Batalha do Escolhido de Ra-den",
+      "Battle Garb of Ra-den's Chosen",
+      "Atuendo de batalla de elegido de Ra den",
+      "Atours de bataille de l’élite de Ra Den",
+      "Боевое облачение избранника Ра-дена",
+      "Kampfgewänder des Auserwählten von Ra-den",
+      "Induto de Batalha do Escolhido de Ra-den",
+      "Abito da Battaglia del Prescelto di Ra-den",
+      "라덴에게 선택받은 자의 전투복",
+      "萊公天選者戰鬥裝束",
+      "莱登选民的神选战衣"
+    ],
+    "Media": "inv_chest_leather_raidmonkmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250019,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Leafdrape of the Luminous Bloom",
+      "Velohoja de la floración luminosa",
+      "Clamifólia da Floração Luminosa",
+      "Leafdrape of the Luminous Bloom",
+      "Mantón foliar de la flor luminosa",
+      "Drapé feuillu de la floraison lumineuse",
+      "Зеленый плащ цветочного сияния",
+      "Laubtuch der leuchtenden Blüte",
+      "Clamifólia da Floração Luminosa",
+      "Drappo Frondoso della Fioritura Luminosa",
+      "영롱한 꽃의 나뭇잎외투",
+      "夜光綻放樹葉披氅",
+      "辉光芳华的叶幔披风"
+    ],
+    "Media": "inv_cape_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250020,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bindings of the Luminous Bloom",
+      "Ataduras de la floración luminosa",
+      "Braceletes da Floração Luminosa",
+      "Bindings of the Luminous Bloom",
+      "Ataduras de la flor luminosa",
+      "Manchettes de la floraison lumineuse",
+      "Наручники цветочного сияния",
+      "Bindungen der leuchtenden Blüte",
+      "Braceletes da Floração Luminosa",
+      "Manette della Fioritura Luminosa",
+      "영롱한 꽃의 손목띠",
+      "夜光綻放束腕",
+      "辉光芳华的缚带"
+    ],
+    "Media": "inv_bracer_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250021,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Barksash of the Luminous Bloom",
+      "Faja de corteza de la floración luminosa",
+      "Faixacasca da Floração Luminosa",
+      "Barksash of the Luminous Bloom",
+      "Fajín cortical de la flor luminosa",
+      "Écorce-écharpe de la floraison lumineuse",
+      "Кушак из коры цветочного сияния",
+      "Rindenschärpe der leuchtenden Blüte",
+      "Faixacasca da Floração Luminosa",
+      "Corteccia Avvolgente della Fioritura Luminosa",
+      "영롱한 꽃의 껍질띠",
+      "夜光綻放樹皮束帶",
+      "辉光芳华的树皮腰饰"
+    ],
+    "Media": "inv_belt_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250022,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Seedpods of the Luminous Bloom",
+      "Vainas de la floración luminosa",
+      "Vagens da Floração Luminosa",
+      "Seedpods of the Luminous Bloom",
+      "Vainas de semillas de la flor luminosa",
+      "Cosses de graines de la floraison lumineuse",
+      "Стручки цветочного сияния",
+      "Samenkapseln der leuchtenden Blüte",
+      "Vagens da Floração Luminosa",
+      "Baccelli della Fioritura Luminosa",
+      "영롱한 꽃의 씨앗 깍지",
+      "夜光綻放種子莢衛",
+      "辉光芳华的种荚护肩"
+    ],
+    "Media": "inv_shoulder_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250023,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Phloemwraps of the Luminous Bloom",
+      "Sobrevestes de floema de la floración luminosa",
+      "Floema Trançado da Floração Luminosa",
+      "Phloemwraps of the Luminous Bloom",
+      "Envuelvefloemas de la flor luminosa",
+      "Jambards en phloème de la floraison lumineuse",
+      "Лубяные обмотки цветочного сияния",
+      "Phloemwickel der leuchtenden Blüte",
+      "Floema Trançado da Floração Luminosa",
+      "Coprigambe di Floema della Fioritura Luminosa",
+      "영롱한 꽃의 체관싸개",
+      "夜光綻放韌皮裹腿",
+      "辉光芳华的韧皮裹腿"
+    ],
+    "Media": "inv_pant_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250024,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Branches  of the Luminous Bloom",
+      "Ramas de la floración luminosa",
+      "Galhos da Floração Luminosa",
+      "Branches  of the Luminous Bloom",
+      "Ramas de la flor luminosa",
+      "Branches de la floraison lumineuse",
+      "Ветви цветочного сияния",
+      "Zweige der leuchtenden Blüte",
+      "Galhos da Floração Luminosa",
+      "Rami della Fioritura Luminosa",
+      "영롱한 꽃의 나뭇가지",
+      "夜光綻放樹枝頭盔",
+      "辉光芳华的枝角"
+    ],
+    "Media": "inv_helm_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250025,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arbortenders of the Luminous Bloom",
+      "Arboradores de la floración luminosa",
+      "Protetroncos da Floração Luminosa",
+      "Arbortenders of the Luminous Bloom",
+      "Cuidaárboles de la flor luminosa",
+      "Soigne-arbres de la floraison lumineuse",
+      "Рукавицы цветочного сияния",
+      "Baumhüter der leuchtenden Blüte",
+      "Protetroncos da Floração Luminosa",
+      "Guanti Arborei della Fioritura Luminosa",
+      "영롱한 꽃의 나무지기",
+      "夜光綻放喬木護手",
+      "辉光芳华的护林手套"
+    ],
+    "Media": "inv_glove_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250026,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rootslippers of the Luminous Bloom",
+      "Zaparraíces de la floración luminosa",
+      "Sapatirraiz da Floração Luminosa",
+      "Rootslippers of the Luminous Bloom",
+      "Zapatillas raigales de la flor luminosa",
+      "Mules-racines de la floraison lumineuse",
+      "Туфли из корней цветочного сияния",
+      "Wurzelpantoffeln der leuchtenden Blüte",
+      "Sapatirraiz da Floração Luminosa",
+      "Stivali Radicali della Fioritura Luminosa",
+      "영롱한 꽃의 뿌리끌신",
+      "夜光綻放樹根軟靴",
+      "辉光芳华的根须便鞋"
+    ],
+    "Media": "inv_boot_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250027,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Trunk of the Luminous Bloom",
+      "Tronco de la floración luminosa",
+      "Tronco da Floração Luminosa",
+      "Trunk of the Luminous Bloom",
+      "Tronco de la flor luminosa",
+      "Tronc de la floraison lumineuse",
+      "Ствол цветочного сияния",
+      "Stamm der leuchtenden Blüte",
+      "Tronco da Floração Luminosa",
+      "Tronco della Fioritura Luminosa",
+      "영롱한 꽃의 밑동",
+      "夜光綻放樹幹胸甲",
+      "辉光芳华的主干护胸"
+    ],
+    "Media": "inv_chest_leather_raiddruidmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250028,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Drape",
+      "Mantón de Atracador devorador",
+      "Clâmide do Aniquilador Devorador",
+      "Devouring Reaver's Drape",
+      "Mantón de atracador devorador",
+      "Drapé de saccage dévorant",
+      "Пелерина всепожирающего разорителя",
+      "Tuch des verschlingenden Häschers",
+      "Clâmide do Aniquilador Devorador",
+      "Drappo del Razziatore Divorante",
+      "포식의 파괴자 외투",
+      "吞噬劫奪者披氅",
+      "吞噬掠夺者的披风"
+    ],
+    "Media": "inv_cape_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250029,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Support Straps",
+      "Correas de asistencia de Atracador devorador",
+      "Correias de Suporte do Aniquilador Devorador",
+      "Devouring Reaver's Support Straps",
+      "Bandas de apoyo de atracador devorador",
+      "Bandes de maintien de saccage dévorant",
+      "Стропы всепожирающего разорителя",
+      "Stützbandagen des verschlingenden Häschers",
+      "Correias de Suporte do Aniquilador Devorador",
+      "Fasce di Contenimento del Razziatore Divorante",
+      "포식의 파괴자 지지용 끈",
+      "吞噬劫奪者輔助吊帶",
+      "吞噬掠夺者的支撑束带"
+    ],
+    "Media": "inv_bracer_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250030,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Emblem",
+      "Emblema de Atracador devorador",
+      "Emblema do Aniquilador Devorador",
+      "Devouring Reaver's Emblem",
+      "Emblema de atracador devorador",
+      "Emblème de saccage dévorant",
+      "Эмблема всепожирающего разорителя",
+      "Emblem des verschlingenden Häschers",
+      "Emblema do Aniquilador Devorador",
+      "Emblema del Razziatore Divorante",
+      "포식의 파괴자 문장",
+      "吞噬劫奪者紋章",
+      "吞噬掠夺者的徽记腰带"
+    ],
+    "Media": "inv_belt_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250031,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Exhaustplates",
+      "Placas de escape de Atracador devorador",
+      "Placas Exaustoras do Aniquilador Devorador",
+      "Devouring Reaver's Exhaustplates",
+      "Placas de escape de atracador devorador",
+      "Plaques d’échappement de saccage dévorant",
+      "Сопла всепожирающего разорителя",
+      "Ablassplatten des verschlingenden Häschers",
+      "Placas Exaustoras do Aniquilador Devorador",
+      "Piastre di Scarico del Razziatore Divorante",
+      "포식의 파괴자 배출장갑",
+      "吞噬劫奪者排氣肩甲",
+      "吞噬掠夺者的排气肩甲"
+    ],
+    "Media": "inv_shoulder_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250032,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Pistons",
+      "Pistones de Atracador devorador",
+      "Pistões do Aniquilador Devorador",
+      "Devouring Reaver's Pistons",
+      "Pistones de atracador devorador",
+      "Pistons de saccage dévorant",
+      "Поршни всепожирающего разорителя",
+      "Kolben des verschlingenden Häschers",
+      "Pistões do Aniquilador Devorador",
+      "Pistoni del Razziatore Divorante",
+      "포식의 파괴자 피스톤",
+      "吞噬劫奪者活塞",
+      "吞噬掠夺者的活塞护腿"
+    ],
+    "Media": "inv_pant_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250033,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Intake",
+      "Válvula de Atracador devorador",
+      "Influxo do Aniquilador Devorador",
+      "Devouring Reaver's Intake",
+      "Aspirador de atracador devorador",
+      "Armet de saccage dévorant",
+      "Заборник всепожирающего разорителя",
+      "Aufnahme des verschlingenden Häschers",
+      "Influxo do Aniquilador Devorador",
+      "Aspirazione del Razziatore Divorante",
+      "포식의 파괴자 유입구",
+      "吞噬劫奪者進氣頭盔",
+      "吞噬掠夺者的进气面甲"
+    ],
+    "Media": "inv_helm_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250034,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Essence Grips",
+      "Mandiletes de esencia de Atracador devorador",
+      "Guantes da Essência do Aniquilador Devorador",
+      "Devouring Reaver's Essence Grips",
+      "Mandiletes de esencia de atracador devorador",
+      "Empoignes-essence de saccage dévorant",
+      "Захваты сущности всепожирающего разорителя",
+      "Essenzhandschutz des verschlingenden Häschers",
+      "Guantes da Essência do Aniquilador Devorador",
+      "Paramani dell'Essenza del Razziatore Divorante",
+      "포식의 파괴자 정수 손장갑",
+      "吞噬劫奪者精華之握",
+      "吞噬掠夺者的精华之握"
+    ],
+    "Media": "inv_glove_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250035,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Soul Flatteners",
+      "Aplanaalmas de Atracador devorador",
+      "Esmagadores de Alma do Aniquilador Devorador",
+      "Devouring Reaver's Soul Flatteners",
+      "Apisonaalmas de atracador devorador",
+      "Écrase-âmes de saccage dévorant",
+      "Давители душ всепожирающего разорителя",
+      "Seelenzertrampler des verschlingenden Häschers",
+      "Esmagadores de Alma do Aniquilador Devorador",
+      "Schiaccianime del Razziatore Divorante",
+      "포식의 파괴자 영혼 평탄화",
+      "吞噬劫奪者靈魂踏平靴",
+      "吞噬掠夺者的灵魂碾压靴"
+    ],
+    "Media": "inv_boot_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250036,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Reaver's Engine",
+      "Motor de Atracador devorador",
+      "Motor do Aniquilador Devorador",
+      "Devouring Reaver's Engine",
+      "Motor de atracador devorador",
+      "Moteur de saccage dévorant",
+      "Двигатель всепожирающего разорителя",
+      "Motor des verschlingenden Häschers",
+      "Motor do Aniquilador Devorador",
+      "Motore del Razziatore Divorante",
+      "포식의 파괴자 동력장치",
+      "吞噬劫奪者引擎",
+      "吞噬掠夺者的引擎护胸"
+    ],
+    "Media": "inv_chest_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250037,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Ritual Mantle",
+      "Manto de ritual del inmolador abisal",
+      "Manto Ritualístico do Imolador Abissal",
+      "Abyssal Immolator's Ritual Mantle",
+      "Manto ritual de inmolador abisal",
+      "Mantelet rituel d’immolation abyssale",
+      "Ритуальное оплечье поджигателя из пустоты",
+      "Ritualmantel des abyssischen Verbrenners",
+      "Manto Ritualístico do Imolador Abissal",
+      "Coprispalle Rituali dell'Immolatore Abissale",
+      "불태우는 심연의 의식 어깨덧옷",
+      "深淵獻祭者儀式披肩",
+      "深渊焚化者的仪式披风"
+    ],
+    "Media": "inv_cape_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250038,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Shackles",
+      "Grilletes del inmolador abisal",
+      "Grilhões do Imolador Abissal",
+      "Abyssal Immolator's Shackles",
+      "Grilletes de inmolador abisal",
+      "Entraves d’immolation abyssale",
+      "Оковы поджигателя из пустоты",
+      "Fesseln des abyssischen Verbrenners",
+      "Grilhões do Imolador Abissal",
+      "Catene dell'Immolatore Abissale",
+      "불태우는 심연의 족쇄",
+      "深淵獻祭者鐐銬",
+      "深渊焚化者的镣铐"
+    ],
+    "Media": "inv_bracer_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250039,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Blazing Core",
+      "Núcleo ardiente del inmolador abisal",
+      "Núcleo Fulgurante do Imolador Abissal",
+      "Abyssal Immolator's Blazing Core",
+      "Núcleo llameante de inmolador abisal",
+      "Cœur flamboyant d’immolation abyssale",
+      "Пылающее ядро поджигателя из пустоты",
+      "Lodernder Kern des abyssischen Verbrenners",
+      "Núcleo Fulgurante do Imolador Abissal",
+      "Nucleo Fiammeggiante dell'Immolatore Abissale",
+      "불태우는 심연의 이글거리는 핵",
+      "深淵獻祭者熾炎核心",
+      "深渊焚化者的炽燃核心"
+    ],
+    "Media": "inv_belt_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250040,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Fury",
+      "Furia del inmolador abisal",
+      "Fúria do Imolador Abissal",
+      "Abyssal Immolator's Fury",
+      "Furia de inmolador abisal",
+      "Fureur d’immolation abyssale",
+      "Ярость поджигателя из пустоты",
+      "Zorn des abyssischen Verbrenners",
+      "Fúria do Imolador Abissal",
+      "Furia dell'Immolatore Abissale",
+      "불태우는 심연의 격노",
+      "深淵獻祭者之怒",
+      "深渊焚化者的狂怒护肩"
+    ],
+    "Media": "inv_shoulder_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250041,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Pillars",
+      "Pilares del inmolador abisal",
+      "Pilares do Imolador Abissal",
+      "Abyssal Immolator's Pillars",
+      "Pilares de inmolador abisal",
+      "Piliers d’immolation abyssale",
+      "Столпы поджигателя из пустоты",
+      "Säulen des abyssischen Verbrenners",
+      "Pilares do Imolador Abissal",
+      "Pilastri dell'Immolatore Abissale",
+      "불태우는 심연의 기둥",
+      "深淵獻祭者柱靴",
+      "深渊焚化者的支柱"
+    ],
+    "Media": "inv_pant_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250042,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Smoldering Flames",
+      "Llamas humeantes del inmolador abisal",
+      "Chamas Fumegantes do Imolador Abissal",
+      "Abyssal Immolator's Smoldering Flames",
+      "Llamas humeantes de inmolador abisal",
+      "Flammes incandescentes d’immolation abyssale",
+      "Тлеющее пламя поджигателя из пустоты",
+      "Schwelende Flammen des abyssischen Verbrenners",
+      "Chamas Fumegantes do Imolador Abissal",
+      "Fiamme Infuocate dell'Immolatore Abissale",
+      "불태우는 심연의 이글거리는 불길",
+      "深淵獻祭者悶燃烈焰",
+      "深渊焚化者的余烬之火"
+    ],
+    "Media": "inv_helm_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250043,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Grasps",
+      "Garras del inmolador abisal",
+      "Agarres do Imolador Abissal",
+      "Abyssal Immolator's Grasps",
+      "Garras de inmolador abisal",
+      "Poignées d’immolation abyssale",
+      "Захваты поджигателя из пустоты",
+      "Handschutz des abyssischen Verbrenners",
+      "Agarres do Imolador Abissal",
+      "Guanti dell'Immolatore Abissale",
+      "불태우는 심연의 손아귀",
+      "深淵獻祭者之握",
+      "深渊焚化者的裹手"
+    ],
+    "Media": "inv_glove_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250044,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Ashwalkers",
+      "Caminantes de cenizas del inmolador abisal",
+      "Andarilhos das Cinzas do Imolador Abissal",
+      "Abyssal Immolator's Ashwalkers",
+      "Caminacenizas de inmolador abisal",
+      "Marche-cendres d’immolation abyssale",
+      "Пеплоступы поджигателя из пустоты",
+      "Ascheschreiter des abyssischen Verbrenners",
+      "Andarilhos das Cinzas do Imolador Abissal",
+      "Calcaceneri dell'Immolatore Abissale",
+      "불태우는 심연의 잿불화",
+      "深淵獻祭者灰燼行者",
+      "深渊焚化者的灰烬行者"
+    ],
+    "Media": "inv_boot_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250045,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Abyssal Immolator's Dreadrobe",
+      "Toga del pavor del inmolador abisal",
+      "Veste Aterradora do Imolador Abissal",
+      "Abyssal Immolator's Dreadrobe",
+      "Toga del pavor de inmolador abisal",
+      "Robe-effroi d’immolation abyssale",
+      "Жуткие одеяния поджигателя из пустоты",
+      "Schreckensrobe des abyssischen Verbrenners",
+      "Veste Aterradora do Imolador Abissal",
+      "Veste Macabra dell'Immolatore Abissale",
+      "불태우는 심연의 공포로브",
+      "深淵獻祭者恐懼長袍",
+      "深渊焚化者的恐慌长袍"
+    ],
+    "Media": "inv_chest_cloth_raidwarlockmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250046,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Shroud",
+      "Sudario de juramento ciego",
+      "Mortalha do Juramento Cego",
+      "Blind Oath's Shroud",
+      "Sudario de juramento ciego",
+      "Voile du serment aveugle",
+      "Покров слепых клятв",
+      "Schleier des blinden Schwurs",
+      "Mortalha do Juramento Cego",
+      "Manto del Giuramento Cieco",
+      "맹목적인 맹세의 수의",
+      "盲誓罩氅",
+      "盲誓裹布"
+    ],
+    "Media": "inv_cape_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250047,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Wraps",
+      "Cubremuñecas de juramento ciego",
+      "Munhequeiras do Juramento Cego",
+      "Blind Oath's Wraps",
+      "Envolturas de juramento ciego",
+      "Bandelettes du serment aveugle",
+      "Напульсники слепых клятв",
+      "Wickel des blinden Schwurs",
+      "Munhequeiras do Juramento Cego",
+      "Nastri del Giuramento Cieco",
+      "맹목적인 맹세의 손목싸개",
+      "盲誓裹腕",
+      "盲誓护腕"
+    ],
+    "Media": "inv_bracer_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250048,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Jeweled Sash",
+      "Fajín enjoyado de juramento ciego",
+      "Faixa Adornada do Juramento Cego",
+      "Blind Oath's Jeweled Sash",
+      "Fajín con joyas de juramento ciego",
+      "Écharpe ornée de joyaux du serment aveugle",
+      "Инкрустированный кушак слепых клятв",
+      "Juwelenbesetzte Schärpe des blinden Schwurs",
+      "Faixa Adornada do Juramento Cego",
+      "Fascia Ingioiellata del Giuramento Cieco",
+      "맹목적인 맹세의 보석 박힌 장식띠",
+      "盲誓寶石束帶",
+      "盲誓珠宝腰带"
+    ],
+    "Media": "inv_belt_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250049,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Seraphguards",
+      "Seraguardias del juramento ciego",
+      "Serafiguardas do Juramento Cego",
+      "Blind Oath's Seraphguards",
+      "Guardaserafines de juramento ciego",
+      "Garde-anges du serment aveugle",
+      "Наплечники серафима слепых клятв",
+      "Seraphenschulterschützer des blinden Schwurs",
+      "Serafiguardas do Juramento Cego",
+      "Spallacci Serafici del Giuramento Cieco",
+      "맹목적인 맹세의 대천사보호대",
+      "盲誓天使肩衛",
+      "盲誓炽天使护肩"
+    ],
+    "Media": "inv_shoulder_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250050,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Leggings",
+      "Leotardos de juramento ciego",
+      "Perneiras do Juramento Cego",
+      "Blind Oath's Leggings",
+      "Leotardos de juramento ciego",
+      "Jambières du serment aveugle",
+      "Поножи слепых клятв",
+      "Gamaschen des blinden Schwurs",
+      "Perneiras do Juramento Cego",
+      "Gambiere del Giuramento Cieco",
+      "맹목적인 맹세의 다리보호구",
+      "盲誓護腿",
+      "盲誓护腿"
+    ],
+    "Media": "inv_pant_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250051,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Winged Crest",
+      "Cresta alada de juramento ciego",
+      "Brasão Alado do Juramento Cego",
+      "Blind Oath's Winged Crest",
+      "Cresta alada de juramento ciego",
+      "Cimier ailé du serment aveugle",
+      "Крылатый шлем слепых клятв",
+      "Geflügeltes Wappen des blinden Schwurs",
+      "Brasão Alado do Juramento Cego",
+      "Cresta Alata del Giuramento Cieco",
+      "맹목적인 맹세의 날개 달린 문장",
+      "盲誓羽翼頭冠",
+      "盲誓飞翼头冠"
+    ],
+    "Media": "inv_helm_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250052,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Touch",
+      "Toque de juramento ciego",
+      "Toque do Juramento Cego",
+      "Blind Oath's Touch",
+      "Toque de juramento ciego",
+      "Toucher du serment aveugle",
+      "Прикосновение слепых клятв",
+      "Berührung des blinden Schwurs",
+      "Toque do Juramento Cego",
+      "Tocco del Giuramento Cieco",
+      "맹목적인 맹세의 손길",
+      "盲誓之觸",
+      "盲誓之触"
+    ],
+    "Media": "inv_glove_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250053,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Slippers",
+      "Zapatillas de juramento ciego",
+      "Sapatilhas do Juramento Cego",
+      "Blind Oath's Slippers",
+      "Zapatillas de juramento ciego",
+      "Mules du serment aveugle",
+      "Туфли слепых клятв",
+      "Pantoffeln des blinden Schwurs",
+      "Sapatilhas do Juramento Cego",
+      "Pianelle del Giuramento Cieco",
+      "맹목적인 맹세의 끌신",
+      "盲誓軟靴",
+      "盲誓软鞋"
+    ],
+    "Media": "inv_boot_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250054,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blind Oath's Raiment",
+      "Vestiduras de juramento ciego",
+      "Fatiota do Juramento Cego",
+      "Blind Oath's Raiment",
+      "Vestiduras de juramento ciego",
+      "Grande tenue du serment aveugle",
+      "Убранство слепых клятв",
+      "Gewandung des blinden Schwurs",
+      "Fatiota do Juramento Cego",
+      "Tunica del Giuramento Cieco",
+      "맹목적인 맹세의 예복",
+      "盲誓衣飾",
+      "盲誓法衣"
+    ],
+    "Media": "inv_robe_cloth_raidpriestmidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250055,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Encryption",
+      "Encriptación de rompevacío",
+      "Criptografia do Rompe-caos",
+      "Voidbreaker's Encryption",
+      "Encriptación de rompevacío",
+      "Crypte-cape de brisevide",
+      "Шифр безднокрушителя",
+      "Chiffrierung des Leerenbrechers",
+      "Criptografia do Rompe-caos",
+      "Occultamento dello Spezzavuoto",
+      "공허파괴자의 암호",
+      "虛無破壞者加密披風",
+      "破虚者的加密披风"
+    ],
+    "Media": "inv_cape_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250056,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Bracers",
+      "Brazales de rompevacío",
+      "Braçadeiras do Rompe-caos",
+      "Voidbreaker's Bracers",
+      "Brazales de rompevacío",
+      "Brassards de brisevide",
+      "Наручи безднокрушителя",
+      "Armschienen des Leerenbrechers",
+      "Braçadeiras do Rompe-caos",
+      "Bracciali dello Spezzavuoto",
+      "공허파괴자의 팔보호구",
+      "虛無破壞者護腕",
+      "虚空粉碎者护腕"
+    ],
+    "Media": "inv_bracer_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250057,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Sage Cord",
+      "Cordón de sabio de rompevacío",
+      "Cordão do Sábio do Rompe-caos",
+      "Voidbreaker's Sage Cord",
+      "Cordón de sabio de rompevacío",
+      "Corde de sagesse de brisevide",
+      "Шнурованный ремень безднокрушителя",
+      "Weisenkordel des Leerenbrechers",
+      "Cordão do Sábio do Rompe-caos",
+      "Fascione del Saggio dello Spezzavuoto",
+      "공허파괴자의 현자 장식끈",
+      "虛無破壞者賢者之索",
+      "破虚者的贤者腰索"
+    ],
+    "Media": "inv_belt_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250058,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Leyline Nexi",
+      "Nexos de línea ley de rompevacío",
+      "Nexos das Linhas de Meridiano do Rompe-caos",
+      "Voidbreaker's Leyline Nexi",
+      "Nexos de líneas Ley de rompevacío",
+      "Nexus telluriques de brisevide",
+      "Узлы силовых линий безднокрушителя",
+      "Leyliniennexi des Leerenbrechers",
+      "Nexos das Linhas de Meridiano do Rompe-caos",
+      "Nexus della Faglia dello Spezzavuoto",
+      "공허파괴자의 지맥 연결체",
+      "虛無破壞者地脈之核",
+      "破虚者的魔网节点"
+    ],
+    "Media": "inv_shoulder_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250059,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Britches",
+      "Calzones de rompevacío",
+      "Calcilhas do Rompe-caos",
+      "Voidbreaker's Britches",
+      "Calzones de rompevacío",
+      "Braies de brisevide",
+      "Брюки безднокрушителя",
+      "Kniehosen des Leerenbrechers",
+      "Calcilhas do Rompe-caos",
+      "Pantaloni dello Spezzavuoto",
+      "공허파괴자의 무릎바지",
+      "虛無破壞者馬褲",
+      "破虚者的短裤"
+    ],
+    "Media": "inv_pant_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250060,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Veil",
+      "Velo de rompevacío",
+      "Véu do Rompe-caos",
+      "Voidbreaker's Veil",
+      "Velo de rompevacío",
+      "Voile de brisevide",
+      "Покров безднокрушителя",
+      "Schleier des Leerenbrechers",
+      "Véu do Rompe-caos",
+      "Velo dello Spezzavuoto",
+      "공허파괴자의 면사포",
+      "虛無破壞者面紗",
+      "破虚者的面纱"
+    ],
+    "Media": "inv_helm_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250061,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Gloves",
+      "Guantes de rompevacío",
+      "Luvas do Rompe-caos",
+      "Voidbreaker's Gloves",
+      "Guantes de rompevacío",
+      "Gants de brisevide",
+      "Рукавицы безднокрушителя",
+      "Handschuhe des Leerenbrechers",
+      "Luvas do Rompe-caos",
+      "Guanti dello Spezzavuoto",
+      "공허파괴자의 장갑",
+      "虛無破壞者手套",
+      "破虚者的手套"
+    ],
+    "Media": "inv_glove_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250062,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Treads",
+      "Botines de rompevacío",
+      "Botinas do Rompe-caos",
+      "Voidbreaker's Treads",
+      "Botines de rompevacío",
+      "Bottines de brisevide",
+      "Ботфорты безднокрушителя",
+      "Treter des Leerenbrechers",
+      "Botinas do Rompe-caos",
+      "Stivaletti dello Spezzavuoto",
+      "공허파괴자의 발보호대",
+      "虛無破壞者足靴",
+      "破虚者的便鞋"
+    ],
+    "Media": "inv_boot_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250063,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbreaker's Robe",
+      "Toga de rompevacío",
+      "Veste do Rompe-caos",
+      "Voidbreaker's Robe",
+      "Toga de rompevacío",
+      "Robe de brisevide",
+      "Одеяние безднокрушителя",
+      "Robe des Leerenbrechers",
+      "Veste do Rompe-caos",
+      "Tonaca dello Spezzavuoto",
+      "공허파괴자의 로브",
+      "虛無破壞者長袍",
+      "虚空粉碎者长袍"
+    ],
+    "Media": "inv_chest_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
     "TagId": 250082,
     "TagType": 21,
     "Names": [
@@ -103,6 +1447,48 @@
       null
     ],
     "Media": "7424189.jpg"
+  },
+  {
+    "TagId": 250096,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Worm Bait",
+      "Cebo de gusano",
+      "Isca de Verme",
+      "Worm Bait",
+      "Cebo de gusano",
+      "Appât ver",
+      "Червяк-наживка",
+      "Wurmköder",
+      "Isca de Verme",
+      "Verme Esca",
+      "벌레 미끼",
+      "蟲餌",
+      "虫饵"
+    ],
+    "Media": "inv_misc_food_draenor_rawrylakegg.jpg"
+  },
+  {
+    "TagId": 250103,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_polearm_2h_titanargus_d_01.jpg"
   },
   {
     "TagId": 250104,
@@ -334,6 +1720,48 @@
       "黑锋武器架"
     ],
     "Media": "7424213.jpg"
+  },
+  {
+    "TagId": 250116,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cache of Quel'Thalas Treasures",
+      "Alijo de tesoros de Quel'Thalas",
+      "Caixa de Tesouros de Quel'thalas",
+      "Cache of Quel'Thalas Treasures",
+      "Alijo de tesoros de Quel'Thalas",
+      "Cache de trésors de Quel’Thalas",
+      "Тайник с сокровищами Кель'Таласа",
+      "Truhe mit Schätzen von Quel'Thalas",
+      "Caixa de Tesouros de Quel'thalas",
+      "Cassa di Tesori di Quel'Thalas",
+      "쿠엘탈라스 보물 보관함",
+      "奎爾薩拉斯寶藏箱",
+      "奎尔萨拉斯宝物箱"
+    ],
+    "Media": "inv_misc_treasurechest04b.jpg"
+  },
+  {
+    "TagId": 250117,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cache of Quel'Thalas Treasures",
+      "Alijo de tesoros de Quel'Thalas",
+      "Caixa de Tesouros de Quel'thalas",
+      "Cache of Quel'Thalas Treasures",
+      "Alijo de tesoros de Quel'Thalas",
+      "Cache de trésors de Quel’Thalas",
+      "Тайник с сокровищами Кель'Таласа",
+      "Truhe mit Schätzen von Quel'Thalas",
+      "Caixa de Tesouros de Quel'thalas",
+      "Cassa di Tesori di Quel'Thalas",
+      "쿠엘탈라스 보물 보관함",
+      "奎爾薩拉斯寶藏箱",
+      "奎尔萨拉斯宝物箱"
+    ],
+    "Media": "inv_misc_treasurechest04b.jpg"
   },
   {
     "TagId": 250118,
@@ -672,6 +2100,321 @@
     "Media": "7424277.jpg"
   },
   {
+    "TagId": 250135,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Akil Fledgling",
+      "Volantón akil",
+      "Cria de Akil",
+      "Akil Fledgling",
+      "Volantón akil",
+      "Oisillon akil",
+      "Акил-птенец",
+      "Akiljunges",
+      "Cria de Akil",
+      "Cucciolo di Akil",
+      "어린 아킬",
+      "阿奇爾幼雛",
+      "埃基尔雏鸟"
+    ],
+    "Media": "inv_babyamanieagle_brown.jpg"
+  },
+  {
+    "TagId": 250136,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rootling Nester",
+      "Anidador de raíz",
+      "Raizinha Nidificadora",
+      "Rootling Nester",
+      "Anidador de raíces",
+      "Nicheur radicelle",
+      "Ползунчик-гнездовик",
+      "Wurzlingbrüter",
+      "Raizinha Nidificadora",
+      "Radicina Nidificante",
+      "뿌리괴물 둥지붙이",
+      "幼根築巢者",
+      "根苗筑巢者"
+    ],
+    "Media": "inv_babygrovecrawler_tan.jpg"
+  },
+  {
+    "TagId": 250137,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mud Potadpole",
+      "Papacuajo de barro",
+      "Tubergirino Lamacento",
+      "Mud Potadpole",
+      "Renacuatata del barro",
+      "Tertard boueux",
+      "Грязевой бульбожаблик",
+      "Schlammkrötoffelquappe",
+      "Tubergirino Lamacento",
+      "Patagirino Fangoso",
+      "진흙 감자올챙이",
+      "泥地馬鈴薯蝌蚪",
+      "染泥的薯身幼蟾"
+    ],
+    "Media": "inv_babypotadpole_tan.jpg"
+  },
+  {
+    "TagId": 250138,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Violet Chick",
+      "Pollito violeta",
+      "Filhote Violeta",
+      "Violet Chick",
+      "Pollo violeta",
+      "Poussin pourpre",
+      "Лиловый цыпленок",
+      "Lila Falkenschreiterküken",
+      "Filhote Violeta",
+      "Pulcino Viola",
+      "새끼 보랏빛 매타조",
+      "紫色幼鷹",
+      "紫色雏鸟"
+    ],
+    "Media": "inv_purple_babyhawkstrider2.jpg"
+  },
+  {
+    "TagId": 250139,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ebon Snapling",
+      "Boquilla de ébano",
+      "Dracolisquinho Ebâneo",
+      "Ebon Snapling",
+      "Lagartito de ébano",
+      "Jeune mordeur d’ébène",
+      "Черный варанчик",
+      "Schwarzschnappling",
+      "Dracolisquinho Ebâneo",
+      "Azzannino d'Ebano",
+      "어린 칠흑빛 덥썩이",
+      "黯黑小嚙蜥",
+      "黑檀小蜥蜴"
+    ],
+    "Media": "inv_babysnaplizard_black.jpg"
+  },
+  {
+    "TagId": 250140,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Swamp Biter",
+      "Mordedor de pantano",
+      "Mordedor do Pântano",
+      "Swamp Biter",
+      "Mordedor de los pantanos",
+      "Mordeur des marais",
+      "Болотная кусака",
+      "Sumpfbeißer",
+      "Mordedor do Pântano",
+      "Zanna della Palude",
+      "늪지 깨물이",
+      "沼澤撕咬水蛭",
+      "沼泽噬咬者"
+    ],
+    "Media": "inv_112_petrewards_cosmicworm_green.jpg"
+  },
+  {
+    "TagId": 250141,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Purple Swamp Leech",
+      "Sanguijuela de pantano púrpura",
+      "Sanguessuga do Pântano Roxa",
+      "Purple Swamp Leech",
+      "Sanguijuela morada de los pantanos",
+      "Sangsue des marais violette",
+      "Фиолетовая болотная пиявка",
+      "Lila Sumpfegel",
+      "Sanguessuga do Pântano Roxa",
+      "Sanguisuga della Palude Viola",
+      "보라색 늪지 거머리",
+      "紫色沼澤水蛭",
+      "紫色沼泽水蛭"
+    ],
+    "Media": "inv_112_petrewards_cosmicworm_green.jpg"
+  },
+  {
+    "TagId": 250142,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blue Sporebat",
+      "Esporiélago azul",
+      "Quirósporo Azul",
+      "Blue Sporebat",
+      "Esporiélago azul",
+      "Sporoptère bleu",
+      "Синий спороскат",
+      "Blauer Sporensegler",
+      "Quirósporo Azul",
+      "Sporofago Blu",
+      "푸른색 포자박쥐",
+      "藍色孢子蝙蝠",
+      "蓝色孢子蝠"
+    ],
+    "Media": "inv_babysporebat3_blue.jpg"
+  },
+  {
+    "TagId": 250143,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dragonhawk Mosswing",
+      "Dracohalcón alamusgo",
+      "Falcodrago Asa-de-musgo",
+      "Dragonhawk Mosswing",
+      "Alamusgo dracohalcón",
+      "Faucon-dragon ailemoussue",
+      "Дракондор-мохокрыл",
+      "Drachenfalkenmoosschwinge",
+      "Falcodrago Asa-de-musgo",
+      "Dragofalco Alamuschio",
+      "용매 이끼날개",
+      "龍鷹苔翼",
+      "苔翼龙鹰"
+    ],
+    "Media": "inv_babydragonhawk_green.jpg"
+  },
+  {
+    "TagId": 250144,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Emberwing Feather",
+      "Pluma alascuas",
+      "Pena de Brasalado",
+      "Emberwing Feather",
+      "Pluma de alascuas",
+      "Plume de braisaile",
+      "Перо Алозар",
+      "Glutschwingenfeder",
+      "Pena de Brasalado",
+      "Piuma di Alardente",
+      "잿불날개 깃털",
+      "燼翼之羽",
+      "烬翼羽毛"
+    ],
+    "Media": "inv_icon_feather06a.jpg"
+  },
+  {
+    "TagId": 250145,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pangolil",
+      "Pangolil",
+      "Pangolinho",
+      "Pangolil",
+      "Pangolitín",
+      "Pangolil",
+      "Панголенок",
+      "Schuppenschnuggler",
+      "Pangolinho",
+      "Pangoletto",
+      "천산갑",
+      "穿山利",
+      "穿山甲"
+    ],
+    "Media": "inv_10_worlddroplevelingoptionalreagent_misc_rylakclaw_color3.jpg"
+  },
+  {
+    "TagId": 250146,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gloom Toad",
+      "Sapenumbroso",
+      "Sapo Umbroso",
+      "Gloom Toad",
+      "Sapo lóbrego",
+      "Crapaud sinistre",
+      "Мглистая жаба",
+      "Düsterkröte",
+      "Sapo Umbroso",
+      "Rospo della Rovina",
+      "음울한 두꺼비",
+      "幽暗蟾蜍",
+      "幽影蟾蜍"
+    ],
+    "Media": "inv_toadswamp_dark.jpg"
+  },
+  {
+    "TagId": 250147,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silkcrawler",
+      "Reptasedas",
+      "Rastejante-da-seda",
+      "Silkcrawler",
+      "Reptaseda",
+      "Clampant de soie",
+      "Шелкополз",
+      "Seidenkriecher",
+      "Rastejante-da-seda",
+      "Zampaseta",
+      "비단포복자",
+      "絲綢爬行者",
+      "丝线爬行者"
+    ],
+    "Media": "inv_caterpillarpetlarva.jpg"
+  },
+  {
+    "TagId": 250148,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blistercreepling",
+      "Alimallaguina",
+      "Rastejolhinha",
+      "Blistercreepling",
+      "Cría de ampollino",
+      "Ectocloquette",
+      "Детеныш огнежальщика",
+      "Blasenkriechling",
+      "Rastejolhinha",
+      "Scarabollino",
+      "새끼 물집벌레",
+      "小蠕行蟲",
+      "小爆爬虫"
+    ],
+    "Media": "inv_bloodticklarvaeblue.jpg"
+  },
+  {
+    "TagId": 250190,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Knife Priestess Hezzia's Head",
+      "Cabeza de la sacerdotisa de cuchillos Hezzia",
+      "Cabeça da Sacerdotisa das Facas Hezzia",
+      "Knife Priestess Hezzia's Head",
+      "Cabeza de la sacerdotisa cuchillera Hezzia",
+      "Tête de la prêtresse de la dague Hezzia",
+      "Голова жрицы ножа Хецции",
+      "Kopf der Messerpriesterin Hezzia",
+      "Cabeça da Sacerdotisa das Facas Hezzia",
+      "Testa della Sacerdotessa del Coltello Hezzia",
+      "비수의 여사제 헤지아의 머리카락",
+      "刀刃女祭司赫琪亞的頭顱",
+      "刀锋女祭司赫吉娅的徽记"
+    ],
+    "Media": "inv_misc_head_orc_02.jpg"
+  },
+  {
     "TagId": 250191,
     "TagType": 21,
     "Names": [
@@ -712,6 +2455,195 @@
       "苍白乌祖尔的缰绳"
     ],
     "Media": "inv_soulhoundmount_white.jpg"
+  },
+  {
+    "TagId": 250214,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lightspire Core",
+      "Núcleo espiraluz",
+      "Núcleo Altaluz",
+      "Lightspire Core",
+      "Núcleo de aguja de Luz",
+      "Cœur de flèche-lumineuse",
+      "Ядро шпиля Света",
+      "Kern der Lichtspitze",
+      "Núcleo Altaluz",
+      "Nucleo della Spira di Luce",
+      "빛첨탑 핵",
+      "光尖核心",
+      "光塔核心"
+    ],
+    "Media": "inv_enchant_essenceastrallarge.jpg"
+  },
+  {
+    "TagId": 250215,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Freightrunner's Flask",
+      "Frasco de correcargamentos",
+      "Frasco do Cargueiro",
+      "Freightrunner's Flask",
+      "Frasco de corredor de fletes",
+      "Flasque de cargaison",
+      "Фляжка курьера",
+      "Fläschchen des Frachtbeförderers",
+      "Frasco do Cargueiro",
+      "Fiasca del Trasportatore Merci",
+      "화물 운반꾼의 영약",
+      "送貨者的精煉藥劑",
+      "货运者水壶"
+    ],
+    "Media": "inv_alchemy_90_flask_red.jpg"
+  },
+  {
+    "TagId": 250223,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soulcatcher's Charm",
+      "Talismán de cazador de almas",
+      "Patuá do Apanhador de Almas",
+      "Soulcatcher's Charm",
+      "Dije de cazador de almas",
+      "Charme d’attrape-âme",
+      "Талисман ловца душ",
+      "Seelenfängeramulett",
+      "Patuá do Apanhador de Almas",
+      "Amuleto del Ghermitore di Anime",
+      "영혼포획자의 부적",
+      "攝魂者符咒",
+      "捕魂者的咒符"
+    ],
+    "Media": "inv_jewelry_necklace_32.jpg"
+  },
+  {
+    "TagId": 250224,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mindpiercer's Sigil",
+      "Sigilo de perforamentes",
+      "Signo do Furamentes",
+      "Mindpiercer's Sigil",
+      "Sigilo de perforamentes",
+      "Cachet de tranche-esprit",
+      "Символ пронзателя разума",
+      "Siegel des Gedankendurchbohrers",
+      "Signo do Furamentes",
+      "Sigillo dello Straziamente",
+      "정신관통자의 인장",
+      "穿心者符印",
+      "穿灵者的魔印"
+    ],
+    "Media": "inv_icon_shadowcouncilorb_purple.jpg"
+  },
+  {
+    "TagId": 250225,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Void Execution Mandate",
+      "Mandato de ejecución del Vacío",
+      "Mandato de Execução do Caos",
+      "Void Execution Mandate",
+      "Mandato de ejecución del Vacío",
+      "Mandat d’exécution du Vide",
+      "Рескрипт казни Бездны",
+      "Vollstreckungsmandat der Leere",
+      "Mandato de Execução do Caos",
+      "Mandato dell'Esecuzione del Vuoto",
+      "공허 처형 명령",
+      "虛無處決命令",
+      "虚空处刑指令"
+    ],
+    "Media": "inv_inscription_80_warscroll_intellect.jpg"
+  },
+  {
+    "TagId": 250226,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Latch's Crooked Hook",
+      "Gancho torcido de Remache",
+      "Gancho Torto de Agaturro",
+      "Latch's Crooked Hook",
+      "Garfio torcido de Trancón",
+      "Crochet tordu de Clenche",
+      "Коварный крюк Зацапа",
+      "Happus' krummer Haken",
+      "Gancho Torto de Agaturro",
+      "Gancio Storto di Ganks",
+      "내장걸쇠의 뒤틀린 갈고리",
+      "拉奇的彎鉤",
+      "拉奇的弯曲钩爪"
+    ],
+    "Media": "inv_archaeology_70_tauren_moosebonefishhook.jpg"
+  },
+  {
+    "TagId": 250227,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Kroluk's Warbanner",
+      "Estandarte de guerra de Kroluk",
+      "Estandarte de Guerra de Kroluk",
+      "Kroluk's Warbanner",
+      "Estandarte de guerra de Kroluk",
+      "Bannière de guerre de Kroluk",
+      "Боевое знамя Кролука",
+      "Kroluks Kriegsbanner",
+      "Estandarte de Guerra de Kroluk",
+      "Stendardo di Guerra di Kroluk",
+      "크롤루크의 전쟁 깃발",
+      "寇魯克的戰旗",
+      "克罗鲁科的战旗"
+    ],
+    "Media": "inv_10_tailoring2_banner_red.jpg"
+  },
+  {
+    "TagId": 250228,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Resonant Roarstone",
+      "Rugerroca resonante",
+      "Pedrurro Ressoante",
+      "Resonant Roarstone",
+      "Piedrarrugido resonante",
+      "Rugipierre résonnante",
+      "Резонирующий ревущий камень",
+      "Hallender Brüllstein",
+      "Pedrurro Ressoante",
+      "Pietra del Ruggito Risonante",
+      "공명의 포효석",
+      "共鳴咆哮石",
+      "共鸣咆哮石"
+    ],
+    "Media": "inv_alchemy_90_stone_green.jpg"
+  },
+  {
+    "TagId": 250229,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Idol of the War Loa",
+      "Ídolo del loa de la guerra",
+      "Ídolo do Loa da Guerra",
+      "Idol of the War Loa",
+      "Ídolo del loa de la guerra",
+      "Idole du Loa de la guerre",
+      "Идол лоа войны",
+      "Götze des Kriegsloa",
+      "Ídolo do Loa da Guerra",
+      "Idolo del Loa della Guerra",
+      "전쟁의 로아의 우상",
+      "戰爭羅亞塑像",
+      "战争之神神像"
+    ],
+    "Media": "inv12_jewelrytrinkets_dungeon_idolofthewargod.jpg"
   },
   {
     "TagId": 250230,
@@ -861,6 +2793,27 @@
     "Media": "7424305.jpg"
   },
   {
+    "TagId": 250238,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Seed of the Devouring Wild",
+      "Semilla de la naturaleza devoradora",
+      "Semente da Natureza Voraz",
+      "Seed of the Devouring Wild",
+      "Semilla de la naturaleza devoradora",
+      "Graine de la nature dévorante",
+      "Семя пожирающей чащи",
+      "Samen der verschlingenden Wildnis",
+      "Semente da Natureza Voraz",
+      "Seme della Natura Famelica",
+      "포식하는 자연의 씨앗",
+      "吞噬荒野之種",
+      "贪噬狂野之种"
+    ],
+    "Media": "inv12_jewelrytrinkets_dungeon_seedofthedevouringwild.jpg"
+  },
+  {
     "TagId": 250239,
     "TagType": 21,
     "Names": [
@@ -901,6 +2854,174 @@
       "迷失相位的岩背兽"
     ],
     "Media": "inv_kareshroamermount_yellow.jpg"
+  },
+  {
+    "TagId": 250241,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mark of Light",
+      "Marca de Luz",
+      "Marca da Luz",
+      "Mark of Light",
+      "Marca de la Luz",
+      "Marque de Lumière",
+      "Знак света",
+      "Mal des Lichts",
+      "Marca da Luz",
+      "Marchio della Luce",
+      "빛의 징표",
+      "光明印記",
+      "圣光印记"
+    ],
+    "Media": "inv12_jewelrytrinkets_dungeon_markoflight.jpg"
+  },
+  {
+    "TagId": 250242,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Jelly Replicator",
+      "Replicador de gelatina",
+      "Replicador de Geleia",
+      "Jelly Replicator",
+      "Replicador de gelatina",
+      "Réplication de gelée",
+      "Репликатор геля",
+      "Geleereplikator",
+      "Replicador de Geleia",
+      "Replicatore di Gelatine",
+      "젤리 복제기",
+      "膠凍複製器",
+      "水母复制器"
+    ],
+    "Media": "inv12_jewelrytrinkets_dungeon_tankjellyreplicator.jpg"
+  },
+  {
+    "TagId": 250243,
+    "TagType": 21,
+    "Names": [
+      null,
+      "The Binding Flame",
+      "La llama vinculante",
+      "A Chama Vinculante",
+      "The Binding Flame",
+      "La llama vinculante",
+      "La flamme de lien",
+      "Связующий огонь",
+      "Die bindende Flamme",
+      "A Chama Vinculante",
+      "Fiamma Vincolante",
+      "구속의 불길",
+      "束縛烈焰",
+      "联结烈焰"
+    ],
+    "Media": "inv_ember_fel.jpg"
+  },
+  {
+    "TagId": 250244,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Permafrost Essence",
+      "Esencia de permaescarcha",
+      "Essência de Permafrio",
+      "Permafrost Essence",
+      "Esencia de escarcha permanente",
+      "Essence de pergélisol",
+      "Сущность вечной мерзлоты",
+      "Permafrostessenz",
+      "Essência de Permafrio",
+      "Essenza di Permagelo",
+      "영구 결빙의 정수",
+      "永凍精華",
+      "永冻精华"
+    ],
+    "Media": "inv12_jewelrytrinkets_dungeon_permafrostreservoir.jpg"
+  },
+  {
+    "TagId": 250245,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tumor of the Swarm",
+      "Tumor del enjambre",
+      "Tumor do Enxame",
+      "Tumor of the Swarm",
+      "Tumor del enjambre",
+      "Tumeur de l’essaim",
+      "Опухоль роя",
+      "Tumor des Schwarms",
+      "Tumor do Enxame",
+      "Escrescenza dello Sciame",
+      "무리의 종양",
+      "蟲群之瘤",
+      "虫群之瘤"
+    ],
+    "Media": "ability_pet_baneling.jpg"
+  },
+  {
+    "TagId": 250246,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Refueling Orb",
+      "Orbe de reabastecimiento",
+      "Orbe de Reabastecimento",
+      "Refueling Orb",
+      "Orbe de reabastecimiento",
+      "Orbe de ravitaillement",
+      "Заправляющая сфера",
+      "Aufladekugel",
+      "Orbe de Reabastecimento",
+      "Globo del Rifornimento",
+      "연료 보급의 보주",
+      "補給之球",
+      "充能宝珠"
+    ],
+    "Media": "inv_cosmicvoid_orb.jpg"
+  },
+  {
+    "TagId": 250247,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Amulet of the Abyssal Hymn",
+      "Amuleto del himno abisal",
+      "Amuleto do Hino Abissal",
+      "Amulet of the Abyssal Hymn",
+      "Amuleto del himno abisal",
+      "Amulette de l’hymne abyssal",
+      "Амулет гимна пустоты",
+      "Amulett der abyssischen Hymne",
+      "Amuleto do Hino Abissal",
+      "Amuleto dell'Inno Abissale",
+      "심연의 찬가의 아뮬렛",
+      "深淵頌歌護符",
+      "深渊赞歌护符"
+    ],
+    "Media": "inv_12_jewelry_devouringhost_necklace_bronze2.jpg"
+  },
+  {
+    "TagId": 250248,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Mycolic Medicine",
+      "Medicina micólica",
+      "Remédio Micólico",
+      "Mycolic Medicine",
+      "Medicina micólica",
+      "Remède mycolique",
+      "Миколовое лекарство",
+      "Mykotische Medizin",
+      "Remédio Micólico",
+      "Medicina Micolica",
+      "산화 방지 의약품",
+      "黴菌特效藥",
+      "真菌药剂"
+    ],
+    "Media": "inv_misc_starspecklemushroom.jpg"
   },
   {
     "TagId": 250249,
@@ -985,6 +3106,153 @@
       null
     ],
     "Media": "7424325.jpg"
+  },
+  {
+    "TagId": 250253,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Whisper of the Duskwraith",
+      "Susurro de la crepusculánima",
+      "Sussurro da Aparição-crepuscular",
+      "Whisper of the Duskwraith",
+      "Susurro del ánima del ocaso",
+      "Murmures de l’âme crépusculaire",
+      "Шепот сумрачного призрака",
+      "Flüstern des Dämmergespensts",
+      "Sussurro da Aparição-crepuscular",
+      "Sussurro della Presenza del Vespro",
+      "어스름망령의 속삭임",
+      "薄暮怨靈的低語",
+      "暮色怨灵的低语"
+    ],
+    "Media": "inv_cosmicvoid_wave.jpg"
+  },
+  {
+    "TagId": 250254,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Seed of Radiant Hope",
+      "Semilla de esperanza radiante",
+      "Semente da Esperança Resplandecente",
+      "Seed of Radiant Hope",
+      "Semilla de esperanza radiante",
+      "Graine d’espoir radieux",
+      "Семя сияющей надежды",
+      "Samen der strahlenden Hoffnung",
+      "Semente da Esperança Resplandecente",
+      "Seme della Speranza Radiosa",
+      "찬란한 희망의 씨앗",
+      "聖輝希望之種",
+      "光耀希望之种"
+    ],
+    "Media": "inv12_jewelrytrinkets_dungeon_seedofradianthope.jpg"
+  },
+  {
+    "TagId": 250255,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Unstable Felheart Crystal",
+      "Cristal de corazón vil inestable",
+      "Cristal Vilcórdio Instável",
+      "Unstable Felheart Crystal",
+      "Cristal de corazón vil inestable",
+      "Cristal de gangrecœur instable",
+      "Нестабильный кристалл сердца Скверны",
+      "Instabiler Teufelsherzkristall",
+      "Cristal Vilcórdio Instável",
+      "Cristallo del Vilcuore Instabile",
+      "불안정한 지옥심장 수정",
+      "不穩定的魔心水晶",
+      "动荡的邪心水晶"
+    ],
+    "Media": "tooltip_crystallizedfel.jpg"
+  },
+  {
+    "TagId": 250256,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Heart of Wind",
+      "Corazón de viento",
+      "Coração do Vento",
+      "Heart of Wind",
+      "Corazón de viento",
+      "Cœur du vent",
+      "Сердце ветра",
+      "Herz des Windes",
+      "Coração do Vento",
+      "Cuore del Vento",
+      "바람의 심장",
+      "風之心",
+      "风之心"
+    ],
+    "Media": "inv_10_jewelcrafting3_soulcage_air.jpg"
+  },
+  {
+    "TagId": 250257,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eye of the Drowning Void",
+      "Ojo del Vacío asfixiante",
+      "Olho do Caos Sufocante",
+      "Eye of the Drowning Void",
+      "Ojo del Vacío ahogado",
+      "Œil du Vide submergeant",
+      "Око зияющей Бездны",
+      "Auge der ertränkenden Leere",
+      "Olho do Caos Sufocante",
+      "Occhio del Vuoto Sommerso",
+      "가라앉는 공허의 눈",
+      "沉淪虛無之眼",
+      "沉溺虚空之眼"
+    ],
+    "Media": "inv_misc_eye_03.jpg"
+  },
+  {
+    "TagId": 250258,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vessel of Souls",
+      "Receptáculo de almas",
+      "Receptáculo das Almas",
+      "Vessel of Souls",
+      "Receptáculo de almas",
+      "Réceptacle des âmes",
+      "Сосуд душ",
+      "Gefäß der Seelen",
+      "Receptáculo das Almas",
+      "Ricettacolo d'Anime",
+      "영혼의 그릇",
+      "靈魂容器",
+      "聚魂之器"
+    ],
+    "Media": "inv_misc_food_162_fish_90blue.jpg"
+  },
+  {
+    "TagId": 250259,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sapling of the Dawnroot",
+      "Retoño del albarraíz",
+      "Broto de Raizaurora",
+      "Sapling of the Dawnroot",
+      "Pimpollo del albarraíz",
+      "Arbrisseau d’Auberacine",
+      "Росток рассветного корня",
+      "Setzling der Dämmerwurzel",
+      "Broto de Raizaurora",
+      "Virgulto dell'Auroradice",
+      "여명뿌리의 묘목",
+      "曦根樹苗",
+      "黎明之根的幼苗"
+    ],
+    "Media": "inv_misc_herb_nightmarevine.jpg"
   },
   {
     "TagId": 250260,
@@ -1690,7 +3958,7 @@
       "Netherlight Conclave Voidwell",
       "Pozo del Vacío del Cónclave de la Luz Abisal",
       "Puits du Vide du Conclave de Halo-du-Néant",
-      "Колодец бездны конклава света Пустоты",
+      "Колодец Бездны конклава света Пустоты",
       "Leerenbrunnen der Netherlichtkonklave",
       "Fonte de Caos do Conclave de Eterluz",
       "Pozzo di Vuoto del Conclave di Lucefatua",
@@ -1911,6 +4179,69 @@
     "Media": "inv_misc_celebrationcake_01.jpg"
   },
   {
+    "TagId": 250317,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pile of Ash",
+      "Montón de ceniza",
+      "Pilha de Cinzas",
+      "Pile of Ash",
+      "Montón de ceniza",
+      "Tas de cendres",
+      "Кучка пепла",
+      "Aschehaufen",
+      "Pilha de Cinzas",
+      "Mucchio di Cenere",
+      "잿더미",
+      "灰燼堆",
+      "灰烬堆"
+    ],
+    "Media": "inv_misc_dust_02.jpg"
+  },
+  {
+    "TagId": 250319,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Researcher's Shadowgraft",
+      "Injerto sombrío de investigador",
+      "Enxerto de Sombra",
+      "Researcher's Shadowgraft",
+      "Injerto de sombra de investigador",
+      "Greffombre de recherche",
+      "Теневой трансплантат исследователя",
+      "Schattenjoch des Forschers",
+      "Enxerto de Sombra",
+      "Innesto d'Ombra del Ricercatore",
+      "연구원의 어둠접목",
+      "研究員的影芽",
+      "研究员的影接环"
+    ],
+    "Media": "inv_10_blacksmithing_craftedoptional_reinforcedmetalplating_color01.jpg"
+  },
+  {
+    "TagId": 250320,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lightgraft",
+      "Injerto luminoso",
+      "Enxerto de Luz",
+      "Lightgraft",
+      "Injertoluz",
+      "Sanctegreffe",
+      "Светокожа",
+      "Lichtjoch",
+      "Enxerto de Luz",
+      "Innesto di Luce",
+      "빛접목",
+      "光芽",
+      "光接环"
+    ],
+    "Media": "inv_10_blacksmithing_craftedoptional_reinforcedmetalplating_color02.jpg"
+  },
+  {
     "TagId": 250321,
     "TagType": 21,
     "Names": [
@@ -1930,6 +4261,132 @@
       "托林尼尔幼龙的缰绳"
     ],
     "Media": "inv_stormdragonmount2blue.jpg"
+  },
+  {
+    "TagId": 250325,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Night's Embrace",
+      "Abrazo de la noche",
+      "Abraço da Noite",
+      "Night's Embrace",
+      "Abrazo de la noche",
+      "Étreinte de la nuit",
+      "Объятия ночи",
+      "Umarmung der Nacht",
+      "Abraço da Noite",
+      "Abbraccio della Notte",
+      "밤의 은총",
+      "暗夜之擁",
+      "夜之拥抱"
+    ],
+    "Media": "trade_alchemy_dpotion_b21.jpg"
+  },
+  {
+    "TagId": 250352,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Worn Supply Bag",
+      "Bolsa de suministros desgastada",
+      "Sacola de Suprimentos Gasta",
+      "Worn Supply Bag",
+      "Bolsa de suministros desgastada",
+      "Sac de fournitures usé",
+      "Изношенная сумка с припасами",
+      "Abgenutzte Vorratstasche",
+      "Sacola de Suprimentos Gasta",
+      "Borsa di Rifornimenti Logora",
+      "닳은 보급품 자루",
+      "破舊的補給袋",
+      "破旧的补给袋"
+    ],
+    "Media": "inv_misc_bag_18.jpg"
+  },
+  {
+    "TagId": 250355,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Twilight Agitator's Stave",
+      "Báculo de agitador crepuscular",
+      "Báculo do Agitador do Crepúsculo",
+      "Twilight Agitator's Stave",
+      "Báculo de agitador Crepuscular",
+      "Bâton d’agitation du Crépuscule",
+      "Посох сумеречного подстрекателя",
+      "Stab des Zwielichthetzers",
+      "Báculo do Agitador do Crepúsculo",
+      "Bastone dell'Agitatrice del Crepuscolo",
+      "황혼의 선동가의 지팡이",
+      "暮光煽動者護杖",
+      "暮光煽动者的法杖"
+    ],
+    "Media": "inv_staff_2h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250356,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Treasonous Ranger's Longbow",
+      "Arco largo de forestal traicionero",
+      "Arco Longo do Patrulheiro Traiçoeiro",
+      "Treasonous Ranger's Longbow",
+      "Arco largo de forestal traicionero",
+      "Arc long de foresterie perfide",
+      "Длинный лук следопыта-предателя",
+      "Langbogen des verräterischen Waldläufers",
+      "Arco Longo do Patrulheiro Traiçoeiro",
+      "Arco Lungo della Guardaboschi Eversiva",
+      "반역을 일삼는 순찰자의 장궁",
+      "叛國遊俠長弓",
+      "谋反游侠的长弓"
+    ],
+    "Media": "inv_bow_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250360,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echo of Abundance: Skinning",
+      "Eco de abundancia: Desuello",
+      "Eco de Abundância: Esfolamento",
+      "Echo of Abundance: Skinning",
+      "Eco de abundancia: desuello",
+      "Écho d’abondance\u00A0: dépeçage",
+      "Эхо изобилия: снятие шкур",
+      "Echo des Überflusses: Kürschnerei",
+      "Eco de Abundância: Esfolamento",
+      "Eco dell'Abbondanza: Scuoiatura",
+      "풍요의 메아리: 무두질",
+      "豐足回音：剝皮",
+      "丰饶回响：剥皮"
+    ],
+    "Media": "inv_10_specialization_professionbook_skinning_orig.jpg"
+  },
+  {
+    "TagId": 250361,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Depleted Voidshard Ring",
+      "Anillo de fragmento del Vacío agotado",
+      "Anel do Estilhaço do Caos Esgotado",
+      "Depleted Voidshard Ring",
+      "Anillo de fragmento de Vacío agotado",
+      "Anneau d’éclat du Vide épuisé",
+      "Кольцо с истощенным осколком Бездны",
+      "Ausgelaugter Leerensplitterring",
+      "Anel do Estilhaço do Caos Esgotado",
+      "Anello con Scheggia del Vuoto Esaurita",
+      "소진된 공허조각 반지",
+      "耗盡的虛無裂片戒指",
+      "枯竭的虚空裂片戒指"
+    ],
+    "Media": "inv_10_dungeonjewelry_primitive_ring_2harpy_color5.jpg"
   },
   {
     "TagId": 250402,
@@ -2499,6 +4956,27 @@
     "Media": "inv_cape_plate_outdoorethereal_c_01.jpg"
   },
   {
+    "TagId": 250440,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Recruitment Fliers",
+      "Folletos de reclutamiento",
+      "Panfletos de Recrutamento",
+      "Recruitment Fliers",
+      "Folletos de reclutamiento",
+      "Prospectus de recrutement",
+      "Вербовочные листовки",
+      "Rekrutierungsflugblätter",
+      "Panfletos de Recrutamento",
+      "Volantini di Reclutamento",
+      "영입 전단",
+      "招募傳單",
+      "征募传单"
+    ],
+    "Media": "inv_scroll_16.jpg"
+  },
+  {
     "TagId": 250441,
     "TagType": 21,
     "Names": [
@@ -2541,6 +5019,447 @@
     "Media": "inv_cape_mail_outdoorethereal_c_01.jpg"
   },
   {
+    "TagId": 250443,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echo of Abundance: Herbalism",
+      "Eco de abundancia: Herboristería",
+      "Eco de Abundância: Herborismo",
+      "Echo of Abundance: Herbalism",
+      "Eco de abundancia: herboristería",
+      "Écho d’abondance\u00A0: herboristerie",
+      "Эхо изобилия: травничество",
+      "Echo des Überflusses: Kräuterkunde",
+      "Eco de Abundância: Herborismo",
+      "Eco dell'Abbondanza: Erbalismo",
+      "풍요의 메아리: 약초채집",
+      "豐足回音：草藥學",
+      "丰饶回响：草药学"
+    ],
+    "Media": "inv_10_specialization_professionbook_herbalism_orig.jpg"
+  },
+  {
+    "TagId": 250444,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echo of Abundance: Mining",
+      "Eco de abundancia: Minería",
+      "Eco de Abundância: Mineração",
+      "Echo of Abundance: Mining",
+      "Eco de abundancia: minería",
+      "Écho d’abondance\u00A0: minage",
+      "Эхо изобилия: горное дело",
+      "Echo des Überflusses: Bergbau",
+      "Eco de Abundância: Mineração",
+      "Eco dell'Abbondanza: Estrazione",
+      "풍요의 메아리: 채광",
+      "豐足回音：採礦",
+      "丰饶回响：采矿"
+    ],
+    "Media": "inv_10_specialization_professionbook_mining_orig.jpg"
+  },
+  {
+    "TagId": 250445,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Echo of Abundance: Enchanting",
+      "Eco de abundancia: Encantamiento",
+      "Eco de Abundância: Encantamento",
+      "Echo of Abundance: Enchanting",
+      "Eco de abundancia: encantamiento",
+      "Écho d’abondance\u00A0: enchantement",
+      "Эхо изобилия: наложение чар",
+      "Echo des Überflusses: Verzauberkunst",
+      "Eco de Abundância: Encantamento",
+      "Eco dell'Abbondanza: Incantamento",
+      "풍요의 메아리: 마법부여",
+      "豐足回音：附魔",
+      "丰饶回响：附魔"
+    ],
+    "Media": "inv_10_specialization_professionbook_enchanting_orig.jpg"
+  },
+  {
+    "TagId": 250446,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cragtender Bulwark",
+      "Baluarte de cuidarriscos",
+      "Baluarte do Cuidador de Rochedos",
+      "Cragtender Bulwark",
+      "Baluarte cuidarriscos",
+      "Rempart garde-combe",
+      "Бастион хранителя скал",
+      "Bollwerk des Felshüters",
+      "Baluarte do Cuidador de Rochedos",
+      "Scudo Barricata del Curarupi",
+      "암반지기 보루 방패",
+      "峭壁看管者壁壘",
+      "峭壁看护者壁垒"
+    ],
+    "Media": "inv_shield_1h_revendrethquest_b_01.jpg"
+  },
+  {
+    "TagId": 250447,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Eversong Scepter",
+      "Cetro de Canción Eterna radiante",
+      "Cetro de Canto Eterno Resplandecente",
+      "Radiant Eversong Scepter",
+      "Cetro de Canción Eterna radiante",
+      "Sceptre des Chants éternels rayonnant",
+      "Сияющий скипетр Вечной Песни",
+      "Strahlendes Immersangszepter",
+      "Cetro de Canto Eterno Resplandecente",
+      "Scettro Radioso di Cantoeterno",
+      "빛나는 영원노래 홀",
+      "聖輝永歌權杖",
+      "光耀永歌权杖"
+    ],
+    "Media": "inv_offhand_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250448,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Voidbender's Spire",
+      "Espira de dolbegavacío",
+      "Pináculo do Dobra-Caos",
+      "Voidbender's Spire",
+      "Aguja de dominador del Vacío",
+      "Flèche d’arque-Vide",
+      "Шпиль заклинателя Бездны",
+      "Spitze des Leerenformers",
+      "Pináculo do Dobra-Caos",
+      "Spira del Plagiavuoto",
+      "공허왜곡사의 뾰족지팡이",
+      "虛無扭曲者尖杖",
+      "虚空扭曲者塔杖"
+    ],
+    "Media": "inv_staff_2h_domanaar_b_01.jpg"
+  },
+  {
+    "TagId": 250449,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Skulking Nettledirk",
+      "Dagaortiga hosca",
+      "Urtiadaga Furtiva",
+      "Skulking Nettledirk",
+      "Puntillortiga merodeadora",
+      "Daguortie boudeuse",
+      "Потайной жгучий кортик",
+      "Schleichender Nesseldolch",
+      "Urtiadaga Furtiva",
+      "Dirk d'Ortiche Furtive",
+      "서성하는 쐐기풀비수",
+      "隱匿蕁麻短匕",
+      "潜行荨麻匕首"
+    ],
+    "Media": "inv_knife_1h_rutaani_b_01.jpg"
+  },
+  {
+    "TagId": 250450,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forest Sentinel's Savage Longbow",
+      "Arco largo salvaje de centinela del bosque",
+      "Arco Longo Selvagem da Sentinela da Floresta",
+      "Forest Sentinel's Savage Longbow",
+      "Arco largo salvaje de centinela del bosque",
+      "Arc long brutal de sentinelle forestière",
+      "Дикий длинный лук лесного стража",
+      "Grausamer Langbogen des Waldwächters",
+      "Arco Longo Selvagem da Sentinela da Floresta",
+      "Arco Lungo Selvaggio della Sentinella della Foresta",
+      "숲 파수꾼의 야성적인 장궁",
+      "森林哨兵的兇蠻長弓",
+      "森林哨兵的野蛮长弓"
+    ],
+    "Media": "inv_bow_1h_amani_c_01.jpg"
+  },
+  {
+    "TagId": 250451,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dawncrazed Beast Cleaver",
+      "Cuchilla de bestia de locuralba",
+      "Cutelo da Fera do Alvor Demente",
+      "Dawncrazed Beast Cleaver",
+      "Cuchilla de bestia enloquecida por el alba",
+      "Fendoir de bête d’aube agitée",
+      "Звериный колун безумия рассвета",
+      "Bestienspaltbeil der Morgenraserei",
+      "Cutelo da Fera do Alvor Demente",
+      "Mannaia della Bestia Albafolle",
+      "여명광포 야수 가로날도끼",
+      "黎明癲狂屠獸斧",
+      "晨狂野兽斩斧"
+    ],
+    "Media": "inv_axe_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250452,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blooming Thornblade",
+      "Espada espinada floreciente",
+      "Lâmina Espinhosa Florescente",
+      "Blooming Thornblade",
+      "Hojaespina floreciente",
+      "Lame-épine florissante",
+      "Цветущий острошип",
+      "Blühende Dornenklinge",
+      "Lâmina Espinhosa Florescente",
+      "Lamarovo Fiorente",
+      "만개하는 뾰족칼",
+      "綻放荊棘之刃",
+      "盛放荆棘之刃"
+    ],
+    "Media": "inv_sword_1h_rutaani_b_01.jpg"
+  },
+  {
+    "TagId": 250453,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Scepter of the Unbound Light",
+      "Cetro de Luz desatada",
+      "Cetro da Luz Desabrida",
+      "Scepter of the Unbound Light",
+      "Cetro de la Luz liberada",
+      "Sceptre de la Lumière déliée",
+      "Скипетр необузданного света",
+      "Szepter des ungebundenen Lichts",
+      "Cetro da Luz Desabrida",
+      "Scettro della Luce Svincolata",
+      "굴레를 벗어난 빛의 홀",
+      "無縛聖光權杖",
+      "无羁圣光杖锤"
+    ],
+    "Media": "inv_mace_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250454,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Vanguard's Soulcleaver",
+      "Rajaalmas de vanguardia devorador",
+      "Rachalma da Vanguarda Devoradora",
+      "Devouring Vanguard's Soulcleaver",
+      "Rajaalmas de la vanguardia de la Devoración",
+      "Tranche-âmes de l’avant-garde dévorante",
+      "Душеруб пожирающего воителя",
+      "Seelenspalter der verschlingenden Vorhut",
+      "Rachalma da Vanguarda Devoradora",
+      "Fendianime dell'Avanguardia Divorante",
+      "포식의 선봉대 영혼절단기",
+      "吞噬先鋒斬魂者",
+      "吞噬先锋的摄魂斧"
+    ],
+    "Media": "inv_axe_2h_domanaar_b_01.jpg"
+  },
+  {
+    "TagId": 250455,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Beastly Blossombarb",
+      "Puaflor bestial",
+      "Flor-farpada Feral",
+      "Beastly Blossombarb",
+      "Puaflor bestial",
+      "Florapointe bestiale",
+      "Чудовищный цветокол",
+      "Bestialischer Blütendorn",
+      "Flor-farpada Feral",
+      "Alabarda Fiorita Bestiale",
+      "야성적인 꽃가시",
+      "兇殘花刺",
+      "野兽花刺"
+    ],
+    "Media": "inv_polearm_2h_rutaani_b_01.jpg"
+  },
+  {
+    "TagId": 250456,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Wretched Scholar's Gilded Robe",
+      "Toga dorada de erudito miserable",
+      "Veste Dourada do Erudito Arruinado",
+      "Wretched Scholar's Gilded Robe",
+      "Toga dorada de erudito infeliz",
+      "Robe dorée d’étude abjecte",
+      "Роскошные одеяния гнусного ученого",
+      "Golddurchwirkte Robe des getriebenen Gelehrten",
+      "Veste Dourada do Erudito Arruinado",
+      "Veste Dorata dello Studioso Miserabile",
+      "뒤틀린 학자의 금빛 로브",
+      "悲慘學者的鍍金長袍",
+      "枯法学者的鎏金长袍"
+    ],
+    "Media": "inv_chest_cloth_raidmagemidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250457,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Devouring Outrider's Chausses",
+      "Botarga de escolta devorador",
+      "Chausses do Pioneiro Devorador",
+      "Devouring Outrider's Chausses",
+      "Calzas de escolta devorador",
+      "Hauts-de-chausses de voltige dévorants",
+      "Шоссы всепожирающего всадника",
+      "Beinlinge des verschlingenden Vorreiters",
+      "Chausses do Pioneiro Devorador",
+      "Calzerotti del Perlustratore Divorante",
+      "포식의 척후대 정강이싸개",
+      "吞噬先遣軍的重腿甲",
+      "吞噬先锋腿甲"
+    ],
+    "Media": "inv_pant_leather_raiddemonhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250458,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Host Commander's Casque",
+      "Borgoñota de comandante de hueste",
+      "Casquete do Comandante da Hoste",
+      "Host Commander's Casque",
+      "Borgoñota de comandante de hueste",
+      "Cabasset de commandement de l’ost",
+      "Каска командира сонма",
+      "Helm des Scharkommandanten",
+      "Casquete do Comandante da Hoste",
+      "Casco del Comandante Ospite",
+      "군단 사령관의 투구모자",
+      "吞噬之眾指揮官的兜盔",
+      "众军指挥官头盔"
+    ],
+    "Media": "inv_plate_raiddeathknightmidnight_d_01_helm.jpg"
+  },
+  {
+    "TagId": 250459,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bramblestalker's Feathered Cowl",
+      "Capucha emplumada de acechazarzas",
+      "Capucho Emplumado do Espreitador de Espinheiros",
+      "Bramblestalker's Feathered Cowl",
+      "Capucha de plumas de acechazarzas",
+      "Capuche à plumes de traque-ronces",
+      "Пернатый клобук шипастого охотника",
+      "Gefiederte Gugel des Dornenrankenpirschers",
+      "Capucho Emplumado do Espreitador de Espinheiros",
+      "Copricapo Piumato del Predarovi",
+      "가시덤불 추적자의 깃털 달린 수도두건",
+      "刺藤潛獵者的羽織風帽",
+      "荆棘追猎者的羽饰风帽"
+    ],
+    "Media": "inv_helm_mail_raidhuntermidnight_d_01.jpg"
+  },
+  {
+    "TagId": 250460,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Encroaching Shadow Signet",
+      "Sello de las sombras abrumante",
+      "Sinete da Sombra Usurpadora",
+      "Encroaching Shadow Signet",
+      "Sello de sombra invasora",
+      "Chevalière d’ombre envahissante",
+      "Печатка крадущейся тени",
+      "Signet des nahenden Schattens",
+      "Sinete da Sombra Usurpadora",
+      "Anello con Sigillo dell'Ombra Opprimente",
+      "잠식하는 그림자 인장",
+      "進逼暗影璽戒",
+      "侵蚀暗影玺戒"
+    ],
+    "Media": "inv_ring_oribos_01_silver.jpg"
+  },
+  {
+    "TagId": 250461,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chain of the Ancient Watcher",
+      "Cadena del vigía anciano",
+      "Corrente do Vigia Anciente",
+      "Chain of the Ancient Watcher",
+      "Cadena del vigía anciano",
+      "Chaîne d’observation ancienne",
+      "Цепь древнего дозорного",
+      "Kette des uralten Wächters",
+      "Corrente do Vigia Anciente",
+      "Catena del Guardiano Antico",
+      "고대의 감시자의 사슬",
+      "遠古看守者鎖鍊",
+      "上古看护者之链"
+    ],
+    "Media": "inv_7_0raid_necklace_03c.jpg"
+  },
+  {
+    "TagId": 250462,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forgotten Farstrider's Insignia",
+      "Insignia de errante olvidado",
+      "Insígnia do Andarilho Esquecido",
+      "Forgotten Farstrider's Insignia",
+      "Insignia de errante olvidado",
+      "Insigne pérégrin perdu",
+      "Забытый знак различия Странника",
+      "Insigne des vergessenen Weltenwanderers",
+      "Insígnia do Andarilho Esquecido",
+      "Fregio dei Lungopasso Dimenticato",
+      "잊힌 원정순찰대원의 휘장",
+      "被遺忘的遠行者徽記",
+      "被遗忘的远行者徽章"
+    ],
+    "Media": "inv_misc_tournaments_banner_bloodelf.jpg"
+  },
+  {
+    "TagId": 250463,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_1h_innmeatcleaver_a_01.jpg"
+  },
+  {
     "TagId": 250464,
     "TagType": 21,
     "Names": [
@@ -2562,6 +5481,300 @@
     "Media": "inv_misc_token_darkmoon_01.jpg"
   },
   {
+    "TagId": 250465,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Shadow Crystal",
+      "Cristal de sombras",
+      "Cristal Sombrio",
+      "Shadow Crystal",
+      "Cristal de las Sombras",
+      "Cristal ombreux",
+      "Сумрачный кристалл",
+      "Schattenkristall",
+      "Cristal Sombrio",
+      "Cristallo d'Ombra",
+      "암흑 수정",
+      "暗影水晶",
+      "暗影水晶"
+    ],
+    "Media": "inv_datacrystal01.jpg"
+  },
+  {
+    "TagId": 250468,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_axe_2h_6miningpick.jpg"
+  },
+  {
+    "TagId": 250470,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Bow",
+      "Arco de cripta encantado",
+      "Arco da Cripta Encantado",
+      "Enchanted Crypt Bow",
+      "Arco de cripta encantada",
+      "Arc de la crypte enchantée",
+      "Лук заколдованного склепа",
+      "Bogen der verzauberten Gruft",
+      "Arco da Cripta Encantado",
+      "Arco della Cripta Incantata",
+      "마력 깃든 납골당 활",
+      "附魔墓穴之弓",
+      "附魔的墓穴长弓"
+    ],
+    "Media": "inv_bow_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250471,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Battlestaff",
+      "Bastón de batalla de cripta encantado",
+      "Cajado da Cripta Encantado",
+      "Enchanted Crypt Battlestaff",
+      "Bastón de batalla de cripta encantada",
+      "Bâton de combat de la crypte enchantée",
+      "Боевой посох заколдованного склепа",
+      "Kriegsstab der verzauberten Gruft",
+      "Cajado da Cripta Encantado",
+      "Bastone da Battaglia della Cripta Incantata",
+      "마력 깃든 납골당 전투지팡이",
+      "附魔墓穴戰鬥法杖",
+      "附魔的墓穴战杖"
+    ],
+    "Media": "inv_staff_2h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250472,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Stave",
+      "Báculo de cripta encantado",
+      "Báculo da Cripta Encantado",
+      "Enchanted Crypt Stave",
+      "Báculo de cripta encantada",
+      "Bâton de la crypte enchantée",
+      "Посох заколдованного склепа",
+      "Stab der verzauberten Gruft",
+      "Báculo da Cripta Encantado",
+      "Bastone della Cripta Incantata",
+      "마력 깃든 납골당 지팡이",
+      "附魔墓穴護杖",
+      "附魔的墓穴法杖"
+    ],
+    "Media": "inv_staff_2h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250473,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Claymore",
+      "Mandoble de cripta encantado",
+      "Espadão da Cripta Encantado",
+      "Enchanted Crypt Claymore",
+      "Mandoble de cripta encantada",
+      "Claymore de la crypte enchantée",
+      "Клеймор заколдованного склепа",
+      "Claymore der verzauberten Gruft",
+      "Espadão da Cripta Encantado",
+      "Spadone della Cripta Incantata",
+      "마력 깃든 납골당 클레이모어",
+      "附魔墓穴巨刃劍",
+      "附魔的墓穴双刃剑"
+    ],
+    "Media": "inv_sword_2h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250474,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Greatsword",
+      "Espada magna de cripta encantada",
+      "Montante da Cripta Encantado",
+      "Enchanted Crypt Greatsword",
+      "Espada magna de cripta encantada",
+      "Estramaçon de la crypte enchantée",
+      "Двуручный меч заколдованного склепа",
+      "Großschwert der verzauberten Gruft",
+      "Montante da Cripta Encantado",
+      "Granspada della Cripta Incantata",
+      "마력 깃든 납골당 대검",
+      "附魔墓穴巨劍",
+      "附魔的墓穴巨剑"
+    ],
+    "Media": "inv_sword_2h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250475,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Sword",
+      "Espada de cripta encantada",
+      "Espada da Cripta Encantada",
+      "Enchanted Crypt Sword",
+      "Espada de cripta encantada",
+      "Épée de la crypte enchantée",
+      "Меч заколдованного склепа",
+      "Schwert der verzauberten Gruft",
+      "Espada da Cripta Encantada",
+      "Spada della Cripta Incantata",
+      "마력 깃든 납골당 검",
+      "附魔墓穴之劍",
+      "附魔的墓穴长剑"
+    ],
+    "Media": "inv_sword_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250476,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Falchion",
+      "Bracamarte de cripta encantado",
+      "Alfanje da Cripta Encantado",
+      "Enchanted Crypt Falchion",
+      "Bracamarte de cripta encantada",
+      "Fauchon de la crypte enchantée",
+      "Фальшион заколдованного склепа",
+      "Krummschwert der verzauberten Gruft",
+      "Alfanje da Cripta Encantado",
+      "Falcione della Cripta Incantata",
+      "마력 깃든 납골당 언월도",
+      "附魔墓穴大刀",
+      "附魔的墓穴阔剑"
+    ],
+    "Media": "inv_sword_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250477,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Hacker",
+      "Rebanadora de cripta encantada",
+      "Talhador da Cripta Encantado",
+      "Enchanted Crypt Hacker",
+      "Rebanadora de cripta encantada",
+      "Trancheuse de la crypte enchantée",
+      "Разрубатель заколдованного склепа",
+      "Zerhacker der verzauberten Gruft",
+      "Talhador da Cripta Encantado",
+      "Ascia della Cripta Incantata",
+      "마력 깃든 납골당 톱날도끼",
+      "附魔墓穴劈斧",
+      "附魔的墓穴劈斧"
+    ],
+    "Media": "inv_axe_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250478,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Hatchet",
+      "Hachuela de cripta encantada",
+      "Machadinha da Cripta Encantada",
+      "Enchanted Crypt Hatchet",
+      "Hachuela de cripta encantada",
+      "Hachette de la crypte enchantée",
+      "Легкий топор заколдованного склепа",
+      "Kriegsbeil der verzauberten Gruft",
+      "Machadinha da Cripta Encantada",
+      "Accetta della Cripta Incantata",
+      "마력 깃든 납골당 손도끼",
+      "附魔墓穴短斧",
+      "附魔的墓穴手斧"
+    ],
+    "Media": "inv_axe_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250479,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Cleaver",
+      "Cuchilla de cripta encantada",
+      "Cutelo da Cripta Encantado",
+      "Enchanted Crypt Cleaver",
+      "Cuchilla de cripta encantada",
+      "Fendoir de la crypte enchantée",
+      "Колун заколдованного склепа",
+      "Spaltbeil der verzauberten Gruft",
+      "Cutelo da Cripta Encantado",
+      "Mannaia della Cripta Incantata",
+      "마력 깃든 납골당 가로날도끼",
+      "附魔墓穴斬斧",
+      "附魔的墓穴斩斧"
+    ],
+    "Media": "inv_axe_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250480,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchanted Crypt Shiv",
+      "Puyazo de cripta encantada",
+      "Lanceta da Cripta Encantada",
+      "Enchanted Crypt Shiv",
+      "Chafarote de cripta encantada",
+      "Coutelas de la crypte enchantée",
+      "Нож заколдованного склепа",
+      "Messer der verzauberten Gruft",
+      "Lanceta da Cripta Encantada",
+      "Daghetta della Cripta Incantata",
+      "마력 깃든 납골당 비수",
+      "附魔墓穴剃刃",
+      "附魔的墓穴军刺"
+    ],
+    "Media": "inv_knife_1h_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 250481,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_1h_blacksmithchisel_a_01.jpg"
+  },
+  {
     "TagId": 250622,
     "TagType": 21,
     "Names": [
@@ -2581,6 +5794,90 @@
       "垂直的魔钢锁链"
     ],
     "Media": "7424373.jpg"
+  },
+  {
+    "TagId": 250627,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forbidden Fork",
+      "Trinche prohibido",
+      "Garfo Proibido",
+      "Forbidden Fork",
+      "Tenedor prohibido",
+      "Fourchette interdite",
+      "Запретная вилка",
+      "Verbotene Gabel",
+      "Garfo Proibido",
+      "Forchetta Proibita",
+      "금단의 포크",
+      "禁忌叉子",
+      "禁忌之叉"
+    ],
+    "Media": "7424377.jpg"
+  },
+  {
+    "TagId": 250628,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_bag_10_green.jpg"
+  },
+  {
+    "TagId": 250686,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_wand_04.jpg"
+  },
+  {
+    "TagId": 250687,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_1h_farmsickle_a_01.jpg"
   },
   {
     "TagId": 250689,
@@ -2688,25 +5985,256 @@
     "Media": "7424397.jpg"
   },
   {
+    "TagId": 250694,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Draconic Metalshaper's Anvil",
+      "Yunque dracónico de formametales",
+      "Bigorna de Metalforja Dracônica",
+      "Draconic Metalshaper's Anvil",
+      "Yunque de forjametales dracónico",
+      "Enclume de sculpte-métal draconique",
+      "Наковальня драконьего металлурга",
+      "Drakonischer Metallarbeiteramboss",
+      "Bigorna de Metalforja Dracônica",
+      "Incudine del Plasmacciaio Draconico",
+      "용족 금속구체자의 모루",
+      "龍族塑鋼師鐵砧",
+      "龙族塑金者的铁砧"
+    ],
+    "Media": "7424401.jpg"
+  },
+  {
+    "TagId": 250695,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Replica Grathardormu's Hammer",
+      "Réplica de martillo de Grathardormu",
+      "Réplica de Martelo de Agarrardormu",
+      "Replica Grathardormu's Hammer",
+      "Réplica del martillo de Grathardormu",
+      "Réplique du marteau de Graphardormu",
+      "Копия молота Хватадорму",
+      "Nachbildung: Grathardormus Hammer",
+      "Réplica de Martelo de Agarrardormu",
+      "Replica del Martello di Grathardormu",
+      "복제 그라타도르무의 망치",
+      "格拉薩多姆之錘複製品",
+      "格拉萨多姆的复制品战锤"
+    ],
+    "Media": "7424405.jpg"
+  },
+  {
+    "TagId": 250696,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Green Thumb's Watering Can",
+      "Regadera de jardinería",
+      "Regador de Dedo Verde",
+      "Green Thumb's Watering Can",
+      "Regadera de jardinero",
+      "Arrosoir de la Main verte",
+      "Лейка прирожденного садовника",
+      "Gießkanne des grünen Daumens",
+      "Regador de Dedo Verde",
+      "Innaffiatoio per Pollice Verde",
+      "원예가의 물뿌리개",
+      "園藝奇才的灑水壺",
+      "护花能手的浇水壶"
+    ],
+    "Media": "7424409.jpg"
+  },
+  {
+    "TagId": 250697,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Draconic Auctioneer's Lectern",
+      "Atril de subastador dracónico",
+      "Atril do Leiloeiro Dracônico",
+      "Draconic Auctioneer's Lectern",
+      "Atril de subastador dracónico",
+      "Lutrin d’enchères draconique",
+      "Подиум драконьего аукциониста",
+      "Drakonisches Auktionatorpult",
+      "Atril do Leiloeiro Dracônico",
+      "Leggio del Banditore d'Asta Draconico",
+      "용족 경매인의 강단",
+      "龍族拍賣師講臺",
+      "龙族拍卖师的讲台"
+    ],
+    "Media": "7424413.jpg"
+  },
+  {
+    "TagId": 250698,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Obsidian Warder Pennant",
+      "Grímpola de depositario obsidiana",
+      "Galhardete Guardador Obsidiano",
+      "Obsidian Warder Pennant",
+      "Grímpola de Depositario Obsidiana",
+      "Pennon de garde d’obsidienne",
+      "Флаг Обсидиановых Хранителей",
+      "Obsidianwächterwimpel",
+      "Galhardete Guardador Obsidiano",
+      "Vessillo del Custode d'Ossidiana",
+      "흑요석 수호병단 깃발",
+      "黑曜衛隊錦旗",
+      "黑卫营旌旗"
+    ],
+    "Media": "7424417.jpg"
+  },
+  {
+    "TagId": 250699,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dark Talon Pennant",
+      "Grímpola garfa oscura",
+      "Galhardete de Garra Sombria",
+      "Dark Talon Pennant",
+      "Grímpola de Garfa Oscura",
+      "Pennon des Serres-Noires",
+      "Флаг Темного Когтя",
+      "Dunkelkrallenwimpel",
+      "Galhardete de Garra Sombria",
+      "Vessillo dell'Artiglio Oscuro",
+      "검은 갈퀴발톱 깃발",
+      "黑爪兵團錦旗",
+      "暗爪营旌旗"
+    ],
+    "Media": "7424421.jpg"
+  },
+  {
+    "TagId": 250700,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Roasted Ram Leg",
+      "Pata de carnero asada",
+      "Perna de Carneiro Assada",
+      "Roasted Ram Leg",
+      "Pierna de carnero asada",
+      "Patte de bélier rôtie",
+      "Жареная баранья нога",
+      "Geröstete Geißbockhaxe",
+      "Perna de Carneiro Assada",
+      "Zampa di Montone Arrosto",
+      "산양 다리 구이",
+      "炙烤公羊腿",
+      "脆烤山羊腿"
+    ],
+    "Media": "7424425.jpg"
+  },
+  {
+    "TagId": 250701,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Draconic Trader's Cart",
+      "Carrito de comerciante draconiano",
+      "Carrinho de Comerciante Dracônico",
+      "Draconic Trader's Cart",
+      "Carro de comerciante dracónico",
+      "Chariot de commerce draconique",
+      "Повозка драконьего торговца",
+      "Drakonischer Händlerwagen",
+      "Carrinho de Comerciante Dracônico",
+      "Carrello del Mercante Draconico",
+      "용족 무역상의 수레",
+      "龍族商人推車",
+      "龙族商人的货车"
+    ],
+    "Media": "7424429.jpg"
+  },
+  {
+    "TagId": 250702,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Artisan's Measuring Scales",
+      "Balanza de medición de artesano",
+      "Balança de Medidas do Artesão",
+      "Artisan's Measuring Scales",
+      "Balanza de artesano",
+      "Balance d’artisanat",
+      "Весы ремесленника",
+      "Waage des Kunsthandwerkers",
+      "Balança de Medidas do Artesão",
+      "Bilancia di Precisione dell'Artigiano",
+      "장인의 측정 저울",
+      "工匠測量天平",
+      "匠人的度量天平"
+    ],
+    "Media": "7424433.jpg"
+  },
+  {
+    "TagId": 250703,
+    "TagType": 21,
+    "Names": [
+      null,
+      "War Creche Teaching Crystal",
+      "Cristal de enseñanza del Nidal de Guerra",
+      "Cristal de Ensinamentos de Creche de Guerra",
+      "War Creche Teaching Crystal",
+      "Cristal de aprendizaje del Nido Bélico",
+      "Cristal d’enseignement du couvoir Martial",
+      "Обучающий кристалл Колыбели воинов",
+      "Kriegshortlehrkristall",
+      "Cristal de Ensinamentos de Creche de Guerra",
+      "Cristallo Didattico dell'Asilo della Guerra",
+      "전쟁의 요람 교육 수정",
+      "戰爭育所教義水晶",
+      "战争育幼所授技水晶"
+    ],
+    "Media": "7424437.jpg"
+  },
+  {
     "TagId": 250704,
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Ancient Weyrn Device",
+      "Dispositivo antiguo de weyrn",
+      "Antigo Dispositivo Weyrn",
+      "Ancient Weyrn Device",
+      "Aparato de alascuadrón antiguo",
+      "Ancien appareil weyrn",
+      "Древний вирнский прибор",
+      "Uralte Weyrnvorrichtung",
+      "Antigo Dispositivo Weyrn",
+      "Dispositivo del Weyrn Antico",
+      "고대 웨이른 장치",
+      "遠古龍隊裝置",
+      "上古阅兵装置"
     ],
     "Media": "7424441.jpg"
+  },
+  {
+    "TagId": 250705,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Naga Missive PH NAME",
+      "Misiva naga PH NAME",
+      "Missiva de Naga",
+      "Naga Missive PH NAME",
+      "Misiva naga",
+      "Missive naga PH NAME",
+      "Послание наг",
+      "Nagaschreiben PH NAME",
+      "Missiva de Naga",
+      "Missiva dei Naga",
+      "나가 서신",
+      "納迦文書PH NAME",
+      "纳迦信函PH NAME"
+    ],
+    "Media": "inv_offhand_1h_naga_c_01.jpg"
   },
   {
     "TagId": 250706,
@@ -3045,6 +6573,27 @@
     "Media": "inv_manaraymount_teal.jpg"
   },
   {
+    "TagId": 250750,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pouch of Sprouted Clippings",
+      "Faltriquera de recortes germinados",
+      "Algibeira de Aparas Germinadas",
+      "Pouch of Sprouted Clippings",
+      "Faltriquera de brotes podados",
+      "Bourse de boutures germées",
+      "Мешочек с проросшими обрезками",
+      "Tasche mit sprießendem Schnittgut",
+      "Algibeira de Aparas Germinadas",
+      "Borsello di Germogli Tagliati",
+      "싹튼 조각 주머니",
+      "一包發芽剪枝",
+      "一袋发芽的剪材"
+    ],
+    "Media": "inv_misc_bag_18.jpg"
+  },
+  {
     "TagId": 250751,
     "TagType": 21,
     "Names": [
@@ -3085,6 +6634,69 @@
       "金色逐日圣马的缰绳"
     ],
     "Media": "inv_horse2bastionmount_yellow.jpg"
+  },
+  {
+    "TagId": 250753,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bag of Cracked Orebits",
+      "Bolsa de menafragmentos agrietados",
+      "Bolsa de Nacos de Minério Partidos",
+      "Bag of Cracked Orebits",
+      "Bolsa de trozos de mena agrietados",
+      "Sac de minerais craquelés",
+      "Мешок с осколками руды",
+      "Tasche mit gesprungenen Erzstücken",
+      "Bolsa de Nacos de Minério Partidos",
+      "Borsa di Frammenti di Minerali Incrinati",
+      "금이 간 광석 조각 가방",
+      "一袋碎裂礦渣",
+      "一袋开裂的矿屑"
+    ],
+    "Media": "inv_misc_coinbag07.jpg"
+  },
+  {
+    "TagId": 250754,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bag of Wild Skinnings",
+      "Bolsa de pieles salvajes",
+      "Bolsa de Peles Selvagens",
+      "Bag of Wild Skinnings",
+      "Bolsa de pieles desolladas salvajes",
+      "Sac de peaux sauvages",
+      "Мешок с обрывками звериных шкур",
+      "Tasche mit wildem Kürschnermaterial",
+      "Bolsa de Peles Selvagens",
+      "Borsa di Pelli Selvatiche",
+      "야생 무두질 가방",
+      "一袋狂野皮革",
+      "一袋狂野的皮料"
+    ],
+    "Media": "inv_misc_bag_29.jpg"
+  },
+  {
+    "TagId": 250755,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pouch of Mystic Grindings",
+      "Faltriquera de moliendas místicas",
+      "Algibeira de Pós Místicos",
+      "Pouch of Mystic Grindings",
+      "Faltriquera de pulverizaciones místicas",
+      "Bourse de poudres mystiques",
+      "Мешочек с мистическим порошком",
+      "Tasche mit mystischem Mahlgut",
+      "Algibeira de Pós Místicos",
+      "Borsello di Polveri Mistiche",
+      "신비한 가루 주머니",
+      "一包神秘碎末",
+      "一袋神秘的磨粉"
+    ],
+    "Media": "inv_misc_bag_23_netherweave.jpg"
   },
   {
     "TagId": 250756,
@@ -3381,6 +6993,69 @@
     "Media": "inv_ability_web_nova.jpg"
   },
   {
+    "TagId": 250770,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silvermoon Privacy Screen",
+      "Biombo de privacidad de Lunargenta",
+      "Divisória de Luaprata",
+      "Silvermoon Privacy Screen",
+      "Biombo de Lunargenta",
+      "Brise-vue de Lune-d’Argent",
+      "Луносветская ширма",
+      "Sichtblende aus Silbermond",
+      "Divisória de Luaprata",
+      "Paravento di Lunargenta",
+      "실버문 차단막",
+      "銀月城隔板",
+      "银月城私密屏风"
+    ],
+    "Media": "7424445.jpg"
+  },
+  {
+    "TagId": 250771,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7424449.jpg"
+  },
+  {
+    "TagId": 250772,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Lightwood Privacy Screen",
+      "Biombo de privacidad de luximadera carmesí",
+      "Divisória de Lumineira Carmesim",
+      "Crimson Lightwood Privacy Screen",
+      "Biombo de madera de Luz carmesí",
+      "Brise-vue cramoisi en bois clair",
+      "Багровая ширма из светодрева",
+      "Purpurrote Lichtholzsichtblende",
+      "Divisória de Lumineira Carmesim",
+      "Paravento di Chiarolegno Cremisi",
+      "진홍빛 빛나무 차단막",
+      "赤紅光木隔板",
+      "赤红光木私密屏风"
+    ],
+    "Media": "7424453.jpg"
+  },
+  {
     "TagId": 250776,
     "TagType": 21,
     "Names": [
@@ -3505,6 +7180,27 @@
       "精致老饕盾牌"
     ],
     "Media": "inv_shield_1h_food_c_01.jpg"
+  },
+  {
+    "TagId": 250782,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Amani Sunfeather",
+      "Plumasol amani",
+      "Penassol Amani",
+      "Amani Sunfeather",
+      "Plumasol Amani",
+      "Plumesol amani",
+      "Солнцеперый орел Амани",
+      "Sonnenfeder der Amani",
+      "Penassol Amani",
+      "Solpiuma Amani",
+      "아마니 태양깃털",
+      "阿曼尼日羽",
+      "阿曼尼日羽巨鹰"
+    ],
+    "Media": "inv_gianteagle2mount_woodland.jpg"
   },
   {
     "TagId": 250783,
@@ -3717,6 +7413,195 @@
     "Media": "7424493.jpg"
   },
   {
+    "TagId": 250793,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 250794,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7424497.jpg"
+  },
+  {
+    "TagId": 250795,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7439725.jpg"
+  },
+  {
+    "TagId": 250796,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7439729.jpg"
+  },
+  {
+    "TagId": 250797,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spring Blossom Ceiling Light",
+      "Luz de techo de flores de primavera",
+      "Luz de Teto de Flor da Primavera",
+      "Spring Blossom Ceiling Light",
+      "Luz de techo de flor primaveral",
+      "Lustre à floraison printanière",
+      "Люстра весенних цветов",
+      "Frühlingsblütendeckenlicht",
+      "Luz de Teto de Flor da Primavera",
+      "Luce da Soffitto del Bocciolo Primaverile",
+      "봄꽃 천장 조명",
+      "春綻天花板吊燈",
+      "春芳花吊灯"
+    ],
+    "Media": "7453949.jpg"
+  },
+  {
+    "TagId": 250798,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spring Blossom Shelf",
+      "Estante de flores de primavera",
+      "Prateleira de Flor da Primavera",
+      "Spring Blossom Shelf",
+      "Estante de flor primaveral",
+      "Étagère à floraison printanière",
+      "Полка весенних цветов",
+      "Frühlingsblütenregal",
+      "Prateleira de Flor da Primavera",
+      "Scaffale del Bocciolo Primaverile",
+      "봄꽃 선반",
+      "春綻書架",
+      "春芳花架"
+    ],
+    "Media": "7673297.jpg"
+  },
+  {
+    "TagId": 250799,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Loa-Blessed Cloak",
+      "Capa bendecida por los loa",
+      "Manto Abençoado pelos Loas",
+      "Loa-Blessed Cloak",
+      "Capa bendecida por los loa",
+      "Cape bénie par les Loas",
+      "Плащ милости лоа",
+      "Loageweihter Umhang",
+      "Manto Abençoado pelos Loas",
+      "Mantello Benedetto dai Loa",
+      "로아의 축복을 받은 망토",
+      "羅亞祝福披風",
+      "神佑披风"
+    ],
+    "Media": "inv_cape_armor_zulaman_c_01.jpg"
+  },
+  {
+    "TagId": 250800,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Loa-Blessed Tabard",
+      "Tabardo bendecido por los loa",
+      "Tabardo Abençoado pelos Loas",
+      "Loa-Blessed Tabard",
+      "Tabardo bendecido por los loa",
+      "Tabard béni par les Loas",
+      "Гербовая накидка милости лоа",
+      "Loageweihter Wappenrock",
+      "Tabardo Abençoado pelos Loas",
+      "Insegna Benedetta dai Loa",
+      "로아의 축복을 받은 휘장",
+      "羅亞祝福外袍",
+      "神佑战袍"
+    ],
+    "Media": "inv_tabard_armor_zulaman_c_01.jpg"
+  },
+  {
+    "TagId": 250801,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Loa-Blessed Shoulderguards",
+      "Guardahombros bendecidos por los loa",
+      "Guarda-ombros Abençoados pelos Loas",
+      "Loa-Blessed Shoulderguards",
+      "Guardahombros bendecidos por los loa",
+      "Garde-épaules bénies par les Loas",
+      "Наплечные щитки милости лоа",
+      "Loageweihte Schulterschützer",
+      "Guarda-ombros Abençoados pelos Loas",
+      "Spallacci Foderati Benedetti dai Loa",
+      "로아의 축복을 받은 어깨보호구",
+      "羅亞祝福肩衛",
+      "神佑肩甲"
+    ],
+    "Media": "inv_shoulder_armor_zulaman_c_01.jpg"
+  },
+  {
     "TagId": 250802,
     "TagType": 21,
     "Names": [
@@ -3822,6 +7707,636 @@
     "Media": "inv_argustalbukmount_green.jpg"
   },
   {
+    "TagId": 250807,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Selune's Stormarion Core",
+      "Núcleo de Tormentarion de Selune",
+      "Núcleo de Tempestrião de Selune",
+      "Selune's Stormarion Core",
+      "Núcleo de Tormentarion de Selune",
+      "Noyau de Fulgarion de Sélune",
+      "Штормарионский сердечник Селуны",
+      "Selunes Sturmarionkern",
+      "Núcleo de Tempestrião de Selune",
+      "Nucleo di Buferion di Selune",
+      "셀룬의 스토마리온 핵",
+      "瑟盧奈的風瑪利昂核心",
+      "瑟卢恩的斯托玛兰核心"
+    ],
+    "Media": "inv12_stormarioncore.jpg"
+  },
+  {
+    "TagId": 250854,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sun's Focus",
+      "Foco del sol",
+      "Foco do Sol",
+      "Sun's Focus",
+      "Enfoque del sol",
+      "Focalisateur solaire",
+      "Средоточие солнца",
+      "Sonnenfokus",
+      "Foco do Sol",
+      "Focus del Sole",
+      "태양의 집중 장치",
+      "太陽法器",
+      "太阳焦镜"
+    ],
+    "Media": "inv_ability_holyfire_orb.jpg"
+  },
+  {
+    "TagId": 250855,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crown of the Loa-Speaker",
+      "Corona del portavoz loa",
+      "Coroa da Voz-dos-loas",
+      "Crown of the Loa-Speaker",
+      "Corona del portavoz de los loa",
+      "Couronne de parle-loa",
+      "Корона говорящего с лоа",
+      "Krone des Loasprechers",
+      "Coroa da Voz-dos-loas",
+      "Corona dell'Oratore dei Loa",
+      "로아 전령의 왕관",
+      "羅亞語者之冠",
+      "神灵代言人的头冠"
+    ],
+    "Media": "inv_helm_armor_bearloa_d_01.jpg"
+  },
+  {
+    "TagId": 250856,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Screwdriver",
+      "Destornillador",
+      "Screwdriver",
+      "Screwdriver",
+      "Destornillador",
+      "Screwdriver",
+      "\"Отвертка\"",
+      "Screwdriver",
+      "Screwdriver",
+      "Torcibudella",
+      "스크루드라이버",
+      "螺絲起子",
+      "螺丝起子"
+    ],
+    "Media": "inv_engineering_90_bolts.jpg"
+  },
+  {
+    "TagId": 250857,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rum-Ka",
+      "Rum-Ka",
+      "Rum-Ka",
+      "Rum-Ka",
+      "Ron-Ka",
+      "Trhum-ka",
+      "\"Ром-ка\"",
+      "Rum-Ka",
+      "Rum-Ka",
+      "Rum-Ka",
+      "럼카",
+      "蘭姆會友",
+      "朗姆卡"
+    ],
+    "Media": "inv_drink_01.jpg"
+  },
+  {
+    "TagId": 250858,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Genedar Synthol",
+      "Bebida espirituosa de Genedar",
+      "Synthol da Genedar",
+      "Genedar Synthol",
+      "Sintol del Xenedar",
+      "Synthomuscle du Génédar",
+      "Синтол с \"Генедара\"",
+      "Genedarsynthol",
+      "Synthol da Genedar",
+      "Synthol della Genedar",
+      "제네다르 고압주",
+      "真諾達西斯龍",
+      "吉尼达尔辛醇"
+    ],
+    "Media": "inv_drink_21_color01.jpg"
+  },
+  {
+    "TagId": 250859,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Terocone Wine",
+      "Vino de teropiña",
+      "Vinho de Teropinha",
+      "Terocone Wine",
+      "Vino de teropiña",
+      "Vin de terocône",
+      "Вино из терошишек",
+      "Terozapfenwein",
+      "Vinho de Teropinha",
+      "Vino di Terocone",
+      "테로열매 포도주",
+      "泰魯草紅酒",
+      "泰罗果酒"
+    ],
+    "Media": "ability_mage_conjurewater11.jpg"
+  },
+  {
+    "TagId": 250860,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Prairie Pilsner",
+      "Pilsner de pradera",
+      "Chope dos Prados",
+      "Prairie Pilsner",
+      "Cerveza rubia de la pradera",
+      "Pilsner des prairies",
+      "Полевой пилзнер",
+      "Präriepilsner",
+      "Chope dos Prados",
+      "Pilsner della Prateria",
+      "초원 맥주",
+      "草原皮爾森啤酒",
+      "草原比尔森啤酒"
+    ],
+    "Media": "inv_misc_archaeology_vrykuldrinkinghorn.jpg"
+  },
+  {
+    "TagId": 250861,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chieftain's Reserve",
+      "Reserva del jefe",
+      "Reservado do Chefe Tribal",
+      "Chieftain's Reserve",
+      "Reserva del jefe",
+      "Réserve des grands pontes",
+      "Сокровище вождя",
+      "Reserve des Häuptlings",
+      "Reservado do Chefe Tribal",
+      "Riserva del Capo Tribù",
+      "족장의 고급주",
+      "酋長的珍藏",
+      "酋长的珍藏"
+    ],
+    "Media": "inv_cask_02.jpg"
+  },
+  {
+    "TagId": 250862,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Highmountain Highball",
+      "Whisky soda de Altamontaña",
+      "Uísque com Soda Altamontês",
+      "Highmountain Highball",
+      "Cubata Monte Alto",
+      "Highball de Haut-Roc",
+      "Крутогорский коктейль",
+      "Hochberghochball",
+      "Uísque com Soda Altamontês",
+      "Bicchierone di Alto Monte",
+      "높은산 혼합주",
+      "高嶺高球",
+      "至高岭高球酒"
+    ],
+    "Media": "inv_drink_20.jpg"
+  },
+  {
+    "TagId": 250863,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Naloki",
+      "Naloki",
+      "Naloki",
+      "Naloki",
+      "Naloki",
+      "Naloki",
+      "Налоки",
+      "Naloki",
+      "Naloki",
+      "Naloki",
+      "날로키",
+      "納羅基",
+      "娜洛基"
+    ],
+    "Media": "inv_babyamanibear_green.jpg"
+  },
+  {
+    "TagId": 250864,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hair of the Worgen",
+      "Curarresaca",
+      "Pelo de Worgen",
+      "Hair of the Worgen",
+      "Pelo de huargen",
+      "Poil de Worgen",
+      "Мех воргена",
+      "Gebräu der Worgen",
+      "Pelo de Worgen",
+      "Peli di Worgen",
+      "늑대인간의 모피",
+      "狼人之髮",
+      "狼人之发"
+    ],
+    "Media": "inv_alchemy_80_potion01red.jpg"
+  },
+  {
+    "TagId": 250865,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Warm Brown Ale",
+      "Cerveza marrón tibia",
+      "Cerveja Marrom Morna",
+      "Warm Brown Ale",
+      "Cerveza marrón caliente",
+      "Bière brune tiède",
+      "Теплый бурый эль",
+      "Warmes Braunbier",
+      "Cerveja Marrom Morna",
+      "Birra Scura Calda",
+      "따뜻한 갈색 맥주",
+      "溫暖棕色麥酒",
+      "温热褐啤酒"
+    ],
+    "Media": "inv_drink_08.jpg"
+  },
+  {
+    "TagId": 250866,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pinn's Cup",
+      "Gin frutal",
+      "Pinn's Cup",
+      "Pinn's Cup",
+      "Pinnazo",
+      "Fizz Tonic",
+      "Кубок Пинна",
+      "Pinns Becher",
+      "Pinn's Cup",
+      "Coppa di Pinn",
+      "핀의 잔",
+      "皮姆杯",
+      "飘仙二号"
+    ],
+    "Media": "achievement_guildperk_happyhour.jpg"
+  },
+  {
+    "TagId": 250867,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silverpine Dry Gin",
+      "Ginebra de Argénteos",
+      "Gin Seco de Pinhaprata",
+      "Silverpine Dry Gin",
+      "Ginebra de Argénteos",
+      "Gin des Pins-Argentés",
+      "Сухой джин Серебряного бора",
+      "Trockengin aus Silberwald",
+      "Gin Seco de Pinhaprata",
+      "Gin Secco di Pinargento",
+      "은빛소나무 드라이진",
+      "銀松琴酒",
+      "银松干金酒"
+    ],
+    "Media": "inv_drink_11.jpg"
+  },
+  {
+    "TagId": 250868,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Crystal Column",
+      "Columna de cristal carmesí",
+      "Coluna de Cristal Carmesim",
+      "Crimson Crystal Column",
+      "Columna de cristal carmesí",
+      "Colonne de cristal cramoisi",
+      "Багровая кристальная колонна",
+      "Karminrote Kristallsäule",
+      "Coluna de Cristal Carmesim",
+      "Colonna di Cristallo Cremisi",
+      "진홍색 수정 기둥",
+      "赤紅水晶柱",
+      "猩红水晶柱"
+    ],
+    "Media": "7424501.jpg"
+  },
+  {
+    "TagId": 250869,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Crystal Core",
+      "Núcleo de cristal carmesí",
+      "Núcleo de Cristal Carmesim",
+      "Crimson Crystal Core",
+      "Núcleo de cristal carmesí",
+      "Noyau de cristal cramoisi",
+      "Багровый кристальный сердечник",
+      "Karminroter Kristallkern",
+      "Núcleo de Cristal Carmesim",
+      "Nucleo di Cristallo Cremisi",
+      "진홍색 수정 핵",
+      "赤紅水晶核",
+      "猩红水晶核心"
+    ],
+    "Media": "7424505.jpg"
+  },
+  {
+    "TagId": 250870,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Crystal Fragment",
+      "Fragmento de cristal carmesí",
+      "Fragmento de Cristal Carmesim",
+      "Crimson Crystal Fragment",
+      "Fragmento de cristal carmesí",
+      "Fragment de cristal cramoisi",
+      "Багровый кристальный фрагмент",
+      "Karminrotes Kristallfragment",
+      "Fragmento de Cristal Carmesim",
+      "Frammento di Cristallo Cremisi",
+      "진홍색 수정 파편",
+      "赤紅水晶碎片",
+      "猩红水晶碎片"
+    ],
+    "Media": "7424509.jpg"
+  },
+  {
+    "TagId": 250871,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gilnean Fog",
+      "Bruma gilneana",
+      "Nevoeiro Guilneano",
+      "Gilnean Fog",
+      "Neblina gilneana",
+      "Brouillard gilnéen",
+      "Гилнеасский туман",
+      "Gilnearischer Nebel",
+      "Nevoeiro Guilneano",
+      "Nebbia Gilneana",
+      "길니아스 안개주",
+      "吉爾尼斯之霧",
+      "吉尔尼斯迷雾"
+    ],
+    "Media": "inv_drink_15.jpg"
+  },
+  {
+    "TagId": 250872,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Scarred Spear",
+      "Lanza desgarrada",
+      "Lança Marcada",
+      "Scarred Spear",
+      "Lanza cicatrícea",
+      "Lance griffée",
+      "Иссеченное копье",
+      "Verschrammter Speer",
+      "Lança Marcada",
+      "Lancia Sfregiata",
+      "흉터투성이 창",
+      "傷痕之矛",
+      "战痕长矛"
+    ],
+    "Media": "inv_spear_01.jpg"
+  },
+  {
+    "TagId": 250873,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ebon Banner",
+      "Estandarte de ébano",
+      "Estandarte de Ébano",
+      "Ebon Banner",
+      "Estandarte ébano",
+      "Bannière d’ébène",
+      "Черное знамя",
+      "Schwarzbanner",
+      "Estandarte de Ébano",
+      "Stendardo d'Ebano",
+      "칠흑 깃발",
+      "黯黑旌旗",
+      "黑檀旗帜"
+    ],
+    "Media": "inv_fabric_soulcloth.jpg"
+  },
+  {
+    "TagId": 250874,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Corrupted Lantern",
+      "Farol corrupto",
+      "Lanterna Corrompida",
+      "Corrupted Lantern",
+      "Farol corrupto",
+      "Lanterne corrompue",
+      "Оскверненный светильник",
+      "Verderbte Laterne",
+      "Lanterna Corrompida",
+      "Lanterna Corrotta",
+      "타락한 등불",
+      "腐化燈籠",
+      "腐化的灯笼"
+    ],
+    "Media": "achievement_dungeon_ulduar77.jpg"
+  },
+  {
+    "TagId": 250875,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancient Zandalari Scroll",
+      "Pergamino zandalari antiguo",
+      "Pergaminho Zandalari Ancestral",
+      "Ancient Zandalari Scroll",
+      "Pergamino Zandalari antiguo",
+      "Parchemin zandalari antique",
+      "Древний зандаларский свиток",
+      "Uralte Zandalarischriftrolle",
+      "Pergaminho Zandalari Ancestral",
+      "Antica Pergamena degli Zandalari",
+      "고대 잔달라 두루마리",
+      "遠古贊達拉卷軸",
+      "古代赞达拉卷轴"
+    ],
+    "Media": "inv_10_inscription2_scroll3_color5.jpg"
+  },
+  {
+    "TagId": 250876,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Evergreen Vine",
+      "Vid siempreverde",
+      "Trepadeira Sempre-verde",
+      "Evergreen Vine",
+      "Parra de siempreverde",
+      "Vigne sempervirente",
+      "Вечнозеленая лоза",
+      "Immergrüne Ranke",
+      "Trepadeira Sempre-verde",
+      "Viticcio Sempreverde",
+      "사철나무 덩굴",
+      "長青藤蔓",
+      "常青藤蔓"
+    ],
+    "Media": "inv_misc_herb_nightmarevine_stem.jpg"
+  },
+  {
+    "TagId": 250877,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pylon Fragment",
+      "Fragmento de pilar",
+      "Fragmento do Pilar",
+      "Pylon Fragment",
+      "Fragmento de pilón",
+      "Fragment de pylône",
+      "Фрагмент пилона",
+      "Pylonfragment",
+      "Fragmento do Pilar",
+      "Frammento di Pilone",
+      "수정탑 파편",
+      "水晶塔碎片",
+      "晶塔碎片"
+    ],
+    "Media": "ability_racial_magicalresistance.jpg"
+  },
+  {
+    "TagId": 250878,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Weathered Tome",
+      "Tomo desgastado",
+      "Tomo Surrado",
+      "Weathered Tome",
+      "Tomo erosionado",
+      "Tome dégradé",
+      "Потертый фолиант",
+      "Verwitterter Foliant",
+      "Tomo Surrado",
+      "Tomo Logoro",
+      "마모된 고서",
+      "破舊的秘典",
+      "饱经风霜的书典"
+    ],
+    "Media": "inv_artifact_tome02.jpg"
+  },
+  {
+    "TagId": 250879,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Heavy Anchor",
+      "Ancla pesada",
+      "Âncora Pesada",
+      "Heavy Anchor",
+      "Ancla pesada",
+      "Ancre lourde",
+      "Тяжелый якорь",
+      "Schwerer Anker",
+      "Âncora Pesada",
+      "Ancora Pesante",
+      "무거운 닻",
+      "重錨",
+      "沉重的锚"
+    ],
+    "Media": "inv_misc_anchor.jpg"
+  },
+  {
+    "TagId": 250880,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sandy Tapestry",
+      "Tapiz arenoso",
+      "Tapeçaria Arenosa",
+      "Sandy Tapestry",
+      "Tapiz arenoso",
+      "Tapisserie sableuse",
+      "Песчаный гобелен",
+      "Sandiger Wandteppich",
+      "Tapeçaria Arenosa",
+      "Arazzo Sabbioso",
+      "모래투성이 융단",
+      "滿布沙塵的掛毯",
+      "染沙的挂毯"
+    ],
+    "Media": "item_pristinehide.jpg"
+  },
+  {
+    "TagId": 250881,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dried Roses",
+      "Rosas secas",
+      "Rosas Secas",
+      "Dried Roses",
+      "Rosas secas",
+      "Roses séchées",
+      "Засушенные розы",
+      "Getrocknete Rosen",
+      "Rosas Secas",
+      "Rose Secche",
+      "말린 장미",
+      "乾燥玫瑰",
+      "风干玫瑰"
+    ],
+    "Media": "inv_helm_misc_rose_a_01_red.jpg"
+  },
+  {
+    "TagId": 250882,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Clefthoof Hide",
+      "Pellejo de uñagrieta",
+      "Pelego de Fenoceronte",
+      "Clefthoof Hide",
+      "Pellejo de uñagrieta",
+      "Peau de sabot-fourchu",
+      "Шкура копытня",
+      "Grollhufbalg",
+      "Pelego de Fenoceronte",
+      "Pelle di Mammuceronte",
+      "갈래발굽 통가죽",
+      "裂蹄皮",
+      "裂蹄牛的皮"
+    ],
+    "Media": "inv_10_skinning_leather_rarehide_color1.jpg"
+  },
+  {
     "TagId": 250888,
     "TagType": 21,
     "Names": [
@@ -3841,6 +8356,27 @@
       "套装：村民的森林收藏"
     ],
     "Media": "inv_helm_armor_food_b_02.jpg"
+  },
+  {
+    "TagId": 250889,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Amani Windcaller",
+      "Clamavientos amani",
+      "Arauto do Vento Amani",
+      "Amani Windcaller",
+      "Clamavientos Amani",
+      "Mandevent amani",
+      "Аманийский призыватель ветров",
+      "Windrufer der Amani",
+      "Arauto do Vento Amani",
+      "Invocatore del Vento Amani",
+      "아마니 바람소환사",
+      "阿曼尼喚風者",
+      "阿曼尼唤风者"
+    ],
+    "Media": "inv_gianteagle2mount_amani.jpg"
   },
   {
     "TagId": 250897,
@@ -3940,7 +8476,7 @@
       "Маленькая барная стойка Колючего Ветра",
       "Kleiner Bartisch der Klingenschlucht",
       "Mesa de Bar de Vento Cortante Pequena",
-      "Piccolo Tavolo della Locanda di Brezza Aguzza",
+      "Tavolo della Locanda di Brezza Aguzza Piccolo",
       "소형 칼끝바람 주점 탁상",
       "小型烈風高腳桌",
       "小型烈风酒吧桌"
@@ -4053,6 +8589,27 @@
     "Media": "7424537.jpg"
   },
   {
+    "TagId": 250919,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Empty Manasilk Bobbin",
+      "Carrete de seda de maná vacío",
+      "Carretilha de Seda de Mana Vazia",
+      "Empty Manasilk Bobbin",
+      "Canilla de seda de maná vacía",
+      "Bobine de soie de mana vide",
+      "Пустая катушка для манашелка",
+      "Leere Manaseidenspule",
+      "Carretilha de Seda de Mana Vazia",
+      "Rocchetto di Seta del Mana Vuoto",
+      "빈 마나비단 실타래",
+      "空的法力絲綢線軸",
+      "空的法力流丝线筒"
+    ],
+    "Media": "item_spellcloththread.jpg"
+  },
+  {
     "TagId": 250920,
     "TagType": 21,
     "Names": [
@@ -4072,6 +8629,111 @@
       "犄角悬挂灯台"
     ],
     "Media": "7426684.jpg"
+  },
+  {
+    "TagId": 250921,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_questionmark.jpg"
+  },
+  {
+    "TagId": 250922,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Whisper of the Loa: Leatherworking",
+      "Susurro de los loa: Peletería",
+      "Sussurro dos Loas: Couraria",
+      "Whisper of the Loa: Leatherworking",
+      "Susurro de los loa: peletería",
+      "Murmures du Loa\u00A0: travail du cuir",
+      "Шепот лоа: кожевничество",
+      "Flüstern der Loa: Lederverarbeitung",
+      "Sussurro dos Loas: Couraria",
+      "Sussurro dei Loa: Conciatura",
+      "로아의 속삭임: 가죽세공",
+      "羅亞低語：製皮",
+      "神灵的低语：制皮"
+    ],
+    "Media": "inv_10_specialization_professionbook_leatherworking_orig.jpg"
+  },
+  {
+    "TagId": 250923,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Whisper of the Loa: Herbalism",
+      "Susurro de los loa: herboristería",
+      "Sussurro dos Loas: Herborismo",
+      "Whisper of the Loa: Herbalism",
+      "Susurro de los loa: herboristería",
+      "Murmure du Loa\u00A0: herboristerie",
+      "Шепот лоа: травничество",
+      "Flüstern der Loa: Kräuterkunde",
+      "Sussurro dos Loas: Herborismo",
+      "Sussurro del Loa: Erbalismo",
+      "로아의 속삭임: 약초채집",
+      "羅亞低語：草藥學",
+      "神灵的低语：草药学"
+    ],
+    "Media": "inv_10_specialization_professionbook_herbalism_orig.jpg"
+  },
+  {
+    "TagId": 250924,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Whisper of the Loa: Mining",
+      "Susurro de los loa: minería",
+      "Sussurro dos Loas: Mineração",
+      "Whisper of the Loa: Mining",
+      "Susurro de los loa: minería",
+      "Murmure du Loa\u00A0: minage",
+      "Шепот лоа: горное дело",
+      "Flüstern der Loa: Bergbau",
+      "Sussurro dos Loas: Mineração",
+      "Sussurro del Loa: Estrazione",
+      "로아의 속삭임: 채광",
+      "羅亞低語：採礦",
+      "神灵的低语：采矿"
+    ],
+    "Media": "inv_10_specialization_professionbook_mining_orig.jpg"
+  },
+  {
+    "TagId": 250925,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_10_specialization_professionbook_enchanting_orig.jpg"
   },
   {
     "TagId": 250926,
@@ -4156,6 +8818,27 @@
       "珍稀的火鸡"
     ],
     "Media": "inv_turkeymount_white.jpg"
+  },
+  {
+    "TagId": 250974,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Akil'zon's Updraft",
+      "Corriente de Akil'zon",
+      "Corrente de Akil'zon",
+      "Akil'zon's Updraft",
+      "Corriente ascendente de Akil'zon",
+      "Courant ascendant d’Akil’zon",
+      "Восходящий поток Акил'зон",
+      "Akil'zons Aufwind",
+      "Corrente de Akil'zon",
+      "Spinta Aerea di Akil'zon",
+      "아킬존의 상승 기류",
+      "阿奇爾森的上升氣流",
+      "埃基尔松的上升气流"
+    ],
+    "Media": "inv_icon_feather10b.jpg"
   },
   {
     "TagId": 250975,

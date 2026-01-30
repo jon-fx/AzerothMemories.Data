@@ -4135,21 +4135,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Flowing Spirits",
-      "Flujo de espíritus",
-      "Espíritos Flutuantes",
-      "Flowing Spirits",
-      "Espíritus fluidos",
-      "Esprits affluants",
-      "Поток духов",
-      "Fließende Geister",
-      "Espíritos Flutuantes",
-      "Spiriti Fluenti",
-      "흐르는 영혼",
-      "流動靈魂",
-      "奔流之魂"
+      "Feral Spirit",
+      "Espíritu feral",
+      "Espírito Feral",
+      "Feral Spirit",
+      "Espíritu feral",
+      "Esprit farouche",
+      "Дух дикого зверя",
+      "Wildgeist",
+      "Espírito Feral",
+      "Spirito Ferino",
+      "야수 정령",
+      "野性之魂",
+      "野性狼魂"
     ],
-    "Media": "inv_jewelry_frostwolftrinket_02.jpg"
+    "Media": "spell_shaman_feralspirit.jpg"
   },
   {
     "TagId": 469315,
@@ -4291,7 +4291,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -4333,7 +4333,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -4417,7 +4417,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -4438,7 +4438,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -4459,7 +4459,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -4480,7 +4480,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -4501,7 +4501,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -4522,7 +4522,7 @@
       "Дух дикого зверя",
       "Wildgeist",
       "Espírito Feral",
-      "Lupi Spirituali",
+      "Spirito Ferino",
       "야수 정령",
       "野性之魂",
       "野性狼魂"
@@ -6248,6 +6248,27 @@
       "[DNT] Moira Thaurissan"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 469449,
+    "TagType": 26,
+    "Names": [
+      null,
+      "PH.Cone",
+      "PH.Cone",
+      "PH.Cone",
+      "PH.Cone",
+      "Cono",
+      "PH.Cone",
+      "Конус",
+      "Kegel",
+      "PH.Cone",
+      "PH.Cono",
+      "부채꼴 범위",
+      "PH錐形範圍技能",
+      "锥形攻击"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
   },
   {
     "TagId": 469450,
@@ -8917,6 +8938,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 469608,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Twisters",
+      "Torbellinos llameantes",
+      "Ciclones Flamejantes",
+      "Flaming Twisters",
+      "Remolinos llameantes",
+      "Tornades enflammées",
+      "Пламенные смерчи",
+      "Flammende Wirbelstürme",
+      "Ciclones Flamejantes",
+      "Vortici Fiammeggianti",
+      "이글거리는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷"
+    ],
+    "Media": "spell_shaman_stormearthfire.jpg"
+  },
+  {
     "TagId": 469609,
     "TagType": 26,
     "Names": [
@@ -8957,6 +8999,27 @@
       "暗影长牙"
     ],
     "Media": "spell_shadow_painspike.jpg"
+  },
+  {
+    "TagId": 469611,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burning Gale",
+      "Vendaval ardiente",
+      "Ventania Ardente",
+      "Burning Gale",
+      "Vendaval abrasador",
+      "Bourrasque ardente",
+      "Обжигающий порыв",
+      "Brennende Bö",
+      "Ventania Ardente",
+      "Burrasca Ardente",
+      "불타는 강풍",
+      "燃燒強風",
+      "燃烧烈风"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 469612,
@@ -9148,6 +9211,27 @@
     "Media": "spell_shadow_demonicempathy.jpg"
   },
   {
+    "TagId": 469621,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Twisters",
+      "Torbellinos llameantes",
+      "Ciclones Flamejantes",
+      "Flaming Twisters",
+      "Remolinos llameantes",
+      "Tornades enflammées",
+      "Пламенные смерчи",
+      "Flammende Wirbelstürme",
+      "Ciclones Flamejantes",
+      "Vortici Fiammeggianti",
+      "이글거리는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷"
+    ],
+    "Media": "spell_shaman_stormearthfire.jpg"
+  },
+  {
     "TagId": 469625,
     "TagType": 26,
     "Names": [
@@ -9251,6 +9335,27 @@
       "音效检查"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 469633,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Twisters",
+      "Torbellinos llameantes",
+      "Ciclones Flamejantes",
+      "Flaming Twisters",
+      "Remolinos llameantes",
+      "Tornades enflammées",
+      "Пламенные смерчи",
+      "Flammende Wirbelstürme",
+      "Ciclones Flamejantes",
+      "Vortici Fiammeggianti",
+      "이글거리는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷"
+    ],
+    "Media": "spell_shaman_stormearthfire.jpg"
   },
   {
     "TagId": 469636,
@@ -9440,6 +9545,27 @@
       "武器测试"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 469646,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Leap",
+      "Salto temerario",
+      "Salto Temerário",
+      "Reckless Leap",
+      "Salto temerario",
+      "Bond téméraire",
+      "Отчаянный прыжок",
+      "Tollkühner Sprung",
+      "Salto Temerário",
+      "Balzo Sprezzante",
+      "무모한 도약",
+      "魯莽躍擊",
+      "无情跳跃"
+    ],
+    "Media": "ability_heroicleap.jpg"
   },
   {
     "TagId": 469649,
@@ -9775,6 +9901,27 @@
       "套装：塞纳里奥治愈者战甲"
     ],
     "Media": "inv_helmet_86.jpg"
+  },
+  {
+    "TagId": 469669,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone",
+      "[Do not Use][DNT]PH.Cone"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
   },
   {
     "TagId": 469671,
@@ -10995,6 +11142,27 @@
     "Media": "ability_hunter_pet_hyena.jpg"
   },
   {
+    "TagId": 469773,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reckless Leap",
+      "Salto temerario",
+      "Salto Temerário",
+      "Reckless Leap",
+      "Salto temerario",
+      "Bond téméraire",
+      "Отчаянный прыжок",
+      "Tollkühner Sprung",
+      "Salto Temerário",
+      "Balzo Sprezzante",
+      "무모한 도약",
+      "魯莽躍擊",
+      "无情跳跃"
+    ],
+    "Media": "ability_heroicleap.jpg"
+  },
+  {
     "TagId": 469778,
     "TagType": 26,
     "Names": [
@@ -11413,6 +11581,27 @@
       "袋里藏沙"
     ],
     "Media": "spell_sandbolt.jpg"
+  },
+  {
+    "TagId": 469804,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rallying Bellow",
+      "Bramido convocador",
+      "Sinal de Convocação",
+      "Rallying Bellow",
+      "Rugido de convocación",
+      "Hurlement de ralliement",
+      "Воодушевляющий рев",
+      "Versammelndes Gebrüll",
+      "Sinal de Convocação",
+      "Grido di Adunata",
+      "재집결의 고함",
+      "集結咆哮",
+      "集结怒吼"
+    ],
+    "Media": "racial_orc_berserkerstrength.jpg"
   },
   {
     "TagId": 469806,
@@ -11916,6 +12105,27 @@
       "皎月风暴"
     ],
     "Media": "ability_druid_starfall.jpg"
+  },
+  {
+    "TagId": 469832,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rallying Bellow",
+      "Bramido convocador",
+      "Sinal de Convocação",
+      "Rallying Bellow",
+      "Rugido de convocación",
+      "Hurlement de ralliement",
+      "Воодушевляющий рев",
+      "Versammelndes Gebrüll",
+      "Sinal de Convocação",
+      "Grido di Adunata",
+      "재집결의 고함",
+      "集結咆哮",
+      "集结怒吼"
+    ],
+    "Media": "racial_orc_berserkerstrength.jpg"
   },
   {
     "TagId": 469833,
@@ -12479,7 +12689,7 @@
       "Abismo Rocha Negra (Raide LR)",
       "Sotterranei di Roccianera (Incursione RI)",
       "검은바위 나락 (공격대 찾기)",
-      "黑石深淵(隨機團隊副本)",
+      "黑石深淵（隨機團隊副本）",
       "黑石深渊（随机团队副本）"
     ],
     "Media": "trade_engineering.jpg"
@@ -12500,7 +12710,7 @@
       "Abismo Rocha Negra (Raide LR)",
       "Sotterranei di Roccianera (Incursione RI)",
       "검은바위 나락 (공격대 찾기)",
-      "黑石深淵(隨機團隊副本)",
+      "黑石深淵（隨機團隊副本）",
       "黑石深渊（随机团队副本）"
     ],
     "Media": "trade_engineering.jpg"
@@ -12521,7 +12731,7 @@
       "Abismo Rocha Negra (Raide LR)",
       "Sotterranei di Roccianera (Incursione RI)",
       "검은바위 나락 (공격대 찾기)",
-      "黑石深淵(隨機團隊副本)",
+      "黑石深淵（隨機團隊副本）",
       "黑石深渊（随机团队副本）"
     ],
     "Media": "trade_engineering.jpg"

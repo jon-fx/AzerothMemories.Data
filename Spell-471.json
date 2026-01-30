@@ -63,6 +63,426 @@
     "Media": "ability_priest_voidentropy.jpg"
   },
   {
+    "TagId": 471003,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Alchemy",
+      "Alquimia de Midnight",
+      "Alquimia de Midnight",
+      "Midnight Alchemy",
+      "Alquimia de Midnight",
+      "Alchimie de Midnight",
+      "Алхимия Midnight",
+      "Alchemie von Midnight",
+      "Alquimia de Midnight",
+      "Alchimia di Midnight",
+      "한밤 연금술",
+      "至暗之夜鍊金術",
+      "至暗之夜炼金"
+    ],
+    "Media": "ui_profession_alchemy.jpg"
+  },
+  {
+    "TagId": 471004,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Blacksmithing",
+      "Herrería de Midnight",
+      "Ferraria de Midnight",
+      "Midnight Blacksmithing",
+      "Herrería de Midnight",
+      "Forge de Midnight",
+      "Кузнечное дело Midnight",
+      "Schmiedekunst von Midnight",
+      "Ferraria de Midnight",
+      "Forgiatura di Midnight",
+      "한밤 대장기술",
+      "至暗之夜鍛造",
+      "至暗之夜锻造"
+    ],
+    "Media": "ui_profession_blacksmithing.jpg"
+  },
+  {
+    "TagId": 471005,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Cooking",
+      "Cocina de Midnight",
+      "Culinária de Midnight",
+      "Midnight Cooking",
+      "Cocina de Midnight",
+      "Cuisine de Midnight",
+      "Кулинария Midnight",
+      "Kochkunst von Midnight",
+      "Culinária de Midnight",
+      "Cucina di Midnight",
+      "한밤 요리",
+      "至暗之夜烹飪",
+      "至暗之夜烹饪"
+    ],
+    "Media": "ui_profession_cooking.jpg"
+  },
+  {
+    "TagId": 471006,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Enchanting",
+      "Encantamiento de Midnight",
+      "Encantamento de Midnight",
+      "Midnight Enchanting",
+      "Encantamiento de Midnight",
+      "Enchantement de Midnight",
+      "Наложение чар Midnight",
+      "Verzauberkunst von Midnight",
+      "Encantamento de Midnight",
+      "Incantamento di Midnight",
+      "한밤 마법부여",
+      "至暗之夜附魔",
+      "至暗之夜附魔"
+    ],
+    "Media": "ui_profession_enchanting.jpg"
+  },
+  {
+    "TagId": 471007,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Engineering",
+      "Ingeniería de Midnight",
+      "Engenharia de Midnight",
+      "Midnight Engineering",
+      "Ingeniería de Midnight",
+      "Ingénierie de Midnight",
+      "Инженерное дело Midnight",
+      "Ingenieurskunst von Midnight",
+      "Engenharia de Midnight",
+      "Ingegneria di Midnight",
+      "한밤 기계공학",
+      "至暗之夜工程學",
+      "至暗之夜工程学"
+    ],
+    "Media": "ui_profession_engineering.jpg"
+  },
+  {
+    "TagId": 471008,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Fishing",
+      "Pesca de Midnight",
+      "Pescaria de Midnight",
+      "Midnight Fishing",
+      "Pesca de Midnight",
+      "Pêche de Midnight",
+      "Рыбная ловля Midnight ",
+      "Angeln von Midnight",
+      "Pescaria de Midnight",
+      "Pesca di Midnight",
+      "한밤 낚시",
+      "至暗之夜釣魚",
+      "至暗之夜钓鱼"
+    ],
+    "Media": "ui_profession_fishing.jpg"
+  },
+  {
+    "TagId": 471009,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Herb Gathering",
+      "Recolectar hierbas",
+      "Colher Plantas",
+      "Herb Gathering",
+      "Recolectando hierbas",
+      "Cueillette",
+      "Сбор трав",
+      "Kräutersammeln",
+      "Colher Plantas",
+      "Erbalismo",
+      "약초채집",
+      "採集草藥",
+      "采集草药"
+    ],
+    "Media": "ui_profession_herbalism.jpg"
+  },
+  {
+    "TagId": 471010,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Inscription",
+      "Inscripción de Midnight",
+      "Escrivania de Midnight",
+      "Midnight Inscription",
+      "Inscripción de Midnight",
+      "Calligraphie de Midnight",
+      "Полуночное начертание",
+      "Inschriftenkunde von Midnight",
+      "Escrivania de Midnight",
+      "Runografia di Midnight",
+      "한밤 주문각인",
+      "至暗之夜銘文學",
+      "至暗之夜铭文"
+    ],
+    "Media": "ui_profession_inscription.jpg"
+  },
+  {
+    "TagId": 471011,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Jewelcrafting",
+      "Joyería de Midnight",
+      "Joalheria de Midnight",
+      "Midnight Jewelcrafting",
+      "Joyería de Midnight",
+      "Joaillerie de Midnight",
+      "Ювелирное дело Midnight",
+      "Juwelierskunst von Midnight",
+      "Joalheria de Midnight",
+      "Oreficeria di Midnight",
+      "한밤 보석세공",
+      "至暗之夜珠寶設計",
+      "至暗之夜珠宝加工"
+    ],
+    "Media": "ui_profession_jewelcrafting.jpg"
+  },
+  {
+    "TagId": 471012,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Leatherworking",
+      "Peletería de Midnight",
+      "Couraria de Midnight",
+      "Midnight Leatherworking",
+      "Peletería de Midnight",
+      "Travail du cuir de Midnight",
+      "Кожевничество Midnight",
+      "Lederverarbeitung von Midnight",
+      "Couraria de Midnight",
+      "Conciatura di Midnight",
+      "한밤 가죽세공",
+      "至暗之夜製皮",
+      "至暗之夜制皮"
+    ],
+    "Media": "ui_profession_leatherworking.jpg"
+  },
+  {
+    "TagId": 471013,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Mining",
+      "Minería de Midnight",
+      "Mineração de Midnight",
+      "Midnight Mining",
+      "Minería de Midnight",
+      "Minage de Midnight",
+      "Горное дело Midnight",
+      "Bergbau von Midnight",
+      "Mineração de Midnight",
+      "Estrazione di Midnight",
+      "한밤 채광",
+      "至暗之夜採礦",
+      "至暗之夜采矿"
+    ],
+    "Media": "ui_profession_mining.jpg"
+  },
+  {
+    "TagId": 471014,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Skinning",
+      "Desuello de Midnight",
+      "Esfolamento de Midnight",
+      "Midnight Skinning",
+      "Desuello de Midnight",
+      "Dépeçage de Midnight",
+      "Cнятие шкур Midnight",
+      "Kürschnerei von Midnight",
+      "Esfolamento de Midnight",
+      "Scuoiatura di Midnight",
+      "한밤 무두질",
+      "至暗之夜剝皮",
+      "至暗之夜剥皮"
+    ],
+    "Media": "ui_profession_skinning.jpg"
+  },
+  {
+    "TagId": 471015,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Tailoring",
+      "Sastrería de Midnight",
+      "Alfaiataria de Midnight",
+      "Midnight Tailoring",
+      "Sastrería de Midnight",
+      "Couture de Midnight",
+      "Портняжное дело Midnight",
+      "Schneiderei von Midnight",
+      "Alfaiataria de Midnight",
+      "Sartoria di Midnight",
+      "한밤 재봉술",
+      "至暗之夜裁縫",
+      "至暗之夜裁缝"
+    ],
+    "Media": "ui_profession_tailoring.jpg"
+  },
+  {
+    "TagId": 471016,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Alchemy",
+      "Alquimia de Midnight",
+      "Alquimia de Midnight",
+      "Midnight Alchemy",
+      "Alquimia de Midnight",
+      "Alchimie de Midnight",
+      "Алхимия Midnight",
+      "Alchemie von Midnight",
+      "Alquimia de Midnight",
+      "Alchimia di Midnight",
+      "한밤 연금술",
+      "至暗之夜鍊金術",
+      "至暗之夜炼金"
+    ],
+    "Media": "ui_profession_alchemy.jpg"
+  },
+  {
+    "TagId": 471017,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Blacksmithing",
+      "Herrería de Midnight",
+      "Ferraria de Midnight",
+      "Midnight Blacksmithing",
+      "Herrería de Midnight",
+      "Forge de Midnight",
+      "Кузнечное дело Midnight",
+      "Schmiedekunst von Midnight",
+      "Ferraria de Midnight",
+      "Forgiatura di Midnight",
+      "한밤 대장기술",
+      "至暗之夜鍛造",
+      "至暗之夜锻造"
+    ],
+    "Media": "ui_profession_blacksmithing.jpg"
+  },
+  {
+    "TagId": 471018,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Cooking",
+      "Cocina de Midnight",
+      "Culinária de Midnight",
+      "Midnight Cooking",
+      "Cocina de Midnight",
+      "Cuisine de Midnight",
+      "Кулинария Midnight",
+      "Kochkunst von Midnight",
+      "Culinária de Midnight",
+      "Cucina di Midnight",
+      "한밤 요리",
+      "至暗之夜烹飪",
+      "至暗之夜烹饪"
+    ],
+    "Media": "ui_profession_cooking.jpg"
+  },
+  {
+    "TagId": 471019,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Enchanting",
+      "Encantamiento de Midnight",
+      "Encantamento de Midnight",
+      "Midnight Enchanting",
+      "Encantamiento de Midnight",
+      "Enchantement de Midnight",
+      "Наложение чар Midnight",
+      "Verzauberkunst von Midnight",
+      "Encantamento de Midnight",
+      "Incantamento di Midnight",
+      "한밤 마법부여",
+      "至暗之夜附魔",
+      "至暗之夜附魔"
+    ],
+    "Media": "ui_profession_enchanting.jpg"
+  },
+  {
+    "TagId": 471020,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Engineering",
+      "Ingeniería de Midnight",
+      "Engenharia de Midnight",
+      "Midnight Engineering",
+      "Ingeniería de Midnight",
+      "Ingénierie de Midnight",
+      "Инженерное дело Midnight",
+      "Ingenieurskunst von Midnight",
+      "Engenharia de Midnight",
+      "Ingegneria di Midnight",
+      "한밤 기계공학",
+      "至暗之夜工程學",
+      "至暗之夜工程学"
+    ],
+    "Media": "ui_profession_engineering.jpg"
+  },
+  {
+    "TagId": 471021,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Fishing",
+      "Pesca de Midnight",
+      "Pescaria de Midnight",
+      "Midnight Fishing",
+      "Pesca de Midnight",
+      "Pêche de Midnight",
+      "Рыбная ловля Midnight ",
+      "Angeln von Midnight",
+      "Pescaria de Midnight",
+      "Pesca di Midnight",
+      "한밤 낚시",
+      "至暗之夜釣魚",
+      "至暗之夜钓鱼"
+    ],
+    "Media": "ui_profession_fishing.jpg"
+  },
+  {
+    "TagId": 471022,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Herbalism",
+      "Herboristería de Midnight",
+      "Herborismo de Midnight",
+      "Midnight Herbalism",
+      "Herboristería de Midnight",
+      "Herboristerie de Midnight",
+      "Травничество Midnight",
+      "Kräuterkunde von Midnight",
+      "Herborismo de Midnight",
+      "Erbalismo di Midnight",
+      "한밤 약초채집",
+      "至暗之夜草藥學",
+      "至暗之夜草药学"
+    ],
+    "Media": "ui_profession_herbalism.jpg"
+  },
+  {
     "TagId": 471023,
     "TagType": 26,
     "Names": [
@@ -103,6 +523,132 @@
       "虚空腐蚀"
     ],
     "Media": "ability_priest_voidentropy.jpg"
+  },
+  {
+    "TagId": 471025,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Inscription",
+      "Inscripción de Midnight",
+      "Escrivania de Midnight",
+      "Midnight Inscription",
+      "Inscripción de Midnight",
+      "Calligraphie de Midnight",
+      "Полуночное начертание",
+      "Inschriftenkunde von Midnight",
+      "Escrivania de Midnight",
+      "Runografia di Midnight",
+      "한밤 주문각인",
+      "至暗之夜銘文學",
+      "至暗之夜铭文"
+    ],
+    "Media": "ui_profession_inscription.jpg"
+  },
+  {
+    "TagId": 471026,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Jewelcrafting",
+      "Joyería de Midnight",
+      "Joalheria de Midnight",
+      "Midnight Jewelcrafting",
+      "Joyería de Midnight",
+      "Joaillerie de Midnight",
+      "Ювелирное дело Midnight",
+      "Juwelierskunst von Midnight",
+      "Joalheria de Midnight",
+      "Oreficeria di Midnight",
+      "한밤 보석세공",
+      "至暗之夜珠寶設計",
+      "至暗之夜珠宝加工"
+    ],
+    "Media": "ui_profession_jewelcrafting.jpg"
+  },
+  {
+    "TagId": 471027,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Leatherworking",
+      "Peletería de Midnight",
+      "Couraria de Midnight",
+      "Midnight Leatherworking",
+      "Peletería de Midnight",
+      "Travail du cuir de Midnight",
+      "Кожевничество Midnight",
+      "Lederverarbeitung von Midnight",
+      "Couraria de Midnight",
+      "Conciatura di Midnight",
+      "한밤 가죽세공",
+      "至暗之夜製皮",
+      "至暗之夜制皮"
+    ],
+    "Media": "ui_profession_leatherworking.jpg"
+  },
+  {
+    "TagId": 471028,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Mining",
+      "Minería de Midnight",
+      "Mineração de Midnight",
+      "Midnight Mining",
+      "Minería de Midnight",
+      "Minage de Midnight",
+      "Горное дело Midnight",
+      "Bergbau von Midnight",
+      "Mineração de Midnight",
+      "Estrazione di Midnight",
+      "한밤 채광",
+      "至暗之夜採礦",
+      "至暗之夜采矿"
+    ],
+    "Media": "ui_profession_mining.jpg"
+  },
+  {
+    "TagId": 471029,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Skinning",
+      "Desuello de Midnight",
+      "Esfolamento de Midnight",
+      "Midnight Skinning",
+      "Desuello de Midnight",
+      "Dépeçage de Midnight",
+      "Cнятие шкур Midnight",
+      "Kürschnerei von Midnight",
+      "Esfolamento de Midnight",
+      "Scuoiatura di Midnight",
+      "한밤 무두질",
+      "至暗之夜剝皮",
+      "至暗之夜剥皮"
+    ],
+    "Media": "ui_profession_skinning.jpg"
+  },
+  {
+    "TagId": 471030,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midnight Tailoring",
+      "Sastrería de Midnight",
+      "Alfaiataria de Midnight",
+      "Midnight Tailoring",
+      "Sastrería de Midnight",
+      "Couture de Midnight",
+      "Портняжное дело Midnight",
+      "Schneiderei von Midnight",
+      "Alfaiataria de Midnight",
+      "Sartoria di Midnight",
+      "한밤 재봉술",
+      "至暗之夜裁縫",
+      "至暗之夜裁缝"
+    ],
+    "Media": "ui_profession_tailoring.jpg"
   },
   {
     "TagId": 471031,
@@ -231,6 +777,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 471038,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bladestorm",
+      "Filotormenta",
+      "Tornado de Aço",
+      "Bladestorm",
+      "Filotormenta",
+      "Tempête de lames",
+      "Вихрь клинков",
+      "Klingensturm",
+      "Tornado de Aço",
+      "Tempesta di Lame",
+      "칼날폭풍",
+      "劍刃風暴",
+      "剑刃风暴"
+    ],
+    "Media": "ability_warrior_bladestorm.jpg"
+  },
+  {
     "TagId": 471039,
     "TagType": 26,
     "Names": [
@@ -252,6 +819,195 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 471040,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "trade_blacksmithing.jpg"
+  },
+  {
+    "TagId": 471041,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "ui_profession_blacksmithing.jpg"
+  },
+  {
+    "TagId": 471042,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "trade_blacksmithing.jpg"
+  },
+  {
+    "TagId": 471043,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "trade_blacksmithing.jpg"
+  },
+  {
+    "TagId": 471044,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "trade_blacksmithing.jpg"
+  },
+  {
+    "TagId": 471045,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "inv_misc_gem_variety_01.jpg"
+  },
+  {
+    "TagId": 471046,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "ui_profession_leatherworking.jpg"
+  },
+  {
+    "TagId": 471047,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Recraft Equipment",
+      "Refabricar equipamiento",
+      "Recriar Equipamento",
+      "Recraft Equipment",
+      "Refabricar equipo",
+      "Refaçonner de l’équipement",
+      "Переделка снаряжения",
+      "Ausrüstung umfertigen",
+      "Recriar Equipamento",
+      "Ricreazione Equipaggiamento",
+      "장비 재제작",
+      "重新製作裝備",
+      "再造装备"
+    ],
+    "Media": "ui_profession_tailoring.jpg"
+  },
+  {
+    "TagId": 471048,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Bolt",
+      "Descarga arcana",
+      "Seta Arcana",
+      "Arcane Bolt",
+      "Descarga Arcana",
+      "Éclair des arcanes",
+      "Чародейская стрела",
+      "Arkanblitz",
+      "Seta Arcana",
+      "Dardo Arcano",
+      "비전 화살",
+      "秘法箭",
+      "奥术箭"
+    ],
+    "Media": "spell_arcane_arcane03.jpg"
+  },
+  {
     "TagId": 471049,
     "TagType": 26,
     "Names": [
@@ -271,6 +1027,27 @@
       "契据公证"
     ],
     "Media": "inv_misc_note_01.jpg"
+  },
+  {
+    "TagId": 471052,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slow",
+      "Ralentizar",
+      "Retardar",
+      "Slow",
+      "Ralentizar",
+      "Lenteur",
+      "Замедление",
+      "Verlangsamen",
+      "Retardar",
+      "Rallentamento",
+      "느림",
+      "緩速",
+      "减速术"
+    ],
+    "Media": "spell_nature_slow.jpg"
   },
   {
     "TagId": 471053,
@@ -1653,6 +2430,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 471136,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Nova",
+      "Nova arcana",
+      "Nova Arcana",
+      "Arcane Nova",
+      "Nova Arcana",
+      "Nova des arcanes",
+      "Чародейское кольцо",
+      "Arkane Nova",
+      "Nova Arcana",
+      "Esplosione Arcana",
+      "비전 회오리",
+      "秘法新星",
+      "奥术新星"
+    ],
+    "Media": "spell_mage_supernova_nightborne.jpg"
+  },
+  {
     "TagId": 471138,
     "TagType": 26,
     "Names": [
@@ -2678,6 +3476,132 @@
       "<DNT> Maintain Area Trigger",
       "<DNT> Maintain Area Trigger",
       "<DNT> Maintain Area Trigger"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471202,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]",
+      "Missile: Posion [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471203,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471204,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]",
+      "Channel: Necromancy Beam To Target [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471205,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]",
+      "Missile: Nercromancy [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471207,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]",
+      "Missile: Water [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471208,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]",
+      "Channel: Water Beam to Target [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4341,6 +5265,27 @@
     "Media": "spell_nature_chainlightning.jpg"
   },
   {
+    "TagId": 471306,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Metamorphosis",
+      "Metamorfosis del Vacío",
+      "Metamorfose do Caos",
+      "Void Metamorphosis",
+      "Metamorfosis del Vacío",
+      "Métamorphose du Vide",
+      "Метаморфоза Бездны",
+      "Leerenmetamorphose",
+      "Metamorfose do Caos",
+      "Metamorfosi del Vuoto",
+      "공허 탈태",
+      "虛無惡魔化身",
+      "虚空变形"
+    ],
+    "Media": "inv_112_ability_demonhunter_metamorphasisvoid.jpg"
+  },
+  {
     "TagId": 471307,
     "TagType": 26,
     "Names": [
@@ -4822,6 +5767,27 @@
       "闪电球"
     ],
     "Media": "ability_monk_forcesphere.jpg"
+  },
+  {
+    "TagId": 471334,
+    "TagType": 26,
+    "Names": [
+      null,
+      "PH.Throw Axe",
+      "PH.Throw Axe",
+      "PH.Arremessar Machado",
+      "PH.Throw Axe",
+      "Lanzar hacha",
+      "Lancer de hache",
+      "Бросок топора",
+      "Axt werfen",
+      "PH.Arremessar Machado",
+      "PH.Lancio Ascia",
+      "도끼 던지기",
+      "PH擲斧",
+      "投掷战斧"
+    ],
+    "Media": "inv_axe_01.jpg"
   },
   {
     "TagId": 471335,
@@ -6520,7 +7486,7 @@
       "炙燃火藥",
       "燃炎弹药"
     ],
-    "Media": "spell_shadow_rainoffire.jpg"
+    "Media": "inv12_ability_hunter_fierymunitions.jpg"
   },
   {
     "TagId": 471429,
@@ -6920,6 +7886,27 @@
       "Exit Riot Phase [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471453,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sundering Cleave",
+      "Rajadura hendiente",
+      "Cutilada Destruidora",
+      "Sundering Cleave",
+      "Rajadura hendiente",
+      "Pourfendeur fracassant",
+      "Рассекающий раскол",
+      "Zerreißendes Spalten",
+      "Cutilada Destruidora",
+      "Fendente Separatore",
+      "회전 가르기",
+      "破甲順劈",
+      "破甲顺劈"
+    ],
+    "Media": "inv_sword_37.jpg"
   },
   {
     "TagId": 471454,
@@ -7363,6 +8350,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 471476,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]",
+      "Missile: Cosmic Void [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 471477,
     "TagType": 26,
     "Names": [
@@ -7382,6 +8390,27 @@
       "啮踝钳制器"
     ],
     "Media": "ability_hunter_traplauncher.jpg"
+  },
+  {
+    "TagId": 471478,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]",
+      "Channel: Cosmic Void Beam to Target [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 471479,
@@ -7426,6 +8455,48 @@
     "Media": "warrior_talent_icon_thunderstruck.jpg"
   },
   {
+    "TagId": 471484,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Auto Attack Override",
+      "Anulación de ataque automático",
+      "Sobrepor Ataque Automático",
+      "Auto Attack Override",
+      "Ignorar ataque automático",
+      "Annulation d’attaque auto",
+      "Отмена автоатаки",
+      "Automatischen Angriff überschreiben",
+      "Sobrepor Ataque Automático",
+      "Annullamento Attacco Automatico",
+      "자동 공격 덮어쓰기",
+      "自動攻擊撤銷",
+      "自动攻击覆盖"
+    ],
+    "Media": "ability_meleedamage.jpg"
+  },
+  {
+    "TagId": 471485,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Melee",
+      "Cuerpo a cuerpo",
+      "Corpo a Corpo",
+      "Melee",
+      "Cuerpo a cuerpo",
+      "Mêlée",
+      "Атака ближнего боя",
+      "Nahkampf",
+      "Corpo a Corpo",
+      "Mischia",
+      "근접 공격",
+      "近戰",
+      "近战"
+    ],
+    "Media": "ability_meleedamage.jpg"
+  },
+  {
     "TagId": 471486,
     "TagType": 26,
     "Names": [
@@ -7464,6 +8535,27 @@
       "주문 배우기: 반짝집게발",
       "學習法術：爍喀",
       "学习法术：闪钳"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471489,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile",
+      "[DNT]Cosmic spawn missile"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -8160,6 +9252,69 @@
     "Media": "inv_misc_ammo_arrow_01.jpg"
   },
   {
+    "TagId": 471532,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump"
+    ],
+    "Media": "spell_nature_earthquake.jpg"
+  },
+  {
+    "TagId": 471533,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump"
+    ],
+    "Media": "spell_nature_earthquake.jpg"
+  },
+  {
+    "TagId": 471534,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump"
+    ],
+    "Media": "spell_nature_earthquake.jpg"
+  },
+  {
     "TagId": 471536,
     "TagType": 26,
     "Names": [
@@ -8242,6 +9397,27 @@
       "Cancel Beam [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471540,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump",
+      "[DNT] Ambush Jump"
+    ],
+    "Media": "ability_butcher_heavyhanded.jpg"
   },
   {
     "TagId": 471541,
@@ -8429,6 +9605,27 @@
       "Enhance Zone [DNT]",
       "Enhance Zone [DNT]",
       "Enhance Zone [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471552,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]",
+      "Channel: Necromancy Nova (Low) [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10028,6 +11225,27 @@
     "Media": "inv_cosmicvoid_nova.jpg"
   },
   {
+    "TagId": 471643,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Interrupting Screech",
+      "Chirrido interruptor",
+      "Guinchado Disruptor",
+      "Interrupting Screech",
+      "Chirrido interruptor",
+      "Hurlement d’interruption",
+      "Прерывающий визг",
+      "Unterbrechendes Kreischen",
+      "Guinchado Disruptor",
+      "Stridio Interrompente",
+      "방해의 비명",
+      "干擾尖嘯",
+      "干扰尖啸"
+    ],
+    "Media": "ability_mount_dragonhawkarmorallliance.jpg"
+  },
+  {
     "TagId": 471644,
     "TagType": 26,
     "Names": [
@@ -10047,6 +11265,27 @@
       "天界弹幕"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471645,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Break Ranks",
+      "Romper filas",
+      "Quebrar Fileiras",
+      "Break Ranks",
+      "Romper filas",
+      "Rompre les rangs",
+      "Прорыв сквозь строй",
+      "Reihen brechen",
+      "Quebrar Fileiras",
+      "Rottura dei Ranghi",
+      "진열 붕괴",
+      "打破疊隊",
+      "破军奔袭"
+    ],
+    "Media": "ability_warrior_shieldcharge.jpg"
   },
   {
     "TagId": 471646,
@@ -10091,6 +11330,27 @@
     "Media": "inv_10_engineering_device_flamethrower_flame.jpg"
   },
   {
+    "TagId": 471648,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Break Ranks",
+      "Romper filas",
+      "Quebrar Fileiras",
+      "Break Ranks",
+      "Romper filas",
+      "Rompre les rangs",
+      "Прорыв сквозь строй",
+      "Reihen brechen",
+      "Quebrar Fileiras",
+      "Rottura dei Ranghi",
+      "진열 붕괴",
+      "打破疊隊",
+      "破军奔袭"
+    ],
+    "Media": "ability_warrior_shieldcharge.jpg"
+  },
+  {
     "TagId": 471649,
     "TagType": 26,
     "Names": [
@@ -10110,6 +11370,27 @@
       "Act 2 - Q07 - Combat Start Area Trigger [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471650,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Break Ranks",
+      "Romper filas",
+      "Quebrar Fileiras",
+      "Break Ranks",
+      "Romper filas",
+      "Rompre les rangs",
+      "Прорыв сквозь строй",
+      "Reihen brechen",
+      "Quebrar Fileiras",
+      "Rottura dei Ranghi",
+      "진열 붕괴",
+      "打破疊隊",
+      "破军奔袭"
+    ],
+    "Media": "ability_warrior_shieldcharge.jpg"
   },
   {
     "TagId": 471651,
@@ -10322,6 +11603,27 @@
     "Media": "ability_vehicle_shellshieldgenerator.jpg"
   },
   {
+    "TagId": 471661,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shoot",
+      "Disparo",
+      "Atirar",
+      "Shoot",
+      "Disparar",
+      "Tir",
+      "Выстрел",
+      "Schießen",
+      "Atirar",
+      "Tiro",
+      "사격",
+      "射擊",
+      "射击"
+    ],
+    "Media": "ability_marksmanship.jpg"
+  },
+  {
     "TagId": 471662,
     "TagType": 26,
     "Names": [
@@ -10341,6 +11643,27 @@
       "凝结暗影"
     ],
     "Media": "inv_elemental_primal_shadow.jpg"
+  },
+  {
+    "TagId": 471663,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salva Prolongada",
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salve prolongée",
+      "Залповый огонь",
+      "Konstante Salve",
+      "Salva Prolongada",
+      "Raffica Prolungata",
+      "지속 연사",
+      "持久箭雨",
+      "持续齐射"
+    ],
+    "Media": "ability_hunter_zenarchery.jpg"
   },
   {
     "TagId": 471664,
@@ -10448,6 +11771,27 @@
     "Media": "inv_misc_slime_02.jpg"
   },
   {
+    "TagId": 471670,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salva Prolongada",
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salve prolongée",
+      "Залповый огонь",
+      "Konstante Salve",
+      "Salva Prolongada",
+      "Raffica Prolungata",
+      "지속 연사",
+      "持久箭雨",
+      "持续齐射"
+    ],
+    "Media": "ability_hunter_zenarchery.jpg"
+  },
+  {
     "TagId": 471671,
     "TagType": 26,
     "Names": [
@@ -10490,6 +11834,27 @@
     "Media": "ability_rogue_shadowstep.jpg"
   },
   {
+    "TagId": 471674,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salva Prolongada",
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salve prolongée",
+      "Залповый огонь",
+      "Konstante Salve",
+      "Salva Prolongada",
+      "Raffica Prolungata",
+      "지속 연사",
+      "持久箭雨",
+      "持续齐射"
+    ],
+    "Media": "ability_hunter_zenarchery.jpg"
+  },
+  {
     "TagId": 471676,
     "TagType": 26,
     "Names": [
@@ -10509,6 +11874,48 @@
       "深渊之攫免疫"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471677,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salva Prolongada",
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salve prolongée",
+      "Залповый огонь",
+      "Konstante Salve",
+      "Salva Prolongada",
+      "Raffica Prolungata",
+      "지속 연사",
+      "持久箭雨",
+      "持续齐射"
+    ],
+    "Media": "ability_hunter_zenarchery.jpg"
+  },
+  {
+    "TagId": 471678,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salva Prolongada",
+      "Sustained Volley",
+      "Salva sostenida",
+      "Salve prolongée",
+      "Залповый огонь",
+      "Konstante Salve",
+      "Salva Prolongada",
+      "Raffica Prolungata",
+      "지속 연사",
+      "持久箭雨",
+      "持续齐射"
+    ],
+    "Media": "ability_hunter_zenarchery.jpg"
   },
   {
     "TagId": 471679,
@@ -11246,6 +12653,27 @@
     "Media": "shaman_pvp_counterstriketotem.jpg"
   },
   {
+    "TagId": 471719,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind"
+    ],
+    "Media": "ability_creature_cursed_04.jpg"
+  },
+  {
     "TagId": 471720,
     "TagType": 26,
     "Names": [
@@ -11454,6 +12882,27 @@
       "传送"
     ],
     "Media": "spell_arcane_teleportundercity.jpg"
+  },
+  {
+    "TagId": 471730,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
   },
   {
     "TagId": 471731,
@@ -11687,6 +13136,27 @@
     "Media": "70_inscription_vantus_rune_azure.jpg"
   },
   {
+    "TagId": 471743,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind",
+      "[Do not use][DNT]Whirlwind"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 471744,
     "TagType": 26,
     "Names": [
@@ -11769,6 +13239,27 @@
       "学习法术：霸业枭雄的午夜鳄鱼"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471748,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
   },
   {
     "TagId": 471749,
@@ -12719,7 +14210,7 @@
       "Aprender Feitiço: Parolo (Mascote)",
       "Apprendimento Incantesimo: Parlagallo (Mascotte)",
       "주문 배우기: 말로하새 (애완동물)",
-      "學習法術：帕利(寵物)",
+      "學習法術：帕利（寵物）",
       "学习法术：判判（宠物）"
     ],
     "Media": "trade_engineering.jpg"
@@ -12830,6 +14321,27 @@
     "Media": "spell_holy_borrowedtime.jpg"
   },
   {
+    "TagId": 471805,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Billowing Wind",
+      "Viento arremolinado",
+      "Vento Corrente",
+      "Billowing Wind",
+      "Viento arremolinado",
+      "Vent tourbillonnant",
+      "Вздымающийся ветер",
+      "Wogender Wind",
+      "Vento Corrente",
+      "Vento Vorticante",
+      "우렁찬 바람",
+      "翻騰之風",
+      "翻腾之风"
+    ],
+    "Media": "inv_sonic_nova.jpg"
+  },
+  {
     "TagId": 471806,
     "TagType": 26,
     "Names": [
@@ -12912,6 +14424,27 @@
       "Quest"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 471810,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Turbulent Arrows",
+      "Flechas turbulentas",
+      "Flechas Turbulentas",
+      "Turbulent Arrows",
+      "Flechas turbulentas",
+      "Flèches turbulentes",
+      "Турбулентные стрелы",
+      "Turbulente Pfeile",
+      "Flechas Turbulentas",
+      "Frecce Tumultuose",
+      "격동하는 화살",
+      "動盪箭矢",
+      "湍急箭矢"
+    ],
+    "Media": "inv_tradeskillitem_sorcererswind.jpg"
   },
   {
     "TagId": 471811,
@@ -13620,6 +15153,27 @@
       "剧烈渗流"
     ],
     "Media": "inv_elemental_primal_water.jpg"
+  },
+  {
+    "TagId": 471848,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker",
+      "[Do not Use][DNT]Ferocious Groundbreaker"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
   },
   {
     "TagId": 471849,

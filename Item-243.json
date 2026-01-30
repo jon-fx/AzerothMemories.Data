@@ -512,7 +512,7 @@
       "Perla del escalofrío perpetuo imperfecta",
       "Pérola do Frio Perene Defeituosa",
       "Flawed Everchill Pearl",
-      "Perla de escalofrío eterno imperfecta",
+      "Perla de escalofrío eterno con defectos",
       "Perle de froidure éternelle imparfaite",
       "Треснувшая вечно холодная жемчужина",
       "Fehlerhafte Immerkalte Perle",
@@ -554,7 +554,7 @@
       "Ira de las mareas imperfecta",
       "Fúria das Ondas Defeituosa",
       "Flawed Rage of the Tides",
-      "Ira de las mareas imperfecta",
+      "Ira de las mareas con defectos",
       "Rage des marées imparfaite",
       "Треснувшая ярость приливов",
       "Fehlerhafter Zorn der Gezeiten",
@@ -575,7 +575,7 @@
       "Cometa hendido imperfecto",
       "Cometa Partido Defeituoso",
       "Flawed Sundered Comet",
-      "Cometa hendido imperfecto",
+      "Cometa hendido con defectos",
       "Comète scindée imparfaite",
       "Треснувшая расколотая комета",
       "Fehlerhafter Gesplitterter Komet",
@@ -596,7 +596,7 @@
       "Cráneo fracturado de Gelmogg imperfecto",
       "Crânio Fraturado de Gelmogg Defeituoso",
       "Flawed Gelmogg's Fractured Skull",
-      "Cráneo fracturado de Gelmogg imperfecto",
+      "Cráneo fracturado de Gelmogg con defectos",
       "Crâne fracturé de Gelmogg imparfait",
       "Треснувший расколотый череп Гелмогга",
       "Fehlerhafter Gelmoggs geborstener Schädel",
@@ -617,7 +617,7 @@
       "Fragmento de hueso de ettin imperfecto",
       "Fragmento de Osso de Gorjala Defeituoso",
       "Flawed Ettin Bone Fragment",
-      "Fragmento de hueso de ettin imperfecto",
+      "Fragmento de hueso de ettin con defectos",
       "Fragment d’os d’ettin imparfait",
       "Треснувший обломок кости эттина",
       "Fehlerhaftes Ettinknochenfragment",
@@ -638,7 +638,7 @@
       "Pico de hierro resplandeciente imperfecto",
       "Espeto de Ferro Rebrilhante Defeituoso",
       "Flawed Gleaming Iron Spike",
-      "Punta de hierro resplandeciente imperfecta",
+      "Punta de hierro resplandeciente con defectos",
       "Pointe en fer resplendissante imparfaite",
       "Треснувший блестящий железный шип",
       "Fehlerhafter Schimmernder Eisendorn",
@@ -659,7 +659,7 @@
       "Determinación de Xakal imperfecta",
       "Determinação de Xakal Defeituosa",
       "Flawed Xakal's Determination",
-      "Determinación de Xakal imperfecta",
+      "Determinación de Xakal con defectos",
       "Détermination de Xakal imparfaite",
       "Треснувшая решимость Ксакала",
       "Fehlerhafte Xakals Entschlossenheit",
@@ -1050,6 +1050,27 @@
     "Media": "inv_112_raidtrinkets_blobofswirlingvoid_gold.jpg"
   },
   {
+    "TagId": 243060,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Luminant Flux",
+      "Flujo luminante",
+      "Fluxo Fulgurante",
+      "Luminant Flux",
+      "Flujo luminiscente",
+      "Flux de luminance",
+      "Сияющий плавень",
+      "Leuchtender Fluxus",
+      "Fluxo Fulgurante",
+      "Flusso Illuminante",
+      "영롱한 융제",
+      "發光助熔劑",
+      "莹辉助熔剂"
+    ],
+    "Media": "inv_10_blacksmithing_craftedoptional_blacksmithdye_fire.jpg"
+  },
+  {
     "TagId": 243061,
     "TagType": 21,
     "Names": [
@@ -1113,6 +1134,27 @@
     "Media": "inv_dragonhawk2voidpet_void.jpg"
   },
   {
+    "TagId": 243072,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 243088,
     "TagType": 21,
     "Names": [
@@ -1132,6 +1174,48 @@
       "立式华丽武器架"
     ],
     "Media": "7416587.jpg"
+  },
+  {
+    "TagId": 243090,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sturdy Haranir Chair",
+      "Silla haranir sólida",
+      "Cadeira Haranir Robusta",
+      "Sturdy Haranir Chair",
+      "Silla haranir recia",
+      "Chaise robuste haranir",
+      "Прочный харанирский стул",
+      "Robuster Haranirstuhl",
+      "Cadeira Haranir Robusta",
+      "Sedia degli Haranir Robusta",
+      "튼튼한 하라니르 의자",
+      "哈拉尼爾結實椅子",
+      "坚固的哈籁尼尔椅子"
+    ],
+    "Media": "7416595.jpg"
+  },
+  {
+    "TagId": 243091,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7416599.jpg"
   },
   {
     "TagId": 243101,
@@ -1159,19 +1243,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Gemmed Eversong Lantern",
+      "Farol de Canción Eterna con gemas",
+      "Lanterna de Canto Eterno com Gemas",
+      "Gemmed Eversong Lantern",
+      "Farol con gemas de Canción Eterna",
+      "Lanterne des Chants éternels ornée de gemmes",
+      "Инкрустированный фонарь Вечной Песни",
+      "Edelsteinbesetzte Immersanglaterne",
+      "Lanterna de Canto Eterno com Gemas",
+      "Lanterna di Cantoeterno Gemmata",
+      "보석 박힌 영원노래 등불",
+      "永歌寶石燈籠",
+      "嵌宝的永歌灯笼"
     ],
     "Media": "7416651.jpg"
   },
@@ -1365,6 +1449,27 @@
     "Media": "inv_misc_bandage_netherweave_heavy.jpg"
   },
   {
+    "TagId": 243146,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ren'dorei Struggle",
+      "Pugna ren'dorei",
+      "Esforços dos Ren'dorei",
+      "Ren'dorei Struggle",
+      "Pugna de ren'dorei",
+      "Lutte des Ren’dorei",
+      "Борьба рен'дорай",
+      "Kampf der Ren'dorei",
+      "Esforços dos Ren'dorei",
+      "Sforzo dei Ren'dorei",
+      "렌도레이 투쟁",
+      "刃多雷的掙扎",
+      "朗多雷的挣扎"
+    ],
+    "Media": "inv_cosmicvoid_buff.jpg"
+  },
+  {
     "TagId": 243147,
     "TagType": 21,
     "Names": [
@@ -1554,6 +1659,69 @@
     "Media": "item_herbd.jpg"
   },
   {
+    "TagId": 243171,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "7416795.jpg"
+  },
+  {
+    "TagId": 243188,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Head of Cragward Gaahl",
+      "Cabeza de Gaahl Guardarriscos",
+      "Cabeça do Protetor do Penhasco Fläcido",
+      "Head of Cragward Gaahl",
+      "Cabeza de Gaahl Guardarriscos",
+      "Tête du garde-combe Gaahl",
+      "Голова хранителя скал Гаала",
+      "Kopf von Felshüter Gaahl",
+      "Cabeça do Protetor do Penhasco Fläcido",
+      "Testa del Guardarupe Gaahl",
+      "바위수호자 가알의 머리카락",
+      "『岩石守衛』嘎爾的頭顱",
+      "峭壁守卫伽尔的徽记"
+    ],
+    "Media": "inv_misc_bag_10.jpg"
+  },
+  {
+    "TagId": 243189,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Head of Pulverizer Helthra",
+      "Cabeza de Helthra Pulverizadora",
+      "Cabeça da Pulverizadora Helthra",
+      "Head of Pulverizer Helthra",
+      "Cabeza de Pulverizadora Helthra",
+      "Tête de la pulvérisatrice Helthra",
+      "Голова Хельтры Измельчительницы",
+      "Kopf von Pulverisiererin Helthra",
+      "Cabeça da Pulverizadora Helthra",
+      "Testa di Helthra la Polverizzatrice",
+      "파쇄자 헬스라의 머리카락",
+      "『粉碎者』赫斯拉的頭顱",
+      "粉碎者赫尔斯拉的徽记"
+    ],
+    "Media": "inv_misc_bag_10.jpg"
+  },
+  {
     "TagId": 243191,
     "TagType": 21,
     "Names": [
@@ -1565,7 +1733,7 @@
       "Runa de aumento de los etéreos",
       "Rune d’amélioration éthérienne",
       "Астральная руна усиления",
-      "Astrale Verstärkungsrune.",
+      "Astrale Verstärkungsrune",
       "Runa de Aprimoramento Etérea",
       "Runa del Potenziamento Etereo",
       "실체 없는 증강의 룬",
@@ -1594,6 +1762,48 @@
       "鲛波尔奔"
     ],
     "Media": "inv_murlocmount_blue.jpg"
+  },
+  {
+    "TagId": 243195,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST",
+      "Bonnie BYK TEST"
+    ],
+    "Media": "inv_glove_cloth_raidpriestethereal_d_01.jpg"
+  },
+  {
+    "TagId": 243196,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Healing Waters of Ahl'ua",
+      "Aguas curativas de Ahl'ua",
+      "Águas Curativas de Ahl'ua",
+      "Healing Waters of Ahl'ua",
+      "Aguas de sanación de Ahl'ua",
+      "Eaux curatives d’Ahl’ua",
+      "Целительные воды Ахл'уа",
+      "Heilende Wasser von Ahl'ua",
+      "Águas Curativas de Ahl'ua",
+      "Acqua Curativa di Ahl'ua",
+      "알루아의 치유의 물",
+      "阿魯雅的治療之水",
+      "奥露阿的治愈之水"
+    ],
+    "Media": "inv_elemental_primal_water.jpg"
   },
   {
     "TagId": 243197,
@@ -1995,6 +2205,27 @@
     "Media": "inv_ability_darkrangerhunter_blackarrow.jpg"
   },
   {
+    "TagId": 243221,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Suspicious Missive",
+      "Misiva sospechosa",
+      "Missiva Suspeita",
+      "Suspicious Missive",
+      "Misiva sospechosa",
+      "Missive suspecte",
+      "Подозрительное послание",
+      "Verdächtiges Schriftstück",
+      "Missiva Suspeita",
+      "Missiva Sospetta",
+      "수상한 서신",
+      "可疑的文件",
+      "可疑的信函"
+    ],
+    "Media": "inv_10_inscription2_scroll1_color2.jpg"
+  },
+  {
     "TagId": 243222,
     "TagType": 21,
     "Names": [
@@ -2163,6 +2394,111 @@
     "Media": "inv_box_03.jpg"
   },
   {
+    "TagId": 243236,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stained Worker's Shirt",
+      "Camisa de trabajador manchada",
+      "Camisa de Trabalhador Manchada",
+      "Stained Worker's Shirt",
+      "Camisa de trabajador manchada",
+      "Chemise de travail tachée",
+      "Запачканная рабочая рубашка",
+      "Schmutziges Arbeiterhemd",
+      "Camisa de Trabalhador Manchada",
+      "Camicia da Lavoro Macchiata",
+      "얼룩진 일꾼의 셔츠",
+      "髒污的工人襯衣",
+      "肮脏的工人衬衣"
+    ],
+    "Media": "inv_shirt_05.jpg"
+  },
+  {
+    "TagId": 243237,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bottled Fel Dust",
+      "Polvo vil embotellado",
+      "Poeira Vil Engarrafada",
+      "Bottled Fel Dust",
+      "Polvo vil embotellado",
+      "Poussière de gangrène en bouteille",
+      "Бутылка с пылью Скверны",
+      "Fläschchen mit Teufelstaub",
+      "Poeira Vil Engarrafada",
+      "Vilpolvere Imbottigliata",
+      "병에 담긴 지옥 가루",
+      "瓶裝魔化之塵",
+      "瓶装邪能之尘"
+    ],
+    "Media": "inv_enchant_duststrange.jpg"
+  },
+  {
+    "TagId": 243238,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blackened Metal Fragment",
+      "Fragmento de metal ennegrecido",
+      "Fragmento Metálico Enegrecido",
+      "Blackened Metal Fragment",
+      "Fragmento de metal ennegrecido",
+      "Fragment métallique noirci",
+      "Почерневший фрагмент металла",
+      "Geschwärztes Metallfragment",
+      "Fragmento Metálico Enegrecido",
+      "Frammento di Metallo Annerito",
+      "검게 물든 금속 파편",
+      "黑化金屬碎片",
+      "黑化金属碎片"
+    ],
+    "Media": "inv_10_blacksmithing_craftedoptional_reinforcedmetalplating_color01.jpg"
+  },
+  {
+    "TagId": 243239,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Handwritten List",
+      "Lista escrita a mano",
+      "Lista Manuscrita",
+      "Handwritten List",
+      "Lista escrita a mano",
+      "Liste manuscrite",
+      "Написанный от руки список",
+      "Handgeschriebene Liste",
+      "Lista Manuscrita",
+      "Elenco Scritto a Mano",
+      "손으로 쓴 목록",
+      "手寫清單",
+      "手写的清单"
+    ],
+    "Media": "inv_misc_note_03.jpg"
+  },
+  {
+    "TagId": 243240,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Drained Wyrm Core",
+      "Núcleo de vermis drenado",
+      "Núcleo de Moreia Drenado",
+      "Drained Wyrm Core",
+      "Núcleo de vermis agotado",
+      "Noyau de wyrm drainé",
+      "Опустошенное ядро змея",
+      "Ausgelaugter Wyrmkern",
+      "Núcleo de Moreia Drenado",
+      "Nucleo di Dragone Prosciugato",
+      "소진된 지룡 핵",
+      "枯竭的龍鰻核心",
+      "被吸干的浮龙核心"
+    ],
+    "Media": "inv_misc_enchantedpearla.jpg"
+  },
+  {
     "TagId": 243242,
     "TagType": 21,
     "Names": [
@@ -2245,6 +2581,27 @@
       "滑稽的蜡烛"
     ],
     "Media": "creatureportrait_goblin_rocket.jpg"
+  },
+  {
+    "TagId": 243248,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Anomaly Filament",
+      "Filamento anómalo",
+      "Filamento de Anomalia",
+      "Anomaly Filament",
+      "Filamento de anomalía",
+      "Filament d’anomalie",
+      "Аномальное волокно",
+      "Anomaler Faden",
+      "Filamento de Anomalia",
+      "Filamento dell'Anomalia",
+      "변형물 전선",
+      "異象纖絲",
+      "异变纤丝"
+    ],
+    "Media": "inv_enchant_voidcrystal.jpg"
   },
   {
     "TagId": 243249,
@@ -3129,6 +3486,27 @@
     "Media": "inv_treasurechest_felfirecitadel.jpg"
   },
   {
+    "TagId": 243302,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aquarius Bloom",
+      "Flor acuario",
+      "Floração de Aquário",
+      "Aquarius Bloom",
+      "Floración de acuario",
+      "Floraison du Verseau",
+      "Водоцвет",
+      "Blüte des Wassermanns",
+      "Floração de Aquário",
+      "Bocciolo di Aquarius",
+      "물의 꽃송이",
+      "寶瓶花",
+      "宝瓶花"
+    ],
+    "Media": "inv_everburningignition_blue.jpg"
+  },
+  {
     "TagId": 243304,
     "TagType": 21,
     "Names": [
@@ -3465,6 +3843,48 @@
     "Media": "inv_holiday_beerfestpretzel01.jpg"
   },
   {
+    "TagId": 243342,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bloom Bauble",
+      "Adorno florecido",
+      "Isca da Floração",
+      "Bloom Bauble",
+      "Fruslería de floración",
+      "Verroterie fleurie",
+      "Цветущая безделушка",
+      "Blütenkugel",
+      "Isca da Floração",
+      "Bolla in Bocciolo",
+      "꽃송이 장신구",
+      "綻放小珠",
+      "绽华小珠"
+    ],
+    "Media": "inv_10_gearupgrade_whelplingsshadowflamefragment.jpg"
+  },
+  {
+    "TagId": 243343,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Angler's Anomaly",
+      "Anomalía de pescador",
+      "Anomalia do Pescador",
+      "Angler's Anomaly",
+      "Anomalía de pescador",
+      "Anomalie de pêche",
+      "Рыболовная аномалия",
+      "Angleranomalie",
+      "Anomalia do Pescador",
+      "Anomalia del Pescatore",
+      "강태공의 변형물",
+      "釣手的異象",
+      "垂钓客的畸体"
+    ],
+    "Media": "inv_enchant_voidsphere.jpg"
+  },
+  {
     "TagId": 243347,
     "TagType": 21,
     "Names": [
@@ -3484,6 +3904,27 @@
       "奇珍之桶"
     ],
     "Media": "archaeology_5_0_emptykegofbrewfatherxinwoyin.jpg"
+  },
+  {
+    "TagId": 243350,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Predator Blood",
+      "Sangre de depredador",
+      "Sangue de Predador",
+      "Predator Blood",
+      "Sangre de depredador",
+      "Sang de prédateur",
+      "Кровь хищника",
+      "Räuberblut",
+      "Sangue de Predador",
+      "Sangue di Predatore",
+      "포식자의 피",
+      "捕獵者之血",
+      "掠食者之血"
+    ],
+    "Media": "spell_yorsahj_bloodboil_purpleoil.jpg"
   },
   {
     "TagId": 243359,
@@ -3696,6 +4137,48 @@
     "Media": "inv_misc_treasurechest03b.jpg"
   },
   {
+    "TagId": 243377,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
+    "TagId": 243378,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
     "TagId": 243420,
     "TagType": 21,
     "Names": [
@@ -3780,6 +4263,111 @@
     "Media": "inv_cape_chest_ardenweald_d_01.jpg"
   },
   {
+    "TagId": 243434,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Nature's Embrace",
+      "Encantar sobrehombros: Abrazo de la naturaleza",
+      "Encantamento da Graça da Natureza - Ombros",
+      "Enchant Shoulders - Nature's Embrace",
+      "Encantar hombros: Abrazo de la Naturaleza",
+      "Enchantement d’épaulières – Étreinte de la nature",
+      "Чары для наплечников – объятия природы",
+      "Schultern - Umarmung der Natur",
+      "Encantamento da Graça da Natureza - Ombros",
+      "Incantamento Spalle - Abbraccio della Natura",
+      "어깨보호구 마법부여 - 자연의 은총",
+      "附魔肩膀 - 自然之擁",
+      "附魔护肩 - 自然的拥抱"
+    ],
+    "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
+    "TagId": 243442,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Voidtouched",
+      "Encantar sobrehombros: Tocado por el Vacío",
+      "Encantamento Maculado pelo Caos - Ombros",
+      "Enchant Shoulders - Voidtouched",
+      "Encantar hombros: Tocado por el Vacío",
+      "Enchantement d’épaulières – Touchées par le Vide",
+      "Чары для наплечников – тронутый Бездной",
+      "Schultern - Leerenberührt",
+      "Encantamento Maculado pelo Caos - Ombros",
+      "Incantamento Spalle - Toccato dal Vuoto",
+      "어깨보호구 마법부여 - 공허에 물듦",
+      "附魔肩膀 - 虛無之觸",
+      "附魔护肩 - 虚触"
+    ],
+    "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
+    "TagId": 243448,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Illusory Adornment - Blooming Light",
+      "Adorno ilusorio: Luz floreciente",
+      "Adorno Ilusório - Luz Florescente",
+      "Illusory Adornment - Blooming Light",
+      "Adorno ilusorio: Luz floreciente",
+      "Parure illusoire – lumière de floraison",
+      "Иллюзорное убранство – цветущий Свет",
+      "Illusorische Verzierung: Blühendes Licht",
+      "Adorno Ilusório - Luz Florescente",
+      "Ornamento Illusorio - Luce Fiorente",
+      "환영 장식 - 피어나는 빛",
+      "幻影裝飾 - 綻放聖光",
+      "幻影魔饰 - 光绽"
+    ],
+    "Media": "inv_misc_enchantedscroll.jpg"
+  },
+  {
+    "TagId": 243468,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Jeweled Key",
+      "Llave enjoyada",
+      "Chave Cravejada",
+      "Jeweled Key",
+      "Llave enjoyada",
+      "Clé ornée d’un joyau",
+      "Инкрустированный ключ",
+      "Juwelenbesetzter Schlüssel",
+      "Chave Cravejada",
+      "Chiave Ingioiellata",
+      "보석 박힌 열쇠",
+      "寶石鑰匙",
+      "珠宝钥匙"
+    ],
+    "Media": "inv_misc_key_08.jpg"
+  },
+  {
+    "TagId": 243478,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spare Pamphlets",
+      "Panfletos sobrantes",
+      "Panfletos Sobressalentes",
+      "Spare Pamphlets",
+      "Panfletos de sobra",
+      "Tracts non distribués",
+      "Запасные брошюры",
+      "Überzählige Handzettel",
+      "Panfletos Sobressalentes",
+      "Opuscoli Avanzati",
+      "예비 전단지",
+      "備用簡章",
+      "备用宣传册"
+    ],
+    "Media": "inv_misc_paperbundle03e.jpg"
+  },
+  {
     "TagId": 243479,
     "TagType": 21,
     "Names": [
@@ -3856,7 +4444,7 @@
       "Элегантный мягкий диван",
       "Eleganter gepolsterter Diwan",
       "Divã Acolchoado Elegante",
-      "Dormeuse Imbottita Elegante",
+      "Dormeuse Foderata Elegante",
       "품격 있는 안감 긴 의자",
       "優雅襯墊多人沙發",
       "优雅的软垫沙发床"
@@ -5334,6 +5922,132 @@
     "Media": "inv_inscription_papyrus.jpg"
   },
   {
+    "TagId": 243574,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Song Gear",
+      "Equipamiento de canción",
+      "Engrenagem da Canção",
+      "Song Gear",
+      "Equipo de canto",
+      "Chanterouage",
+      "Поющая шестеренка",
+      "Singfeder",
+      "Engrenagem da Canção",
+      "Arnese Melodico",
+      "노래 톱니바퀴",
+      "歌唱齒輪",
+      "轻歌齿轮"
+    ],
+    "Media": "inv_12_profession_engineering_manufacturedparts_gears_blue.jpg"
+  },
+  {
+    "TagId": 243575,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Song Gear",
+      "Equipamiento de canción",
+      "Engrenagem da Canção",
+      "Song Gear",
+      "Equipo de canto",
+      "Chanterouage",
+      "Поющая шестеренка",
+      "Singfeder",
+      "Engrenagem da Canção",
+      "Arnese Melodico",
+      "노래 톱니바퀴",
+      "歌唱齒輪",
+      "轻歌齿轮"
+    ],
+    "Media": "inv_12_profession_engineering_manufacturedparts_gears_blue.jpg"
+  },
+  {
+    "TagId": 243576,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soul Sprocket",
+      "Piñón de alma",
+      "Rebimboca de Alma",
+      "Soul Sprocket",
+      "Piñón de almas",
+      "Pignon d’âme",
+      "Духовная звездочка",
+      "Seelenspross",
+      "Rebimboca de Alma",
+      "Pignone dell'Anima",
+      "영혼 스프로켓",
+      "靈魂扣鏈",
+      "灵魂链齿"
+    ],
+    "Media": "inv_12_profession_engineering_manufacturedparts_lightbulb_purple.jpg"
+  },
+  {
+    "TagId": 243577,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Soul Sprocket",
+      "Piñón de alma",
+      "Rebimboca de Alma",
+      "Soul Sprocket",
+      "Piñón de almas",
+      "Pignon d’âme",
+      "Духовная звездочка",
+      "Seelenspross",
+      "Rebimboca de Alma",
+      "Pignone dell'Anima",
+      "영혼 스프로켓",
+      "靈魂扣鏈",
+      "灵魂链齿"
+    ],
+    "Media": "inv_12_profession_engineering_manufacturedparts_lightbulb_purple.jpg"
+  },
+  {
+    "TagId": 243578,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aetherlume",
+      "Eterlumo",
+      "Aeterlúmen",
+      "Aetherlume",
+      "Eterluminiscencia",
+      "Étherlume",
+      "Астраволокно",
+      "Ätherlicht",
+      "Aeterlúmen",
+      "Eterlume",
+      "실체 없는 빛",
+      "蒼穹飾羽",
+      "以太流明"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_electricalparts_color2.jpg"
+  },
+  {
+    "TagId": 243579,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aetherlume",
+      "Eterlumo",
+      "Aeterlúmen",
+      "Aetherlume",
+      "Eterluminiscencia",
+      "Étherlume",
+      "Астраволокно",
+      "Ätherlicht",
+      "Aeterlúmen",
+      "Eterlume",
+      "실체 없는 빛",
+      "蒼穹飾羽",
+      "以太流明"
+    ],
+    "Media": "inv_10_engineering_manufacturedparts_electricalparts_color2.jpg"
+  },
+  {
     "TagId": 243580,
     "TagType": 21,
     "Names": [
@@ -5353,6 +6067,111 @@
       "以太晶塔"
     ],
     "Media": "achievement_dungeon_arcanevaults.jpg"
+  },
+  {
+    "TagId": 243581,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Evercore",
+      "Sempinúcleo",
+      "Evinúcleo",
+      "Evercore",
+      "Núcleo eterno",
+      "Étercœur",
+      "Вечноядро",
+      "Ewigkeitskern",
+      "Evinúcleo",
+      "Nucleterno",
+      "영원핵",
+      "不滅核心",
+      "永恒之核"
+    ],
+    "Media": "inv_12_profession_engineering_manufacturedparts_battery_purple.jpg"
+  },
+  {
+    "TagId": 243582,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Evercore",
+      "Sempinúcleo",
+      "Evinúcleo",
+      "Evercore",
+      "Núcleo eterno",
+      "Étercœur",
+      "Вечноядро",
+      "Ewigkeitskern",
+      "Evinúcleo",
+      "Nucleterno",
+      "영원핵",
+      "不滅核心",
+      "永恒之核"
+    ],
+    "Media": "inv_12_profession_engineering_manufacturedparts_battery_purple.jpg"
+  },
+  {
+    "TagId": 243583,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Iridescent Carapace",
+      "Caparazón iridiscente",
+      "Carapaça Iridescente",
+      "Iridescent Carapace",
+      "Caparazón iridiscente",
+      "Carapace iridescente",
+      "Радужный панцирь",
+      "Schillernder Panzer",
+      "Carapaça Iridescente",
+      "Carapace Iridescente",
+      "오색 갑각",
+      "七彩甲殼",
+      "虹彩甲壳"
+    ],
+    "Media": "inv_inscription_pigment_violet.jpg"
+  },
+  {
+    "TagId": 243584,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Amethryl Petals",
+      "Pétalos de amatril",
+      "Pétalas de Ametrila",
+      "Amethryl Petals",
+      "Pétalos de ametril",
+      "Pétales d’améthryle",
+      "Лепестки амефрила",
+      "Amethrillblütenblätter",
+      "Pétalas de Ametrila",
+      "Petali di Amethryl",
+      "아메트릴 꽃잎",
+      "紫晶花瓣",
+      "艾米希尔花瓣"
+    ],
+    "Media": "inv_misc_herb_arthastear_petal.jpg"
+  },
+  {
+    "TagId": 243589,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Alndust",
+      "Polvo de Aln",
+      "Pó-de-aln",
+      "Alndust",
+      "Polvo de Aln",
+      "Poudre d’Aln",
+      "Пыль Альн",
+      "Alnstaub",
+      "Pó-de-aln",
+      "Polvere di Aln",
+      "알른가루",
+      "艾恩之塵",
+      "艾林之尘"
+    ],
+    "Media": "ability_argus_soulbombdebufflarge.jpg"
   },
   {
     "TagId": 243590,
@@ -5460,6 +6279,27 @@
     "Media": "inv_forsakenhorsemount_green.jpg"
   },
   {
+    "TagId": 243595,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Salve of Aln",
+      "Bálsamo de Aln",
+      "Bálsamo de Aln",
+      "Salve of Aln",
+      "Bálsamo de Aln",
+      "Onguent d’Aln",
+      "Мазь Альн",
+      "Salbe von Aln",
+      "Bálsamo de Aln",
+      "Unguento di Aln",
+      "알른의 연고",
+      "艾恩藥膏",
+      "艾林油膏"
+    ],
+    "Media": "ability_argus_soulbombdebufflarge.jpg"
+  },
+  {
     "TagId": 243596,
     "TagType": 21,
     "Names": [
@@ -5502,6 +6342,69 @@
     "Media": "inv_forsakenhorsemount_yellow.jpg"
   },
   {
+    "TagId": 243598,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Phytogenic Poison Part",
+      "Órgano con veneno vibogénico",
+      "Componente de Veneno Fitogênico",
+      "Phytogenic Poison Part",
+      "Parte de veneno fitogénico",
+      "Glande à poison phytogène",
+      "Фитогенный ингредиент для яда",
+      "Phytogenes Giftteil",
+      "Componente de Veneno Fitogênico",
+      "Parte Velenosa Fitogenica",
+      "식물성 독 성분",
+      "草本劇毒部位",
+      "植源毒物器官"
+    ],
+    "Media": "inv_11_0_misc_organmass_color3.jpg"
+  },
+  {
+    "TagId": 243599,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eversinging Dust",
+      "Polvo cantoeterno",
+      "Pó de Eternelegia",
+      "Eversinging Dust",
+      "Polvo cantoeterno",
+      "Poussière de chant éternel",
+      "Вечнопоющая пыль",
+      "Ewigsingender Staub",
+      "Pó de Eternelegia",
+      "Polvere di Suoneterno",
+      "영원히 노래하는 가루",
+      "永歌之塵",
+      "永歌之尘"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantingdust_green.jpg"
+  },
+  {
+    "TagId": 243600,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Eversinging Dust",
+      "Polvo cantoeterno",
+      "Pó de Eternelegia",
+      "Eversinging Dust",
+      "Polvo cantoeterno",
+      "Poussière de chant éternel",
+      "Вечнопоющая пыль",
+      "Ewigsingender Staub",
+      "Pó de Eternelegia",
+      "Polvere di Suoneterno",
+      "영원히 노래하는 가루",
+      "永歌之塵",
+      "永歌之尘"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantingdust_green.jpg"
+  },
+  {
     "TagId": 243601,
     "TagType": 21,
     "Names": [
@@ -5521,6 +6424,48 @@
       "奇异的珍玩"
     ],
     "Media": "inv_misc_curiouscoin.jpg"
+  },
+  {
+    "TagId": 243602,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Shard",
+      "Fragmento radiante",
+      "Estilhaço Radiante",
+      "Radiant Shard",
+      "Fragmento radiante",
+      "Éclat radieux",
+      "Лучистый осколок",
+      "Strahlender Splitter",
+      "Estilhaço Radiante",
+      "Scheggia Radiosa",
+      "찬란한 조각",
+      "璀璨裂片",
+      "光耀碎片"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantingshard_blue.jpg"
+  },
+  {
+    "TagId": 243603,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Radiant Shard",
+      "Fragmento radiante",
+      "Estilhaço Radiante",
+      "Radiant Shard",
+      "Fragmento radiante",
+      "Éclat radieux",
+      "Лучистый осколок",
+      "Strahlender Splitter",
+      "Estilhaço Radiante",
+      "Scheggia Radiosa",
+      "찬란한 조각",
+      "璀璨裂片",
+      "光耀碎片"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantingshard_blue.jpg"
   },
   {
     "TagId": 243604,
@@ -5544,6 +6489,48 @@
     "Media": "inv_sword_111.jpg"
   },
   {
+    "TagId": 243605,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dawn Crystal",
+      "Cristal del alba",
+      "Cristal da Aurora",
+      "Dawn Crystal",
+      "Cristal del alba",
+      "Cristal de l’aube",
+      "Кристалл зари",
+      "Dämmerkristall",
+      "Cristal da Aurora",
+      "Cristallo dell'Alba",
+      "여명의 수정",
+      "黎明水晶",
+      "黎明水晶"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantingcrystal_orange.jpg"
+  },
+  {
+    "TagId": 243606,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dawn Crystal",
+      "Cristal del alba",
+      "Cristal da Aurora",
+      "Dawn Crystal",
+      "Cristal del alba",
+      "Cristal de l’aube",
+      "Кристалл зари",
+      "Dämmerkristall",
+      "Cristal da Aurora",
+      "Cristallo dell'Alba",
+      "여명의 수정",
+      "黎明水晶",
+      "黎明水晶"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantingcrystal_orange.jpg"
+  },
+  {
     "TagId": 243607,
     "TagType": 21,
     "Names": [
@@ -5563,6 +6550,1308 @@
       "蒙尘的石板"
     ],
     "Media": "inv_misc_stonetablet_04.jpg"
+  },
+  {
+    "TagId": 243608,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Magisters Reputation",
+      "Reputación con Magísteres",
+      "Reputação com os Magísteres",
+      "Magisters Reputation",
+      "Reputación con los magistri",
+      "Réputation auprès des Magistères",
+      "Репутация с магистрами",
+      "Ruf bei den Magistern",
+      "Reputação com os Magísteres",
+      "Reputazione con i Magistri",
+      "마법학자 평판",
+      "博學者聲望",
+      "魔导师声望"
+    ],
+    "Media": "misc_arrowlup.jpg"
+  },
+  {
+    "TagId": 243609,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blood Knights Reputation",
+      "Reputación con los Caballeros de sangre",
+      "Reputação com os Cavaleiros Sangrentos",
+      "Blood Knights Reputation",
+      "Reputación con los Caballeros de sangre",
+      "Réputation auprès des Chevaliers de sang",
+      "Репутация с рыцарями крови",
+      "Ruf bei den Blutrittern",
+      "Reputação com os Cavaleiros Sangrentos",
+      "Reputazione con i Cavalieri del Sangue",
+      "혈기사 평판",
+      "血騎士聲望",
+      "血骑士声望"
+    ],
+    "Media": "misc_arrowlup.jpg"
+  },
+  {
+    "TagId": 243610,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Farstriders Reputation",
+      "Reputación con los Errantes",
+      "Reputação com os Andarilhos",
+      "Farstriders Reputation",
+      "Reputación con los Errantes",
+      "Réputation auprès des Pérégrins",
+      "Репутация со Странниками",
+      "Ruf bei den Weltenwanderern",
+      "Reputação com os Andarilhos",
+      "Reputazione con i Lungopasso",
+      "원정순찰대 평판",
+      "遠行者聲望",
+      "远行者声望"
+    ],
+    "Media": "misc_arrowlup.jpg"
+  },
+  {
+    "TagId": 243611,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Shades of the Row Reputation",
+      "Reputación con Sombras del Frontal",
+      "Reputação com os Vultos da Travessa",
+      "Shades of the Row Reputation",
+      "Reputación con la Sombra del Frontal",
+      "Réputation auprès des Ombres de l’Allée",
+      "Репутация с Тенями Закоулка",
+      "Ruf bei den Schemen der Gasse",
+      "Reputação com os Vultos da Travessa",
+      "Reputazione con le Ombre della Traversa",
+      "골목의 그늘 평판",
+      "兇殺路之影聲望",
+      "径巷之影声望"
+    ],
+    "Media": "misc_arrowlup.jpg"
+  },
+  {
+    "TagId": 243612,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blood Knights Reputation",
+      "Reputación con los Caballeros de sangre",
+      "Reputação com os Cavaleiros Sangrentos",
+      "Blood Knights Reputation",
+      "Reputación con los Caballeros de sangre",
+      "Réputation auprès des Chevaliers de sang",
+      "Репутация с рыцарями крови",
+      "Ruf bei den Blutrittern",
+      "Reputação com os Cavaleiros Sangrentos",
+      "Reputazione con i Cavalieri del Sangue",
+      "혈기사 평판",
+      "血騎士聲望",
+      "血骑士声望"
+    ],
+    "Media": "misc_arrowdown.jpg"
+  },
+  {
+    "TagId": 243613,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Farstriders Reputation",
+      "Reputación con los Errantes",
+      "Reputação com os Andarilhos",
+      "Farstriders Reputation",
+      "Reputación con los Errantes",
+      "Réputation auprès des Pérégrins",
+      "Репутация со Странниками",
+      "Ruf bei den Weltenwanderern",
+      "Reputação com os Andarilhos",
+      "Reputazione con i Lungopasso",
+      "원정순찰대 평판",
+      "遠行者聲望",
+      "远行者声望"
+    ],
+    "Media": "misc_arrowdown.jpg"
+  },
+  {
+    "TagId": 243614,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Magisters Reputation",
+      "Reputación con Magísteres",
+      "Reputação com os Magísteres",
+      "Magisters Reputation",
+      "Reputación con los magistri",
+      "Réputation auprès des Magistères",
+      "Репутация с магистрами",
+      "Ruf bei den Magistern",
+      "Reputação com os Magísteres",
+      "Reputazione con i Magistri",
+      "마법학자 평판",
+      "博學者聲望",
+      "魔导师声望"
+    ],
+    "Media": "misc_arrowdown.jpg"
+  },
+  {
+    "TagId": 243615,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Shades of the Row Reputation",
+      "Reputación con Sombras del Frontal",
+      "Reputação com os Vultos da Travessa",
+      "Shades of the Row Reputation",
+      "Reputación con la Sombra del Frontal",
+      "Réputation auprès des Ombres de l’Allée",
+      "Репутация с Тенями Закоулка",
+      "Ruf bei den Schemen der Gasse",
+      "Reputação com os Vultos da Travessa",
+      "Reputazione con le Ombre della Traversa",
+      "골목의 그늘 평판",
+      "兇殺路之影聲望",
+      "径巷之影声望"
+    ],
+    "Media": "misc_arrowdown.jpg"
+  },
+  {
+    "TagId": 243733,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Thalassian Phoenix Oil",
+      "Aceite de fénix thalassiano",
+      "Óleo de Fênix Talassiano",
+      "Thalassian Phoenix Oil",
+      "Aceite de fénix thalassiano",
+      "Huile de phénix thalassienne",
+      "Талассийское масло феникса",
+      "Thalassisches Phönixöl",
+      "Óleo de Fênix Talassiano",
+      "Olio di Fenice Thalassiano",
+      "탈라시안 불사조 기름",
+      "薩拉斯鳳凰之油",
+      "萨拉斯凤凰之油"
+    ],
+    "Media": "inv_12_profession_enchanting_manaoil_red.jpg"
+  },
+  {
+    "TagId": 243734,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Thalassian Phoenix Oil",
+      "Aceite de fénix thalassiano",
+      "Óleo de Fênix Talassiano",
+      "Thalassian Phoenix Oil",
+      "Aceite de fénix thalassiano",
+      "Huile de phénix thalassienne",
+      "Талассийское масло феникса",
+      "Thalassisches Phönixöl",
+      "Óleo de Fênix Talassiano",
+      "Olio di Fenice Thalassiano",
+      "탈라시안 불사조 기름",
+      "薩拉斯鳳凰之油",
+      "萨拉斯凤凰之油"
+    ],
+    "Media": "inv_12_profession_enchanting_manaoil_red.jpg"
+  },
+  {
+    "TagId": 243735,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Oil of Dawn",
+      "Aceite del alba",
+      "Óleo da Aurora",
+      "Oil of Dawn",
+      "Aceite del alba",
+      "Huile de l’aube",
+      "Масло зари",
+      "Öl der Morgendämmerung",
+      "Óleo da Aurora",
+      "Olio dell'Alba",
+      "여명의 기름",
+      "黎明之油",
+      "黎明之油"
+    ],
+    "Media": "inv_12_profession_enchanting_manaoil_orange.jpg"
+  },
+  {
+    "TagId": 243736,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Oil of Dawn",
+      "Aceite del alba",
+      "Óleo da Aurora",
+      "Oil of Dawn",
+      "Aceite del alba",
+      "Huile de l’aube",
+      "Масло зари",
+      "Öl der Morgendämmerung",
+      "Óleo da Aurora",
+      "Olio dell'Alba",
+      "여명의 기름",
+      "黎明之油",
+      "黎明之油"
+    ],
+    "Media": "inv_12_profession_enchanting_manaoil_orange.jpg"
+  },
+  {
+    "TagId": 243737,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Smuggler's Enchanted Edge",
+      "Filo encantado de contrabandista",
+      "Gume Encantado do Contrabandista",
+      "Smuggler's Enchanted Edge",
+      "Filo encantado de contrabandista",
+      "Tranchant enchanté de contrebande",
+      "Зачарованная смазка контрабандиста",
+      "Schärfezauber des Schmugglers",
+      "Gume Encantado do Contrabandista",
+      "Affinatura Incantata da Contrabbandiere",
+      "밀수업자의 마력 깃든 칼날",
+      "走私者附魔之鋒",
+      "私运者的附魔之锋"
+    ],
+    "Media": "inv_12_profession_enchanting_manaoil_purple.jpg"
+  },
+  {
+    "TagId": 243738,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Smuggler's Enchanted Edge",
+      "Filo encantado de contrabandista",
+      "Gume Encantado do Contrabandista",
+      "Smuggler's Enchanted Edge",
+      "Filo encantado de contrabandista",
+      "Tranchant enchanté de contrebande",
+      "Зачарованная смазка контрабандиста",
+      "Schärfezauber des Schmugglers",
+      "Gume Encantado do Contrabandista",
+      "Affinatura Incantata da Contrabbandiere",
+      "밀수업자의 마력 깃든 칼날",
+      "走私者附魔之鋒",
+      "私运者的附魔之锋"
+    ],
+    "Media": "inv_12_profession_enchanting_manaoil_purple.jpg"
+  },
+  {
+    "TagId": 243773,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Blood Elf",
+      "Sortilegio jubiloso - Elfo de sangre",
+      "Encanto Espirituoso - Elfo Sangrento",
+      "Gleeful Glamour - Blood Elf",
+      "Encantamiento alegre - Elfo de sangre",
+      "Glamour enjoué\u00A0: Elfe de sang",
+      "Радостные чары – эльф крови",
+      "Freudenzauber - Blutelfen",
+      "Encanto Espirituoso - Elfo Sangrento",
+      "Stile Gioioso - Elfi del Sangue",
+      "쾌활한 비술 - 블러드 엘프",
+      "歡愉魅力 - 血精靈",
+      "欢乐幻魅 - 血精灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243774,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Dark Iron Dwarf",
+      "Sortilegio jubiloso - Enano Hierro Negro",
+      "Encanto Espirituoso - Anão Ferro Negro",
+      "Gleeful Glamour - Dark Iron Dwarf",
+      "Encantamiento alegre - Enano Hierro Negro",
+      "Glamour enjoué\u00A0: Nain sombrefer",
+      "Радостные чары – дворф из клана Черного Железа",
+      "Freudenzauber - Dunkeleisenzwerge",
+      "Encanto Espirituoso - Anão Ferro Negro",
+      "Stile Gioioso - Nani Ferroscuro",
+      "쾌활한 비술 - 검은무쇠 드워프",
+      "歡愉魅力 - 黑鐵矮人",
+      "欢乐幻魅 - 黑铁矮人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243775,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Draenei",
+      "Sortilegio jubiloso - Draenei",
+      "Encanto Espirituoso - Draenei",
+      "Gleeful Glamour - Draenei",
+      "Encantamiento alegre - Draenei",
+      "Glamour enjoué\u00A0: Draeneï",
+      "Радостные чары – дреней",
+      "Freudenzauber - Draenei",
+      "Encanto Espirituoso - Draenei",
+      "Stile Gioioso - Draenei",
+      "쾌활한 비술 - 드레나이",
+      "歡愉魅力 - 德萊尼",
+      "欢乐幻魅 - 德莱尼"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243776,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Dwarf",
+      "Sortilegio jubiloso - Enano",
+      "Encanto Espirituoso - Anão",
+      "Gleeful Glamour - Dwarf",
+      "Encantamiento alegre - Enano",
+      "Glamour enjoué\u00A0: Nain",
+      "Радостные чары – дворф",
+      "Freudenzauber - Zwerge",
+      "Encanto Espirituoso - Anão",
+      "Stile Gioioso - Nani",
+      "쾌활한 비술 - 드워프",
+      "歡愉魅力 - 矮人",
+      "欢乐幻魅 - 矮人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243777,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Earthen",
+      "Sortilegio jubiloso - Terráneo",
+      "Encanto Espirituoso - Terrano",
+      "Gleeful Glamour - Earthen",
+      "Encantamiento alegre - Terráneo",
+      "Glamour enjoué\u00A0: Terrestre",
+      "Радостные чары – земельник",
+      "Freudenzauber - Irdene",
+      "Encanto Espirituoso - Terrano",
+      "Stile Gioioso - Terrigeni",
+      "쾌활한 비술 - 토석인",
+      "歡愉魅力 - 土靈",
+      "欢乐幻魅 - 土灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243778,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Gnome",
+      "Sortilegio jubiloso - Gnomo",
+      "Encanto Espirituoso - Gnomo",
+      "Gleeful Glamour - Gnome",
+      "Encantamiento alegre - Gnomo",
+      "Glamour enjoué\u00A0: Gnome",
+      "Радостные чары – гном",
+      "Freudenzauber - Gnome",
+      "Encanto Espirituoso - Gnomo",
+      "Stile Gioioso - Gnomi",
+      "쾌활한 비술 - 노움",
+      "歡愉魅力 - 地精",
+      "欢乐幻魅 - 侏儒"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243779,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Goblin",
+      "Sortilegio jubiloso - Goblin",
+      "Encanto Espirituoso - Goblin",
+      "Gleeful Glamour - Goblin",
+      "Encantamiento alegre - Goblin",
+      "Glamour enjoué\u00A0: Gobelin",
+      "Радостные чары – гоблин",
+      "Freudenzauber - Goblins",
+      "Encanto Espirituoso - Goblin",
+      "Stile Gioioso - Goblin",
+      "쾌활한 비술 - 고블린",
+      "歡愉魅力 - 哥布林",
+      "欢乐幻魅 - 地精"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243780,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Highmountain Tauren",
+      "Sortilegio jubiloso - Tauren de Altamontaña",
+      "Encanto Espirituoso - Tauren Altamontês",
+      "Gleeful Glamour - Highmountain Tauren",
+      "Encantamiento alegre - Tauren Monte Alto",
+      "Glamour enjoué\u00A0: Tauren de Haut-Roc",
+      "Радостные чары – таурен Крутогорья",
+      "Freudenzauber - Hochbergtauren",
+      "Encanto Espirituoso - Tauren Altamontês",
+      "Stile Gioioso - Tauren di Alto Monte",
+      "쾌활한 비술 - 높은산 타우렌",
+      "歡愉魅力 - 高嶺牛頭人",
+      "欢乐幻魅 - 至高岭牛头人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243781,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Human",
+      "Sortilegio jubiloso - Humano",
+      "Encanto Espirituoso - Humano",
+      "Gleeful Glamour - Human",
+      "Encantamiento alegre - Humano",
+      "Glamour enjoué\u00A0: Humain",
+      "Радостные чары – человек",
+      "Freudenzauber - Menschen",
+      "Encanto Espirituoso - Humano",
+      "Stile Gioioso - Umani",
+      "쾌활한 비술 - 인간",
+      "歡愉魅力 - 人類",
+      "欢乐幻魅 - 人类"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243782,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Kul Tiran",
+      "Sortilegio jubiloso - Kultirano",
+      "Encanto Espirituoso - Kultireno",
+      "Gleeful Glamour - Kul Tiran",
+      "Encantamiento alegre - Kul Tiras",
+      "Glamour enjoué\u00A0: Humain de Kul Tiras",
+      "Радостные чары – култирасец",
+      "Freudenzauber - Kul Tiraner",
+      "Encanto Espirituoso - Kultireno",
+      "Stile Gioioso - Kul Tirani",
+      "쾌활한 비술 - 쿨 티란",
+      "歡愉魅力 - 庫爾提拉斯人",
+      "欢乐幻魅 - 库尔提拉斯人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243783,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Lightforged Draenei",
+      "Sortilegio jubiloso - Draenei templeluz",
+      "Encanto Espirituoso - Draenei Forjado a Luz",
+      "Gleeful Glamour - Lightforged Draenei",
+      "Encantamiento alegre - Draenei forjado por la Luz",
+      "Glamour enjoué\u00A0: Draeneï sancteforge",
+      "Радостные чары – озаренный дреней",
+      "Freudenzauber - Lichtgeschmiedete Draenei",
+      "Encanto Espirituoso - Draenei Forjado a Luz",
+      "Stile Gioioso - Draenei Forgialuce",
+      "쾌활한 비술 - 빛벼림 드레나이",
+      "歡愉魅力 - 光鑄德萊尼",
+      "欢乐幻魅 - 光铸德莱尼"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243784,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Mag'har Orc",
+      "Sortilegio jubiloso - Orco mag'har",
+      "Encanto Espirituoso - Orc Mag'har",
+      "Gleeful Glamour - Mag'har Orc",
+      "Encantamiento alegre - Orco Mag'har",
+      "Glamour enjoué\u00A0: Orc mag’har",
+      "Радостные чары – маг'хар",
+      "Freudenzauber - Mag'har",
+      "Encanto Espirituoso - Orc Mag'har",
+      "Stile Gioioso - Orchi Mag'har",
+      "쾌활한 비술 - 마그하르 오크",
+      "歡愉魅力 - 瑪格哈獸人",
+      "欢乐幻魅 - 玛格汉兽人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243785,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Mechagnome",
+      "Sortilegio jubiloso - Mecagnomo",
+      "Encanto Espirituoso - Gnomecânico",
+      "Gleeful Glamour - Mechagnome",
+      "Encantamiento alegre - Mecagnomo",
+      "Glamour enjoué\u00A0: Mécagnome",
+      "Радостные чары – механогном",
+      "Freudenzauber - Mechagnome",
+      "Encanto Espirituoso - Gnomecânico",
+      "Stile Gioioso - Meccagnomi",
+      "쾌활한 비술 - 기계노움",
+      "歡愉魅力 - 機械地精",
+      "欢乐幻魅 - 机械侏儒"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243786,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Night Elf",
+      "Sortilegio jubiloso - Elfo de la noche",
+      "Encanto Espirituoso - Elfo Noturno",
+      "Gleeful Glamour - Night Elf",
+      "Encantamiento alegre - Elfo de la noche",
+      "Glamour enjoué\u00A0: Elfe de la nuit",
+      "Радостные чары – ночной эльф",
+      "Freudenzauber - Nachtelfen",
+      "Encanto Espirituoso - Elfo Noturno",
+      "Stile Gioioso - Elfi della Notte",
+      "쾌활한 비술 - 나이트 엘프",
+      "歡愉魅力 - 夜精靈",
+      "欢乐幻魅 - 暗夜精灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243787,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Nightborne",
+      "Sortilegio jubiloso - Natonocturno",
+      "Encanto Espirituoso - Filho da Noite",
+      "Gleeful Glamour - Nightborne",
+      "Encantamiento alegre - Nocheterna",
+      "Glamour enjoué\u00A0: Sacrenuit",
+      "Радостные чары – ночнорожденный",
+      "Freudenzauber - Nachtgeborene",
+      "Encanto Espirituoso - Filho da Noite",
+      "Stile Gioioso - Nobili Oscuri",
+      "쾌활한 비술 - 나이트본",
+      "歡愉魅力 - 夜裔",
+      "欢乐幻魅 - 夜之子"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243788,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Orc",
+      "Sortilegio jubiloso - Orco",
+      "Encanto Espirituoso - Orc",
+      "Gleeful Glamour - Orc",
+      "Encantamiento alegre - Orco",
+      "Glamour enjoué\u00A0: Orc",
+      "Радостные чары – орк",
+      "Freudenzauber - Orcs",
+      "Encanto Espirituoso - Orc",
+      "Stile Gioioso - Orchi",
+      "쾌활한 비술 - 오크",
+      "歡愉魅力 - 獸人",
+      "欢乐幻魅 - 兽人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243789,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Pandaren",
+      "Sortilegio jubiloso - Pandaren",
+      "Encanto Espirituoso - Pandaren",
+      "Gleeful Glamour - Pandaren",
+      "Encantamiento alegre - Pandaren",
+      "Glamour enjoué\u00A0: Pandaren",
+      "Радостные чары – пандарен",
+      "Freudenzauber - Pandaren",
+      "Encanto Espirituoso - Pandaren",
+      "Stile Gioioso - Pandaren",
+      "쾌활한 비술 - 판다렌",
+      "歡愉魅力 - 熊貓人",
+      "欢乐幻魅 - 熊猫人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243790,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Tauren",
+      "Sortilegio jubiloso - Tauren",
+      "Encanto Espirituoso - Tauren",
+      "Gleeful Glamour - Tauren",
+      "Encantamiento alegre - Tauren",
+      "Glamour enjoué\u00A0: Tauren",
+      "Радостные чары – таурен",
+      "Freudenzauber - Tauren",
+      "Encanto Espirituoso - Tauren",
+      "Stile Gioioso - Tauren",
+      "쾌활한 비술 - 타우렌",
+      "歡愉魅力 - 牛頭人",
+      "欢乐幻魅 - 牛头人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243791,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Troll",
+      "Sortilegio jubiloso - Trol",
+      "Encanto Espirituoso - Troll",
+      "Gleeful Glamour - Troll",
+      "Encantamiento alegre - Trol",
+      "Glamour enjoué\u00A0: Troll",
+      "Радостные чары – тролль",
+      "Freudenzauber - Trolle",
+      "Encanto Espirituoso - Troll",
+      "Stile Gioioso - Troll",
+      "쾌활한 비술 - 트롤",
+      "歡愉魅力 - 食人妖",
+      "欢乐幻魅 - 巨魔"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243792,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Undead",
+      "Sortilegio jubiloso - No-muerto",
+      "Encanto Espirituoso - Morto-vivo",
+      "Gleeful Glamour - Undead",
+      "Encantamiento alegre - No-muerto",
+      "Glamour enjoué\u00A0: Mort-vivant",
+      "Радостные чары – нежить",
+      "Freudenzauber - Untote",
+      "Encanto Espirituoso - Morto-vivo",
+      "Stile Gioioso - Non Morti",
+      "쾌활한 비술 - 언데드",
+      "歡愉魅力 - 不死族",
+      "欢乐幻魅 - 亡灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243793,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Void Elf",
+      "Sortilegio jubiloso - Elfo del Vacío",
+      "Encanto Espirituoso - Elfo Caótico",
+      "Gleeful Glamour - Void Elf",
+      "Encantamiento alegre - Elfo del Vacío",
+      "Glamour enjoué\u00A0: Elfe du Vide",
+      "Радостные чары – эльф Бездны",
+      "Freudenzauber - Leerenelfen",
+      "Encanto Espirituoso - Elfo Caótico",
+      "Stile Gioioso - Elfi del Vuoto",
+      "쾌활한 비술 - 공허 엘프",
+      "歡愉魅力 - 虛無精靈",
+      "欢乐幻魅 - 虚空精灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243794,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Vulpera",
+      "Sortilegio jubiloso - Vulpera",
+      "Encanto Espirituoso - Vulpera",
+      "Gleeful Glamour - Vulpera",
+      "Encantamiento alegre - Vulpera",
+      "Glamour enjoué\u00A0: Vulpérin",
+      "Радостные чары – вульпера",
+      "Freudenzauber - Vulpera",
+      "Encanto Espirituoso - Vulpera",
+      "Stile Gioioso - Vulpera",
+      "쾌활한 비술 - 불페라",
+      "歡愉魅力 - 狐狸人",
+      "欢乐幻魅 - 狐人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243795,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Worgen",
+      "Sortilegio jubiloso - Huargen",
+      "Encanto Espirituoso - Worgen",
+      "Gleeful Glamour - Worgen",
+      "Encantamiento alegre - Huargen",
+      "Glamour enjoué\u00A0: Worgen",
+      "Радостные чары – ворген",
+      "Freudenzauber - Worgen",
+      "Encanto Espirituoso - Worgen",
+      "Stile Gioioso - Worgen",
+      "쾌활한 비술 - 늑대인간",
+      "歡愉魅力 - 狼人",
+      "欢乐幻魅 - 狼人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243796,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Zandalari Troll",
+      "Sortilegio jubiloso - Trol zandalari",
+      "Encanto Espirituoso - Troll Zandalari",
+      "Gleeful Glamour - Zandalari Troll",
+      "Encantamiento alegre - Trol Zandalari",
+      "Glamour enjoué\u00A0: Troll zandalari",
+      "Радостные чары – зандалар",
+      "Freudenzauber - Zandalaritrolle",
+      "Encanto Espirituoso - Troll Zandalari",
+      "Stile Gioioso - Troll Zandalari",
+      "쾌활한 비술 - 잔달라 트롤",
+      "歡愉魅力 - 贊達拉食人妖",
+      "欢乐幻魅 - 赞达拉巨魔"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243797,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Blood Elf",
+      "Sortilegio jubiloso - Elfo de sangre",
+      "Encanto Espirituoso - Elfo Sangrento",
+      "Gleeful Glamour - Blood Elf",
+      "Encantamiento alegre - Elfo de sangre",
+      "Glamour enjoué\u00A0: Elfe de sang",
+      "Радостные чары – эльф крови",
+      "Freudenzauber - Blutelfen",
+      "Encanto Espirituoso - Elfo Sangrento",
+      "Stile Gioioso - Elfi del Sangue",
+      "쾌활한 비술 - 블러드 엘프",
+      "歡愉魅力 - 血精靈",
+      "欢乐幻魅 - 血精灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243798,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Dark Iron Dwarf",
+      "Sortilegio jubiloso - Enano Hierro Negro",
+      "Encanto Espirituoso - Anão Ferro Negro",
+      "Gleeful Glamour - Dark Iron Dwarf",
+      "Encantamiento alegre - Enano Hierro Negro",
+      "Glamour enjoué\u00A0: Nain sombrefer",
+      "Радостные чары – дворф из клана Черного Железа",
+      "Freudenzauber - Dunkeleisenzwerge",
+      "Encanto Espirituoso - Anão Ferro Negro",
+      "Stile Gioioso - Nani Ferroscuro",
+      "쾌활한 비술 - 검은무쇠 드워프",
+      "歡愉魅力 - 黑鐵矮人",
+      "欢乐幻魅 - 黑铁矮人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243799,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Draenei",
+      "Sortilegio jubiloso - Draenei",
+      "Encanto Espirituoso - Draenei",
+      "Gleeful Glamour - Draenei",
+      "Encantamiento alegre - Draenei",
+      "Glamour enjoué\u00A0: Draeneï",
+      "Радостные чары – дреней",
+      "Freudenzauber - Draenei",
+      "Encanto Espirituoso - Draenei",
+      "Stile Gioioso - Draenei",
+      "쾌활한 비술 - 드레나이",
+      "歡愉魅力 - 德萊尼",
+      "欢乐幻魅 - 德莱尼"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243800,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Dwarf",
+      "Sortilegio jubiloso - Enano",
+      "Encanto Espirituoso - Anão",
+      "Gleeful Glamour - Dwarf",
+      "Encantamiento alegre - Enano",
+      "Glamour enjoué\u00A0: Nain",
+      "Радостные чары – дворф",
+      "Freudenzauber - Zwerge",
+      "Encanto Espirituoso - Anão",
+      "Stile Gioioso - Nani",
+      "쾌활한 비술 - 드워프",
+      "歡愉魅力 - 矮人",
+      "欢乐幻魅 - 矮人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243801,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Earthen",
+      "Sortilegio jubiloso - Terráneo",
+      "Encanto Espirituoso - Terrano",
+      "Gleeful Glamour - Earthen",
+      "Encantamiento alegre - Terráneo",
+      "Glamour enjoué\u00A0: Terrestre",
+      "Радостные чары – земельник",
+      "Freudenzauber - Irdene",
+      "Encanto Espirituoso - Terrano",
+      "Stile Gioioso - Terrigeni",
+      "쾌활한 비술 - 토석인",
+      "歡愉魅力 - 土靈",
+      "欢乐幻魅 - 土灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243802,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Gnome",
+      "Sortilegio jubiloso - Gnomo",
+      "Encanto Espirituoso - Gnomo",
+      "Gleeful Glamour - Gnome",
+      "Encantamiento alegre - Gnomo",
+      "Glamour enjoué\u00A0: Gnome",
+      "Радостные чары – гном",
+      "Freudenzauber - Gnome",
+      "Encanto Espirituoso - Gnomo",
+      "Stile Gioioso - Gnomi",
+      "쾌활한 비술 - 노움",
+      "歡愉魅力 - 地精",
+      "欢乐幻魅 - 侏儒"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243803,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Goblin",
+      "Sortilegio jubiloso - Goblin",
+      "Encanto Espirituoso - Goblin",
+      "Gleeful Glamour - Goblin",
+      "Encantamiento alegre - Goblin",
+      "Glamour enjoué\u00A0: Gobelin",
+      "Радостные чары – гоблин",
+      "Freudenzauber - Goblins",
+      "Encanto Espirituoso - Goblin",
+      "Stile Gioioso - Goblin",
+      "쾌활한 비술 - 고블린",
+      "歡愉魅力 - 哥布林",
+      "欢乐幻魅 - 地精"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243804,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Highmountain Tauren",
+      "Sortilegio jubiloso - Tauren de Altamontaña",
+      "Encanto Espirituoso - Tauren Altamontês",
+      "Gleeful Glamour - Highmountain Tauren",
+      "Encantamiento alegre - Tauren Monte Alto",
+      "Glamour enjoué\u00A0: Tauren de Haut-Roc",
+      "Радостные чары – таурен Крутогорья",
+      "Freudenzauber - Hochbergtauren",
+      "Encanto Espirituoso - Tauren Altamontês",
+      "Stile Gioioso - Tauren di Alto Monte",
+      "쾌활한 비술 - 높은산 타우렌",
+      "歡愉魅力 - 高嶺牛頭人",
+      "欢乐幻魅 - 至高岭牛头人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243805,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Human",
+      "Sortilegio jubiloso - Humano",
+      "Encanto Espirituoso - Humano",
+      "Gleeful Glamour - Human",
+      "Encantamiento alegre - Humano",
+      "Glamour enjoué\u00A0: Humain",
+      "Радостные чары – человек",
+      "Freudenzauber - Menschen",
+      "Encanto Espirituoso - Humano",
+      "Stile Gioioso - Umani",
+      "쾌활한 비술 - 인간",
+      "歡愉魅力 - 人類",
+      "欢乐幻魅 - 人类"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243806,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Kul Tiran",
+      "Sortilegio jubiloso - Kultirano",
+      "Encanto Espirituoso - Kultireno",
+      "Gleeful Glamour - Kul Tiran",
+      "Encantamiento alegre - Kul Tiras",
+      "Glamour enjoué\u00A0: Humain de Kul Tiras",
+      "Радостные чары – култирасец",
+      "Freudenzauber - Kul Tiraner",
+      "Encanto Espirituoso - Kultireno",
+      "Stile Gioioso - Kul Tirani",
+      "쾌활한 비술 - 쿨 티란",
+      "歡愉魅力 - 庫爾提拉斯人",
+      "欢乐幻魅 - 库尔提拉斯人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243807,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Lightforged Draenei",
+      "Sortilegio jubiloso - Draenei templeluz",
+      "Encanto Espirituoso - Draenei Forjado a Luz",
+      "Gleeful Glamour - Lightforged Draenei",
+      "Encantamiento alegre - Draenei forjado por la Luz",
+      "Glamour enjoué\u00A0: Draeneï sancteforge",
+      "Радостные чары – озаренный дреней",
+      "Freudenzauber - Lichtgeschmiedete Draenei",
+      "Encanto Espirituoso - Draenei Forjado a Luz",
+      "Stile Gioioso - Draenei Forgialuce",
+      "쾌활한 비술 - 빛벼림 드레나이",
+      "歡愉魅力 - 光鑄德萊尼",
+      "欢乐幻魅 - 光铸德莱尼"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243808,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Mag'har Orc",
+      "Sortilegio jubiloso - Orco mag'har",
+      "Encanto Espirituoso - Orc Mag'har",
+      "Gleeful Glamour - Mag'har Orc",
+      "Encantamiento alegre - Orco Mag'har",
+      "Glamour enjoué\u00A0: Orc mag’har",
+      "Радостные чары – маг'хар",
+      "Freudenzauber - Mag'har",
+      "Encanto Espirituoso - Orc Mag'har",
+      "Stile Gioioso - Orchi Mag'har",
+      "쾌활한 비술 - 마그하르 오크",
+      "歡愉魅力 - 瑪格哈獸人",
+      "欢乐幻魅 - 玛格汉兽人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243809,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Mechagnome",
+      "Sortilegio jubiloso - Mecagnomo",
+      "Encanto Espirituoso - Gnomecânico",
+      "Gleeful Glamour - Mechagnome",
+      "Encantamiento alegre - Mecagnomo",
+      "Glamour enjoué\u00A0: Mécagnome",
+      "Радостные чары – механогном",
+      "Freudenzauber - Mechagnome",
+      "Encanto Espirituoso - Gnomecânico",
+      "Stile Gioioso - Meccagnomi",
+      "쾌활한 비술 - 기계노움",
+      "歡愉魅力 - 機械地精",
+      "欢乐幻魅 - 机械侏儒"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243810,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Night Elf",
+      "Sortilegio jubiloso - Elfo de la noche",
+      "Encanto Espirituoso - Elfo Noturno",
+      "Gleeful Glamour - Night Elf",
+      "Encantamiento alegre - Elfo de la noche",
+      "Glamour enjoué\u00A0: Elfe de la nuit",
+      "Радостные чары – ночной эльф",
+      "Freudenzauber - Nachtelfen",
+      "Encanto Espirituoso - Elfo Noturno",
+      "Stile Gioioso - Elfi della Notte",
+      "쾌활한 비술 - 나이트 엘프",
+      "歡愉魅力 - 夜精靈",
+      "欢乐幻魅 - 暗夜精灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243811,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Nightborne",
+      "Sortilegio jubiloso - Natonocturno",
+      "Encanto Espirituoso - Filho da Noite",
+      "Gleeful Glamour - Nightborne",
+      "Encantamiento alegre - Nocheterna",
+      "Glamour enjoué\u00A0: Sacrenuit",
+      "Радостные чары – ночнорожденный",
+      "Freudenzauber - Nachtgeborene",
+      "Encanto Espirituoso - Filho da Noite",
+      "Stile Gioioso - Nobili Oscuri",
+      "쾌활한 비술 - 나이트본",
+      "歡愉魅力 - 夜裔",
+      "欢乐幻魅 - 夜之子"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243812,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Orc",
+      "Sortilegio jubiloso - Orco",
+      "Encanto Espirituoso - Orc",
+      "Gleeful Glamour - Orc",
+      "Encantamiento alegre - Orco",
+      "Glamour enjoué\u00A0: Orc",
+      "Радостные чары – орк",
+      "Freudenzauber - Orcs",
+      "Encanto Espirituoso - Orc",
+      "Stile Gioioso - Orchi",
+      "쾌활한 비술 - 오크",
+      "歡愉魅力 - 獸人",
+      "欢乐幻魅 - 兽人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243813,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Pandaren",
+      "Sortilegio jubiloso - Pandaren",
+      "Encanto Espirituoso - Pandaren",
+      "Gleeful Glamour - Pandaren",
+      "Encantamiento alegre - Pandaren",
+      "Glamour enjoué\u00A0: Pandaren",
+      "Радостные чары – пандарен",
+      "Freudenzauber - Pandaren",
+      "Encanto Espirituoso - Pandaren",
+      "Stile Gioioso - Pandaren",
+      "쾌활한 비술 - 판다렌",
+      "歡愉魅力 - 熊貓人",
+      "欢乐幻魅 - 熊猫人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243814,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Tauren",
+      "Sortilegio jubiloso - Tauren",
+      "Encanto Espirituoso - Tauren",
+      "Gleeful Glamour - Tauren",
+      "Encantamiento alegre - Tauren",
+      "Glamour enjoué\u00A0: Tauren",
+      "Радостные чары – таурен",
+      "Freudenzauber - Tauren",
+      "Encanto Espirituoso - Tauren",
+      "Stile Gioioso - Tauren",
+      "쾌활한 비술 - 타우렌",
+      "歡愉魅力 - 牛頭人",
+      "欢乐幻魅 - 牛头人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243815,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Troll",
+      "Sortilegio jubiloso - Trol",
+      "Encanto Espirituoso - Troll",
+      "Gleeful Glamour - Troll",
+      "Encantamiento alegre - Trol",
+      "Glamour enjoué\u00A0: Troll",
+      "Радостные чары – тролль",
+      "Freudenzauber - Trolle",
+      "Encanto Espirituoso - Troll",
+      "Stile Gioioso - Troll",
+      "쾌활한 비술 - 트롤",
+      "歡愉魅力 - 食人妖",
+      "欢乐幻魅 - 巨魔"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243816,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Undead",
+      "Sortilegio jubiloso - No-muerto",
+      "Encanto Espirituoso - Morto-vivo",
+      "Gleeful Glamour - Undead",
+      "Encantamiento alegre - No-muerto",
+      "Glamour enjoué\u00A0: Mort-vivant",
+      "Радостные чары – нежить",
+      "Freudenzauber - Untote",
+      "Encanto Espirituoso - Morto-vivo",
+      "Stile Gioioso - Non Morti",
+      "쾌활한 비술 - 언데드",
+      "歡愉魅力 - 不死族",
+      "欢乐幻魅 - 亡灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243817,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Void Elf",
+      "Sortilegio jubiloso - Elfo del Vacío",
+      "Encanto Espirituoso - Elfo Caótico",
+      "Gleeful Glamour - Void Elf",
+      "Encantamiento alegre - Elfo del Vacío",
+      "Glamour enjoué\u00A0: Elfe du Vide",
+      "Радостные чары – эльф Бездны",
+      "Freudenzauber - Leerenelfen",
+      "Encanto Espirituoso - Elfo Caótico",
+      "Stile Gioioso - Elfi del Vuoto",
+      "쾌활한 비술 - 공허 엘프",
+      "歡愉魅力 - 虛無精靈",
+      "欢乐幻魅 - 虚空精灵"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243818,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Vulpera",
+      "Sortilegio jubiloso - Vulpera",
+      "Encanto Espirituoso - Vulpera",
+      "Gleeful Glamour - Vulpera",
+      "Encantamiento alegre - Vulpera",
+      "Glamour enjoué\u00A0: Vulpérin",
+      "Радостные чары – вульпера",
+      "Freudenzauber - Vulpera",
+      "Encanto Espirituoso - Vulpera",
+      "Stile Gioioso - Vulpera",
+      "쾌활한 비술 - 불페라",
+      "歡愉魅力 - 狐狸人",
+      "欢乐幻魅 - 狐人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243819,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Worgen",
+      "Sortilegio jubiloso - Huargen",
+      "Encanto Espirituoso - Worgen",
+      "Gleeful Glamour - Worgen",
+      "Encantamiento alegre - Huargen",
+      "Glamour enjoué\u00A0: Worgen",
+      "Радостные чары – ворген",
+      "Freudenzauber - Worgen",
+      "Encanto Espirituoso - Worgen",
+      "Stile Gioioso - Worgen",
+      "쾌활한 비술 - 늑대인간",
+      "歡愉魅力 - 狼人",
+      "欢乐幻魅 - 狼人"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
+  },
+  {
+    "TagId": 243820,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gleeful Glamour - Zandalari Troll",
+      "Sortilegio jubiloso - Trol zandalari",
+      "Encanto Espirituoso - Troll Zandalari",
+      "Gleeful Glamour - Zandalari Troll",
+      "Encantamiento alegre - Trol Zandalari",
+      "Glamour enjoué\u00A0: Troll zandalari",
+      "Радостные чары – зандалар",
+      "Freudenzauber - Zandalaritrolle",
+      "Encanto Espirituoso - Troll Zandalari",
+      "Stile Gioioso - Troll Zandalari",
+      "쾌활한 비술 - 잔달라 트롤",
+      "歡愉魅力 - 贊達拉食人妖",
+      "欢乐幻魅 - 赞达拉巨魔"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
   },
   {
     "TagId": 243821,
@@ -5626,5 +7915,1181 @@
       "合约：卡雷什托拉斯"
     ],
     "Media": "inv_10_inscription2_repcontracts_trade_archaeology_apexisscroll_uprez_color1.jpg"
+  },
+  {
+    "TagId": 243844,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Petalwrap Bag",
+      "Bolsa de pétalos",
+      "Bolsa de Pétalas",
+      "Petalwrap Bag",
+      "Bolsa envuelta en pétalos",
+      "Sac en pétalemballe",
+      "Лепестковый мешочек",
+      "Blütenblatttasche",
+      "Bolsa de Pétalas",
+      "Borsa di Petali Avvolti",
+      "꽃잎포장 가방",
+      "纏花背包",
+      "花瓣包裹的背包"
+    ],
+    "Media": "inv_misc_herb_chamlotuspetal.jpg"
+  },
+  {
+    "TagId": 243845,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Petalwrap Sack",
+      "Saco de pétalos",
+      "Saco de Pétalas",
+      "Petalwrap Sack",
+      "Saco envuelto en pétalos",
+      "Grand sac en pétalemballe",
+      "Лепестковая сумка",
+      "Blütenblattsack",
+      "Saco de Pétalas",
+      "Sacca di Petali Avvolti",
+      "꽃잎포장 자루",
+      "纏花袋",
+      "花瓣包裹的行囊"
+    ],
+    "Media": "inv_misc_food_wheat_01.jpg"
+  },
+  {
+    "TagId": 243946,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Chest - Mark of Nalorakk",
+      "Encantar pechera: Marca de Nalorakk",
+      "Encantamento da Marca de Nalorakk - Torso",
+      "Enchant Chest - Mark of Nalorakk",
+      "Encantar torso: Marca de Nalorakk",
+      "Enchantement de plastron – marque de Nalorakk",
+      "Чары для нагрудника – метка Налоракка",
+      "Brust - Zeichen von Nalorakk",
+      "Encantamento da Marca de Nalorakk - Torso",
+      "Incantamento Torso - Marchio di Nalorakk",
+      "가슴보호구 마법부여 - 날로라크의 징표",
+      "附魔胸甲 - 納羅拉克印記",
+      "附魔胸甲 - 纳洛拉克印记"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243947,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Chest - Mark of Nalorakk",
+      "Encantar pechera: Marca de Nalorakk",
+      "Encantamento da Marca de Nalorakk - Torso",
+      "Enchant Chest - Mark of Nalorakk",
+      "Encantar torso: Marca de Nalorakk",
+      "Enchantement de plastron – marque de Nalorakk",
+      "Чары для нагрудника – метка Налоракка",
+      "Brust - Zeichen von Nalorakk",
+      "Encantamento da Marca de Nalorakk - Torso",
+      "Incantamento Torso - Marchio di Nalorakk",
+      "가슴보호구 마법부여 - 날로라크의 징표",
+      "附魔胸甲 - 納羅拉克印記",
+      "附魔胸甲 - 纳洛拉克印记"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243948,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Hex of Leeching",
+      "Encantar yelmo: Maleficio chupasangre",
+      "Encantamento de Bagata Sorvedora - Elmo",
+      "Enchant Helm - Hex of Leeching",
+      "Encantar yelmo: Maleficio de parasitismo",
+      "Enchantement de casque – maléfice de sangsue",
+      "Чары для шлема – сглаз самоисцеления",
+      "Helm - Lebensraubzauber",
+      "Encantamento de Bagata Sorvedora - Elmo",
+      "Incantamento Elmo - Maleficio dell'Assorbimento",
+      "투구 마법부여 - 생기흡수의 사술",
+      "附魔頭盔 - 汲取妖術",
+      "附魔头盔 - 吸血妖术"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243949,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Hex of Leeching",
+      "Encantar yelmo: Maleficio chupasangre",
+      "Encantamento de Bagata Sorvedora - Elmo",
+      "Enchant Helm - Hex of Leeching",
+      "Encantar yelmo: Maleficio de parasitismo",
+      "Enchantement de casque – maléfice de sangsue",
+      "Чары для шлема – сглаз самоисцеления",
+      "Helm - Lebensraubzauber",
+      "Encantamento de Bagata Sorvedora - Elmo",
+      "Incantamento Elmo - Maleficio dell'Assorbimento",
+      "투구 마법부여 - 생기흡수의 사술",
+      "附魔頭盔 - 汲取妖術",
+      "附魔头盔 - 吸血妖术"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243950,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Empowered Hex of Leeching",
+      "Encantar yelmo: Maleficio chupasangre potenciado",
+      "Encantamento de Bagata Sorvedora Potencializada - Elmo",
+      "Enchant Helm - Empowered Hex of Leeching",
+      "Encantar yelmo: Maleficio de parasitismo potenciado",
+      "Enchantement de casque – maléfice de sangsue renforcé",
+      "Чары для шлема – усиленный сглаз самоисцеления",
+      "Helm - Ermächtigter Lebensraubzauber",
+      "Encantamento de Bagata Sorvedora Potencializada - Elmo",
+      "Incantamento Elmo - Maleficio dell'Assorbimento Potenziato",
+      "투구 마법부여 - 강화된 생기흡수의 사술",
+      "附魔頭盔 - 強化汲取妖術",
+      "附魔头盔 - 强化吸血妖术"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243951,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Empowered Hex of Leeching",
+      "Encantar yelmo: Maleficio chupasangre potenciado",
+      "Encantamento de Bagata Sorvedora Potencializada - Elmo",
+      "Enchant Helm - Empowered Hex of Leeching",
+      "Encantar yelmo: Maleficio de parasitismo potenciado",
+      "Enchantement de casque – maléfice de sangsue renforcé",
+      "Чары для шлема – усиленный сглаз самоисцеления",
+      "Helm - Ermächtigter Lebensraubzauber",
+      "Encantamento de Bagata Sorvedora Potencializada - Elmo",
+      "Incantamento Elmo - Maleficio dell'Assorbimento Potenziato",
+      "투구 마법부여 - 강화된 생기흡수의 사술",
+      "附魔頭盔 - 強化汲取妖術",
+      "附魔头盔 - 强化吸血妖术"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243952,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Boots - Lynx's Dexterity",
+      "Encantar botas: Destreza de lince",
+      "Encantamento de Destreza do Lince - Botas",
+      "Enchant Boots - Lynx's Dexterity",
+      "Encantar botas: Destreza de lince",
+      "Enchantement de bottes – dextérité du lynx",
+      "Чары для обуви – рысья стремительность",
+      "Stiefel - Gewandtheit des Luchses",
+      "Encantamento de Destreza do Lince - Botas",
+      "Incantamento Stivali - Destrezza della Lince",
+      "장화 마법부여 - 스라소니의 기민함",
+      "附魔靴子 - 山貓迅敏",
+      "附魔靴子 - 山猫之敏"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243953,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Boots - Lynx's Dexterity",
+      "Encantar botas: Destreza de lince",
+      "Encantamento de Destreza do Lince - Botas",
+      "Enchant Boots - Lynx's Dexterity",
+      "Encantar botas: Destreza de lince",
+      "Enchantement de bottes – dextérité du lynx",
+      "Чары для обуви – рысья стремительность",
+      "Stiefel - Gewandtheit des Luchses",
+      "Encantamento de Destreza do Lince - Botas",
+      "Incantamento Stivali - Destrezza della Lince",
+      "장화 마법부여 - 스라소니의 기민함",
+      "附魔靴子 - 山貓迅敏",
+      "附魔靴子 - 山猫之敏"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243954,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Amani Mastery",
+      "Encantar anillo: Maestría amani",
+      "Encantamento de Maestria Amani - Anel",
+      "Enchant Ring - Amani Mastery",
+      "Encantar anillo: Maestría Amani",
+      "Enchantement d’anneau – maîtrise amani",
+      "Чары для кольца – аманийская искусность",
+      "Ring - Amanimeisterschaft",
+      "Encantamento de Maestria Amani - Anel",
+      "Incantamento Anello - Maestria degli Amani",
+      "반지 마법부여 - 아마니의 특화",
+      "附魔戒指 - 阿曼尼精通",
+      "附魔戒指 - 阿曼尼精通"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243955,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Amani Mastery",
+      "Encantar anillo: Maestría amani",
+      "Encantamento de Maestria Amani - Anel",
+      "Enchant Ring - Amani Mastery",
+      "Encantar anillo: Maestría Amani",
+      "Enchantement d’anneau – maîtrise amani",
+      "Чары для кольца – аманийская искусность",
+      "Ring - Amanimeisterschaft",
+      "Encantamento de Maestria Amani - Anel",
+      "Incantamento Anello - Maestria degli Amani",
+      "반지 마법부여 - 아마니의 특화",
+      "附魔戒指 - 阿曼尼精通",
+      "附魔戒指 - 阿曼尼精通"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243956,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Eyes of the Eagle",
+      "Encantar anillo: Ojos del águila",
+      "Encantamento de Olhos da Águia - Anel",
+      "Enchant Ring - Eyes of the Eagle",
+      "Encantar anillo: Ojos del águila",
+      "Enchantement d’anneau – yeux de l’aigle",
+      "Чары для кольца – глаза орла",
+      "Ring - Augen des Adlers",
+      "Encantamento de Olhos da Águia - Anel",
+      "Incantamento Anello - Occhi dell'Aquila",
+      "반지 마법부여 - 독수리의 눈",
+      "附魔戒指 - 老鷹之眼",
+      "附魔戒指 - 鹰眼神视"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243957,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Eyes of the Eagle",
+      "Encantar anillo: Ojos del águila",
+      "Encantamento de Olhos da Águia - Anel",
+      "Enchant Ring - Eyes of the Eagle",
+      "Encantar anillo: Ojos del águila",
+      "Enchantement d’anneau – yeux de l’aigle",
+      "Чары для кольца – глаза орла",
+      "Ring - Augen des Adlers",
+      "Encantamento de Olhos da Águia - Anel",
+      "Incantamento Anello - Occhi dell'Aquila",
+      "반지 마법부여 - 독수리의 눈",
+      "附魔戒指 - 老鷹之眼",
+      "附魔戒指 - 鹰眼神视"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243958,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Zul'jins Mastery",
+      "Encantar anillo: Maestría de Zul'jin",
+      "Encantamento de Maestria de Zul'jin - Anel",
+      "Enchant Ring - Zul'jins Mastery",
+      "Encantar anillo: Maestría de Zul'jin",
+      "Enchantement d’anneau – maîtrise de Zul’jin",
+      "Чары для кольца – искусность Зул'джина",
+      "Ring - Zul'jins Meisterschaft",
+      "Encantamento de Maestria de Zul'jin - Anel",
+      "Incantamento Anello - Maestria di Zul'jin",
+      "반지 마법부여 - 줄진의 특화",
+      "附魔戒指 - 祖爾金精通",
+      "附魔戒指 - 祖尔金的精通"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243959,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Zul'jins Mastery",
+      "Encantar anillo: Maestría de Zul'jin",
+      "Encantamento de Maestria de Zul'jin - Anel",
+      "Enchant Ring - Zul'jins Mastery",
+      "Encantar anillo: Maestría de Zul'jin",
+      "Enchantement d’anneau – maîtrise de Zul’jin",
+      "Чары для кольца – искусность Зул'джина",
+      "Ring - Zul'jins Meisterschaft",
+      "Encantamento de Maestria de Zul'jin - Anel",
+      "Incantamento Anello - Maestria di Zul'jin",
+      "반지 마법부여 - 줄진의 특화",
+      "附魔戒指 - 祖爾金精通",
+      "附魔戒指 - 祖尔金的精通"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243960,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Flight of the Eagle",
+      "Encantar sobrehombros: Vuelo del águila",
+      "Encantamento do Voo da Águia - Ombros",
+      "Enchant Shoulders - Flight of the Eagle",
+      "Encantar hombros: Vuelo del águila",
+      "Enchantement d’épaulières – Vol de l’aigle",
+      "Чары для наплечников – полет орла",
+      "Schultern - Flug des Adlers",
+      "Encantamento do Voo da Águia - Ombros",
+      "Incantamento Spalle - Volo dell'Aquila",
+      "어깨보호구 마법부여 - 독수리의 비행",
+      "附魔肩膀 - 老鷹之翔",
+      "附魔护肩 - 鹰翔长空"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243961,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Flight of the Eagle",
+      "Encantar sobrehombros: Vuelo del águila",
+      "Encantamento do Voo da Águia - Ombros",
+      "Enchant Shoulders - Flight of the Eagle",
+      "Encantar hombros: Vuelo del águila",
+      "Enchantement d’épaulières – Vol de l’aigle",
+      "Чары для наплечников – полет орла",
+      "Schultern - Flug des Adlers",
+      "Encantamento do Voo da Águia - Ombros",
+      "Incantamento Spalle - Volo dell'Aquila",
+      "어깨보호구 마법부여 - 독수리의 비행",
+      "附魔肩膀 - 老鷹之翔",
+      "附魔护肩 - 鹰翔长空"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243962,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Akil'zon's Celerity",
+      "Encantar sobrehombros: Celeridad de Akil'zon",
+      "Encantamento da Rapidez de Akil'zon - Ombros",
+      "Enchant Shoulders - Akil'zon's Celerity",
+      "Encantar hombros: Celeridad de Akil'zon",
+      "Enchantement d’épaulières – Célérité d’Akil’zon",
+      "Чары для наплечников – проворство Акил'зон",
+      "Schultern - Akil'zons Schnelligkeit",
+      "Encantamento da Rapidez de Akil'zon - Ombros",
+      "Incantamento Spalle - Rapidità di Akil'zon",
+      "어깨보호구 마법부여 - 아킬존의 기민함",
+      "附魔肩膀 - 阿奇爾森的迅敏",
+      "附魔护肩 - 埃基尔松的迅疾"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243963,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Akil'zon's Celerity",
+      "Encantar sobrehombros: Celeridad de Akil'zon",
+      "Encantamento da Rapidez de Akil'zon - Ombros",
+      "Enchant Shoulders - Akil'zon's Celerity",
+      "Encantar hombros: Celeridad de Akil'zon",
+      "Enchantement d’épaulières – Célérité d’Akil’zon",
+      "Чары для наплечников – проворство Акил'зон",
+      "Schultern - Akil'zons Schnelligkeit",
+      "Encantamento da Rapidez de Akil'zon - Ombros",
+      "Incantamento Spalle - Rapidità di Akil'zon",
+      "어깨보호구 마법부여 - 아킬존의 기민함",
+      "附魔肩膀 - 阿奇爾森的迅敏",
+      "附魔护肩 - 埃基尔松的迅疾"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243964,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Amani Perception",
+      "Encantar herramienta: Percepción amani",
+      "Encantamento de Percepção Amani - Ferramenta",
+      "Enchant Tool - Amani Perception",
+      "Encantar herramienta: Percepción Amani",
+      "Enchantement d’outil – perception amani",
+      "Зачарование инструментов – аманийская внимательность",
+      "Werkzeug - Amaniwahrnehmung",
+      "Encantamento de Percepção Amani - Ferramenta",
+      "Incantamento Attrezzo - Percezione degli Amani",
+      "도구 마법부여 - 아마니의 인지력",
+      "附魔工具 - 阿曼尼感知",
+      "附魔工具 - 阿曼尼感知"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243965,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Amani Perception",
+      "Encantar herramienta: Percepción amani",
+      "Encantamento de Percepção Amani - Ferramenta",
+      "Enchant Tool - Amani Perception",
+      "Encantar herramienta: Percepción Amani",
+      "Enchantement d’outil – perception amani",
+      "Зачарование инструментов – аманийская внимательность",
+      "Werkzeug - Amaniwahrnehmung",
+      "Encantamento de Percepção Amani - Ferramenta",
+      "Incantamento Attrezzo - Percezione degli Amani",
+      "도구 마법부여 - 아마니의 인지력",
+      "附魔工具 - 阿曼尼感知",
+      "附魔工具 - 阿曼尼感知"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243966,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Amani Resourcefulness",
+      "Encantar herramienta: Inventiva amani",
+      "Encantamento de Desenvoltura Amani - Ferramenta",
+      "Enchant Tool - Amani Resourcefulness",
+      "Encantar herramienta: Ingenio Amani",
+      "Enchantement d’outil – ingéniosité amani",
+      "Зачарование инструментов – аманийская находчивость",
+      "Werkzeug - Amanieinfallsreichtum",
+      "Encantamento de Desenvoltura Amani - Ferramenta",
+      "Incantamento Attrezzo - Parsimonia degli Amani",
+      "도구 마법부여 - 아마니의 지혜",
+      "附魔工具 - 阿曼尼精明",
+      "附魔工具 - 阿曼尼充裕"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243967,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Amani Resourcefulness",
+      "Encantar herramienta: Inventiva amani",
+      "Encantamento de Desenvoltura Amani - Ferramenta",
+      "Enchant Tool - Amani Resourcefulness",
+      "Encantar herramienta: Ingenio Amani",
+      "Enchantement d’outil – ingéniosité amani",
+      "Зачарование инструментов – аманийская находчивость",
+      "Werkzeug - Amanieinfallsreichtum",
+      "Encantamento de Desenvoltura Amani - Ferramenta",
+      "Incantamento Attrezzo - Parsimonia degli Amani",
+      "도구 마법부여 - 아마니의 지혜",
+      "附魔工具 - 阿曼尼精明",
+      "附魔工具 - 阿曼尼充裕"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243968,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Strength of Halazzi",
+      "Encantar arma: Fuerza de Halazzi",
+      "Encantamento de Força de Halazzi - Arma",
+      "Enchant Weapon - Strength of Halazzi",
+      "Encantar arma: Fuerza de Halazzi",
+      "Enchantement d’arme – force d’Halazzi",
+      "Чары для оружия – сила Халаззи",
+      "Waffe - Halazzis Stärke",
+      "Encantamento de Força de Halazzi - Arma",
+      "Incantamento Arma - Forza di Halazzi",
+      "무기 마법부여 - 할라지의 힘",
+      "附魔武器 - 哈拉齊的力量",
+      "附魔武器 - 哈尔拉兹之力"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243969,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Strength of Halazzi",
+      "Encantar arma: Fuerza de Halazzi",
+      "Encantamento de Força de Halazzi - Arma",
+      "Enchant Weapon - Strength of Halazzi",
+      "Encantar arma: Fuerza de Halazzi",
+      "Enchantement d’arme – force d’Halazzi",
+      "Чары для оружия – сила Халаззи",
+      "Waffe - Halazzis Stärke",
+      "Encantamento de Força de Halazzi - Arma",
+      "Incantamento Arma - Forza di Halazzi",
+      "무기 마법부여 - 할라지의 힘",
+      "附魔武器 - 哈拉齊的力量",
+      "附魔武器 - 哈尔拉兹之力"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243970,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Jan'alai's Precision",
+      "Encantar arma: Precisión de Jan'alai",
+      "Encantamento de Precisão de Jan'alai - Arma",
+      "Enchant Weapon - Jan'alai's Precision",
+      "Encantar arma: Precisión de Jan'alai",
+      "Enchantement d’arme – précision de Jan’alai",
+      "Чары для оружия – точность Джан'алай",
+      "Waffe - Jan'alais Präzision",
+      "Encantamento de Precisão de Jan'alai - Arma",
+      "Incantamento Arma - Precisione di Jan'alai",
+      "무기 마법부여 - 잔알라이의 정밀함",
+      "附魔武器 - 賈納雷的精準",
+      "附魔武器 - 加亚莱的精准"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243971,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Jan'alai's Precision",
+      "Encantar arma: Precisión de Jan'alai",
+      "Encantamento de Precisão de Jan'alai - Arma",
+      "Enchant Weapon - Jan'alai's Precision",
+      "Encantar arma: Precisión de Jan'alai",
+      "Enchantement d’arme – précision de Jan’alai",
+      "Чары для оружия – точность Джан'алай",
+      "Waffe - Jan'alais Präzision",
+      "Encantamento de Precisão de Jan'alai - Arma",
+      "Incantamento Arma - Precisione di Jan'alai",
+      "무기 마법부여 - 잔알라이의 정밀함",
+      "附魔武器 - 賈納雷的精準",
+      "附魔武器 - 加亚莱的精准"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243972,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Berserker's Rage",
+      "Encantar arma: Ira del rabioso",
+      "Encantamento de Raiva Incontrolada - Arma",
+      "Enchant Weapon - Berserker's Rage",
+      "Encantar arma: Ira de rabioso",
+      "Enchantement d’arme – rage du berserker",
+      "Чары для оружия – ярость берсерка",
+      "Waffe - Berserkerwut",
+      "Encantamento de Raiva Incontrolada - Arma",
+      "Incantamento Arma - Rabbia del Berserker",
+      "무기 마법부여 - 광전사의 분노",
+      "附魔武器 - 狂戰士之怒",
+      "附魔武器 - 狂战士之怒"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243973,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Berserker's Rage",
+      "Encantar arma: Ira del rabioso",
+      "Encantamento de Raiva Incontrolada - Arma",
+      "Enchant Weapon - Berserker's Rage",
+      "Encantar arma: Ira de rabioso",
+      "Enchantement d’arme – rage du berserker",
+      "Чары для оружия – ярость берсерка",
+      "Waffe - Berserkerwut",
+      "Encantamento de Raiva Incontrolada - Arma",
+      "Incantamento Arma - Rabbia del Berserker",
+      "무기 마법부여 - 광전사의 분노",
+      "附魔武器 - 狂戰士之怒",
+      "附魔武器 - 狂战士之怒"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243974,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Chest - Mark of the Rootwarden",
+      "Encantar pechera: Marca del guardarraíces",
+      "Encantamento da Marca do Guardirraiz - Torso",
+      "Enchant Chest - Mark of the Rootwarden",
+      "Encantar torso: Marca del celador de raíces",
+      "Enchantement de plastron – marque de garde-racines",
+      "Чары для нагрудника – метка корнестража",
+      "Brust - Zeichen des Wurzelhüters",
+      "Encantamento da Marca do Guardirraiz - Torso",
+      "Incantamento Torso - Marchio del Guardaradici",
+      "가슴보호구 마법부여 - 뿌리감시관의 징표",
+      "附魔胸甲 - 根莖守望者印記",
+      "附魔胸甲 - 护根者印记"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243975,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Chest - Mark of the Rootwarden",
+      "Encantar pechera: Marca del guardarraíces",
+      "Encantamento da Marca do Guardirraiz - Torso",
+      "Enchant Chest - Mark of the Rootwarden",
+      "Encantar torso: Marca del celador de raíces",
+      "Enchantement de plastron – marque de garde-racines",
+      "Чары для нагрудника – метка корнестража",
+      "Brust - Zeichen des Wurzelhüters",
+      "Encantamento da Marca do Guardirraiz - Torso",
+      "Incantamento Torso - Marchio del Guardaradici",
+      "가슴보호구 마법부여 - 뿌리감시관의 징표",
+      "附魔胸甲 - 根莖守望者印記",
+      "附魔胸甲 - 护根者印记"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243976,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Chest - Mark of the Worldsoul",
+      "Encantar pechera: Marca del alma del mundo",
+      "Encantamento da Marca da Alma do Mundo - Torso",
+      "Enchant Chest - Mark of the Worldsoul",
+      "Encantar torso: Marca del alma-mundo",
+      "Enchantement de plastron – marque de l’Âme-monde",
+      "Чары для нагрудника – метка души мира",
+      "Brust - Zeichen der Weltenseele",
+      "Encantamento da Marca da Alma do Mundo - Torso",
+      "Incantamento Torso - Marchio dell'Anima del Mondo",
+      "가슴보호구 마법부여 - 세계혼의 징표",
+      "附魔胸甲 - 世界之魂印記",
+      "附魔胸甲 - 世界之魂印记"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243977,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Chest - Mark of the Worldsoul",
+      "Encantar pechera: Marca del alma del mundo",
+      "Encantamento da Marca da Alma do Mundo - Torso",
+      "Enchant Chest - Mark of the Worldsoul",
+      "Encantar torso: Marca del alma-mundo",
+      "Enchantement de plastron – marque de l’Âme-monde",
+      "Чары для нагрудника – метка души мира",
+      "Brust - Zeichen der Weltenseele",
+      "Encantamento da Marca da Alma do Mundo - Torso",
+      "Incantamento Torso - Marchio dell'Anima del Mondo",
+      "가슴보호구 마법부여 - 세계혼의 징표",
+      "附魔胸甲 - 世界之魂印記",
+      "附魔胸甲 - 世界之魂印记"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243978,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad",
+      "Encantamento da Bênção da Velocidade - Elmo",
+      "Enchant Helm - Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad",
+      "Enchantement de heaume – bénédiction de vitesse",
+      "Чары для шлема – благословение скорости",
+      "Helm - Segen der Geschwindigkeit",
+      "Encantamento da Bênção da Velocidade - Elmo",
+      "Incantamento Elmo - Benedizione della Velocità",
+      "투구 마법부여 - 속도의 축복",
+      "附魔頭盔 - 速度祝福",
+      "附魔头盔 - 加速祝福"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243979,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad",
+      "Encantamento da Bênção da Velocidade - Elmo",
+      "Enchant Helm - Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad",
+      "Enchantement de heaume – bénédiction de vitesse",
+      "Чары для шлема – благословение скорости",
+      "Helm - Segen der Geschwindigkeit",
+      "Encantamento da Bênção da Velocidade - Elmo",
+      "Incantamento Elmo - Benedizione della Velocità",
+      "투구 마법부여 - 속도의 축복",
+      "附魔頭盔 - 速度祝福",
+      "附魔头盔 - 加速祝福"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243980,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Empowered Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad potenciada",
+      "Encantamento da Bênção da Velocidade Potencializada - Elmo",
+      "Enchant Helm - Empowered Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad potenciada",
+      "Enchantement de heaume – bénédiction de vitesse renforcée",
+      "Чары для шлема – усиленное благословение скорости",
+      "Helm - Ermächtigter Segen der Geschwindigkeit",
+      "Encantamento da Bênção da Velocidade Potencializada - Elmo",
+      "Incantamento Elmo - Benedizione della Velocità Potenziata",
+      "투구 마법부여 - 강화된 속도의 축복",
+      "附魔頭盔 - 強化速度祝福",
+      "附魔头盔 - 强化加速祝福"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243981,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Helm - Empowered Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad potenciada",
+      "Encantamento da Bênção da Velocidade Potencializada - Elmo",
+      "Enchant Helm - Empowered Blessing of Speed",
+      "Encantar yelmo: Bendición de velocidad potenciada",
+      "Enchantement de heaume – bénédiction de vitesse renforcée",
+      "Чары для шлема – усиленное благословение скорости",
+      "Helm - Ermächtigter Segen der Geschwindigkeit",
+      "Encantamento da Bênção da Velocidade Potencializada - Elmo",
+      "Incantamento Elmo - Benedizione della Velocità Potenziata",
+      "투구 마법부여 - 강화된 속도의 축복",
+      "附魔頭盔 - 強化速度祝福",
+      "附魔头盔 - 强化加速祝福"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243982,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Boots - Shaladrassil's Roots",
+      "Encantar botas: Raíces de Shaladrassil",
+      "Encantamento das Raízes de Shaladrassil - Botas",
+      "Enchant Boots - Shaladrassil's Roots",
+      "Encantar botas: Raíces de Shaladrassil",
+      "Enchantement de bottes – racines de Shaladrassil",
+      "Чары для обуви – корни Шаладрассила",
+      "Stiefel - Shaladrassils Wurzeln",
+      "Encantamento das Raízes de Shaladrassil - Botas",
+      "Incantamento Stivali - Radici di Shaladrassil",
+      "장화 마법부여 - 샬라드라실의 뿌리",
+      "附魔靴子 - 夏達希爾之根",
+      "附魔靴子 - 莎拉达希尔之根"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243983,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Boots - Shaladrassil's Roots",
+      "Encantar botas: Raíces de Shaladrassil",
+      "Encantamento das Raízes de Shaladrassil - Botas",
+      "Enchant Boots - Shaladrassil's Roots",
+      "Encantar botas: Raíces de Shaladrassil",
+      "Enchantement de bottes – racines de Shaladrassil",
+      "Чары для обуви – корни Шаладрассила",
+      "Stiefel - Shaladrassils Wurzeln",
+      "Encantamento das Raízes de Shaladrassil - Botas",
+      "Incantamento Stivali - Radici di Shaladrassil",
+      "장화 마법부여 - 샬라드라실의 뿌리",
+      "附魔靴子 - 夏達希爾之根",
+      "附魔靴子 - 莎拉达希尔之根"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243984,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Nature's Wrath",
+      "Encantar anillo: Ira de la naturaleza",
+      "Encantamento da Cólera da Natureza - Anel",
+      "Enchant Ring - Nature's Wrath",
+      "Encantar anillo: Cólera de la Naturaleza",
+      "Enchantement d’anneau – courroux de la nature",
+      "Чары для кольца – ярость природы",
+      "Ring - Zorn der Natur",
+      "Encantamento da Cólera da Natureza - Anel",
+      "Incantamento Anello - Ira Naturale",
+      "반지 마법부여 - 자연의 천벌",
+      "附魔戒指 - 自然憤怒",
+      "附魔戒指 - 自然之愤"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243985,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Nature's Wrath",
+      "Encantar anillo: Ira de la naturaleza",
+      "Encantamento da Cólera da Natureza - Anel",
+      "Enchant Ring - Nature's Wrath",
+      "Encantar anillo: Cólera de la Naturaleza",
+      "Enchantement d’anneau – courroux de la nature",
+      "Чары для кольца – ярость природы",
+      "Ring - Zorn der Natur",
+      "Encantamento da Cólera da Natureza - Anel",
+      "Incantamento Anello - Ira Naturale",
+      "반지 마법부여 - 자연의 천벌",
+      "附魔戒指 - 自然憤怒",
+      "附魔戒指 - 自然之愤"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243986,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Nature's Fury",
+      "Encantar anillo: Furia de la naturaleza",
+      "Encantamento da Fúria da Natureza - Anel",
+      "Enchant Ring - Nature's Fury",
+      "Encantar anillo: Furia de la Naturaleza",
+      "Enchantement d’anneau – fureur de la nature",
+      "Чары для кольца – гнев природы",
+      "Ring - Furor der Natur",
+      "Encantamento da Fúria da Natureza - Anel",
+      "Incantamento Anello - Furia della Natura",
+      "반지 마법부여 - 자연의 격노",
+      "附魔戒指 - 自然之怒",
+      "附魔戒指 - 自然之怒"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243987,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Ring - Nature's Fury",
+      "Encantar anillo: Furia de la naturaleza",
+      "Encantamento da Fúria da Natureza - Anel",
+      "Enchant Ring - Nature's Fury",
+      "Encantar anillo: Furia de la Naturaleza",
+      "Enchantement d’anneau – fureur de la nature",
+      "Чары для кольца – гнев природы",
+      "Ring - Furor der Natur",
+      "Encantamento da Fúria da Natureza - Anel",
+      "Incantamento Anello - Furia della Natura",
+      "반지 마법부여 - 자연의 격노",
+      "附魔戒指 - 自然之怒",
+      "附魔戒指 - 自然之怒"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243988,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Nature's Grace",
+      "Encantar sobrehombros: Gracia de la Naturaleza",
+      "Encantamento da Graça da Natureza - Ombros",
+      "Enchant Shoulders - Nature's Grace",
+      "Encantar hombros: Gracia de la Naturaleza",
+      "Enchantement d’épaulières – Grâce de la nature",
+      "Чары для наплечников – милость природы",
+      "Schultern - Anmut der Natur",
+      "Encantamento da Graça da Natureza - Ombros",
+      "Incantamento Spalle - Grazia della Natura",
+      "어깨보호구 마법부여 - 자연의 은혜",
+      "附魔肩膀 - 自然之賜",
+      "附魔护肩 - 自然的优雅"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243989,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Nature's Grace",
+      "Encantar sobrehombros: Gracia de la Naturaleza",
+      "Encantamento da Graça da Natureza - Ombros",
+      "Enchant Shoulders - Nature's Grace",
+      "Encantar hombros: Gracia de la Naturaleza",
+      "Enchantement d’épaulières – Grâce de la nature",
+      "Чары для наплечников – милость природы",
+      "Schultern - Anmut der Natur",
+      "Encantamento da Graça da Natureza - Ombros",
+      "Incantamento Spalle - Grazia della Natura",
+      "어깨보호구 마법부여 - 자연의 은혜",
+      "附魔肩膀 - 自然之賜",
+      "附魔护肩 - 自然的优雅"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_green.jpg"
+  },
+  {
+    "TagId": 243990,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Amirdrassil's Grace",
+      "Encantar sobrehombros: Gracia de Amirdrassil",
+      "Encantamento da Graça de Amirdrassil - Ombros",
+      "Enchant Shoulders - Amirdrassil's Grace",
+      "Encantar hombros: Gracia de Amirdrassil",
+      "Enchantement d’épaulières – Grâce d’Amirdrassil",
+      "Чары для наплечников – милость Амирдрассила",
+      "Schultern - Amirdrassils Anmut",
+      "Encantamento da Graça de Amirdrassil - Ombros",
+      "Incantamento Spalle - Grazia di Amirdrassil",
+      "어깨보호구 마법부여 - 아미드랏실의 은혜",
+      "附魔肩膀 - 埃達希爾之賜",
+      "附魔护肩 - 阿梅达希尔之赐"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243991,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Shoulders - Amirdrassil's Grace",
+      "Encantar sobrehombros: Gracia de Amirdrassil",
+      "Encantamento da Graça de Amirdrassil - Ombros",
+      "Enchant Shoulders - Amirdrassil's Grace",
+      "Encantar hombros: Gracia de Amirdrassil",
+      "Enchantement d’épaulières – Grâce d’Amirdrassil",
+      "Чары для наплечников – милость Амирдрассила",
+      "Schultern - Amirdrassils Anmut",
+      "Encantamento da Graça de Amirdrassil - Ombros",
+      "Incantamento Spalle - Grazia di Amirdrassil",
+      "어깨보호구 마법부여 - 아미드랏실의 은혜",
+      "附魔肩膀 - 埃達希爾之賜",
+      "附魔护肩 - 阿梅达希尔之赐"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243992,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Haranir Finesse",
+      "Encantar herramienta: Delicadeza haranir",
+      "Encantamento de Finesse Haranir - Ferramenta",
+      "Enchant Tool - Haranir Finesse",
+      "Encantar herramienta: Sutileza haranir",
+      "Enchantement d’outil – finesse haranir",
+      "Зачарование инструментов – харанирская точность",
+      "Werkzeug - Haranirfinesse",
+      "Encantamento de Finesse Haranir - Ferramenta",
+      "Incantamento Attrezzo - Precisione degli Haranir",
+      "도구 마법부여 - 하라니르의 기교",
+      "附魔工具 - 哈拉尼爾技法",
+      "附魔工具 - 哈籁尼尔精细"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243993,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Haranir Finesse",
+      "Encantar herramienta: Delicadeza haranir",
+      "Encantamento de Finesse Haranir - Ferramenta",
+      "Enchant Tool - Haranir Finesse",
+      "Encantar herramienta: Sutileza haranir",
+      "Enchantement d’outil – finesse haranir",
+      "Зачарование инструментов – харанирская точность",
+      "Werkzeug - Haranirfinesse",
+      "Encantamento de Finesse Haranir - Ferramenta",
+      "Incantamento Attrezzo - Precisione degli Haranir",
+      "도구 마법부여 - 하라니르의 기교",
+      "附魔工具 - 哈拉尼爾技法",
+      "附魔工具 - 哈籁尼尔精细"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243994,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Haranir Multicrafting",
+      "Encantar herramienta: Fabricación múltiple haranir",
+      "Encantamento de Multicriação Haranir - Ferramenta",
+      "Enchant Tool - Haranir Multicrafting",
+      "Encantar herramienta: Multifabricación haranir",
+      "Enchantement d’outil – fabrication multiple haranir",
+      "Зачарование инструментов – харанирское перепроизводство",
+      "Werkzeug - Mehrfachherstellung der Haranir",
+      "Encantamento de Multicriação Haranir - Ferramenta",
+      "Incantamento Attrezzo - Creazione Multipla degli Haranir",
+      "도구 마법부여 - 하라니르의 복수 제작",
+      "附魔工具 - 哈拉尼爾複數製造",
+      "附魔工具 - 哈籁尼尔产能"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243995,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Tool - Haranir Multicrafting",
+      "Encantar herramienta: Fabricación múltiple haranir",
+      "Encantamento de Multicriação Haranir - Ferramenta",
+      "Enchant Tool - Haranir Multicrafting",
+      "Encantar herramienta: Multifabricación haranir",
+      "Enchantement d’outil – fabrication multiple haranir",
+      "Зачарование инструментов – харанирское перепроизводство",
+      "Werkzeug - Mehrfachherstellung der Haranir",
+      "Encantamento de Multicriação Haranir - Ferramenta",
+      "Incantamento Attrezzo - Creazione Multipla degli Haranir",
+      "도구 마법부여 - 하라니르의 복수 제작",
+      "附魔工具 - 哈拉尼爾複數製造",
+      "附魔工具 - 哈籁尼尔产能"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_blue.jpg"
+  },
+  {
+    "TagId": 243996,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Worldsoul Cradle",
+      "Encantar arma: Cuna del alma del mundo",
+      "Encantamento de Berço da Alma do Mundo - Arma",
+      "Enchant Weapon - Worldsoul Cradle",
+      "Encantar arma: Cuna del alma-mundo",
+      "Enchantement d’arme – berceau d’Âme-monde",
+      "Чары для оружия – колыбель души мира",
+      "Waffe - Weltenseelenwiege",
+      "Encantamento de Berço da Alma do Mundo - Arma",
+      "Incantamento Arma - Culla dell'Anima del Mondo",
+      "무기 마법부여 - 세계혼의 요람",
+      "附魔武器 - 世界之魂搖籃",
+      "附魔武器 - 世界之魂的摇篮"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243997,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Worldsoul Cradle",
+      "Encantar arma: Cuna del alma del mundo",
+      "Encantamento de Berço da Alma do Mundo - Arma",
+      "Enchant Weapon - Worldsoul Cradle",
+      "Encantar arma: Cuna del alma-mundo",
+      "Enchantement d’arme – berceau d’Âme-monde",
+      "Чары для оружия – колыбель души мира",
+      "Waffe - Weltenseelenwiege",
+      "Encantamento de Berço da Alma do Mundo - Arma",
+      "Incantamento Arma - Culla dell'Anima del Mondo",
+      "무기 마법부여 - 세계혼의 요람",
+      "附魔武器 - 世界之魂搖籃",
+      "附魔武器 - 世界之魂的摇篮"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243998,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Worldsoul Aegis",
+      "Encantar arma: Égida del alma del mundo",
+      "Encantamento de Égide da Alma do Mundo - Arma",
+      "Enchant Weapon - Worldsoul Aegis",
+      "Encantar arma: Égida del alma-mundo",
+      "Enchantement d’arme – égide d’Âme-monde",
+      "Чары для оружия – эгида души мира",
+      "Waffe - Weltenseelenaegis",
+      "Encantamento de Égide da Alma do Mundo - Arma",
+      "Incantamento Arma - Egida dell'Anima del Mondo",
+      "무기 마법부여 - 세계혼 아이기스",
+      "附魔武器 - 世界之魂禦盾",
+      "附魔武器 - 世界之魂的庇护"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 243999,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Worldsoul Aegis",
+      "Encantar arma: Égida del alma del mundo",
+      "Encantamento de Égide da Alma do Mundo - Arma",
+      "Enchant Weapon - Worldsoul Aegis",
+      "Encantar arma: Égida del alma-mundo",
+      "Enchantement d’arme – égide d’Âme-monde",
+      "Чары для оружия – эгида души мира",
+      "Waffe - Weltenseelenaegis",
+      "Encantamento de Égide da Alma do Mundo - Arma",
+      "Incantamento Arma - Egida dell'Anima del Mondo",
+      "무기 마법부여 - 세계혼 아이기스",
+      "附魔武器 - 世界之魂禦盾",
+      "附魔武器 - 世界之魂的庇护"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
   }
 ]

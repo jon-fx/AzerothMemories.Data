@@ -508,21 +508,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Void Trap",
-      "Trampa de vacío",
-      "Armadilha do Caos",
-      "Void Trap",
-      "Trampa de Vacío",
-      "Piège du Vide",
-      "Ловушка Бездны",
-      "Leerenfalle",
-      "Armadilha do Caos",
-      "Trappola del Vuoto",
-      "공허 덫",
-      "虛無陷阱",
-      "虚空陷阱"
+      "Void Bomb",
+      "Bomba del Vacío",
+      "Bomba do Caos",
+      "Void Bomb",
+      "Bomba del Vacío",
+      "Bombe de Vide",
+      "Бомба Бездны",
+      "Leerenbombe",
+      "Bomba do Caos",
+      "Bomba del Vuoto",
+      "공허 폭탄",
+      "虛無炸彈",
+      "虚空炸弹"
     ],
-    "Media": "sha_ability_warrior_bloodnova_nightborne.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 246027,
@@ -12899,7 +12899,7 @@
       "Juggle Sphere (Other, Slow)",
       "Giocoleria della Sfera (Altro, Lento)",
       "구슬 곡예 (기타, 느림)",
-      "Juggle Sphere (Other, Slow)",
+      "Juggle Sphere（Other, Slow）",
       "Juggle Sphere (Other, Slow)"
     ],
     "Media": "trade_engineering.jpg"
@@ -12920,7 +12920,7 @@
       "Juggle Sphere (Other, Medium)",
       "Giocoleria della Sfera (Altro, Medio)",
       "구슬 곡예 (기타, 중간)",
-      "Juggle Sphere (Other, Medium)",
+      "Juggle Sphere（Other, Medium）",
       "Juggle Sphere (Other, Medium)"
     ],
     "Media": "trade_engineering.jpg"
@@ -12941,7 +12941,7 @@
       "Juggle Sphere (Other, Fast)",
       "Giocoleria della Sfera (Altro, Veloce)",
       "구슬 곡예 (기타, 빠름)",
-      "Juggle Sphere (Other, Fast)",
+      "Juggle Sphere（Other, Fast）",
       "Juggle Sphere (Other, Fast)"
     ],
     "Media": "trade_engineering.jpg"
@@ -12962,7 +12962,7 @@
       "Sphere Toss (Shadow), Fast",
       "Lancio della Sfera (Ombra), Veloce",
       "구슬 던지기 (어둠), 빠름",
-      "Sphere Toss (Shadow), Fast",
+      "Sphere Toss（Shadow）, Fast",
       "Sphere Toss (Shadow), Fast"
     ],
     "Media": "trade_engineering.jpg"
@@ -12983,7 +12983,7 @@
       "Sphere Toss (Shadow), Medium",
       "Lancio della Sfera (Ombra), Medio",
       "구슬 던지기 (어둠), 중간",
-      "Sphere Toss (Shadow), Medium",
+      "Sphere Toss（Shadow）, Medium",
       "Sphere Toss (Shadow), Medium"
     ],
     "Media": "trade_engineering.jpg"
@@ -13004,7 +13004,7 @@
       "Sphere Toss (Shadow), Slow",
       "Lancio della Sfera (Ombra), Lento",
       "구슬 던지기 (어둠), 느림",
-      "Sphere Toss (Shadow), Slow",
+      "Sphere Toss（Shadow）, Slow",
       "Sphere Toss (Shadow), Slow"
     ],
     "Media": "trade_engineering.jpg"
@@ -13025,7 +13025,7 @@
       "Sphere Toss (Shadow), Self",
       "Lancio della Sfera (Ombra), Se Stesso",
       "구슬 던지기 (어둠), 자신",
-      "Sphere Toss (Shadow), Self",
+      "Sphere Toss（Shadow）, Self",
       "Sphere Toss (Shadow), Self"
     ],
     "Media": "trade_engineering.jpg"
@@ -13046,7 +13046,7 @@
       "Juggle Sphere (Self)",
       "Giocoleria della Sfera (Se Stesso)",
       "구슬 곡예 (자신)",
-      "Juggle Sphere (Self)",
+      "Juggle Sphere（Self）",
       "Juggle Sphere (Self)"
     ],
     "Media": "trade_engineering.jpg"
@@ -13151,7 +13151,7 @@
       "Juggle Sphere (Catch)",
       "Giocoleria della Sfera (Presa)",
       "구슬 곡예 (잡기)",
-      "Juggle Sphere (Catch)",
+      "Juggle Sphere（Catch）",
       "Juggle Sphere (Catch)"
     ],
     "Media": "trade_engineering.jpg"
@@ -13949,7 +13949,7 @@
       "Direct Runners Dance (Left Hand)",
       "Ballo Direzionamento Corridori (Mano Sinistra)",
       "주자 춤 지시 내리기 (왼편)",
-      "指揮跑者之舞(左手)",
+      "指揮跑者之舞（左手）",
       "直跑运动员舞蹈（左手）"
     ],
     "Media": "trade_engineering.jpg"
@@ -13991,7 +13991,7 @@
       "Direct Runners (Left Hand)",
       "Direzionamento Corridori (Mano Sinistra)",
       "주자에게 지시 내리기 (왼편)",
-      "指揮跑者(左手)",
+      "指揮跑者（左手）",
       "直跑运动员（左手）"
     ],
     "Media": "trade_engineering.jpg"

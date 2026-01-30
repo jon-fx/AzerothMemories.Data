@@ -1533,6 +1533,27 @@
     "Media": "achievement_raid_argusraid.jpg"
   },
   {
+    "TagId": 60888,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Pushing My Buttons",
+      "¿Qué hace este botón?",
+      "O que o botão vermelho faz?",
+      "Pushing My Buttons",
+      "¿Que no pulse qué?",
+      "Tu pousses le bouton un peu trop loin",
+      "Нервы на пределе",
+      "Das Knopfwunder",
+      "O que o botão vermelho faz?",
+      "Dieci tasti dolenti",
+      "단추 연타",
+      "試探底線",
+      "我就是要按"
+    ],
+    "Media": "inv_111_redbutton_gallywix.jpg"
+  },
+  {
     "TagId": 60889,
     "TagType": 20,
     "Names": [
@@ -1573,6 +1594,27 @@
       "卡雷什的秘密"
     ],
     "Media": "ability_racial_etherealconnection.jpg"
+  },
+  {
+    "TagId": 60891,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Crimson Rogue",
+      "La pícara carmesí",
+      "A ladina carmesim",
+      "The Crimson Rogue",
+      "La pícara carmesí",
+      "La voleuse cramoisie",
+      "Кровавая разбойница",
+      "Die blutrote Schurkin",
+      "A ladina carmesim",
+      "La ladra cremisi",
+      "붉은 도적",
+      "赤紅盜賊",
+      "猩红潜行者"
+    ],
+    "Media": "achievement_character_bloodelf_female.jpg"
   },
   {
     "TagId": 60915,
@@ -2077,6 +2119,237 @@
       "<Hidden> 11.2 Raid Renown - Activated All Dead Drops"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 60942,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Aquatic Battler of Northrend",
+      "Duelista acuático de Rasganorte",
+      "Batalha Aquática de Nortúndria",
+      "Aquatic Battler of Northrend",
+      "Batallador de acuáticos de Rasganorte",
+      "Dressage de mascottes aquatiques du Norfendre",
+      "Укротитель воды Нордскола",
+      "Wasserkämpfer von Nordend",
+      "Batalha Aquática de Nortúndria",
+      "Allenatore di mascotte Acquatiche di Nordania",
+      "노스렌드 물 애완동물의 용사",
+      "北裂境的水棲對戰者",
+      "诺森德水栖宠物斗士"
+    ],
+    "Media": "icon_petfamily_water.jpg"
+  },
+  {
+    "TagId": 60943,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Critter Battler of Northrend",
+      "Duelista alimaña de Rasganorte",
+      "Batalha de Bichos de Nortúndria",
+      "Critter Battler of Northrend",
+      "Batallador de alimañas de Rasganorte",
+      "Dressage de mascottes bestioles du Norfendre",
+      "Укротитель зверьков Нордскола",
+      "Kleintierkämpfer von Nordend",
+      "Batalha de Bichos de Nortúndria",
+      "Allenatore di mascotte Animali di Nordania",
+      "노스렌드 동물 애완동물의 용사",
+      "北裂境的小動物對戰者",
+      "诺森德小动物宠物斗士"
+    ],
+    "Media": "icon_petfamily_critter.jpg"
+  },
+  {
+    "TagId": 60944,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Dragonkin Battler of Northrend",
+      "Duelista dragonante de Rasganorte",
+      "Batalha Draconiana de Nortúndria",
+      "Dragonkin Battler of Northrend",
+      "Batallador de dragonantes de Rasganorte",
+      "Dressage de mascottes draconiennes du Norfendre",
+      "Укротитель драконов Нордскола",
+      "Drachkinkämpfer von Nordend",
+      "Batalha Draconiana de Nortúndria",
+      "Allenatore di mascotte Dragoidi di Nordania",
+      "노스렌드 용족 애완동물의 용사",
+      "北裂境的龍類對戰者",
+      "诺森德龙类宠物斗士"
+    ],
+    "Media": "icon_petfamily_dragon.jpg"
+  },
+  {
+    "TagId": 60948,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Elemental Battler of Northrend",
+      "Duelista elemental de Rasganorte",
+      "Batalha Elemental de Nortúndria",
+      "Elemental Battler of Northrend",
+      "Batallador de elementales de Rasganorte",
+      "Dressage de mascottes élémentaires du Norfendre",
+      "Укротитель элементалей Нордскола",
+      "Elementarkämpfer von Nordend",
+      "Batalha Elemental de Nortúndria",
+      "Allenatore di mascotte Elementali di Nordania",
+      "노스렌드 정령 애완동물의 용사",
+      "北裂境的元素對戰者",
+      "诺森德元素宠物斗士"
+    ],
+    "Media": "icon_petfamily_elemental.jpg"
+  },
+  {
+    "TagId": 60949,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Flying Battler of Northrend",
+      "Duelista volador de Rasganorte",
+      "Batalha Voadora de Nortúndria",
+      "Flying Battler of Northrend",
+      "Batallador de voladores de Rasganorte",
+      "Dressage de mascottes aériennes du Norfendre",
+      "Укротитель летунов Нордскола",
+      "Flugkämpfer von Nordend",
+      "Batalha Voadora de Nortúndria",
+      "Allenatore di mascotte Volanti di Nordania",
+      "노스렌드 비행 애완동물의 용사",
+      "北裂境的飛行對戰者",
+      "诺森德飞行宠物斗士"
+    ],
+    "Media": "icon_petfamily_flying.jpg"
+  },
+  {
+    "TagId": 60950,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Humanoid Battler of Northrend",
+      "Duelista humanoide de Rasganorte",
+      "Batalha Humanoide de Nortúndria",
+      "Humanoid Battler of Northrend",
+      "Batallador de humanoides de Rasganorte",
+      "Dressage de mascottes humanoïdes du Norfendre",
+      "Укротитель гуманоидов Нордскола",
+      "Humanoidenkämpfer von Nordend",
+      "Batalha Humanoide de Nortúndria",
+      "Allenatore di mascotte Umanoidi di Nordania",
+      "노스렌드 인간형 애완동물의 용사",
+      "北裂境的人形對戰者",
+      "诺森德人形宠物斗士"
+    ],
+    "Media": "icon_petfamily_humanoid.jpg"
+  },
+  {
+    "TagId": 60951,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Beast Battler of Northrend",
+      "Duelista bestial de Rasganorte",
+      "Batalha Feral de Nortúndria",
+      "Beast Battler of Northrend",
+      "Batallador de bestias de Rasganorte",
+      "Dressage de mascottes bestiales du Norfendre",
+      "Укротитель животных Нордскола",
+      "Wildtierkämpfer von Nordend",
+      "Batalha Feral de Nortúndria",
+      "Allenatore di mascotte Bestie di Nordania",
+      "노스렌드 야수 애완동물의 용사",
+      "北裂境的野獸對戰者",
+      "诺森德野兽宠物斗士"
+    ],
+    "Media": "icon_petfamily_beast.jpg"
+  },
+  {
+    "TagId": 60952,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Magic Battler of Northrend",
+      "Duelista mágico de Rasganorte",
+      "Batalha Mágica de Nortúndria",
+      "Magic Battler of Northrend",
+      "Batallador de mágicos de Rasganorte",
+      "Dressage de mascottes magiques du Norfendre",
+      "Укротитель магии Нордскола",
+      "Magiekämpfer von Nordend",
+      "Batalha Mágica de Nortúndria",
+      "Allenatore di mascotte Magiche di Nordania",
+      "노스렌드 마법 애완동물의 용사",
+      "北裂境的魔法對戰者",
+      "诺森德魔法宠物斗士"
+    ],
+    "Media": "icon_petfamily_magical.jpg"
+  },
+  {
+    "TagId": 60953,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Mechanical Battler of Northrend",
+      "Duelista mecánico de Rasganorte",
+      "Batalha Mecânica de Nortúndria",
+      "Mechanical Battler of Northrend",
+      "Batallador de máquinas de Rasganorte",
+      "Dressage de mascottes mécaniques du Norfendre",
+      "Укротитель механики Нордскола",
+      "Mechanikkämpfer von Nordend",
+      "Batalha Mecânica de Nortúndria",
+      "Allenatore di mascotte Meccaniche di Nordania",
+      "노스렌드 기계 애완동물의 용사",
+      "北裂境的機械對戰者",
+      "诺森德机械宠物斗士"
+    ],
+    "Media": "icon_petfamily_mechanical.jpg"
+  },
+  {
+    "TagId": 60954,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Undead Battler of Northrend",
+      "Duelista no-muerto de Rasganorte",
+      "Batalha Morta-viva de Nortúndria",
+      "Undead Battler of Northrend",
+      "Batallador de no-muertos de Rasganorte",
+      "Dressage de mascottes mortes-vivantes du Norfendre",
+      "Укротитель нежити Нордскола",
+      "Untotenkämpfer von Nordend",
+      "Batalha Morta-viva de Nortúndria",
+      "Allenatore di mascotte Non Morte di Nordania",
+      "노스렌드 언데드 애완동물의 용사",
+      "北裂境的不死對戰者",
+      "诺森德亡灵宠物斗士"
+    ],
+    "Media": "icon_petfamily_undead.jpg"
+  },
+  {
+    "TagId": 60956,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Family Battler of Northrend",
+      "Duelista familiar de Rasganorte",
+      "Batalha familiar de Nortúndria",
+      "Family Battler of Northrend",
+      "Batallador de familias de Rasganorte",
+      "Dressage de mascottes familiales du Norfendre",
+      "Укротитель питомцев Нордскола",
+      "Familienkämpfer von Nordend",
+      "Batalha familiar de Nortúndria",
+      "Allenatore di mascotte di Famiglia di Nordania",
+      "노스렌드 모든 애완동물의 용사",
+      "北裂境的家族對戰者",
+      "诺森德全谱系宠物斗士"
+    ],
+    "Media": "inv_babycryptfiend_green.jpg"
   },
   {
     "TagId": 60959,
@@ -2638,7 +2911,7 @@
       "Командующий армией Храма света Пустоты",
       "Stellt eine Armee für den Netherlichttempel auf",
       "Erguer um exército para o Templo Eterluz",
-      "Radunare un'armata per il Tempio di Lucefatu",
+      "Radunare un'armata per il Tempio di Lucefatua",
       "황천빛 사원 군대 창설",
       "為虛空之光神殿組織軍隊",
       "虚空之光神殿大军压境"

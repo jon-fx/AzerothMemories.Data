@@ -10,13 +10,413 @@
       "Exodar Replica",
       "Réplica del Exodar",
       "Réplique d'Exodar",
-      "Копия \"Экзодара",
+      "Копия \"Экзодара\"",
       "Replik der Exodar",
       "Réplica de Exodar",
       "Replica di Exodar",
       "엑소다르 모형",
       "艾克索達複製品",
       "埃索达复制品"
+    ]
+  },
+  {
+    "TagId": 253143,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Anduin Wrynn",
+      "Anduin Wrynn",
+      "Anduin Wrynn",
+      "Anduin Wrynn",
+      "Anduin Wrynn",
+      "Anduin Wrynn",
+      "Андуин Ринн",
+      "Anduin Wrynn",
+      "Anduin Wrynn",
+      "Anduin Wrynn",
+      "안두인 린",
+      "安杜因‧烏瑞恩",
+      "安度因·乌瑞恩"
+    ]
+  },
+  {
+    "TagId": 253160,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Kurdran Wildhammer",
+      "Kurdran Martillo Salvaje",
+      "Kurdran Martelo Feroz",
+      "Kurdran Wildhammer",
+      "Kurdran Martillo Salvaje",
+      "Kurdran Marteau-Hardi",
+      "Курдран Громовой Молот",
+      "Kurdran Wildhammer",
+      "Kurdran Martelo Feroz",
+      "Kurdran Granmartello",
+      "쿠르드란 와일드해머",
+      "庫德蘭‧蠻錘",
+      "库德兰·蛮锤"
+    ]
+  },
+  {
+    "TagId": 253162,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Guard",
+      "Guardia",
+      "Guarda",
+      "Guard",
+      "Guardia",
+      "Garde",
+      "Страж",
+      "Wache",
+      "Guarda",
+      "Guardia",
+      "경비병",
+      "守衛",
+      "守卫"
+    ]
+  },
+  {
+    "TagId": 253197,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Alonsus Faol",
+      "Alonsus Faol",
+      "Alonso Faol",
+      "Alonsus Faol",
+      "Alonsus Faol",
+      "Alonsus Faol",
+      "Алонсий Фаол",
+      "Alonsus Faol",
+      "Alonso Faol",
+      "Alonsus Faol",
+      "알론서스 파올",
+      "阿隆索斯‧法奧",
+      "阿隆索斯·法奥"
+    ]
+  },
+  {
+    "TagId": 253210,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Row Rat",
+      "Rata del Frontal",
+      "Rato da Travessa",
+      "Row Rat",
+      "Rata del Frontal",
+      "Crapule de l'allée",
+      "Крыса из Закоулка",
+      "Gassenstreicher",
+      "Rato da Travessa",
+      "Spia della Traversa",
+      "골목 쥐",
+      "兇殺路混混",
+      "径巷鼠辈"
+    ]
+  },
+  {
+    "TagId": 253220,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Advanced Construct",
+      "Ensamblaje avanzado",
+      "Constructo Avançado",
+      "Advanced Construct",
+      "Ensamblaje avanzado",
+      "Assemblage avancé",
+      "Улучшенный голем",
+      "Hochentwickeltes Konstrukt",
+      "Constructo Avançado",
+      "Costrutto Avanzato",
+      "발전한 피조물",
+      "進階傀儡",
+      "先进的构造体"
+    ]
+  },
+  {
+    "TagId": 253259,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Sheltered Witherbark",
+      "Secacorteza refugiado",
+      "Cascasseca Abrigado",
+      "Sheltered Witherbark",
+      "Secacorteza protegido",
+      "Fanécorce protégé",
+      "Укрывшийся из племени Сухокожих",
+      "Geschützter Bleichborkentroll",
+      "Cascasseca Abrigado",
+      "Scorzasecca Protetto",
+      "피신한 마른나무껍질",
+      "避難的枯木食人妖",
+      "避难的枯木巨魔"
+    ]
+  },
+  {
+    "TagId": 253261,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Loa Speaker Tobui",
+      "Portavoz loa Tobui",
+      "Voz-dos-loas Tobui",
+      "Loa Speaker Tobui",
+      "Portavoz de loa Tobui",
+      "Parle-loa Tobui",
+      "Говорящий с лоа Тобуи",
+      "Loasprecher Tobui",
+      "Voz-dos-loas Tobui",
+      "Oratore dei Loa Tobui",
+      "로아 전령 토부이",
+      "羅亞語者托布伊",
+      "神灵代言人托布伊"
+    ]
+  },
+  {
+    "TagId": 253262,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Lynx Ruffian",
+      "Lince rufián",
+      "Lince Rufião",
+      "Lynx Ruffian",
+      "Lince rufián",
+      "Lynx violent",
+      "Беспощадная рысь",
+      "Rabiater Luchs",
+      "Lince Rufião",
+      "Lince Farabutta",
+      "스라소니 불한당",
+      "惡山貓",
+      "顽劣的山猫"
+    ]
+  },
+  {
+    "TagId": 253263,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Burrowpaw Kitten",
+      "Cachorro zarpahonda",
+      "Filhote de Patascava",
+      "Burrowpaw Kitten",
+      "Gatito Patatierra",
+      "Petit lynx creusepatte",
+      "Землелапый котенок",
+      "Wühlpfotenjunges",
+      "Filhote de Patascava",
+      "Micio Scavazampa",
+      "새끼 땅굴발바닥 스라소니",
+      "掘爪小山貓",
+      "掘爪幼崽"
+    ]
+  },
+  {
+    "TagId": 253265,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Riftblade Astre",
+      "Avizor de fallas Astre",
+      "Fissulâmina Astre",
+      "Riftblade Astre",
+      "Hoja de falla Astre",
+      "Faillelame Astre",
+      "Клинок Бездны Астре",
+      "Rissklinge Astre",
+      "Fissulâmina Astre",
+      "Fendivarchi Astre",
+      "균열칼날 아스트레",
+      "裂刃奧斯崔",
+      "裂隙之刃阿斯崔"
+    ]
+  },
+  {
+    "TagId": 253266,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Riftblade Maella",
+      "Avizora de fallas Maella",
+      "Fissulâmina Maella",
+      "Riftblade Maella",
+      "Hoja de falla Maella",
+      "Faillelame Maella",
+      "Клинок Бездны Маэлла",
+      "Rissklinge Maella",
+      "Fissulâmina Maella",
+      "Fendivarchi Maella",
+      "균열칼날 마엘라",
+      "裂刃梅拉",
+      "裂隙之刃麦拉"
+    ]
+  },
+  {
+    "TagId": 253273,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Weak Illusion of a Wondrous Wisdomball",
+      "Ilusión débil de una bola de sabiduría maravillosa",
+      "Ilusão Fraca de uma Sabedobola Maravilinda",
+      "Weak Illusion of a Wondrous Wisdomball",
+      "Ilusión débil de esfera de sabiduría maravillosa",
+      "Simple spectre d'une sphère de sagesse miraculeuse",
+      "Слабая иллюзия чудесной сферы мудрости",
+      "Schwache Illusion eines wundersamen Weisheitsballs",
+      "Ilusão Fraca de uma Sabedobola Maravilinda",
+      "Illusione Debole di un Globo della Saggezza Incredibile",
+      "미약한 신비로운 지혜의 공의 환영",
+      "神奇智慧球的薄弱幻象",
+      "神奇的智慧之球的弱效幻象"
+    ]
+  },
+  {
+    "TagId": 253320,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Halazzi",
+      "Halazzi",
+      "Halazzi",
+      "Halazzi",
+      "Halazzi",
+      "Halazzi",
+      "Халаззи",
+      "Halazzi",
+      "Halazzi",
+      "Halazzi",
+      "할라지",
+      "哈拉齊",
+      "哈尔拉兹"
+    ]
+  },
+  {
+    "TagId": 253322,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Venzilion the Reality Cracker",
+      "Venzilion, el Romperrealidades",
+      "Venzilion, o Quebra-realidade",
+      "Venzilion the Reality Cracker",
+      "Venzilion el Quiebrarrealidades",
+      "Venzilion le Brise-Réalité",
+      "Вензилион Рассекатель Реальности",
+      "Venzilion der Realitätsreißer",
+      "Venzilion, o Quebra-realidade",
+      "Venzilion lo Spaccarealtà",
+      "현실 돌파자 벤질리온",
+      "『現實碎裂者』維吉利安",
+      "现实击碎者温吉里昂"
+    ]
+  },
+  {
+    "TagId": 253355,
+    "TagType": 25,
+    "Names": [
+      null,
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)",
+      "[DNT] Baby Amazard (Red)"
+    ]
+  },
+  {
+    "TagId": 253361,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Alleria Windrunner",
+      "Alleria Brisaveloz",
+      "Alleria Correventos",
+      "Alleria Windrunner",
+      "Alleria Brisaveloz",
+      "Alleria Coursevent",
+      "Аллерия Ветрокрылая",
+      "Alleria Windläufer",
+      "Alleria Correventos",
+      "Alleria Ventolesto",
+      "알레리아 윈드러너",
+      "艾蘭里亞‧風行者",
+      "奥蕾莉亚·风行者"
+    ]
+  },
+  {
+    "TagId": 253363,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Leading Domanaar",
+      "Domanaar principal",
+      "Domanaar Líder",
+      "Leading Domanaar",
+      "Domanaar líder",
+      "Chef domanaar",
+      "Доманаарский командир",
+      "Führender Domanaar",
+      "Domanaar Líder",
+      "Guida Domanaar",
+      "인도하는 도마나르",
+      "多曼納爾領導人",
+      "为首的多曼纳尔"
+    ]
+  },
+  {
+    "TagId": 253365,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Lothraxion",
+      "Lothraxion",
+      "Lothráxion",
+      "Lothraxion",
+      "Lothraxion",
+      "Lothraxion",
+      "Лотраксион",
+      "Lothraxion",
+      "Lothráxion",
+      "Lothraxion",
+      "로스락시온",
+      "洛斯拉賽恩",
+      "洛萨克森"
+    ]
+  },
+  {
+    "TagId": 253366,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Arator",
+      "Arator",
+      "Arator",
+      "Arator",
+      "Arator",
+      "Arator",
+      "Аратор",
+      "Arator",
+      "Arator",
+      "Arator",
+      "아라토르",
+      "阿拉特",
+      "阿拉托尔"
     ]
   },
   {
@@ -40,6 +440,46 @@
     ]
   },
   {
+    "TagId": 253383,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Light's Vanguard",
+      "Vanguardia de la Luz",
+      "Vanguarda da Luz",
+      "Light's Vanguard",
+      "Vanguardia de la Luz",
+      "Avant-garde de la Lumière",
+      "Авангард Света",
+      "Frontkämpfer des Lichts",
+      "Vanguarda da Luz",
+      "Avanguardia della Luce",
+      "빛의 선봉대",
+      "聖光先鋒",
+      "圣光先锋"
+    ]
+  },
+  {
+    "TagId": 253399,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Scruffbeak",
+      "Picofiero",
+      "Bicorrusto",
+      "Scruffbeak",
+      "Picoastroso",
+      "Becrugueux",
+      "Грязноклювик",
+      "Struppschnabel",
+      "Bicorrusto",
+      "Beccoispido",
+      "추레부리",
+      "頸喙",
+      "乱喙"
+    ]
+  },
+  {
     "TagId": 253460,
     "TagType": 25,
     "Names": [
@@ -57,6 +497,26 @@
       "갇힌 오우거",
       "卡住的巨魔",
       "卡住的食人魔"
+    ]
+  },
+  {
+    "TagId": 253477,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Lor'themar Theron",
+      "Lor'themar Theron",
+      "Lor'themar Theron",
+      "Lor'themar Theron",
+      "Lor'themar Theron",
+      "Lor'themar Theron",
+      "Лор'темар Терон",
+      "Lor'themar Theron",
+      "Lor'themar Theron",
+      "Lor'themar Theron",
+      "로르테마르 테론",
+      "洛索瑪‧塞隆",
+      "洛瑟玛·塞隆"
     ]
   },
   {
@@ -100,6 +560,26 @@
     ]
   },
   {
+    "TagId": 253753,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Amani Wartusk",
+      "Colmiguerra amani",
+      "Guerropresa Amani",
+      "Amani Wartusk",
+      "Colmillobélico Amani",
+      "Défense-de-guerre amani",
+      "Аманийский боевой клык",
+      "Kriegshauer der Amani",
+      "Guerropresa Amani",
+      "Zannaguerra Amani",
+      "아마니 전쟁엄니",
+      "阿曼尼戰牙",
+      "阿曼尼战尖勇士"
+    ]
+  },
+  {
     "TagId": 253758,
     "TagType": 25,
     "Names": [
@@ -117,6 +597,66 @@
       "래시온",
       "怒西昂",
       "拉希奥"
+    ]
+  },
+  {
+    "TagId": 253776,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Befuddled Engineer",
+      "Ingeniero confundido",
+      "Engenheiro Confuso",
+      "Befuddled Engineer",
+      "Ingeniero ofuscado",
+      "Ingénieur confus",
+      "Недоумевающий инженер",
+      "Benebelter Ingenieur",
+      "Engenheiro Confuso",
+      "Ingegnere Sconcertato",
+      "혼미한 기술자",
+      "被迷惑的工程師",
+      "昏沉的工程师"
+    ]
+  },
+  {
+    "TagId": 253821,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Loa Speaker Brek",
+      "Portavoz loa Brek",
+      "Voz-dos-loas Brek",
+      "Loa Speaker Brek",
+      "Portavoz de loa Brek",
+      "Parle-loa Brek",
+      "Говорящий с лоа Брек",
+      "Loasprecher Brek",
+      "Voz-dos-loas Brek",
+      "Oratore dei Loa Brek",
+      "로아 전령 브렉",
+      "羅亞語者布雷克",
+      "神灵代言人布瑞克"
+    ]
+  },
+  {
+    "TagId": 253948,
+    "TagType": 25,
+    "Names": [
+      null,
+      "Leona Darkstrider",
+      "Leona Pasoscuro",
+      "Leona Passombrio",
+      "Leona Darkstrider",
+      "Leona Zancadaoscura",
+      "Léona Marchobscure",
+      "Леона Тенеброд",
+      "Leona Dunkelstreifer",
+      "Leona Passombrio",
+      "Leona Calcabuio",
+      "레오나 다크스트라이더",
+      "雷歐娜‧暗行",
+      "蕾欧娜·涉暗"
     ]
   }
 ]
