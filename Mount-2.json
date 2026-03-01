@@ -5265,7 +5265,7 @@
       "Traje de Meca Forjado em Luz",
       "Meccanotuta Forgiata nella Luce",
       "빛벼림 기계복",
-      "光鑄機甲",
+      "光鑄機械戰甲",
       "圣光锻铸机甲"
     ],
     "Media": "inv_crystalmech_orange.jpg"
@@ -5332,6 +5332,27 @@
       "根须猎手恐惧山猫"
     ],
     "Media": "inv_harronircatmount_red.jpg"
+  },
+  {
+    "TagId": 2616,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ivory Grimlynx",
+      "Sombrolince de marfil",
+      "Malevolince Marfim",
+      "Ivory Grimlynx",
+      "Sombrilince de marfil",
+      "Chagrynx ivoire",
+      "Палевая мракорысь",
+      "Elfenbeingrimmluchs",
+      "Malevolince Marfim",
+      "Lincetetra d'Avorio",
+      "상아색 암영스라소니",
+      "象牙冷酷山貓",
+      "象牙恐惧山猫"
+    ],
+    "Media": "inv_harronircatmount_white.jpg"
   },
   {
     "TagId": 2618,
@@ -6890,12 +6911,12 @@
     "TagType": 22,
     "Names": [
       null,
-      "Untained Grove Crawler",
+      "Untainted Grove Crawler",
       "Reptador de arboledas incólume",
       "Rastejante do Bosque Imaculado",
-      "Untained Grove Crawler",
+      "Untainted Grove Crawler",
       "Reptador de arboleda incólume",
-      "Rampant du bosquet inaltéré",
+      "Rampant du bosquet non corrompu",
       "Нетронутый ползун рощи",
       "Unbefleckter Hainkrabbler",
       "Rastejante do Bosque Imaculado",
@@ -6968,6 +6989,48 @@
       "炽燃龙鹰"
     ],
     "Media": "inv_dragonhawk2mount_orange.jpg"
+  },
+  {
+    "TagId": 2755,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Umbral Dragonhawk",
+      "Dracohalcón umbrío",
+      "Falcodrago Umbrático",
+      "Umbral Dragonhawk",
+      "Dracohalcón umbrío",
+      "Faucon-dragon ombreux",
+      "Теневой дракондор",
+      "Umbraldrachenfalke",
+      "Falcodrago Umbrático",
+      "Dragofalco Ombrale",
+      "암영 용매",
+      "晦影龍鷹",
+      "幽影龙鹰"
+    ],
+    "Media": "inv_dragonhawk2mount_black.jpg"
+  },
+  {
+    "TagId": 2756,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crimson Dragonhawk",
+      "Dracohalcón carmesí",
+      "Falcodrago Carmesim",
+      "Crimson Dragonhawk",
+      "Dracohalcón carmesí",
+      "Faucon-dragon cramoisi",
+      "Багровый дракондор",
+      "Purpurdrachenfalke",
+      "Falcodrago Carmesim",
+      "Dragofalco Cremisi",
+      "진홍빛 용매",
+      "赤紅龍鷹",
+      "猩红龙鹰"
+    ],
+    "Media": "inv_dragonhawk2mount_red.jpg"
   },
   {
     "TagId": 2758,
@@ -7196,7 +7259,8 @@
       "기간토 마니스",
       "巨大瑪尼斯",
       "巨型穿山甲"
-    ]
+    ],
+    "Media": "inv_amanipangolinmount_forest.jpg"
   },
   {
     "TagId": 2775,
@@ -7309,7 +7373,7 @@
     "Names": [
       null,
       "Ravenous Shredclaw",
-      "Trizagarras voraz",
+      "Trizagarras devorador",
       "Garrasga Voraz",
       "Ravenous Shredclaw",
       "Triturazarpa voraz",
@@ -7341,7 +7405,8 @@
       "만족을 모르는 서슬발톱",
       "貪食的碎爪",
       "饕餮裂爪兽"
-    ]
+    ],
+    "Media": "inv_stalkermount_yellow.jpg"
   },
   {
     "TagId": 2791,
@@ -7800,7 +7865,8 @@
       "연구실에서 자란 폭풍가오리",
       "實驗室培養的風暴魟魚",
       "实验室培育的风暴鳐鱼"
-    ]
+    ],
+    "Media": "inv_cosmicflyermount_red.jpg"
   },
   {
     "TagId": 2831,
@@ -8139,6 +8205,26 @@
     "Media": "inv_flyingcarpetmount4.jpg"
   },
   {
+    "TagId": 2912,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vivacious Chloroceros",
+      "Cloroceronte vivaz",
+      "Cloroceronte Vivaz",
+      "Vivacious Chloroceros",
+      "Cloroceronte vivaz",
+      "Chlorocéros exubérant",
+      "Жизнерадостный хлороцерос",
+      "Lebhaftes Chlorozeros",
+      "Cloroceronte Vivaz",
+      "Cloroceronte Brioso",
+      "명랑한 클로로세로스",
+      "生機葉綠犀角獸",
+      "活泼的叶绿犀龙"
+    ]
+  },
+  {
     "TagId": 2913,
     "TagType": 22,
     "Names": [
@@ -8179,5 +8265,26 @@
       "阿努莎拉，暗影启迪"
     ],
     "Media": "inv_dreamowl_purple_mount.jpg"
+  },
+  {
+    "TagId": 2969,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Swift Spectral Dragonhawk",
+      "Dracohalcón espectral presto",
+      "Falcodrago Espectral Veloz",
+      "Swift Spectral Dragonhawk",
+      "Dracohalcón espectral presto",
+      "Faucon-dragon spectral rapide",
+      "Стремительный призрачный дракондор",
+      "Schneller Spektraldrachenfalke",
+      "Falcodrago Espectral Veloz",
+      "Dragofalco Spettrale Rapido",
+      "신속한 유령 용매",
+      "迅捷鬼靈龍鷹",
+      "迅捷幽灵龙鹰"
+    ],
+    "Media": "ability_mount_gryphon_01.jpg"
   }
 ]

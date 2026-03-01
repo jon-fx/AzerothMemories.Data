@@ -9643,19 +9643,19 @@
     "TagType": 30,
     "Names": [
       null,
-      "Astalor's Summons",
-      "Convocatoria de Astalor",
-      "Convocação de Astalor",
-      "Astalor's Summons",
-      "Invocaciones de Astalor",
-      "Convocation d’Astalor",
-      "Приглашение Асталора",
-      "Astalors Ruf",
-      "Convocação de Astalor",
-      "Evocazioni di Astalor",
-      "아스탈로르의 소환장",
-      "阿斯塔樂的召喚",
-      "阿斯塔洛的召唤令"
+      "Preyseeker's Hearthstone",
+      "Piedra de hogar de buscapresa",
+      "Pedra de Regresso do Rapinante",
+      "Preyseeker's Hearthstone",
+      "Piedra de hogar de buscapresas",
+      "Pierre de foyer de la Traque",
+      "Камень возвращения охотника",
+      "Ruhestein des Beutesuchers",
+      "Pedra de Regresso do Rapinante",
+      "Pietra del Ritorno del Cercaprede",
+      "사냥감 추적자의 귀환석",
+      "尋獵者爐石",
+      "寻猎者的炉石"
     ],
     "Media": "inv_enchanting_crystal_color1.jpg"
   },
@@ -9931,5 +9931,110 @@
       "小蹿蹿枕头"
     ],
     "Media": "inv_10_tailoring2_pillow_purple.jpg"
+  },
+  {
+    "TagId": 1687,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Pin-o-Matic Camera",
+      "Cámara Pin-o-Mática",
+      "Câmera Pinomática",
+      "Pin-o-Matic Camera",
+      "Cámara Pinomática",
+      "Appareil photo Épingl-o-matic",
+      "Пиноматическая камера",
+      "Pin-o-Matic-Kamera",
+      "Câmera Pinomática",
+      "Fotocamera Pin-o-Matic",
+      "핀 생성 사진기",
+      "繽趣相機",
+      "钉图相机"
+    ],
+    "Media": "inv_misc_selfiecamera_red_camera.jpg"
+  },
+  {
+    "TagId": 1688,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Pango Plating",
+      "Blindaje de pango",
+      "Blindagem de Pango",
+      "Pango Plating",
+      "Blindaje de pango",
+      "Plaque de pango",
+      "Пластины панго",
+      "Schuppentierpanzerung",
+      "Blindagem de Pango",
+      "Rivestimento del Pango",
+      "천산갑 판",
+      "穿山甲裝甲",
+      "穿山甲鳞板"
+    ],
+    "Media": "inv_amanipangolinmount_amani.jpg"
+  },
+  {
+    "TagId": 1689,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Saptor Salve",
+      "Bálsamo de plantor",
+      "Bálsamo de Florráptor",
+      "Saptor Salve",
+      "Bálsamo de saptor",
+      "Baume du cédraptor",
+      "Бальзам фитоящера",
+      "Harzraptorsalbe",
+      "Bálsamo de Florráptor",
+      "Balsamo del Raptolinfa",
+      "샙터 연고",
+      "樹液迅猛龍藥劑",
+      "迅叶龙药膏"
+    ],
+    "Media": "inv_firstaid_healingsalve2.jpg"
+  },
+  {
+    "TagId": 1691,
+    "TagType": 30,
+    "Names": [
+      null,
+      "The Last Relic of Argus",
+      "La última reliquia de Argus",
+      "A Última Relíquia de Argus",
+      "The Last Relic of Argus",
+      "La última reliquia de Argus",
+      "La dernière relique d'Argus",
+      "Последняя реликвия Аргуса",
+      "Die letzte Reliquie von Argus",
+      "A Última Relíquia de Argus",
+      "Ultima Reliquia di Argus",
+      "마지막 아르거스 유물",
+      "阿古斯最後的聖物",
+      "阿古斯的最后一件圣物"
+    ],
+    "Media": "trade_archaeology_draeneirelic.jpg"
+  },
+  {
+    "TagId": 1713,
+    "TagType": 30,
+    "Names": [
+      null,
+      "Wormhole Generator: Quel'Thalas",
+      "Generador de agujeros de gusano: Quel'thalas",
+      "Gerador de Buraco de Minhoca: Quel'thalas",
+      "Wormhole Generator: Quel'Thalas",
+      "Generador de agujeros de gusano: Quel'Thalas",
+      "Générateur de tunnel spatiotemporel\u00A0: Quel’Thalas",
+      "Генератор червоточин: Кель'Талас",
+      "Wurmlochgenerator: Quel'Thalas",
+      "Gerador de Buraco de Minhoca: Quel'thalas",
+      "Generatore di Tunnel Spaziotemporali: Quel'Thalas",
+      "웜홀 생성기: 쿠엘탈라스",
+      "蟲洞產生器：奎爾薩拉斯",
+      "虫洞发生器：奎尔萨拉斯"
+    ],
+    "Media": "inv_10_engineering_device_gadget3_color1.jpg"
   }
 ]

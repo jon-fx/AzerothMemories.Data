@@ -76,7 +76,7 @@
       "%s, l'Anima della Festa",
       "연회에 죽고 연회에 사는 %s",
       "派對人生%s",
-      "%s, 特勤王牌"
+      "%s, 花天酒地"
     ]
   },
   {
@@ -444,19 +444,19 @@
     "TagType": 31,
     "Names": [
       null,
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s",
-      "[PH] VoidspireRaid %s"
+      "Spirebane %s",
+      "Ruina de la Aguja %s",
+      "%s, Ruína da Torre",
+      "Spirebane %s",
+      "Flagelaguja %s",
+      "Fléau de la flèche %s",
+      "Гроза Шпиля %s",
+      "Spitzenfluch %s",
+      "%s, Ruína da Torre",
+      "Flagello del Pinnacolo %s",
+      "첨탑파멸자 %s",
+      "尖塔煞星%s",
+      "尖塔克星 %s"
     ]
   },
   {
@@ -737,6 +737,206 @@
       "분진군주 %s",
       "粉塵之主%s",
       "蛾尘领主 %s"
+    ]
+  },
+  {
+    "TagId": 1221,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Preyseeker %s",
+      "Buscapresa %s",
+      "Rapinante %s",
+      "Preyseeker %s",
+      "Buscapresas %s",
+      "Traqueur %s",
+      "Охотник %s",
+      "Beutesucher %s",
+      "Rapinante %s",
+      "Cercaprede %s",
+      "사냥감 추적자 %s",
+      "尋獵者%s",
+      "寻猎者 %s"
+    ]
+  },
+  {
+    "TagId": 1231,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Volunteer %s",
+      "Voluntario %s",
+      "%s, Voluntário",
+      "Volunteer %s",
+      "Voluntario %s",
+      "Volontaire %s",
+      "Доброволец %s",
+      "Freiwilliger %s",
+      "%s, Voluntário",
+      "Volontario %s",
+      "지원자 %s",
+      "志願者%s",
+      "志愿者 %s"
+    ]
+  },
+  {
+    "TagId": 1233,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Caring Citizen %s",
+      "Civil responsable %s",
+      "%s, Cidadão Solidário",
+      "Caring Citizen %s",
+      "%s, Ciudadano Solidario",
+      "Citoyen attentionné %s",
+      "Неравнодушный гражданин %s",
+      "Bemühter Bürger %s",
+      "%s, Cidadão Solidário",
+      "Cittadino Premuroso %s",
+      "자상한 시민 %s",
+      "熱心居民%s",
+      "热心市民 %s"
+    ]
+  },
+  {
+    "TagId": 1234,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, The Backbone of the Realm",
+      "%s, el pilar del reino",
+      "%s, a Espinha Dorsal do Reino",
+      "%s, The Backbone of the Realm",
+      "%s, Pilar del Reino",
+      "%s, le pilier du royaume",
+      "Столп сообщества %s",
+      "%s, Rückgrat des Reiches",
+      "%s, a Espinha Dorsal do Reino",
+      "%s, il Pilastro del Regno",
+      "세계의 버팀목 %s",
+      "『伺服器骨幹』%s",
+      "%s, 中流砥柱"
+    ]
+  },
+  {
+    "TagId": 1235,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, The Philanthropist",
+      "%s, el filántropo",
+      "%s, o Filantropo",
+      "%s, The Philanthropist",
+      "%s, el Filántropo",
+      "%s, le philanthrope",
+      "Филантроп %s",
+      "%s der Philanthrop",
+      "%s, o Filantropo",
+      "%s, il Filantropo",
+      "자선가 %s",
+      "『慈善家』%s",
+      "%s, 大慈善家"
+    ]
+  },
+  {
+    "TagId": 1236,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, The Everlasting",
+      "%s, el imperecedero",
+      "%s, o Eterno",
+      "%s, The Everlasting",
+      "%s, el Perpetuo",
+      "%s, le sempiternel",
+      "%s Нетленный",
+      "%s der Ewigwährende",
+      "%s, o Eterno",
+      "%s, l'Imperituro",
+      "상록수 %s",
+      "『永恆者』%s",
+      "%s, 万世不朽"
+    ]
+  },
+  {
+    "TagId": 1237,
+    "TagType": 31,
+    "Names": [
+      null,
+      "%s, World Apex",
+      "%s, alfa mundial",
+      "%s, Ápice do Mundo",
+      "%s, World Apex",
+      "%s, Cúspide Mundial",
+      "%s, prédateur mondial",
+      "Мировая ось %s",
+      "%s, Weltspitze",
+      "%s, Ápice do Mundo",
+      "%s, Dominatore del Mondo",
+      "세계의 정점 %s",
+      "『世界巔峰』%s",
+      "%s, 世界之巅"
+    ]
+  },
+  {
+    "TagId": 1238,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Azeroth's Top Ten Youth %s",
+      "Top diez jóvenes de Azeroth %s",
+      "%s, Top 10 Jovens de Azeroth",
+      "Azeroth's Top Ten Youth %s",
+      "%s, Joven Destacado de Azeroth",
+      "Jeune du top dix d’Azeroth %s",
+      "Гордость молодого поколения %s",
+      "%s, Top Ten von Azeroths Jugend",
+      "%s, Top 10 Jovens de Azeroth",
+      "%s, Top Ten della Gioventù di Azeroth",
+      "아제로스 최고의 청년 %s",
+      "艾澤拉斯十大傑出青年%s",
+      "艾泽拉斯十佳青年 %s"
+    ]
+  },
+  {
+    "TagId": 1239,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Model of the Era %s",
+      "Modelo de la era %s",
+      "%s, Modelo da Era",
+      "Model of the Era %s",
+      "Modelo Atemporal %s",
+      "Modèle de l’ère %s",
+      "Идеал эпохи %s",
+      "%s, Vorbild einer Ära",
+      "%s, Modelo da Era",
+      "%s, Modello di un'Era",
+      "시대의 모범 %s",
+      "時代典範%s",
+      "时代楷模 %s"
+    ]
+  },
+  {
+    "TagId": 1240,
+    "TagType": 31,
+    "Names": [
+      null,
+      "Big Brother %s",
+      "Gran hermano %s",
+      "%s, Grande Irmão",
+      "Big Brother %s",
+      "Hermano Mayor %s",
+      "Grand frère %s",
+      "Большой брат %s",
+      "Großer Bruder %s",
+      "%s, Grande Irmão",
+      "Fratellone %s",
+      "대형 %s",
+      "老大哥%s",
+      "带头大哥 %s"
     ]
   }
 ]

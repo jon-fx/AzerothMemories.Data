@@ -166,13 +166,13 @@
       null,
       "Papers, Please!",
       "¡Papeles, por favor!",
-      "Documentos, pro favor!",
+      "Documentos, por favor!",
       "Papers, Please!",
       "¡Documentación, por favor!",
       "Papiers, s’il vous plaît\u00A0!",
       "Предъявите документы!",
       "Papiere bitte!",
-      "Documentos, pro favor!",
+      "Documentos, por favor!",
       "Carta canta!",
       "서류 주세요!",
       "請出示文件！",
@@ -264,19 +264,19 @@
     "TagType": 28,
     "Names": [
       null,
-      "Cragpine's Treevenge",
-      "La venganza arbórea de Pinorrisco",
-      "Vingançarbórea de Pinheirochedo",
-      "Cragpine's Treevenge",
-      "Venganza arbórea de Pinorrisco",
-      "L’arbrevanche de Pincombe",
-      "Месть Камнеельника",
-      "Felskiefers Baumrache",
-      "Vingançarbórea de Pinheirochedo",
-      "La vendetta di Rupizio",
-      "바위소나무의 복수",
-      "岩松復仇記",
-      "克拉格平的复仇之树"
+      "Cragpine",
+      "Pinorrisco",
+      "Pinheirochedo",
+      "Cragpine",
+      "Pinorrisco",
+      "Pincombe",
+      "Камнеельник",
+      "Felskiefer",
+      "Pinheirochedo",
+      "Rupizio",
+      "바위소나무",
+      "岩松",
+      "克拉格平"
     ]
   },
   {
@@ -324,19 +324,19 @@
     "TagType": 28,
     "Names": [
       null,
-      "Shade and Claw",
-      "Sombra y garras",
-      "Garras e sombras",
-      "Shade and Claw",
-      "Sombra y garra",
-      "Ombre et griffes",
-      "Тень и коготь",
-      "Schemen und Klauen",
-      "Garras e sombras",
-      "Ombra e artigli",
-      "망령과 발톱",
-      "暗影與利爪",
-      "暗影与利爪"
+      "Special Assignment: Shade and Claw",
+      "Asignación especial: Sombra y garras",
+      "Designação especial: Garras e sombras",
+      "Special Assignment: Shade and Claw",
+      "Tarea especial: Sombra y garra",
+      "Mission spéciale\u00A0: ombre et griffes",
+      "Особое поручение: Тень и коготь",
+      "Spezialauftrag: Schemen und Klauen",
+      "Designação especial: Garras e sombras",
+      "Incarico speciale: ombra e artigli",
+      "특별 과제: 망령과 발톱",
+      "特殊任務：暗影與利爪",
+      "特别任务：暗影与利爪"
     ]
   },
   {
@@ -525,7 +525,7 @@
     "Names": [
       null,
       "The Moon at Twilight",
-      "Luna al crepúsculo",
+      "Luna en el crepúsculo",
       "A lua no crepúsculo",
       "The Moon at Twilight",
       "La luna del Crepúsculo",
@@ -637,6 +637,46 @@
       "태양의 지원",
       "太陽支援",
       "太阳的支持"
+    ]
+  },
+  {
+    "TagId": 92365,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Creating Defenses",
+      "Erigir defensas",
+      "Criação de defesa",
+      "Creating Defenses",
+      "Creación de defensas",
+      "L’édification des défenses",
+      "Строительство укреплений",
+      "Verteidigungsaufbau",
+      "Criação de defesa",
+      "Creare le difese",
+      "방어 설비 만들기",
+      "建立防禦",
+      "构建防御工事"
+    ]
+  },
+  {
+    "TagId": 92407,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Hidey-Hole",
+      "Escondites",
+      "Toca",
+      "Hidey-Hole",
+      "Escondrijo",
+      "La planque",
+      "Норка",
+      "Schlupfloch",
+      "Toca",
+      "Nascondiglio Nascosto",
+      "쥐구멍",
+      "隱密之穴",
+      "藏身处"
     ]
   },
   {

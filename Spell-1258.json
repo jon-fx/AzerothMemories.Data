@@ -1850,7 +1850,7 @@
     "Names": [
       null,
       "Rending Claw",
-      "Garra desgarradora",
+      "Garra sajadora",
       "Garra Dilacerante",
       "Rending Claw",
       "Garra sajadora",
@@ -3067,19 +3067,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Wind Blast",
-      "Explosión de viento",
-      "Impacto Eólico",
-      "Wind Blast",
-      "Explosión de viento",
-      "Coup de vent",
-      "Порыв ветра",
-      "Windschlag",
-      "Impacto Eólico",
-      "Detonazione Ventosa",
-      "광풍 강타",
-      "疾風衝擊",
-      "强风冲击"
+      "Gale Surge",
+      "Oleada de vendaval",
+      "Vendaval Explosivo",
+      "Gale Surge",
+      "Oleada de vendaval",
+      "Trombe déferlante",
+      "Буйный ураган",
+      "Sturmwoge",
+      "Vendaval Explosivo",
+      "Impeto di Burrasca",
+      "강풍의 쇄도",
+      "強風奔騰",
+      "疾风奔涌"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5648,12 +5648,12 @@
     "TagType": 26,
     "Names": [
       null,
-      "Shadowbolt",
+      "Shadow Bolt",
       "Descarga de las sombras",
       "Seta Sombria",
-      "Shadowbolt",
+      "Shadow Bolt",
       "Descarga de las Sombras",
-      "Trait d’ombre",
+      "Trait de l’ombre",
       "Стрела Тьмы",
       "Schattenblitz",
       "Seta Sombria",
@@ -5753,19 +5753,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Icebolt",
+      "Ice Bolt",
       "Descarga de hielo",
-      "Seta Gelada",
-      "Icebolt",
+      "Seta de Gelo",
+      "Ice Bolt",
       "Descarga de hielo",
-      "Éclair de glace",
-      "Морозная стрела",
+      "Trait de glace",
+      "Ледяная стрела",
       "Eisblitz",
-      "Seta Gelada",
+      "Seta de Gelo",
       "Dardo di Ghiaccio",
       "얼음 화살",
-      "冰箭",
-      "寒冰箭"
+      "冰晶箭",
+      "冰霜箭"
     ],
     "Media": "spell_frost_frostbolt02.jpg"
   },
@@ -8119,7 +8119,7 @@
       "潮汐符咒",
       "潮汐咒符"
     ],
-    "Media": "inv_misc_rune_01.jpg"
+    "Media": "ability_shawaterelemental_swirl.jpg"
   },
   {
     "TagId": 1258606,
@@ -8497,7 +8497,7 @@
       "畏怯嚎叫",
       "恐怖怒嚎"
     ],
-    "Media": "spell_shadow_possession.jpg"
+    "Media": "ability_fomor_boss_shout.jpg"
   },
   {
     "TagId": 1258625,
@@ -9018,19 +9018,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Decor_WallArt14.m2"
+      "Collect \"Eversong Lantern\" Painting",
+      "Recoger cuadro \"Farol de Canción Eterna",
+      "Coletar Quadro \"Lanterna de Canto Eterno",
+      "Collect \"Eversong Lantern\" Painting",
+      "Añadir cuadro \"Farol de Canción Eterna",
+      "Récupérer le tableau «\u00A0Lanterne des Chants éternels\u00A0»",
+      "Получить картину \"Фонарь Вечной Песни\"",
+      "Gemälde \"Immersanglaterne\" sammeln",
+      "Coletar Quadro \"Lanterna de Canto Eterno",
+      "Raccolta Quadro \"Lanterna di Cantoeterno\"",
+      "\"영원노래 등불\" 그림 획득",
+      "收集「永歌燈籠」圖畫",
+      "收集“永歌路灯”画作"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -9324,7 +9324,7 @@
       "宇宙強音之光",
       "宇宙波动之光"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_12_trinket_raid_darkwelle_healer3_cosmiccrescendo.jpg"
   },
   {
     "TagId": 1258674,
@@ -9676,7 +9676,7 @@
       "Воплощение полночи",
       "Mitternachtsmanifestation",
       "Manifestação da Meia-noite",
-      "Manifestazione della Mezzanotte",
+      "Manifestazione di Mezzanotte",
       "한밤 현신",
       "至暗化身",
       "午夜化身"
@@ -11088,7 +11088,7 @@
       "虛空之絃長弓",
       "灵弦长弓"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_weapon_bow_19.jpg"
   },
   {
     "TagId": 1258845,
@@ -11473,19 +11473,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2",
-      "Collect [DNT] [AUTOGEN] 12FN_Fungarian_Structure_Window01.m2"
+      "Collect Root-Woven Window",
+      "Recoger ventana tejida con raíces",
+      "Coletar Janela de Raízes Entrelaçadas",
+      "Collect Root-Woven Window",
+      "Añadir ventana entramada con raíces",
+      "Récupérer une fenêtre tissée de racines",
+      "Получить увитое корнями окно",
+      "Wurzelgewebtes Fenster sammeln",
+      "Coletar Janela de Raízes Entrelaçadas",
+      "Raccolta Finestra di Radici Intrecciate",
+      "뿌리매듭 창문 획득",
+      "收集根織窗戶",
+      "收集根织窗户"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },

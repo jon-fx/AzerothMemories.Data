@@ -15,7 +15,7 @@
       "Eco do Resplendor",
       "Eco della Radiosità",
       "광휘의 메아리",
-      "璀璨回音",
+      "烈光回音",
       "光辉回响"
     ],
     "Media": "spell_holy_divineprovidence.jpg"
@@ -36,7 +36,7 @@
       "Eco do Resplendor",
       "Eco della Radiosità",
       "광휘의 메아리",
-      "璀璨回音",
+      "烈光回音",
       "光辉回响"
     ],
     "Media": "spell_holy_divineprovidence.jpg"
@@ -57,7 +57,7 @@
       "Eco do Resplendor",
       "Eco della Radiosità",
       "광휘의 메아리",
-      "璀璨回音",
+      "烈光回音",
       "光辉回响"
     ],
     "Media": "spell_holy_divineprovidence.jpg"
@@ -404,7 +404,7 @@
     "Names": [
       null,
       "Silvermoon Splendor",
-      "Eslpendor de Lunargenta",
+      "Esplendor de Lunargenta",
       "Esplendor de Luaprata",
       "Silvermoon Splendor",
       "Esplendor de Lunargenta",
@@ -991,21 +991,21 @@
     "TagType": 21,
     "Names": [
       null,
-      "Conjured Coffee",
-      "Café conjurado",
-      "Café Conjurado",
-      "Conjured Coffee",
-      "Café conjurado",
-      "Café conjuré",
-      "Сотворенный кофе",
-      "Beschworener Kaffee",
-      "Café Conjurado",
-      "Caffè Evocato",
-      "창조된 커피",
-      "召喚的咖啡",
-      "咒术咖啡"
+      "Conjured Tea",
+      "Té conjurado",
+      "Chá Conjurado",
+      "Conjured Tea",
+      "Té conjurado",
+      "Thé invoqué",
+      "Сотворенный чай",
+      "Beschworener Tee",
+      "Chá Conjurado",
+      "Tè Evocato",
+      "창조된 차",
+      "召喚的茶",
+      "咒术茶"
     ],
-    "Media": "7424583.jpg"
+    "Media": "inv_drink_23.jpg"
   },
   {
     "TagId": 265100,
@@ -1118,7 +1118,7 @@
     "Names": [
       null,
       "Thorncap",
-      "Setaspina",
+      "Hongoespina",
       "Coguespinho",
       "Thorncap",
       "Setaspina",
@@ -1160,7 +1160,7 @@
     "Names": [
       null,
       "Arsenal: Twilight Blade",
-      "Arsenal: Daga Crepuscular",
+      "Arsenal: Daga crepuscular",
       "Arsenal: Lâmina Crepuscular",
       "Arsenal: Twilight Blade",
       "Arsenal: Hoja Crepuscular",
@@ -1202,7 +1202,7 @@
     "Names": [
       null,
       "Twilight Infiltrator's Blade",
-      "Hoja de infiltrado crepuscular",
+      "Sable de infiltrado crepuscular",
       "Lâmina do Infiltrador do Crepúsculo",
       "Twilight Infiltrator's Blade",
       "Hoja de infiltrado Crepuscular",
@@ -1741,6 +1741,111 @@
       null
     ],
     "Media": "inv_axe_1h_twilightblade_b_01.jpg"
+  },
+  {
+    "TagId": 265528,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plans: Gilded Silvermoon Anvil",
+      "Diseño: Yunque de Lunargenta dorado",
+      "Instruções: Bigorna de Luaprata Dourada",
+      "Plans: Gilded Silvermoon Anvil",
+      "Diseño: yunque dorado de Lunargenta",
+      "Plans\u00A0: enclume dorée de Lune-d’Argent",
+      "Чертеж: золоченая луносветская наковальня",
+      "Pläne: Vergoldeter Amboss aus Silbermond",
+      "Instruções: Bigorna de Luaprata Dourada",
+      "Progetto: Incudine di Lunargenta Dorata",
+      "도면: 금빛 실버문 모루",
+      "設計圖：鍍金銀月城鐵砧",
+      "图纸：鎏金银月城铁砧"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez_color3.jpg"
+  },
+  {
+    "TagId": 265530,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plans: Ornamental Silvermoon Hanger",
+      "Diseño: Colgadura de Lunargenta ornamental",
+      "Instruções: Cabide de Luaprata Ornamental",
+      "Plans: Ornamental Silvermoon Hanger",
+      "Diseño: cuelgacortinas ornamental de Lunargenta",
+      "Plans\u00A0: portemanteau ornemental de Lune-d’Argent",
+      "Чертеж: украшенная луносветская вешалка",
+      "Pläne: Dekorative Halterung aus Silbermond",
+      "Instruções: Cabide de Luaprata Ornamental",
+      "Progetto: Gancio di Lunargenta Ornamentale",
+      "도면: 장식용 실버문 옷걸이",
+      "設計圖：銀月城裝飾懸掛",
+      "图纸：纹饰银月城衣架"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez_color3.jpg"
+  },
+  {
+    "TagId": 265532,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plans: Gilded Silvermoon Hanger",
+      "Diseño: Colgadura de Lunargenta dorada",
+      "Instruções: Cabide de Luaprata Dourado",
+      "Plans: Gilded Silvermoon Hanger",
+      "Diseño: cuelgacortinas dorado de Lunargenta",
+      "Plans\u00A0: portemanteau doré de Lune-d’Argent",
+      "Чертеж: золоченая луносветская вешалка",
+      "Pläne: Vergoldete Halterung aus Silbermond",
+      "Instruções: Cabide de Luaprata Dourado",
+      "Progetto: Gancio di Lunargenta Dorato",
+      "도면: 금빛 실버문 옷걸이",
+      "設計圖：鍍金銀月城懸掛",
+      "图纸：鎏金银月城衣架"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez_color3.jpg"
+  },
+  {
+    "TagId": 265534,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plans: Ren'dorei Anvil",
+      "Diseño: Yunque ren'dorei",
+      "Instruções: Bigorna Ren'dorei",
+      "Plans: Ren'dorei Anvil",
+      "Diseño: yunque ren'dorei",
+      "Plans\u00A0: enclume ren’dorei",
+      "Чертежи: наковальня рен'дорай",
+      "Pläne: Amboss der Ren'dorei",
+      "Instruções: Bigorna Ren'dorei",
+      "Progetto: Incudine dei Ren'dorei",
+      "도면: 렌도레이 모루",
+      "設計圖：刃多雷鐵砧",
+      "图纸：朗多雷铁砧"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez_color3.jpg"
+  },
+  {
+    "TagId": 265536,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plans: Masterwork Crafting Hammer",
+      "Diseño: Martillo de creador de obras maestras",
+      "Instruções: Martelo de Criação Magistral",
+      "Plans: Masterwork Crafting Hammer",
+      "Diseño: martillo de fabricación magistral",
+      "Plans\u00A0: marteau d’artisanat ouvragé",
+      "Чертеж: молот искусного мастера",
+      "Pläne: Meisterhafter Handwerkshammer",
+      "Instruções: Martelo de Criação Magistral",
+      "Progetto: Martello da Artigianato Eccellente",
+      "도면: 명인 제작 망치",
+      "設計圖：精工製作之錘",
+      "图纸：大师级锻造锤"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez_color3.jpg"
   },
   {
     "TagId": 265541,
@@ -3268,7 +3373,7 @@
       "Охотничий бюст: рутаани",
       "Rutaanibüste des Beutesuchers",
       "Busto de Rutaani do Rapinante",
-      "Busto del Radiceo del Cercaprede del Cercaprede",
+      "Busto del Radiceo del Cercaprede",
       "사냥감 추적자의 루타니 흉상",
       "尋獵者的魯坦尼胸像",
       "寻猎者的芦塔尼半身像"
@@ -3483,7 +3588,7 @@
       "阿曼尼心弦墜飾",
       "阿曼尼心弦吊坠"
     ],
-    "Media": "inv_misc_questionmark.jpg"
+    "Media": "inv_12_jewelry_zulaman_troll_necklace_purple2.jpg"
   },
   {
     "TagId": 265740,
@@ -3504,7 +3609,7 @@
       "阿曼尼圖騰之索",
       "阿曼尼图腾索"
     ],
-    "Media": "inv_misc_questionmark.jpg"
+    "Media": "inv_12_jewelry_zulaman_troll_necklace_purple1.jpg"
   },
   {
     "TagId": 265746,
@@ -3784,21 +3889,21 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Fungarian Vine Fence",
+      "Cerca de vid fungálida",
+      "Cerca de Vinhas Fungoriana",
+      "Fungarian Vine Fence",
+      "Cerca de parras fungárica",
+      "Clôture de lianes fongicienne",
+      "Изгородь грибостражей из лозы",
+      "Fungianischer Rankenzaun",
+      "Cerca de Vinhas Fungoriana",
+      "Recinzione di Viticci dei Fungariani",
+      "버섯전사 덩굴 울타리",
+      "蘑菇人藤蔓柵欄",
+      "真菌人藤蔓围栏"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "7547969.jpg"
   },
   {
     "TagId": 265793,
@@ -4225,19 +4330,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Booklet of Sonnets",
-      "Libro de sonetos",
-      "Livreto dos Sonetos",
-      "Booklet of Sonnets",
-      "Libreta de sonetos",
-      "Livret de sonnets",
-      "Книга сонетов",
-      "Buch der Sonette",
-      "Livreto dos Sonetos",
-      "Libretto di Sonetti",
-      "작은 시집",
-      "長詩集錦",
-      "十四行诗集"
+      "Incomplete Booklet of Sonnets",
+      "Libro de sonetos incompleto",
+      "Livreto dos Sonetos Incompleto",
+      "Incomplete Booklet of Sonnets",
+      "Libreta de sonetos incompleta",
+      "Livret de sonnets incomplet",
+      "Неполная книга сонетов",
+      "Unvollständiges Sonettbüchlein",
+      "Livreto dos Sonetos Incompleto",
+      "Libretto di Sonetti Incompleto",
+      "미완성 시집",
+      "未完成的長詩集錦",
+      "未完成的十四行诗集"
     ],
     "Media": "inv_misc_book_11.jpg"
   },
@@ -6001,7 +6106,7 @@
       "Trofeo del Dominio sulla Marcia su Quel'Danas Aureo",
       "쿠엘다나스 진격로 정복자의 금빛 트로피",
       "進軍奎爾達納斯鎮壓者的金燦戰利品",
-      "进军奎尔丹纳斯征服者耀金战利品"
+      "进军奎尔丹纳斯征服者的耀金战利品"
     ],
     "Media": "7551593.jpg"
   },
@@ -6022,7 +6127,7 @@
       "Trofeo del Dominio sulla Frattura del Sogno Aureo",
       "꿈의 균열 정복자의 금빛 트로피",
       "夢境裂隙鎮壓者的金燦戰利品",
-      "梦境裂隙征服者耀金战利品"
+      "梦境裂隙征服者的耀金战利品"
     ],
     "Media": "7551595.jpg"
   },
@@ -6043,7 +6148,7 @@
       "Trofeo del Dominio sul Pinnacolo del Vuoto Aureo",
       "공허첨탑 정복자의 금빛 트로피",
       "虛無之尖鎮壓者的金燦戰利品",
-      "虚影尖塔征服者耀金战利品"
+      "虚影尖塔征服者的耀金战利品"
     ],
     "Media": "7551590.jpg"
   },

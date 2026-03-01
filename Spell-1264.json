@@ -571,19 +571,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Battle Roar",
+      "Battle Rage",
       "Rugido de batalla",
-      "Rugido de Batalha",
-      "Battle Roar",
-      "Rugido de batalla",
-      "Rugissement de bataille",
-      "Боевой рев",
-      "Kampfgebrüll",
-      "Rugido de Batalha",
-      "Ruggito di Battaglia",
-      "전투의 포효",
-      "戰鬥咆哮",
-      "战斗咆哮"
+      "Fúria de Batalha",
+      "Battle Rage",
+      "Ira de batalla",
+      "Rage du combat",
+      "Боевая ярость",
+      "Schlachtrausch",
+      "Fúria de Batalha",
+      "Furia Battagliera",
+      "전투의 분노",
+      "戰鬥暴怒",
+      "战意之怒"
     ],
     "Media": "ability_warrior_battleshout.jpg"
   },
@@ -2999,7 +2999,7 @@
       "事件視界",
       "黑洞视界"
     ],
-    "Media": "inv_cosmicvoid_groundsate.jpg"
+    "Media": "inv_cosmicvoid_groundstate.jpg"
   },
   {
     "TagId": 1264189,
@@ -7700,7 +7700,7 @@
       "力量幾乎耗盡",
       "濒临枯竭"
     ],
-    "Media": "inv_elemental_mote_mana.jpg"
+    "Media": "ability_argus_soulbombdebufflarge.jpg"
   },
   {
     "TagId": 1264472,
@@ -8035,7 +8035,7 @@
       "午夜之舞",
       "午夜舞步"
     ],
-    "Media": "ability_demonhunter_bladedance.jpg"
+    "Media": "inv12_apextalent_deathknight_danceofmidnight.jpg"
   },
   {
     "TagId": 1264507,
@@ -10077,21 +10077,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Immortal Flame",
-      "Llama inmortal",
-      "Chama Imortal",
-      "Immortal Flame",
-      "Llama inmortal",
-      "Flamme infinie",
-      "Бессмертное пламя",
-      "Unsterbliche Flamme",
-      "Chama Imortal",
-      "Fiamma Immortale",
-      "불멸의 불길",
-      "不朽烈焰",
-      "不朽烈焰"
+      "Burning Heart",
+      "Corazón ardiente",
+      "Coração Ardente",
+      "Burning Heart",
+      "Corazón ardiente",
+      "Cœur brûlant",
+      "Пылающее сердце",
+      "Brennendes Herz",
+      "Coração Ardente",
+      "Cuore Ardente",
+      "불타는 심장",
+      "燃燒之心",
+      "灼燃之心"
     ],
-    "Media": "inv_misc_summerfest_brazierorange.jpg"
+    "Media": "inv_ragnaros_heart.jpg"
   },
   {
     "TagId": 1264651,
@@ -10833,21 +10833,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Void Surge",
-      "Oleada del Vacío",
-      "Surto Caótico",
-      "Void Surge",
-      "Oleada de Vacío",
-      "Afflux de Vide",
-      "Всплеск Бездны",
-      "Leerensog",
-      "Surto Caótico",
-      "Eruzione del Vuoto",
-      "공허의 쇄도",
-      "虛無怒濤",
-      "虚空涌动"
+      "Terror Wave",
+      "Oleada de terror",
+      "Onda de Terror",
+      "Terror Wave",
+      "Ola de terror",
+      "Vague de terreur",
+      "Волна ужаса",
+      "Welle des Schreckens",
+      "Onda de Terror",
+      "Onda di Terrore",
+      "공포의 물결",
+      "恐怖波濤",
+      "恐惧浪潮"
     ],
-    "Media": "inv_cosmicvoid_buff.jpg"
+    "Media": "spell_shadow_deathscream.jpg"
   },
   {
     "TagId": 1264695,
@@ -11297,13 +11297,13 @@
       null,
       "Alliance Blue Dye",
       "Tinte azul Alianza",
-      "Pigmento Azul da Aliança",
+      "Pigmento Azul-aliança",
       "Alliance Blue Dye",
       "Tinte azul Alianza",
       "Teinture bleu de l’Alliance",
       "Краска: альянсовский синий",
       "Farbstoff: Allianzblau",
-      "Pigmento Azul da Aliança",
+      "Pigmento Azul-aliança",
       "Tintura Blu dell'Alleanza",
       "얼라이언스 파란색 염료",
       "聯盟藍色染料",
@@ -14465,10 +14465,10 @@
     "Names": [
       null,
       "Infusing",
-      "Abriendo",
+      "Infundiendo",
       "Infundindo",
       "Infusing",
-      "Imbuyendo",
+      "Imbuir",
       "Imprégnation",
       "Насыщение",
       "Erfüllen",

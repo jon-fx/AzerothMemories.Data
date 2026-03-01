@@ -1801,7 +1801,8 @@
       "급조한 비전 장치",
       "臨時秘法裝置",
       "临时拼凑的奥术装置"
-    ]
+    ],
+    "Media": "inv_eng_bombslow.jpg"
   },
   {
     "TagId": 1245138,
@@ -5559,7 +5560,7 @@
       "救世信標",
       "救世道标"
     ],
-    "Media": "ability_priest_archangel.jpg"
+    "Media": "inv12_apextalent_paladin_beaconofthesavior.jpg"
   },
   {
     "TagId": 1245368,
@@ -5580,7 +5581,7 @@
       "救世信標",
       "救世道标"
     ],
-    "Media": "ability_racial_holyresistance.jpg"
+    "Media": "inv12_apextalent_paladin_beaconofthesavior.jpg"
   },
   {
     "TagId": 1245369,
@@ -5601,7 +5602,7 @@
       "救世信標",
       "救世道标"
     ],
-    "Media": "ability_racial_holyresistance.jpg"
+    "Media": "inv12_apextalent_paladin_beaconofthesavior.jpg"
   },
   {
     "TagId": 1245370,
@@ -9257,19 +9258,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Torturous Residue",
-      "Residuo tortuoso",
-      "Resíduo Torturante",
-      "Torturous Residue",
-      "Residuo avieso",
-      "Résidu de torture",
-      "Мучительный осадок",
-      "Quälende Rückstände",
-      "Resíduo Torturante",
-      "Residuo Tortuoso",
-      "고통스러운 잔류물",
-      "折磨殘渣",
-      "折磨残渣"
+      "Torturous Extract",
+      "Extracto tortuoso",
+      "Extrato Torturante",
+      "Torturous Extract",
+      "Extracto avieso",
+      "Extrait de torture",
+      "Мучительный экстракт",
+      "Quälendes Extrakt",
+      "Extrato Torturante",
+      "Estratto Straziante",
+      "고통스러운 추출",
+      "折磨萃取物",
+      "痛苦精粹"
     ],
     "Media": "inv_cosmicvoid_groundsate.jpg"
   },
@@ -11602,7 +11603,7 @@
       "接近精疲力竭",
       "濒临枯竭"
     ],
-    "Media": "inv_elemental_mote_mana.jpg"
+    "Media": "inv_elemental_mote_shadow01.jpg"
   },
   {
     "TagId": 1245746,
@@ -11630,19 +11631,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Alndust Upheaval",
-      "Levantamiento de polvo de Aln",
-      "Revolta de Pó-de-aln",
-      "Alndust Upheaval",
-      "Agitación de polvo de Aln",
-      "Soulèvement de poudre d’Aln",
-      "Встряска пыли Альн",
-      "Alnstaubaufruhr",
-      "Revolta de Pó-de-aln",
-      "Sollevazione della Polvere di Aln",
-      "알른가루 지각 변동",
-      "艾恩之塵劇變",
-      "艾林之尘剧变"
+      "Alndust Energy",
+      "Energía de polvo de Aln",
+      "Energia de Pó-de-aln",
+      "Alndust Energy",
+      "Energía de polvo de Aln",
+      "Énergie de poudre d’Aln",
+      "Энергия пыли Альн",
+      "Alnstaubenergie",
+      "Energia de Pó-de-aln",
+      "Energia della Polvere di Aln",
+      "알른가루 마력",
+      "艾恩之塵能量",
+      "艾林之尘能量"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -15221,19 +15222,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Reckless Infusion",
-      "Infusión temeraria",
-      "Infusão Imprudente",
-      "Reckless Infusion",
-      "Infusión temeraria",
-      "Infusion irresponsable",
-      "Безрассудное насыщение",
-      "Tollkühne Infusion",
-      "Infusão Imprudente",
-      "Infusione Avventata",
-      "무모한 주입",
-      "無畏灌注",
-      "鲁莽灌注"
+      "Void Infusion",
+      "Infusión del Vacío",
+      "Infusão do Caos",
+      "Void Infusion",
+      "Infusión del Vacío",
+      "Infusion de Vide",
+      "Насыщение Бездны",
+      "Leereninfusion",
+      "Infusão do Caos",
+      "Infusione del Vuoto",
+      "공허 주입",
+      "虛無灌注",
+      "虚空灌输"
     ],
     "Media": "inv_cosmicvoid_wave.jpg"
   },

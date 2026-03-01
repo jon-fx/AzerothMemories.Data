@@ -134,7 +134,7 @@
       "Imbuyendo",
       "Imbuindo",
       "Imbuing",
-      "Imbuyendo",
+      "Imbuir",
       "Imprégnation",
       "Усиление",
       "Erfüllen",
@@ -2506,7 +2506,7 @@
       "Recoger carrito de comerciante draconiano",
       "Colocar Carrinho de Comerciante Dracônico no Armazenamento",
       "Collect Draconic Trader's Cart",
-      "Añadir carro de artesano dracónico",
+      "Añadir carro de comerciante dracónico al almacenamiento",
       "Récupérer un chariot de commerce draconique",
       "Получить повозку драконьего торговца",
       "Drakonischen Händlerwagen sammeln",
@@ -3153,19 +3153,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Quel'Thalas Perception",
-      "Percepción de Quel'Thalas",
-      "Percepção de Quel'thalas",
-      "Quel'Thalas Perception",
-      "Percepción de Quel'Thalas",
-      "Perception de Quel’Thalas",
-      "Кель'Таласская внимательность",
-      "Wahrnehmung von Quel'Thalas",
-      "Percepção de Quel'thalas",
-      "Percezione di Quel'Thalas",
-      "쿠엘탈라스 인지력",
-      "奎爾薩拉斯感知",
-      "奎尔萨拉斯感知"
+      "Chum",
+      "Carnada",
+      "Isquinha",
+      "Chum",
+      "Carnada",
+      "Appât",
+      "Приманка",
+      "Köder",
+      "Isquinha",
+      "Esca",
+      "미끼",
+      "餌食",
+      "鱼饵"
     ],
     "Media": "inv_cooking_100_messagebottle_color01.jpg"
   },
@@ -5329,7 +5329,7 @@
       "守護稜石",
       "护卫棱镜"
     ],
-    "Media": "inv_112_raidtrinkets_voidprism.jpg"
+    "Media": "ability_priest_cascade_shadow.jpg"
   },
   {
     "TagId": 1251387,
@@ -5371,7 +5371,7 @@
       "守護矩陣",
       "护卫矩阵"
     ],
-    "Media": "ability_priest_cascade_shadow.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 1251389,
@@ -5392,7 +5392,7 @@
       "守護矩陣",
       "护卫矩阵"
     ],
-    "Media": "ability_priest_cascade_shadow.jpg"
+    "Media": "inv_cosmicvoid_orb.jpg"
   },
   {
     "TagId": 1251390,
@@ -5413,7 +5413,7 @@
       "安全守護",
       "护卫"
     ],
-    "Media": "inv_shield_1h_etherealraid_d_01.jpg"
+    "Media": "spell_winston_bubble.jpg"
   },
   {
     "TagId": 1251391,
@@ -5455,7 +5455,7 @@
       "安全守護",
       "护卫"
     ],
-    "Media": "inv_shield_1h_etherealraid_d_01.jpg"
+    "Media": "spell_winston_bubble.jpg"
   },
   {
     "TagId": 1251393,
@@ -5476,7 +5476,7 @@
       "安全守護",
       "护卫"
     ],
-    "Media": "inv_shield_1h_etherealraid_d_01.jpg"
+    "Media": "spell_winston_bubble.jpg"
   },
   {
     "TagId": 1251395,
@@ -6449,10 +6449,10 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect Colorful White Noblegarden Egg",
+      "Collect Colorful Shroomic Egg",
       "Recoger huevo del Jardín Noble blanco vívido",
       "Coletar Ovo de Jardinova Colorido Branco",
-      "Collect Colorful White Noblegarden Egg",
+      "Collect Colorful Shroomic Egg",
       "Añadir huevo del Jardín Noble blanco colorido",
       "Récupérer un œuf blanc irisé du Jardin des nobles",
       "Получить яркое белое праздничное яйцо",
@@ -6470,10 +6470,10 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect Colorful Blue Noblegarden Egg",
+      "Collect Colorful Dotted Egg",
       "Recoger huevo del Jardín Noble azul vívido",
       "Coletar Ovo de Jardinova Colorido Azul",
-      "Collect Colorful Blue Noblegarden Egg",
+      "Collect Colorful Dotted Egg",
       "Añadir huevo del Jardín Noble azul colorido",
       "Récupérer un œuf bleu irisé du Jardin des nobles",
       "Получить яркое синее праздничное яйцо",
@@ -6491,10 +6491,10 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect Colorful Purple Noblegarden Egg",
+      "Collect Colorful Striped Egg",
       "Recoger huevo del Jardín Noble púrpura vívido",
       "Coletar Ovo de Jardinova Colorido Roxo",
-      "Collect Colorful Purple Noblegarden Egg",
+      "Collect Colorful Striped Egg",
       "Añadir huevo del Jardín Noble morado colorido",
       "Récupérer un œuf pourpre irisé du Jardin des nobles",
       "Получить яркое лиловое праздничное яйцо",
@@ -8750,7 +8750,7 @@
       "Pece di Zannardente",
       "불꽃송곳니 찌끼",
       "焰牙投擲",
-      "炎牙焦油"
+      "燎焰沥青"
     ],
     "Media": "inv_10_blacksmithing_craftedoptional_blacksmithdye_fire.jpg"
   },
@@ -9002,7 +9002,7 @@
       "Pece di Zannardente",
       "불꽃송곳니 찌끼",
       "焰牙投擲",
-      "炎牙焦油"
+      "燎焰沥青"
     ],
     "Media": "inv_10_blacksmithing_craftedoptional_blacksmithdye_fire.jpg"
   },
@@ -9794,7 +9794,7 @@
       "Cristal del ocaso",
       "Cristal de la pénombre",
       "Кристалл сумерек",
-      "Dämmerungskristall",
+      "Zwielichtkristall",
       "Cristal Crepuscular",
       "Cristallo del Vespro",
       "황혼의 수정",
@@ -9815,7 +9815,7 @@
       "Cristal del ocaso",
       "Cristal de la pénombre",
       "Кристалл сумерек",
-      "Dämmerungskristall",
+      "Zwielichtkristall",
       "Cristal Crepuscular",
       "Cristallo del Vespro",
       "황혼의 수정",
@@ -9836,7 +9836,7 @@
       "Cristal del ocaso",
       "Cristal de la pénombre",
       "Кристалл сумерек",
-      "Dämmerungskristall",
+      "Zwielichtkristall",
       "Cristal Crepuscular",
       "Cristallo del Vespro",
       "황혼의 수정",
@@ -10642,6 +10642,27 @@
       "地狱猎犬大师"
     ],
     "Media": "spell_warlock_calldreadstalkers.jpg"
+  },
+  {
+    "TagId": 1251707,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spectral Sight",
+      "Visión espectral",
+      "Visão Espectral",
+      "Spectral Sight",
+      "Visión espectral",
+      "Vision spectrale",
+      "Призрачное зрение",
+      "Geistersicht",
+      "Visão Espectral",
+      "Vista Spettrale",
+      "영혼 시야",
+      "靈視",
+      "幽灵视觉"
+    ],
+    "Media": "spell_shadow_shadesofdarkness.jpg"
   },
   {
     "TagId": 1251709,
@@ -13343,7 +13364,7 @@
       "羅亞崇拜者指環",
       "神灵崇拜者的指环"
     ],
-    "Media": "inv_10_jewelcrafting3_ludicrouslyexpensivering_color2.jpg"
+    "Media": "inv_12_profession_jewelcrafting_ring3_silver.jpg"
   },
   {
     "TagId": 1251905,

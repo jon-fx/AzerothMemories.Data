@@ -78,7 +78,7 @@
       "Traje de Meca Forjado em Luz",
       "Meccanotuta Forgiata nella Luce",
       "빛벼림 기계복",
-      "光鑄機甲",
+      "光鑄機械戰甲",
       "圣光锻铸机甲"
     ],
     "Media": "inv_crystalmech_orange.jpg"
@@ -2601,7 +2601,7 @@
       "祝福：勝者風采",
       "祝福：胜者之威"
     ],
-    "Media": "inv_snapdragonmount02.jpg"
+    "Media": "inv_vicioussnaplizardmount_horde.jpg"
   },
   {
     "TagId": 1243175,
@@ -2630,7 +2630,7 @@
     "Names": [
       null,
       "Blessing: Victory Through Subterfuge",
-      "Bendición: Victoria por medio del subterfugio",
+      "Bendición: Victoria del subterfugio",
       "Bênção: Vitória pelo Subterfúgio",
       "Blessing: Victory Through Subterfuge",
       "Bendición: Victoria por medio del subterfugio",
@@ -2643,7 +2643,7 @@
       "祝福：欺敵致勝",
       "祝福：诡道奇兵"
     ],
-    "Media": "inv_vicioushordespider.jpg"
+    "Media": "inv_minespider2_violet.jpg"
   },
   {
     "TagId": 1243177,
@@ -2735,7 +2735,7 @@
     "Names": [
       null,
       "Blessing: Hunt for Simplicity",
-      "Bendición: A la caza de la simplicidad",
+      "Bendición: Caza de la simplicidad",
       "Bênção: Caça por Simplicidade",
       "Blessing: Hunt for Simplicity",
       "Bendición: A la caza de la simplicidad",
@@ -2777,7 +2777,7 @@
     "Names": [
       null,
       "Blessing: Guaranteed Yield",
-      "Bendición: Rinde asegurado",
+      "Bendición: Rendimiento asegurado",
       "Bênção: Capitulação Garantida",
       "Blessing: Guaranteed Yield",
       "Bendición: Rédito garantizado",
@@ -2790,7 +2790,7 @@
       "祝福：穩定產出",
       "祝福：狩必有获"
     ],
-    "Media": "inv_snapdragonmount02.jpg"
+    "Media": "inv_vicioussnaplizardmount_horde.jpg"
   },
   {
     "TagId": 1243188,
@@ -2853,7 +2853,7 @@
       "祝福：狡猾狩獵",
       "祝福：狡狐之猎"
     ],
-    "Media": "inv_vicioushordespider.jpg"
+    "Media": "inv_minespider2_violet.jpg"
   },
   {
     "TagId": 1243191,
@@ -2987,7 +2987,7 @@
     "Names": [
       null,
       "Blessing: Ensorcelling Flame",
-      "Bendición: Llama encantadora",
+      "Bendición: Llama embelesadora",
       "Bênção: Chama Enfeitiçante",
       "Blessing: Ensorcelling Flame",
       "Bendición: Llama embrujadora",
@@ -3042,7 +3042,7 @@
       "祝福：蔓延烈焰",
       "祝福：燎原之火"
     ],
-    "Media": "inv_vicioushordespider.jpg"
+    "Media": "inv_minespider2_violet.jpg"
   },
   {
     "TagId": 1243201,
@@ -3231,7 +3231,7 @@
       "祝福：戰時準備",
       "祝福：厉兵秣马"
     ],
-    "Media": "inv_vicioushordespider.jpg"
+    "Media": "inv_minespider2_violet.jpg"
   },
   {
     "TagId": 1243210,
@@ -6682,19 +6682,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Desperate Measures",
-      "Medidas desesperadas",
-      "Medidas Desesperadas",
-      "Desperate Measures",
-      "Medidas desesperadas",
-      "Mesures désespérées",
-      "Отчаянные меры",
-      "Verzweifelte Maßnahmen",
-      "Medidas Desesperadas",
-      "Misure Disperate",
-      "궁여지책",
-      "絕處求生",
-      "孤注一掷"
+      "Void Convergence",
+      "Convergencia de Vacío",
+      "Convergência do Caos",
+      "Void Convergence",
+      "Convergencia del Vacío",
+      "Convergence du Vide",
+      "Слияние Бездны",
+      "Leerenkonvergenz",
+      "Convergência do Caos",
+      "Convergenza del Vuoto",
+      "공허의 수렴",
+      "虛無匯聚",
+      "虚空融合"
     ],
     "Media": "inv_112_raiddimensius_gravity.jpg"
   },
@@ -8524,6 +8524,27 @@
       "根须猎手恐惧山猫"
     ],
     "Media": "inv_harronircatmount_red.jpg"
+  },
+  {
+    "TagId": 1243598,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ivory Grimlynx",
+      "Sombrolince de marfil",
+      "Malevolince Marfim",
+      "Ivory Grimlynx",
+      "Sombrilince de marfil",
+      "Chagrynx ivoire",
+      "Палевая мракорысь",
+      "Elfenbeingrimmluchs",
+      "Malevolince Marfim",
+      "Lincetetra d'Avorio",
+      "상아색 암영스라소니",
+      "象牙冷酷山貓",
+      "象牙恐惧山猫"
+    ],
+    "Media": "inv_harronircatmount_white.jpg"
   },
   {
     "TagId": 1243599,
@@ -12044,7 +12065,7 @@
       "Lavarse en las aguas de Har'kuai",
       "Baignade dans les eaux d’Har’kuaï",
       "Омовение в водах Хар'куай",
-      "In den Wassern von Har'kuai baden",
+      "Im Wasser von Har'kuai baden",
       "Purificação nas Águas de Har'kuai",
       "Bagno nelle Acque di Har'kuai",
       "하르쿠아이의 물에서 목욕하기",
@@ -12688,19 +12709,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Voidlight Echo",
-      "Eco de vacioluz",
-      "Eco de Luz Caótica",
-      "Voidlight Echo",
-      "Eco de luz del Vacío",
-      "Écho de Lumière du Vide",
-      "Мракозарный отголосок",
-      "Leerenlichtecho",
-      "Eco de Luz Caótica",
-      "Eco di Lucevuota",
-      "공허불빛 메아리",
-      "虛光回音",
-      "虚光回响"
+      "Voidlight Rupture",
+      "Ruptura de vacioluz",
+      "Ruptura de Luz Caótica",
+      "Voidlight Rupture",
+      "Ruptura de luz del Vacío",
+      "Rupture de Lumière du Vide",
+      "Мракозарный прорыв",
+      "Leerenlichtausbruch",
+      "Ruptura de Luz Caótica",
+      "Perforazione di Lucevuota",
+      "공허불빛 파열",
+      "虛光割裂",
+      "虚光割裂"
     ],
     "Media": "inv_12_dualityphoenix_lightvoid_explosion.jpg"
   },
@@ -14070,7 +14091,7 @@
       "Abriendo",
       "Abrindo",
       "Opening",
-      "Abriendo",
+      "Abrir",
       "Ouverture",
       "Открывание",
       "Öffnen",

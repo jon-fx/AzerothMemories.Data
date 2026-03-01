@@ -2790,7 +2790,7 @@
       "值勤之行：祖阿曼",
       "使命之旅：祖阿曼"
     ],
-    "Media": "achievement_zone_azjkahet.jpg"
+    "Media": "inv_achievement_zone_zulaman.jpg"
   },
   {
     "TagId": 61223,
@@ -2811,7 +2811,7 @@
       "值勤之行：哈朗達",
       "使命之旅：哈籁恩达尔"
     ],
-    "Media": "achievement_zone_azjkahet.jpg"
+    "Media": "inv_achievement_zone_harandar.jpg"
   },
   {
     "TagId": 61224,
@@ -2832,7 +2832,7 @@
       "值勤之行：虛無風暴",
       "使命之旅：虚影风暴"
     ],
-    "Media": "achievement_zone_azjkahet.jpg"
+    "Media": "inv_zone_voidstorm.jpg"
   },
   {
     "TagId": 61225,
@@ -3112,19 +3112,19 @@
     "TagType": 20,
     "Names": [
       null,
-      "Midnight Hunter",
-      "Cazador de Midnight",
-      "Caçador de Midnight",
-      "Midnight Hunter",
-      "Cazador de Midnight",
-      "Chasse de Midnight",
-      "Полуночный охотник",
-      "Midnight-Jäger",
-      "Caçador de Midnight",
-      "Cacciatore di Midnight",
-      "한밤의 사냥꾼",
-      "至暗之夜獵人",
-      "午夜猎手"
+      "Midnight Bounty",
+      "Recompensa de Midnight",
+      "Contrato de Midnight",
+      "Midnight Bounty",
+      "Botín de Midnight",
+      "Prime de minuit",
+      "Охотник за головами в Midnight",
+      "Midnight-Kopfgeld",
+      "Contrato de Midnight",
+      "Taglia di Midnight",
+      "한밤의 현상금",
+      "至暗之夜賞金",
+      "至暗之夜悬赏"
     ],
     "Media": "inv_bountyhunting.jpg"
   },
@@ -3693,7 +3693,7 @@
       "鑰石英雄：博學者殿堂",
       "钥石英雄：魔导师平台"
     ],
-    "Media": "inv_offhand_sunwell_d_01.jpg"
+    "Media": "inv_achievement_dungeon_magistersterrace.jpg"
   },
   {
     "TagId": 61268,
@@ -3714,7 +3714,7 @@
       "鑰石英雄：奧核點瑟納斯",
       "钥石英雄：节点希纳斯"
     ],
-    "Media": "achievement_arena_2v2_1.jpg"
+    "Media": "inv_achievement_dungeon_nexuspointxenas.jpg"
   },
   {
     "TagId": 61269,
@@ -3735,7 +3735,7 @@
       "鑰石英雄：梅薩拉洞穴",
       "钥石英雄：迈萨拉洞窟"
     ],
-    "Media": "achievement_arena_2v2_1.jpg"
+    "Media": "inv_achievement_dungeon_maisarahills.jpg"
   },
   {
     "TagId": 61270,
@@ -4269,7 +4269,7 @@
     "Names": [
       null,
       "Crown of the Cosmos (Raid Finder Voidspire)",
-      "Corona del cosmos (Buscador de bandas: Aguja del Vacío)",
+      "Corona del Cosmos (Buscador de bandas: Aguja del Vacío)",
       "Coroa do Cosmos (Torre do Caos - Localizador de Raides)",
       "Crown of the Cosmos (Raid Finder Voidspire)",
       "Corona del cosmos (Aguja del Vacío buscador de bandas)",
@@ -4289,7 +4289,7 @@
     "Names": [
       null,
       "Crown of the Cosmos (Normal Voidspire)",
-      "Corona del cosmos (Normal: Aguja del Vacío)",
+      "Corona del Cosmos (Normal: Aguja del Vacío)",
       "Coroa do Cosmos (Torre do Caos - Normal)",
       "Crown of the Cosmos (Normal Voidspire)",
       "Corona del cosmos (Aguja del Vacío normal)",
@@ -4309,7 +4309,7 @@
     "Names": [
       null,
       "Crown of the Cosmos (Heroic Voidspire)",
-      "Corona del cosmos (Heroico: Aguja del Vacío)",
+      "Corona del Cosmos (Heroico: Aguja del Vacío)",
       "Coroa do Cosmos (Torre do Caos - Heroico)",
       "Crown of the Cosmos (Heroic Voidspire)",
       "Corona del cosmos (Aguja del Vacío heroica)",
@@ -4329,7 +4329,7 @@
     "Names": [
       null,
       "Crown of the Cosmos (Mythic Voidspire)",
-      "Corona del cosmos (Mítico: Aguja del Vacío)",
+      "Corona del Cosmos (Mítico: Aguja del Vacío)",
       "Coroa do Cosmos (Torre do Caos - Mítico)",
       "Crown of the Cosmos (Mythic Voidspire)",
       "Corona del cosmos (Aguja del Vacío mítica)",
@@ -5244,7 +5244,7 @@
     "Names": [
       null,
       "Mythic: Crown of the Cosmos",
-      "Mítico: Corona del cosmos",
+      "Mítico: Corona del Cosmos",
       "Mítico: Coroa do Cosmos",
       "Mythic: Crown of the Cosmos",
       "Mítica: Corona del cosmos",
@@ -5446,7 +5446,7 @@
       "狩獵：夢魘模式II",
       "狩猎：梦魇模式 II"
     ],
-    "Media": "inv_manawyrm2mount_3.jpg"
+    "Media": "ability_revendreth_rogue.jpg"
   },
   {
     "TagId": 61392,
@@ -7717,10 +7717,10 @@
     "TagType": 20,
     "Names": [
       null,
-      "Skyriding Glyphs: Master's Perch",
+      "Skyriding Glyphs: Masters' Perch",
       "Glifos de cielonáutica: Nido del Amo",
       "Glifos de Pilotagem Aérea: Ninho do Mestre",
-      "Skyriding Glyphs: Master's Perch",
+      "Skyriding Glyphs: Masters' Perch",
       "Glifos de surcacielos: Pedestal del Maestro",
       "Glyphes de vol dynamique\u00A0: perchoir des Maîtres",
       "Символы высшего пилотажа: Высота непобедимых",
@@ -7827,7 +7827,7 @@
       "Herói das masmorras de Midnight",
       "Midnight Dungeon Hero",
       "Héroe de mazmorra de Midnight",
-      "Héros ou héroïne des donjons de Midnight",
+      "Héroïsme des donjons de Midnight",
       "Покоритель подземелий Midnight",
       "Dungeonheld von Midnight",
       "Herói das masmorras de Midnight",
@@ -8389,19 +8389,19 @@
     "TagType": 20,
     "Names": [
       null,
-      "Mythic: Eco-Dome Al'dani Guild Run (copy)",
-      "Mítico: Hermandad en Ecodomo Al'dani (copia)",
-      "Mítico: Incursão de Guilda no Ecodomo Al'dani (cópia)",
-      "Mythic: Eco-Dome Al'dani Guild Run (copy)",
+      "Mythic: Eco-Dome Al'dani Guild Run",
+      "Mítico: Hermandad en Ecodomo Al'dani",
+      "Mítico: Incursão de Guilda no Ecodomo Al'dani",
+      "Mythic: Eco-Dome Al'dani Guild Run",
       "Mítica: Hermandad en el Ecodomo Al'dani",
-      "Virée en guilde dans l’écodôme Al’dani\u00A0: mode mythique (copie)",
-      "Эпохальный режим: гильдейский марш по заповеднику \"Аль'дани\" (копия)",
-      "Gilde - Mythisch: Biokuppel Al'dani (Kopie)",
-      "Mítico: Incursão de Guilda no Ecodomo Al'dani (cópia)",
+      "Virée en guilde dans l’écodôme Al’dani\u00A0: mode mythique",
+      "Эпохальный режим: гильдейский марш по заповеднику \"Аль'дани\"",
+      "Gilde - Mythisch: Biokuppel Al'dani",
+      "Mítico: Incursão de Guilda no Ecodomo Al'dani",
       "Gilda: Ecosfera Al'dani [M]",
-      "신화: 생태지구 알다니 길드 정복 (복제)",
-      "傳奇：埃達尼秘境公會團（複本）",
-      "史诗：奥尔达尼生态圆顶（公会版）（副本）"
+      "신화: 생태지구 알다니 길드 정복",
+      "傳奇：埃達尼秘境公會團",
+      "史诗：奥尔达尼生态圆顶（公会版）"
     ],
     "Media": "inv_112_achievement_dungeon_ecodome.jpg"
   },
@@ -8474,7 +8474,7 @@
     "Names": [
       null,
       "Mythic: Crown of the Cosmos Guild Run",
-      "Mítico: Hermandad contra la Corona del cosmos",
+      "Mítico: Hermandad contra la Corona del Cosmos",
       "Mítico: Incursão de Guilda contra a Coroa do Cosmos",
       "Mythic: Crown of the Cosmos Guild Run",
       "Mítica: Hermandad contra la corona del cosmos",
@@ -8696,7 +8696,8 @@
       "신화: 공결탑 제나스 길드 정복",
       "傳奇：奧核點瑟納斯公會團",
       "史诗：节点希纳斯（公会版）"
-    ]
+    ],
+    "Media": "inv_achievement_dungeon_nexuspointxenas.jpg"
   },
   {
     "TagId": 61619,
@@ -8767,7 +8768,7 @@
     "Names": [
       null,
       "Hall of Fame: Crown of the Cosmos",
-      "Salón de la fama: Corona del cosmos",
+      "Salón de la fama: Corona del Cosmos",
       "Hall da Fama: Coroa do Cosmos",
       "Hall of Fame: Crown of the Cosmos",
       "Salón de la fama: Corona del cosmos",
@@ -8809,7 +8810,7 @@
     "Names": [
       null,
       "Ahead of the Curve: Crown of the Cosmos",
-      "Aventajado: Corona del cosmos",
+      "Aventajado: Corona del Cosmos",
       "Acima do normal: Coroa do Cosmos",
       "Ahead of the Curve: Crown of the Cosmos",
       "Aventajado: Corona del cosmos",
@@ -8830,7 +8831,7 @@
     "Names": [
       null,
       "Cutting Edge: Crown of the Cosmos",
-      "Innovador: Corona del cosmos",
+      "Innovador: Corona del Cosmos",
       "Vanguarda: Coroa do Cosmos",
       "Cutting Edge: Crown of the Cosmos",
       "Innovador: Corona del cosmos",
@@ -8935,7 +8936,7 @@
     "Names": [
       null,
       "Voidspire: Crown of the Cosmos",
-      "Aguja del Vacío: Corona del cosmos",
+      "Aguja del Vacío: Corona del Cosmos",
       "Torre do Caos: Coroa do Coroa do Cosmos",
       "Voidspire: Crown of the Cosmos",
       "Aguja del Vacío: Corona del cosmos",
@@ -9464,7 +9465,7 @@
       "Superior de Midnight",
       "Midnight Superior",
       "Midnight: superior",
-      "Supériorité de minuit",
+      "Supériorité de Midnight",
       "Превосходное снаряжение Midnight",
       "Midnight-Überlegener",
       "Superior de Midnight",
@@ -9485,7 +9486,7 @@
       "Épico de Midnight",
       "Midnight Epic",
       "Midnight: épico",
-      "Épopée de Minuit",
+      "Épopée de Midnight",
       "Эпическое снаряжение Midnight",
       "Midnight-Epos",
       "Épico de Midnight",
@@ -9759,7 +9760,7 @@
       "Midnight Delver Damage Dealer",
       "DPS de profundidades de Midnight",
       "DPS d’archéologie de Midnight",
-      "Знаток вылазок Midnight – боец",
+      "Знаток вылазок Midnight\u00A0– боец",
       "Midnight-Tiefenforscher: Schadensklasse",
       "Causador de dano das imersões de Midnight",
       "Assaltatore delle Scorribande di Midnight",
@@ -9780,7 +9781,7 @@
       "Midnight Delver Damage Dealer II",
       "DPS de profundidades de Midnight II",
       "DPS d’archéologie de Midnight\u00A0II",
-      "Знаток вылазок Midnight – боец II",
+      "Знаток вылазок Midnight\u00A0– боец II",
       "Midnight-Tiefenforscher: Schadensklasse II",
       "Causador de dano das imersões de Midnight II",
       "Assaltatore delle Scorribande di Midnight II",
@@ -9801,7 +9802,7 @@
       "Midnight Delver Damage Dealer III",
       "DPS de profundidades de Midnight III",
       "DPS d’archéologie de Midnight\u00A0III",
-      "Знаток вылазок Midnight – боец III",
+      "Знаток вылазок Midnight\u00A0– боец III",
       "Midnight-Tiefenforscher: Schadensklasse III",
       "Causador de dano das imersões de Midnight III",
       "Assaltatore delle Scorribande di Midnight III",
@@ -9822,7 +9823,7 @@
       "Midnight Delver Healer",
       "Sanador de profundidades de Midnight",
       "Soins d’archéologie de Midnight",
-      "Знаток вылазок Midnight – лекарь",
+      "Знаток вылазок Midnight\u00A0– лекарь",
       "Midnight-Tiefenforscher: Heiler",
       "Curador das imersões de Midnight",
       "Guaritore delle Scorribande di Midnight",
@@ -9843,7 +9844,7 @@
       "Midnight Delver Healer II",
       "Sanador de profundidades de Midnight II",
       "Soins d’archéologie de Midnight\u00A0II",
-      "Знаток вылазок Midnight – лекарь II",
+      "Знаток вылазок Midnight\u00A0– лекарь II",
       "Midnight-Tiefenforscher: Heiler II",
       "Curador das imersões de Midnight II",
       "Guaritore delle Scorribande di Midnight II",
@@ -9864,7 +9865,7 @@
       "Midnight Delver Healer III",
       "Sanador de profundidades de Midnight III",
       "Soins d’archéologie de Midnight\u00A0III",
-      "Знаток вылазок Midnight – лекарь III",
+      "Знаток вылазок Midnight\u00A0– лекарь III",
       "Midnight-Tiefenforscher: Heiler III",
       "Curador das imersões de Midnight III",
       "Guaritore delle Scorribande di Midnight III",
@@ -9885,7 +9886,7 @@
       "Midnight Delver Tank",
       "Tanque de profundidades de Midnight",
       "Tank d’archéologie de Midnight",
-      "Знаток вылазок Midnight – танк",
+      "Знаток вылазок Midnight\u00A0– танк",
       "Midnight-Tiefenforscher: Tank",
       "Tanque das imersões de Midnight",
       "Difensore delle Scorribande di Midnight",
@@ -9906,7 +9907,7 @@
       "Midnight Delver Tank II",
       "Tanque de profundidades de Midnight II",
       "Tank d’archéologie de Midnight\u00A0II",
-      "Знаток вылазок Midnight – танк II",
+      "Знаток вылазок Midnight\u00A0– танк II",
       "Midnight-Tiefenforscher: Tank II",
       "Tanque das imersões de Midnight II",
       "Difensore delle Scorribande di Midnight II",
@@ -9927,7 +9928,7 @@
       "Midnight Delver Tank III",
       "Tanque de profundidades de Midnight III",
       "Tank d’archéologie de Midnight\u00A0III",
-      "Знаток вылазок Midnight – танк III",
+      "Знаток вылазок Midnight\u00A0– танк III",
       "Midnight-Tiefenforscher: Tank III",
       "Tanque das imersões de Midnight III",
       "Difensore delle Scorribande di Midnight III",
@@ -11111,7 +11112,7 @@
       "黎明冒險者",
       "曙光冒险者"
     ],
-    "Media": "inv_crestupgrade_ethereal_weathered.jpg"
+    "Media": "inv_120_crest_adventurer_enchanted.jpg"
   },
   {
     "TagId": 61832,
@@ -11300,7 +11301,7 @@
       "探索虛無風暴",
       "探索虚影风暴"
     ],
-    "Media": "inv_achievement_zone_harandar.jpg"
+    "Media": "inv_zone_voidstorm.jpg"
   },
   {
     "TagId": 61858,

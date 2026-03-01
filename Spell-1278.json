@@ -39,7 +39,7 @@
       "方陣",
       "英武方阵"
     ],
-    "Media": "inv_1115_warrior_improvedparry.jpg"
+    "Media": "inv12_apextalent_warrior_phalanx.jpg"
   },
   {
     "TagId": 1278010,
@@ -587,19 +587,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2",
-      "Collect [DNT] [AUTOGEN] 11WE_WildElves_Ritual_Altar01.m2"
+      "Collect Altar of the Shul'ka",
+      "Recoger altar del shul'ka",
+      "Coletar Altar dos Shul'ka",
+      "Collect Altar of the Shul'ka",
+      "Añadir altar de los Shul'ka",
+      "Récupérer un autel des Shul’ka",
+      "Получить алтарь шул'ка",
+      "Altar der Shul'ka sammeln",
+      "Coletar Altar dos Shul'ka",
+      "Raccolta Altare degli Shul'ka",
+      "술카의 제단 획득",
+      "收集蘇卡祭壇",
+      "收集舒尔卡的祭坛"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -1967,6 +1967,27 @@
     "Media": "ability_vehicle_electrocharge.jpg"
   },
   {
+    "TagId": 1278156,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Temporal Sands",
+      "Arenas temporales",
+      "Areias Temporais",
+      "Temporal Sands",
+      "Arenas temporales",
+      "Sables temporels",
+      "Темпоральные пески",
+      "Temporaler Sand",
+      "Areias Temporais",
+      "Sabbie Temporali",
+      "시간의 모래",
+      "時光之沙",
+      "时光之沙"
+    ],
+    "Media": "ability_dragonriding_bronzerewind01.jpg"
+  },
+  {
     "TagId": 1278216,
     "TagType": 26,
     "Names": [
@@ -2951,6 +2972,27 @@
       "开启传送门"
     ],
     "Media": "creatureportrait_portal_arathibasinhorde.jpg"
+  },
+  {
+    "TagId": 1278763,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast",
+      "[DNT]Affix Cast"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1278767,
@@ -3943,19 +3985,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Hearty Rootland Celebration",
-      "Celebración de tierraíz abundante",
-      "Comemoração da Raizilândia Substancial",
-      "Hearty Rootland Celebration",
-      "Celebración de la Tierra Enraizada copiosa",
-      "Célébration des terres des Racines copieuse",
-      "Сытное празднество Корневищ",
-      "Herzhafte Wurzellandfeier",
-      "Comemoração da Raizilândia Substancial",
-      "Celebrazione Radicale Abbondante",
-      "든든한 뿌리의 땅 기념상",
-      "澎湃根源之地慶典",
-      "丰盛根野之地庆典大餐"
+      "Hearty Harandar Celebration",
+      "Celebración de Harandar profusa",
+      "Comemoração de Harandar Substancial",
+      "Hearty Harandar Celebration",
+      "Celebración de Harandar copiosa",
+      "Célébration d’Harandar copieuse",
+      "Сытное празднество Харандара",
+      "Herzhafte Harandarfeier",
+      "Comemoração de Harandar Substancial",
+      "Celebrazione di Harandar Abbondante",
+      "든든한 하란다르 기념상",
+      "澎湃哈朗達慶典",
+      "丰盛哈籁恩达尔庆典大餐"
     ],
     "Media": "inv_11_cooking_profession_feast_table02.jpg"
   },
