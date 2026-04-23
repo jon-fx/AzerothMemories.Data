@@ -495,7 +495,7 @@
       "Grausiger Schutz",
       "Proteção Macabra",
       "Protezione Cupa",
-      "그림 수호물",
+      "암울한 수호물",
       "恐怖結界",
       "骇物结界"
     ],
@@ -600,7 +600,7 @@
       "Grausiger Schutz",
       "Proteção Macabra",
       "Protezione Cupa",
-      "그림 수호물",
+      "암울한 수호물",
       "恐怖結界",
       "骇物结界"
     ],
@@ -1773,6 +1773,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270166,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unstable Arcane Spark",
+      "Chispa arcana inestable",
+      "Centelha Arcana Instável",
+      "Unstable Arcane Spark",
+      "Chispa Arcana inestable",
+      "Étincelle arcanique instable",
+      "Нестабильная чародейская искра",
+      "Instabiler arkaner Funke",
+      "Centelha Arcana Instável",
+      "Scintilla Arcana Instabile",
+      "불안정한 비전 불꽃",
+      "不穩定的秘法火花",
+      "不稳定的奥能火花"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270167,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collecting",
+      "Recolectando",
+      "Coletando",
+      "Collecting",
+      "Recogiendo",
+      "Collecte",
+      "Сбор",
+      "Einsammeln",
+      "Coletando",
+      "Raccolta",
+      "수집 중",
+      "收集",
+      "正在收集"
+    ],
+    "Media": "inv_misc_treasurechest02b.jpg"
+  },
+  {
+    "TagId": 1270168,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collecting",
+      "Recolectando",
+      "Coletando",
+      "Collecting",
+      "Recogiendo",
+      "Collecte",
+      "Сбор",
+      "Einsammeln",
+      "Coletando",
+      "Raccolta",
+      "수집 중",
+      "收集",
+      "正在收集"
+    ],
+    "Media": "inv_misc_treasurechest02b.jpg"
+  },
+  {
+    "TagId": 1270169,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Charged",
+      "Carga arcana",
+      "Carregado com Energia Arcana",
+      "Arcane Charged",
+      "Cargado por lo Arcano",
+      "Charge arcanique",
+      "Чародейская зарядка",
+      "Arkan aufgeladen",
+      "Carregado com Energia Arcana",
+      "Caricato di Arcano",
+      "비전 충전",
+      "秘法充能",
+      "奥术充能"
+    ],
+    "Media": "ability_monk_forcesphere_arcane.jpg"
+  },
+  {
+    "TagId": 1270170,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Spark",
+      "Chispa arcana",
+      "Centelha Arcana",
+      "Arcane Spark",
+      "Chispa Arcana",
+      "Étincelle arcanique",
+      "Чародейская искра",
+      "Arkaner Funke",
+      "Centelha Arcana",
+      "Scintilla Arcana",
+      "비전 불꽃",
+      "秘法火花",
+      "奥能火花"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270171,
     "TagType": 26,
     "Names": [
@@ -2277,6 +2382,27 @@
     "Media": "inv_throwingaxe_01.jpg"
   },
   {
+    "TagId": 1270240,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon",
+      "[DNT] Charging Pylon"
+    ],
+    "Media": "inv_shield_1h_harronir_b_01.jpg"
+  },
+  {
     "TagId": 1270241,
     "TagType": 26,
     "Names": [
@@ -2403,6 +2529,27 @@
     "Media": "creatureportrait_bubble.jpg"
   },
   {
+    "TagId": 1270247,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Arcane Spark",
+      "Invocar chispa arcana",
+      "Evocar Centelha Arcana",
+      "Summon Arcane Spark",
+      "Invocar chispa Arcana",
+      "Invocation d’une étincelle arcanique",
+      "Призыв чародейской искры",
+      "Arkanen Funken beschwören",
+      "Evocar Centelha Arcana",
+      "Evocazione: Scintilla Arcana",
+      "비전 불꽃 소환",
+      "召喚秘法火花",
+      "召唤奥能火花"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270248,
     "TagType": 26,
     "Names": [
@@ -2527,6 +2674,27 @@
       "窒息之暗"
     ],
     "Media": "spell_shadow_shadowfury.jpg"
+  },
+  {
+    "TagId": 1270256,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle",
+      "[DNT] Pylon Missle"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270258,
@@ -3871,6 +4039,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270333,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Minor Glamour of Coins",
+      "Encantamiento menor de monedas",
+      "Glamour de Moedas Menor",
+      "Minor Glamour of Coins",
+      "Encantamiento de monedas menor",
+      "Charme de pièces mineur",
+      "Малые чары монет",
+      "Kleine Illusion der Münzen",
+      "Glamour de Moedas Menor",
+      "Illusione di Monete Minore",
+      "하급 동전 비술",
+      "次級硬幣魅力",
+      "小型金币幻魅"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270334,
     "TagType": 26,
     "Names": [
@@ -4400,19 +4589,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect Spring Blossom Pond",
-      "Recoger estanque de flores de primavera",
-      "Coletar Lagoa de Flor da Primavera",
-      "Collect Spring Blossom Pond",
-      "Añadir estanque de flor primaveral",
-      "Récupérer une mare à floraison printanière",
-      "Получить пруд весенних цветов",
-      "Frühlingsblütenteich sammeln",
-      "Coletar Lagoa de Flor da Primavera",
-      "Raccolta Stagno del Bocciolo Primaverile",
-      "봄꽃 연못 획득",
-      "收集春綻池塘",
-      "收集春芳花池"
+      "Collect Spring Blossom Tree Pond",
+      "Recoger estanque de árbol de flores de primavera",
+      "Coletar Lago com Árvore de Flor da Primavera",
+      "Collect Spring Blossom Tree Pond",
+      "Añadir estanque con árbol de flor primaveral",
+      "Récupérer une mare arborée à floraison printanière",
+      "Получить пруд у дерева весенних цветов",
+      "Frühlingsblütenbaumteich sammeln",
+      "Coletar Lago com Árvore de Flor da Primavera",
+      "Raccolta Stagno dell'Albero del Bocciolo Primaverile",
+      "봄꽃 나무 연못 획득",
+      "收集春綻樹池塘",
+      "收集春芳花树池"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -5661,7 +5850,7 @@
     "Names": [
       null,
       "Dark Harvest",
-      "Cosecha oscura",
+      "Cosecha de las tinieblas",
       "Ceifa Sombria",
       "Dark Harvest",
       "Cosecha siniestra",
@@ -5906,6 +6095,27 @@
       "无羁邪怒"
     ],
     "Media": "inv12_apextalent_demonhunter _untetheredrage.jpg"
+  },
+  {
+    "TagId": 1270445,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Corked Bottle of Liquid Mystery",
+      "Recoger botella encorchada de misterio líquido",
+      "Coletar Garrafa Arrolhada de Mistério Líquido",
+      "Collect Corked Bottle of Liquid Mystery",
+      "Añadir botella de líquido misterioso con corcho",
+      "Récupérer une bouteille de mystère liquide fermée",
+      "Получить закупоренную бутылку с жидкой тайной",
+      "Verkorkte Flasche flüssiger Geheimnisse sammeln",
+      "Coletar Garrafa Arrolhada de Mistério Líquido",
+      "Raccolta Bottiglia Tappata di Mistero Liquido",
+      "수수께끼 액체가 든 코르크 마개 병 획득",
+      "收集未開封的神祕液體瓶",
+      "收集塞住的神秘液体瓶"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
   },
   {
     "TagId": 1270446,
@@ -6325,6 +6535,27 @@
       "无羁邪怒"
     ],
     "Media": "inv12_apextalent_demonhunter _untetheredrage.jpg"
+  },
+  {
+    "TagId": 1270477,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest",
+      "[DNT] Akil'zon Name Change - If Player Hasn't complete Quest"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270479,
@@ -7650,6 +7881,27 @@
     "Media": "spell_shadow_soulgem.jpg"
   },
   {
+    "TagId": 1270570,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard",
+      "[DNT] Prop Hunt - Match Quest - Warboard"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270573,
     "TagType": 26,
     "Names": [
@@ -7943,6 +8195,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270595,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270596,
     "TagType": 26,
     "Names": [
@@ -7960,6 +8233,48 @@
       "Add Player Housing Reaction Dialog (DNT)",
       "Add Player Housing Reaction Dialog (DNT)",
       "Add Player Housing Reaction Dialog (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270597,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270598,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -8802,6 +9117,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270661,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270662,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Prev"
+    ],
+    "Media": "misc_arrowleft.jpg"
+  },
+  {
+    "TagId": 1270663,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Next"
+    ],
+    "Media": "misc_arrowright.jpg"
+  },
+  {
     "TagId": 1270664,
     "TagType": 26,
     "Names": [
@@ -8840,6 +9218,48 @@
       "거울의 빛",
       "鏡子發光",
       "镜面闪光"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270666,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270667,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest",
+      "[DNT] Give Quest"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9052,6 +9472,27 @@
       "搭乘载具"
     ],
     "Media": "spell_magic_magearmor.jpg"
+  },
+  {
+    "TagId": 1270682,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit",
+      "12.0.5 Event - Prop Hunt - Tagged Hider - Exit"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270683,
@@ -9810,6 +10251,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270726,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2",
+      "[DNT] Prop Hunt - Match Quest - Warboard 2"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270727,
     "TagType": 26,
     "Names": [
@@ -10270,6 +10732,174 @@
       "嘘！"
     ],
     "Media": "spell_holy_silence.jpg"
+  },
+  {
+    "TagId": 1270751,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1270752,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_WallLamp01.m2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1270753,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Table_Bar_Small01.m2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1270754,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Gazebo02.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1270755,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1270756,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Sconce01.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1270757,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2",
+      "Collect [DNT] [AUTOGEN] 12PH_Folk_Window_Interior01.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1270758,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Small Sturdy Wooden Trellis",
+      "Recoger enrejado de madera sólido pequeño",
+      "Coletar Treliça de Madeira Robusta Pequena",
+      "Collect Small Sturdy Wooden Trellis",
+      "Añadir pérgola de madera recia pequeña",
+      "Récupérer une petite treille robuste en bois",
+      "Получить маленький прочный деревянный трельяж",
+      "Kleines stabiles Holzrankgerüst sammeln",
+      "Coletar Treliça de Madeira Robusta Pequena",
+      "Raccolta Traliccio di Legno Robusto Piccolo",
+      "소형 튼튼한 목재 격자망 획득",
+      "收集小型結實木製棚架",
+      "收集小型牢固的木制篱笆"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
   },
   {
     "TagId": 1270762,
@@ -12015,6 +12645,27 @@
     "Media": "ability_ironmaidens_whirlofblood.jpg"
   },
   {
+    "TagId": 1270877,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker",
+      "12.0.5 Event - Prop Hunt - Achievements - Tag as Class - Spellbreaker"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270878,
     "TagType": 26,
     "Names": [
@@ -13443,6 +14094,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270972,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn",
+      "[DNT] Dragon Pillar Spawn"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270973,
     "TagType": 26,
     "Names": [
@@ -13678,19 +14350,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Harmonic Surge",
-      "Oleada armónica",
-      "Surto Harmônico",
-      "Harmonic Surge",
-      "Oleada armónica",
-      "Afflux harmonique",
+      "Potential Energy",
+      "Energía potencial",
+      "Energia Potencial",
+      "Potential Energy",
+      "Energía potencial",
+      "Énergie potentielle",
       "Гармоничный поток",
-      "Harmonische Welle",
-      "Surto Harmônico",
-      "Impeto Armonico",
-      "조화의 쇄도",
-      "和諧湧動",
-      "和谐涌动"
+      "Potentielle Energie",
+      "Energia Potencial",
+      "Energia Potenziale",
+      "잠재된 기운",
+      "潛在能量",
+      "潜在能量"
     ],
     "Media": "ability_socererking_forcenova.jpg"
   },

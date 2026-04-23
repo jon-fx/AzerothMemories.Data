@@ -199,7 +199,7 @@
       "Retribution Paladin",
       "Paladín Reprensión",
       "Paladin/Paladine Vindicte",
-      "Паладин - Воздаяние",
+      "Паладин: воздаяние",
       "Vergeltungspaladin",
       "Paladino de Retribuição",
       "Paladino Castigo",
@@ -304,7 +304,7 @@
       "Holy Paladin",
       "Paladín Sagrado",
       "Paladin/Paladine Sacré",
-      "Паладин - Свет",
+      "Паладин: свет",
       "Heiligpaladin",
       "Paladino Sagrado",
       "Paladino Sacro",
@@ -1510,6 +1510,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1258105,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger",
+      "[DNT] Create  Square- Area Area-Trigger"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1258106,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport",
+      "Teletransporte",
+      "Teleportar",
+      "Teleport",
+      "Teletransporte",
+      "Téléportation",
+      "Телепортация",
+      "Teleportieren",
+      "Teleportar",
+      "Teletrasporto",
+      "순간이동",
+      "傳送",
+      "传送"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1258107,
     "TagType": 26,
     "Names": [
@@ -1708,7 +1750,7 @@
       "Windwalker Monk",
       "Monje Viajero del viento",
       "Moine/Moniale Marche-vent",
-      "Монах – Танцующий с ветром",
+      "Монах: танцующий с ветром",
       "Windläufermönch",
       "Monge Andarilho do Vento",
       "Monaco Impeto",
@@ -1740,6 +1782,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1258124,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chosen Trap: Void",
+      "Trampa elegida: Vacío",
+      "Armadilha Escolhida: Caos",
+      "Chosen Trap: Void",
+      "Trampa elegida: Vacío",
+      "Piège choisi\u00A0: Vide",
+      "Выбранная ловушка: Бездна",
+      "Gewählte Falle: Leere",
+      "Armadilha Escolhida: Caos",
+      "Trappola Scelta: Vuoto",
+      "선택된 덫: 공허",
+      "選擇的陷阱：虛無",
+      "已选陷阱：虚空"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1258125,
     "TagType": 26,
     "Names": [
@@ -1757,6 +1820,48 @@
       "[DNT] WTF JUST END ALREADY",
       "[DNT] WTF JUST END ALREADY",
       "[DNT] WTF JUST END ALREADY"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1258126,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chosen Trap: Smoke",
+      "Trampa elegida: humo",
+      "Armadilha Escolhida: Fumaça",
+      "Chosen Trap: Smoke",
+      "Trampa elegida: humo",
+      "Piège choisi\u00A0: fumée",
+      "Выбранная ловушка: дым",
+      "Gewählte Falle: Rauch",
+      "Armadilha Escolhida: Fumaça",
+      "Trappola Scelta: Fumo e Specchi",
+      "선택된 덫: 연기",
+      "選擇的陷阱：煙霧",
+      "已选陷阱：烟雾"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1258127,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chosen Trap: Sand",
+      "Trampa elegida: arena",
+      "Armadilha Escolhida: Areia",
+      "Chosen Trap: Sand",
+      "Trampa elegida: arena",
+      "Piège choisi\u00A0: sable",
+      "Выбранная ловушка: песок",
+      "Gewählte Falle: Sand",
+      "Armadilha Escolhida: Areia",
+      "Trappola Scelta: Sabbia",
+      "선택된 덫: 모래",
+      "選擇的陷阱：流沙",
+      "已选陷阱：流沙"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -1801,6 +1906,27 @@
       "生命吸取"
     ],
     "Media": "spell_shadow_lifedrain02.jpg"
+  },
+  {
+    "TagId": 1258132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery",
+      "[DNT] Run Script to Pick Trap Delivery"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1258134,
@@ -1897,7 +2023,7 @@
       "Mistweaver Monk",
       "Monje Tejedor de niebla",
       "Moine/Moniale Tisse-brume",
-      "Монах – Ткач туманов",
+      "Монах: ткач туманов",
       "Nebelwirkermönch",
       "Monge Tecelão da Névoa",
       "Monaco Misticismo",
@@ -2191,7 +2317,7 @@
       "Brewmaster Monk",
       "Monje Maestro cervecero",
       "Moine/Moniale Maître brasseur",
-      "Монах – хмелевар",
+      "Монах: хмелевар",
       "Braumeistermönch",
       "Monge Mestre Cervejeiro",
       "Monaco Mastro Birraio",
@@ -2380,7 +2506,7 @@
       "Protection Warrior",
       "Guerrero Protección",
       "Guerrier/guerrière Protection",
-      "Воин - защита",
+      "Воин: защита",
       "Schutzkrieger",
       "Guerreiro de Proteção",
       "Guerriero Protezione",
@@ -2956,6 +3082,27 @@
       "锯齿劈斩"
     ],
     "Media": "inv_sword_2h_blacksmithing_02.jpg"
+  },
+  {
+    "TagId": 1258208,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor",
+      "12.0.5 Event - Prop Hunt - Funiture - Anchor"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1258209,
@@ -4155,6 +4302,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1258321,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap",
+      "[DNT] Clear Trap"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1258322,
     "TagType": 26,
     "Names": [
@@ -4318,9 +4486,30 @@
       "Ultimo Avvertimento",
       "마지막 경고",
       "最後警告",
-      "最後警告"
+      "最终警告"
     ],
     "Media": "spell_broker_beam.jpg"
+  },
+  {
+    "TagId": 1258337,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cluttermonger",
+      "Baratijólogo",
+      "Comerciante de Tralha",
+      "Cluttermonger",
+      "Acaparador",
+      "Sème-désordre",
+      "Хламовщик",
+      "Krempelkrämer",
+      "Comerciante de Tralha",
+      "Confusore",
+      "잡동사니꾼",
+      "雜物製造者",
+      "杂物大师"
+    ],
+    "Media": "inv_misc_missilelargecluster_red.jpg"
   },
   {
     "TagId": 1258338,
@@ -4532,6 +4721,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1258349,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Remove Props",
+      "Eliminar utilería",
+      "Remover Objetos",
+      "Remove Props",
+      "Eliminar atrezo",
+      "Retirer les accessoires",
+      "Убрать объекты",
+      "Requisiten entfernen",
+      "Remover Objetos",
+      "Rimozione Oggetti",
+      "소품 제거",
+      "移除道具",
+      "移除道具"
+    ],
+    "Media": "10prof_portabletable_alchemy01.jpg"
+  },
+  {
     "TagId": 1258350,
     "TagType": 26,
     "Names": [
@@ -4593,6 +4803,27 @@
       "[DNT] Bonus Event Aura - Giant Node"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1258353,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Remove Finders",
+      "Eliminar buscadores",
+      "Remover Localizadores",
+      "Remove Finders",
+      "Eliminar buscadores",
+      "Retirer les détecteurs",
+      "Убрать ищущих",
+      "Finder entfernen",
+      "Remover Localizadores",
+      "Rimozione Trovatori",
+      "발견자 제거",
+      "移除搜尋器",
+      "移除抓捕者"
+    ],
+    "Media": "inv_skullsplitter.jpg"
   },
   {
     "TagId": 1258354,
@@ -4679,6 +4910,27 @@
     "Media": "inv_misc_gem_variety_01.jpg"
   },
   {
+    "TagId": 1258358,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Song Bird Decoy",
+      "Invocar señuelo de ruiseñor",
+      "Evocar Chamariz de Pássaro Canoro",
+      "Summon Song Bird Decoy",
+      "Invocar señuelo de canto de pájaro",
+      "Invocation d’une diversion chant d’oiseau",
+      "Призыв муляжа певчей птицы",
+      "Singvogelattrappe beschwören",
+      "Evocar Chamariz de Pássaro Canoro",
+      "Evocazione: Uccello Canterino Esca",
+      "명금 미끼 소환",
+      "召喚鳴禽誘餌",
+      "召唤鸣禽诱饵"
+    ],
+    "Media": "ability_garrison_orangebird.jpg"
+  },
+  {
     "TagId": 1258359,
     "TagType": 26,
     "Names": [
@@ -4698,6 +4950,27 @@
       "正在收集"
     ],
     "Media": "inv_wand_22.jpg"
+  },
+  {
+    "TagId": 1258362,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Trap: Song Bird",
+      "Trampa: ruiseñor",
+      "Armadilha: Pássaro Canoro",
+      "Trap: Song Bird",
+      "Trampa: canto de pájaro",
+      "Piège\u00A0: chant d’oiseau",
+      "Ловушка: певчая птица",
+      "Falle: Singvogel",
+      "Armadilha: Pássaro Canoro",
+      "Trappola: Uccello Canterino",
+      "덫: 명금",
+      "陷阱：鳴禽",
+      "陷阱：鸣禽"
+    ],
+    "Media": "ability_garrison_orangebird.jpg"
   },
   {
     "TagId": 1258365,
@@ -5288,6 +5561,27 @@
     "Media": "inv_misc_book_07.jpg"
   },
   {
+    "TagId": 1258409,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bounce",
+      "Rebote",
+      "Quicar",
+      "Bounce",
+      "Rebote",
+      "Rebond",
+      "Подбрасывание",
+      "Abprallen",
+      "Quicar",
+      "Rimbalzo",
+      "튀어오르기",
+      "彈跳",
+      "弹射"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1258410,
     "TagType": 26,
     "Names": [
@@ -5302,7 +5596,7 @@
       "Kyrennas Khadgarimitat",
       "Imitação de Hadggar de Kryenna",
       "Imitazione di Khadgar di Kreynna",
-      "크리엔나의 카드가의 모방품",
+      "키렌나의 카드가의 모방품",
       "克萊娜的卡德加模仿",
       "克琳娜的卡德加仿制酒"
     ],
@@ -5323,7 +5617,7 @@
       "Kyrennas Khadgarimitat",
       "Imitação de Hadggar de Kryenna",
       "Imitazione di Khadgar di Kreynna",
-      "크리엔나의 카드가의 모방품",
+      "키렌나의 카드가의 모방품",
       "克萊娜的卡德加模仿",
       "克琳娜的卡德加仿制酒"
     ],
@@ -6736,6 +7030,27 @@
     "Media": "inv_7xp_inscription_talenttome01.jpg"
   },
   {
+    "TagId": 1258493,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Next Whistle",
+      "Próximo silbido",
+      "Próximo Assobio",
+      "Next Whistle",
+      "Siguiente silbido",
+      "Sifflement suivant",
+      "Следующий свист",
+      "Nächstes Zwitschern",
+      "Próximo Assobio",
+      "Fischio Successivo",
+      "다음 호각",
+      "下次鳴叫",
+      "下次哨声"
+    ],
+    "Media": "inv_11_0_misc_whistle_color1.jpg"
+  },
+  {
     "TagId": 1258495,
     "TagType": 26,
     "Names": [
@@ -7576,6 +7891,27 @@
     "Media": "spell_arcane_starfire.jpg"
   },
   {
+    "TagId": 1258566,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Next Whistle",
+      "Próximo silbido",
+      "Próximo Assobio",
+      "Next Whistle",
+      "Siguiente silbido",
+      "Sifflement suivant",
+      "Следующий свист",
+      "Nächstes Zwitschern",
+      "Próximo Assobio",
+      "Fischio Successivo",
+      "다음 호각",
+      "下次鳴叫",
+      "下次哨声"
+    ],
+    "Media": "inv_11_0_misc_whistle_color1.jpg"
+  },
+  {
     "TagId": 1258567,
     "TagType": 26,
     "Names": [
@@ -7679,6 +8015,48 @@
       "狩魂一击"
     ],
     "Media": "inv12_ability_hunter_takedown.jpg"
+  },
+  {
+    "TagId": 1258573,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Thunderhoof Celestial",
+      "Celestial Pezuña Trueno",
+      "Casco do Trovão Celestial",
+      "Thunderhoof Celestial",
+      "Celestial Pezuña Trueno",
+      "Céleste sabot-tonnerre",
+      "Громокопытный небожитель",
+      "Donnerhufhimmelsross",
+      "Casco do Trovão Celestial",
+      "Celestiale Zoccolo Tonante",
+      "천둥발굽의 천신",
+      "雷蹄天尊",
+      "苍雷踏云"
+    ],
+    "Media": "inv_horsedragonmount_blue.jpg"
+  },
+  {
+    "TagId": 1258574,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stormgilded Celestial",
+      "Celestial tormentáureo",
+      "Celestial Tempestáureo",
+      "Stormgilded Celestial",
+      "Celestial dorado por la tormenta",
+      "Céleste tempête-d’or",
+      "Штормозлатный небожитель",
+      "Sturmgoldhimmelsross",
+      "Celestial Tempestáureo",
+      "Celestiale Tempesta Dorata",
+      "금빛 폭풍의 천신",
+      "風暴金輝天尊",
+      "金辉破霄"
+    ],
+    "Media": "inv_horsedragonmount_yellow.jpg"
   },
   {
     "TagId": 1258584,

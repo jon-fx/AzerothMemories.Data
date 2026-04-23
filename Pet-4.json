@@ -7350,6 +7350,27 @@
     "Media": "inv_catbroker_light.jpg"
   },
   {
+    "TagId": 4862,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Smoldering Valor",
+      "Valor ardiente",
+      "Bravura Fumegante",
+      "Smoldering Valor",
+      "Valor humeante",
+      "Vaillance incandescente",
+      "Тлеющая доблесть",
+      "Kühnglut",
+      "Bravura Fumegante",
+      "Valore Infuocato",
+      "이글거리는 용맹마",
+      "悶燃之勇",
+      "阴燃勇驹"
+    ],
+    "Media": "inv_lunarhorsepet.jpg"
+  },
+  {
     "TagId": 4874,
     "TagType": 23,
     "Names": [
@@ -7749,6 +7770,27 @@
     "Media": "inv_babymanawyrm_void.jpg"
   },
   {
+    "TagId": 4894,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Heartglow Listener",
+      "Oyente cuorebrillo",
+      "Confidente Lumináureo",
+      "Heartglow Listener",
+      "Oyente de brillo corazón",
+      "Fureteur lumecoeur",
+      "Сердцесветный слушатель",
+      "Herzlichtlauscher",
+      "Confidente Lumináureo",
+      "Sentinella Cuordilume",
+      "심장빛 청취자",
+      "心輝聆聽者",
+      "心光引聆者"
+    ],
+    "Media": "inv_goldowlpet.jpg"
+  },
+  {
     "TagId": 4895,
     "TagType": 23,
     "Names": [
@@ -7896,6 +7938,48 @@
     "Media": "inv_wardenowlpet.jpg"
   },
   {
+    "TagId": 4902,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Auspicious Pixiu",
+      "Pixiu auspicioso",
+      "Pixiu Auspicioso",
+      "Auspicious Pixiu",
+      "Pixiu propicio",
+      "Pixiu de bon augure",
+      "Благодатный тяньлу",
+      "Verheißungsvoller Pixiu",
+      "Pixiu Auspicioso",
+      "Pixiu Propizio",
+      "상서로운 비휴",
+      "吉祥貔貅",
+      "纳福灵貅"
+    ],
+    "Media": "inv_pixiupet_gold.jpg"
+  },
+  {
+    "TagId": 4903,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Starshard Whelpling",
+      "Vástago de fragmento estelar",
+      "Dragonetinho de Fragmentos Estelares",
+      "Starshard Whelpling",
+      "Vástago de fragmento estelar",
+      "Dragonnet de l’étincelle stellaire",
+      "Звездный дракончик",
+      "Sternensplitterwelpling",
+      "Dragonetinho de Fragmentos Estelares",
+      "Draghetto della Scheggia Stellare",
+      "별조각 새끼용",
+      "星裂龍寶寶",
+      "星辰雏龙"
+    ],
+    "Media": "inv_netherwingpet.jpg"
+  },
+  {
     "TagId": 4905,
     "TagType": 23,
     "Names": [
@@ -7984,16 +8068,16 @@
     "TagType": 23,
     "Names": [
       null,
-      "Do, child of Fi'lo",
-      "Do, cría de Fi'lo",
-      "Do, filho de Fi'lo",
-      "Do, child of Fi'lo",
+      "Do, Child of Fi'lo",
+      "Do, hijo de Fi'lo",
+      "Do, Filho de Filo",
+      "Do, Child of Fi'lo",
       "Do, hijo de Fi'lo",
       "Do, enfant de Fi’lo",
       "До, дитя Фи'ло",
       "Do, Kind von Filo",
-      "Do, filho de Fi'lo",
-      "Do, Figlio di Filo",
+      "Do, Filho de Filo",
+      "Do, Figlio di Fi'lo",
       "필로의 자손 도",
       "『菲洛之子』嘟",
       "多尔，费洛之子"
@@ -8188,6 +8272,48 @@
       "扭曲的记忆"
     ],
     "Media": "spell_fire_blueflamering.jpg"
+  },
+  {
+    "TagId": 4943,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Star the Lucky Dragon",
+      "Astro, el Dragón afortunado",
+      "Estrela, o Dragão da Sorte",
+      "Star the Lucky Dragon",
+      "Estrella, el Dragón de la Suerte",
+      "Étoile le Dragon porte-bonheur",
+      "Счастливчик Звездный Лучик",
+      "Sternchen der Glücksdrache",
+      "Estrela, o Dragão da Sorte",
+      "Stella il Drago Fortunato",
+      "복을 부르는 용 별빛이",
+      "福龍星星",
+      "好运灵龙小星"
+    ],
+    "Media": "inv_babyfaeriedragonblack.jpg"
+  },
+  {
+    "TagId": 4944,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Gummi the Glow Wyrm",
+      "Gomi, el vermis brillante",
+      "Gummi, a Morelita Brilhante",
+      "Gummi the Glow Wyrm",
+      "Gomi la Vermis Brillante",
+      "Géli le wyrm luminescent",
+      "Лучезмееныш Мармеладик",
+      "Gummi der Glühwyrm",
+      "Gummi, a Morelita Brilhante",
+      "Gummi il Dragone Luminoso",
+      "반짝지룡 구미",
+      "發光龍鰻古米",
+      "闪光浮龙谷米"
+    ],
+    "Media": "inv_manawurm2pink.jpg"
   },
   {
     "TagId": 4945,
@@ -8629,6 +8755,27 @@
       "高尔萨姆"
     ],
     "Media": "inv_capybara.jpg"
+  },
+  {
+    "TagId": 4968,
+    "TagType": 23,
+    "Names": [
+      null,
+      "Lil' Staropod",
+      "Mini estrellópodo",
+      "Estrelopodezinho",
+      "Lil' Staropod",
+      "Miniestrellópodo",
+      "P’tit stellopode",
+      "Звездолапка",
+      "Kleiner Sternfüßler",
+      "Estrelopodezinho",
+      "Piccolo Stellopode",
+      "꼬마 별빛공룡",
+      "小星腳龍",
+      "小星踪"
+    ],
+    "Media": "inv_celestialbrontosauruspet.jpg"
   },
   {
     "TagId": 4971,

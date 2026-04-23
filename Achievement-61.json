@@ -1777,7 +1777,7 @@
       "Полуночное сафари",
       "Midnight-Safari",
       "Safári de Midnight",
-      "Safari di Mezzanotte",
+      "Safari di mezzanotte",
       "한밤 사냥기",
       "至暗之夜狩旅團",
       "至暗之夜猎人"
@@ -10821,6 +10821,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 61792,
+    "TagType": 20,
+    "Names": [
+      null,
+      "T-A-G that spells \"Gotcha!\"",
+      "M-A-R-C-A que dice \"¡Te tengo!\"",
+      "Quebra-esconderijo",
+      "T-A-G that spells \"Gotcha!\"",
+      "¡Te pillé!",
+      "Bibidi babidi… BOUH\u00A0!",
+      "Метка с надписью \"Плохо прячешься\"",
+      "Schnappt Euch die Zauber!",
+      "Quebra-esconderijo",
+      "Ti ho beccato!",
+      "잡았다, 넌 내 거야!",
+      "你被逮捕了！",
+      "逮个正着！"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61793,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Deployed to the Void",
+      "Despliegue en el Vacío",
+      "Nulificados com sucesso",
+      "Deployed to the Void",
+      "Herramienta del Vacío",
+      "Déploiement dans le Vide",
+      "Набег из Бездны",
+      "Zur Ehre der Leere",
+      "Nulificados com sucesso",
+      "Schierato verso il Vuoto",
+      "공허로의 배치",
+      "發配虛無",
+      "虚空空降兵"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
     "TagId": 61796,
     "TagType": 20,
     "Names": [
@@ -11533,6 +11575,174 @@
       "无拘地下城大师"
     ],
     "Media": "achievement_dungeon_heroic_gloryoftheraider.jpg"
+  },
+  {
+    "TagId": 61878,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Tagged and Bagged",
+      "Marcado y capturado",
+      "Enquadro arcano",
+      "Tagged and Bagged",
+      "Pillado y hundido",
+      "Qui va à la chasse perd la face",
+      "Попались",
+      "Markiert und anvisiert",
+      "Enquadro arcano",
+      "Messo nel sacco",
+      "깔끔한 포획",
+      "打包抓走",
+      "插标卖首"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61879,
+    "TagType": 20,
+    "Names": [
+      null,
+      "You're It",
+      "Tú la traes",
+      "Tá com você",
+      "You're It",
+      "Tú la llevas",
+      "C’est toi le chat\u00A0!",
+      "Теперь ты води",
+      "Erwischt!",
+      "Tá com você",
+      "Ti ho preso",
+      "이제 네가 술래야",
+      "換你當鬼",
+      "你是“鬼”了"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61880,
+    "TagType": 20,
+    "Names": [
+      null,
+      "It's Cold Here in This Shadow",
+      "Son frías las sombras",
+      "Juntando teias",
+      "It's Cold Here in This Shadow",
+      "Qué frío hace a la sombra",
+      "Froides sont les ténèbres",
+      "Так холодно в тени",
+      "Es ist kalt hier im Schatten",
+      "Juntando teias",
+      "Fa freddo qui all'ombra",
+      "이런 데서 자면 감기 걸려",
+      "陰影之下冷颼颼",
+      "影中寒蝉"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61881,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hide and Peekless",
+      "Escondido y escurridizo",
+      "Não-achados e perdidos",
+      "Hide and Peekless",
+      "Escondite infalible",
+      "La cachette parfaite",
+      "Тише воды",
+      "Versteckt und unentdeckt",
+      "Não-achados e perdidos",
+      "Nascosto e introvabile",
+      "숨바꼭질 초고수",
+      "躲貓貓專家",
+      "藏影无踪"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61882,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Null and Avoided",
+      "Nulidad y evasión",
+      "Nulo e de nenhum efeito",
+      "Null and Avoided",
+      "Por los pelos",
+      "Entre les mailles du filet",
+      "Насилу ушли",
+      "Gefunden und entwunden",
+      "Nulo e de nenhum efeito",
+      "Elusione totale",
+      "발각 무효",
+      "抓到才算數",
+      "众里寻他千百度"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61883,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Now You Don't See Me...",
+      "Ahora no me ven...",
+      "Truque de mestre",
+      "Now You Don't See Me...",
+      "Ahora no me ves...",
+      "Insaisissable",
+      "Фокус с исчезновением",
+      "Jetzt sehr Ihr mich nicht...",
+      "Truque de mestre",
+      "Ora non mi vedi...",
+      "이젠 안 보일걸...",
+      "你看不見我…",
+      "现在你看不到我了……"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61886,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Whole Kit and Caboodle",
+      "Colección completa",
+      "De kit, mala e cuia",
+      "The Whole Kit and Caboodle",
+      "Equipación completa",
+      "Kit ou double",
+      "Для полного набора",
+      "Mit allem drum und dran",
+      "De kit, mala e cuia",
+      "Pacchetto completo",
+      "도구 완벽 수집",
+      "整套技能",
+      "全副武装"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
+  },
+  {
+    "TagId": 61887,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Disguised to the Nines",
+      "Disfraz impecable",
+      "Disfarce sob medida",
+      "Disguised to the Nines",
+      "Disfraz de primera",
+      "Déguisement à quatre épingles",
+      "Маскировка до зубов",
+      "Verkleidet bis über beide Ohren",
+      "Disfarce sob medida",
+      "Nascosti di tutto punto",
+      "철두철미한 변장",
+      "極致偽裝",
+      "百变大咖"
+    ],
+    "Media": "inv_leatherworking_70_loveseat.jpg"
   },
   {
     "TagId": 61890,

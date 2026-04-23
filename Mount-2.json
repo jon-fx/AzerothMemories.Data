@@ -656,7 +656,7 @@
     "Names": [
       null,
       "Riverwalker Mushan",
-      "Surcarríos Mushan",
+      "Mushan surcarríos",
       "Mushan Andarrio",
       "Riverwalker Mushan",
       "Mushan caminarríos",
@@ -855,7 +855,7 @@
       "Batedor de Traje de Meca",
       "Meccanotuta della Volta di Pietra",
       "바위금고 기계복",
-      "石庫機甲",
+      "石庫機械戰甲",
       "矶石宝库机甲"
     ],
     "Media": "inv_dwarvenmechboss.jpg"
@@ -2136,7 +2136,7 @@
       "Traje de Meca de Diamante",
       "Meccanotuta Adamantina",
       "다이아몬드 기계복",
-      "鑽石機甲",
+      "鑽石機械戰甲",
       "钻石机甲"
     ],
     "Media": "inv_crystalmech_teal.jpg"
@@ -4399,7 +4399,7 @@
       "Void-Scarred Lynx",
       "Lince marcado por el Vacío",
       "Lynx marqué par le Vide",
-      "Зараженная Бездной рысь",
+      "Израненная Бездной рысь",
       "Leerenvernarbter Luchs",
       "Lince Marcado pelo Caos",
       "Lince Sfregiata dal Vuoto",
@@ -4639,6 +4639,27 @@
       "好奇的岩背兽"
     ],
     "Media": "inv_kareshroamermount_crimson.jpg"
+  },
+  {
+    "TagId": 2566,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Lana'thel's Crimson Cascade",
+      "Cascada carmesí de Lana'thel",
+      "Cascata Carmesim de Lana'thel",
+      "Lana'thel's Crimson Cascade",
+      "Cascada carmesí de Lana'thel",
+      "Cascade cramoisie de Lana’thel",
+      "Алый каскад Лана'тель",
+      "Lana'thels blutrote Kaskade",
+      "Cascata Carmesim de Lana'thel",
+      "Cascata Cremisi di Lana'thel",
+      "라나텔의 진홍빛 쇄도",
+      "菈娜薩爾的赤紅流瀑",
+      "兰娜瑟尔的血色瀑流"
+    ],
+    "Media": "inv_bloodelementalmount.jpg"
   },
   {
     "TagId": 2567,
@@ -5649,6 +5670,27 @@
     "Media": "inv_voidflyermountmythic.jpg"
   },
   {
+    "TagId": 2632,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Astral Aurochs",
+      "Uros astrales",
+      "Auroque Astral",
+      "Astral Aurochs",
+      "Aurochs astral",
+      "Aurochs astral",
+      "Астральный тур",
+      "Astraler Auerochse",
+      "Auroque Astral",
+      "Uro Astrale",
+      "창공의 들소",
+      "星界野牛",
+      "星牯"
+    ],
+    "Media": "inv_bullmount.jpg"
+  },
+  {
     "TagId": 2633,
     "TagType": 22,
     "Names": [
@@ -5668,6 +5710,27 @@
       "碧蓝虚空飞镰虫"
     ],
     "Media": "inv_voidflyermountmythic.jpg"
+  },
+  {
+    "TagId": 2634,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Scorching Valor",
+      "Valor abrasador",
+      "Bravura Calcinante",
+      "Scorching Valor",
+      "Valor agostador",
+      "Vaillance ardente",
+      "Обжигающая доблесть",
+      "Kühnlohe",
+      "Bravura Calcinante",
+      "Valore Bruciante",
+      "타오르는 용맹마",
+      "灼燒之勇",
+      "炽燃勇驹"
+    ],
+    "Media": "inv_lunarhorsemount.jpg"
   },
   {
     "TagId": 2640,
@@ -6614,6 +6677,69 @@
     ]
   },
   {
+    "TagId": 2717,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Mechanical Prototype Panther MK-0",
+      "Prototipo mecánico Pantera MK-0",
+      "Protótipo Mecânico Pantera MK-0",
+      "Mechanical Prototype Panther MK-0",
+      "Prototipo de pantera mecánica Mk. 0",
+      "Panthère\u00A0MK-0 prototype mécanique",
+      "Механический прототип пантеры, модель 0",
+      "Mechanischer Panther-Prototyp MK-0",
+      "Protótipo Mecânico Pantera MK-0",
+      "Prototipo Meccanico Pantera MK-0",
+      "시험생산형 기계 표범 마크 0",
+      "機械獵豹原型MK-0",
+      "机械改装原型豹MK-0"
+    ],
+    "Media": "inv_pantheramount.jpg"
+  },
+  {
+    "TagId": 2718,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Steel Prototype Panther MK-0",
+      "Prototipo de acero Pantera MK-0",
+      "Protótipo Metálico Pantera MK-0",
+      "Steel Prototype Panther MK-0",
+      "Prototipo de pantera de acero Mk. 0",
+      "Panthère\u00A0MK-0 prototype d’acier",
+      "Стальной прототип пантеры, модель 0",
+      "Stählerner Panther-Prototyp MK-0",
+      "Protótipo Metálico Pantera MK-0",
+      "Prototipo d'Acciaio Pantera MK-0",
+      "시험생산형 강철 표범 마크 0",
+      "鋼鐵獵豹原型MK-0",
+      "钢铁改装原型豹MK-0"
+    ],
+    "Media": "inv_pantheramountironhorde.jpg"
+  },
+  {
+    "TagId": 2719,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Starspark Netherdrake",
+      "Draco abisal de chispa estelar",
+      "Draco Etéreo da Centelha Estelar",
+      "Starspark Netherdrake",
+      "Draco abisal de chispa estelar",
+      "Drake de l’Aile-du-Néant de l’étincelle stellaire",
+      "Звездноискристый дракон Пустоты",
+      "Sternfunkelnder Netherdrache",
+      "Draco Etéreo da Centelha Estelar",
+      "Draco Fatuo della Scintilla Stellare",
+      "별빛불꽃 황천의 비룡",
+      "星耀虛空龍",
+      "星焰虚空幼龙"
+    ],
+    "Media": "inv_netherwingmount.jpg"
+  },
+  {
     "TagId": 2720,
     "TagType": 22,
     "Names": [
@@ -6819,7 +6945,7 @@
       "Maldestriero del Signore del Fatuo Vilderiso",
       "황천군주의 지옥멸시 공포마",
       "魔蔑虛空領主恐懼戰馬",
-      "蔑邪虚空之王的恐惧战马"
+      "蔑邪扭曲虚空之王的恐惧战马"
     ],
     "Media": "inv_warlockmount_fel.jpg"
   },
@@ -6906,6 +7032,48 @@
       "伤愈腐食者"
     ],
     "Media": "inv_mythichexeaglemount_white.jpg"
+  },
+  {
+    "TagId": 2742,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Thunderhoof Celestial",
+      "Celestial Pezuña Trueno",
+      "Casco do Trovão Celestial",
+      "Thunderhoof Celestial",
+      "Celestial Pezuña Trueno",
+      "Céleste sabot-tonnerre",
+      "Громокопытный небожитель",
+      "Donnerhufhimmelsross",
+      "Casco do Trovão Celestial",
+      "Celestiale Zoccolo Tonante",
+      "천둥발굽의 천신",
+      "雷蹄天尊",
+      "苍雷踏云"
+    ],
+    "Media": "inv_horsedragonmount_blue.jpg"
+  },
+  {
+    "TagId": 2743,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Stormgilded Celestial",
+      "Celestial tormentáureo",
+      "Celestial Tempestáureo",
+      "Stormgilded Celestial",
+      "Celestial dorado por la tormenta",
+      "Céleste tempête-d’or",
+      "Штормозлатный небожитель",
+      "Sturmgoldhimmelsross",
+      "Celestial Tempestáureo",
+      "Celestiale Tempesta Dorata",
+      "금빛 폭풍의 천신",
+      "風暴金輝天尊",
+      "金辉破霄"
+    ],
+    "Media": "inv_horsedragonmount_yellow.jpg"
   },
   {
     "TagId": 2747,
@@ -7326,6 +7494,27 @@
       "先祖战熊"
     ],
     "Media": "inv_amanibearmount_wood.jpg"
+  },
+  {
+    "TagId": 2779,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Witherbark Warbear Mother",
+      "Mamá osa de guerra secacorteza",
+      "Mãe Ursa de Guerra Cascasseca",
+      "Witherbark Warbear Mother",
+      "Madre osa de guerra Secacorteza",
+      "Matriarche ourse de guerre fanécorce",
+      "Боевая медведица Сухокожих",
+      "Kriegsbärenmutter der Bleichborken",
+      "Mãe Ursa de Guerra Cascasseca",
+      "Mamma Orsa da Guerra degli Scorzasecca",
+      "마른나무껍질 전투곰 어미",
+      "枯木戰熊族母",
+      "枯木战熊之母"
+    ],
+    "Media": "inv_amanibearmount_witherbark.jpg"
   },
   {
     "TagId": 2785,
@@ -7979,6 +8168,27 @@
     "Media": "inv_gardensnailmount_red.jpg"
   },
   {
+    "TagId": 2838,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Fantastical Goblin Waveshredder",
+      "Trizaolas goblin fantástico",
+      "Retalhador de Ondas Goblínico Fantástico",
+      "Fantastical Goblin Waveshredder",
+      "Trituraolas goblin fantástico",
+      "Déchiqueteur de vagues gobelin fantastique",
+      "Фантастический гоблинский волнокрошшер",
+      "Fantastischer Goblinwellenschredder",
+      "Retalhador de Ondas Goblínico Fantástico",
+      "Tagliaonde Fantastico dei Goblin",
+      "황홀한 고블린 파도분쇄기",
+      "荒誕哥布林破浪板",
+      "奇异的地精斩浪者"
+    ],
+    "Media": "inv_goblinsurfboardmount_orange.jpg"
+  },
+  {
     "TagId": 2840,
     "TagType": 22,
     "Names": [
@@ -8040,6 +8250,27 @@
       "奥能虚空构造体"
     ],
     "Media": "inv_arcanegolem2voidmount.jpg"
+  },
+  {
+    "TagId": 2843,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ghastropod",
+      "Gasterópodo",
+      "Gastropavor",
+      "Ghastropod",
+      "Gastehorrórpodo",
+      "Spectéropode",
+      "Зомбоног",
+      "Spukfüßer",
+      "Gastropavor",
+      "Spettropode",
+      "복족류",
+      "巨蝸",
+      "瘴气腹足蜗牛"
+    ],
+    "Media": "inv_snailmount_green.jpg"
   },
   {
     "TagId": 2845,
@@ -8124,6 +8355,27 @@
       "蛮荒噬人藤"
     ],
     "Media": "inv_gardenvinemount_red.jpg"
+  },
+  {
+    "TagId": 2849,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Hypo-Speed X6000",
+      "Hipoveloz X6000",
+      "Hipovelocidade X6000",
+      "Hypo-Speed X6000",
+      "Hipovelocidad X6000",
+      "Hypo-vitesse\u00A0X6000",
+      "Гипоскорость 6000",
+      "Hypo-Geschwindigkeit X6000",
+      "Hipovelocidade X6000",
+      "Iposaetta X6000",
+      "초고속 X6000",
+      "嗨速X6000",
+      "亚速X6000型"
+    ],
+    "Media": "inv_goblintrikemount.jpg"
   },
   {
     "TagId": 2850,
@@ -8252,6 +8504,48 @@
     "Media": "inv_resinrhinomount_purple.jpg"
   },
   {
+    "TagId": 2914,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Fel Spirehawk",
+      "Espirhalcón vil",
+      "Falcão-agulha Vil",
+      "Fel Spirehawk",
+      "Halcón saeta vil",
+      "Faucon des flèches gangrené",
+      "Ястреб пиков Скверны",
+      "Teufelsfalke der Spitzen",
+      "Falcão-agulha Vil",
+      "Falco delle Guglie Vile",
+      "지옥 첨탑매",
+      "魔化高山鷹",
+      "邪能尖塔飞鹰"
+    ],
+    "Media": "inv_stormcrowmount_fel.jpg"
+  },
+  {
+    "TagId": 2915,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Unbound Manawyrm",
+      "Vermis de maná desligado",
+      "Moreia de Mana Desvinculada",
+      "Unbound Manawyrm",
+      "Vermis de maná desvinculada",
+      "Wyrm de mana délié",
+      "Неприкаянный маназмей",
+      "Ungebundener Manawyrm",
+      "Moreia de Mana Desvinculada",
+      "Dragone di Mana Svincolato",
+      "속박 풀린 마나 지룡",
+      "無縛法力飛龍",
+      "无缚法力浮龙"
+    ],
+    "Media": "inv_dragonchromaticmount2.jpg"
+  },
+  {
     "TagId": 2917,
     "TagType": 22,
     "Names": [
@@ -8271,6 +8565,342 @@
       "阿努莎拉，暗影启迪"
     ],
     "Media": "inv_dreamowl_purple_mount.jpg"
+  },
+  {
+    "TagId": 2926,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Gilnean Iron Charger",
+      "Destrero de hierro gilneano",
+      "Corcel Férreo Guilneano",
+      "Gilnean Iron Charger",
+      "Destrero ferroso gilneano",
+      "Destrier de fer gilnéen",
+      "Железный гилнеасский скакун",
+      "Eisernes gilnearisches Streitross",
+      "Corcel Férreo Guilneano",
+      "Destriero Gilneano di Ferro",
+      "길니아스 강철 군마",
+      "吉爾尼斯鋼鐵戰騎",
+      "吉尔尼斯铁质战马"
+    ],
+    "Media": "inv_gilneashorsemount.jpg"
+  },
+  {
+    "TagId": 2927,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Gilnean Copper Charger",
+      "Destrero de cobre gilneano",
+      "Corcel Cúpreo Guilneano",
+      "Gilnean Copper Charger",
+      "Destrero cobrizo gilneano",
+      "Destrier de cuivre gilnéen",
+      "Медный гилнеасский скакун",
+      "Kupfernes gilnearisches Streitross",
+      "Corcel Cúpreo Guilneano",
+      "Destriero Gilneano di Rame",
+      "길니아스 구릿빛 군마",
+      "吉爾尼斯紅銅戰騎",
+      "吉尔尼斯铜质战马"
+    ],
+    "Media": "inv_gilneashorsemount.jpg"
+  },
+  {
+    "TagId": 2928,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Pyrewood Rebel's Rouncey",
+      "Caballo de servicio de rebelde de Piroleña",
+      "Corcel Rebelde de Lenhardente",
+      "Pyrewood Rebel's Rouncey",
+      "Rocín de rebelde de Piroleña",
+      "Roncin de rebelle de Bois-du-Bûcher",
+      "Конь мятежника из Погребальных Костров",
+      "Rebellenruntzid aus Lohenscheit",
+      "Corcel Rebelde de Lenhardente",
+      "Ronzino del Ribelle di Rovonero",
+      "장작나무 저항군 준마",
+      "焚木反抗軍通用馬",
+      "焚木村反叛者驮马"
+    ],
+    "Media": "inv_gilneashorsemount.jpg"
+  },
+  {
+    "TagId": 2929,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Gilneas Loyalist's Rouncey",
+      "Caballo de servicio de partidario de Gilneas",
+      "Corcel do Legalista de Guilnéas",
+      "Gilneas Loyalist's Rouncey",
+      "Rocín de leal gilneano",
+      "Roncin de loyaliste de Gilnéas",
+      "Конь гилнеасского лоялиста",
+      "Loyalistenruntzid aus Gilneas",
+      "Corcel do Legalista de Guilnéas",
+      "Ronzino del Lealista di Gilneas",
+      "길니아스 충성주의자 준마",
+      "吉爾尼斯忠誠者通用馬",
+      "吉尔尼斯效忠者驮马"
+    ],
+    "Media": "inv_gilneashorsemount.jpg"
+  },
+  {
+    "TagId": 2930,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Blossomback Arboon",
+      "Ramandril lomoflor",
+      "Arbuíno de Dorso Floral",
+      "Blossomback Arboon",
+      "Baburbóreo de espalda floreciente",
+      "Arbouin fleuréchine",
+      "Цветущий древуин",
+      "Blütenrückenbaumaffe",
+      "Arbuíno de Dorso Floral",
+      "Arbuino Dorsofiorito",
+      "만개등 삼림비비",
+      "花背樹狒狒",
+      "繁花背林狒"
+    ],
+    "Media": "inv_springmonkeymount_white.jpg"
+  },
+  {
+    "TagId": 2931,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Amberback Arboon",
+      "Ramandril lomodorado",
+      "Arbuíno de Dorso Âmbar",
+      "Amberback Arboon",
+      "Baburbóreo de espalda de ámbar",
+      "Arbouin ambréchine",
+      "Янтарный древуин",
+      "Bernrückenbaumaffe",
+      "Arbuíno de Dorso Âmbar",
+      "Arbuino Dorsoambrato",
+      "호박등 삼림비비",
+      "燼背樹狒狒",
+      "琥珀背林狒"
+    ],
+    "Media": "inv_springmonkeymount_brown.jpg"
+  },
+  {
+    "TagId": 2933,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Magister's Spell Bee",
+      "Abeja hechicera del magíster",
+      "Abelha Sabida do Magíster",
+      "Magister's Spell Bee",
+      "Abeja hechizante de magister",
+      "Abeille ensorcelée de magistère",
+      "Премудрая пчела магистра",
+      "Zauberbiene des Magisters",
+      "Abelha Sabida do Magíster",
+      "Ape Incantata del Magistro",
+      "마법학자의 마법 벌",
+      "博學者法術蜜蜂",
+      "魔导师的法术之蜂"
+    ],
+    "Media": "inv_cooking_80_choralhoney3.jpg"
+  },
+  {
+    "TagId": 2935,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Void-Touched Hawkstrider",
+      "Halcón zancudo tocado por el Vacío",
+      "Falcostruz Tocado pelo Caos",
+      "Void-Touched Hawkstrider",
+      "Halcón zancudo tocado por el Vacío",
+      "Faucon-pérégrin touché par le Vide",
+      "Меченный Бездной крылобег",
+      "Leerenberührter Falkenschreiter",
+      "Falcostruz Tocado pelo Caos",
+      "Zampalesta Toccato dal Vuoto",
+      "공허에 물든 매타조",
+      "虛無之觸陸行鷹",
+      "虚空之触陆行鸟"
+    ],
+    "Media": "inv_blue_hawkstrider.jpg"
+  },
+  {
+    "TagId": 2939,
+    "TagType": 22,
+    "Names": [
+      null,
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_blue.jpg"
+  },
+  {
+    "TagId": 2940,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Dusk-Painted Sun Roc",
+      "Roc de sol pintado por el ocaso",
+      "Roca do Sol Pintado de Ocaso",
+      "Dusk-Painted Sun Roc",
+      "Roc de sol pintado por el ocaso",
+      "Roc solaire peint par le crépuscule",
+      "Сумеречный солнечный рух",
+      "Dämmergezeichneter Sonnenroc",
+      "Roca do Sol Pintado de Ocaso",
+      "Grifalco del Sole Dipinto dal Vespro",
+      "어스름에 물든 태양 로크",
+      "暮繪陽鵬",
+      "暮绘阳鹏"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_dark.jpg"
+  },
+  {
+    "TagId": 2941,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Flame-Painted Sun Roc",
+      "Roc de sol pintado por las llamas",
+      "Roca do Sol Pintado de Chamas",
+      "Flame-Painted Sun Roc",
+      "Roc de sol pintado por las llamas",
+      "Roc solaire peint par la flamme",
+      "Пламенный солнечный рух",
+      "Flammengezeichneter Sonnenroc",
+      "Roca do Sol Pintado de Chamas",
+      "Grifalco del Sole Dipinto dalle Fiamme",
+      "불꽃에 물든 태양 로크",
+      "焰繪陽鵬",
+      "焰绘阳鹏"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_gold.jpg"
+  },
+  {
+    "TagId": 2942,
+    "TagType": 22,
+    "Names": [
+      null,
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_white.jpg"
+  },
+  {
+    "TagId": 2948,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Golden Ashened Cataclysm",
+      "Cataclismo cenizo dorado",
+      "Cataclismo Cinzento Dourado",
+      "Golden Ashened Cataclysm",
+      "Cataclismo cenizo dorado",
+      "Cataclysme cendré doré",
+      "Золотой Пепельный Катаклизм",
+      "Aschener Goldkataklysmus",
+      "Cataclismo Cinzento Dourado",
+      "Cataclisma Cinereo Dorato",
+      "금빛 재로 물든 대격변",
+      "黃金灰燼災變",
+      "金色烬灭灾变者"
+    ],
+    "Media": "inv_encrypted13_gold.jpg"
+  },
+  {
+    "TagId": 2961,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Void-Corrupted Hex Eagle",
+      "Águila maldecida corrompida por el Vacío",
+      "Águia Bagateira Corrompida pelo Caos",
+      "Void-Corrupted Hex Eagle",
+      "Águila de maleficios corrompida por el Vacío",
+      "Aigle ensorcelé corrompu par le Vide",
+      "Зараженный Бездной проклятый орел",
+      "Leerenverderbter Hexadler",
+      "Águia Bagateira Corrompida pelo Caos",
+      "Aquila Malvincolata Corrotta dal Vuoto",
+      "공허에 오염된 사술 독수리",
+      "虛無腐化妖術老鷹",
+      "虚空腐化的邪鹰"
+    ],
+    "Media": "inv_weapon_shortblade_28.jpg"
+  },
+  {
+    "TagId": 2964,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Void-Touched Snapdragon",
+      "Boca de dragón tocado por el Vacío",
+      "Dracolisco Tocado pelo Caos",
+      "Void-Touched Snapdragon",
+      "Bocadragón tocado por el Vacío",
+      "Mordragon touché par le Vide",
+      "Меченный Бездной морской варан",
+      "Leerenberührter Schnappdrache",
+      "Dracolisco Tocado pelo Caos",
+      "Drago Carnivoro Toccato dal Vuoto",
+      "공허에 물든 치악룡",
+      "虛無之觸嚙龍",
+      "虚触毒鳍龙"
+    ],
+    "Media": "inv_seaeel_teal.jpg"
+  },
+  {
+    "TagId": 2965,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Void-Corrupted Lynx",
+      "Lince corrompido por el Vacío",
+      "Lince Corrompido pelo Caos",
+      "Void-Corrupted Lynx",
+      "Lince corrompido por el Vacío",
+      "Lynx corrompu par le Vide",
+      "Зараженная Бездной рысь",
+      "Leerenverderbter Luchs",
+      "Lince Corrompido pelo Caos",
+      "Lince Corrotta dal Vuoto",
+      "공허에 오염된 스라소니",
+      "虛無腐化山貓",
+      "虚空腐化的山猫"
+    ],
+    "Media": "inv_leatherworking_70_petleash.jpg"
   },
   {
     "TagId": 2969,

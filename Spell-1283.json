@@ -1,5 +1,68 @@
 [
   {
+    "TagId": 1283000,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4",
+      "[DNT] Talking Head: Scenario C3 S4"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283001,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poison Tipped Spear",
+      "Lanza con punta envenenada",
+      "Lança com Ponta Envenenada",
+      "Poison Tipped Spear",
+      "Lanza con punta envenenada",
+      "Lance trempée de poison",
+      "Отравленное копье",
+      "Giftbenetzter Speer",
+      "Lança com Ponta Envenenada",
+      "Lancia Avvelenata",
+      "맹독 창",
+      "毒鋒之矛",
+      "毒尖长矛"
+    ],
+    "Media": "ability_hunter_cobrashot.jpg"
+  },
+  {
+    "TagId": 1283002,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Blue Sunwalker Guard",
+      "Conjunto: Guardia de caminasol azul",
+      "Indumentária: Guarda Andarilho do Sol Azul",
+      "Ensemble: Blue Sunwalker Guard",
+      "Indumentaria: Guardia azul de caminasol",
+      "Ensemble\u00A0: garde de marche-soleil bleue",
+      "Комплект: синие доспехи Служителя Солнца",
+      "Ensemble: Blauer Sonnenläuferschutz",
+      "Indumentária: Guarda Andarilho do Sol Azul",
+      "Set: Armatura del Campione del Sole Blu",
+      "복장: 파란색 태양길잡이 보호구",
+      "套裝：藍色日行者之衛",
+      "套装：蓝色烈日行者护装"
+    ],
+    "Media": "inv_helm_armor_sunwalker_d_01.jpg"
+  },
+  {
     "TagId": 1283004,
     "TagType": 26,
     "Names": [
@@ -21,6 +84,27 @@
     "Media": "spell_misc_emotionhappy.jpg"
   },
   {
+    "TagId": 1283005,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wounding Poison",
+      "Veneno lacerante",
+      "Veneno Dilacerante",
+      "Wounding Poison",
+      "Veneno hiriente",
+      "Poison mutilant",
+      "Ослабляющий яд",
+      "Verwundendes Gift",
+      "Veneno Dilacerante",
+      "Veleno Debilitante",
+      "부상 독",
+      "致傷毒藥",
+      "致伤毒药"
+    ],
+    "Media": "ability_hunter_cobrashot.jpg"
+  },
+  {
     "TagId": 1283035,
     "TagType": 26,
     "Names": [
@@ -38,6 +122,27 @@
       "Trigger IGC - TSA [DNT]",
       "Trigger IGC - TSA [DNT]",
       "Trigger IGC - TSA [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283036,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ley-Torn Skies",
+      "Cielos rasgados por líneas ley",
+      "Céus Rasgados pelo Meridiano",
+      "Ley-Torn Skies",
+      "Cielos desgarra-Ley",
+      "Cieux terre-brisée",
+      "Расколотые силовые небеса",
+      "Leygespaltener Himmel",
+      "Céus Rasgados pelo Meridiano",
+      "Cieli Strappafaglie",
+      "지맥에 찢긴 하늘",
+      "碎脈天空",
+      "魔网撕裂天空"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -399,6 +504,132 @@
     "Media": "ability_skyreach_wind_wall.jpg"
   },
   {
+    "TagId": 1283138,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dredging Undertow",
+      "Arrastre de contracorriente",
+      "Correnteza de Dragagem",
+      "Dredging Undertow",
+      "Resaca dragadora",
+      "Ressac bourbeux",
+      "Затягивающее течение",
+      "Reißender Tiefensog",
+      "Correnteza de Dragagem",
+      "Risacca Dragante",
+      "치솟는 역류",
+      "衝擊暗流",
+      "拖拽逆流"
+    ],
+    "Media": "spell_nature_riptide.jpg"
+  },
+  {
+    "TagId": 1283139,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fathom Crash",
+      "Colisión sondeadora",
+      "Colisão de Braça",
+      "Fathom Crash",
+      "Colisión de los abismos",
+      "Choc des profondeurs",
+      "Глубинное сокрушение",
+      "Tiefenschmettern",
+      "Colisão de Braça",
+      "Schianto delle Profondità",
+      "심해 충돌",
+      "深淵撞擊",
+      "深渊冲撞"
+    ],
+    "Media": "spell_frost_summonwaterelemental.jpg"
+  },
+  {
+    "TagId": 1283140,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drenching Surge",
+      "Oleada torrencial",
+      "Surto Encharcante",
+      "Drenching Surge",
+      "Oleada torrencial",
+      "Déferlement aquatique",
+      "Обливающий всплеск",
+      "Durchnässende Woge",
+      "Surto Encharcante",
+      "Impeto Infradiciante",
+      "흠뻑 적시는 쇄도",
+      "浸透湧流",
+      "浸透水波"
+    ],
+    "Media": "ability_mage_waterjet.jpg"
+  },
+  {
+    "TagId": 1283141,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rising Tides",
+      "Olas crecientes",
+      "Marés Altas",
+      "Rising Tides",
+      "Mareas crecientes",
+      "Marées hautes",
+      "Поднимающиеся приливы",
+      "Brausende Fluten",
+      "Marés Altas",
+      "Maree Crescenti",
+      "솟구치는 파도",
+      "浪潮高漲",
+      "涨潮"
+    ],
+    "Media": "spell_shaman_tidalwaves.jpg"
+  },
+  {
+    "TagId": 1283142,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rising Tides",
+      "Olas crecientes",
+      "Marés Altas",
+      "Rising Tides",
+      "Mareas crecientes",
+      "Marées hautes",
+      "Поднимающиеся приливы",
+      "Brausende Fluten",
+      "Marés Altas",
+      "Maree Crescenti",
+      "솟구치는 파도",
+      "浪潮高漲",
+      "涨潮"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283144,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rising Tides",
+      "Olas crecientes",
+      "Marés Altas",
+      "Rising Tides",
+      "Mareas crecientes",
+      "Marées hautes",
+      "Поднимающиеся приливы",
+      "Brausende Fluten",
+      "Marés Altas",
+      "Maree Crescenti",
+      "솟구치는 파도",
+      "浪潮高漲",
+      "涨潮"
+    ],
+    "Media": "spell_shaman_tidalwaves.jpg"
+  },
+  {
     "TagId": 1283147,
     "TagType": 26,
     "Names": [
@@ -420,6 +651,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283149,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drenching Surge",
+      "Oleada torrencial",
+      "Surto Encharcante",
+      "Drenching Surge",
+      "Oleada torrencial",
+      "Déferlement aquatique",
+      "Обливающий всплеск",
+      "Durchnässende Woge",
+      "Surto Encharcante",
+      "Impeto Infradiciante",
+      "흠뻑 적시는 쇄도",
+      "浸透湧流",
+      "浸透水波"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283168,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Combine Ascendant Voidshards",
+      "Combinar fragmentos del Vacío ascendentes",
+      "Combinar Estilhaços do Caos Ascendente",
+      "Combine Ascendant Voidshards",
+      "Combinar fragmentos del Vacío ascendiente",
+      "Combinaison d’éclats du Vide ascendants",
+      "Объединение вознесенных осколков Бездны",
+      "Aufsteigende Leerensplitter kombinieren",
+      "Combinar Estilhaços do Caos Ascendente",
+      "Combinazione Schegge del Vuoto Ascendenti",
+      "승천의 공허조각 결합",
+      "合成卓越虛無裂片",
+      "组合晋升虚空碎片"
+    ],
+    "Media": "inv_1205_voidforge_sovereignvoidcores_cosmicvoid.jpg"
+  },
+  {
     "TagId": 1283236,
     "TagType": 26,
     "Names": [
@@ -439,6 +712,27 @@
       "虚空斥力"
     ],
     "Media": "inv_nullstone_void.jpg"
+  },
+  {
+    "TagId": 1283243,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drenching Surge",
+      "Oleada torrencial",
+      "Surto Encharcante",
+      "Drenching Surge",
+      "Oleada torrencial",
+      "Déferlement aquatique",
+      "Обливающий всплеск",
+      "Durchnässende Woge",
+      "Surto Encharcante",
+      "Impeto Infradiciante",
+      "흠뻑 적시는 쇄도",
+      "浸透湧流",
+      "浸透水波"
+    ],
+    "Media": "ability_mage_waterjet.jpg"
   },
   {
     "TagId": 1283244,
@@ -923,6 +1217,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283296,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Enraged Tides",
+      "Marea enfurecida",
+      "Marés Enfurecidas",
+      "The Enraged Tides",
+      "Las mareas enfurecidas",
+      "La marée enragée",
+      "Гневные волны",
+      "Die erzürnten Gezeiten",
+      "Marés Enfurecidas",
+      "Maree Infuriate",
+      "격노한 해일",
+      "狂怒之潮",
+      "狂暴之潮"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283297,
     "TagType": 26,
     "Names": [
@@ -984,6 +1299,48 @@
       "投掷匕首"
     ],
     "Media": "ability_throw.jpg"
+  },
+  {
+    "TagId": 1283303,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dredging Undertow",
+      "Arrastre de contracorriente",
+      "Correnteza de Dragagem",
+      "Dredging Undertow",
+      "Resaca dragadora",
+      "Ressac bourbeux",
+      "Затягивающее течение",
+      "Reißender Tiefensog",
+      "Correnteza de Dragagem",
+      "Risacca Dragante",
+      "치솟는 역류",
+      "衝擊暗流",
+      "拖拽逆流"
+    ],
+    "Media": "spell_nature_riptide.jpg"
+  },
+  {
+    "TagId": 1283310,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dredging Undertow",
+      "Arrastre de contracorriente",
+      "Correnteza de Dragagem",
+      "Dredging Undertow",
+      "Resaca dragadora",
+      "Ressac bourbeux",
+      "Затягивающее течение",
+      "Reißender Tiefensog",
+      "Correnteza de Dragagem",
+      "Risacca Dragante",
+      "치솟는 역류",
+      "衝擊暗流",
+      "拖拽逆流"
+    ],
+    "Media": "spell_nature_riptide.jpg"
   },
   {
     "TagId": 1283314,
@@ -1238,6 +1595,27 @@
     "Media": "ability_warrior_rampage.jpg"
   },
   {
+    "TagId": 1283343,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rising Tides",
+      "Olas crecientes",
+      "Marés Altas",
+      "Rising Tides",
+      "Mareas crecientes",
+      "Marées hautes",
+      "Поднимающиеся приливы",
+      "Brausende Fluten",
+      "Marés Altas",
+      "Maree Crescenti",
+      "솟구치는 파도",
+      "浪潮高漲",
+      "涨潮"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283344,
     "TagType": 26,
     "Names": [
@@ -1257,6 +1635,48 @@
       "收割者战刃"
     ],
     "Media": "inv_ability_aldrachireaverdemonhunter_reaversglaive.jpg"
+  },
+  {
+    "TagId": 1283349,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rising Tides",
+      "Olas crecientes",
+      "Marés Altas",
+      "Rising Tides",
+      "Mareas crecientes",
+      "Marées hautes",
+      "Поднимающиеся приливы",
+      "Brausende Fluten",
+      "Marés Altas",
+      "Maree Crescenti",
+      "솟구치는 파도",
+      "浪潮高漲",
+      "涨潮"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283350,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rising Tides",
+      "Olas crecientes",
+      "Marés Altas",
+      "Rising Tides",
+      "Mareas crecientes",
+      "Marées hautes",
+      "Поднимающиеся приливы",
+      "Brausende Fluten",
+      "Marés Altas",
+      "Maree Crescenti",
+      "솟구치는 파도",
+      "浪潮高漲",
+      "涨潮"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283351,
@@ -1637,6 +2057,237 @@
     "Media": "achievement_dungeon_ulduar77.jpg"
   },
   {
+    "TagId": 1283382,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Duskrunner's Painted Battle Garb",
+      "Conjunto: Atuendo de batalla pintado de trotaocasos",
+      "Indumentária: Induto de Batalha Pintado do Galganoite",
+      "Ensemble: Duskrunner's Painted Battle Garb",
+      "Indumentaria: Atuendo de batalla pintado de Correocaso",
+      "Ensemble\u00A0: atours de bataille peints de coursenuit",
+      "Комплект: расписное боевое облачение Сумрачного Бегуна",
+      "Ensemble: Bemaltes Schlachtgewand des Abendläufers",
+      "Indumentária: Induto de Batalha Pintado do Galganoite",
+      "Set: Abiti da Battaglia Dipinti del Calcavespro",
+      "복장: 그늘길잡이의 도색된 전투복",
+      "套裝：暮行者彩繪戰鬥裝束",
+      "套装：暮行者的绘纹战衣"
+    ],
+    "Media": "inv_helm_armor_sunwalker_d_01.jpg"
+  },
+  {
+    "TagId": 1283383,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283384,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual",
+      "[DNT] Gate Visual"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283386,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rainbow Runners",
+      "Corredores arcoíris",
+      "Pisantes Arco-íris",
+      "Rainbow Runners",
+      "Corredores arcoíris",
+      "Sandalettes arc-en-ciel",
+      "Радужные стопы",
+      "Regenbogenläufer",
+      "Pisantes Arco-íris",
+      "Scarpe da Corsa Arcobaleno",
+      "무지개 신발",
+      "彩虹跑鞋",
+      "彩虹奔行靴"
+    ],
+    "Media": "inv_boots_cloth_35v4.jpg"
+  },
+  {
+    "TagId": 1283392,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disgorge Mana",
+      "Erupción de maná",
+      "Expulsar Mana",
+      "Disgorge Mana",
+      "Vomitar maná",
+      "Dégurgitation de mana",
+      "Извержение маны",
+      "Mana auswürgen",
+      "Expulsar Mana",
+      "Rigurgito di Mana",
+      "마나 쏟아내기",
+      "嘔出法力",
+      "倾泻法力"
+    ],
+    "Media": "ability_socererking_arcanereplication.jpg"
+  },
+  {
+    "TagId": 1283393,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Power Thirst",
+      "Sed de poder",
+      "Sedento de Poder",
+      "Power Thirst",
+      "Sed de poder",
+      "Soif de puissance",
+      "Жажда силы",
+      "Machtdurst",
+      "Sedento de Poder",
+      "Sete di Potere",
+      "힘의 갈망",
+      "能量飢渴",
+      "能量渴求"
+    ],
+    "Media": "inv_112_arcane_debuff.jpg"
+  },
+  {
+    "TagId": 1283394,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Displacer Beam",
+      "Rayo desplazador",
+      "Feixe Deslocador",
+      "Displacer Beam",
+      "Haz desplazador",
+      "Rayon de déplacement",
+      "Смещающий луч",
+      "Teleportstrahl",
+      "Feixe Deslocador",
+      "Raggio Dislocante",
+      "변위 광선",
+      "位移光束",
+      "位移光束"
+    ],
+    "Media": "spell_arcane_arcanetorrent.jpg"
+  },
+  {
+    "TagId": 1283395,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arcane Expulsion",
+      "Expulsión arcana",
+      "Repulsão Arcana",
+      "Arcane Expulsion",
+      "Expulsión Arcana",
+      "Expulsion arcanique",
+      "Чародейской исторжение",
+      "Arkaner Ausstoß",
+      "Repulsão Arcana",
+      "Espulsione Arcana",
+      "비전 방출",
+      "魔爆術",
+      "奥术驱除"
+    ],
+    "Media": "ability_mage_arcanesurge.jpg"
+  },
+  {
+    "TagId": 1283396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disgorge Mana",
+      "Erupción de maná",
+      "Expulsar Mana",
+      "Disgorge Mana",
+      "Vomitar maná",
+      "Dégurgitation de mana",
+      "Извержение маны",
+      "Mana auswürgen",
+      "Expulsar Mana",
+      "Rigurgito di Mana",
+      "마나 쏟아내기",
+      "嘔出法力",
+      "倾泻法力"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283397,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disgorge Mana",
+      "Erupción de maná",
+      "Expulsar Mana",
+      "Disgorge Mana",
+      "Vomitar maná",
+      "Dégurgitation de mana",
+      "Извержение маны",
+      "Mana auswürgen",
+      "Expulsar Mana",
+      "Rigurgito di Mana",
+      "마나 쏟아내기",
+      "嘔出法力",
+      "倾泻法力"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283398,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Disgorge Mana",
+      "Erupción de maná",
+      "Expulsar Mana",
+      "Disgorge Mana",
+      "Vomitar maná",
+      "Dégurgitation de mana",
+      "Извержение маны",
+      "Mana auswürgen",
+      "Expulsar Mana",
+      "Rigurgito di Mana",
+      "마나 쏟아내기",
+      "嘔出法力",
+      "倾泻法力"
+    ],
+    "Media": "ability_socererking_arcanereplication.jpg"
+  },
+  {
     "TagId": 1283401,
     "TagType": 26,
     "Names": [
@@ -1679,6 +2330,27 @@
     "Media": "spell_warrior_wildstrike.jpg"
   },
   {
+    "TagId": 1283404,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hydrating",
+      "Hidratación",
+      "Hidratando",
+      "Hydrating",
+      "Hidratando",
+      "Hydratation",
+      "Утоление жажды",
+      "Hydrieren",
+      "Hidratando",
+      "Idratazione",
+      "수분 공급",
+      "補充水分",
+      "正在补水"
+    ],
+    "Media": "inv_drink_02.jpg"
+  },
+  {
     "TagId": 1283406,
     "TagType": 26,
     "Names": [
@@ -1698,6 +2370,27 @@
       "破膛之刺"
     ],
     "Media": "ability_backstab.jpg"
+  },
+  {
+    "TagId": 1283411,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Displacer Beam",
+      "Rayo desplazador",
+      "Feixe Deslocador",
+      "Displacer Beam",
+      "Haz desplazador",
+      "Rayon de déplacement",
+      "Смещающий луч",
+      "Teleportstrahl",
+      "Feixe Deslocador",
+      "Raggio Dislocante",
+      "변위 광선",
+      "位移光束",
+      "位移光束"
+    ],
+    "Media": "spell_arcane_arcanetorrent.jpg"
   },
   {
     "TagId": 1283417,
@@ -1825,6 +2518,27 @@
     "Media": "spell_nature_bloodlust.jpg"
   },
   {
+    "TagId": 1283443,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gnome Power!",
+      "¡Poder gnomo!",
+      "Poder Gnômico!",
+      "Gnome Power!",
+      "¡Poder de gnomo!",
+      "Puissance des Gnomes\u00A0!",
+      "Гномья сила!",
+      "Gnomenkraft!",
+      "Poder Gnômico!",
+      "Potenza Gnomesca!",
+      "노움의 힘!",
+      "地精之力！",
+      "侏儒之力！"
+    ],
+    "Media": "inv_gnometoy.jpg"
+  },
+  {
     "TagId": 1283444,
     "TagType": 26,
     "Names": [
@@ -1846,6 +2560,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283453,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Runner of the Gnomes",
+      "Velocista de los gnomos",
+      "Corredor dos Gnomos",
+      "Runner of the Gnomes",
+      "Corredor de los gnomos",
+      "Grand Prix terminé",
+      "Гномий бегун",
+      "Läufer der Gnome",
+      "Corredor dos Gnomos",
+      "Corridore degli Gnomi",
+      "노움의 주자",
+      "地精跑者",
+      "侏儒奔跑者"
+    ],
+    "Media": "inv_misc_tournaments_symbol_gnome.jpg"
+  },
+  {
+    "TagId": 1283454,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Runner of the Gnomes",
+      "Velocista de los gnomos",
+      "Corredor dos Gnomos",
+      "Runner of the Gnomes",
+      "Corredor de los gnomos",
+      "Grand Prix terminé",
+      "Гномий бегун",
+      "Läufer der Gnome",
+      "Corredor dos Gnomos",
+      "Corridore degli Gnomi",
+      "노움의 주자",
+      "地精跑者",
+      "侏儒奔跑者"
+    ],
+    "Media": "inv_misc_tournaments_symbol_gnome.jpg"
+  },
+  {
     "TagId": 1283455,
     "TagType": 26,
     "Names": [
@@ -1865,6 +2621,48 @@
       "[DNT] Scoreboard - End - UIToast"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283456,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping",
+      "[DNT] Flying Ethereal Ping"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283458,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Great Job!",
+      "¡Así se hace!",
+      "Ótimo Trabalho!",
+      "Great Job!",
+      "¡Buen trabajo!",
+      "Beau travail\u00A0!",
+      "Отлично!",
+      "Gute Arbeit!",
+      "Ótimo Trabalho!",
+      "Ottimo Lavoro!",
+      "훌륭함!",
+      "做得好！",
+      "干得漂亮！"
+    ],
+    "Media": "ability_monk_forcesphere_arcane.jpg"
   },
   {
     "TagId": 1283462,
@@ -2119,6 +2917,153 @@
     "Media": "garrison_building_storehouse.jpg"
   },
   {
+    "TagId": 1283494,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1283495,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1283497,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1283498,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1283499,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1283500,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_undead_alchemy_table.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1283501,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1283502,
     "TagType": 26,
     "Names": [
@@ -2182,6 +3127,48 @@
     "Media": "ability_fixated_state_red.jpg"
   },
   {
+    "TagId": 1283515,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Sunbringer's Painted Battle Garb",
+      "Conjunto: Atuendo de batalla pintado de librasoles",
+      "Indumentária: Induto de Batalha Pintado do Invoca-sol",
+      "Ensemble: Sunbringer's Painted Battle Garb",
+      "Indumentaria: Atuendo de batalla pintado de Portasol",
+      "Ensemble\u00A0: atours de bataille peints de porte-soleil",
+      "Комплект: расписное боевое облачение Вестника Солнца",
+      "Ensemble: Bemaltes Schlachtgewand des Sonnenbringers",
+      "Indumentária: Induto de Batalha Pintado do Invoca-sol",
+      "Set: Abiti da Battaglia Dipinti del Portasole",
+      "복장: 태양인도자의 도색된 전투복",
+      "套裝：喚日使者彩繪戰鬥裝束",
+      "套装：烈日使者的绘纹战衣"
+    ],
+    "Media": "inv_helm_armor_sunwalker_d_01.jpg"
+  },
+  {
+    "TagId": 1283519,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nexus Skiff",
+      "Esquife del nexo",
+      "Esquife do Nexus",
+      "Nexus Skiff",
+      "Esquife de nexo",
+      "Esquif du Nexus",
+      "Лодка Нексуса",
+      "Nexusboot",
+      "Esquife do Nexus",
+      "Scialuppa del Nexus",
+      "연합체 소형선",
+      "奧核小艇",
+      "节点小艇"
+    ],
+    "Media": "inv_airshipmountethereal.jpg"
+  },
+  {
     "TagId": 1283520,
     "TagType": 26,
     "Names": [
@@ -2224,6 +3211,27 @@
     "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
   },
   {
+    "TagId": 1283522,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Power Thirst",
+      "Sed de poder",
+      "Sedento de Poder",
+      "Power Thirst",
+      "Sed de poder",
+      "Soif de puissance",
+      "Жажда силы",
+      "Machtdurst",
+      "Sedento de Poder",
+      "Sete di Potere",
+      "힘의 갈망",
+      "能量飢渴",
+      "能量渴求"
+    ],
+    "Media": "inv_112_arcane_debuff.jpg"
+  },
+  {
     "TagId": 1283526,
     "TagType": 26,
     "Names": [
@@ -2243,6 +3251,69 @@
       "[dnt] Imbuing"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283532,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283538,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nexus Feedback",
+      "Descarga del nexo",
+      "Realimentação do Nexus",
+      "Nexus Feedback",
+      "Reacción de nexo",
+      "Réaction du Nexus",
+      "Ответная реакция Нексуса",
+      "Nexusrückkopplung",
+      "Realimentação do Nexus",
+      "Retroazione del Nexus",
+      "연합체 역순환",
+      "奧核回饋",
+      "节点反馈"
+    ],
+    "Media": "inv_misc_stormlordsfavor.jpg"
+  },
+  {
+    "TagId": 1283539,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nexus Barrier",
+      "Barrera del nexo",
+      "Barreira do Nexus",
+      "Nexus Barrier",
+      "Barrera de nexo",
+      "Barrière du Nexus",
+      "Барьер нексуса",
+      "Nexusbarriere",
+      "Barreira do Nexus",
+      "Barriera del Nexus",
+      "연합 방벽",
+      "奧核屏障",
+      "节点屏障"
+    ],
+    "Media": "inv_cosmicvoid_nova.jpg"
   },
   {
     "TagId": 1283540,
@@ -2266,6 +3337,69 @@
     "Media": "inv_elemental_mote_mana.jpg"
   },
   {
+    "TagId": 1283541,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Searing Beak",
+      "Pico abrasador",
+      "Bico Calcinante",
+      "Searing Beak",
+      "Pico abrasador",
+      "Bec incendiaire",
+      "Раскаленный клюв",
+      "Sengender Schnabel",
+      "Bico Calcinante",
+      "Beccata Rovente",
+      "불타는 부리",
+      "灼熱之喙",
+      "炽热尖喙"
+    ],
+    "Media": "inv_misc_raptortalon_nightmare.jpg"
+  },
+  {
+    "TagId": 1283543,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Nexus Barrier",
+      "Barrera del nexo",
+      "Barreira do Nexus",
+      "Nexus Barrier",
+      "Barrera de nexo",
+      "Barrière du Nexus",
+      "Барьер нексуса",
+      "Nexusbarriere",
+      "Barreira do Nexus",
+      "Barriera del Nexus",
+      "연합 방벽",
+      "奧核屏障",
+      "节点屏障"
+    ],
+    "Media": "inv_airshipmountethereal.jpg"
+  },
+  {
+    "TagId": 1283544,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Searing Beak",
+      "Pico abrasador",
+      "Bico Calcinante",
+      "Searing Beak",
+      "Pico abrasador",
+      "Bec incendiaire",
+      "Раскаленный клюв",
+      "Sengender Schnabel",
+      "Bico Calcinante",
+      "Beccata Rovente",
+      "불타는 부리",
+      "灼熱之喙",
+      "炽热尖喙"
+    ],
+    "Media": "inv_misc_raptortalon_nightmare.jpg"
+  },
+  {
     "TagId": 1283545,
     "TagType": 26,
     "Names": [
@@ -2285,6 +3419,69 @@
       "正在携带超载的魔法晶格"
     ],
     "Media": "inv_112_raidtrinkets_etherealenergystoragebattery_terra.jpg"
+  },
+  {
+    "TagId": 1283546,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Combusting Presence",
+      "Presencia en combustión",
+      "Presença Combustiva",
+      "Combusting Presence",
+      "Presencia combustionadora",
+      "Présence à combustion",
+      "Воспламеняющая аура",
+      "Verbrennende Präsenz",
+      "Presença Combustiva",
+      "Presenza Bruciante",
+      "타오르는 존재감",
+      "燃灼領域",
+      "爆燃气息"
+    ],
+    "Media": "ability_warlock_inferno.jpg"
+  },
+  {
+    "TagId": 1283547,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Combusting Presence",
+      "Presencia en combustión",
+      "Presença Combustiva",
+      "Combusting Presence",
+      "Presencia combustionadora",
+      "Présence à combustion",
+      "Воспламеняющая аура",
+      "Verbrennende Präsenz",
+      "Presença Combustiva",
+      "Presenza Bruciante",
+      "타오르는 존재감",
+      "燃灼領域",
+      "爆燃气息"
+    ],
+    "Media": "ability_warlock_inferno.jpg"
+  },
+  {
+    "TagId": 1283548,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory",
+      "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Victory"
+    ],
+    "Media": "spell_nature_strength.jpg"
   },
   {
     "TagId": 1283553,
@@ -2348,6 +3545,90 @@
       "[DNT] 12.0 Dungeon - Windrunner Spire - Sound Squisher"
     ],
     "Media": "trade_archaeology_carved harp of exotic wood.jpg"
+  },
+  {
+    "TagId": 1283558,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Twisters",
+      "Torbellinos llameantes",
+      "Ciclones Flamejantes",
+      "Flaming Twisters",
+      "Remolinos llameantes",
+      "Tornades enflammées",
+      "Пламенные смерчи",
+      "Flammende Wirbelstürme",
+      "Ciclones Flamejantes",
+      "Vortici Fiammeggianti",
+      "이글거리는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷"
+    ],
+    "Media": "ability_butcher_whirl.jpg"
+  },
+  {
+    "TagId": 1283559,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Twisters",
+      "Torbellinos llameantes",
+      "Ciclones Flamejantes",
+      "Flaming Twisters",
+      "Remolinos llameantes",
+      "Tornades enflammées",
+      "Пламенные смерчи",
+      "Flammende Wirbelstürme",
+      "Ciclones Flamejantes",
+      "Vortici Fiammeggianti",
+      "이글거리는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷"
+    ],
+    "Media": "ability_butcher_whirl.jpg"
+  },
+  {
+    "TagId": 1283561,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Twisters",
+      "Torbellinos llameantes",
+      "Ciclones Flamejantes",
+      "Flaming Twisters",
+      "Remolinos llameantes",
+      "Tornades enflammées",
+      "Пламенные смерчи",
+      "Flammende Wirbelstürme",
+      "Ciclones Flamejantes",
+      "Vortici Fiammeggianti",
+      "이글거리는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283566,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flaming Twisters",
+      "Torbellinos llameantes",
+      "Ciclones Flamejantes",
+      "Flaming Twisters",
+      "Remolinos llameantes",
+      "Tornades enflammées",
+      "Пламенные смерчи",
+      "Flammende Wirbelstürme",
+      "Ciclones Flamejantes",
+      "Vortici Fiammeggianti",
+      "이글거리는 회오리",
+      "燃焰龍捲風",
+      "炽燃龙卷"
+    ],
+    "Media": "ability_butcher_whirl.jpg"
   },
   {
     "TagId": 1283568,
@@ -2476,6 +3757,48 @@
     "Media": "inv_cosmicvoid_missile.jpg"
   },
   {
+    "TagId": 1283598,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cinder Breath",
+      "Aliento de cenizas",
+      "Sopro de Cinzas",
+      "Cinder Breath",
+      "Aliento de ceniza",
+      "Souffle de cendres",
+      "Испепеляющее дыхание",
+      "Glutodem",
+      "Sopro de Cinzas",
+      "Soffio di Ceneri",
+      "잿불 숨결",
+      "燼息術",
+      "灰烬吐息"
+    ],
+    "Media": "inv_icon_wingbroken06d.jpg"
+  },
+  {
+    "TagId": 1283600,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cinder Breath",
+      "Aliento de cenizas",
+      "Sopro de Cinzas",
+      "Cinder Breath",
+      "Aliento de ceniza",
+      "Souffle de cendres",
+      "Испепеляющее дыхание",
+      "Glutodem",
+      "Sopro de Cinzas",
+      "Soffio di Ceneri",
+      "잿불 숨결",
+      "燼息術",
+      "灰烬吐息"
+    ],
+    "Media": "inv_icon_wingbroken06d.jpg"
+  },
+  {
     "TagId": 1283607,
     "TagType": 26,
     "Names": [
@@ -2495,6 +3818,90 @@
       "光束"
     ],
     "Media": "achievement_bg_wineos.jpg"
+  },
+  {
+    "TagId": 1283609,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venompool Trap",
+      "Charco venenoso",
+      "Armadilha de Poça de Peçonha",
+      "Venompool Trap",
+      "Trampa de charco venenoso",
+      "Piège à venin",
+      "Ловушка с ядовитой лужей",
+      "Giftpfützenfalle",
+      "Armadilha de Poça de Peçonha",
+      "Trappola della Pozza di Veleno",
+      "맹독 웅덩이 덫",
+      "毒池陷阱",
+      "毒池陷阱"
+    ],
+    "Media": "ability_hunter_stickytarbombtrap.jpg"
+  },
+  {
+    "TagId": 1283610,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venompool Trap",
+      "Charco venenoso",
+      "Armadilha de Poça de Peçonha",
+      "Venompool Trap",
+      "Trampa de charco venenoso",
+      "Piège à venin",
+      "Ловушка с ядовитой лужей",
+      "Giftpfützenfalle",
+      "Armadilha de Poça de Peçonha",
+      "Trappola della Pozza di Veleno",
+      "맹독 웅덩이 덫",
+      "毒池陷阱",
+      "毒池陷阱"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283611,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venompool Trap",
+      "Charco venenoso",
+      "Armadilha de Poça de Peçonha",
+      "Venompool Trap",
+      "Trampa de charco venenoso",
+      "Piège à venin",
+      "Ловушка с ядовитой лужей",
+      "Giftpfützenfalle",
+      "Armadilha de Poça de Peçonha",
+      "Trappola della Pozza di Veleno",
+      "맹독 웅덩이 덫",
+      "毒池陷阱",
+      "毒池陷阱"
+    ],
+    "Media": "ability_hunter_stickytarbombtrap.jpg"
+  },
+  {
+    "TagId": 1283617,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venompool Trap",
+      "Charco venenoso",
+      "Armadilha de Poça de Peçonha",
+      "Venompool Trap",
+      "Trampa de charco venenoso",
+      "Piège à venin",
+      "Ловушка с ядовитой лужей",
+      "Giftpfützenfalle",
+      "Armadilha de Poça de Peçonha",
+      "Trappola della Pozza di Veleno",
+      "맹독 웅덩이 덫",
+      "毒池陷阱",
+      "毒池陷阱"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283621,
@@ -2535,6 +3942,27 @@
       "Death Knight - Midnight PrePatch - 11.2 Class Set 4pc",
       "Death Knight - Midnight PrePatch - 11.2 Class Set 4pc",
       "Death Knight - Midnight PrePatch - 11.2 Class Set 4pc"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283624,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2",
+      "[DNT] Talking Head: ZA Scenario C1 S2"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -2686,6 +4114,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283636,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Wave",
+      "Ola de las sombras",
+      "Onda Sombria",
+      "Shadow Wave",
+      "Ola de las Sombras",
+      "Vague de l’ombre",
+      "Теневая волна",
+      "Schattenwelle",
+      "Onda Sombria",
+      "Ondata d'Ombra",
+      "어둠의 물결",
+      "暗影波",
+      "暗影波"
+    ],
+    "Media": "spell_shadow_shadowfury.jpg"
+  },
+  {
     "TagId": 1283637,
     "TagType": 26,
     "Names": [
@@ -2705,6 +4154,27 @@
       "Rogue - Midnight PrePatch - 11.2 Class Set 2pc"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283638,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Wave",
+      "Ola de las sombras",
+      "Onda Sombria",
+      "Shadow Wave",
+      "Ola de las Sombras",
+      "Vague de l’ombre",
+      "Теневая волна",
+      "Schattenwelle",
+      "Onda Sombria",
+      "Ondata d'Ombra",
+      "어둠의 물결",
+      "暗影波",
+      "暗影波"
+    ],
+    "Media": "spell_shadow_shadowfury.jpg"
   },
   {
     "TagId": 1283639,
@@ -3337,6 +4807,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283673,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Dawnchaser's Painted Battle Garb",
+      "Conjunto: Atuendo de batalla pintado de cazador del alba",
+      "Indumentária: Induto de Batalha Pintado do Caça-manhã",
+      "Ensemble: Dawnchaser's Painted Battle Garb",
+      "Indumentaria: Atuendo de batalla pintado de Cazador del Alba",
+      "Ensemble\u00A0: atours de bataille peints de chasselaube",
+      "Комплект: расписное боевое облачение Искателя Зари",
+      "Ensemble: Bemaltes Schlachtgewand des Morgenjägers",
+      "Indumentária: Induto de Batalha Pintado do Caça-manhã",
+      "Set: Abiti da Battaglia Dipinti del Braccaurora",
+      "복장: 여명추적자의 도색된 전투복",
+      "套裝：曦逐者彩繪戰鬥裝束",
+      "套装：逐晨者的绘纹战衣"
+    ],
+    "Media": "inv_helm_armor_sunwalker_d_01.jpg"
+  },
+  {
     "TagId": 1283675,
     "TagType": 26,
     "Names": [
@@ -3398,6 +4889,48 @@
       "Season Widget (DNT)"
     ],
     "Media": "achievement_zone_wakingshores.jpg"
+  },
+  {
+    "TagId": 1283687,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Caustic Blood",
+      "Sangre cáustica",
+      "Sangue Cáustico",
+      "Caustic Blood",
+      "Sangre cáustica",
+      "Sang caustique",
+      "Едкая кровь",
+      "Ätzendes Blut",
+      "Sangue Cáustico",
+      "Sangue Corrosivo",
+      "부식성 피",
+      "腐蝕之血",
+      "酸蚀血液"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
+  },
+  {
+    "TagId": 1283690,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Caustic Blood",
+      "Sangre cáustica",
+      "Sangue Cáustico",
+      "Caustic Blood",
+      "Sangre cáustica",
+      "Sang caustique",
+      "Едкая кровь",
+      "Ätzendes Blut",
+      "Sangue Cáustico",
+      "Sangue Corrosivo",
+      "부식성 피",
+      "腐蝕之血",
+      "酸蚀血液"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
   },
   {
     "TagId": 1283695,
@@ -3503,6 +5036,27 @@
       "放置"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283706,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ascendant Nilhammer",
+      "Martillo de la nada ascendente",
+      "Martelo do Vazio Ascendente",
+      "Ascendant Nilhammer",
+      "Martillo de la nada ascendiente",
+      "Marteau du Vide ascendant",
+      "Вознесенный нуль-молот",
+      "Aufsteigender Nullhammer",
+      "Martelo do Vazio Ascendente",
+      "Martello del Nulla Ascendente",
+      "승천의 무위망치",
+      "卓越空無錘",
+      "晋升虚无之锤"
+    ],
+    "Media": "inv_misc_gem_variety_01.jpg"
   },
   {
     "TagId": 1283711,
@@ -3778,6 +5332,27 @@
     "Media": "spell_arcane_portalsilvermoon.jpg"
   },
   {
+    "TagId": 1283748,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt Trap Choice: Void Sphere",
+      "Elección de trampa de caza de utilería: esfera del Vacío",
+      "Opção de Armadilha de Caça a Objetos: Esfera do Caos",
+      "Prop Hunt Trap Choice: Void Sphere",
+      "Elección de trampa de caza de atrezo: esfera de Vacío",
+      "Choix de piège de cache-cache\u00A0: sphère du Vide",
+      "Выбор ловушки \"Охоты за объектами\": сфера Бездны",
+      "Requisitenjagd, Fallenwahl: Sphäre der Leere",
+      "Opção de Armadilha de Caça a Objetos: Esfera do Caos",
+      "Scelta Trappola della Caccia all'Oggetto: Sfera del Vuoto",
+      "숨바꼭질 덫 선택: 공허의 구슬",
+      "捉迷藏陷阱選擇：虛無之球",
+      "躲猫猫陷阱选择：虚空宝珠"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283753,
     "TagType": 26,
     "Names": [
@@ -3839,6 +5414,69 @@
       "祝福：破釜沉舟"
     ],
     "Media": "inv_pet_babyshark.jpg"
+  },
+  {
+    "TagId": 1283759,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt Trap Choice: Sand Trap",
+      "Elección de trampa de caza de utilería: trampa de arena",
+      "Opção de Armadilha de Caça a Objetos: Armadilha de Areia",
+      "Prop Hunt Trap Choice: Sand Trap",
+      "Elección de trampa de caza de atrezo: trampa de arena",
+      "Choix de piège de cache-cache\u00A0: piège de sable",
+      "Выбор ловушки \"Охоты за объектами\": песчаная ловушка",
+      "Requisitenjagd, Fallenwahl: Sandfalle",
+      "Opção de Armadilha de Caça a Objetos: Armadilha de Areia",
+      "Scelta Trappola della Caccia all'Oggetto: Trappola di Sabbia",
+      "숨바꼭질 덫 선택: 모래 덫",
+      "捉迷藏陷阱選擇：流沙陷阱",
+      "躲猫猫陷阱选择：流沙陷阱"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283760,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt Trap Choice: Smoke and Mirrors",
+      "Elección de trampa de caza de utilería: humo y espejos",
+      "Opção de Armadilha de Caça a Objetos: Fumaça e Espelhos",
+      "Prop Hunt Trap Choice: Smoke and Mirrors",
+      "Elección de trampa de caza de atrezo: humo y espejos",
+      "Choix de piège de cache-cache\u00A0: fumée et miroirs",
+      "Выбор ловушки \"Охоты за объектами\": дымовая завеса",
+      "Requisitenjagd, Fallenwahl: Rauch und Spiegel",
+      "Opção de Armadilha de Caça a Objetos: Fumaça e Espelhos",
+      "Scelta Trappola della Caccia all'Oggetto: Fumo e Specchi",
+      "숨바꼭질 덫 선택: 연막과 거울",
+      "捉迷藏陷阱選擇：煙霧與鏡面",
+      "躲猫猫陷阱选择：烟雾幻镜"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283762,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt Trap Choice: Songbird",
+      "Elección de trampa de caza de utilería: ruiseñor",
+      "Opção de Armadilha de Caça a Objetos: Pássaro Canoro",
+      "Prop Hunt Trap Choice: Songbird",
+      "Elección de trampa de caza de atrezo: pájaro cantor",
+      "Choix de piège de cache-cache\u00A0: chant d’oiseau",
+      "Выбор ловушки \"Охоты за объектами\": певчая птица",
+      "Requisitenjagd, Fallenwahl: Singvogel",
+      "Opção de Armadilha de Caça a Objetos: Pássaro Canoro",
+      "Scelta Trappola della Caccia all'Oggetto: Uccello Canterino",
+      "숨바꼭질 덫 선택: 명금",
+      "捉迷藏陷阱選擇：鳴禽",
+      "躲猫猫陷阱选择：鸣禽"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283763,
@@ -3988,6 +5626,27 @@
     "Media": "inv_nullstone_cosmicvoid.jpg"
   },
   {
+    "TagId": 1283779,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ascendant Nilhammer",
+      "Martillo de la nada ascendente",
+      "Martelo do Vazio Ascendente",
+      "Ascendant Nilhammer",
+      "Martillo de la nada ascendiente",
+      "Marteau du Vide ascendant",
+      "Вознесенный нуль-молот",
+      "Aufsteigender Nullhammer",
+      "Martelo do Vazio Ascendente",
+      "Martello del Nulla Ascendente",
+      "승천의 무위망치",
+      "卓越空無錘",
+      "晋升虚无之锤"
+    ],
+    "Media": "inv_cosmicvoid_orb.jpg"
+  },
+  {
     "TagId": 1283780,
     "TagType": 26,
     "Names": [
@@ -4009,6 +5668,27 @@
     "Media": "spell_nature_healingtouch.jpg"
   },
   {
+    "TagId": 1283781,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Weave Hungering Oblivium",
+      "Combinar olvido hambriento",
+      "Tecer Oblívio Voraz",
+      "Weave Hungering Oblivium",
+      "Tejer olvido famélico",
+      "Tissage d’oublium dévorant",
+      "Вплетение алчущего обливия",
+      "Hungerndes Oblivium weben",
+      "Tecer Oblívio Voraz",
+      "Tessitura dell'Oblio Famelico",
+      "굶주린 망각의 앙금 직조",
+      "編織飢餓湮滅元素",
+      "编织饥渴湮灭物"
+    ],
+    "Media": "inv_nullstone_cosmicvoid.jpg"
+  },
+  {
     "TagId": 1283782,
     "TagType": 26,
     "Names": [
@@ -4028,6 +5708,27 @@
       "Play Timeline Scene (DNT)"
     ],
     "Media": "inv_chihuahuadogpet_costume_foxred.jpg"
+  },
+  {
+    "TagId": 1283783,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Wave",
+      "Ola de las sombras",
+      "Onda Sombria",
+      "Shadow Wave",
+      "Ola de las Sombras",
+      "Vague de l’ombre",
+      "Теневая волна",
+      "Schattenwelle",
+      "Onda Sombria",
+      "Ondata d'Ombra",
+      "어둠의 물결",
+      "暗影波",
+      "暗影波"
+    ],
+    "Media": "spell_shadow_shadowfury.jpg"
   },
   {
     "TagId": 1283784,
@@ -4091,6 +5792,27 @@
       "能量提升"
     ],
     "Media": "inv_nullstone_cosmicvoid.jpg"
+  },
+  {
+    "TagId": 1283789,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward",
+      "12.0.5 Prop Hunt - Reward Chest - No Reward"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283791,
@@ -4345,6 +6067,27 @@
     "Media": "ability_ironmaidens_convulsiveshadows.jpg"
   },
   {
+    "TagId": 1283859,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283863,
     "TagType": 26,
     "Names": [
@@ -4383,6 +6126,27 @@
       "Summon Attendant (DNT)",
       "Summon Attendant (DNT)",
       "Summon Attendant (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283865,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled",
+      "12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Highest Hider Traveled"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -4596,6 +6360,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283898,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Last Hider Traveled"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283899,
     "TagType": 26,
     "Names": [
@@ -4615,6 +6400,27 @@
       "临时拼凑的奥术装置"
     ],
     "Media": "ability_rogue_combatexpertise.jpg"
+  },
+  {
+    "TagId": 1283900,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled",
+      "12.0.5 Prop Hunt - Winner's Podium - LABEL - Highest Hider Traveled"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283901,
@@ -4720,6 +6526,90 @@
       "盾牌猛击"
     ],
     "Media": "ability_mage_arcanesurge.jpg"
+  },
+  {
+    "TagId": 1283906,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue",
+      "[PH] Giant Eagle Sunwalker Mount Blue"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_blue.jpg"
+  },
+  {
+    "TagId": 1283908,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dusk-Painted Sun Roc",
+      "Roc de sol pintado por el ocaso",
+      "Roca do Sol Pintado de Ocaso",
+      "Dusk-Painted Sun Roc",
+      "Roc de sol pintado por el ocaso",
+      "Roc solaire peint au crépuscule",
+      "Сумеречный солнечный рух",
+      "Dämmergezeichneter Sonnenroc",
+      "Roca do Sol Pintado de Ocaso",
+      "Grifalco del Sole Dipinto dal Vespro",
+      "어스름에 물든 태양 로크",
+      "暮繪陽鵬",
+      "暮绘阳鹏"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_dark.jpg"
+  },
+  {
+    "TagId": 1283910,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flame-Painted Sun Roc",
+      "Roc de sol pintado por las llamas",
+      "Roca do Sol Pintado de Chamas",
+      "Flame-Painted Sun Roc",
+      "Roc de sol pintado por las llamas",
+      "Roc solaire peint par la flamme",
+      "Пламенный солнечный рух",
+      "Flammengezeichneter Sonnenroc",
+      "Roca do Sol Pintado de Chamas",
+      "Grifalco del Sole Dipinto dalle Fiamme",
+      "불꽃에 물든 태양 로크",
+      "焰繪陽鵬",
+      "焰绘阳鹏"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_gold.jpg"
+  },
+  {
+    "TagId": 1283911,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White",
+      "[PH] Giant Eagle Sunwalker Mount White"
+    ],
+    "Media": "inv_gianteagle2sunwalkermount_white.jpg"
   },
   {
     "TagId": 1283912,
@@ -4995,6 +6885,27 @@
     "Media": "achievement_boss_yoggsaron_01.jpg"
   },
   {
+    "TagId": 1283942,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Coalescing Magic",
+      "Magia coalescente",
+      "Magia Coalescente",
+      "Coalescing Magic",
+      "Magia coalescente",
+      "Magie coalescente",
+      "Сгущающаяся магия",
+      "Verdichtende Magie",
+      "Magia Coalescente",
+      "Magia Condensata",
+      "마법 응축",
+      "聚合魔法",
+      "凝聚魔法"
+    ],
+    "Media": "inv_10_enchanting2_magicswirl_black.jpg"
+  },
+  {
     "TagId": 1283943,
     "TagType": 26,
     "Names": [
@@ -5014,6 +6925,27 @@
       "深渊攫取"
     ],
     "Media": "achievement_boss_yoggsaron_01.jpg"
+  },
+  {
+    "TagId": 1283944,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cleansing Boost",
+      "Impulso purificador",
+      "Impulso Purificante",
+      "Cleansing Boost",
+      "Purificación potenciada",
+      "Bonus purificateur",
+      "Очищающее усиление",
+      "Reinigungsschub",
+      "Impulso Purificante",
+      "Potenziamento Purificatore",
+      "정화의 증폭",
+      "淨化加速",
+      "净化增效"
+    ],
+    "Media": "inv_10_enchanting2_magicswirl_black.jpg"
   },
   {
     "TagId": 1283945,
@@ -5037,6 +6969,90 @@
     "Media": "achievement_boss_yoggsaron_01.jpg"
   },
   {
+    "TagId": 1283946,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Health Abundance",
+      "Abundancia de salud",
+      "Abundância de Pontos de Vida",
+      "Health Abundance",
+      "Salud en abundancia",
+      "Abondance de points de vie",
+      "Здоровье в избытке",
+      "Heilüberfluss",
+      "Abundância de Pontos de Vida",
+      "Abbondanza di Salute",
+      "생명력의 풍요",
+      "生命豐足",
+      "生命丰饶"
+    ],
+    "Media": "inv_10_enchanting2_magicswirl_black.jpg"
+  },
+  {
+    "TagId": 1283947,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Quick Magics",
+      "Magias ágiles",
+      "Magias Velozes",
+      "Quick Magics",
+      "Magia rápida",
+      "Magie rapide",
+      "Скоростная магия",
+      "Schnelle Magie",
+      "Magias Velozes",
+      "Magie Rapide",
+      "신속한 마법",
+      "迅速魔法",
+      "迅捷魔法"
+    ],
+    "Media": "inv_10_enchanting2_magicswirl_black.jpg"
+  },
+  {
+    "TagId": 1283948,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Speeding Away",
+      "A toda velocidad",
+      "Acelerando Bastante",
+      "Speeding Away",
+      "A todo trapo",
+      "À toute allure",
+      "Пора ускориться",
+      "Davonflitzen",
+      "Acelerando Bastante",
+      "In Sella e Via",
+      "과속",
+      "快馬加鞭",
+      "疾速逃离"
+    ],
+    "Media": "inv_10_enchanting2_magicswirl_black.jpg"
+  },
+  {
+    "TagId": 1283951,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual Resiliency",
+      "Resiliencia de ritual",
+      "Resiliência Ritual",
+      "Ritual Resiliency",
+      "Resiliencia ritual",
+      "Résilience rituelle",
+      "Сакраментальная стойкость",
+      "Rituelle Resilienz",
+      "Resiliência Ritual",
+      "Resilienza Rituale",
+      "의식의 저항력",
+      "儀式韌性",
+      "仪式韧性"
+    ],
+    "Media": "inv_10_enchanting2_magicswirl_black.jpg"
+  },
+  {
     "TagId": 1283963,
     "TagType": 26,
     "Names": [
@@ -5056,6 +7072,27 @@
       "[DNT] Test"
     ],
     "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 1283969,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Blue Sunwalker Totem",
+      "Conjunto: Tótem de caminasol azul",
+      "Indumentária: Totem do Andarilho do Sol Azul",
+      "Ensemble: Blue Sunwalker Totem",
+      "Indumentaria: Tótem azul de caminasol",
+      "Ensemble\u00A0: totem de marche-soleil bleu",
+      "Комплект: синий тотем Служителя Солнца",
+      "Ensemble: Blaues Sonnenläufertotem",
+      "Indumentária: Totem do Andarilho do Sol Azul",
+      "Set: Totem del Campione del Sole Blu",
+      "복장: 파란색 태양길잡이 토템",
+      "套裝：藍色日行者圖騰",
+      "套装：蓝色烈日行者图腾"
+    ],
+    "Media": "inv_cape_special_sunwalkertotem_d_01.jpg"
   },
   {
     "TagId": 1283971,
@@ -5140,6 +7177,90 @@
       "无尽行军"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283980,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Dark Sunwalker Totem",
+      "Conjunto: Tótem de caminasol oscuro",
+      "Indumentária: Totem do Andarilho do Sol Escuro",
+      "Ensemble: Dark Sunwalker Totem",
+      "Indumentaria: Tótem oscuro de caminasol",
+      "Ensemble\u00A0: totem de marche-soleil sombre",
+      "Комплект: темный тотем Служителя Солнца",
+      "Ensemble: Dunkles Sonnenläufertotem",
+      "Indumentária: Totem do Andarilho do Sol Escuro",
+      "Set: Totem del Campione del Sole Scuro",
+      "복장: 암흑 태양길잡이 토템",
+      "套裝：深色日行者圖騰",
+      "套装：黑色烈日行者图腾"
+    ],
+    "Media": "inv_cape_special_sunwalkertotem_d_01.jpg"
+  },
+  {
+    "TagId": 1283983,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual Power",
+      "Poder de ritual",
+      "Poder do Ritual",
+      "Ritual Power",
+      "Poder de ritual",
+      "Puissance rituelle",
+      "Сакраментальная сила",
+      "Rituelle Macht",
+      "Poder do Ritual",
+      "Potere del Rituale",
+      "의식의 힘",
+      "儀式能量",
+      "仪式能量"
+    ],
+    "Media": "inv_10_enchanting2_magicswirl_black.jpg"
+  },
+  {
+    "TagId": 1283985,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Gold Sunwalker Totem",
+      "Conjunto: Tótem de caminasol dorado",
+      "Indumentária: Totem do Andarilho do Sol Dourado",
+      "Ensemble: Gold Sunwalker Totem",
+      "Indumentaria: Tótem dorado de caminasol",
+      "Ensemble\u00A0: totem de marche-soleil doré",
+      "Комплект: золотой тотем Служителя Солнца",
+      "Ensemble: Goldenes Sonnenläufertotem",
+      "Indumentária: Totem do Andarilho do Sol Dourado",
+      "Set: Totem del Campione del Sole Dorato",
+      "복장: 황금 태양길잡이 토템",
+      "套裝：金色日行者圖騰",
+      "套装：金色烈日行者图腾"
+    ],
+    "Media": "inv_cape_special_sunwalkertotem_d_01.jpg"
+  },
+  {
+    "TagId": 1283986,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: White Sunwalker Totem",
+      "Conjunto: Tótem de caminasol blanco",
+      "Indumentária: Totem do Andarilho do Sol Branco",
+      "Ensemble: White Sunwalker Totem",
+      "Indumentaria: Tótem blanco de caminasol",
+      "Ensemble\u00A0: totem de marche-soleil blanc",
+      "Комплект: белый тотем Служителя Солнца",
+      "Ensemble: Weißes Sonnenläufertotem",
+      "Indumentária: Totem do Andarilho do Sol Branco",
+      "Set: Totem del Campione del Sole Bianco",
+      "복장: 흰색 태양길잡이 토템",
+      "套裝：白色日行者圖騰",
+      "套装：白色烈日行者图腾"
+    ],
+    "Media": "inv_cape_special_sunwalkertotem_d_01.jpg"
   },
   {
     "TagId": 1283993,

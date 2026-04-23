@@ -21,6 +21,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1293135,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sanguine Vial",
+      "Vial sanguíneo",
+      "Ampola Sanguínea",
+      "Sanguine Vial",
+      "Vial sanguino",
+      "Fiole sanguine",
+      "Кровавый фиал",
+      "Blutige Phiole",
+      "Ampola Sanguínea",
+      "Fiala di Sangue",
+      "핏빛 약병",
+      "血紅藥瓶",
+      "嗜血之瓶"
+    ],
+    "Media": "inv_misc_potiona5.jpg"
+  },
+  {
     "TagId": 1293136,
     "TagType": 26,
     "Names": [
@@ -40,6 +61,27 @@
       "装满英雄曙光纹章的战团绑定礼包"
     ],
     "Media": "inv_120_crest_hero_enchanted.jpg"
+  },
+  {
+    "TagId": 1293138,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sanguine Vial",
+      "Vial sanguíneo",
+      "Ampola Sanguínea",
+      "Sanguine Vial",
+      "Vial sanguino",
+      "Fiole sanguine",
+      "Кровавый фиал",
+      "Blutige Phiole",
+      "Ampola Sanguínea",
+      "Fiala di Sangue",
+      "핏빛 약병",
+      "血紅藥瓶",
+      "嗜血之瓶"
+    ],
+    "Media": "inv_misc_potiona5.jpg"
   },
   {
     "TagId": 1293139,
@@ -84,25 +126,193 @@
     "Media": "inv_120_crest_hero_enchanted.jpg"
   },
   {
+    "TagId": 1293149,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crimson Vial",
+      "Vial carmesí",
+      "Frasco Rubro",
+      "Crimson Vial",
+      "Vial carmesí",
+      "Fiole cramoisie",
+      "Алый фиал",
+      "Blutrote Phiole",
+      "Frasco Rubro",
+      "Fiala Cremisi",
+      "진홍색 약병",
+      "赤紅藥瓶",
+      "猩红之瓶"
+    ],
+    "Media": "ability_rogue_crimsonvial.jpg"
+  },
+  {
     "TagId": 1293188,
     "TagType": 26,
     "Names": [
       null,
       "Abandon Quest",
       "Abandonar misión",
-      "Abandon Quest",
+      "Abandonar Missão",
       "Abandon Quest",
       "Abandonar misión",
-      "Abandon Quest",
-      "Abandon Quest",
-      "Abandon Quest",
-      "Abandon Quest",
+      "Abandonner la quête",
+      "Отменить задание",
+      "Quest abbrechen",
+      "Abandonar Missão",
       "Abbandono Missione",
       "퀘스트 포기",
       "放棄任務",
       "放弃任务"
     ],
     "Media": "achievement_boss_lichking.jpg"
+  },
+  {
+    "TagId": 1293208,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Water Sphere",
+      "Esfera de agua",
+      "Esfera d'Água",
+      "Water Sphere",
+      "Esfera de agua",
+      "Sphère d’eau",
+      "Водная сфера",
+      "Wassersphäre",
+      "Esfera d'Água",
+      "Sfera d'Acqua",
+      "물의 구체",
+      "水球",
+      "水球"
+    ],
+    "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 1293209,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Water Sphere",
+      "Esfera de agua",
+      "Esfera d'Água",
+      "Water Sphere",
+      "Esfera de agua",
+      "Sphère d’eau",
+      "Водная сфера",
+      "Wassersphäre",
+      "Esfera d'Água",
+      "Sfera d'Acqua",
+      "물의 구체",
+      "水球",
+      "水球"
+    ],
+    "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 1293210,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Crashing Surge",
+      "Aluvión aplastante",
+      "Surto Esmagador",
+      "Crashing Surge",
+      "Oleada aplastante",
+      "Afflux déferlant",
+      "Крушащий всплеск",
+      "Brechende Woge",
+      "Surto Esmagador",
+      "Impeto Schiacciante",
+      "밀어닥치는 쇄도",
+      "霹靂之湧",
+      "轰然喷涌"
+    ],
+    "Media": "ability_mage_waterjet.jpg"
+  },
+  {
+    "TagId": 1293283,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293284,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Abandon Quest",
+      "Abandonar misión",
+      "Abandonar Missão",
+      "Abandon Quest",
+      "Abandonar misión",
+      "Abandonner la quête",
+      "Отменить задание",
+      "Quest abbrechen",
+      "Abandonar Missão",
+      "Abbandono Missione",
+      "퀘스트 포기",
+      "放棄任務",
+      "放弃任务"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293287,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal Effect: Silvermoon",
+      "Efecto de portal: Lunargenta",
+      "Efeito de Portal: Luaprata",
+      "Portal Effect: Silvermoon",
+      "Efecto de portal: Lunargenta",
+      "Effet de portail\u00A0: Lune-d’Argent",
+      "Эффект портала: Луносвет",
+      "Portaleffekt: Silbermond",
+      "Efeito de Portal: Luaprata",
+      "Effetto del Portale: Lunargenta",
+      "차원문 효과: 실버문",
+      "傳送門效果：銀月城",
+      "传送门效果：银月城"
+    ],
+    "Media": "spell_arcane_portalorgrimmar.jpg"
+  },
+  {
+    "TagId": 1293340,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mark for Death",
+      "Marca de muerte",
+      "Marca da Morte",
+      "Mark for Death",
+      "Marca de muerte",
+      "Désigner pour mourir",
+      "Метка смерти",
+      "Zum Tode verurteilen",
+      "Marca da Morte",
+      "Marchio della Morte",
+      "죽음의 표시",
+      "死亡印記",
+      "死亡印记"
+    ],
+    "Media": "inv_ability_deathstalkerrogue_deathstalkersmark.jpg"
   },
   {
     "TagId": 1293378,
@@ -126,6 +336,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1293411,
+    "TagType": 26,
+    "Names": [
+      null,
+      "First Aid",
+      "Primeros auxilios",
+      "Primeiros Socorros",
+      "First Aid",
+      "Primeros auxilios",
+      "Premiers soins",
+      "Первая помощь",
+      "Erste Hilfe",
+      "Primeiros Socorros",
+      "Primo Soccorso",
+      "응급치료",
+      "急救",
+      "急救"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293412,
+    "TagType": 26,
+    "Names": [
+      null,
+      "First Aid",
+      "Primeros auxilios",
+      "Primeiros Socorros",
+      "First Aid",
+      "Primeros auxilios",
+      "Premiers soins",
+      "Первая помощь",
+      "Erste Hilfe",
+      "Primeiros Socorros",
+      "Primo Soccorso",
+      "응급치료",
+      "急救",
+      "急救"
+    ],
+    "Media": "inv_misc_bandage_04.jpg"
+  },
+  {
     "TagId": 1293467,
     "TagType": 26,
     "Names": [
@@ -143,6 +395,531 @@
       "플레이어 오라",
       "玩家光環",
       "玩家光环"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293473,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drowning Saltfoam",
+      "Salespuma ahogada",
+      "Salespuma Afogada",
+      "Drowning Saltfoam",
+      "Espuma salada asfixiante",
+      "Selécume submergeant",
+      "Удушающая соленая пена",
+      "Ertränkender Salzschaum",
+      "Salespuma Afogada",
+      "Schiuma Salina Soffocante",
+      "물에 빠진 소금거품",
+      "溺水鹽沫",
+      "沉沦盐沫"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293499,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka’bull",
+      "Ка'пуз",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "카부브",
+      "卡布泊",
+      "卡布波"
+    ],
+    "Media": "inv_capybara_orange.jpg"
+  },
+  {
+    "TagId": 1293502,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality",
+      "[DNT] Fused Vitality"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293503,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka’bull",
+      "Ка'пуз",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "카부브",
+      "卡布泊",
+      "卡布波"
+    ],
+    "Media": "inv_capybara_orange.jpg"
+  },
+  {
+    "TagId": 1293504,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka’bull",
+      "Ка'пуз",
+      "Ka'bubb",
+      "Ka'bubb",
+      "Ka'bubb",
+      "카부브",
+      "卡布泊",
+      "卡布波"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293506,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293509,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox",
+      "[DNT] Blood Elf Orphan Time Paradox"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293563,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Battle Visage",
+      "Forma humanoide de batalla",
+      "Semblante de Batalha",
+      "Battle Visage",
+      "Rostro de batalla",
+      "Forme anthropique de combat",
+      "Боевой облик",
+      "Antlitz des Krieges",
+      "Semblante de Batalha",
+      "Sembianza Battagliera",
+      "전투 형상",
+      "戰鬥人形態",
+      "战斗幻容"
+    ],
+    "Media": "spell_nature_wispsplode.jpg"
+  },
+  {
+    "TagId": 1293579,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mark for Death Enabler",
+      "Habilitador de Marca de muerte",
+      "Ativador de Marca da Morte",
+      "Mark for Death Enabler",
+      "Posibilitador de Marca de muerte",
+      "Activateur de Désigner pour mourir",
+      "Активатор метки смерти",
+      "Mark for Death Enabler",
+      "Ativador de Marca da Morte",
+      "Attivatore Marchio della Morte",
+      "죽음의 표시 활성기",
+      "死亡執行者印記",
+      "死亡印记启动器"
+    ],
+    "Media": "inv_ability_deathstalkerrogue_deathstalkersmark.jpg"
+  },
+  {
+    "TagId": 1293593,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling",
+      "[DNT] Abyss Angler - Reward - Scaling"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293601,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Knockback",
+      "Repeler",
+      "Repulsão",
+      "Knockback",
+      "Repeler",
+      "Repoussement",
+      "Отбрасывание",
+      "Rückstoß",
+      "Repulsão",
+      "Respinta",
+      "밀쳐내기",
+      "擊退",
+      "击退"
+    ],
+    "Media": "ability_vehicle_launchplayer.jpg"
+  },
+  {
+    "TagId": 1293603,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wrecking Throw Highlight",
+      "Resaltar Lanzamiento aniquilador",
+      "Destaque de Arremesso Avassalador",
+      "Wrecking Throw Highlight",
+      "Resaltar Lanzamiento demoledor",
+      "Surbrillance de Lancer destructeur",
+      "Подсветка \"Разрушающего броска",
+      "Abrisswurf-Highlight",
+      "Destaque de Arremesso Avassalador",
+      "Illuminazione Lancio Demolitore",
+      "격파의 투척 강조 표시",
+      "毀滅投擲焦點",
+      "破裂投掷标亮"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
+  },
+  {
+    "TagId": 1293610,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shattering Throw Highlight",
+      "Resaltar Lanzamiento destrozador",
+      "Destaque de Arremesso Estilhaçante",
+      "Shattering Throw Highlight",
+      "Resaltar Lanzamiento destrozador",
+      "Surbrillance de Lancer fracassant",
+      "Подсветка \"Сокрушительного броска",
+      "Zerschmetternder-Wurf-Highlight",
+      "Destaque de Arremesso Estilhaçante",
+      "Illuminazione Lancio Frantumante",
+      "분쇄의 투척 강조 표시",
+      "碎甲投擲焦點",
+      "碎裂投掷标亮"
+    ],
+    "Media": "ability_warrior_shatteringthrow.jpg"
+  },
+  {
+    "TagId": 1293613,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Abyss Angler Fishing",
+      "Pesca de pescador abisal",
+      "Pescaria de Pescador do Abismo",
+      "Abyss Angler Fishing",
+      "Pesca de pescador del abismo",
+      "Pêche des abysses",
+      "Глубоководная рыбалка",
+      "Angeln der Abgrundfischer",
+      "Pescaria de Pescador do Abismo",
+      "Pesca dei Pescatori dell'Abisso",
+      "심연 강태공 낚시",
+      "深淵釣手釣魚",
+      "深渊钓客钓鱼"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293615,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Abyss Angler Fishing",
+      "Pesca de pescador abisal",
+      "Pescaria de Pescador do Abismo",
+      "Abyss Angler Fishing",
+      "Pesca de pescador del abismo",
+      "Pêche des abysses",
+      "Глубоководная рыбалка",
+      "Angeln der Abgrundfischer",
+      "Pescaria de Pescador do Abismo",
+      "Pesca dei Pescatori dell'Abisso",
+      "심연 강태공 낚시",
+      "深淵釣手釣魚",
+      "深渊钓客钓鱼"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293618,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Abyss Angler Fishing",
+      "Pesca de pescador abisal",
+      "Pescaria de Pescador do Abismo",
+      "Abyss Angler Fishing",
+      "Pesca de pescador del abismo",
+      "Pêche des abysses",
+      "Глубоководная рыбалка",
+      "Angeln der Abgrundfischer",
+      "Pescaria de Pescador do Abismo",
+      "Pesca dei Pescatori dell'Abisso",
+      "심연 강태공 낚시",
+      "深淵釣手釣魚",
+      "深渊钓客钓鱼"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293619,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cancel Bobber",
+      "Cancelar corcho",
+      "Cancelar Flutuador",
+      "Cancel Bobber",
+      "Cancelar corcho",
+      "Annulation de flotteur",
+      "Убрать поплавок",
+      "Schwimmer abbrechen",
+      "Cancelar Flutuador",
+      "Annullamento Bombardiere",
+      "찌 취소",
+      "取消浮標",
+      "取消浮标"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293624,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impacto de Arpão",
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impact au harpon",
+      "Попадание гарпуна",
+      "Harpuneneinschlag",
+      "Impacto de Arpão",
+      "Impatto dell'Arpione",
+      "작살 충격",
+      "魚叉衝擊",
+      "鱼叉冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293632,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Rope - Channel",
+      "Cuerda de arpón - Canalización",
+      "Corda de Arpão - Canalizar",
+      "Harpoon Rope - Channel",
+      "Cuerda de arpón - Canalización",
+      "Ligne de harpon – canalisation",
+      "Линь гарпуна – поддержание",
+      "Harpunentau – Kanalisieren",
+      "Corda de Arpão - Canalizar",
+      "Corda d'Arpione - Canalizzazione",
+      "작살 밧줄 - 정신 집중",
+      "魚叉繩索 - 引導",
+      "鱼叉绳 - 引导"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293633,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Rope - Jump Charge",
+      "Cuerda de arpón - Carga de salto",
+      "Corda de Arpão - Investida com Salto",
+      "Harpoon Rope - Jump Charge",
+      "Cuerda de arpón - Carga de salto",
+      "Ligne de harpon – charge bondissante",
+      "Линь гарпуна – рывок в прыжке",
+      "Harpunentau – Sprungangriff",
+      "Corda de Arpão - Investida com Salto",
+      "Corda d'Arpione - Carica a Salto",
+      "작살 밧줄 - 도약 돌진",
+      "魚叉繩索 - 跳躍衝鋒",
+      "鱼叉绳 -跳跃冲锋"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293634,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Rope - Channel",
+      "Cuerda de arpón - Canalización",
+      "Corda de Arpão - Canalizar",
+      "Harpoon Rope - Channel",
+      "Cuerda de arpón - Canalización",
+      "Ligne de harpon – canalisation",
+      "Линь гарпуна – поддержание",
+      "Harpunentau – Kanalisieren",
+      "Corda de Arpão - Canalizar",
+      "Corda d'Arpione - Canalizzazione",
+      "작살 밧줄 - 정신 집중",
+      "魚叉繩索 - 引導",
+      "鱼叉绳 - 引导"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293638,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impacto de Arpão",
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impact au harpon",
+      "Попадание гарпуна",
+      "Harpuneneinschlag",
+      "Impacto de Arpão",
+      "Impatto dell'Arpione",
+      "작살 충격",
+      "魚叉衝擊",
+      "鱼叉冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293640,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impacto de Arpão",
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impact au harpon",
+      "Попадание гарпуна",
+      "Harpuneneinschlag",
+      "Impacto de Arpão",
+      "Impatto dell'Arpione",
+      "작살 충격",
+      "魚叉衝擊",
+      "鱼叉冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293643,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impacto de Arpão",
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impact au harpon",
+      "Попадание гарпуна",
+      "Harpuneneinschlag",
+      "Impacto de Arpão",
+      "Impatto dell'Arpione",
+      "작살 충격",
+      "魚叉衝擊",
+      "鱼叉冲击"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293647,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impacto de Arpão",
+      "Harpoon Impact",
+      "Impacto de arpón",
+      "Impact au harpon",
+      "Попадание гарпуна",
+      "Harpuneneinschlag",
+      "Impacto de Arpão",
+      "Impatto dell'Arpione",
+      "작살 충격",
+      "魚叉衝擊",
+      "鱼叉冲击"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -168,6 +945,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1293676,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit",
+      "[DNT] Credit"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293688,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Breath Meter - Decrease",
+      "Medidor de aire - Reducir",
+      "Respirômetro - Reduzir",
+      "Breath Meter - Decrease",
+      "Medidor de respiración - Reducir",
+      "Jauge de respiration – réduction",
+      "Шкала дыхания – снижение",
+      "Atemanzeige - Sinkt",
+      "Respirômetro - Reduzir",
+      "Riserva di Fiato - Riduzione",
+      "호흡 수치 - 감소",
+      "呼吸量表 - 降低",
+      "呼吸表 - 减少"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1293726,
     "TagType": 26,
     "Names": [
@@ -187,5 +1006,47 @@
       "恐怖之力"
     ],
     "Media": "spell_nzinsanity_fearofdeath.jpg"
+  },
+  {
+    "TagId": 1293778,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP",
+      "[DNT] Wake of the Darkwell Completion RP"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1293918,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Divine Shield",
+      "Escudo divino",
+      "Escudo Divino",
+      "Divine Shield",
+      "Escudo divino",
+      "Bouclier divin",
+      "Божественный щит",
+      "Gottesschild",
+      "Escudo Divino",
+      "Scudo Divino",
+      "천상의 보호막",
+      "聖盾術",
+      "圣盾术"
+    ],
+    "Media": "spell_holy_divineintervention.jpg"
   }
 ]

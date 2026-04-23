@@ -189,6 +189,48 @@
     "Media": "inv_misc_flute_01.jpg"
   },
   {
+    "TagId": 267043,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_glaive_1h_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 267051,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dark Particle",
+      "Partícula oscura",
+      "Partícula Sombria",
+      "Dark Particle",
+      "Partícula oscura",
+      "Particule sombre",
+      "Частица тьмы",
+      "Dunkles Partikel",
+      "Partícula Sombria",
+      "Particella Oscura",
+      "암흑 입자",
+      "黑暗粒子",
+      "暗影微粒"
+    ],
+    "Media": "inv_cosmicvoid_nova.jpg"
+  },
+  {
     "TagId": 267052,
     "TagType": 21,
     "Names": [
@@ -522,7 +564,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12tr_amani_lighting_hex_hangingfire01_7570019.jpg"
   },
   {
     "TagId": 267081,
@@ -585,7 +627,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12ph_rugged_brazier02_7570009.jpg"
   },
   {
     "TagId": 267084,
@@ -712,6 +754,69 @@
       null
     ],
     "Media": "inv_12ph_opulent_waterwell01_7568684.jpg"
+  },
+  {
+    "TagId": 267204,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_folk_candelabra01_7570032.jpg"
+  },
+  {
+    "TagId": 267205,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_folk_candelabra02_7570038.jpg"
+  },
+  {
+    "TagId": 267206,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_opulent_chair_dining_small01_7570769.jpg"
   },
   {
     "TagId": 267207,
@@ -1348,21 +1453,42 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Angler Pearls",
+      "Perlas de Pescador",
+      "Pérolas de Pescador",
+      "Angler Pearls",
+      "Perlas de pescador",
+      "Perles de pêche",
+      "Глубоководные жемчужины",
+      "Anglerperlen",
+      "Pérolas de Pescador",
+      "Perle dei Pescatori",
+      "강태공 진주",
+      "釣手珍珠",
+      "钓客珍珠"
     ],
     "Media": "inv_misc_enchantedpearl.jpg"
+  },
+  {
+    "TagId": 267280,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Darkspear Dash Tabard",
+      "Tabardo de la Carrera Lanza Negra",
+      "Tabardo da Arremetida Lançanegra",
+      "Darkspear Dash Tabard",
+      "Tabardo de la Carrera Lanza Negra",
+      "Tabard du Marathon des Sombrelances",
+      "Гербовая накидка \"Забега Черного Копья\"",
+      "Wappenrock des Dunkelspeerrennens",
+      "Tabardo da Arremetida Lançanegra",
+      "Insegna dello Slancio dei Lanciascura",
+      "검은창 대질주 휘장",
+      "暗矛衝刺賽外袍",
+      "暗矛冲刺赛战袍"
+    ],
+    "Media": "inv_tabard_trollrun_c_01.jpg"
   },
   {
     "TagId": 267281,
@@ -1533,6 +1659,27 @@
     "Media": "item_korthia_paragonchest_01.jpg"
   },
   {
+    "TagId": 267323,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Troll Scroll of Rainbow Roll",
+      "Pergamino trol de rueda arcoíris",
+      "Pergaminho Trólico da Cambalhota Arco-íris",
+      "Troll Scroll of Rainbow Roll",
+      "Pergamino trol de giro arcoíris",
+      "Parchemin troll de roulade arc-en-ciel",
+      "Тролльский свиток \"Радужного переката\"",
+      "Trollschriftrolle des Regenbogenrollens",
+      "Pergaminho Trólico da Cambalhota Arco-íris",
+      "Pergamena dei Troll della Capriola Arcobaleno",
+      "내달리는 무지개의 트롤 두루마리",
+      "彩虹翻滾食人妖卷軸",
+      "彩虹翻滚巨魔卷轴"
+    ],
+    "Media": "inv_10_inscription_illusoryspellscrolls_color4.jpg"
+  },
+  {
     "TagId": 267331,
     "TagType": 21,
     "Names": [
@@ -1552,6 +1699,90 @@
       null
     ],
     "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
+  },
+  {
+    "TagId": 267352,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pocket Rainbow",
+      "Arcoíris de bolsillo",
+      "Arco-íris de Bolso",
+      "Pocket Rainbow",
+      "Arcoíris de bolsillo",
+      "Arc-en-ciel de poche",
+      "Карманная радуга",
+      "Taschenregenbogen",
+      "Arco-íris de Bolso",
+      "Arcobaleno Tascabile",
+      "휴대용 무지개",
+      "口袋彩虹",
+      "袖珍彩虹"
+    ],
+    "Media": "inv_misc_gem_variety_02.jpg"
+  },
+  {
+    "TagId": 267353,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pocket Sand",
+      "Arena de bolsillo",
+      "Areia de Bolso",
+      "Pocket Sand",
+      "Arena de bolsillo",
+      "Sable de poche",
+      "Карманный песок",
+      "Taschensand",
+      "Areia de Bolso",
+      "Sabbia Tascabile",
+      "휴대용 모래",
+      "口袋之沙",
+      "袋里藏沙"
+    ],
+    "Media": "inv_10_worlddroplevelingoptionalreagent_relics_hourglass_color3.jpg"
+  },
+  {
+    "TagId": 267355,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_opulent_mirror_wall01_7579455.jpg"
+  },
+  {
+    "TagId": 267356,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_opulent_bed_small01_7579449.jpg"
   },
   {
     "TagId": 267371,
@@ -1617,6 +1848,27 @@
     "Media": "inv_12ph_leg_7nb_nightborn_bookshelf01_filled_7580842.jpg"
   },
   {
+    "TagId": 267374,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_folk_chandelier02_7580862.jpg"
+  },
+  {
     "TagId": 267375,
     "TagType": 21,
     "Names": [
@@ -1657,6 +1909,48 @@
       "旅店酒杯"
     ],
     "Media": "inv_drink_05.jpg"
+  },
+  {
+    "TagId": 267380,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Volatile Pink Brightbursts",
+      "Estallidos lumínicos rosas volátiles",
+      "Estouro Reluzente Rosa Volátil",
+      "Volatile Pink Brightbursts",
+      "Ráfagas brillantes rosas volátiles",
+      "Explosion lumineuse rose volatile",
+      "Нестабильные розовые вспышки",
+      "Instabile rosa Glanzexplosionen",
+      "Estouro Reluzente Rosa Volátil",
+      "Scariche di Luce Rosa Instabili",
+      "불안정한 분홍색 빛의 폭발",
+      "易變粉紅光爆",
+      "不稳定的粉色璀璨心型烟花"
+    ],
+    "Media": "inv_10_engineering_explosives_1_color3.jpg"
+  },
+  {
+    "TagId": 267381,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Official G.G.R. Rehydration Container",
+      "Contenedor de rehidratación oficial de la GCG",
+      "Cantil de Reidratação Oficial da G.C.G.",
+      "Official G.G.R. Rehydration Container",
+      "Contenedor de rehidratación oficial de la G. C. G.",
+      "Conteneur de réhydratation officiel du GPG",
+      "Официальный контейнер ВГГ для регидрации",
+      "Offizieller Rehydrierungsbehälter des G.R.G.",
+      "Cantil de Reidratação Oficial da G.C.G.",
+      "Contenitore Reidratante Ufficiale della G.G.G.",
+      "놈리건 대경주회 공식 수분 보충 용기",
+      "官方路跑補水容器",
+      "诺莫瑞根马拉松官方补水水壶"
+    ],
+    "Media": "inv_drink_18.jpg"
   },
   {
     "TagId": 267387,
@@ -1995,6 +2289,27 @@
     "Media": "garrison_building_storehouse.jpg"
   },
   {
+    "TagId": 267435,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_opulent_candelabra02_7583104.jpg"
+  },
+  {
     "TagId": 267444,
     "TagType": 21,
     "Names": [
@@ -2163,6 +2478,27 @@
     "Media": "inv_misc_token_argentdawn3.jpg"
   },
   {
+    "TagId": 267472,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gnomatic Projector",
+      "Proyector gnómico",
+      "Projetor Gnomático",
+      "Gnomatic Projector",
+      "Proyector gnomático",
+      "Projecteur gnome",
+      "Гномий проектор",
+      "Gnomatischer Projektor",
+      "Projetor Gnomático",
+      "Proiettore Gnomesco",
+      "노움 투영기",
+      "地精投射器",
+      "诺莫发射器"
+    ],
+    "Media": "inv_111_remotecontrol_steamwheedle.jpg"
+  },
+  {
     "TagId": 267479,
     "TagType": 21,
     "Names": [
@@ -2293,21 +2629,21 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Nebulous Voidcache: Crown of the Cosmos",
+      "Alijo del Vacío nebuloso: Corona del Cosmos",
+      "Baú Caótico Nebuloso: Coroa do Cosmos",
+      "Nebulous Voidcache: Crown of the Cosmos",
+      "Alijo de Vacío nebuloso: Corona del Cosmos",
+      "Cache du Vide nébuleuse\u00A0: Couronne du cosmos",
+      "Туманный тайник Бездны: Корона космоса",
+      "Nebulöser Leerenvorrat: Krone des Kosmos",
+      "Baú Caótico Nebuloso: Coroa do Cosmos",
+      "Cassa del Vuoto Nebulosa: Corona del Cosmo",
+      "성운의 공허보관함: 우주의 왕관",
+      "星雲虛無寶箱：宇宙之冠",
+      "晦暗虚空宝箱：宇宙之冕"
     ],
-    "Media": "inv_misc_treasurechest04b.jpg"
+    "Media": "inv_1205_voidforge_fluctuatingvoidcores_cosmicvoid.jpg"
   },
   {
     "TagId": 267490,
@@ -5376,6 +5712,48 @@
     "Media": "garrison_building_storehouse.jpg"
   },
   {
+    "TagId": 267795,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_folk_path_steppingstones01_7634326.jpg"
+  },
+  {
+    "TagId": 267796,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_folk_path_steppingstones02_7634318.jpg"
+  },
+  {
     "TagId": 267797,
     "TagType": 21,
     "Names": [
@@ -5395,6 +5773,48 @@
       null
     ],
     "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 267798,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_folk_path_steppingstones03_7634324.jpg"
+  },
+  {
+    "TagId": 267799,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12ph_folk_path_steppingstones04_7634332.jpg"
   },
   {
     "TagId": 267800,

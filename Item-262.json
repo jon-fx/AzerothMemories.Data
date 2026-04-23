@@ -235,10 +235,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Sindorei Captain's Mantle",
-      "Manto de capitán sindorei",
+      "Sin'dorei Captain's Mantle",
+      "Manto de capitán sin'dorei",
       "Dragonas do Capitão Sin'dorei",
-      "Sindorei Captain's Mantle",
+      "Sin'dorei Captain's Mantle",
       "Manto de capitán sin'dorei",
       "Mantelet de capitaine sin’dorei",
       "Оплечье син'дорайского капитана",
@@ -256,10 +256,10 @@
     "TagType": 21,
     "Names": [
       null,
-      "Sindorei Handglaive",
-      "Guja de mano sindorei",
+      "Sin'dorei Handglaive",
+      "Guja de mano sin'dorei",
       "Glaive de Mão Sin'dorei",
-      "Sindorei Handglaive",
+      "Sin'dorei Handglaive",
       "Guja de mano sin'dorei",
       "Glaive à une main sin’dorei",
       "Малая син'дорайская глефа",
@@ -651,6 +651,27 @@
     "Media": "inv_box_01.jpg"
   },
   {
+    "TagId": 262438,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fantastical Goblin Waveshredder",
+      "Trizaolas goblin fantástico",
+      "Retalhador de Ondas Goblínico Fantástico",
+      "Fantastical Goblin Waveshredder",
+      "Trituraolas goblin fantástico",
+      "Déchiqueteur de vagues gobelin fantastique",
+      "Фантастический гоблинский волнокрошшер",
+      "Fantastischer Goblinwellenschredder",
+      "Retalhador de Ondas Goblínico Fantástico",
+      "Tagliaonde Fantastico dei Goblin",
+      "황홀한 고블린 파도분쇄기",
+      "荒誕哥布林破浪板",
+      "奇异的地精斩浪者"
+    ],
+    "Media": "inv_goblinsurfboardmount_orange.jpg"
+  },
+  {
     "TagId": 262449,
     "TagType": 21,
     "Names": [
@@ -937,7 +958,7 @@
       "Чернильница Темной Бездны",
       "Tintenfass aus dunkler Leere",
       "Tinteiro do Caos Sombrio",
-      "Inchiostro di Vuoto Oscuro",
+      "Calamaio di Vuoto Oscuro",
       "암흑 공허 잉크병",
       "黑暗虛無墨瓶",
       "黑暗虚空墨水瓶"
@@ -2965,21 +2986,63 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Nebulous Voidcache: Midnight Falls",
+      "Alijo del Vacío nebuloso: Cae la medianoche",
+      "Baú Caótico Nebuloso: Queda da Meia-noite",
+      "Nebulous Voidcache: Midnight Falls",
+      "Alijo de Vacío nebuloso: La caída de la medianoche",
+      "Cache du Vide nébuleuse\u00A0: Glas de minuit",
+      "Туманный тайник Бездны: Торжество Полуночи",
+      "Nebulöser Leerenvorrat: Anbruch der Mitternacht",
+      "Baú Caótico Nebuloso: Queda da Meia-noite",
+      "Cassa del Vuoto Nebulosa: Scoccare della Mezzanotte",
+      "성운의 공허보관함: 한밤의 도래",
+      "星雲虛無寶箱：午夜之落",
+      "晦暗虚空宝箱：至暗之夜降临"
     ],
-    "Media": "inv_misc_treasurechest04b.jpg"
+    "Media": "inv_1205_voidforge_fluctuatingvoidcores_cosmicvoid.jpg"
+  },
+  {
+    "TagId": 262660,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Egg Farmer's Backpack",
+      "Mochila de granjero de huevo",
+      "Mochila do Fazendeiro de Ovo",
+      "Egg Farmer's Backpack",
+      "Mochila de granjero de huevos",
+      "Sac à dos de collecte d’œufs",
+      "Рюкзак фермера для яиц",
+      "Rucksack des Geflügelbauern",
+      "Mochila do Fazendeiro de Ovo",
+      "Zaino del Contadino di Uova",
+      "알 농부의 배낭",
+      "蛋農背包",
+      "鸡蛋农用背包"
+    ],
+    "Media": "inv_cape_special_chickenbackpack_c_01_red.jpg"
+  },
+  {
+    "TagId": 262661,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ghastropod",
+      "Gasterópodo",
+      "Gastropavor",
+      "Ghastropod",
+      "Gastehorrórpodo",
+      "Spectéropode",
+      "Зомбоног",
+      "Spukfüßer",
+      "Gastropavor",
+      "Spettropode",
+      "복족류",
+      "巨蝸",
+      "瘴气腹足蜗牛"
+    ],
+    "Media": "inv_snailmount_green.jpg"
   },
   {
     "TagId": 262662,
@@ -3716,6 +3779,132 @@
     "Media": "inv_sword_2h_questbloodelf_b_01.jpg"
   },
   {
+    "TagId": 262741,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Dispelling Leap\" Kit",
+      "Kit \"Salto disipador\"",
+      "Kit \"Salto Dissipador\"",
+      "\"Dispelling Leap\" Kit",
+      "Kit de \"Salto disipador\"",
+      "Kit de Bond de dissipation",
+      "Набор \"Рассеивающий прыжок\"",
+      "Set \"Entzaubernder Sprung\"",
+      "Kit \"Salto Dissipador\"",
+      "Kit \"Salto Dissolvente\"",
+      "\"무효화의 도약\" 도구",
+      "「驅散之躍」組",
+      "“驱散跃迁”技能包"
+    ],
+    "Media": "inv_boot_cloth_raidmage_r_01.jpg"
+  },
+  {
+    "TagId": 262742,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Swift\" Kit",
+      "Kit \"Veloz",
+      "Kit \"Ligeiro",
+      "\"Swift\" Kit",
+      "Kit de \"Veloz",
+      "Kit de Vélocité",
+      "Набор \"Стремительность",
+      "Set \"Flink\"",
+      "Kit \"Ligeiro",
+      "Kit \"Rapido",
+      "\"신속\" 도구",
+      "「迅疾」組",
+      "“迅捷”技能包"
+    ],
+    "Media": "inv_icon_feather03c.jpg"
+  },
+  {
+    "TagId": 262743,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Nullification Field\" Kit",
+      "Kit \"Campo nulificador\"",
+      "Kit \"Campo de Nulificação\"",
+      "\"Nullification Field\" Kit",
+      "Kit de \"Campo de invalidación\"",
+      "Kit de Champ d’annulation",
+      "Набор \"Поле нейтрализации\"",
+      "Set \"Nullifikationsfeld\"",
+      "Kit \"Campo de Nulificação\"",
+      "Kit \"Campo di Annullamento\"",
+      "\"무효화장\" 도구",
+      "「抑制力場」組",
+      "“中和力场”技能包"
+    ],
+    "Media": "inv_jewelcrafting_70_saberseye.jpg"
+  },
+  {
+    "TagId": 262744,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Riftwalk\" Kit",
+      "Kit \"Zancafallas\"",
+      "Kit \"Travessia da Fenda\"",
+      "\"Riftwalk\" Kit",
+      "Kit de \"Caminafallas\"",
+      "Kit de Marche-faille",
+      "Набор \"Путешествие по разломам\"",
+      "Set \"Risswanderung\"",
+      "Kit \"Travessia da Fenda\"",
+      "Kit \"Calcavarchi\"",
+      "\"균열걸음\" 도구",
+      "「裂隙穿行」組",
+      "“裂隙传送”技能包"
+    ],
+    "Media": "inv_armor_celestial_d_01_boots.jpg"
+  },
+  {
+    "TagId": 262745,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Stealth\" Kit",
+      "Kit \"Sigilo\"",
+      "Kit \"Furtividade\"",
+      "\"Stealth\" Kit",
+      "Kit de \"Sigilo\"",
+      "Kit de Camouflage",
+      "Набор \"Незаметность\"",
+      "Set \"Verstohlenheit\"",
+      "Kit \"Furtividade\"",
+      "Kit \"Furtività\"",
+      "\"은신\" 도구",
+      "「潛行」組",
+      "“潜行”技能包"
+    ],
+    "Media": "inv_misc_cape_21.jpg"
+  },
+  {
+    "TagId": 262746,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Clockwork Sentinel\" Kit",
+      "Kit \"Centinela de relojería\"",
+      "Kit \"Sentinela Movida a Corda\"",
+      "\"Clockwork Sentinel\" Kit",
+      "Kit de \"Centinela de relojería\"",
+      "Kit de Sentinelle mécanique",
+      "Набор \"Механический часовой\"",
+      "Set \"Uhrwerkwächter\"",
+      "Kit \"Sentinela Movida a Corda\"",
+      "Kit \"Sentinella Meccanica\"",
+      "\"시계태엽 파수꾼\" 도구",
+      "「發條哨兵」組",
+      "“发条哨兵”技能包"
+    ],
+    "Media": "inv_clockworkbeagle_gold.jpg"
+  },
+  {
     "TagId": 262747,
     "TagType": 21,
     "Names": [
@@ -3741,19 +3930,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake",
-      "[PH] Pink Rake"
+      "Autumn Dagger-Tined Rake",
+      "Rastrillo de dientes daga de otoño",
+      "Ancinho Fio-de-adaga do Outono",
+      "Autumn Dagger-Tined Rake",
+      "Rastrillo con dagas por puntas otoñal",
+      "Râteau à dents en forme de dague automnal",
+      "Осенние грабли с зубьями из ножей",
+      "Dolchgezackter Herbstrechen",
+      "Ancinho Fio-de-adaga do Outono",
+      "Rastrello dalle Lame Affilate Autunnale",
+      "가을 가시 갈래 갈퀴",
+      "秋日匕尖抓耙",
+      "秋季匕齿钉耙"
     ],
     "Media": "inv_misc_2h_gardenrake_b_01.jpg"
   },
@@ -3762,19 +3951,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake",
-      "[PH] Purple Rake"
+      "Spring Dagger-Tined Rake",
+      "Rastrillo de dientes daga de primavera",
+      "Ancinho Fio-de-adaga da Primavera",
+      "Spring Dagger-Tined Rake",
+      "Rastrillo con dagas por puntas primaveral",
+      "Râteau à dents en forme de dague printanier",
+      "Весенние грабли с зубьями из ножей",
+      "Dolchgezackter Frühlingsrechen",
+      "Ancinho Fio-de-adaga da Primavera",
+      "Rastrello dalle Lame Affilate Primaverile",
+      "봄 가시 갈래 갈퀴",
+      "春日匕尖抓耙",
+      "春季匕齿钉耙"
     ],
     "Media": "inv_misc_2h_gardenrake_b_01.jpg"
   },
@@ -3783,19 +3972,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake",
-      "[PH] Red Rake"
+      "Red Dagger-Tined Rake",
+      "Rastrillo rojo de dientes daga",
+      "Ancinho Fio-de-adaga Vermelho",
+      "Red Dagger-Tined Rake",
+      "Rastrillo con dagas por puntas rojo",
+      "Râteau à dents en forme de dague rouge",
+      "Красные грабли с зубьями из ножей",
+      "Roter dolchgezackter Rechen",
+      "Ancinho Fio-de-adaga Vermelho",
+      "Rastrello dalle Lame Affilate Rosso",
+      "붉은색 가시 갈래 갈퀴",
+      "紅色匕尖抓耙",
+      "红色匕齿钉耙"
     ],
     "Media": "inv_misc_2h_gardenrake_b_01.jpg"
   },
@@ -3840,6 +4029,69 @@
       "急速虚空珍珠"
     ],
     "Media": "inv_fishing_innards_pearlblack.jpg"
+  },
+  {
+    "TagId": 262755,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Eccentro-Magic Pulse\" Enhancement",
+      "Mejora \"Pulso excentrimágico",
+      "Aperfeiçoamento \"Pulso Excentro-Mágico",
+      "\"Eccentro-Magic Pulse\" Enhancement",
+      "Mejora de \"Pulso excentromágico",
+      "Amélioration Pulsation eccentromagique",
+      "Усиление \"Эксцентромагический импульс",
+      "Verstärkung \"Exzentromagischer Impuls\"",
+      "Aperfeiçoamento \"Pulso Excentro-Mágico",
+      "Incantamento \"Impulso Eccentromagico",
+      "\"편심성 마법 파동\" 강화",
+      "「怪奇魔法脈衝」強化",
+      "“怪异魔法脉冲”强化包"
+    ],
+    "Media": "inv12_ability_mage_arcanesalvo.jpg"
+  },
+  {
+    "TagId": 262756,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Make Decoy\" Enhancement",
+      "Mejora \"Crear señuelo",
+      "Aperfeiçoamento \"Fazer Chamariz",
+      "\"Make Decoy\" Enhancement",
+      "Mejora de \"Hacer señuelo",
+      "Amélioration Création de diversion",
+      "Усиление \"Создание муляжа",
+      "Verstärkung \"Attrappe erschaffen\"",
+      "Aperfeiçoamento \"Fazer Chamariz",
+      "Incantamento \"Creazione Esca",
+      "\"미끼 만들기\" 강화",
+      "「製造誘餌」強化",
+      "“制作诱饵”强化包"
+    ],
+    "Media": "inv_misc_enggizmos_33.jpg"
+  },
+  {
+    "TagId": 262757,
+    "TagType": 21,
+    "Names": [
+      null,
+      "\"Greater Metamorph\" Enhancement",
+      "Mejora \"Metamorfosis mayor\"",
+      "Aperfeiçoamento \"Metamorfo Maior\"",
+      "\"Greater Metamorph\" Enhancement",
+      "Mejora de \"Metamorfosis mayor\"",
+      "Amélioration Métamorphose supérieure",
+      "Усиление \"Великий метаморф\"",
+      "Verstärkung \"Große Metamorphose\"",
+      "Aperfeiçoamento \"Metamorfo Maior\"",
+      "Potenziamento \"Metamorfosi Superiore\"",
+      "\"상급 변성\" 강화",
+      "「強效變形」強化",
+      "“强效形变”强化包"
+    ],
+    "Media": "inv_trade_alchemy_dpotion_c2a.jpg"
   },
   {
     "TagId": 262758,
@@ -4266,19 +4518,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Weak Glimmerline",
+      "Sedalumbrante débil",
+      "Linha Reluzente Fraca",
+      "Weak Glimmerline",
+      "Sedal brillante débil",
+      "Ligne étincelante fragile",
+      "Слабая блескучая леска",
+      "Schwache Glimmerschnur",
+      "Linha Reluzente Fraca",
+      "Lenza Luccicante Debole",
+      "미약한 미명줄",
+      "脆弱輝線",
+      "脆弱的闪烁丝线"
     ],
     "Media": "inv_rod_eternium.jpg"
   },
@@ -4287,19 +4539,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Angler's Glimmerline",
+      "Sedalumbrante de pescador",
+      "Linha Reluzente do Pescador",
+      "Angler's Glimmerline",
+      "Sedal brillante de pescador",
+      "Ligne étincelante de pêche",
+      "Рыболовная блескучая леска",
+      "Glimmerschnur des Anglers",
+      "Linha Reluzente do Pescador",
+      "Lenza Luccicante da Pesca",
+      "강태공의 미명줄",
+      "釣手輝線",
+      "垂钓者的闪烁丝线"
     ],
     "Media": "inv_rod_eternium.jpg"
   },
@@ -4365,6 +4617,27 @@
       "复古紫色饮料"
     ],
     "Media": "inv_potiond_5.jpg"
+  },
+  {
+    "TagId": 262881,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lil' Staropod",
+      "Mini estrellópodo",
+      "Estrelopodezinho",
+      "Lil' Staropod",
+      "Miniestrellópodo",
+      "P’tit stellopode",
+      "Звездолапка",
+      "Kleiner Sternfüßler",
+      "Estrelopodezinho",
+      "Piccolo Stellopode",
+      "꼬마 별빛공룡",
+      "小星腳龍",
+      "小星踪"
+    ],
+    "Media": "inv_celestialbrontosauruspet.jpg"
   },
   {
     "TagId": 262884,
@@ -4554,6 +4827,27 @@
       "研磨"
     ],
     "Media": "ability_miling.jpg"
+  },
+  {
+    "TagId": 262909,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hypo-Speed X6000",
+      "Hipoveloz X6000",
+      "Hipovelocidade X6000",
+      "Hypo-Speed X6000",
+      "Hipovelocidad X6000",
+      "Hypo-vitesse\u00A0X6000",
+      "Гипоскорость 6000",
+      "Hypo-Geschwindigkeit X6000",
+      "Hipovelocidade X6000",
+      "Iposaetta X6000",
+      "초고속 X6000",
+      "嗨速X6000",
+      "亚速X6000型"
+    ],
+    "Media": "inv_goblintrikemount.jpg"
   },
   {
     "TagId": 262910,

@@ -4405,7 +4405,7 @@
       "Raio Poderoso (Liberto)",
       "Crash Lightning (Unleashed)",
       "Estallido de relámpagos (desatados)",
-      "Impact foudroyant (Unleashed)",
+      "Impact foudroyant (Tempête déchaînée)",
       "Сокрушающая молния (активация)",
       "Tobende Blitze (Entfesselt)",
       "Raio Poderoso (Liberto)",
@@ -5970,6 +5970,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1252552,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area",
+      "12.0.5 Event - Prop Hunt - Controller Bunny - Area"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1252553,
     "TagType": 26,
     "Names": [
@@ -6354,13 +6375,13 @@
       null,
       "[dnt] Silvermoon artist loop - painting actively",
       "[dnt] Silvermoon artist loop - painting actively",
+      null,
       "[dnt] Silvermoon artist loop - painting actively",
       "[dnt] Silvermoon artist loop - painting actively",
       "[dnt] Silvermoon artist loop - painting actively",
       "[dnt] Silvermoon artist loop - painting actively",
       "[dnt] Silvermoon artist loop - painting actively",
-      "[dnt] Silvermoon artist loop - painting actively",
-      "[dnt] Silvermoon artist loop - painting actively",
+      null,
       "[dnt] Silvermoon artist loop - painting actively",
       "[dnt] Silvermoon artist loop - painting actively",
       "[dnt] Silvermoon artist loop - painting actively",
@@ -7060,6 +7081,27 @@
       "吞噬"
     ],
     "Media": "spell_shadow_summonvoidwalker.jpg"
+  },
+  {
+    "TagId": 1252638,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Azure Drakefire",
+      "Fuego de draco azur",
+      "Chama Dracônica Lazúli",
+      "Azure Drakefire",
+      "Pirodraco azur",
+      "Drakefeu azur",
+      "Лазурный драконий огонь",
+      "Azurdrachenfeuer",
+      "Chama Dracônica Lazúli",
+      "Fuocodraco di Zaffiro",
+      "하늘빛 비룡불꽃",
+      "蒼藍龍火",
+      "苍龙腾焰"
+    ],
+    "Media": "inv_misc_missilelarge_green.jpg"
   },
   {
     "TagId": 1252639,
@@ -8384,6 +8426,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1252717,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible",
+      "[DNT] Void Assaults - System - Minor Scenario Eligible"
+    ],
+    "Media": "inv_cosmicvoid_nova.jpg"
+  },
+  {
     "TagId": 1252718,
     "TagType": 26,
     "Names": [
@@ -8443,6 +8506,27 @@
       "[DNT] Mod Speed -80%",
       "[DNT] Mod Speed -80%",
       "[DNT] Mod Speed -80%"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252721,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9055,6 +9139,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1252773,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding",
+      "Prop Hunt - Player Aura - Player - Hiding"
+    ],
+    "Media": "ability_stealth.jpg"
+  },
+  {
+    "TagId": 1252774,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking",
+      "12.0.5 Event - Prop Hunt - Player Aura - Player - Seeking"
+    ],
+    "Media": "spell_shadow_spectralsight.jpg"
+  },
+  {
     "TagId": 1252775,
     "TagType": 26,
     "Names": [
@@ -9391,6 +9517,27 @@
     "Media": "ability_demonhunter_chaoticimprint_arcane.jpg"
   },
   {
+    "TagId": 1252795,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area",
+      "12.0.5 Event - Prop Hunt - Player - Port out of play area"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1252796,
     "TagType": 26,
     "Names": [
@@ -9464,7 +9611,7 @@
       "Shadowtrade Mercenary",
       "Mercenario Mercasombra",
       "Mercenaire ombréchange",
-      "Наемник \"Теневой биржи",
+      "Наемник \"Теневой биржи\"",
       "Schattenhandelsöldner",
       "Mercenário da Umbracom",
       "Mercenario del Commercio dell'Ombra",
@@ -9485,7 +9632,7 @@
       "Shadowtrade Mercenary",
       "Mercenario Mercasombra",
       "Mercenaire ombréchange",
-      "Наемник \"Теневой биржи",
+      "Наемник \"Теневой биржи\"",
       "Schattenhandelsöldner",
       "Mercenário da Umbracom",
       "Mercenario del Commercio dell'Ombra",
@@ -10350,6 +10497,27 @@
       "빛의 반향",
       "光明迴響",
       "圣光回响"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252845,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round",
+      "12.0.5 Event - Prop Hunt - Label Bunny - New Round"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -11488,6 +11656,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1252922,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Hide Phase"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_scroll_02_uprez_color2.jpg"
+  },
+  {
+    "TagId": 1252923,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Label - Seek Phase",
+      "Etiqueta - Fase de búsqueda",
+      "Rótulo - Fase de Procurar",
+      "Label - Seek Phase",
+      "Etiqueta - Fase de búsqueda",
+      "Étiquette - phase de recherche",
+      "Ярлык – этап поиска",
+      "Bezeichnung - Suchphase",
+      "Rótulo - Fase de Procurar",
+      "Etichetta - Fase di Ricerca",
+      "표지 - 탐색 단계",
+      "標籤 - 尋找階段",
+      "标签 - 抓捕阶段"
+    ],
+    "Media": "ability_eyeoftheowl.jpg"
+  },
+  {
+    "TagId": 1252924,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over",
+      "12.0.5 Event - Prop Hunt - Label Bunny - Game Over"
+    ],
+    "Media": "inv_1115_warrior_victorypose.jpg"
+  },
+  {
     "TagId": 1252925,
     "TagType": 26,
     "Names": [
@@ -11862,6 +12093,27 @@
       "Hold Gem [DNT]",
       "Hold Gem [DNT]",
       "Hold Gem [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1252949,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic",
+      "[DNT] Void Sphere Cosmetic"
     ],
     "Media": "trade_engineering.jpg"
   },

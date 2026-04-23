@@ -361,19 +361,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Bench_Long01.m2"
+      "Collect Padded Wooden Bench",
+      "Recoger banco de madera acolchado",
+      "Coletar Banco de Madeira Acolchoado",
+      "Collect Padded Wooden Bench",
+      "Añadir banco de madera acolchado",
+      "Récupérer un banc en bois matelassé",
+      "Получить мягкую деревянную скамью",
+      "Gepolsterte Holzbank sammeln",
+      "Coletar Banco de Madeira Acolchoado",
+      "Raccolta Panca di Legno Foderata",
+      "덧댄 긴 목재 의자 획득",
+      "收集軟墊木製長椅",
+      "收集软垫木制长椅"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -382,19 +382,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Crate02.m2"
+      "Collect Sturdy Wooden Crate",
+      "Recoger cajón de madera sólido",
+      "Coletar Caixote de Madeira Robusto",
+      "Collect Sturdy Wooden Crate",
+      "Añadir cajón de madera recia",
+      "Récupérer une caisse en bois robuste",
+      "Получить прочный деревянный стул",
+      "Stabile Holzkiste sammeln",
+      "Coletar Caixote de Madeira Robusto",
+      "Raccolta Cassa di Legno Robusta",
+      "튼튼한 목재 상자 획득",
+      "收集結實木箱",
+      "收集牢固的木制箱子"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -1722,6 +1722,27 @@
     "Media": "inv12_apextalent_priest_voidapparitions.jpg"
   },
   {
+    "TagId": 1264097,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fonte Dourada",
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fontaine dorée",
+      "Позолоченный фонтан",
+      "Vergoldeter Brunnen",
+      "Fonte Dourada",
+      "Fontana Dorata",
+      "금빛 분수대",
+      "金輝噴泉",
+      "鸿运宝盆"
+    ],
+    "Media": "inv_10xp_generic_toy_treasurebowltoy01.jpg"
+  },
+  {
     "TagId": 1264098,
     "TagType": 26,
     "Names": [
@@ -1762,6 +1783,27 @@
       "暗影转移"
     ],
     "Media": "ability_priest_shadowyapparition.jpg"
+  },
+  {
+    "TagId": 1264100,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fonte Dourada",
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fontaine dorée",
+      "Позолоченный фонтан",
+      "Vergoldeter Brunnen",
+      "Fonte Dourada",
+      "Fontana Dorata",
+      "금빛 분수대",
+      "金輝噴泉",
+      "鸿运宝盆"
+    ],
+    "Media": "inv_10xp_generic_toy_treasurebowltoy01.jpg"
   },
   {
     "TagId": 1264101,
@@ -2037,6 +2079,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1264117,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain (Med)",
+      "Fuente dorada (mediana)",
+      "Fonte Dourada (Média)",
+      "Gilded Fountain (Med)",
+      "Fuente dorada (mediana)",
+      "Fontaine dorée (moyenne)",
+      "Позолоченный фонтан (средний)",
+      "Vergoldeter Brunnen (Mittel)",
+      "Fonte Dourada (Média)",
+      "Fontana Dorata (Media)",
+      "금빛 분수대 (중형)",
+      "金輝噴泉（中）",
+      "鸿运宝盆（中）"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1264124,
     "TagType": 26,
     "Names": [
@@ -2184,6 +2247,27 @@
     "Media": "spell_nature_earthquake.jpg"
   },
   {
+    "TagId": 1264133,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fonte Dourada",
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fontaine dorée",
+      "Позолоченный фонтан",
+      "Vergoldeter Brunnen",
+      "Fonte Dourada",
+      "Fontana Dorata",
+      "금빛 분수대",
+      "金輝噴泉",
+      "鸿运宝盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1264134,
     "TagType": 26,
     "Names": [
@@ -2226,6 +2310,48 @@
     "Media": "ability_earthen_pillar.jpg"
   },
   {
+    "TagId": 1264136,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fire Spit",
+      "Flema de fuego",
+      "Cuspir Fogo",
+      "Fire Spit",
+      "Flema de Fuego",
+      "Crachat de feu",
+      "Огненный плевок",
+      "Feuer speien",
+      "Cuspir Fogo",
+      "Sputo di Fuoco",
+      "불꽃 숨결",
+      "吐火",
+      "火焰吐息"
+    ],
+    "Media": "spell_fire_firebolt02.jpg"
+  },
+  {
+    "TagId": 1264138,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Quickening Flames",
+      "Llamas acuciantes",
+      "Chamas Céleres",
+      "Quickening Flames",
+      "Llamas de velocidad",
+      "Flammes vivifiantes",
+      "Ускоряющее пламя",
+      "Beflügelnde Flammen",
+      "Chamas Céleres",
+      "Fiamme Acceleranti",
+      "신속의 불길",
+      "疾速烈焰",
+      "加速火焰"
+    ],
+    "Media": "ability_mage_firestarter.jpg"
+  },
+  {
     "TagId": 1264139,
     "TagType": 26,
     "Names": [
@@ -2245,6 +2371,27 @@
       "页岩轰炸"
     ],
     "Media": "6bf_blackrock_nova.jpg"
+  },
+  {
+    "TagId": 1264141,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fonte Dourada",
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fontaine dorée",
+      "Позолоченный фонтан",
+      "Vergoldeter Brunnen",
+      "Fonte Dourada",
+      "Fontana Dorata",
+      "금빛 분수대",
+      "金輝噴泉",
+      "鸿运宝盆"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1264142,
@@ -2268,6 +2415,27 @@
     "Media": "6bf_blackrock_nova.jpg"
   },
   {
+    "TagId": 1264143,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fonte Dourada",
+      "Gilded Fountain",
+      "Fuente dorada",
+      "Fontaine dorée",
+      "Позолоченный фонтан",
+      "Vergoldeter Brunnen",
+      "Fonte Dourada",
+      "Fontana Dorata",
+      "금빛 분수대",
+      "金輝噴泉",
+      "鸿运宝盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1264144,
     "TagType": 26,
     "Names": [
@@ -2287,6 +2455,27 @@
       "永恒蛋壳"
     ],
     "Media": "inv_12_trinket_raid_darkwell_tank2_phoenixegg.jpg"
+  },
+  {
+    "TagId": 1264145,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain (Med)",
+      "Fuente dorada (mediana)",
+      "Fonte Dourada (Média)",
+      "Gilded Fountain (Med)",
+      "Fuente dorada (mediana)",
+      "Fontaine dorée (moyenne)",
+      "Позолоченный фонтан (средний)",
+      "Vergoldeter Brunnen (Mittel)",
+      "Fonte Dourada (Média)",
+      "Fontana Dorata (Media)",
+      "금빛 분수대 (중형)",
+      "金輝噴泉（中）",
+      "鸿运宝盆（中）"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1264146,
@@ -2415,6 +2604,27 @@
     "Media": "spell_fire_twilightflamestrike.jpg"
   },
   {
+    "TagId": 1264152,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain (Large)",
+      "Fuente dorada (grande)",
+      "Fonte Dourada (Grande)",
+      "Gilded Fountain (Large)",
+      "Fuente dorada (grande)",
+      "Fontaine dorée (grande)",
+      "Позолоченный фонтан (крупный)",
+      "Vergoldeter Brunnen (Groß)",
+      "Fonte Dourada (Grande)",
+      "Fontana Dorata (Grande)",
+      "금빛 분수대 (대형)",
+      "金輝噴泉（大）",
+      "鸿运宝盆（大）"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1264153,
     "TagType": 26,
     "Names": [
@@ -2432,6 +2642,27 @@
       "[DNT] Vale of Secrets Visionstone",
       "[DNT] Vale of Secrets Visionstone",
       "[DNT] Vale of Secrets Visionstone"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1264154,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gilded Fountain (Large)",
+      "Fuente dorada (grande)",
+      "Fonte Dourada (Grande)",
+      "Gilded Fountain (Large)",
+      "Fuente dorada (grande)",
+      "Fontaine dorée (grande)",
+      "Позолоченный фонтан (крупный)",
+      "Vergoldeter Brunnen (Groß)",
+      "Fonte Dourada (Grande)",
+      "Fontana Dorata (Grande)",
+      "금빛 분수대 (대형)",
+      "金輝噴泉（大）",
+      "鸿运宝盆（大）"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -2664,6 +2895,27 @@
       "菌菇之拳"
     ],
     "Media": "spell_nature_earthquake.jpg"
+  },
+  {
+    "TagId": 1264170,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura",
+      "[DNT] Light Effects Aura"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1264171,
@@ -3821,6 +4073,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1264232,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Chaos Orbs",
+      "Orbes del caos",
+      "Orbes do Caos",
+      "Chaos Orbs",
+      "Orbes del caos",
+      "Orbes du chaos",
+      "Сферы хаоса",
+      "Chaoskugeln",
+      "Orbes do Caos",
+      "Globi del Caos",
+      "혼돈의 보주",
+      "混沌之球",
+      "混乱宝珠"
+    ],
+    "Media": "inv_cosmicvoid_nova.jpg"
+  },
+  {
     "TagId": 1264233,
     "TagType": 26,
     "Names": [
@@ -4701,6 +4974,27 @@
       "[DNT] Puppeteered"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1264285,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Shader",
+      "Sombreador del Vacío",
+      "Sombreador do Caos",
+      "Void Shader",
+      "Velador del Vacío",
+      "Vide flou",
+      "Затмение Бездны",
+      "Leerenschattierer",
+      "Sombreador do Caos",
+      "Ombreggiatura del Vuoto",
+      "공허 그림자",
+      "虛無陰影",
+      "虚空蒙影"
+    ],
+    "Media": "spell_ice_lament.jpg"
   },
   {
     "TagId": 1264286,
@@ -6485,6 +6779,342 @@
     "Media": "ability_evoker_unravel.jpg"
   },
   {
+    "TagId": 1264380,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Hatred's Wolfpelt Rug",
+      "Recoger alfombra de piel de lobo del Odio",
+      "Coletar Tapete de Pele de Lobo do Ódio",
+      "Collect Hatred's Wolfpelt Rug",
+      "Añadir alfombra de pelambre de lobo del Odio",
+      "Récupérer un tapis en peau de loup de la haine",
+      "Получить коврик из волчьей шкуры Ненависти",
+      "Wolfspelzteppich des Hasses sammeln",
+      "Coletar Tapete de Pele de Lobo do Ódio",
+      "Raccolta Tappeto di Pelliccia di Lupo dell'Odio",
+      "증오의 늑대 모피 양탄자 획득",
+      "收集憎恨狼皮地毯",
+      "收集憎恨狼裘毯"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264381,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Prime Evil's Chest",
+      "Recoger cofre del Mal Primigenio",
+      "Coletar Baú do Mal Supremo",
+      "Collect Prime Evil's Chest",
+      "Añadir cofre de demonio mayor",
+      "Récupérer un coffre du démon primordial",
+      "Получить сундук Единого Зла",
+      "Truhe des Großen Übels sammeln",
+      "Coletar Baú do Mal Supremo",
+      "Raccolta Forziere del Primo Maligno",
+      "대악마의 보관함 획득",
+      "收集大罪魔王箱子",
+      "收集魔神的宝箱"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264382,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary's Chess Match",
+      "Recoger partida de ajedrez de Santuario",
+      "Coletar Conjunto de Xadrez de Santuário",
+      "Collect Sanctuary's Chess Match",
+      "Añadir juego de ajedrez de Santuario",
+      "Récupérer une partie d’échecs de Sanctuaire",
+      "Получить шахматы Санктуария",
+      "Sanktuarios Schachpartie sammeln",
+      "Coletar Conjunto de Xadrez de Santuário",
+      "Raccolta Partita a Scacchi di Sanctuarium",
+      "성역의 체스 경기 획득",
+      "收集聖休亞瑞西洋棋桌",
+      "收集庇护之地的棋局"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264383,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary's Chess Board",
+      "Recoger tablero de ajedrez de Santuario",
+      "Coletar Tabuleiro de Xadrez de Santuário",
+      "Collect Sanctuary's Chess Board",
+      "Añadir tablero de ajedrez de Santuario",
+      "Récupérer un échiquier de Sanctuaire",
+      "Получить шахматную доску Санктуария",
+      "Sanktuarios Schachbrett sammeln",
+      "Coletar Tabuleiro de Xadrez de Santuário",
+      "Raccolta Scacchiera di Sanctuarium",
+      "성역의 체스판 획득",
+      "收集聖休亞瑞西洋棋盤",
+      "收集庇护之地的棋盘"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264384,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Dark Bishop",
+      "Recoger alfil oscuro de ajedrez de Santuario",
+      "Coletar Bispo de Xadrez Preto de Santuário",
+      "Collect Sanctuary Chess Dark Bishop",
+      "Añadir alfil negro de ajedrez de Santuario",
+      "Récupérer un fou noir des échecs de Sanctuaire",
+      "Получить черного слона из шахмат Санктуария",
+      "Dunklen Läufer des Sanktuario-Schachspiels sammeln",
+      "Coletar Bispo de Xadrez Preto de Santuário",
+      "Raccolta Alfiere Oscuro degli Scacchi di Sanctuarium",
+      "성역 체스 어둠 진영 비숍 획득",
+      "收集聖休亞瑞黑色主教棋子",
+      "收集庇护之地象棋：黑暗主教"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264385,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Dark Rook",
+      "Recoger torre oscura de ajedrez de Santuario",
+      "Coletar Torre de Xadrez Preta de Santuário",
+      "Collect Sanctuary Chess Dark Rook",
+      "Añadir torre negra de ajedrez de Santuario",
+      "Récupérer une tour noire des échecs de Sanctuaire",
+      "Получить черную ладью из шахмат Санктуария",
+      "Dunklen Turm des Sanktuario-Schachspiels sammeln",
+      "Coletar Torre de Xadrez Preta de Santuário",
+      "Raccolta Torre Oscura degli Scacchi di Sanctuarium",
+      "성역 체스 어둠 진영 룩 획득",
+      "收集聖休亞瑞黑色城堡棋子",
+      "收集庇护之地象棋：黑暗战车"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264386,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Dark Queen",
+      "Recoger reina oscura de ajedrez de Santuario",
+      "Coletar Rainha de Xadrez Preta de Santuário",
+      "Collect Sanctuary Chess Dark Queen",
+      "Añadir reina negra de ajedrez de Santuario",
+      "Récupérer une reine noire des échecs de Sanctuaire",
+      "Получить черного ферзя из шахмат Санктуария",
+      "Dunkle Dame des Sanktuario-Schachspiels sammeln",
+      "Coletar Rainha de Xadrez Preta de Santuário",
+      "Raccolta Regina Oscura degli Scacchi di Sanctuarium",
+      "성역 체스 어둠 진영 퀸 획득",
+      "收集聖休亞瑞黑色皇后棋子",
+      "收集庇护之地象棋：黑暗皇后"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264387,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Dark Pawn",
+      "Recoger peón oscuro de ajedrez de Santuario",
+      "Coletar Peão de Xadrez Preto de Santuário",
+      "Collect Sanctuary Chess Dark Pawn",
+      "Añadir peón negro de ajedrez de Santuario",
+      "Récupérer un pion noir des échecs de Sanctuaire",
+      "Получить черную пешку из шахмат Санктуария",
+      "Dunklen Bauer des Sanktuario-Schachspiels sammeln",
+      "Coletar Peão de Xadrez Preto de Santuário",
+      "Raccolta Pedone Oscuro degli Scacchi di Sanctuarium",
+      "성역 체스 어둠 진영 폰 획득",
+      "收集聖休亞瑞黑色步卒棋子",
+      "收集庇护之地象棋：黑暗士兵"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264388,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Dark Knight",
+      "Recoger caballo oscuro de ajedrez de Santuario",
+      "Coletar Cavalo de Xadrez Preto de Santuário",
+      "Collect Sanctuary Chess Dark Knight",
+      "Añadir caballo negro de ajedrez de Santuario",
+      "Récupérer un cavalier noir des échecs de Sanctuaire",
+      "Получить черного коня из шахмат Санктуария",
+      "Dunklen Springer des Sanktuario-Schachspiels sammeln",
+      "Coletar Cavalo de Xadrez Preto de Santuário",
+      "Raccolta Cavallo Oscuro degli Scacchi di Sanctuarium",
+      "성역 체스 어둠 진영 나이 획득트",
+      "收集聖休亞瑞黑色騎士棋子",
+      "收集庇护之地象棋：黑暗骑士"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264389,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Dark King",
+      "Recoger rey oscuro de ajedrez de Santuario",
+      "Coletar Rei de Xadrez Preto de Santuário",
+      "Collect Sanctuary Chess Dark King",
+      "Añadir rey negro de ajedrez de Santuario",
+      "Récupérer un roi noir des échecs de Sanctuaire",
+      "Получить черного короля из шахмат Санктуария",
+      "Dunklen König des Sanktuario-Schachspiels sammeln",
+      "Coletar Rei de Xadrez Preto de Santuário",
+      "Raccolta Re Oscuro degli Scacchi di Sanctuarium",
+      "성역 체스 어둠 진영 킹 획득",
+      "收集聖休亞瑞黑色國王棋子",
+      "收集庇护之地象棋：黑暗国王"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264390,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Light Bishop",
+      "Recoger alfil luminoso de ajedrez de Santuario",
+      "Coletar Bispo de Xadrez Branco de Santuário",
+      "Collect Sanctuary Chess Light Bishop",
+      "Añadir alfil blanco de ajedrez de Santuario",
+      "Récupérer un fou blanc des échecs de Sanctuaire",
+      "Получить белого слона из шахмат Санктуария",
+      "Hellen Läufer des Sanktuario-Schachspiels sammeln",
+      "Coletar Bispo de Xadrez Branco de Santuário",
+      "Raccolta Alfiere Luminoso degli Scacchi di Sanctuarium",
+      "성역 체스 빛 진영 비숍 획득",
+      "收集聖休亞瑞白色主教棋子",
+      "收集庇护之地象棋：光明主教"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264391,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Light Rook",
+      "Recoger torre luminosa de ajedrez de Santuario",
+      "Coletar Torre de Xadrez Branca de Santuário",
+      "Collect Sanctuary Chess Light Rook",
+      "Añadir torre blanca de ajedrez de Santuario",
+      "Récupérer une tour blanche des échecs de Sanctuaire",
+      "Получить белую ладью из шахмат Санктуария",
+      "Hellen Turm des Sanktuario-Schachspiels sammeln",
+      "Coletar Torre de Xadrez Branca de Santuário",
+      "Raccolta Torre Luminosa degli Scacchi di Sanctuarium",
+      "성역 체스 빛 진영 룩 획득",
+      "收集聖休亞瑞白色城堡棋子",
+      "收集庇护之地象棋：光明战车"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264392,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Light Queen",
+      "Recoger reina luminosa de ajedrez de Santuario",
+      "Coletar Rainha de Xadrez Branca de Santuário",
+      "Collect Sanctuary Chess Light Queen",
+      "Añadir reina blanca de ajedrez de Santuario",
+      "Récupérer une reine blanche des échecs de Sanctuaire",
+      "Получить белого ферзя из шахмат Санктуария",
+      "Helle Dame des Sanktuario-Schachspiels sammeln",
+      "Coletar Rainha de Xadrez Branca de Santuário",
+      "Raccolta Regina Luminosa degli Scacchi di Sanctuarium",
+      "성역 체스 빛 진영 퀸 획득",
+      "收集聖休亞瑞白色皇后棋子",
+      "收集庇护之地象棋：光明皇后"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264393,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Light Pawn",
+      "Recoger peón luminoso de ajedrez de Santuario",
+      "Coletar Peão de Xadrez Branco de Santuário",
+      "Collect Sanctuary Chess Light Pawn",
+      "Añadir peón blanco de ajedrez de Santuario",
+      "Récupérer un pion blanc des échecs de Sanctuaire",
+      "Получить белую пешку из шахмат Санктуария",
+      "Hellen Bauer des Sanktuario-Schachspiels sammeln",
+      "Coletar Peão de Xadrez Branco de Santuário",
+      "Raccolta Pedone Luminoso degli Scacchi di Sanctuarium",
+      "성역 체스 빛 진영 폰 획득",
+      "收集聖休亞瑞白色步卒棋子",
+      "收集庇护之地象棋：光明士兵"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264394,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Light Knight",
+      "Recoger caballo luminoso de ajedrez de Santuario",
+      "Coletar Cavalo de Xadrez Branco de Santuário",
+      "Collect Sanctuary Chess Light Knight",
+      "Añadir caballo blanco de ajedrez de Santuario",
+      "Récupérer un cavalier blanc des échecs de Sanctuaire",
+      "Получить белого коня из шахмат Санктуария",
+      "Hellen Springer des Sanktuario-Schachspiels sammeln",
+      "Coletar Cavalo de Xadrez Branco de Santuário",
+      "Raccolta Cavallo Luminoso degli Scacchi di Sanctuarium",
+      "성역 체스 빛 진영 나이트 획득",
+      "收集聖休亞瑞白色騎士棋子",
+      "收集庇护之地象棋：光明骑士"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1264395,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Sanctuary Chess Light King",
+      "Recoger rey luminoso de ajedrez de Santuario",
+      "Coletar Rei de Xadrez Branco de Santuário",
+      "Collect Sanctuary Chess Light King",
+      "Añadir rey blanco de ajedrez de Santuario",
+      "Récupérer un roi blanc des échecs de Sanctuaire",
+      "Получить белого короля из шахмат Санктуария",
+      "Hellen König des Sanktuario-Schachspiels sammeln",
+      "Coletar Rei de Xadrez Branco de Santuário",
+      "Raccolta Re Luminoso degli Scacchi di Sanctuarium",
+      "성역 체스 빛 진영 킹 획득",
+      "收集聖休亞瑞白色國王棋子",
+      "收集庇护之地象棋：光明国王"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1264396,
     "TagType": 26,
     "Names": [
@@ -7619,6 +8249,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1264466,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Shader",
+      "Sombreador del Vacío",
+      "Sombreador do Caos",
+      "Void Shader",
+      "Velador del Vacío",
+      "Vide flou",
+      "Затмение Бездны",
+      "Leerenschattierer",
+      "Sombreador do Caos",
+      "Ombreggiatura del Vuoto",
+      "공허 그림자",
+      "虛無陰影",
+      "虚空蒙影"
+    ],
+    "Media": "inv_112_raidtrinkets_blobofswirlingvoid_purple.jpg"
+  },
+  {
     "TagId": 1264467,
     "TagType": 26,
     "Names": [
@@ -7870,6 +8521,27 @@
     "Media": "ability_fixated_state_purple.jpg"
   },
   {
+    "TagId": 1264493,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Swap Seeker",
+      "Cambiar de buscador",
+      "Trocar Caçador",
+      "Swap Seeker",
+      "Cambiar buscador",
+      "Changement de limier",
+      "Смена искателя",
+      "Sucher wechseln",
+      "Trocar Caçador",
+      "Scambio Cercatore",
+      "술래 교체",
+      "調換追尋者",
+      "切换抓捕者"
+    ],
+    "Media": "inv_pet_swappet.jpg"
+  },
+  {
     "TagId": 1264495,
     "TagType": 26,
     "Names": [
@@ -8078,6 +8750,27 @@
       "上啊，伊克！"
     ],
     "Media": "ability_fixated_state_purple.jpg"
+  },
+  {
+    "TagId": 1264509,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Swap Seeker (Root)",
+      "Cambiar de buscador (raíz)",
+      "Trocar Caçador (Raiz)",
+      "Swap Seeker (Root)",
+      "Cambiar buscador (raíz)",
+      "Changement de limier (source)",
+      "Смена искателя (источник)",
+      "Sucher wechseln (Bewegungsunfähigkeitseffekt)",
+      "Trocar Caçador (Raiz)",
+      "Scambio Cercatore (Immobilizzazione)",
+      "술래 교체 (이동 불가)",
+      "調換追尋者（定身）",
+      "切换抓捕者（定身）"
+    ],
+    "Media": "inv_pet_swappet.jpg"
   },
   {
     "TagId": 1264510,
@@ -8436,6 +9129,48 @@
     ]
   },
   {
+    "TagId": 1264535,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rune of Self-Mending",
+      "Runa de autoalivio",
+      "Runa de Autorrecomposição",
+      "Rune of Self-Mending",
+      "Runa de Autoalivio",
+      "Rune d’auto-guérison",
+      "Руна самоисцеления",
+      "Rune der Selbstheilung",
+      "Runa de Autorrecomposição",
+      "Runa dell'Autoguarigione",
+      "자가 복원의 룬",
+      "自癒符文",
+      "自愈符文"
+    ],
+    "Media": "spell_shadow_felmending.jpg"
+  },
+  {
+    "TagId": 1264536,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rune of Void-Tainted Shell",
+      "Runa de coraza corrompida por el Vacío",
+      "Runa da Concha Maculada de Caos",
+      "Rune of Void-Tainted Shell",
+      "Runa de Caparazón contaminado por el Vacío",
+      "Rune de carapace corrompue par le Vide",
+      "Руна оскверненной Бездной оболочки",
+      "Rune der leerenbesudelten Hülle",
+      "Runa da Concha Maculada de Caos",
+      "Runa del Guscio Corrotto dal Vuoto",
+      "공허에 오염된 껍질의 룬",
+      "虛無污化護盾符文",
+      "虚空侵染外壳符文"
+    ],
+    "Media": "inv_nullstone_cosmicvoid.jpg"
+  },
+  {
     "TagId": 1264537,
     "TagType": 26,
     "Names": [
@@ -8455,6 +9190,48 @@
       "正在过载……"
     ],
     "Media": "ability_vehicle_electrocharge.jpg"
+  },
+  {
+    "TagId": 1264538,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rune of Lynxlike Reflexes",
+      "Runa de reflejos de lince",
+      "Runa dos Reflexos de Lince",
+      "Rune of Lynxlike Reflexes",
+      "Runa de Reflejos de lince",
+      "Rune de réflexes de lynx",
+      "Руна рысьих рефлексов",
+      "Rune der luchsartigen Reflexe",
+      "Runa dos Reflexos de Lince",
+      "Runa dei Riflessi da Lince",
+      "스라소니의 반사 신경의 룬",
+      "山貓迅閃符文",
+      "山猫敏捷符文"
+    ],
+    "Media": "inv_arathilynxmount_red.jpg"
+  },
+  {
+    "TagId": 1264539,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rune of Bolstered Defense",
+      "Runa de defensa reforzada",
+      "Runa da Defesa Reforçada",
+      "Rune of Bolstered Defense",
+      "Runa de Defensa reforzada",
+      "Rune de défense renforcée",
+      "Руна усиленной обороны",
+      "Rune der gestärkten Verteidigung",
+      "Runa da Defesa Reforçada",
+      "Runa della Difesa Rinforzata",
+      "보강된 방어의 룬",
+      "加固防禦符文",
+      "强固防御符文"
+    ],
+    "Media": "inv_enchant_voidsphere.jpg"
   },
   {
     "TagId": 1264540,
@@ -8478,6 +9255,27 @@
     "Media": "spell_shaman_earthquake.jpg"
   },
   {
+    "TagId": 1264541,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Godly Venom",
+      "Veneno divino",
+      "Peçonha Divina",
+      "Godly Venom",
+      "Veneno de los dioses",
+      "Venin divin",
+      "Божественный яд",
+      "Göttliches Gift",
+      "Peçonha Divina",
+      "Veleno Divino",
+      "신의 맹독",
+      "神聖毒液",
+      "神力剧毒"
+    ],
+    "Media": "rogue_venomzest.jpg"
+  },
+  {
     "TagId": 1264542,
     "TagType": 26,
     "Names": [
@@ -8499,6 +9297,27 @@
     "Media": "inv_ability_holyfire_beam.jpg"
   },
   {
+    "TagId": 1264543,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rune of Escalation",
+      "Runa de escalada",
+      "Runa do Recrudescimento",
+      "Rune of Escalation",
+      "Runa de Escalado",
+      "Rune d’intensification",
+      "Руна нарастания",
+      "Rune der Eskalation",
+      "Runa do Recrudescimento",
+      "Runa dell'Intensificazione",
+      "확산의 룬",
+      "增幅符文",
+      "膨胀符文"
+    ],
+    "Media": "inv_enchant_voidsphere.jpg"
+  },
+  {
     "TagId": 1264544,
     "TagType": 26,
     "Names": [
@@ -8518,6 +9337,27 @@
       "下跪"
     ],
     "Media": "spell_nzinsanity_chasedbyshadows.jpg"
+  },
+  {
+    "TagId": 1264545,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Swap",
+      "Cambiar",
+      "Trocar",
+      "Swap",
+      "Cambiar",
+      "Échange",
+      "Поменяться местами",
+      "Tauschen",
+      "Trocar",
+      "Scambio",
+      "교체",
+      "調換",
+      "位置交换"
+    ],
+    "Media": "inv_pet_swappet.jpg"
   },
   {
     "TagId": 1264549,
@@ -8591,7 +9431,7 @@
       "Pluma sin'dorei dorada",
       "Pena Sin'dorei Dourada",
       "Gilded Sin'dorei Quill",
-      "Pluma sin'dorei dorada",
+      "Cálamo sin'dorei dorado",
       "Plume sin’dorei dorée",
       "Позолоченное син'дорайское перо",
       "Vergoldeter Federkiel der Sin'dorei",
@@ -9861,6 +10701,27 @@
       "女妖哀嚎"
     ],
     "Media": "ui_darkshore_warfront_horde_banshee.jpg"
+  },
+  {
+    "TagId": 1264637,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Clone",
+      "Clonar",
+      "Clonar",
+      "Clone",
+      "Clon",
+      "Clone",
+      "Копия",
+      "Klonen",
+      "Clonar",
+      "Clone",
+      "복제",
+      "複製",
+      "复制镜像"
+    ],
+    "Media": "inv_misc_2h_babynagafork_a_01.jpg"
   },
   {
     "TagId": 1264638,
@@ -13747,6 +14608,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1264868,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Brown Paper Sack",
+      "Recoger saco de papel marrón",
+      "Coletar Saco Marrom de Papel",
+      "Collect Brown Paper Sack",
+      "Añadir saco de papel marrón",
+      "Récupérer un sac en papier kraft",
+      "Получить бурый бумажный мешочек",
+      "Braunen Papiersack sammeln",
+      "Coletar Saco Marrom de Papel",
+      "Raccolta Sacchetto di Carta Marrone",
+      "갈색 종이 자루 획득",
+      "收集棕色紙袋",
+      "收集牛皮纸袋"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1264869,
     "TagType": 26,
     "Names": [
@@ -14181,7 +15063,7 @@
       "Farbstoff: Zephrasblau",
       "Pigmento Azul Zefirino",
       "Tintura Blu di Zephras",
-      "푸른 서풍 염료",
+      "제프라스 청색 염료",
       "微風藍色染料",
       "微风蓝染料"
     ],
@@ -14481,6 +15363,27 @@
     "Media": "inv_enchant_essencenethersmall.jpg"
   },
   {
+    "TagId": 1264910,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Clone (Summon)",
+      "Clonar (invocar)",
+      "Clonar (Evocar)",
+      "Clone (Summon)",
+      "Clon (invocar)",
+      "Clone (invocation)",
+      "Копия (призыв)",
+      "Klonen (Beschwören)",
+      "Clonar (Evocar)",
+      "Clone (Evocazione)",
+      "복제 (소환)",
+      "複製體（召喚）",
+      "复制镜像（召唤）"
+    ],
+    "Media": "inv_misc_2h_babynagafork_a_01.jpg"
+  },
+  {
     "TagId": 1264911,
     "TagType": 26,
     "Names": [
@@ -14773,6 +15676,27 @@
       "浅淡茶棕染料"
     ],
     "Media": "housing-dye-pale-umber.jpg"
+  },
+  {
+    "TagId": 1264925,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01",
+      "Prop Hunt - Tutorial Chair Demo 01"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1264926,
@@ -15195,6 +16119,27 @@
     "Media": "housing-dye-copper.jpg"
   },
   {
+    "TagId": 1264953,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02",
+      "Prop Hunt - Tutorial Chair Demo 02"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1264954,
     "TagType": 26,
     "Names": [
@@ -15338,6 +16283,27 @@
       "[DNT] Summon Chair",
       "[DNT] Summon Chair",
       "[DNT] Summon Chair"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1264961,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01",
+      "Prop Hunt - Tutorial - Become a Chair 01"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -15592,6 +16558,27 @@
       "受到鼓舞！"
     ],
     "Media": "spell_holy_powerinfusion.jpg"
+  },
+  {
+    "TagId": 1264977,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard",
+      "12.0.5 Event - Prop Hunt - Prop - Clipboard"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1264978,

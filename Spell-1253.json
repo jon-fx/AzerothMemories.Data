@@ -193,19 +193,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Depth Diver",
-      "Buzo de profundidades",
-      "Mergulhador da Profundeza",
-      "Depth Diver",
-      "Buceador abisal",
-      "Plongée profonde",
-      "Глубокое ныряние",
-      "Tiefentaucher",
-      "Mergulhador da Profundeza",
-      "Immersione Profonda",
-      "심해 잠수부",
-      "深海潛水者",
-      "深潜者"
+      "Abyss Anglers - Vehicle",
+      "Pescadores abisales: vehículo",
+      "Pescadores do Abismo - Veículo",
+      "Abyss Anglers - Vehicle",
+      "Pescadores del abismo: vehículo",
+      "Pêche des abysses – véhicule",
+      "Глубоководная рыбалка – транспорт",
+      "Abgrundfischen - Transportmittel",
+      "Pescadores do Abismo - Veículo",
+      "Pescatori dell'Abisso - Veicolo",
+      "심연 강태공 - 차량",
+      "深淵釣手 - 載具",
+      "深渊钓客 - 载具"
     ],
     "Media": "inv_leatherworking_shimmerscaledivinghelmet.jpg"
   },
@@ -277,19 +277,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Abyss Anglers",
-      "Pescadores abisales",
-      "Pescadores do Abismo",
-      "Abyss Anglers",
-      "Pescadores del abismo",
-      "Pêche des abysses",
-      "Удильщики Бездны",
-      "Abgrundfischer",
-      "Pescadores do Abismo",
-      "Pescatori dell'Abisso",
-      "심연 강태공",
-      "深淵釣手",
-      "深渊钓客"
+      "Abyss Anglers - Vehicle",
+      "Pescadores abisales: vehículo",
+      "Pescadores do Abismo - Veículo",
+      "Abyss Anglers - Vehicle",
+      "Pescadores del abismo: vehículo",
+      "Pêche des abysses – véhicule",
+      "Глубоководная рыбалка – транспорт",
+      "Abgrundfischen - Transportmittel",
+      "Pescadores do Abismo - Veículo",
+      "Pescatori dell'Abisso - Veicolo",
+      "심연 강태공 - 차량",
+      "深淵釣手 - 載具",
+      "深渊钓客 - 载具"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -319,19 +319,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Basic Harpoon Rifle",
-      "Rifle de arpón básico",
-      "Rifle de Arpão Básico",
-      "Basic Harpoon Rifle",
-      "Rifle de arpón básico",
-      "Fusil harpon de base",
-      "Базовое гарпунное ружье",
-      "Gewöhnliches Harpunengewehr",
-      "Rifle de Arpão Básico",
-      "Fucile ad Arpione Basilare",
-      "기초적인 작살 소총",
-      "基礎魚叉槍",
-      "基础鱼叉枪"
+      "Fire Harpoon",
+      "Disparar arpón",
+      "Arpão de Fogo",
+      "Fire Harpoon",
+      "Disparar arpón",
+      "Tir de harpon",
+      "Выстрел гарпуном",
+      "Harpune abfeuern",
+      "Arpão de Fogo",
+      "Lancio Arpione",
+      "작살 날리기",
+      "發射魚叉",
+      "发射鱼叉"
     ],
     "Media": "ability_hunter_harpoon.jpg"
   },
@@ -1123,7 +1123,7 @@
       "Abyss Angler",
       "Pescador del abismo",
       "Pêche des abysses",
-      "Удильщик Бездны",
+      "Глубоководный рыбак",
       "Abgrundfischen",
       "Pescador do Abismo",
       "Pescatore dell'Abisso",
@@ -2496,7 +2496,7 @@
       "河豚水泡",
       "河豚气泡"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_fishing_f_sleeper3.jpg"
   },
   {
     "TagId": 1253146,
@@ -2559,7 +2559,7 @@
       "咬嚼！",
       "啃噬！"
     ],
-    "Media": "trade_archaeology_shark jaws.jpg"
+    "Media": "spell_warrior_dragoncharge.jpg"
   },
   {
     "TagId": 1253149,
@@ -2580,7 +2580,7 @@
       "衝鋒",
       "冲锋"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "spell_warrior_dragoncharge.jpg"
   },
   {
     "TagId": 1253150,
@@ -2622,7 +2622,7 @@
       "衝鋒",
       "冲锋"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "spell_warrior_dragoncharge.jpg"
   },
   {
     "TagId": 1253153,
@@ -3164,7 +3164,7 @@
       "Einfallsreiche Maßnahmen",
       "Medidas Providenciais",
       "Misure Ingegnose",
-      "수원가의 수단",
+      "자원 활용책",
       "精明手段",
       "资源巧用"
     ],
@@ -3206,7 +3206,7 @@
       "Einfallsreiche Maßnahmen",
       "Medidas Providenciais",
       "Misure Ingegnose",
-      "수원가의 수단",
+      "자원 활용책",
       "精明手段",
       "资源巧用"
     ],
@@ -3227,7 +3227,7 @@
       "Einfallsreiche Maßnahmen",
       "Medidas Providenciais",
       "Misure Ingegnose",
-      "수원가의 수단",
+      "자원 활용책",
       "精明手段",
       "资源巧用"
     ],
@@ -4277,7 +4277,7 @@
       "Caduta dal Vuoto",
       "공허내림",
       "虛墜",
-      "虚空天坠"
+      "虚落"
     ],
     "Media": "inv_12_dh_void_ability_voidfall.jpg"
   },
@@ -4779,7 +4779,7 @@
       "Kyrennas Khadgarimitat",
       "Imitação de Hadggar de Kryenna",
       "Imitazione di Khadgar di Kreynna",
-      "크리엔나의 카드가의 모방품",
+      "키렌나의 카드가의 모방품",
       "克萊娜的卡德加模仿",
       "克琳娜的卡德加仿制酒"
     ],
@@ -4800,7 +4800,7 @@
       "Kyrennas Khadgarimitat",
       "Imitação de Hadggar de Kryenna",
       "Imitazione di Khadgar di Kreynna",
-      "크리엔나의 카드가의 모방품",
+      "키렌나의 카드가의 모방품",
       "克萊娜的卡德加模仿",
       "克琳娜的卡德加仿制酒"
     ],
@@ -5626,6 +5626,69 @@
     "Media": "ability_fixated_state_red.jpg"
   },
   {
+    "TagId": 1253420,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)",
+      "12.0.5 Event - Prop Hunt - Prop - Basic Furniture - Summon (Hiding)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1253421,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair",
+      "Prop Hunt - Get Furniture - Chair"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1253422,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random",
+      "Prop Hunt - Get Furniture - 00 Random"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1253423,
     "TagType": 26,
     "Names": [
@@ -5687,6 +5750,27 @@
       "灰烬残骸"
     ],
     "Media": "ability_mount_fireravengodmount.jpg"
+  },
+  {
+    "TagId": 1253430,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table",
+      "Prop Hunt - Get Furniture - Table"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1253431,
@@ -5981,6 +6065,27 @@
       "12.0 Delves - TwilightsBlade02 - V02 - Hostage: Spawn Spell (Hufton)"
     ],
     "Media": "inv_misc_rope_01.jpg"
+  },
+  {
+    "TagId": 1253459,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Cap"
+    ],
+    "Media": "ability_eyeoftheowl.jpg"
   },
   {
     "TagId": 1253460,
@@ -6359,6 +6464,27 @@
       "后勤卷轴"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1253493,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Apex Corruption",
+      "Supercorrupción",
+      "Corrupção do Superpredador",
+      "Apex Corruption",
+      "Corrupción alfa",
+      "Corruption prédatrice",
+      "Наихудшая порча",
+      "Raubtierverderbnis",
+      "Corrupção do Superpredador",
+      "Corruzione Apicale",
+      "정점의 타락",
+      "頂尖腐化",
+      "终极腐蚀"
+    ],
+    "Media": "inv_112_raidtrinkets_etherealenergystoragesphere_gold.jpg"
   },
   {
     "TagId": 1253494,
@@ -7957,6 +8083,27 @@
     "Media": "inv12_apextalent_priest_voidshield.jpg"
   },
   {
+    "TagId": 1253594,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger"
+    ],
+    "Media": "ability_eyeoftheowl.jpg"
+  },
+  {
     "TagId": 1253595,
     "TagType": 26,
     "Names": [
@@ -8188,6 +8335,27 @@
     "Media": "buff_epichunter.jpg"
   },
   {
+    "TagId": 1253606,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Summon Beam"
+    ],
+    "Media": "ability_eyeoftheowl.jpg"
+  },
+  {
     "TagId": 1253607,
     "TagType": 26,
     "Names": [
@@ -8207,6 +8375,27 @@
       "乱射"
     ],
     "Media": "ability_hunter_rapidkilling.jpg"
+  },
+  {
+    "TagId": 1253608,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam",
+      "12.0.5 Event - Prop Hunt - Seeking - Look - Area Trigger - Beam"
+    ],
+    "Media": "ability_eyeoftheowl.jpg"
   },
   {
     "TagId": 1253609,
@@ -9868,6 +10057,27 @@
     "Media": "ability_priest_psychiclink.jpg"
   },
   {
+    "TagId": 1253708,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1",
+      "[DNT] Talking Head: Scenario C2 S1"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1253709,
     "TagType": 26,
     "Names": [
@@ -10706,6 +10916,27 @@
       "暗影冲击"
     ],
     "Media": "ability_rogue_envelopingshadows.jpg"
+  },
+  {
+    "TagId": 1253756,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pick Up",
+      "Recoger",
+      "Pegar",
+      "Pick Up",
+      "Recoger",
+      "Ramasser",
+      "Подобрать",
+      "Aufheben",
+      "Pegar",
+      "Raccolta",
+      "획득",
+      "撿拾",
+      "拾取"
+    ],
+    "Media": "ability_paladin_handoflight.jpg"
   },
   {
     "TagId": 1253757,
@@ -11894,7 +12125,7 @@
       "Añadir diván alado sin'dorei",
       "Récupérer une chaise ailée sin’dorei",
       "Получить син'дорайское кресло с подголовником",
-      "Geflügelte Chaiselongue der Sin'dorei sammeln",
+      "Chaiselongue der Sin'dorei sammeln",
       "Coletar Espreguiçadeira Alada Sin'dorei",
       "Raccolta Poltrona Alata dei Sin'dorei",
       "신도레이 날개 휴식용 의자 획득",
@@ -13751,6 +13982,27 @@
     "Media": "inv_spear_03.jpg"
   },
   {
+    "TagId": 1253935,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Incomplete",
+      "Incompleto",
+      "Incompleto",
+      "Incomplete",
+      "Sin completar",
+      "Invocation incomplète",
+      "Незавершенность",
+      "Unvollständig",
+      "Incompleto",
+      "Incompleto",
+      "미완성",
+      "不完整",
+      "未完成"
+    ],
+    "Media": "ability_warlock_soulswap.jpg"
+  },
+  {
     "TagId": 1253938,
     "TagType": 26,
     "Names": [
@@ -13896,6 +14148,27 @@
       "Channel: Arcane Hands [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1253949,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)",
+      "12.0.5 Event - Prop Hunt - Prop - Pick up Furniture (Drop)"
+    ],
+    "Media": "inv_misc_desecrated_leatherglove.jpg"
   },
   {
     "TagId": 1253950,
