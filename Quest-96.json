@@ -1,5 +1,65 @@
 [
   {
+    "TagId": 96000,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Skiff Joyride",
+      "Paseo en esquife",
+      "Rolezinho de esquife",
+      "Skiff Joyride",
+      "Paseo en esquife",
+      "Virée en esquif",
+      "Поездка с ветерком",
+      "Bootsspritztour",
+      "Rolezinho de esquife",
+      "Giretto in barca",
+      "광란의 조각배",
+      "小艇兜風",
+      "小艇兜风"
+    ]
+  },
+  {
+    "TagId": 96048,
+    "TagType": 28,
+    "Names": [
+      null,
+      "The Time to Strike",
+      "El momento de atacar",
+      "A hora de atacar",
+      "The Time to Strike",
+      "Hora de pasar al ataque",
+      "L’heure de frapper",
+      "Время нанести удар",
+      "Zeit zum Angriff",
+      "A hora de atacar",
+      "Tempo di colpire",
+      "몰아칠 시간",
+      "攻擊時刻",
+      "突袭时刻"
+    ]
+  },
+  {
+    "TagId": 96210,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Scrubbing Troubles",
+      "Problemas con el fregado",
+      "Esfregação problemática",
+      "Scrubbing Troubles",
+      "Resolución de problemas",
+      "Des problèmes à désinfecter",
+      "Чище чистого",
+      "Scheuern wie bescheuert",
+      "Esfregação problemática",
+      "Scacciare i guai",
+      "문제 해결",
+      "洗滌麻煩",
+      "清理麻烦"
+    ]
+  },
+  {
     "TagId": 96214,
     "TagType": 28,
     "Names": [
@@ -40,6 +100,146 @@
     ]
   },
   {
+    "TagId": 96217,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Sporadic Power Drain",
+      "Drenaje de poder esporádico",
+      "Drenagem de poder esporádica",
+      "Sporadic Power Drain",
+      "Drenaje esporádico",
+      "Drain de puissance sporadique",
+      "Спорадическое истощение",
+      "Sporadischer Kraftentzug",
+      "Drenagem de poder esporádica",
+      "Risucchio di potere sporadico",
+      "간헐적 동력 고갈",
+      "零散能量汲取",
+      "魔力异动"
+    ]
+  },
+  {
+    "TagId": 96223,
+    "TagType": 28,
+    "Names": [
+      null,
+      "The Magisters' Call",
+      "El llamado de los magísteres",
+      "O chamado dos magísteres",
+      "The Magisters' Call",
+      "La llamada del magister",
+      "L’appel des Magistères",
+      "Зов магистров",
+      "Der Ruf des Magisters",
+      "O chamado dos magísteres",
+      "La chiamata dei Magistri",
+      "마법학자의 부름",
+      "博學者的召喚",
+      "魔导师的秘令"
+    ]
+  },
+  {
+    "TagId": 96268,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Marsh Mana Spores",
+      "Esporas de maná de la marisma",
+      "Esporos de mana do brejo",
+      "Marsh Mana Spores",
+      "Las esporas de maná de marjal",
+      "Spores de mana des marais",
+      "Болотные манаспоры",
+      "Manasporen der Marschen",
+      "Esporos de mana do brejo",
+      "Spore di mana della palude",
+      "습지의 마나 포자",
+      "沼澤法力孢子",
+      "沼泽法力孢子"
+    ]
+  },
+  {
+    "TagId": 96269,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Steal Devourer Research",
+      "Robar la investigación de los devoradores",
+      "Roubando pesquisa de devorador",
+      "Steal Devourer Research",
+      "Robar la investigación del devorador",
+      "Vol de recherches de dévoreur",
+      "Исследование пожирателей",
+      "Stehlt Verschlingerforschungen",
+      "Roubando pesquisa de devorador",
+      "Rubare la ricerca sui divoratori",
+      "포식자 연구 탈취",
+      "竊取吞噬者研究",
+      "窃取吞噬者研究"
+    ]
+  },
+  {
+    "TagId": 96272,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Mashing Mushroom Mana Machines",
+      "Máquinas de maná machacahongos",
+      "Esmagar máquinas de mana de cogumelo",
+      "Mashing Mushroom Mana Machines",
+      "Las máquinas de maná machacachampiñones",
+      "Machines à mana écrase-champignon",
+      "Мощные машины маны",
+      "Pilzige Manamaschinen plattmachen",
+      "Esmagar máquinas de mana de cogumelo",
+      "Maciullare le macchine del mana micotiche",
+      "버섯 마나 기계를 부숴라",
+      "蘑菇泥法力機器",
+      "怒砸蘑菇法力机器"
+    ]
+  },
+  {
+    "TagId": 96293,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Mush-Vroom!",
+      "¡A fungivelocidad!",
+      "Co-vrum-melo!",
+      "Mush-Vroom!",
+      "¡A tope con los champis!",
+      "Appuyer sur le champignon\u00A0!",
+      "Гипергриб!",
+      "Roadrunner-Pilz!",
+      "Co-vrum-melo!",
+      "Mico-celerazione",
+      "달려라, 버섯아!",
+      "蘑菇轟隆！",
+      "蘑菇狂飙！"
+    ]
+  },
+  {
+    "TagId": 96295,
+    "TagType": 28,
+    "Names": [
+      null,
+      "A Pertinent Punishment",
+      "Un castigo pertinente",
+      "Uma punição pertinente",
+      "A Pertinent Punishment",
+      "Un castigo pertinente",
+      "Une sanction appropriée",
+      "Подходящее наказание",
+      "Eine angemessene Strafe",
+      "Uma punição pertinente",
+      "Una punizione pertinente",
+      "적절한 처벌",
+      "相應懲罰",
+      "相应的惩罚"
+    ]
+  },
+  {
     "TagId": 96388,
     "TagType": 28,
     "Names": [
@@ -57,6 +257,806 @@
       "심연 강태공 가입",
       "加入深淵釣手",
       "加入深渊钓客"
+    ]
+  },
+  {
+    "TagId": 96400,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Lingering Corruption",
+      "Corrupción persistente",
+      "Corrupção remanescente",
+      "Lingering Corruption",
+      "Corrupción persistente",
+      "Corruption rémanente",
+      "Непроходящая порча",
+      "Anhaltende Verderbnis",
+      "Corrupção remanescente",
+      "Corruzione persistente",
+      "잔존하는 타락",
+      "滯留腐化",
+      "纠缠腐蚀"
+    ]
+  },
+  {
+    "TagId": 96432,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Power Overload",
+      "Sobrecarga de poder",
+      "Sobrecarga de energia",
+      "Power Overload",
+      "Sobrecarga de poder",
+      "Surcharge de puissance",
+      "Перегрузка машин",
+      "Energieüberladung",
+      "Sobrecarga de energia",
+      "Sovraccarico di potenza",
+      "동력 과부하",
+      "能量超載",
+      "能量过载"
+    ]
+  },
+  {
+    "TagId": 96433,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Not the Mama",
+      "Con mamá no",
+      "A mamãe, não",
+      "Not the Mama",
+      "¡El maná no!",
+      "Pas la maman",
+      "Не мама!",
+      "Nicht die Mama",
+      "A mamãe, não",
+      "Non la mamma",
+      "엄마는 안 돼",
+      "不是媽媽",
+      "谁是你妈？"
+    ]
+  },
+  {
+    "TagId": 96463,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Trap Springers",
+      "Cebos de trampas",
+      "Acionamentos de armadilha",
+      "Trap Springers",
+      "Resortes de trampas",
+      "Déclenchement de pièges",
+      "Ловушки и ловчие",
+      "Fallenspringer",
+      "Acionamentos de armadilha",
+      "Attivatori di trappole",
+      "함정 발동!",
+      "陷阱觸發者",
+      "引触陷阱"
+    ]
+  },
+  {
+    "TagId": 96472,
+    "TagType": 28,
+    "Names": [
+      null,
+      "The Nexus-Captain",
+      "El capitán del Nexo",
+      "O Capitão do Nexus",
+      "The Nexus-Captain",
+      "El capitán del Nexo",
+      "Le capitaine du nexus",
+      "Капитан Нексуса",
+      "Der Nexushauptmann",
+      "O Capitão do Nexus",
+      "Il Capitano del Nexus",
+      "연합대장",
+      "奧核隊長",
+      "节点队长"
+    ]
+  },
+  {
+    "TagId": 96496,
+    "TagType": 28,
+    "Names": [
+      null,
+      "The Road Not Taken Twice",
+      "El camino dos veces no transitado",
+      "A estrada trilhada apenas uma vez",
+      "The Road Not Taken Twice",
+      "La senda evitada por segunda vez",
+      "Retour éclair",
+      "Нехоженная дважды тропа",
+      "Der Weg, den keiner zweimal geht",
+      "A estrada trilhada apenas uma vez",
+      "La strada percorsa una volta sola",
+      "두 번 가지 않은 길",
+      "二度未選之路",
+      "不走回头路"
+    ]
+  },
+  {
+    "TagId": 96497,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Spatial Reasoning",
+      "Razonamiento espacial",
+      "Argumentação espacial",
+      "Spatial Reasoning",
+      "Razonamiento espacial",
+      "Réflexion spatiale",
+      "Пространственное ориентирование",
+      "Räumliche Logik",
+      "Argumentação espacial",
+      "Ragionamento spaziale",
+      "공간 추론",
+      "空間推理",
+      "多维统筹"
+    ]
+  },
+  {
+    "TagId": 96522,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Oh Captain, Die Captain!",
+      "¡Hasta la muerte, capitán!",
+      "Ó capitão! Morra, capitão!",
+      "Oh Captain, Die Captain!",
+      "¡Oh, capitán, muerto capitán!",
+      "Ô capitaine, meurs capitaine\u00A0!",
+      "Капитан, капитан, устранитесь!",
+      "Oh Käpt'n, stirb, Käpt'n!",
+      "Ó capitão! Morra, capitão!",
+      "Oh, capitano, muori, capitano!",
+      "죽어야만 하는 나의 대장님!",
+      "死吧，隊長！",
+      "哦，队长，死吧队长！"
+    ]
+  },
+  {
+    "TagId": 96547,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Weaken Their Forces",
+      "Debilita sus fuerzas",
+      "Enfraqueça as forças inimigas",
+      "Weaken Their Forces",
+      "Debilitar sus fuerzas",
+      "Affaiblir leurs troupes",
+      "Ослабление вражеских сил",
+      "Schwächt ihre Truppen",
+      "Enfraqueça as forças inimigas",
+      "Indebolire le forze",
+      "적군 약화",
+      "削弱對方部隊",
+      "削弱敌军"
+    ]
+  },
+  {
+    "TagId": 96548,
+    "TagType": 28,
+    "Names": [
+      null,
+      "High Spore",
+      "Esporas en lo alto",
+      "Pontuação fúngica",
+      "High Spore",
+      "Suma espora",
+      "Meilleure spore",
+      "Спорный счет",
+      "Höchstpilzzahl",
+      "Pontuação fúngica",
+      "Punteggio spora-dico",
+      "포자 펑펑 점수 팡팡",
+      "高分孢子",
+      "“孢”分榜首"
+    ]
+  },
+  {
+    "TagId": 96552,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest"
+    ]
+  },
+  {
+    "TagId": 96553,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest"
+    ]
+  },
+  {
+    "TagId": 96554,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest"
+    ]
+  },
+  {
+    "TagId": 96555,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest"
+    ]
+  },
+  {
+    "TagId": 96556,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest",
+      "Tracking Quest"
+    ]
+  },
+  {
+    "TagId": 96557,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Flying Debris",
+      "Escombros voladores",
+      "Destroços voando soltos",
+      "Flying Debris",
+      "Escombros voladores",
+      "Débris volants",
+      "Парящие обломки",
+      "Fliegende Trümmer",
+      "Destroços voando soltos",
+      "Detriti volanti",
+      "떨어지는 잔해",
+      "飛行殘骸",
+      "漫天残骸"
+    ]
+  },
+  {
+    "TagId": 96600,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Crypt Culling",
+      "Sacrificios de cripta",
+      "Abate na cripta",
+      "Crypt Culling",
+      "Matanza en las criptas",
+      "Purge de la crypte",
+      "Истребление в склепе",
+      "Gruftsäuberung",
+      "Abate na cripta",
+      "Epurazione della cripta",
+      "납골당 대학살",
+      "墓穴撲殺",
+      "肃清墓穴"
+    ]
+  },
+  {
+    "TagId": 96611,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Storm Mitigation",
+      "Mitigación de tormenta",
+      "Mitigação da Tempestade",
+      "Storm Mitigation",
+      "Mitigar la tormenta",
+      "Dissipation de tempête",
+      "Укрощение бури",
+      "Sturmmitigation",
+      "Mitigação da Tempestade",
+      "Mitigazione della tempesta",
+      "폭풍 완화",
+      "緩解風暴",
+      "风暴对策"
+    ]
+  },
+  {
+    "TagId": 96617,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Storm Mitigation",
+      "Mitigación de tormenta",
+      "Mitigação da Tempestade",
+      "Storm Mitigation",
+      "Mitigar la tormenta",
+      "Dissipation de tempête",
+      "Укрощение бури",
+      "Sturmmitigation",
+      "Mitigação da Tempestade",
+      "Mitigazione della tempesta",
+      "폭풍 완화",
+      "緩解風暴",
+      "风暴对策"
+    ]
+  },
+  {
+    "TagId": 96618,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Storm Mitigation",
+      "Mitigación de tormenta",
+      "Mitigação da Tempestade",
+      "Storm Mitigation",
+      "Mitigar la tormenta",
+      "Dissipation de tempête",
+      "Укрощение бури",
+      "Sturmmitigation",
+      "Mitigação da Tempestade",
+      "Mitigazione della tempesta",
+      "폭풍 완화",
+      "緩解風暴",
+      "风暴对策"
+    ]
+  },
+  {
+    "TagId": 96623,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Capsized Compost",
+      "Compost fúngico",
+      "Composto Revirado",
+      "Capsized Compost",
+      "Compuesto volcado",
+      "Compost renversé",
+      "Кантованный компост",
+      "Kippender Kompost",
+      "Composto Revirado",
+      "Compost rovesciato",
+      "뒤집힌 퇴비",
+      "翻覆的堆肥",
+      "打翻的堆肥"
+    ]
+  },
+  {
+    "TagId": 96650,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Subdue the Spore Storm",
+      "Aplaca la tormenta de esporas",
+      "Subjugue a Tempestade de Esporos",
+      "Subdue the Spore Storm",
+      "Contener la tormenta de esporas",
+      "Calmer la tempête de spores",
+      "Подчинение споровой бури",
+      "Stoppt den Sporensturm",
+      "Subjugue a Tempestade de Esporos",
+      "Placa la Tempesta di Spore",
+      "포자 폭풍을 억누르는 법",
+      "壓制孢子風暴",
+      "平息孢子风暴"
+    ]
+  },
+  {
+    "TagId": 96651,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Subdue the Spore Storm",
+      "Aplaca la tormenta de esporas",
+      "Subjugue a Tempestade de Esporos",
+      "Subdue the Spore Storm",
+      "Contener la tormenta de esporas",
+      "Calmer la tempête de spores",
+      "Подчинение споровой бури",
+      "Stoppt den Sporensturm",
+      "Subjugue a Tempestade de Esporos",
+      "Placa la Tempesta di Spore",
+      "포자 폭풍을 억누르는 법",
+      "壓制孢子風暴",
+      "平息孢子风暴"
+    ]
+  },
+  {
+    "TagId": 96660,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Wreckage Tendril Sling",
+      "Zarcillo lanzador de las Ruinas",
+      "Lançadeira de gavinha dos Destroços",
+      "Wreckage Tendril Sling",
+      "Lanzamiento de zarcillos de los Restos",
+      "Liane propulseuse de l’épave",
+      "Метательное щупальце: обломки",
+      "Tentakelschleuder des Wracks",
+      "Lançadeira de gavinha dos Destroços",
+      "Fionda di viticci del Relitto",
+      "잔해 촉수 사출대",
+      "殘骸觸鬚投索",
+      "残骸弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96668,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Subdue the Spore Storm",
+      "Aplaca la tormenta de esporas",
+      "Subjugue a Tempestade de Esporos",
+      "Subdue the Spore Storm",
+      "Contener la tormenta de esporas",
+      "Calmer la tempête de spores",
+      "Подчинение споровой бури",
+      "Stoppt den Sporensturm",
+      "Subjugue a Tempestade de Esporos",
+      "Placa la Tempesta di Spore",
+      "포자 폭풍을 억누르는 법",
+      "壓制孢子風暴",
+      "平息孢子风暴"
+    ]
+  },
+  {
+    "TagId": 96688,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Sporeforge Tendril Sling",
+      "Zarcillo lanzador de Forjaspora",
+      "Lançadeira de gavinha da Forjesporo",
+      "Sporeforge Tendril Sling",
+      "Lanzamiento de zarcillos de la Forjaespora",
+      "Liane propulseuse de la forgespore",
+      "Метательное щупальце: Спорогорн",
+      "Tentakelschleuder der Sporenschmiede",
+      "Lançadeira de gavinha da Forjesporo",
+      "Fionda di viticci di Forgiaspore",
+      "진균괴철로 촉수 사출대",
+      "真菌熔爐觸鬚投索",
+      "孢子熔炉弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96689,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Staging Grounds Tendril Sling",
+      "Zarcillo lanzador de Campos de Práctica",
+      "Lançadeira de gavinha dos Bivaques",
+      "Staging Grounds Tendril Sling",
+      "Lanzamiento de zarcillos de los Campos de Preparación",
+      "Liane propulseuse de l’aire de rassemblement",
+      "Метательное щупальце: плацдарм",
+      "Tentakelschleuder des Sammelplatzes",
+      "Lançadeira de gavinha dos Bivaques",
+      "Fionda di viticci dei Campi di Prova",
+      "준비 구역 촉수 사출대",
+      "軍事要塞觸鬚投索",
+      "集结地弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96691,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Command Point Tendril Sling",
+      "Zarcillo lanzador de Punto de Mando",
+      "Lançadeira de gavinha do Ponto de Comando",
+      "Command Point Tendril Sling",
+      "Lanzamiento de zarcillos del Puesto de Mando",
+      "Liane propulseuse du point de commandement",
+      "Метательное щупальце: командный пункт",
+      "Tentakelschleuder des Kommandopunkts",
+      "Lançadeira de gavinha do Ponto de Comando",
+      "Fionda di viticci del Punto di Comando",
+      "지휘 거점 촉수 사출대",
+      "指揮所觸鬚投索",
+      "指挥点弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96693,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Nexus Port Tendril Sling",
+      "Zarcillo lanzador de Puerto del Nexo",
+      "Lançadeira de gavinha do Porto do Nexus",
+      "Nexus Port Tendril Sling",
+      "Lanzamiento de zarcillos del Puerto del Nexo",
+      "Liane propulseuse du port du Nexus",
+      "Метательное щупальце: порт Нексуса",
+      "Tentakelschleuder des Nexushafens",
+      "Lançadeira de gavinha do Porto do Nexus",
+      "Fionda di viticci del Porto del Nexus",
+      "연합 항구 촉수 사출대",
+      "中樞港口觸鬚投索",
+      "节点港口弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96695,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Holding Pens Tendril Sling",
+      "Zarcillo lanzador de los Rediles de Encierro",
+      "Lançadeira de gavinha dos Cercados de Contenção",
+      "Holding Pens Tendril Sling",
+      "Lanzamiento de zarcillos del Corral",
+      "Liane propulseuse des enclos",
+      "Метательное щупальце: Загоны",
+      "Tentakelschleuder der Sammelpferche",
+      "Lançadeira de gavinha dos Cercados de Contenção",
+      "Fionda di viticci dei Recinti",
+      "보관 수용소 촉수 사출대",
+      "繫留場觸鬚投索",
+      "拘留圈栏弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96696,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Base Camp Tendril Sling",
+      "Zarcillo lanzador de Campamento Base",
+      "Lançadeira de gavinha do Acampamento",
+      "Base Camp Tendril Sling",
+      "Lanzamiento de zarcillos del Campamento Base",
+      "Liane propulseuse du camp de base",
+      "Метательное щупальце: лагерь",
+      "Tentakelschleuder des Basislagers",
+      "Lançadeira de gavinha do Acampamento",
+      "Fionda di viticci del Campo Base",
+      "진지 촉수 사출대",
+      "營地觸鬚投索",
+      "大本营弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96697,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Extraction Coast Tendril Sling",
+      "Zarcillo lanzador de la Costa de Extracción",
+      "Lançadeira de gavinha da Costa da Extração",
+      "Extraction Coast Tendril Sling",
+      "Lanzamiento de zarcillos de la Costa de la Extracción",
+      "Liane propulseuse des rivages de l’Extraction",
+      "Метательное щупальце: Берег Исхода",
+      "Tentakelschleuder der Extraktionsküste",
+      "Lançadeira de gavinha da Costa da Extração",
+      "Fionda di viticci della Costa dell'Estrazione",
+      "추출의 해안 촉수 사출대",
+      "撤離海岸觸鬚投索",
+      "萃取海岸弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96698,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Marsh Tendril Sling",
+      "Zarcillo lanzador del Pantano",
+      "Lançadeira de gavinha do Pântano",
+      "Marsh Tendril Sling",
+      "Lanzamiento de zarcillos de la Marisma",
+      "Liane propulseuse des marais",
+      "Метательное щупальце: болото",
+      "Tentakelschleuder der Marschen",
+      "Lançadeira de gavinha do Pântano",
+      "Fionda di viticci della Palude",
+      "늪지 촉수 사출대",
+      "沼地觸鬚投索",
+      "沼泽弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96699,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Mushroom Top Tendril Sling",
+      "Zarcillo lanzador de contenedor de hongos",
+      "Lançadeira de gavinha do Topo do Cogumelo",
+      "Mushroom Top Tendril Sling",
+      "Lanzamiento de zarcillos del Alto del Champiñón",
+      "Liane propulseuse du sommet du champignon",
+      "Метательное щупальце: Шляпка гриба",
+      "Tentakelschleuder des Pilzhuts",
+      "Lançadeira de gavinha do Topo do Cogumelo",
+      "Fionda di viticci della Cima dei Funghi",
+      "버섯 꼭대기 촉수 사출대",
+      "蘑菇之頂觸鬚投索",
+      "蘑菇顶弹射藤蔓"
+    ]
+  },
+  {
+    "TagId": 96725,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Sparks of War: Val",
+      "Chispas de guerra: Val",
+      "Centelhas da Guerra: Val",
+      "Sparks of War: Val",
+      "Chispas de guerra: Val",
+      "Étincelles de la guerre\u00A0: Val",
+      "Искры войны: Вал",
+      "Funken des Krieges: Val",
+      "Centelhas da Guerra: Val",
+      "Scintille di Guerra: Val",
+      "전쟁의 불꽃: 발",
+      "戰爭火花：衛爾",
+      "战争火花：瓦尔"
+    ]
+  },
+  {
+    "TagId": 96726,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Sparks of War: Naigtal",
+      "Chispas de guerra: Naigtal",
+      "Centelhas da Guerra: Naigtal",
+      "Sparks of War: Naigtal",
+      "Chispas de guerra: Naigtal",
+      "Étincelles de la guerre\u00A0: Naigtal",
+      "Искры войны: Найтал",
+      "Funken des Krieges: Naigtal",
+      "Centelhas da Guerra: Naigtal",
+      "Scintille di Guerra: Naigtal",
+      "전쟁의 불꽃: 나익탈",
+      "戰爭火花：奈格塔",
+      "战争火花：奈格塔尔"
+    ]
+  },
+  {
+    "TagId": 96746,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Sporefall: Rotmire",
+      "Esporalia: Cienagadumbre",
+      "Esporasca: Necrocharco",
+      "Sporefall: Rotmire",
+      "Micosis: Pudrelodo",
+      "Chute-des-Spores\u00A0: Embourbe-pourri",
+      "Споропад: Гнилотоп",
+      "Sporenfall: Rottmoor",
+      "Esporasca: Necrocharco",
+      "Sporandia: Fangorrido",
+      "진균나락: 부식수렁",
+      "孢子之殞：腐沼",
+      "孢陨幽境：腐沼"
+    ]
+  },
+  {
+    "TagId": 96809,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Exterior Manaforge Translocator",
+      "Traslocador de forja de maná exterior",
+      "Translocador da Manaforja externo",
+      "Exterior Manaforge Translocator",
+      "El trasladador de la Forja de Maná exterior",
+      "Transposeur de manaforge extérieur",
+      "Наружный транслокатор манагорна",
+      "Äußerer Manaschmiedentranslokator",
+      "Translocador da Manaforja externo",
+      "Traslocatore della Manaforgia Esterno",
+      "외부 마나괴철로 위치변환기",
+      "外部法力熔爐移位裝置",
+      "外部法力熔炉传送器"
+    ]
+  },
+  {
+    "TagId": 96941,
+    "TagType": 28,
+    "Names": [
+      null,
+      "A Pertinent Punishment",
+      "Un castigo pertinente",
+      "Uma punição pertinente",
+      "A Pertinent Punishment",
+      "Un castigo pertinente",
+      "Une sanction pertinente",
+      "Подходящее наказание",
+      "Eine angemessene Strafe",
+      "Uma punição pertinente",
+      "Una punizione pertinente",
+      "적절한 처벌",
+      "相應懲罰",
+      "相应的惩罚"
+    ]
+  },
+  {
+    "TagId": 96942,
+    "TagType": 28,
+    "Names": [
+      null,
+      "Oh Captain, Die Captain!",
+      "¡Hasta la muerte, capitán!",
+      "Ó capitão! Morra, capitão!",
+      "Oh Captain, Die Captain!",
+      "¡Oh, capitán, muerto capitán!",
+      "Ô capitaine, meurs capitaine\u00A0!",
+      "Капитан, капитан, устранитесь!",
+      "Oh Käpt'n, stirb, Käpt'n!",
+      "Ó capitão! Morra, capitão!",
+      "Oh, capitano, muori, capitano!",
+      "죽어야만 하는 나의 대장님!",
+      "死吧，隊長！",
+      "哦，队长，死吧队长！"
     ]
   }
 ]

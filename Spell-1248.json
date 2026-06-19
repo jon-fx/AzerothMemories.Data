@@ -155,7 +155,7 @@
       "Marca mortal",
       "Marca da Morte",
       "Deathmark",
-      "Marca de muerte",
+      "Marca letal",
       "Marque létale",
       "Знак смерти",
       "Todesmal",
@@ -2878,19 +2878,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_TikiMask01.m2 (FG)"
+      "Collect Large Amani Tiki Mask",
+      "Recoger máscara tiki amani grande",
+      "Coletar Máscara Tiki Amani Grande",
+      "Collect Large Amani Tiki Mask",
+      "Añadir máscara tiki Amani grande",
+      "Récupérer un grand masque tiki amani",
+      "Получить большую аманийскую маску тики",
+      "Große Tikimaske der Amani sammeln",
+      "Coletar Máscara Tiki Amani Grande",
+      "Raccolta Maschera Tiki degli Amani Grande",
+      "커다란 아마니 티키 가면 획득",
+      "收集大型阿曼尼提基面具",
+      "收集大型阿曼尼蒂基面具"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -6864,6 +6864,27 @@
     "Media": "inv_cape_special_explorer_b_03.jpg"
   },
   {
+    "TagId": 1248524,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Throw Midsummer Torch",
+      "Lanzar antorcha del Solsticio de Verano",
+      "Arremessar Tocha do Solstício",
+      "Throw Midsummer Torch",
+      "Lanzar antorcha del Solsticio de Verano",
+      "Lancer de torche du solstice d’été",
+      "Бросок факела Огненного солнцеворота",
+      "Sonnenwendfackel werfen",
+      "Arremessar Tocha do Solstício",
+      "Lancio Torcia di Mezza Estate",
+      "한여름 축제 횃불 던지기",
+      "投擲仲夏節火炬",
+      "投掷仲夏火炬"
+    ],
+    "Media": "inv_offhand_1h_torch_a_01.jpg"
+  },
+  {
     "TagId": 1248525,
     "TagType": 26,
     "Names": [
@@ -8521,6 +8542,27 @@
       "圣洁鸣钟"
     ],
     "Media": "inv_ability_paladin_divinetoll.jpg"
+  },
+  {
+    "TagId": 1248648,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Honoring the Flame",
+      "Honrar la llama",
+      "Reverência à Chama",
+      "Honoring the Flame",
+      "Honrar la llama",
+      "En l’honneur de la flamme",
+      "Поклонение огню",
+      "Ehrt die Flamme",
+      "Reverência à Chama",
+      "Onore al Falò",
+      "불꽃에 경의 표하기",
+      "向火焰致敬",
+      "祭拜火焰"
+    ],
+    "Media": "inv_offhand_1h_torch_a_01.jpg"
   },
   {
     "TagId": 1248649,

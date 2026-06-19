@@ -21,6 +21,254 @@
     "Media": "achievement_challengemode_scarletmonastery_gold.jpg"
   },
   {
+    "TagId": 63164,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Big Prey Hunter (Season 1)",
+      "Cazador de presas grandes (temporada 1)",
+      "Caçador de presas grandes (Série 1)",
+      "Big Prey Hunter (Season 1)",
+      "Depredador alfa (temporada 1)",
+      "Chasse aux grosses proies (saison\u00A01)",
+      "Матерый охотник (1-й сезон)",
+      "Großbeutejäger (Saison 1)",
+      "Caçador de presas grandes (Série 1)",
+      "Cacciatore di grandi prede (Stagione 1)",
+      "거물 사냥감 추적자 (1 시즌)",
+      "大型獵物獵人（第1賽季）",
+      "王牌狩猎人（第1赛季）"
+    ],
+    "Media": "ui_prey.jpg"
+  },
+  {
+    "TagId": 63182,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Advanced Ritual Site Studies",
+      "Estudios avanzados de sitios de ritual",
+      "Estudos Avançados sobre o Sítio Ritualístico",
+      "Advanced Ritual Site Studies",
+      "Estudios avanzados de lugares de rituales",
+      "Étude approfondie des sites rituels",
+      "Исследования мест проведения ритуалов",
+      "Fortgeschrittene Ritualstättenforschungen",
+      "Estudos Avançados sobre o Sítio Ritualístico",
+      "Studi avanzati sui Siti Rituali",
+      "심화 의식 지점 연구",
+      "進階儀式地點研究",
+      "进阶仪式场地研究"
+    ],
+    "Media": "ability_priest_bindingprayers.jpg"
+  },
+  {
+    "TagId": 63233,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rotmire (Raid Finder Sporefall)",
+      "Cienagadumbre (Buscador de bandas: Esporalia)",
+      "Necrocharco (Localizador de Raides: Esporasca)",
+      "Rotmire (Raid Finder Sporefall)",
+      "Pudrelodo (Micosis buscador de bandas)",
+      "Embourbe-pourri (Chute-des-Spores, mode outil Raids)",
+      "Гнилотоп (поиск рейда, Споропад)",
+      "Rottmoor (Schlachtzugsbrowser: Sporenfall)",
+      "Necrocharco (Localizador de Raides: Esporasca)",
+      "Fangorrido (Sporandia) [RI]",
+      "부식수렁 (공격대 찾기 진균나락)",
+      "腐沼（隨機團隊孢子之殞）",
+      "腐沼（随机孢陨幽境）"
+    ]
+  },
+  {
+    "TagId": 63234,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rotmire (Normal Sporefall)",
+      "Cienagadumbre (Normal: Esporalia)",
+      "Necrocharco (Normal: Esporasca)",
+      "Rotmire (Normal Sporefall)",
+      "Pudrelodo (Micosis normal)",
+      "Embourbe-pourri (Chute-des-Spores, mode normal)",
+      "Гнилотоп (обычный режим, Споропад)",
+      "Rottmoor (Normal: Sporenfall)",
+      "Necrocharco (Normal: Esporasca)",
+      "Fangorrido (Sporandia) [N]",
+      "부식수렁 (일반 진균나락)",
+      "腐沼（普通孢子之殞）",
+      "腐沼（普通孢陨幽境）"
+    ]
+  },
+  {
+    "TagId": 63235,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rotmire (Heroic Sporefall)",
+      "Cienagadumbre (Heroico: Esporalia)",
+      "Necrocharco (Heroico: Esporasca)",
+      "Rotmire (Heroic Sporefall)",
+      "Pudrelodo (Micosis heroica)",
+      "Embourbe-pourri (Chute-des-Spores, mode héroïque)",
+      "Гнилотоп (героический режим, Споропад)",
+      "Rottmoor (Heroisch: Sporenfall)",
+      "Necrocharco (Heroico: Esporasca)",
+      "Fangorrido (Sporandia) [E]",
+      "부식수렁 (영웅 진균나락)",
+      "腐沼（英雄孢子之殞）",
+      "腐沼（英雄孢陨幽境）"
+    ]
+  },
+  {
+    "TagId": 63236,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rotmire (Mythic Sporefall)",
+      "Cienagadumbre (Mítico: Esporalia)",
+      "Necrocharco (Mítico: Esporasca)",
+      "Rotmire (Mythic Sporefall)",
+      "Pudrelodo (Micosis mítica)",
+      "Embourbe-pourri (Chute-des-Spores, mode mythique)",
+      "Гнилотоп (эпохальный режим, Споропад)",
+      "Rottmoor (Mythisch: Sporenfall)",
+      "Necrocharco (Mítico: Esporasca)",
+      "Fangorrido (Sporandia) [M]",
+      "부식수렁 (신화 진균나락)",
+      "腐沼（傳奇孢子之殞）",
+      "腐沼（史诗孢陨幽境）"
+    ]
+  },
+  {
+    "TagId": 63237,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rotmire",
+      "Cienagadumbre",
+      "Necrocharco",
+      "Rotmire",
+      "Pudrelodo",
+      "Embourbe-pourri",
+      "Гнилотоп",
+      "Rottmoor",
+      "Necrocharco",
+      "Fangorrido",
+      "부식수렁",
+      "腐沼",
+      "腐沼"
+    ],
+    "Media": "inv_1207_achievement_raid_fungariangiant_fungalgiant.jpg"
+  },
+  {
+    "TagId": 63240,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic: Rotmire",
+      "Heroico: Cienagadumbre",
+      "Heroico: Necrocharco",
+      "Heroic: Rotmire",
+      "Heroica: Pudrelodo",
+      "Embourbe-pourri\u00A0: mode héroïque",
+      "Героический режим: Гнилотоп",
+      "Heroisch: Rottmoor",
+      "Heroico: Necrocharco",
+      "Eroica: Fangorrido",
+      "영웅: 부식수렁",
+      "英雄：腐沼",
+      "腐沼（英雄难度）"
+    ],
+    "Media": "inv_1207_achievement_raid_fungariangiant_fungalgiant.jpg"
+  },
+  {
+    "TagId": 63241,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Mythic: Rotmire",
+      "Mítico: Cienagadumbre",
+      "Mítico: Necrocharco",
+      "Mythic: Rotmire",
+      "Mítica: Pudrelodo",
+      "Embourbe-pourri\u00A0: mode mythique",
+      "Эпохальный режим: Гнилотоп",
+      "Mythisch: Rottmoor",
+      "Mítico: Necrocharco",
+      "Mitica: Fangorrido",
+      "신화: 부식수렁",
+      "傳奇：腐沼",
+      "腐沼（史诗难度）"
+    ],
+    "Media": "inv_1207_achievement_raid_fungariangiant_fungalgiant.jpg"
+  },
+  {
+    "TagId": 63242,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rotmire Guild Run",
+      "Hermandad en Cienagadumbre",
+      "Incursão da Guilda em Necrocharco",
+      "Rotmire Guild Run",
+      "Hermandad contra Pudrelodo",
+      "Virée en guilde sur Embourbe-pourri",
+      "Гильдейский марш к Гнилотопу",
+      "Gilde - Rottmoor",
+      "Incursão da Guilda em Necrocharco",
+      "Gilda: Fangorrido",
+      "부식수렁 길드 정복",
+      "腐沼公會團",
+      "腐沼（公会版）"
+    ],
+    "Media": "inv_1207_achievement_raid_fungariangiant_fungalgiant.jpg"
+  },
+  {
+    "TagId": 63246,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic: Rotmire Guild Run",
+      "Heroico: Hermandad en Cienagadumbre",
+      "Heroico: Incursão da Guilda em Necrocharco",
+      "Heroic: Rotmire Guild Run",
+      "Heroica: Hermandad contra Pudrelodo",
+      "Virée en guilde sur Embourbe-pourri\u00A0: mode héroïque",
+      "Героический режим: гильдейский марш к Гнилотопу",
+      "Gilde - Heroisch: Rottmoor",
+      "Heroico: Incursão da Guilda em Necrocharco",
+      "Gilda: Fangorrido [E]",
+      "영웅: 부식수렁 길드 정복",
+      "英雄：腐沼公會團",
+      "英雄：腐沼（公会版）"
+    ],
+    "Media": "inv_1207_achievement_raid_fungariangiant_fungalgiant.jpg"
+  },
+  {
+    "TagId": 63247,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Mythic: Rotmire Guild Run",
+      "Mítico: Hermandad en Cienagadumbre",
+      "Mítico: Incursão da Guilda em Necrocharco",
+      "Mythic: Rotmire Guild Run",
+      "Mítica: Hermandad contra Pudrelodo",
+      "Virée en guilde sur Embourbe-pourri\u00A0: mode mythique",
+      "Эпохальный режим: гильдейский марш к Гнилотопу",
+      "Gilde - Mythisch: Rottmoor",
+      "Mítico: Incursão da Guilda em Necrocharco",
+      "Gilda: Fangorrido [M]",
+      "신화: 부식수렁 길드 정복",
+      "傳奇：腐沼公會團",
+      "史诗：腐沼（公会版）"
+    ],
+    "Media": "inv_1207_achievement_raid_fungariangiant_fungalgiant.jpg"
+  },
+  {
     "TagId": 63263,
     "TagType": 20,
     "Names": [
@@ -40,5 +288,194 @@
       "[DNT]Midnight Keystone Myth: Season One Personal Achievement"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 63264,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic Showdowns",
+      "Enfrentamientos heroicos",
+      "Batalhas Decisivas heroicas",
+      "Heroic Showdowns",
+      "Enfrentamientos heroicos",
+      "Confrontations héroïques",
+      "Героические решающие сражения",
+      "Heroische Konfrontationen",
+      "Batalhas Decisivas heroicas",
+      "Scontri eroici",
+      "결전 (영웅)",
+      "英雄決戰場",
+      "英雄虚空决战"
+    ],
+    "Media": "achievement_dungeon_heroic_gloryoftheraider.jpg"
+  },
+  {
+    "TagId": 63323,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic Tendencies",
+      "Tendencias heroicas",
+      "Tendências heroicas",
+      "Heroic Tendencies",
+      "Tendencias heroicas",
+      "Tendances héroïques",
+      "Героические наклонности",
+      "Heroische Tendenzen",
+      "Tendências heroicas",
+      "Tendenze eroiche",
+      "영웅의 성향",
+      "英雄本色",
+      "英雄本色"
+    ],
+    "Media": "achievement_dungeon_nexus70_heroic.jpg"
+  },
+  {
+    "TagId": 63325,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Omnium Folio Studies",
+      "Estudios del folio del Omnium",
+      "Estudos do Fólio do Omnium",
+      "Omnium Folio Studies",
+      "Estudios del folio del Omnium",
+      "Étude du feuillet de l’Omnium",
+      "Исследования с фолиантом омниума",
+      "Studien des Omniumfolianten",
+      "Estudos do Fólio do Omnium",
+      "Studi sul Foglio dell'Omnium",
+      "옴니움 장서 연구",
+      "萬象儀對開本研究",
+      "万奥宝典研究"
+    ],
+    "Media": "inv_12_profession_mining_miningspecializations_overloded.jpg"
+  },
+  {
+    "TagId": 63348,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic Slugger",
+      "Enfrentamiento heroico",
+      "Espancador Heroico",
+      "Heroic Slugger",
+      "Azote heroico",
+      "Rixe héroïque",
+      "Героическая трепка",
+      "Heroischer Schläger",
+      "Espancador Heroico",
+      "Devastazione eroica",
+      "영웅 강자",
+      "英雄重砲",
+      "英雄重击"
+    ],
+    "Media": "inv_10_elementalspiritfoozles_decay.jpg"
+  },
+  {
+    "TagId": 63349,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Ultradon Carnage",
+      "Carnicero ultradonte",
+      "Chacina de Ultradon",
+      "Ultradon Carnage",
+      "Matanza en ultradón",
+      "Massacre à l’ultradon",
+      "Ультрабойня",
+      "Ultradongemetzel",
+      "Chacina de Ultradon",
+      "Massacro dell'Ultradonte",
+      "울트라돈 학살",
+      "極限獸屠殺",
+      "巨凶龙大屠杀"
+    ],
+    "Media": "inv_kaijugladiatormount_blue.jpg"
+  },
+  {
+    "TagId": 63383,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Into the Stars",
+      "Hacia las estrellas",
+      "Rumo às estrelas",
+      "Into the Stars",
+      "Hacia las estrellas",
+      "Vers les étoiles",
+      "К звездам",
+      "In die Sterne",
+      "Rumo às estrelas",
+      "Tra le stelle",
+      "별들을 향하여",
+      "投身繁星",
+      "步入星辰"
+    ],
+    "Media": "inv_netherportal.jpg"
+  },
+  {
+    "TagId": 63384,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Prepared for a Showdown",
+      "Prepárate para el enfrentamiento",
+      "Tudo pronto para uma Batalha Decisiva",
+      "Prepared for a Showdown",
+      "Preparativos para la hora de la verdad",
+      "Confrontation imminente",
+      "Готовность к решающим сражениям",
+      "Bereit für eine Konfrontation",
+      "Tudo pronto para uma Batalha Decisiva",
+      "Tutto pronto per lo scontro finale",
+      "결전 준비",
+      "準備面對決戰",
+      "虚空决战准备就绪"
+    ],
+    "Media": "inv_box_01.jpg"
+  },
+  {
+    "TagId": 63385,
+    "TagType": 20,
+    "Names": [
+      null,
+      "A Hal'hadar Walks into a Swamp",
+      "Un hal'hadar entra en un pantano",
+      "Um Hal'hadar caminha pântano a dentro",
+      "A Hal'hadar Walks into a Swamp",
+      "Un Hal'hadar entra en un pantano",
+      "Un Hal’hadar dans le marais",
+      "Заходит хал'хадар в болото",
+      "Ein Hal'hadar kommt in den Sumpf",
+      "Um Hal'hadar caminha pântano a dentro",
+      "Un Hal'hadar nel pantano",
+      "할하다르의 기묘한 늪지 모험",
+      "一個赫哈達走進沼澤",
+      "一个哈尔哈达尔走进了沼泽"
+    ],
+    "Media": "achievement_boss_triumvirate_shadowguardetherealmelee.jpg"
+  },
+  {
+    "TagId": 63386,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Frosty Domanaar Politics",
+      "Políticas domanaar heladas",
+      "Políticas gélidas dos domanaar",
+      "Frosty Domanaar Politics",
+      "La fría política domanaar",
+      "Politique domanaar polaire",
+      "Прохладный прием у доманааров",
+      "Frostige Domanaarpolitik",
+      "Políticas gélidas dos domanaar",
+      "La gelida politica dei Domanaar",
+      "오싹오싹 도마나르 정치학",
+      "冷酷的多曼納爾政局",
+      "冷酷的多曼纳尔政治"
+    ],
+    "Media": "inv_sword_1h_domanaar_b_01.jpg"
   }
 ]

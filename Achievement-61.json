@@ -4798,6 +4798,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 61335,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Flame Keeper of Midnight",
+      "Vigilante de llamas de Midnight",
+      "Protetor das Chamas de Midnight",
+      "Flame Keeper of Midnight",
+      "Vigilante de las Llamas de Midnight",
+      "Garde-flammes de Midnight",
+      "Полуночный хранитель огня",
+      "Flammenbewahrer von Midnight",
+      "Protetor das Chamas de Midnight",
+      "Guardiano delle Fiamme di Midnight",
+      "한밤 불꽃지기",
+      "至暗之夜火焰守護者",
+      "至暗之夜护火者"
+    ],
+    "Media": "inv_summerfest_firespirit.jpg"
+  },
+  {
+    "TagId": 61336,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Flame Warden of Midnight",
+      "Celador de llamas de Midnight",
+      "Guardião das Chamas de Midnight",
+      "Flame Warden of Midnight",
+      "Celador de las llamas de Midnight",
+      "Gardien ou gardienne des flammes de Midnight",
+      "Полуночный страж огня",
+      "Flammenwächter von Midnight",
+      "Guardião das Chamas de Midnight",
+      "Custode delle Fiamme di Midnight",
+      "한밤 불꽃감시자",
+      "至暗之夜火焰看守者",
+      "至暗之夜护焰者"
+    ],
+    "Media": "inv_summerfest_firespirit.jpg"
+  },
+  {
     "TagId": 61337,
     "TagType": 20,
     "Names": [
@@ -4939,7 +4981,7 @@
       "Pode apostar que isso vai ter volta",
       "E alla fine tornerà di nuovo",
       "우리의 만남은 다시 한번",
-      "我們其實會再次看到它",
+      "結果，居然又再見到了",
       "迟早还会相逢"
     ],
     "Media": "achievement_raid_hall_of_flesh.jpg"
@@ -5318,7 +5360,7 @@
       "Gloria dell'incursore di Midnight",
       "영예의 한밤 공격대원",
       "至暗之夜團隊高手的榮耀",
-      "午夜团队的荣耀"
+      "至暗之夜团队的荣耀"
     ],
     "Media": "inv_achievement_raid_darkwell.jpg"
   },
@@ -5338,7 +5380,7 @@
       "Crise ovistencial",
       "Crisi ovistenziale",
       "알의 위기",
-      "蛋蛋危機",
+      "傳蛋危機",
       "危如累卵"
     ],
     "Media": "spell_holy_summonlightwell.jpg"
@@ -5932,6 +5974,27 @@
     "Media": "inv_12_profession_blacksmithing_repairhammer_blue.jpg"
   },
   {
+    "TagId": 61442,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Lorewalking: The Loa",
+      "Cronoleyenda: Los loa",
+      "Trilha das Lendas: Os Loas",
+      "Lorewalking: The Loa",
+      "Paseo por la historia: Los loa",
+      "Chroniques\u00A0: les Loas",
+      "Историческая кампания \"Лоа\"",
+      "Lehrensuche: Die Loa",
+      "Trilha das Lendas: Os Loas",
+      "Cammino della Storia: i Loa",
+      "전승: 로아",
+      "故事漫遊：羅亞",
+      "游学探奇：洛阿神灵"
+    ],
+    "Media": "ability_racial_embraceoftheloa_gonk.jpg"
+  },
+  {
     "TagId": 61443,
     "TagType": 20,
     "Names": [
@@ -6224,6 +6287,27 @@
       "在洛丹伦或幽暗城死亡"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 61463,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Master of the Turbulent Timeways V",
+      "Maestro de los portales del tiempo turbulentos V",
+      "Mestre dos Percursos Temporais Turbulentos V",
+      "Master of the Turbulent Timeways V",
+      "Maestro de Líneas Temporales Turbulentas V",
+      "Maîtrise des Voies temporelles turbulentes\u00A0V",
+      "Укротитель бурных потоков времени V",
+      "Meister der turbulenten Zeitwege V",
+      "Mestre dos Percursos Temporais Turbulentos V",
+      "Maestria dei Flussi Temporali Turbolenti V",
+      "격동하는 시간의 길 V 정복자",
+      "動盪的時間之道大師V",
+      "紊乱时间流之主 V"
+    ],
+    "Media": "spell_mage_altertime.jpg"
   },
   {
     "TagId": 61464,
@@ -9467,7 +9551,7 @@
       "Midnight: superior",
       "Supériorité de Midnight",
       "Превосходное снаряжение Midnight",
-      "Midnight-Überlegener",
+      "Überragend (Midnight)",
       "Superior de Midnight",
       "Superiore a Mezzanotte",
       "한밤 최고급 장비",
@@ -9488,7 +9572,7 @@
       "Midnight: épico",
       "Épopée de Midnight",
       "Эпическое снаряжение Midnight",
-      "Midnight-Epos",
+      "Episch (Midnight)",
       "Épico de Midnight",
       "Epico a Mezzanotte",
       "한밤 영웅급 장비",
@@ -12033,7 +12117,7 @@
       "Preparar, apontar, arrebentar!",
       "Pronti, partenza, spezza!",
       "준비하시고, 끊으세요!",
-      "預備，各就各位，斷絕！",
+      "各就各位，預備，斷！",
       "各就位，预备，断！"
     ],
     "Media": "warlock_curse_shadow.jpg"
@@ -12159,7 +12243,7 @@
       "Geração de aura",
       "Collezione di aure",
       "오라 비축",
-      "光環栽培",
+      "光環滿滿",
       "光环大丰收"
     ],
     "Media": "spell_holy_auramastery.jpg"

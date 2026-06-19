@@ -1327,19 +1327,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_Gourd01.M2"
+      "Auspicious Verdant Basin",
+      "Bol glauco auspicioso",
+      "Cuba Verdejante Auspiciosa",
+      "Auspicious Verdant Basin",
+      "Cuenco verdeante auspicioso",
+      "Bassin verdoyant de bon augure",
+      "Благодатная зеленая чаша",
+      "Verheißungsvolles grünes Becken",
+      "Cuba Verdejante Auspiciosa",
+      "Bacinella Verde Propizia",
+      "상서로운 신록 수반",
+      "收集吉祥翠綠盆",
+      "八方来财"
     ],
     "Media": "inv_12ph_shop_lunarnewyear_gourd01_7808287.jpg"
   },
@@ -1348,21 +1348,42 @@
     "TagType": 21,
     "Names": [
       null,
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2",
-      "[DNT] [AUTOGEN] 12PH_Shop_LunarNewYear_StoneLion02.M2"
+      "Auspicious Stone Lion",
+      "León de piedra auspicioso",
+      "Leão de Pedra Auspicioso",
+      "Auspicious Stone Lion",
+      "León de piedra auspicioso",
+      "Lion en pierre de bon augure",
+      "Благодатный каменный лев",
+      "Verheißungsvoller Steinlöwe",
+      "Leão de Pedra Auspicioso",
+      "Leone di Pietra Propizio",
+      "상서로운 돌사자",
+      "吉祥石獅",
+      "祥瑞石狮"
     ],
     "Media": "inv_12ph_shop_lunarnewyear_stonelion02_7808268.jpg"
+  },
+  {
+    "TagId": 272359,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Square Woolen Rug",
+      "Alfombra de lana cuadrada",
+      "Tapete de Lã Quadrado",
+      "Square Woolen Rug",
+      "Alfombra de lana cuadrada",
+      "Tapis carré de laine",
+      "Квадратный шерстяной коврик",
+      "Quadratischer Wollteppich",
+      "Tapete de Lã Quadrado",
+      "Tappeto di Lana Quadrato",
+      "사각형 양모 양탄자",
+      "方形毛紡地毯",
+      "方形羊毛地毯"
+    ],
+    "Media": "7808350.jpg"
   },
   {
     "TagId": 272391,
@@ -1678,5 +1699,26 @@
       "破法者的刃杖"
     ],
     "Media": "inv_polearm_2h_bloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 272975,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hal'hadar Keeper Keycode",
+      "Código de acceso de guardián hal'hadar",
+      "Código-chave do Guardião Hal'hadar",
+      "Hal'hadar Keeper Keycode",
+      "Código clave de guardián Hal'hadar",
+      "Code d’accès de geôle hal’hadar",
+      "Код доступа хал'хадарского хранителя",
+      "Schlüsselcode des Hüters der Hal'hadar",
+      "Código-chave do Guardião Hal'hadar",
+      "Codice di Accesso del Custode degli Hal'hadar",
+      "할하다르 수호자 암호",
+      "赫哈達守衛者密碼",
+      "哈尔哈达尔守护者密码"
+    ],
+    "Media": "inv_11_0_etherealraid_communicator_color4.jpg"
   }
 ]

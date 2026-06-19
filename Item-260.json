@@ -21,6 +21,27 @@
     "Media": "inv_misc_notefolded1b.jpg"
   },
   {
+    "TagId": 260170,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Oathstone Fragment",
+      "Fragmento de piedra de juramento",
+      "Fragmento de Pedra do Juramento",
+      "Oathstone Fragment",
+      "Fragmento de piedra de juramento",
+      "Fragment de pierre de vœu",
+      "Осколок камня клятвы",
+      "Schwursteinfragment",
+      "Fragmento de Pedra do Juramento",
+      "Frammento di Pietra del Giuramento",
+      "서약의 돌 파편",
+      "誓言石碎片",
+      "誓言石碎片"
+    ],
+    "Media": "flightstone-black.jpg"
+  },
+  {
     "TagId": 260173,
     "TagType": 21,
     "Names": [
@@ -3406,19 +3427,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Large Razorwind Farmer's Hay Pile",
+      "Montón de heno de granjero de Ventajo grande",
+      "Pilha de Feno do Fazendeiro de Vento Cortante Grande",
+      "Large Razorwind Farmer's Hay Pile",
+      "Montón de heno de granjero del Ventajo grande",
+      "Gros tas de foin de ferme de Tranchevent",
+      "Большой стог фермера Колючего Ветра",
+      "Großer Heuhaufen des Klingenschluchtbauern",
+      "Pilha de Feno do Fazendeiro de Vento Cortante Grande",
+      "Mucchio di Fieno di Fattoria di Brezza Aguzza Grande",
+      "대형 칼끝바람 농부의 건초 더미",
+      "大型烈風農人乾草堆",
+      "大型烈风农夫干草堆"
     ],
     "Media": "inv_12ph_durotar_decoration_haypilelarge01_7466536.jpg"
   },
@@ -3427,19 +3448,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Razorwind Farmer's Hay Pile",
+      "Montón de heno de granjero de Ventajo",
+      "Pilha de Feno do Fazendeiro de Vento Cortante",
+      "Razorwind Farmer's Hay Pile",
+      "Montón de heno de granjero del Ventajo",
+      "Tas de foin de ferme de Tranchevent",
+      "Стог фермера Колючего Ветра",
+      "Heuhaufen des Klingenschluchtbauern",
+      "Pilha de Feno do Fazendeiro de Vento Cortante",
+      "Mucchio di Fieno di Fattoria di Brezza Aguzza",
+      "칼끝바람 농부의 건초 더미",
+      "烈風農人乾草堆",
+      "烈风农夫干草堆"
     ],
     "Media": "inv_12ph_durotar_decoration_haypilemedium01_7466532.jpg"
   },
@@ -3448,19 +3469,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Small Razorwind Farmer's Hay Pile",
+      "Montón de heno de granjero de Ventajo pequeño",
+      "Pilha de Feno do Fazendeiro de Vento Cortante Pequena",
+      "Small Razorwind Farmer's Hay Pile",
+      "Montón de heno de granjero del Ventajo pequeño",
+      "Petit tas de foin de ferme de Tranchevent",
+      "Маленький стог фермера Колючего Ветра",
+      "Kleiner Heuhaufen des Klingenschluchtbauern",
+      "Pilha de Feno do Fazendeiro de Vento Cortante Pequena",
+      "Mucchio di Fieno di Fattoria di Brezza Aguzza Piccolo",
+      "소형 칼끝바람 농부의 건초 더미",
+      "小型烈風農人乾草堆",
+      "小型烈风农夫干草堆"
     ],
     "Media": "inv_12ph_durotar_decoration_haypilesmall01_7466528.jpg"
   },
@@ -6304,19 +6325,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Forest Dweller's Night Staff",
-      "Bastón nocturno de morador del bosque",
-      "Cajado da Noite do Aldeão da Floresta",
-      "Forest Dweller's Night Staff",
-      "Bastón de la noche de morador del bosque",
-      "Bâton nocturne des racines forestières",
-      "Ночной посох лесного обитателя",
-      "Nachtstab des Waldbewohners",
-      "Cajado da Noite do Aldeão da Floresta",
-      "Bastone della Notte dell'Abitante della Foresta",
-      "숲 주민의 밤 지팡이",
-      "森林居民黑夜法杖",
-      "林中客的暗夜法杖"
+      "Swamp Dweller's Night Staff",
+      "Bastón nocturno de morador del pantano",
+      "Cajado da Noite do Habitante do Pântano",
+      "Swamp Dweller's Night Staff",
+      "Bastón de la noche de morador del pantano",
+      "Bâton nocturne des racines marécageuses",
+      "Ночной посох обитателя болот",
+      "Nachtstab des Sumpfbewohners",
+      "Cajado da Noite do Habitante do Pântano",
+      "Bastone della Notte dell'Abitante della Palude",
+      "늪 주민의 밤 지팡이",
+      "沼澤居民黑夜法杖",
+      "沼泽居民的黑夜法杖"
     ],
     "Media": "inv_staff_2h_garden_c_01.jpg"
   },
@@ -7144,21 +7165,42 @@
     "TagType": 21,
     "Names": [
       null,
-      "Boon of Abstinence",
-      "Favor de abstinencia",
-      "Dádiva da Abstinência",
-      "Boon of Abstinence",
-      "Bendición de abstinencia",
-      "Don d’abstinence",
-      "Дар воздержания",
-      "Gabe der Abstinenz",
-      "Dádiva da Abstinência",
-      "Dono dell'Astinenza",
+      "Boon of Temperance",
+      "Favor de templanza",
+      "Dádiva da Temperança",
+      "Boon of Temperance",
+      "Bendición de templanza",
+      "Don de tempérance",
+      "Дар сдержанности",
+      "Gabe der Mäßigung",
+      "Dádiva da Temperança",
+      "Dono della Temperanza",
       "절제의 은혜",
-      "自律恩澤",
+      "節制恩澤",
       "节制恩典"
     ],
     "Media": "spell_azerite_essence08.jpg"
+  },
+  {
+    "TagId": 260885,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Shadowflame Remnant",
+      "Restos de Llama de las Sombras",
+      "Vestígio de Chama Sombria",
+      "Shadowflame Remnant",
+      "Remanente de llama de las Sombras",
+      "Vestige d’ombreflamme",
+      "Останки пламени Тьмы",
+      "Schattenflammenfragment",
+      "Vestígio de Chama Sombria",
+      "Residuo d'Ombrofuoco",
+      "암흑불길 잔재",
+      "暗焰殘餘",
+      "暗影烈焰残留物"
+    ],
+    "Media": "inv_babyfireelemental_shadowflame.jpg"
   },
   {
     "TagId": 260887,
@@ -7329,6 +7371,27 @@
     "Media": "inv_sword_66.jpg"
   },
   {
+    "TagId": 260899,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Time-Lost Earthwarden's Battlegear",
+      "Conjunto: Equipo de batalla de celador de la tierra perdido en el tiempo",
+      "Indumentária: Equipamento de Batalha do Guarda da Terra Perdido no Tempo",
+      "Ensemble: Time-Lost Earthwarden's Battlegear",
+      "Indumentaria: Equipo de batalla de celador de la tierra perdido en el tiempo",
+      "Ensemble\u00A0: tenue de combat du Gardeterre perdue dans le temps",
+      "Комплект: затерянная во времени броня Хранителя Земли",
+      "Ensemble: Zeitverlorene Schlachtrüstung des Erdwächters",
+      "Indumentária: Equipamento de Batalha do Guarda da Terra Perdido no Tempo",
+      "Set: Tenuta Feroce del Custode della Terra Perduto nel Tempo",
+      "복장: 잃어버린 시간의 대지의 파수꾼 전투장비",
+      "套裝：時佚大地看守者戰裝",
+      "套装：迷时大地守卫者的战装"
+    ],
+    "Media": "inv_shoulder_plate_neltharion_d_01.jpg"
+  },
+  {
     "TagId": 260900,
     "TagType": 21,
     "Names": [
@@ -7455,6 +7518,27 @@
     "Media": "inv_sword_1h_bwdraid_d_01.jpg"
   },
   {
+    "TagId": 260906,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earthwarden's Battle Pauldrons",
+      "Espaldares de batalla de celador de la tierra",
+      "Brafoneiras de Batalha do Guarda da Terra",
+      "Earthwarden's Battle Pauldrons",
+      "Espaldares de batalla de celador de la tierra",
+      "Espauliers de bataille du Gardeterre",
+      "Боевое наплечье Хранителя Земли",
+      "Kriegsschulterstücke des Erdwächters",
+      "Brafoneiras de Batalha do Guarda da Terra",
+      "Paraspalle da Battaglia del Custode della Terra",
+      "대지의 파수꾼의 전투 견갑",
+      "大地看守者戰鬥肩鎧",
+      "大地守卫者的战斗肩甲"
+    ],
+    "Media": "inv_shoulder_plate_neltharion_d_01.jpg"
+  },
+  {
     "TagId": 260907,
     "TagType": 21,
     "Names": [
@@ -7495,6 +7579,27 @@
       "失落的霜狼之据"
     ],
     "Media": "inv_sword_140.jpg"
+  },
+  {
+    "TagId": 260909,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Earthwarden's Battle Helm",
+      "Yelmo de batalla de celador de la tierra",
+      "Elmo de Batalha do Guarda da Terra",
+      "Earthwarden's Battle Helm",
+      "Yelmo de batalla de celador de la tierra",
+      "Heaume de bataille du Gardeterre",
+      "Боевой шлем Хранителя Земли",
+      "Kriegshelm des Erdwächters",
+      "Elmo de Batalha do Guarda da Terra",
+      "Elmo da Battaglia del Custode della Terra",
+      "대지의 파수꾼의 전투 투구",
+      "大地看守者戰鬥頭盔",
+      "大地守卫者的战斗头盔"
+    ],
+    "Media": "inv_helm_plate_neltharion_d_01.jpg"
   },
   {
     "TagId": 260910,
@@ -7560,6 +7665,48 @@
     "Media": "spell_azerite_essence01.jpg"
   },
   {
+    "TagId": 260914,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Lost Plunder Key",
+      "Arsenal: Llave de saqueo perdida",
+      "Arsenal: Chave de Pilhagem Perdida",
+      "Arsenal: Lost Plunder Key",
+      "Arsenal: llave de pillaje perdida",
+      "Arsenal\u00A0: clé de pillage perdue",
+      "Арсенал: потерянный ключ от добычи",
+      "Arsenal: Verlorener Beuteschlüssel",
+      "Arsenal: Chave de Pilhagem Perdida",
+      "Arsenale: Chiavi del Bottino Perdute",
+      "병기: 잃어버린 노획물 열쇠",
+      "武器庫：遺失掠奪鑰匙",
+      "武装：失落的掠夺钥匙"
+    ],
+    "Media": "inv_staff_2h_plunderkey_c_01_gold.jpg"
+  },
+  {
+    "TagId": 260915,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Arsenal: Found Plunder Key",
+      "Arsenal: Llave de saqueo encontrada",
+      "Arsenal: Chave de Pilhagem Encontrada",
+      "Arsenal: Found Plunder Key",
+      "Arsenal: llave de pillaje encontrada",
+      "Arsenal\u00A0: clé de pillage trouvée",
+      "Арсенал: найденный ключ от добычи",
+      "Arsenal: Gefundener Beuteschlüssel",
+      "Arsenal: Chave de Pilhagem Encontrada",
+      "Arsenale: Chiavi del Bottino Ritrovate",
+      "병기: 발견된 노획물 열쇠",
+      "武器庫：找到掠奪鑰匙",
+      "武装：寻获的掠夺钥匙"
+    ],
+    "Media": "inv_staff_2h_plunderkey_c_02_gold.jpg"
+  },
+  {
     "TagId": 260916,
     "TagType": 21,
     "Names": [
@@ -7579,6 +7726,27 @@
       "虚空扭曲幼龙"
     ],
     "Media": "ability_mount_netherdrakepurple.jpg"
+  },
+  {
+    "TagId": 260917,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Infinite Broodkeeper's Greatstaff",
+      "Gran báculo de vigilante del linaje infinito",
+      "Grande Cajado da Guarda-prole Infinito",
+      "Infinite Broodkeeper's Greatstaff",
+      "Gran bastón de vigilante de linaje infinito",
+      "Grand bâton de garde-couvée infini",
+      "Большой посох хранителя стаи Бесконечности",
+      "Ewiger Großstab der Bruthüterin",
+      "Grande Cajado da Guarda-prole Infinito",
+      "Granbastone del Custode della Progenie dell'Infinito",
+      "무한의 혈족지기의 대지팡이",
+      "恆龍幼龍守衛者巨杖",
+      "永恒巢穴守护者的巨杖"
+    ],
+    "Media": "inv_staff_2h_broodkeeper_d_01.jpg"
   },
   {
     "TagId": 260918,
@@ -7602,6 +7770,69 @@
     "Media": "inv_misc_ashenpigment.jpg"
   },
   {
+    "TagId": 260919,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Scavenger's Banner",
+      "Estandarte de carroñero",
+      "Estandarte do Catador",
+      "Scavenger's Banner",
+      "Estandarte de carroñero",
+      "Bannière de pillage",
+      "Знамя собирателя",
+      "Banner des Plünderers",
+      "Estandarte do Catador",
+      "Stendardo dei Saprofagi",
+      "청소부의 깃발",
+      "食腐者旌旗",
+      "拾荒者战旗"
+    ],
+    "Media": "spell_misc_warsongfocus.jpg"
+  },
+  {
+    "TagId": 260920,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Emergency Landing Kit",
+      "Equipo para aterrizaje de emergencia",
+      "Kit de Pouso de Emergência",
+      "Emergency Landing Kit",
+      "Equipo de aterrizaje de emergencia",
+      "Kit d’atterrissage d’urgence",
+      "Набор для аварийной посадки",
+      "Notlandungsset",
+      "Kit de Pouso de Emergência",
+      "Kit d'Atterraggio d'Emergenza",
+      "비상 착지 장비",
+      "緊急著陸組件",
+      "应急着陆工具包"
+    ],
+    "Media": "inv_cape_armor_explorer_d_01_backpack.jpg"
+  },
+  {
+    "TagId": 260921,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Khan's Ceremonial Crossbow",
+      "Ballesta ceremonial de khan",
+      "Besta Cerimonial de Khan",
+      "Khan's Ceremonial Crossbow",
+      "Ballesta ceremonial de khan",
+      "Arbalète de cérémonie de khan",
+      "Церемониальный арбалет хана",
+      "Zeremonielle Armbrust des Khans",
+      "Besta Cerimonial de Khan",
+      "Balestra Cerimoniale del Khan",
+      "칸의 의식용 석궁",
+      "可汗的儀祭十字弓",
+      "可汗的仪式十字弩"
+    ],
+    "Media": "inv_bow_1h_centaurcrossbow_c_01.jpg"
+  },
+  {
     "TagId": 260922,
     "TagType": 21,
     "Names": [
@@ -7621,6 +7852,27 @@
       "菲多费库斯"
     ],
     "Media": "inv_babyberserker_red.jpg"
+  },
+  {
+    "TagId": 260923,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Infinite Timeslicer",
+      "Cercenador del tiempo infinito",
+      "Lâmina do Tempo Infinita",
+      "Infinite Timeslicer",
+      "Cercenatiempo del infinito",
+      "Tranchetemps infini",
+      "Рассекатель времени рода Бесконечности",
+      "Unendlicher Zeitenteiler",
+      "Lâmina do Tempo Infinita",
+      "Fenditempo dell'Infinito",
+      "무한의 시간절단자",
+      "恆龍斬時者",
+      "永恒切时者"
+    ],
+    "Media": "inv_sword_1h_blackdragonoutdoor_d_01.jpg"
   },
   {
     "TagId": 260924,
@@ -7644,6 +7896,27 @@
     "Media": "spell_azerite_essence01.jpg"
   },
   {
+    "TagId": 260926,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Shadowflame-Seared Druidic Garb",
+      "Conjunto: Atuendo druídico abrasado por pirosombra",
+      "Indumentária: Induto Druídico Chamuscado pela Chama Sombria",
+      "Ensemble: Shadowflame-Seared Druidic Garb",
+      "Indumentaria: Atuendo druídico chamuscado por la llama de las Sombras",
+      "Ensemble\u00A0: atours druidiques brûlés d’ombreflamme",
+      "Комплект: опаленное Тьмой облачение друида",
+      "Ensemble: Schattenflammenversengtes Druidengewand",
+      "Indumentária: Induto Druídico Chamuscado pela Chama Sombria",
+      "Set: Abiti Druidici d'Ombrofuoco",
+      "복장: 암흑불길에 그을린 드루이드 의복",
+      "套裝：暗焰灼燒德魯伊裝束",
+      "套装：暗焰烧灼的德鲁伊装束"
+    ],
+    "Media": "inv_armor_druidflame_d_01_belt.jpg"
+  },
+  {
     "TagId": 260940,
     "TagType": 21,
     "Names": [
@@ -7665,6 +7938,27 @@
     "Media": "inv_paragoncache_rustboltresistance.jpg"
   },
   {
+    "TagId": 260941,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Winter's Dreaming Garb",
+      "Conjunto: Atuendo de sueño del invierno",
+      "Indumentária: Induto Sonhador do Inverno",
+      "Ensemble: Winter's Dreaming Garb",
+      "Indumentaria: Atuendo de ensueño invernal",
+      "Ensemble\u00A0: atours du songe d’une nuit d’hiver",
+      "Комплект: облачение зимней дремы",
+      "Ensemble: Traumgewand des Winters",
+      "Indumentária: Induto Sonhador do Inverno",
+      "Set: Abiti Onirici dell'Inverno",
+      "복장: 겨울의 꿈 의복",
+      "套裝：寒冬夢境裝束",
+      "套装：凛冬之梦装束"
+    ],
+    "Media": "inv_shoulder_armor_dragongreen_c_01.jpg"
+  },
+  {
     "TagId": 260942,
     "TagType": 21,
     "Names": [
@@ -7684,6 +7978,69 @@
       "冒泡的小蜥蜴"
     ],
     "Media": "inv_babysnaplizard_blue.jpg"
+  },
+  {
+    "TagId": 260944,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Pristine Draconic Scholar's Finery",
+      "Conjunto: Galas de erudito dracónico prístino",
+      "Indumentária: Ornato do Erudito Dracônico Imaculado",
+      "Ensemble: Pristine Draconic Scholar's Finery",
+      "Indumentaria: Galas de erudito dracónico prístinas",
+      "Ensemble\u00A0: atours d’érudition draconique en parfait état",
+      "Комплект: безупречное убранство дракона-ученого",
+      "Ensemble: Makellose Gewänder des drakonischen Gelehrten",
+      "Indumentária: Ornato do Erudito Dracônico Imaculado",
+      "Set: Sartoria dello Studioso Draconico Immacolata",
+      "복장: 온전한 용족 학자의 옷차림",
+      "套裝：原始龍族學者華服",
+      "套装：纯净龙族学者的华服"
+    ],
+    "Media": "inv_shoulder_dragonblue.jpg"
+  },
+  {
+    "TagId": 260945,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Razorscale Pauldrons",
+      "Conjunto: Espaldares de Tajoescama",
+      "Indumentária: Brafoneiras de Navalhada",
+      "Ensemble: Razorscale Pauldrons",
+      "Indumentaria: Espaldares de Tajoescama",
+      "Ensemble\u00A0: espauliers tranchécaille",
+      "Комплект: наплечья Острокрылой",
+      "Ensemble: Klingenschuppenschulterstücke",
+      "Indumentária: Brafoneiras de Navalhada",
+      "Set: Paraspalle di Scagliafusa",
+      "복장: 칼날비늘 견갑",
+      "套裝：銳鱗肩鎧",
+      "套装：锋鳞卫衣"
+    ],
+    "Media": "inv_shoulder_armor_dragonspawn_c_01_black.jpg"
+  },
+  {
+    "TagId": 260946,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ensemble: Dragonstone Shoulderguards",
+      "Conjunto: Guardahombros de piedragón",
+      "Indumentária: Guarda-ombros de Pedra de Dragão",
+      "Ensemble: Dragonstone Shoulderguards",
+      "Indumentaria: Guardahombros de piedragón",
+      "Ensemble\u00A0: garde-épaules en drakolithe",
+      "Комплект: наплечники из драконьего камня",
+      "Ensemble: Drachensteinschulterschützer",
+      "Indumentária: Guarda-ombros de Pedra de Dragão",
+      "Set: Spallacci Foderati di Pietra di Drago",
+      "복장: 용의 돌 어깨보호대",
+      "套裝：龍石肩衛",
+      "套装：龙石护肩"
+    ],
+    "Media": "inv_shoulder_armor_dragonspawn_c_01_black.jpg"
   },
   {
     "TagId": 260947,

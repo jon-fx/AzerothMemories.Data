@@ -1490,19 +1490,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Sign of Azeroth",
-      "Señal de Azeroth",
-      "Marca de Azeroth",
-      "Sign of Azeroth",
-      "Señal de Azeroth",
-      "Signe d’Azeroth",
-      "Знак Азерот",
-      "Zeichen von Azeroth",
-      "Marca de Azeroth",
-      "Simbolo di Azeroth",
-      "아제로스의 징후",
-      "艾澤拉斯的標誌",
-      "艾泽拉斯之赐"
+      "Sign of the Shadowlands",
+      "Letrero de las Tierras de las Sombras",
+      "Signo de Shadowlands",
+      "Sign of the Shadowlands",
+      "Señal de las Tierras Sombrías",
+      "Signe de l’Ombreterre",
+      "Знак Темных Земель",
+      "Zeichen der Schattenlande",
+      "Signo de Shadowlands",
+      "Sigillo delle Terretetre",
+      "어둠땅의 징후",
+      "暗影之境標誌",
+      "暗影界的印记"
     ],
     "Media": "inv_plate_oribosdungeon_c_01_helm.jpg"
   },
@@ -4282,13 +4282,13 @@
       null,
       "Deadly Venom",
       "Ponzoña mortal",
-      "Veneno Mortal",
+      "Peçonha Mortífera",
       "Deadly Venom",
       "Veneno mortal",
       "Venin mortel",
       "Смертельный яд",
       "Tödliches Gift",
-      "Veneno Mortal",
+      "Peçonha Mortífera",
       "Veleno Letale",
       "죽음의 맹독",
       "致命毒液",
@@ -9839,7 +9839,7 @@
       "Coletar Dispositivo de Transcrição da Academia Talassiana",
       "Collect Thalassian Academy Dictation Device",
       "Añadir dispositivo de dictado de la Academia Thalassiana",
-      "Récupérer un dictaphone de l’académie thalassienne",
+      "Récupérer un porte-voix de l’académie thalassienne",
       "Получить записывающее устройство талассийской академии",
       "Diktiergerät der thalassischen Akademie sammeln",
       "Coletar Dispositivo de Transcrição da Academia Talassiana",
@@ -12178,6 +12178,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1256716,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Clear Lorewalking",
+      "Completar cronoleyenda",
+      "Limpar Trilha das Lendas",
+      "Clear Lorewalking",
+      "Borrar el Paseo por la historia",
+      "Mettre fin à la campagne des chroniques",
+      "Отменить историческую кампанию",
+      "Lehrensuche löschen",
+      "Limpar Trilha das Lendas",
+      "Rimozione Cammino della Storia",
+      "전승 초기화",
+      "清除故事漫遊",
+      "清除游学探奇"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1256718,
     "TagType": 26,
     "Names": [
@@ -12281,6 +12302,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1256723,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Launch Thrall",
+      "Comenzar Thrall",
+      "Iniciar Thrall",
+      "Launch Thrall",
+      "Iniciar a Thrall",
+      "Lancer la campagne des chroniques de Thrall",
+      "Начало кампании Тралла",
+      "Thrall beginnen",
+      "Iniciar Thrall",
+      "Lancio Thrall",
+      "스랄 시작",
+      "開始索爾",
+      "开启萨尔的故事"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1256724,
     "TagType": 26,
     "Names": [
@@ -12299,6 +12341,48 @@
       "[DNT] To K'aresh Conversation",
       "[DNT] To K'aresh Conversation"
     ]
+  },
+  {
+    "TagId": 1256725,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Launch Thrall",
+      "Comenzar Thrall",
+      "Iniciar Thrall",
+      "Launch Thrall",
+      "Iniciar a Thrall",
+      "Lancer la campagne des chroniques de Thrall",
+      "Начало кампании Тралла",
+      "Thrall beginnen",
+      "Iniciar Thrall",
+      "Lancio Thrall",
+      "스랄 시작",
+      "開始索爾",
+      "开启萨尔的故事"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1256726,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Launch Thrall",
+      "Comenzar Thrall",
+      "Iniciar Thrall",
+      "Launch Thrall",
+      "Iniciar a Thrall",
+      "Lancer la campagne des chroniques de Thrall",
+      "Начало кампании Тралла",
+      "Thrall beginnen",
+      "Iniciar Thrall",
+      "Lancio Thrall",
+      "스랄 시작",
+      "開始索爾",
+      "开启萨尔的故事"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1256727,
@@ -12464,6 +12548,27 @@
       "发芽"
     ],
     "Media": "spell_lifegivingseed.jpg"
+  },
+  {
+    "TagId": 1256735,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Launch Thrall",
+      "Comenzar Thrall",
+      "Iniciar Thrall",
+      "Launch Thrall",
+      "Iniciar a Thrall",
+      "Lancer la campagne des chroniques de Thrall",
+      "Начало кампании Тралла",
+      "Thrall beginnen",
+      "Iniciar Thrall",
+      "Lancio Thrall",
+      "스랄 시작",
+      "開始索爾",
+      "开启萨尔的故事"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1256736,
@@ -14776,7 +14881,7 @@
     "Names": [
       null,
       "Nalorakk's Breath Tank",
-      "Tanque de aliento de Nalorak",
+      "Tanque de aliento de Nalorakk",
       "Tanque de Respiração de Nalorakk",
       "Nalorakk's Breath Tank",
       "Bombona de respiración de Nalorakk",
@@ -14798,13 +14903,13 @@
       null,
       "Reinforced Joints",
       "Uniones reforzadas",
-      "Articulações Reforçadas",
+      "Juntas Reforçadas",
       "Reinforced Joints",
       "Juntas reforzadas",
       "Jointures renforcées",
       "Укрепленные шарниры",
       "Verstärkte Lötnähte",
-      "Articulações Reforçadas",
+      "Juntas Reforçadas",
       "Giunti Rinforzati",
       "강화된 관절",
       "強化接頭",
@@ -15218,13 +15323,13 @@
       null,
       "Gaze of the Alnseer",
       "Visión del vidente de Aln",
-      "Olhar do Vidente-de-aln",
+      "Olhar do Vidente-de-Aln",
       "Gaze of the Alnseer",
       "Mirada del Alnvidente",
       "Regard de prophète d’Aln",
       "Взор ясновидца Альн",
       "Blick des Alnsehers",
-      "Olhar do Vidente-de-aln",
+      "Olhar do Vidente-de-Aln",
       "Sguardo dell'Alniveggente",
       "알른 선견자의 응시",
       "艾恩先知的凝視",
@@ -15863,6 +15968,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1256928,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Ventos Quentes de Verão",
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Vents chauds d’été",
+      "Теплый летний ветер",
+      "Warme Sommerwinde",
+      "Ventos Quentes de Verão",
+      "Venti Caldi Estivi",
+      "따듯한 여름바람",
+      "溫暖夏風",
+      "温暖的夏风"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1256929,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Ventos Quentes de Verão",
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Vents chauds d’été",
+      "Теплый летний ветер",
+      "Warme Sommerwinde",
+      "Ventos Quentes de Verão",
+      "Venti Caldi Estivi",
+      "따듯한 여름바람",
+      "溫暖夏風",
+      "温暖的夏风"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1256930,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Ventos Quentes de Verão",
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Vents chauds d’été",
+      "Теплый летний ветер",
+      "Warme Sommerwinde",
+      "Ventos Quentes de Verão",
+      "Venti Caldi Estivi",
+      "따듯한 여름바람",
+      "溫暖夏風",
+      "温暖的夏风"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1256931,
     "TagType": 26,
     "Names": [
@@ -15882,6 +16050,27 @@
       "撕裂打击"
     ],
     "Media": "inv_artifact_bloodoftheassassinated.jpg"
+  },
+  {
+    "TagId": 1256932,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Ventos Quentes de Verão",
+      "Warm Summer Winds",
+      "Vientos estivales cálidos",
+      "Vents chauds d’été",
+      "Теплый летний ветер",
+      "Warme Sommerwinde",
+      "Ventos Quentes de Verão",
+      "Venti Caldi Estivi",
+      "따듯한 여름바람",
+      "溫暖夏風",
+      "温暖的夏风"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1256933,

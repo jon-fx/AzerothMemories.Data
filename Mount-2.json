@@ -5292,6 +5292,27 @@
     "Media": "inv_crystalmech_orange.jpg"
   },
   {
+    "TagId": 2611,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Dusk Grimlynx",
+      "Sombrolince del ocaso",
+      "Malevolince do Crepúsculo",
+      "Dusk Grimlynx",
+      "Sombrilince crepuscular",
+      "Chagrynx du crépuscule",
+      "Сумеречная мракорысь",
+      "Dämmergrimmluchs",
+      "Malevolince do Crepúsculo",
+      "Lincetetra del Vespro",
+      "어스름 암영스라소니",
+      "幽暮冷酷山貓",
+      "黄昏恐惧山猫"
+    ],
+    "Media": "inv_harronircatmount_blue.jpg"
+  },
+  {
     "TagId": 2612,
     "TagType": 22,
     "Names": [
@@ -7405,7 +7426,7 @@
       "Gesegneter Eingräber der Amani",
       "Entocador Amani Abençoado",
       "Scavaterra Benedetto degli Amani",
-      "아마니 축복받은 곰",
+      "축복받은 아마니 잠복자",
       "受祝福的阿曼尼鑽地者",
       "神佑阿曼尼掘地者"
     ],
@@ -7515,6 +7536,27 @@
       "枯木战熊之母"
     ],
     "Media": "inv_amanibearmount_witherbark.jpg"
+  },
+  {
+    "TagId": 2781,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Amani Hex Bear",
+      "Oso aojador amani",
+      "Urso de Bagata Amani",
+      "Amani Hex Bear",
+      "Oso de maleficios Amani",
+      "Ours maléficieux amani",
+      "Проклятый аманийский медведь",
+      "Hexbär der Amani",
+      "Urso de Bagata Amani",
+      "Orso Malefico degli Amani",
+      "아마니 사술 곰",
+      "阿曼尼妖術熊",
+      "阿曼尼妖术熊"
+    ],
+    "Media": "inv_amanibearmount2_hex.jpg"
   },
   {
     "TagId": 2785,
@@ -7872,6 +7914,27 @@
       "幽灵陆行鸟"
     ],
     "Media": "inv_white_hawkstrider.jpg"
+  },
+  {
+    "TagId": 2806,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Spawn of Vyranoth",
+      "Engendro de Vyranoth",
+      "Cria de Vyranoth",
+      "Spawn of Vyranoth",
+      "Engendro de Vyranoth",
+      "Rejeton de Vyranoth",
+      "Порождение Виранот",
+      "Brut von Vyranoth",
+      "Cria de Vyranoth",
+      "Prole di Vyranoth",
+      "비라노스의 자손",
+      "維蘭諾斯之子",
+      "威拉诺兹之嗣"
+    ],
+    "Media": "inv_protodragonicemount.jpg"
   },
   {
     "TagId": 2807,
@@ -8840,6 +8903,27 @@
     "Media": "inv_encrypted13_gold.jpg"
   },
   {
+    "TagId": 2950,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Luminous Sporeglider",
+      "Flotaesporas luminoso",
+      "Planasporo Luminoso",
+      "Luminous Sporeglider",
+      "Planeaesporas luminoso",
+      "Glissespore lumineux",
+      "Светящийся споролет",
+      "Leuchtender Sporengleiter",
+      "Planasporo Luminoso",
+      "Solcaspore Luminoso",
+      "영롱한 포자활공자",
+      "夜光孢子滑翔者",
+      "熠光孢子滑翔者"
+    ],
+    "Media": "inv_sporebat3mount_purple.jpg"
+  },
+  {
     "TagId": 2961,
     "TagType": 22,
     "Names": [
@@ -8922,5 +9006,173 @@
       "迅捷幽灵龙鹰"
     ],
     "Media": "ability_mount_gryphon_01.jpg"
+  },
+  {
+    "TagId": 2973,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Blackwater X-TREME Firework Rocket",
+      "Cohete pirotécnico X-TREMO de Aguasnegras",
+      "Foguete de Fogos de Artifício X-TREMO de Aguanegra",
+      "Blackwater X-TREME Firework Rocket",
+      "Cohete extremo de Aguasnegras",
+      "Fusée de feu d’artifice X-TREME des Flots noirs",
+      "ИКС-ключительная ракета фейерверка из Черноводья",
+      "X-TREM Feuerwerkrakete der Schwarzmeer AG",
+      "Foguete de Fogos de Artifício X-TREMO de Aguanegra",
+      "Razzo d'Artificio X-TREMO degli Acquanera",
+      "블랙워터 초강력 폭죽 로켓",
+      "黑水極限版煙火發射器",
+      "黑水极限烟火火箭"
+    ],
+    "Media": "inv_rocketmount6_blue.jpg"
+  },
+  {
+    "TagId": 2974,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]",
+      "Green Rocket Mount [PH]"
+    ],
+    "Media": "inv_rocketmount6_green.jpg"
+  },
+  {
+    "TagId": 2975,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bilgewater X-TREME Firework Rocket",
+      "Cohete pirotécnico X-TREMO de Pantoque",
+      "Foguete de Fogos de Artifício X-TREMO de Borraquilha",
+      "Bilgewater X-TREME Firework Rocket",
+      "Cohete extremo de Pantoque",
+      "Fusée de feu d’artifice X-TREME de Baille-Fonds",
+      "ИКС-ключительная ракета фейерверка Трюмных Вод",
+      "X-TREM Feuerwerkrakete des Bilgewasserkartells",
+      "Foguete de Fogos de Artifício X-TREMO de Borraquilha",
+      "Razzo d'Artificio X-TREMO degli Acqualorda",
+      "빌지워터 초강력 폭죽 로켓",
+      "污水極限版煙火發射器",
+      "锈水极限烟火火箭"
+    ],
+    "Media": "inv_rocketmount6_orange.jpg"
+  },
+  {
+    "TagId": 2976,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]",
+      "Pink Rocket Mount [PH]"
+    ],
+    "Media": "inv_rocketmount6_pink.jpg"
+  },
+  {
+    "TagId": 2988,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Voidmancer's Starcarver",
+      "Tallador estelar del vaciomante",
+      "Corta-estrelas do Vidente do Caos",
+      "Voidmancer's Starcarver",
+      "Surcaestrellas de vaciomante",
+      "Surfeur d’étoiles de vidomancie",
+      "Рассекатель звезд заклинателя Бездны",
+      "Sternenschnitzer des Leerenwirkers",
+      "Corta-estrelas do Vidente do Caos",
+      "Scavastelle del Sacerdote del Vuoto",
+      "공허술사의 별조각기",
+      "虛無術師的刻星者",
+      "虚空法师的星辰切割者"
+    ],
+    "Media": "inv_voidsurfboardmount.jpg"
+  },
+  {
+    "TagId": 2990,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Netherforged Nullframe",
+      "Mecarmazón forjabisal",
+      "Nulitraje de Forjetérea",
+      "Netherforged Nullframe",
+      "Ensamblaje nulo Forjabisal",
+      "Exossature néantine forge-néant",
+      "Нуль-панцирь из кузни Пустоты",
+      "Nethergeschmiedete Nullpanzerung",
+      "Nulitraje de Forjetérea",
+      "Corazza Nulla Fatuoforgiata",
+      "황천벼림 무위전투복",
+      "虛鑄空無機甲",
+      "虚铸虚无机甲"
+    ],
+    "Media": "inv_voidforgedmechsuit.jpg"
+  },
+  {
+    "TagId": 2992,
+    "TagType": 22,
+    "Names": [
+      null,
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat",
+      "[PH] Horse with Hat"
+    ],
+    "Media": "inv_horse3saddle003_pale.jpg"
+  },
+  {
+    "TagId": 2994,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Badlands Buzzard",
+      "Águila ratonera de Tierras Inhóspitas",
+      "Urubu dos Ermos",
+      "Badlands Buzzard",
+      "Águila ratonera de las Tierras Inhóspitas",
+      "Busard des terres Ingrates",
+      "Канюк Бесплодных земель",
+      "Ödlandbussard",
+      "Urubu dos Ermos",
+      "Condor delle Maleterre",
+      "황야의 땅 대머리수리",
+      "荒蕪之地禿鷲",
+      "荒芜之地秃鹫"
+    ],
+    "Media": "inv_vulturemount_black.jpg"
   }
 ]

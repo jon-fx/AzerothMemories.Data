@@ -10206,13 +10206,13 @@
       null,
       "Alnsight",
       "Visión de Aln",
-      "Visão-aln",
+      "Visão do Aln",
       "Alnsight",
       "Visión de Aln",
       "Acuité d’Aln",
       "Проницательность Альн",
       "Alnsicht",
-      "Visão-aln",
+      "Visão do Aln",
       "Vista di Aln",
       "알른시야",
       "艾恩之視",
@@ -11880,6 +11880,27 @@
     "Media": "inv_cosmicvoid_missile.jpg"
   },
   {
+    "TagId": 1266797,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rootwalking",
+      "Surcarraíces",
+      "Caminhada com a Raiz",
+      "Rootwalking",
+      "Caminando por las raíces",
+      "Arpente-racine",
+      "Путешествие по корням",
+      "Wurzelwandeln",
+      "Caminhada com a Raiz",
+      "Passo Radicante",
+      "뿌리걸음",
+      "源途之行",
+      "根须漫步"
+    ],
+    "Media": "inv_ability_wildstalkerdruid_thrivinggrowth.jpg"
+  },
+  {
     "TagId": 1266798,
     "TagType": 26,
     "Names": [
@@ -13371,22 +13392,43 @@
     "Media": "spell_azerite_essence08.jpg"
   },
   {
+    "TagId": 1266976,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowflame Remnant",
+      "Restos de Llama de las Sombras",
+      "Vestígio de Chama Sombria",
+      "Shadowflame Remnant",
+      "Remanente de llama de las Sombras",
+      "Vestige d’ombreflamme",
+      "Останки пламени Тьмы",
+      "Schattenflammenfragment",
+      "Vestígio de Chama Sombria",
+      "Residuo d'Ombrofuoco",
+      "암흑불길 잔재",
+      "暗焰殘餘",
+      "暗影烈焰残留物"
+    ],
+    "Media": "inv_babyfireelemental_shadowflame.jpg"
+  },
+  {
     "TagId": 1266977,
     "TagType": 26,
     "Names": [
       null,
-      "Boon of Abstinence",
-      "Favor de abstinencia",
-      "Dádiva da Abstinência",
-      "Boon of Abstinence",
-      "Bendición de abstinencia",
-      "Don d’abstinence",
-      "Дар воздержания",
-      "Gabe der Abstinenz",
-      "Dádiva da Abstinência",
-      "Dono dell'Astinenza",
+      "Boon of Temperance",
+      "Favor de templanza",
+      "Dádiva da Temperança",
+      "Boon of Temperance",
+      "Bendición de templanza",
+      "Don de tempérance",
+      "Дар сдержанности",
+      "Gabe der Mäßigung",
+      "Dádiva da Temperança",
+      "Dono della Temperanza",
       "절제의 은혜",
-      "自律恩澤",
+      "節制恩澤",
       "节制恩典"
     ],
     "Media": "spell_azerite_essence08.jpg"

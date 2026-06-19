@@ -25,21 +25,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Rune of Escalation",
-      "Runa de escalada",
-      "Runa do Recrudescimento",
-      "Rune of Escalation",
-      "Runa de Escalado",
-      "Rune d’intensification",
-      "Руна нарастания",
-      "Rune der Eskalation",
-      "Runa do Recrudescimento",
-      "Runa dell'Intensificazione",
-      "확산의 룬",
-      "增幅符文",
-      "膨胀符文"
+      "Rune of Unleashed Fire",
+      "Runa de fuego liberado",
+      "Runa do Fogo Incontido",
+      "Rune of Unleashed Fire",
+      "Runa de Fuego desatado",
+      "Rune de feu déchaîné",
+      "Руна высвобожденного пламени",
+      "Rune des entfesselten Feuers",
+      "Runa do Fogo Incontido",
+      "Runa del Fuoco Scatenato",
+      "해방된 화염의 룬",
+      "火焰釋放符文",
+      "释放火焰符文"
     ],
-    "Media": "inv_enchant_voidsphere.jpg"
+    "Media": "inv_summerfest_firespirit.jpg"
   },
   {
     "TagId": 1263003,
@@ -3213,6 +3213,27 @@
     "Media": "inv_darkhoundmount_draka_blue.jpg"
   },
   {
+    "TagId": 1263291,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ask a Question",
+      "Hacer una pregunta",
+      "Fazer Uma Pergunta",
+      "Ask a Question",
+      "Hacer una pregunta",
+      "Poser une question",
+      "Задать вопрос",
+      "Frage stellen",
+      "Fazer Uma Pergunta",
+      "Domanda",
+      "질문하기",
+      "問個問題",
+      "提问"
+    ],
+    "Media": "ui_chat.jpg"
+  },
+  {
     "TagId": 1263292,
     "TagType": 26,
     "Names": [
@@ -4472,6 +4493,48 @@
     "Media": "inv_maldraxxusflyermount_blue.jpg"
   },
   {
+    "TagId": 1263385,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Climb Ladder",
+      "Subir la escalera",
+      "Subir Escada",
+      "Climb Ladder",
+      "Trepar por escala",
+      "Monter à l’échelle",
+      "Взобраться по лестнице",
+      "Leiter hinaufsteigen",
+      "Subir Escada",
+      "Salita Scala",
+      "사다리 오르기",
+      "爬梯子",
+      "爬梯子"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1263386,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Climb Ladder",
+      "Subir la escalera",
+      "Subir Escada",
+      "Climb Ladder",
+      "Trepar por escala",
+      "Monter à l’échelle",
+      "Взобраться по лестнице",
+      "Leiter hinaufsteigen",
+      "Subir Escada",
+      "Salita Scala",
+      "사다리 오르기",
+      "爬梯子",
+      "爬梯子"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1263387,
     "TagType": 26,
     "Names": [
@@ -4677,7 +4740,7 @@
       "Contusione Melmosa",
       "수액 격돌",
       "滲液猛擊",
-      "渗漏猛击"
+      "软泥猛击"
     ],
     "Media": "inv_cosmicvoid_groundsate.jpg"
   },
@@ -4934,6 +4997,26 @@
     "Media": "inv_12_dualityphoenix_phoenix_rebirth.jpg"
   },
   {
+    "TagId": 1263413,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons",
+      "[DNT] Despawn Summons"
+    ]
+  },
+  {
     "TagId": 1263414,
     "TagType": 26,
     "Names": [
@@ -5014,6 +5097,27 @@
       "잘아타스의 제안: 공허결속",
       "薩拉塔斯的交易：虛無之縛",
       "萨拉塔斯的交易：虚缚"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1263418,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5373,6 +5477,27 @@
       "腐化之羽"
     ],
     "Media": "inv_icon_feather06c.jpg"
+  },
+  {
+    "TagId": 1263437,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1263438,
@@ -8377,6 +8502,27 @@
     "Media": "ability_xavius_tormentingswipe.jpg"
   },
   {
+    "TagId": 1263596,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1263597,
     "TagType": 26,
     "Names": [
@@ -8541,6 +8687,27 @@
       "Cosmetic Luminbulb [DNT]",
       "Cosmetic Luminbulb [DNT]",
       "Cosmetic Luminbulb [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1263609,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -9594,6 +9761,27 @@
     "Media": "inv_misc_tournaments_banner_troll.jpg"
   },
   {
+    "TagId": 1263666,
+    "TagType": 26,
+    "Names": [
+      null,
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event",
+      "(DNT) Send Event"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1263667,
     "TagType": 26,
     "Names": [
@@ -10119,6 +10307,27 @@
     "Media": "ability_gift_of_earth.jpg"
   },
   {
+    "TagId": 1263696,
+    "TagType": 26,
+    "Names": [
+      null,
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]",
+      "KCtP: Speak to Delegate [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1263697,
     "TagType": 26,
     "Names": [
@@ -10346,6 +10555,48 @@
       "야생뿌리 직조",
       "荒根編織",
       "野根编织"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1263712,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]",
+      "Cutscene ZQI - Cleanup [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1263713,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]",
+      "Cutscene ZQI - Play [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },

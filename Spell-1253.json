@@ -2573,7 +2573,7 @@
       "Cargar",
       "Charge",
       "Рывок",
-      "Aufladen",
+      "Ansturm",
       "Investida",
       "Carica",
       "충전",
@@ -2615,7 +2615,7 @@
       "Cargar",
       "Charge",
       "Рывок",
-      "Aufladen",
+      "Ansturm",
       "Investida",
       "Carica",
       "충전",
@@ -3276,6 +3276,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1253206,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energized",
+      "Energizado",
+      "Energizado",
+      "Energized",
+      "Energizado",
+      "Énergisation",
+      "Заряд",
+      "Energiegeladen",
+      "Energizado",
+      "Energizzato",
+      "활력 충전",
+      "能量充沛",
+      "充能"
+    ],
+    "Media": "spell_nature_purge.jpg"
+  },
+  {
     "TagId": 1253215,
     "TagType": 26,
     "Names": [
@@ -3421,6 +3442,27 @@
       "捕获评级"
     ],
     "Media": "achievement_pvp_a_01.jpg"
+  },
+  {
+    "TagId": 1253226,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sun Blossom's Spark",
+      "Chispa de flor de sol",
+      "Centelha da Floração Solar",
+      "Sun Blossom's Spark",
+      "Chispa de lirio solar",
+      "Étincelle de floraison solaire",
+      "Искра солнечного цветка",
+      "Sonnenblütenfunke",
+      "Centelha da Floração Solar",
+      "Scintilla del Bocciolo di Sole",
+      "태양꽃의 불꽃",
+      "太陽之花的火花",
+      "阳绽花火"
+    ],
+    "Media": "inv_misc_herb_cinderbloom_petal.jpg"
   },
   {
     "TagId": 1253227,
@@ -3734,6 +3776,27 @@
       "傳送",
       "传送"
     ]
+  },
+  {
+    "TagId": 1253252,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sun Blossom's Rush",
+      "Arremetida de flor de sol",
+      "Ímpeto da Floração Solar",
+      "Sun Blossom's Rush",
+      "Ímpetu de lirio solar",
+      "Ruée de floraison solaire",
+      "Порыв солнечного цветка",
+      "Sonnenblütenrausch",
+      "Ímpeto da Floração Solar",
+      "Scatto del Bocciolo di Sole",
+      "태양꽃의 질주",
+      "太陽之花的衝刺",
+      "阳绽冲刺"
+    ],
+    "Media": "ability_rhyolith_magmaflow_wave.jpg"
   },
   {
     "TagId": 1253254,
@@ -14379,6 +14442,69 @@
       "圣光灼痕"
     ],
     "Media": "spell_holy_blessedrecovery.jpg"
+  },
+  {
+    "TagId": 1253967,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit",
+      "[DNT] Kill Credit"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1253968,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Midsummer Fireworks",
+      "Fuegos artificiales del Solsticio de Verano",
+      "Fogos de Artifício do Solstício",
+      "Midsummer Fireworks",
+      "Fuegos artificiales del Solsticio de Verano",
+      "Feux d’artifice du solstice d’été",
+      "Фейерверк Огненного солнцеворота",
+      "Sonnenwendfeuerwerk",
+      "Fogos de Artifício do Solstício",
+      "Fuochi d'Artificio di Mezza Estate",
+      "한여름 축제 폭죽",
+      "仲夏節煙火",
+      "仲夏烟火"
+    ],
+    "Media": "inv_elemental_primal_air.jpg"
+  },
+  {
+    "TagId": 1253969,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence",
+      "[DNT] Midsummer Presence"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1253970,
