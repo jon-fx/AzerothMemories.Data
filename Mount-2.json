@@ -1255,7 +1255,7 @@
       "Acaro Sciamante d'Acquamarina",
       "남옥 무리진드기",
       "青綠群居蜱",
-      "青绿石群聚虫"
+      "海蓝群聚虫"
     ],
     "Media": "inv_flyingnerubian2mount_green.jpg"
   },
@@ -5859,6 +5859,27 @@
     "Media": "inv_tuskarrmoosemount_red.jpg"
   },
   {
+    "TagId": 2652,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Bilebound Ur'zul",
+      "Ur'zul de bilis",
+      "Ur'zul Bilevolto",
+      "Bilebound Ur'zul",
+      "Ur'zul vinculado a la bilis",
+      "Ur’zul bilieux",
+      "Кислотный ур'зул",
+      "Gallgebundener Ur'zul",
+      "Ur'zul Bilevolto",
+      "Ur'zul Vincolato alla Bile",
+      "담즙결속 우르줄",
+      "惡縛厄祖獸",
+      "怒缚乌祖尔"
+    ],
+    "Media": "inv_soulhoundmount_green.jpg"
+  },
+  {
     "TagId": 2653,
     "TagType": 22,
     "Names": [
@@ -5959,7 +5980,7 @@
       "Basilisco d'Acquamarina",
       "남옥 바실리스크",
       "海藍石化蜥蜴",
-      "青绿石蜥蜴"
+      "海蓝宝石蜥蜴"
     ],
     "Media": "inv_basaliskmount_blue.jpg"
   },
@@ -6550,6 +6571,90 @@
       "珍稀的火鸡"
     ],
     "Media": "inv_turkeymount_white.jpg"
+  },
+  {
+    "TagId": 2700,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Frostfall Groveglider",
+      "Planeabosques escarchizo",
+      "Planamato Nevindouro",
+      "Frostfall Groveglider",
+      "Planearboledas caescarcha",
+      "Sylverole chutegivre",
+      "Морозная листвяная летяга",
+      "Frostfallhaingleiter",
+      "Planamato Nevindouro",
+      "Planabosco Calagelo",
+      "서리내림 숲활공꾼",
+      "霜落林地飛鼠",
+      "霜落翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_blue.jpg"
+  },
+  {
+    "TagId": 2701,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Cindertuft Groveglider",
+      "Planeabosques penachocinéreo",
+      "Planamato Brasiflóreo",
+      "Cindertuft Groveglider",
+      "Planearboledas hojaceniza",
+      "Sylverole roussalin",
+      "Пеплошерстная листвяная летяга",
+      "Zunderpuschelhaingleiter",
+      "Planamato Brasiflóreo",
+      "Planabosco Cenerciuffo",
+      "잿불터럭 숲활공꾼",
+      "燼絨林地飛鼠",
+      "烬绒翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_brown.jpg"
+  },
+  {
+    "TagId": 2702,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Gloombough Groveglider",
+      "Planeabosques tallosombrío",
+      "Planamato Umbrarbóreo",
+      "Gloombough Groveglider",
+      "Planearboledas ramapenumbra",
+      "Sylverole sombrameau",
+      "Черночащобная листвяная летяга",
+      "Düsterzweighaingleiter",
+      "Planamato Umbrarbóreo",
+      "Planabosco Frondatetra",
+      "암울가지 숲활공꾼",
+      "幽枝林地飛鼠",
+      "幽桠翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_goth.jpg"
+  },
+  {
+    "TagId": 2703,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Blossombranch Groveglider",
+      "Planeabosques ramaflor",
+      "Planamato Ramaflor",
+      "Blossombranch Groveglider",
+      "Planearboledas talloflor",
+      "Sylverole brindelilas",
+      "Цветодревная листвяная летяга",
+      "Blütenasthaingleiter",
+      "Planamato Ramaflor",
+      "Planabosco Bocciolramo",
+      "만개가지 숲활공꾼",
+      "綻枝林地飛鼠",
+      "花枝翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_pink.jpg"
   },
   {
     "TagId": 2705,
@@ -7179,6 +7284,27 @@
       "炽燃龙鹰"
     ],
     "Media": "inv_dragonhawk2mount_orange.jpg"
+  },
+  {
+    "TagId": 2754,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Peridot Dragonhawk",
+      "Dracohalcón peridoto",
+      "Falcodrago de Peridoto",
+      "Peridot Dragonhawk",
+      "Dracohalcón peridoto",
+      "Faucon-dragon olivine",
+      "Хризолитовый дракондор",
+      "Peridotdrachenfalke",
+      "Falcodrago de Peridoto",
+      "Dragofalco d'Olivina",
+      "감람석 용매",
+      "橄欖綠龍鷹",
+      "榄石龙鹰"
+    ],
+    "Media": "inv_dragonhawk2mount_green.jpg"
   },
   {
     "TagId": 2755,
@@ -8021,6 +8147,27 @@
     "Media": "inv_hawkstridermount_white.jpg"
   },
   {
+    "TagId": 2821,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Venomous Gladiator's Goredrake",
+      "Dracosangre de Gladiador venenoso",
+      "Sanguidraco do Gladiador Peçonhento",
+      "Venomous Gladiator's Goredrake",
+      "Draco sangriento de Gladiador venenoso",
+      "Drake-sang du gladiateur venimeux",
+      "Кроводракон ядовитого гладиатора",
+      "Blutdrache des toxischen Gladiators",
+      "Sanguidraco do Gladiador Peçonhento",
+      "Sanguidraco del Gladiatore Velenoso",
+      "맹독을 품은 검투사의 선혈비룡",
+      "劇毒鬥士血龍",
+      "烈毒角斗士的残虐幼龙"
+    ],
+    "Media": "inv_kaijugladiatormount_green.jpg"
+  },
+  {
     "TagId": 2823,
     "TagType": 22,
     "Names": [
@@ -8109,10 +8256,10 @@
     "TagType": 22,
     "Names": [
       null,
-      "Lab-grown Stormray",
+      "Lab-Grown Stormray",
       "Rayatormenta de laboratorio",
       "Trovarraia Criada em Laboratório",
-      "Lab-grown Stormray",
+      "Lab-Grown Stormray",
       "Rayatormenta de laboratorio",
       "Raie-tempête élevée en laboratoire",
       "Выращенный в лаборатории штормовой скат",
@@ -8250,6 +8397,27 @@
       "奇异的地精斩浪者"
     ],
     "Media": "inv_goblinsurfboardmount_orange.jpg"
+  },
+  {
+    "TagId": 2839,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Delver's Arcane Golem",
+      "Gólem arcano de surcabismos",
+      "Golem Arcano do Imersor",
+      "Delver's Arcane Golem",
+      "Gólem Arcano de explorador de profundidades",
+      "Golem arcanique de gouffrologue",
+      "Чародейский голем участника вылазки",
+      "Arkaner Golem des Tiefenforschers",
+      "Golem Arcano do Imersor",
+      "Golem Arcano dello Scorribandiere",
+      "구렁 탐험가의 비전 골렘",
+      "探究者的秘法魔像",
+      "地下堡行者的奥术傀儡"
+    ],
+    "Media": "inv_arcanegolem2mount_green.jpg"
   },
   {
     "TagId": 2840,
@@ -8825,13 +8993,13 @@
       null,
       "Dusk-Painted Sun Roc",
       "Roc de sol pintado por el ocaso",
-      "Roca do Sol Pintado de Ocaso",
+      "Roca do Sol Pintada de Ocaso",
       "Dusk-Painted Sun Roc",
       "Roc de sol pintado por el ocaso",
       "Roc solaire peint par le crépuscule",
       "Сумеречный солнечный рух",
       "Dämmergezeichneter Sonnenroc",
-      "Roca do Sol Pintado de Ocaso",
+      "Roca do Sol Pintada de Ocaso",
       "Grifalco del Sole Dipinto dal Vespro",
       "어스름에 물든 태양 로크",
       "暮繪陽鵬",
@@ -8846,13 +9014,13 @@
       null,
       "Flame-Painted Sun Roc",
       "Roc de sol pintado por las llamas",
-      "Roca do Sol Pintado de Chamas",
+      "Roca do Sol Pintada de Chamas",
       "Flame-Painted Sun Roc",
       "Roc de sol pintado por las llamas",
       "Roc solaire peint par la flamme",
       "Пламенный солнечный рух",
       "Flammengezeichneter Sonnenroc",
-      "Roca do Sol Pintado de Chamas",
+      "Roca do Sol Pintada de Chamas",
       "Grifalco del Sole Dipinto dalle Fiamme",
       "불꽃에 물든 태양 로크",
       "焰繪陽鵬",
@@ -8903,6 +9071,27 @@
     "Media": "inv_encrypted13_gold.jpg"
   },
   {
+    "TagId": 2949,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sha-Warped Riding Wolf",
+      "Lobo de montar transmutado por el sha",
+      "Lobo de Montaria Deformado pelo Sha",
+      "Sha-Warped Riding Wolf",
+      "Lobo de montar combado de sha",
+      "Loup de monte déformé par les sha",
+      "Окутанный ша верховой волк",
+      "Sha-verzerrter Reitwolf",
+      "Lobo de Montaria Deformado pelo Sha",
+      "Lupo Cavalcabile Distorto dallo Sha",
+      "샤로 뒤틀린 길들인 늑대",
+      "煞曲騎乘狼",
+      "附煞座狼"
+    ],
+    "Media": "inv_shawolfmount.jpg"
+  },
+  {
     "TagId": 2950,
     "TagType": 22,
     "Names": [
@@ -8922,6 +9111,27 @@
       "熠光孢子滑翔者"
     ],
     "Media": "inv_sporebat3mount_purple.jpg"
+  },
+  {
+    "TagId": 2951,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sha-Warped Owl",
+      "Búho transmutado por el sha",
+      "Coruja Deformada pelo Sha",
+      "Sha-Warped Owl",
+      "Búho combado de sha",
+      "Chouette déformée par les sha",
+      "Окутанная ша сова",
+      "Sha-verzerrte Eule",
+      "Coruja Deformada pelo Sha",
+      "Gufo Distorto dallo Sha",
+      "샤로 뒤틀린 올빼미",
+      "煞曲貓頭鷹",
+      "附煞猫头鹰"
+    ],
+    "Media": "inv_shaowlmount.jpg"
   },
   {
     "TagId": 2961,
@@ -9008,6 +9218,27 @@
     "Media": "ability_mount_gryphon_01.jpg"
   },
   {
+    "TagId": 2972,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Spring Panda",
+      "Panda primaveral",
+      "Panda da Primavera",
+      "Spring Panda",
+      "Panda primaveral",
+      "Panda printanier",
+      "Весенняя панда",
+      "Frühlingspanda",
+      "Panda da Primavera",
+      "Panda Primaverile",
+      "봄바람 판다",
+      "春日熊貓",
+      "栖竹者森森"
+    ],
+    "Media": "inv_springpandamount.jpg"
+  },
+  {
     "TagId": 2973,
     "TagType": 22,
     "Names": [
@@ -9092,6 +9323,69 @@
     "Media": "inv_rocketmount6_pink.jpg"
   },
   {
+    "TagId": 2977,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sunflare Driftmoth",
+      "Polilla de erupción solar",
+      "Maripante Mancha Solar",
+      "Sunflare Driftmoth",
+      "Vagapolilla erupción solar",
+      "Dérivalène solembrase",
+      "Солнцезарный порхаон",
+      "Sonnenfackeltreibmotte",
+      "Maripante Mancha Solar",
+      "Volafalena Solvampata",
+      "태양불꽃 표류나방",
+      "日焰飄蛾",
+      "日耀流蛾"
+    ],
+    "Media": "inv_mothfluffymount_orange.jpg"
+  },
+  {
+    "TagId": 2980,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Spirit of Tok'jara",
+      "Espíritu de Tok'jara",
+      "Espírito de Tok'jara",
+      "Spirit of Tok'jara",
+      "Espíritu de Tok'jara",
+      "Esprit de Tok’jara",
+      "Дух Ток'джары",
+      "Geist von Tok'jara",
+      "Espírito de Tok'jara",
+      "Spirito di Tok'jara",
+      "토크자라의 영혼",
+      "托加拉之靈",
+      "托克贾拉的精魂"
+    ],
+    "Media": "ability_hunter_eagleeye.jpg"
+  },
+  {
+    "TagId": 2984,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Rabbit'ath",
+      "Xal'iebre",
+      "Xal'lebrath",
+      "Rabbit'ath",
+      "Conej'ath",
+      "Lapin’atath",
+      "Крол'атат",
+      "Klopf'atath",
+      "Xal'lebrath",
+      "Balz'atath",
+      "토끼타스",
+      "薩拉兔",
+      "萨拉兔斯"
+    ],
+    "Media": "inv_rabbitmountvoid.jpg"
+  },
+  {
     "TagId": 2988,
     "TagType": 22,
     "Names": [
@@ -9174,5 +9468,26 @@
       "荒芜之地秃鹫"
     ],
     "Media": "inv_vulturemount_black.jpg"
+  },
+  {
+    "TagId": 2999,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Swift Spectral Eagle",
+      "Águila espectral presta",
+      "Águia Espectral Veloz",
+      "Swift Spectral Eagle",
+      "Águila espectral presta",
+      "Aigle spectral rapide",
+      "Стремительный призрачный орел",
+      "Schneller spektraler Adler",
+      "Águia Espectral Veloz",
+      "Aquila Spettrale Rapida",
+      "날쌘 유령 독수리",
+      "迅捷鬼靈飛鷹",
+      "迅捷幽灵鹰"
+    ],
+    "Media": "inv_gianteagle2mount_amani.jpg"
   }
 ]

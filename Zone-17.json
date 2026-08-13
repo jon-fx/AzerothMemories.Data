@@ -1,5 +1,45 @@
 [
   {
+    "TagId": 17022,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Cursed Depths",
+      "Profundidades Malditas",
+      "Profundezas Amaldiçoadas",
+      "Cursed Depths",
+      "Zonas Profundas Malditas",
+      "Profondeurs Maudites",
+      "Проклятые глубины",
+      "Die Verfluchten Tiefen",
+      "Profundezas Amaldiçoadas",
+      "Profondità Maledette",
+      "저주받은 나락",
+      "詛咒深淵",
+      "诅咒深渊"
+    ]
+  },
+  {
+    "TagId": 17023,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Seal of Wrath",
+      "El Sello de la Cólera",
+      "Selo da Ira",
+      "The Seal of Wrath",
+      "Sello de la Cólera",
+      "Sceau du Courroux",
+      "Печать гнева",
+      "Das Siegel des Zorns",
+      "Selo da Ira",
+      "Sigillo della Collera",
+      "분노의 봉인",
+      "憤怒之印",
+      "愤怒封印"
+    ]
+  },
+  {
     "TagId": 17047,
     "TagType": 24,
     "Names": [
@@ -170,7 +210,7 @@
       "Vennorax Wreckage",
       "Restos de Vennorax",
       "Épave du Vennorax",
-      "Обломки \"Венноракса",
+      "Обломки \"Венноракса\"",
       "Das Wrack der Vennorax",
       "Destroços de Vennorax",
       "Relitto della Vennorax",
@@ -320,6 +360,26 @@
     ]
   },
   {
+    "TagId": 17107,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Dummy Dome",
+      "Domo de Muñecos",
+      "Domo do Boneco",
+      "Dummy Dome",
+      "Cúpula de Prueba",
+      "Dôme d’entraînement",
+      "Манеж манекенов",
+      "Attrappenkuppel",
+      "Domo do Boneco",
+      "Volta del Manichino",
+      "허수아비 경기장",
+      "虛假圓頂",
+      "假人穹顶"
+    ]
+  },
+  {
     "TagId": 17195,
     "TagType": 24,
     "Names": [
@@ -457,6 +517,486 @@
       "늪지걸이 피난처",
       "沼澤行者營地",
       "沼泽行者庇护所"
+    ]
+  },
+  {
+    "TagId": 17316,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Vaults of Atal'Utek",
+      "Bóvedas de Atal'Utek",
+      "Câmaras de Atal'Utek",
+      "Vaults of Atal'Utek",
+      "Cámaras de Atal'Utek",
+      "Caveaux d’Atal’Utek",
+      "Хранилища Атал'Утека",
+      "Die Kammern von Atal'Utek",
+      "Câmaras de Atal'Utek",
+      "Segrete di Atal'utek",
+      "아탈우텍 금고",
+      "阿塔烏特克寶庫",
+      "阿塔乌特克地窟"
+    ]
+  },
+  {
+    "TagId": 17650,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Amani Foothold",
+      "Asentamiento Amani",
+      "Ponto de Apoio dos Amani",
+      "Amani Foothold",
+      "Base Amani",
+      "Tête de pont amani",
+      "Плацдарм Амани",
+      "Der Stützpunkt der Amani",
+      "Ponto de Apoio dos Amani",
+      "Avamposto degli Amani",
+      "아마니 거점",
+      "阿曼尼據點",
+      "阿曼尼据点"
+    ]
+  },
+  {
+    "TagId": 17680,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Soulcoil Well",
+      "El Pozo Enrollaalmas",
+      "O Poço dos Enrosca-alma",
+      "The Soulcoil Well",
+      "Pozo de Volutas de Almas",
+      "Le Puits entortillâme",
+      "Колодец душителей душ",
+      "Der Seelenwinderbrunnen",
+      "O Poço dos Enrosca-alma",
+      "Pozzo Spiranima",
+      "영혼똬리 우물",
+      "纏魂之井",
+      "盘魂之井"
+    ]
+  },
+  {
+    "TagId": 17681,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Pit of Fangs",
+      "Foso de los Colmillos",
+      "Fosso das Presas",
+      "Pit of Fangs",
+      "Foso de los Colmillos",
+      "Fosse des Crochets",
+      "Змеиная яма",
+      "Die Fangzahngrube",
+      "Fosso das Presas",
+      "Fossa delle Zanne",
+      "송곳니 구덩이",
+      "毒牙深淵",
+      "毒牙深渊"
+    ]
+  },
+  {
+    "TagId": 17682,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mor'zahi's Tomb",
+      "Tumba de Mor'zahi",
+      "Tumba de Mor'zahi",
+      "Mor'zahi's Tomb",
+      "Tumba de Mor'zahi",
+      "Tombeau de Mor’zahi",
+      "Гробница Мор'захи",
+      "Mor'zahis Grab",
+      "Tumba de Mor'zahi",
+      "Tomba di Mor'zahi",
+      "모르자히의 무덤",
+      "莫沙伊之墓",
+      "莫尔扎希之墓"
+    ]
+  },
+  {
+    "TagId": 17683,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Crypt of the Soulcoilers",
+      "Cripta de los Enrollaalmas",
+      "Cripta dos Enrosca-almas",
+      "Crypt of the Soulcoilers",
+      "Cripta de los Volutadores de Almas",
+      "Crypte des Entortillâmes",
+      "Склеп душителей душ",
+      "Die Krypta der Seelenwinder",
+      "Cripta dos Enrosca-almas",
+      "Cripte degli Spiranima",
+      "영혼살무사의 납골당",
+      "纏魂者墓穴",
+      "盘魂者地窟"
+    ]
+  },
+  {
+    "TagId": 17685,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Serpent Warren",
+      "La Guarida de la Serpiente",
+      "A Toca da Serpente",
+      "The Serpent Warren",
+      "Escondrijo de la Sierpe",
+      "Le dédale des Serpents",
+      "Змеиное логово",
+      "Der Schlangenbau",
+      "A Toca da Serpente",
+      "Tana del Serpente",
+      "독사의 밀집지",
+      "巨蛇地穴",
+      "蛇裔地洞"
+    ]
+  },
+  {
+    "TagId": 17686,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Altar of the Six Winds",
+      "Altar de los Seis Vientos",
+      "Altar dos Seis Ventos",
+      "Altar of the Six Winds",
+      "Altar de los Seis Vientos",
+      "Autel des six vents",
+      "Алтарь Шести Ветров",
+      "Altar der Sechs Winde",
+      "Altar dos Seis Ventos",
+      "Altare dei Sei Venti",
+      "여섯 바람의 제단",
+      "六風祭壇",
+      "六风祭坛"
+    ]
+  },
+  {
+    "TagId": 17687,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Vile Crypt",
+      "La Cripta Pérfida",
+      "A Cripta Torpe",
+      "The Vile Crypt",
+      "Cripta Abyecta",
+      "La crypte Infâme",
+      "Гнусный склеп",
+      "Die Üble Krypta",
+      "A Cripta Torpe",
+      "Cripta Vile",
+      "부정한 납골당",
+      "暗邪墓穴",
+      "污秽墓穴"
+    ]
+  },
+  {
+    "TagId": 17688,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Venomducts",
+      "Los Toxiductos",
+      "Os Venodutos",
+      "The Venomducts",
+      "Venenoductos",
+      "Les Canaux à venin",
+      "Ядовитые каналы",
+      "Die Giftkanäle",
+      "Os Venodutos",
+      "Condotti Venefici",
+      "맹독수로",
+      "毒液管道",
+      "毒瀑回廊"
+    ]
+  },
+  {
+    "TagId": 17689,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Halls of the Malignant",
+      "Salas del Maligno",
+      "Salões do Maligno",
+      "Halls of the Malignant",
+      "Salas de la Malignidad",
+      "Antichambre du Malveillant",
+      "Чертоги Тлетворного",
+      "Die Hallen des Bösartigen",
+      "Salões do Maligno",
+      "Sale del Maligno",
+      "악성의 전당",
+      "惡疾者大廳",
+      "万毒大厅"
+    ]
+  },
+  {
+    "TagId": 17701,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Coiled Altar",
+      "El Altar Serpenteante",
+      "O Altar Enrolado",
+      "The Coiled Altar",
+      "Altar en Espiral",
+      "L’Autel annelé",
+      "Спиральный алтарь",
+      "Der Gewundene Altar",
+      "O Altar Enrolado",
+      "Altare Serpeggiante",
+      "똬리의 제단",
+      "盤蛇祭壇",
+      "盘卷祭坛"
+    ]
+  },
+  {
+    "TagId": 17702,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Tomb of Ula'tek",
+      "La Tumba de Ula'tek",
+      "A Tumba de Ula'tek",
+      "The Tomb of Ula'tek",
+      "Tumba de Ula'tek",
+      "Le tombeau d’Ula’tek",
+      "Гробница Ула'тек",
+      "Das Grab von Ula'tek",
+      "A Tumba de Ula'tek",
+      "Tomba di Ula'tek",
+      "울라텍의 무덤",
+      "烏拉特克之墓",
+      "乌拉特克之墓"
+    ]
+  },
+  {
+    "TagId": 17710,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Carnage Pit",
+      "El Foso de la Masacre",
+      "O Fosso da Chacina",
+      "The Carnage Pit",
+      "Foso de la Matanza",
+      "La fosse du Carnage",
+      "Яма Резни",
+      "Die Grube des Gemetzels",
+      "O Fosso da Chacina",
+      "Fossa del Massacro",
+      "살육의 구덩이",
+      "屠殺坑洞",
+      "屠戮深坑"
+    ]
+  },
+  {
+    "TagId": 17711,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Altar of Fangs",
+      "El Altar de Colmillos",
+      "O Altar das Presas",
+      "The Altar of Fangs",
+      "Altar de los Colmillos",
+      "L’Autel des crochets",
+      "Алтарь Клыков",
+      "Der Altar der Fänge",
+      "O Altar das Presas",
+      "Altare delle Zanne",
+      "송곳니의 제단",
+      "毒牙祭壇",
+      "毒牙祭坛"
+    ]
+  },
+  {
+    "TagId": 17712,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Sacrificial Approach",
+      "Vía del Sacrificio",
+      "Rota Sacrificial",
+      "Sacrificial Approach",
+      "Vereda del Sacrificio",
+      "Approche sacrificielle",
+      "Жертвенный подступ",
+      "Der Pfad der Opferung",
+      "Rota Sacrificial",
+      "Via Sacrificale",
+      "희생의 접근로",
+      "獻祭之路",
+      "祭血通道"
+    ]
+  },
+  {
+    "TagId": 17713,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Mutation Chambers",
+      "Cámaras de Mutación",
+      "Câmaras de Mutação",
+      "Mutation Chambers",
+      "Cámaras de Mutación",
+      "Chambres de Mutation",
+      "Камеры мутации",
+      "Die Mutationskammern",
+      "Câmaras de Mutação",
+      "Camere di Mutazione",
+      "변이의 방",
+      "突變室",
+      "突变温室"
+    ]
+  },
+  {
+    "TagId": 17714,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Ancient Burrow",
+      "Madriguera Antigua",
+      "Toca Ancestral",
+      "Ancient Burrow",
+      "Madriguera Ancestral",
+      "Terrier antique",
+      "Древняя нора",
+      "Der Uralte Bau",
+      "Toca Ancestral",
+      "Cunicolo Antico",
+      "고대의 굴",
+      "遠古地穴",
+      "远古穴窟"
+    ]
+  },
+  {
+    "TagId": 17715,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Chamber of Virulence",
+      "La Cámara de la Virulencia",
+      "A Câmara da Virulência",
+      "The Chamber of Virulence",
+      "Cámara de la Virulencia",
+      "La chambre de la Virulence",
+      "Зал заражения",
+      "Die Kammer der Virulenz",
+      "A Câmara da Virulência",
+      "Camera della Virulenza",
+      "발병의 방",
+      "惡疾之廳",
+      "邪毒密室"
+    ]
+  },
+  {
+    "TagId": 17718,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Great Sea",
+      "Mare Magnum",
+      "O Grande Oceano",
+      "The Great Sea",
+      "Mare Magnum",
+      "Grande mer",
+      "Великое море",
+      "Das Große Meer",
+      "O Grande Oceano",
+      "Grande Mare",
+      "대해",
+      "無盡之海",
+      "无尽之海"
+    ]
+  },
+  {
+    "TagId": 17719,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "O Mar Proibido",
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "Mer Interdite",
+      "Зловещее море",
+      "Das Verbotene Meer",
+      "O Mar Proibido",
+      "Mar delle Insidie",
+      "성난 바다",
+      "禁忌之海",
+      "禁忌之海"
+    ]
+  },
+  {
+    "TagId": 17720,
+    "TagType": 24,
+    "Names": [
+      null,
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "O Mar Proibido",
+      "The Forbidding Sea",
+      "Mar Adusto",
+      "Mer Interdite",
+      "Зловещее море",
+      "Das Verbotene Meer",
+      "O Mar Proibido",
+      "Mar delle Insidie",
+      "성난 바다",
+      "禁忌之海",
+      "禁忌之海"
+    ]
+  },
+  {
+    "TagId": 17729,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Northern Amani Bulwark",
+      "Baluarte Amani del Norte",
+      "Baluarte Amani Setentrional",
+      "Northern Amani Bulwark",
+      "Baluarte Norte Amani",
+      "Rempart amani septentrional",
+      "Северный аманийский бастион",
+      "Nördliches Amani-Bollwerk",
+      "Baluarte Amani Setentrional",
+      "Barricata Settentrionale degli Amani",
+      "북부 아마니 보루",
+      "北部阿曼尼壁壘",
+      "北阿曼尼堡垒"
+    ]
+  },
+  {
+    "TagId": 17730,
+    "TagType": 24,
+    "Names": [
+      null,
+      "Eastern Amani Outpost",
+      "Puesto de Avanzada Amani del Este",
+      "Posto Avançado Amani Oriental",
+      "Eastern Amani Outpost",
+      "Avanzada Este Amani",
+      "Avant-poste amani oriental",
+      "Восточная аманийская застава",
+      "Östlicher Amani-Außenposten",
+      "Posto Avançado Amani Oriental",
+      "Avamposto Orientale degli Amani",
+      "동부 아마니 전초기지",
+      "東部阿曼尼哨站",
+      "东阿曼尼岗哨"
     ]
   }
 ]

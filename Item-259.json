@@ -777,6 +777,69 @@
     "Media": "inv_shield_1h_dungeonharronir_c_01.jpg"
   },
   {
+    "TagId": 259044,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Water Dish",
+      "Plato de agua para amigo de cuatro patas",
+      "Pote de Água Marauvilhoso",
+      "Paw Pal Water Dish",
+      "Bebedero de colega canino",
+      "Bol Pattounes et Cie",
+      "Миска Дружка для воды",
+      "Pfotenfreunde-Wasserschale",
+      "Pote de Água Marauvilhoso",
+      "Ciotola d'Acqua per l'Amico di Zampa",
+      "발바닥 친구 물그릇",
+      "獸掌夥伴水盤",
+      "萌爪伙伴食盆"
+    ],
+    "Media": "inv_12ph_charity_hfh_dogbowl01.jpg"
+  },
+  {
+    "TagId": 259045,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Bed and Blanket",
+      "Cama y manta para amigo de cuatro patas",
+      "Cama e Cobertor de Marauvilhoso",
+      "Paw Pal Bed and Blanket",
+      "Cama y manta de colega canino",
+      "Lit et couverture Pattounes et Cie",
+      "Подстилка и одеяло Дружка",
+      "Pfotenfreunde-Bett mit Decke",
+      "Cama e Cobertor de Marauvilhoso",
+      "Letto e Copertina per l'Amico di Zampa",
+      "발바닥 친구 침대와 담요",
+      "獸掌夥伴床與毯子",
+      "萌爪伙伴狗窝和毯子"
+    ],
+    "Media": "inv_12ph_charity_hfh_dogbed01.jpg"
+  },
+  {
+    "TagId": 259046,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Bed",
+      "Cama para amigo de cuatro patas",
+      "Cama de Marauvilhoso",
+      "Paw Pal Bed",
+      "Cama de colega canino",
+      "Lit Pattounes et Cie",
+      "Подстилка Дружка",
+      "Pfotenfreunde-Bett",
+      "Cama de Marauvilhoso",
+      "Letto per l'Amico di Zampa",
+      "발바닥 친구 침대",
+      "獸掌夥伴床",
+      "萌爪伙伴狗窝"
+    ],
+    "Media": "inv_12ph_charity_hfh_dogbed02.jpg"
+  },
+  {
     "TagId": 259047,
     "TagType": 21,
     "Names": [
@@ -1699,6 +1762,48 @@
       "虚空浸染的自由行动药水"
     ],
     "Media": "inv_potiond_2.jpg"
+  },
+  {
+    "TagId": 259093,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Dog House Frame",
+      "Marco de casita de perro para amigo de cuatro patas",
+      "Estrutura de Casa de Cachorro Marauvilhosa",
+      "Paw Pal Dog House Frame",
+      "Armazón de caseta de colega canino",
+      "Charpente de niche Pattounes et Cie",
+      "Остов конуры Дружка",
+      "Rahmen der Pfotenfreunde-Hundehütte",
+      "Estrutura de Casa de Cachorro Marauvilhosa",
+      "Struttura di Cuccia per l'Amico di Zampa",
+      "발바닥 친구 개집 틀",
+      "獸掌夥伴狗屋框架",
+      "萌爪伙伴狗屋框架"
+    ],
+    "Media": "inv_12ph_charity_hfh_doghouse01.jpg"
+  },
+  {
+    "TagId": 259094,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Dog House Elwynn Roof",
+      "Techo de Elwynn de casita de perro para amigo de cuatro patas",
+      "Telhado Elwynn de Casa de Cachorro Marauvilhosa",
+      "Paw Pal Dog House Elwynn Roof",
+      "Techo de caseta de colega canino de Elwynn",
+      "Toit de niche Pattounes et Cie d’Elwynn",
+      "Элвиннская крыша для конуры Дружка",
+      "Elwynndach der Pfotenfreunde-Hundehütte",
+      "Telhado Elwynn de Casa de Cachorro Marauvilhosa",
+      "Tetto di Cuccia di Elwynn per l'Amico di Zampa",
+      "발바닥 친구 개집 엘윈 지붕",
+      "獸掌夥伴狗屋艾爾文森林屋頂",
+      "萌爪伙伴狗屋艾尔文森林屋顶"
+    ],
+    "Media": "inv_12ph_charity_hfh_doghouse_roof03.jpg"
   },
   {
     "TagId": 259096,
@@ -3280,15 +3385,15 @@
     "TagType": 21,
     "Names": [
       null,
-      "Thalassian Whestone",
+      "Thalassian Whetstone",
       "Piedra de afilar thalassiana",
-      "Pedra-ume Talassiana",
-      "Thalassian Whestone",
+      "Pedra de Amolar Talassiana",
+      "Thalassian Whetstone",
       "Piedra de afilar thalassiana",
       "Pierre à aiguiser thalassienne",
       "Талассийский точильный камень",
       "Thalassischer Schleifstein",
-      "Pedra-ume Talassiana",
+      "Pedra de Amolar Talassiana",
       "Cote Thalassiana",
       "탈라시안 숫돌",
       "薩拉斯磨石",
@@ -4890,7 +4995,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_knickknack02_7452964.jpg"
   },
   {
     "TagId": 259285,
@@ -4932,7 +5037,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_knickknack09_7452967.jpg"
   },
   {
     "TagId": 259287,
@@ -4974,7 +5079,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_knickknack10_7452970.jpg"
   },
   {
     "TagId": 259289,

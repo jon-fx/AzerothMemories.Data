@@ -718,19 +718,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2",
-      "Collect [DNT] [AUTOGEN] 12PM_Primitive_Defense_Hammer01.m2"
+      "Collect Purified Crude Hammer",
+      "Recoger martillo rudimentario purificado",
+      "Coletar Martelo Rústico Purificado",
+      "Collect Purified Crude Hammer",
+      "Añadir martillo rudimentario purificado",
+      "Récupérer un marteau rudimentaire purifié",
+      "Получить очищенный грубый молот",
+      "Geläuterten groben Hammer sammeln",
+      "Coletar Martelo Rústico Purificado",
+      "Raccolta Martello Grezzo Purificato",
+      "정화된 조잡한 망치 획득",
+      "收集純淨粗製錘子",
+      "收集净化的简陋之锤"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -3061,7 +3061,8 @@
       "Canvas Vendor Unlock [DNT]",
       "Canvas Vendor Unlock [DNT]",
       "Canvas Vendor Unlock [DNT]"
-    ]
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1257277,
@@ -6021,6 +6022,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1257605,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Barrage",
+      "Tromba de escarcha",
+      "Barragem de Gelo",
+      "Frost Barrage",
+      "Tromba de Escarcha",
+      "Barrage de givre",
+      "Ледяной обстрел",
+      "Frostsperrfeuer",
+      "Barragem de Gelo",
+      "Raffica di Gelo",
+      "냉기 포화",
+      "冰霜彈幕",
+      "冰霜弹幕"
+    ],
+    "Media": "inv_elemental_mote_water01.jpg"
+  },
+  {
     "TagId": 1257606,
     "TagType": 26,
     "Names": [
@@ -6061,6 +6083,27 @@
       "虚空吐息"
     ],
     "Media": "inv_cosmicvoid_missile.jpg"
+  },
+  {
+    "TagId": 1257608,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Barrage",
+      "Tromba de escarcha",
+      "Barragem de Gelo",
+      "Frost Barrage",
+      "Tromba de Escarcha",
+      "Barrage de givre",
+      "Ледяной обстрел",
+      "Frostsperrfeuer",
+      "Barragem de Gelo",
+      "Raffica di Gelo",
+      "냉기 포화",
+      "冰霜彈幕",
+      "冰霜弹幕"
+    ],
+    "Media": "spell_fire_blueflamestrike.jpg"
   },
   {
     "TagId": 1257609,
@@ -6166,6 +6209,27 @@
       "神圣诡计"
     ],
     "Media": "spell_holy_prayerofspirit.jpg"
+  },
+  {
+    "TagId": 1257614,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Barrage",
+      "Tromba de escarcha",
+      "Barragem de Gelo",
+      "Frost Barrage",
+      "Tromba de Escarcha",
+      "Barrage de givre",
+      "Ледяной обстрел",
+      "Frostsperrfeuer",
+      "Barragem de Gelo",
+      "Raffica di Gelo",
+      "냉기 포화",
+      "冰霜彈幕",
+      "冰霜弹幕"
+    ],
+    "Media": "spell_fire_blueflamestrike.jpg"
   },
   {
     "TagId": 1257615,
@@ -6315,6 +6379,27 @@
     "Media": "inv_sword_1h_etherealdefense_b_01.jpg"
   },
   {
+    "TagId": 1257644,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frost Barrage",
+      "Tromba de escarcha",
+      "Barragem de Gelo",
+      "Frost Barrage",
+      "Tromba de Escarcha",
+      "Barrage de givre",
+      "Ледяной обстрел",
+      "Frostsperrfeuer",
+      "Barragem de Gelo",
+      "Raffica di Gelo",
+      "냉기 포화",
+      "冰霜彈幕",
+      "冰霜弹幕"
+    ],
+    "Media": "spell_fire_blueflamestrike.jpg"
+  },
+  {
     "TagId": 1257645,
     "TagType": 26,
     "Names": [
@@ -6419,6 +6504,27 @@
     "Media": "trade_archaeology_draenei_tome.jpg"
   },
   {
+    "TagId": 1257651,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drifting Globules",
+      "Glóbulos a la deriva",
+      "Glóbulos Derivantes",
+      "Drifting Globules",
+      "Glóbulos a la deriva",
+      "Globules flottants",
+      "Блуждающие капли",
+      "Treibende Kugeln",
+      "Glóbulos Derivantes",
+      "Globuli alla Deriva",
+      "떠도는 방울",
+      "漂流之滴",
+      "漂浮水珠"
+    ],
+    "Media": "inv_elemental_mote_water01.jpg"
+  },
+  {
     "TagId": 1257652,
     "TagType": 26,
     "Names": [
@@ -6459,6 +6565,27 @@
       "暗影冰霜齐射"
     ],
     "Media": "inv_enchant_shardshadowfrostlarge.jpg"
+  },
+  {
+    "TagId": 1257654,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lingering Frost",
+      "Escarcha persistente",
+      "Geada Duradoura",
+      "Lingering Frost",
+      "Escarcha persistente",
+      "Givre résiduel",
+      "Остаточный холод",
+      "Verweilender Frost",
+      "Geada Duradoura",
+      "Gelo Persistente",
+      "잔존하는 서리",
+      "滯留冰霜",
+      "残留冰霜"
+    ],
+    "Media": "spell_hunter_icetrap.jpg"
   },
   {
     "TagId": 1257656,
@@ -7509,6 +7636,27 @@
     "Media": "inv_misc_bone_02.jpg"
   },
   {
+    "TagId": 1257717,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alluring Bubble",
+      "Burbuja atrayente",
+      "Bolha Sedutora",
+      "Alluring Bubble",
+      "Burbuja atrayente",
+      "Bulle envoûtante",
+      "Манящий пузырь",
+      "Verlockende Blase",
+      "Bolha Sedutora",
+      "Bolla Irresistibile",
+      "매혹하는 거품",
+      "引誘泡泡",
+      "诱人水泡"
+    ],
+    "Media": "inv_elemental_primal_water.jpg"
+  },
+  {
     "TagId": 1257718,
     "TagType": 26,
     "Names": [
@@ -8517,6 +8665,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1257773,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger",
+      "[DNT]Bubble trigger"
+    ],
+    "Media": "creatureportrait_bubble.jpg"
+  },
+  {
     "TagId": 1257774,
     "TagType": 26,
     "Names": [
@@ -8790,6 +8959,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1257793,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc",
+      "[DNT]Suck the Murloc"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1257794,
     "TagType": 26,
     "Names": [
@@ -8809,6 +8999,27 @@
       "闪烁碎片"
     ],
     "Media": "ability_monk_explodingjadeblossom.jpg"
+  },
+  {
+    "TagId": 1257795,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble",
+      "[DNT]Fly to bubble"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1257796,
@@ -9454,7 +9665,7 @@
       "Ladungsrückstoß",
       "Carga de Refluxo",
       "Carica di Riflusso",
-      "역류 돌진",
+      "역류 파동",
       "充能逆流",
       "回流充能"
     ],
@@ -10720,6 +10931,27 @@
     "Media": "achievement_raid_hall_of_flesh.jpg"
   },
   {
+    "TagId": 1257909,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside",
+      "[DNT]How many Murloc inside"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1257910,
     "TagType": 26,
     "Names": [
@@ -10737,6 +10969,27 @@
       "[DNT] Profession Check",
       "[DNT] Profession Check",
       "[DNT] Profession Check"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1257911,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble",
+      "[DNT]1 Murloc in bubble"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10865,6 +11118,27 @@
       "嗖！"
     ],
     "Media": "inv_pet_swappet.jpg"
+  },
+  {
+    "TagId": 1257918,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble",
+      "[DNT]2 Murloc in bubble"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1257919,
@@ -11285,6 +11559,27 @@
       "[DNT] Gold Enemy Flying"
     ],
     "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 1257939,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble",
+      "[DNT]10 Murloc in bubble"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1257940,

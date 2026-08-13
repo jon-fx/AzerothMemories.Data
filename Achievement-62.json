@@ -1843,7 +1843,7 @@
       "Ago e filo",
       "이 이야기는 나중에",
       "暫記下來",
-      "插旗留念"
+      "插针留念"
     ],
     "Media": "inv_needledollpet_green.jpg"
   },
@@ -3066,6 +3066,132 @@
     "Media": "inv_achievement_sanktumoflight.jpg"
   },
   {
+    "TagId": 62282,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Altar of Fangs",
+      "Altar de Colmillos",
+      "Altar das Presas",
+      "Altar of Fangs",
+      "Altar de los Colmillos",
+      "Autel des crochets",
+      "Алтарь Клыков",
+      "Altar der Fänge",
+      "Altar das Presas",
+      "Altare delle Zanne",
+      "송곳니의 제단",
+      "毒牙祭壇",
+      "毒牙祭坛"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 62283,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Heroic: Altar of Fangs",
+      "Heroico: Altar de Colmillos",
+      "Heroico: Altar das Presas",
+      "Heroic: Altar of Fangs",
+      "Heroica: Altar de los Colmillos",
+      "Autel des crochets\u00A0: mode héroïque",
+      "Героический режим: Алтарь Клыков",
+      "Heroisch: Altar der Fänge",
+      "Heroico: Altar das Presas",
+      "Eroica: Altare delle Zanne",
+      "영웅: 송곳니의 제단",
+      "英雄：毒牙祭壇",
+      "英雄：毒牙祭坛"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 62284,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Mythic: Altar of Fangs",
+      "Mítico: Altar de Colmillos",
+      "Mítico: Altar das Presas",
+      "Mythic: Altar of Fangs",
+      "Mítica: Altar de los Colmillos",
+      "Autel des crochets\u00A0: mode mythique",
+      "Эпохальный режим: Алтарь Клыков",
+      "Mythisch: Altar der Fänge",
+      "Mítico: Altar das Presas",
+      "Mitica: Altare delle Zanne",
+      "신화: 송곳니의 제단",
+      "傳奇：毒牙祭壇",
+      "史诗：毒牙祭坛"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 62285,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Zul'jan kills (Normal Altar of Fangs)",
+      "Muertes de Zul'jan (Normal: Altar de Colmillos)",
+      "Abates de Zul'jan (Altar das Presas Normal)",
+      "Zul'jan kills (Normal Altar of Fangs)",
+      "Muertes de Zul'jan (Altar de los Colmillos normal)",
+      "Morts de Zul’jan (Autel des crochets normal)",
+      "Победы над Зул'джаном (обычный режим, Алтарь Клыков)",
+      "Siege über Zul'jan (Normal: Altar der Fänge)",
+      "Abates de Zul'jan (Altar das Presas Normal)",
+      "Uccisioni di Zul'jan (Altare delle Zanne) [N]",
+      "줄잔 처치 (일반 송곳니의 제단)",
+      "祖爾詹擊殺數（普通毒牙祭壇）",
+      "祖尔加击杀（普通毒牙祭坛）"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 62286,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Zul'jan kills (Heroic Altar of Fangs)",
+      "Muertes de Zul'jan (Heroico: Altar de Colmillos)",
+      "Abates de Zul'jan (Altar das Presas Heroico)",
+      "Zul'jan kills (Heroic Altar of Fangs)",
+      "Muertes de Zul'jan (Altar de los Colmillos heroica)",
+      "Morts de Zul’jan (Autel des crochets héroïque)",
+      "Победы над Зул'джаном (героический режим, Алтарь Клыков)",
+      "Siege über Zul'jan (Heroisch: Altar der Fänge)",
+      "Abates de Zul'jan (Altar das Presas Heroico)",
+      "Uccisioni di Zul'jan (Altare delle Zanne) [E]",
+      "줄잔 처치 (영웅 송곳니의 제단)",
+      "祖爾詹擊殺數（英雄毒牙祭壇）",
+      "祖尔加击杀（英雄毒牙祭坛）"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 62287,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Zul'jan kills (Mythic Altar of Fangs)",
+      "Muertes de Zul'jan (Mítico: Altar de Colmillos)",
+      "Abates de Zul'jan (Altar das Presas Mítico)",
+      "Zul'jan kills (Mythic Altar of Fangs)",
+      "Muertes de Zul'jan (Altar de los Colmillos mítica)",
+      "Morts de Zul’jan (Autel des crochets mythique)",
+      "Победы над Зул'джаном (эпохальный режим, Алтарь Клыков)",
+      "Siege über Zul'jan (Mythisch: Altar der Fänge)",
+      "Abates de Zul'jan (Altar das Presas Mítico)",
+      "Uccisioni di Zul'jan (Altare delle Zanne) [M]",
+      "줄잔 처치 (신화 송곳니의 제단)",
+      "祖爾詹擊殺數（傳奇毒牙祭壇）",
+      "祖尔加击杀（史诗毒牙祭坛）"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
     "TagId": 62288,
     "TagType": 20,
     "Names": [
@@ -3253,6 +3379,27 @@
       "获得的神话曙光纹章"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62297,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Curse of Ula'tek",
+      "La maldición de Ula'tek",
+      "A Maldição de Ula'tek",
+      "The Curse of Ula'tek",
+      "La maldición de Ula'tek",
+      "La malédiction d’Ula’tek",
+      "Проклятие Ула'тек",
+      "Der Fluch von Ula'tek",
+      "A Maldição de Ula'tek",
+      "La Maledizione di Ula'tek",
+      "울라텍의 저주",
+      "烏拉特克的詛咒",
+      "乌拉特克的诅咒"
+    ],
+    "Media": "inv_knife_1h_ulatekfang_d_01_poison.jpg"
   },
   {
     "TagId": 62324,
@@ -4200,6 +4347,69 @@
     "Media": "inv_12_profession_jewelcrafting_thoughtful_throughput.jpg"
   },
   {
+    "TagId": 62410,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Adventurer of the Mist",
+      "Aventurero de la niebla",
+      "Aventureiro da bruma",
+      "Adventurer of the Mist",
+      "Aventurero de la bruma",
+      "Aventure de la brume",
+      "Туманный искатель приключений",
+      "Abenteurer des Nebels",
+      "Aventureiro da bruma",
+      "Avventuriero della nebbia",
+      "안개의 모험가",
+      "迷霧冒險者",
+      "迷雾冒险者"
+    ],
+    "Media": "inv_121_crest_adventurer_enchanted.jpg"
+  },
+  {
+    "TagId": 62411,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Veteran of the Mist",
+      "Veterano de la niebla",
+      "Veterano da bruma",
+      "Veteran of the Mist",
+      "Veterano de la bruma",
+      "Vétéran de la brume",
+      "Ветеран туманов",
+      "Veteran des Nebels",
+      "Veterano da bruma",
+      "Veterano della nebbia",
+      "안개의 노련가",
+      "迷霧精兵",
+      "迷雾老兵"
+    ],
+    "Media": "inv_121_crest_veteran_enchanted.jpg"
+  },
+  {
+    "TagId": 62412,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Champion of the Mist",
+      "Campeón de la niebla",
+      "Campeão da bruma",
+      "Champion of the Mist",
+      "Campeón de la bruma",
+      "Champion de la brume",
+      "Защитник туманов",
+      "Champion des Nebels",
+      "Campeão da bruma",
+      "Campione della nebbia",
+      "안개의 용사",
+      "迷霧勇士",
+      "迷雾勇士"
+    ],
+    "Media": "inv_121_crest_champion_enchanted.jpg"
+  },
+  {
     "TagId": 62413,
     "TagType": 20,
     "Names": [
@@ -4221,6 +4431,27 @@
     "Media": "inv_12tr_amani_decor_loamask_dragonhawk01.jpg"
   },
   {
+    "TagId": 62414,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hero of the Mist",
+      "Héroe de la niebla",
+      "Herói da bruma",
+      "Hero of the Mist",
+      "Héroe de la bruma",
+      "Héroïsme de la brume",
+      "Герой туманов",
+      "Held des Nebels",
+      "Herói da bruma",
+      "Eroe della nebbia",
+      "안개의 영웅",
+      "迷霧英雄",
+      "迷雾英雄"
+    ],
+    "Media": "inv_121_crest_hero_enchanted.jpg"
+  },
+  {
     "TagId": 62415,
     "TagType": 20,
     "Names": [
@@ -4240,6 +4471,720 @@
       "[DNT] Trading Post - Jan26 - Make Good"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62416,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Myth of the Mist",
+      "Mito de la niebla",
+      "Mítico da bruma",
+      "Myth of the Mist",
+      "Mito de la bruma",
+      "Mythe de la brume",
+      "Сказания туманов",
+      "Mythos des Nebels",
+      "Mítico da bruma",
+      "Mito della Nebbia",
+      "안개의 신화",
+      "迷霧傳奇",
+      "迷雾神话"
+    ],
+    "Media": "inv_121_crest_myth_enchanted.jpg"
+  },
+  {
+    "TagId": 62417,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 12",
+      "Temporada 2 de Midnight: Piedra angular resiliente 12",
+      "Midnight Série 2: Pedra-chave Resiliente 12",
+      "Midnight Season 2: Resilient Keystone 12",
+      "Temporada 2 de Midnight: piedra angular resiliente 12",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A012",
+      "Midnight, 2-й сезон: прочность ключа – 12",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 12",
+      "Midnight Série 2: Pedra-chave Resiliente 12",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 12",
+      "한밤 2 시즌: 견고한 쐐기돌 12",
+      "至暗之夜第2季：強韌鑰石12",
+      "至暗之夜第2赛季：坚韧钥石12"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62418,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 13",
+      "Temporada 2 de Midnight: Piedra angular resiliente 13",
+      "Midnight Série 2: Pedra-chave Resiliente 13",
+      "Midnight Season 2: Resilient Keystone 13",
+      "Temporada 2 de Midnight: piedra angular resiliente 13",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A013",
+      "Midnight, 2-й сезон: прочность ключа – 13",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 13",
+      "Midnight Série 2: Pedra-chave Resiliente 13",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 13",
+      "한밤 2 시즌: 견고한 쐐기돌 13",
+      "至暗之夜第2季：強韌鑰石13",
+      "至暗之夜第2赛季：坚韧钥石13"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62419,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 14",
+      "Temporada 2 de Midnight: Piedra angular resiliente 14",
+      "Midnight Série 2: Pedra-chave Resiliente 14",
+      "Midnight Season 2: Resilient Keystone 14",
+      "Temporada 2 de Midnight: piedra angular resiliente 14",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A014",
+      "Midnight, 2-й сезон: прочность ключа – 14",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 14",
+      "Midnight Série 2: Pedra-chave Resiliente 14",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 14",
+      "한밤 2 시즌: 견고한 쐐기돌 14",
+      "至暗之夜第2季：強韌鑰石14",
+      "至暗之夜第2赛季：坚韧钥石14"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62420,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 15",
+      "Temporada 2 de Midnight: Piedra angular resiliente 15",
+      "Midnight Série 2: Pedra-chave Resiliente 15",
+      "Midnight Season 2: Resilient Keystone 15",
+      "Temporada 2 de Midnight: piedra angular resiliente 15",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A015",
+      "Midnight, 2-й сезон: прочность ключа – 15",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 15",
+      "Midnight Série 2: Pedra-chave Resiliente 15",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 15",
+      "한밤 2 시즌: 견고한 쐐기돌 15",
+      "至暗之夜第2季：強韌鑰石15",
+      "至暗之夜第2赛季：坚韧钥石15"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62421,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 16",
+      "Temporada 2 de Midnight: Piedra angular resiliente 16",
+      "Midnight Série 2: Pedra-chave Resiliente 16",
+      "Midnight Season 2: Resilient Keystone 16",
+      "Temporada 2 de Midnight: piedra angular resiliente 16",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A016",
+      "Midnight, 2-й сезон: прочность ключа – 16",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 16",
+      "Midnight Série 2: Pedra-chave Resiliente 16",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 16",
+      "한밤 2 시즌: 견고한 쐐기돌 16",
+      "至暗之夜第2季：強韌鑰石16",
+      "至暗之夜第2赛季：坚韧钥石16"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62422,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 17",
+      "Temporada 2 de Midnight: Piedra angular resiliente 17",
+      "Midnight Série 2: Pedra-chave Resiliente 17",
+      "Midnight Season 2: Resilient Keystone 17",
+      "Temporada 2 de Midnight: piedra angular resiliente 17",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A017",
+      "Midnight, 2-й сезон: прочность ключа – 17",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 17",
+      "Midnight Série 2: Pedra-chave Resiliente 17",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 17",
+      "한밤 2 시즌: 견고한 쐐기돌 17",
+      "至暗之夜第2季：強韌鑰石17",
+      "至暗之夜第2赛季：坚韧钥石17"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62423,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 18",
+      "Temporada 2 de Midnight: Piedra angular resiliente 18",
+      "Midnight Série 2: Pedra-chave Resiliente 18",
+      "Midnight Season 2: Resilient Keystone 18",
+      "Temporada 2 de Midnight: piedra angular resiliente 18",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A018",
+      "Midnight, 2-й сезон: прочность ключа – 18",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 18",
+      "Midnight Série 2: Pedra-chave Resiliente 18",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 18",
+      "한밤 2 시즌: 견고한 쐐기돌 18",
+      "至暗之夜第2季：強韌鑰石18",
+      "至暗之夜第2赛季：坚韧钥石18"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62424,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 19",
+      "Temporada 2 de Midnight: Piedra angular resiliente 19",
+      "Midnight Série 2: Pedra-chave Resiliente 19",
+      "Midnight Season 2: Resilient Keystone 19",
+      "Temporada 2 de Midnight: piedra angular resiliente 19",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A019",
+      "Midnight, 2-й сезон: прочность ключа – 19",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 19",
+      "Midnight Série 2: Pedra-chave Resiliente 19",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 19",
+      "한밤 2 시즌: 견고한 쐐기돌 19",
+      "至暗之夜第2季：強韌鑰石19",
+      "至暗之夜第2赛季：坚韧钥石19"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62425,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 20",
+      "Temporada 2 de Midnight: Piedra angular resiliente 20",
+      "Midnight Série 2: Pedra-chave Resiliente 20",
+      "Midnight Season 2: Resilient Keystone 20",
+      "Temporada 2 de Midnight: piedra angular resiliente 20",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A020",
+      "Midnight, 2-й сезон: прочность ключа – 20",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 20",
+      "Midnight Série 2: Pedra-chave Resiliente 20",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 20",
+      "한밤 2 시즌: 견고한 쐐기돌 20",
+      "至暗之夜第2季：強韌鑰石20",
+      "至暗之夜第2赛季：坚韧钥石20"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62426,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 21",
+      "Temporada 2 de Midnight: Piedra angular resiliente 21",
+      "Midnight Série 2: Pedra-chave Resiliente 21",
+      "Midnight Season 2: Resilient Keystone 21",
+      "Temporada 2 de Midnight: piedra angular resiliente 21",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A021",
+      "Midnight, 2-й сезон: прочность ключа – 21",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 21",
+      "Midnight Série 2: Pedra-chave Resiliente 21",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 21",
+      "한밤 2 시즌: 견고한 쐐기돌 21",
+      "至暗之夜第2季：強韌鑰石21",
+      "至暗之夜第2赛季：坚韧钥石21"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62427,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 22",
+      "Temporada 2 de Midnight: Piedra angular resiliente 22",
+      "Midnight Série 2: Pedra-chave Resiliente 22",
+      "Midnight Season 2: Resilient Keystone 22",
+      "Temporada 2 de Midnight: piedra angular resiliente 22",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A022",
+      "Midnight, 2-й сезон: прочность ключа – 22",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 22",
+      "Midnight Série 2: Pedra-chave Resiliente 22",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 22",
+      "한밤 2 시즌: 견고한 쐐기돌 22",
+      "至暗之夜第2季：強韌鑰石22",
+      "至暗之夜第2赛季：坚韧钥石22"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62428,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 23",
+      "Temporada 2 de Midnight: Piedra angular resiliente 23",
+      "Midnight Série 2: Pedra-chave Resiliente 23",
+      "Midnight Season 2: Resilient Keystone 23",
+      "Temporada 2 de Midnight: piedra angular resiliente 23",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A023",
+      "Midnight, 2-й сезон: прочность ключа – 23",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 23",
+      "Midnight Série 2: Pedra-chave Resiliente 23",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 23",
+      "한밤 2 시즌: 견고한 쐐기돌 23",
+      "至暗之夜第2季：強韌鑰石23",
+      "至暗之夜第2赛季：坚韧钥石23"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62429,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 24",
+      "Temporada 2 de Midnight: Piedra angular resiliente 24",
+      "Midnight Série 2: Pedra-chave Resiliente 24",
+      "Midnight Season 2: Resilient Keystone 24",
+      "Temporada 2 de Midnight: piedra angular resiliente 24",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A024",
+      "Midnight, 2-й сезон: прочность ключа – 24",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 24",
+      "Midnight Série 2: Pedra-chave Resiliente 24",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 24",
+      "한밤 2 시즌: 견고한 쐐기돌 24",
+      "至暗之夜第2季：強韌鑰石24",
+      "至暗之夜第2赛季：坚韧钥石24"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62430,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 25",
+      "Temporada 2 de Midnight: Piedra angular resiliente 25",
+      "Midnight Série 2: Pedra-chave Resiliente 25",
+      "Midnight Season 2: Resilient Keystone 25",
+      "Temporada 2 de Midnight: piedra angular resiliente 25",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A025",
+      "Midnight, 2-й сезон: прочность ключа – 25",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 25",
+      "Midnight Série 2: Pedra-chave Resiliente 25",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 25",
+      "한밤 2 시즌: 견고한 쐐기돌 25",
+      "至暗之夜第2季：強韌鑰石25",
+      "至暗之夜第2赛季：坚韧钥石25"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62431,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 26",
+      "Temporada 2 de Midnight: Piedra angular resiliente 26",
+      "Midnight Série 2: Pedra-chave Resiliente 26",
+      "Midnight Season 2: Resilient Keystone 26",
+      "Temporada 2 de Midnight: piedra angular resiliente 26",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A026",
+      "Midnight, 2-й сезон: прочность ключа – 26",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 26",
+      "Midnight Série 2: Pedra-chave Resiliente 26",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 26",
+      "한밤 2 시즌: 견고한 쐐기돌 26",
+      "至暗之夜第2季：強韌鑰石26",
+      "至暗之夜第2赛季：坚韧钥石26"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62432,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 27",
+      "Temporada 2 de Midnight: Piedra angular resiliente 27",
+      "Midnight Série 2: Pedra-chave Resiliente 27",
+      "Midnight Season 2: Resilient Keystone 27",
+      "Temporada 2 de Midnight: piedra angular resiliente 27",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A027",
+      "Midnight, 2-й сезон: прочность ключа – 27",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 27",
+      "Midnight Série 2: Pedra-chave Resiliente 27",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 27",
+      "한밤 2 시즌: 견고한 쐐기돌 27",
+      "至暗之夜第2季：強韌鑰石27",
+      "至暗之夜第2赛季：坚韧钥石27"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62433,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 28",
+      "Temporada 2 de Midnight: Piedra angular resiliente 28",
+      "Midnight Série 2: Pedra-chave Resiliente 28",
+      "Midnight Season 2: Resilient Keystone 28",
+      "Temporada 2 de Midnight: piedra angular resiliente 28",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A028",
+      "Midnight, 2-й сезон: прочность ключа – 28",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 28",
+      "Midnight Série 2: Pedra-chave Resiliente 28",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 28",
+      "한밤 2 시즌: 견고한 쐐기돌 28",
+      "至暗之夜第2季：強韌鑰石28",
+      "至暗之夜第2赛季：坚韧钥石28"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62434,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 29",
+      "Temporada 2 de Midnight: Piedra angular resiliente 29",
+      "Midnight Série 2: Pedra-chave Resiliente 29",
+      "Midnight Season 2: Resilient Keystone 29",
+      "Temporada 2 de Midnight: piedra angular resiliente 29",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A029",
+      "Midnight, 2-й сезон: прочность ключа – 29",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 29",
+      "Midnight Série 2: Pedra-chave Resiliente 29",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 29",
+      "한밤 2 시즌: 견고한 쐐기돌 29",
+      "至暗之夜第2季：強韌鑰石29",
+      "至暗之夜第2赛季：坚韧钥石29"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62435,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Resilient Keystone 30",
+      "Temporada 2 de Midnight: Piedra angular resiliente 30",
+      "Midnight Série 2: Pedra-chave Resiliente 30",
+      "Midnight Season 2: Resilient Keystone 30",
+      "Temporada 2 de Midnight: piedra angular resiliente 30",
+      "Midnight – Saison\u00A02\u00A0: clé résistante\u00A030",
+      "Midnight, 2-й сезон: прочность ключа – 30",
+      "Saison 2 von Midnight: Abgehärteter Schlüsselstein Stufe 30",
+      "Midnight Série 2: Pedra-chave Resiliente 30",
+      "Stagione 2 di Midnight: Chiave del Potere Resiliente 30",
+      "한밤 2 시즌: 견고한 쐐기돌 30",
+      "至暗之夜第2季：強韌鑰石30",
+      "至暗之夜第2赛季：坚韧钥石30"
+    ],
+    "Media": "achievement_challengemode_scarletmonastery_hourglass.jpg"
+  },
+  {
+    "TagId": 62436,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Venomous Hero: Midnight Season 2",
+      "Héroe venenoso: Temporada 2 de Midnight",
+      "Herói Peçonhento: Série 2 de Midnight",
+      "Venomous Hero: Midnight Season 2",
+      "Héroe venenoso: temporada 2 de Midnight",
+      "Héroïsme venimeux\u00A0: Midnight saison\u00A02",
+      "Ядовитый герой: 2-й сезон Midnight",
+      "Toxischer Held: Saison 2 von Midnight",
+      "Herói Peçonhento: Série 2 de Midnight",
+      "Eroe Venefico: Stagione 2 di Midnight",
+      "맹독의 영웅: 한밤 2 시즌",
+      "劇毒英雄：《至暗之夜》第2賽季",
+      "烈毒英雄：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_challengemode_platinum.jpg"
+  },
+  {
+    "TagId": 62437,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: The Blinding Vale",
+      "Héroe de piedra angular: El Valle Enceguecedor",
+      "Herói da Pedra-chave: o Vale Ofuscante",
+      "Keystone Hero: The Blinding Vale",
+      "Héroe de piedra angular: el Valle Cegador",
+      "Héroïsme mythique\u00A0: val Aveuglant",
+      "Герой ключей: Слепящая долина",
+      "Schlüsselsteinheld: Das blendende Tal",
+      "Herói da Pedra-chave: o Vale Ofuscante",
+      "Eroe delle Chiavi: Valle Accecante",
+      "쐐기돌 영웅: 눈부신 골짜기",
+      "鑰石英雄：盲目谷地",
+      "钥石英雄：夺目谷"
+    ],
+    "Media": "inv_achievement_dungeon_lightbloom.jpg"
+  },
+  {
+    "TagId": 62438,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: Voidscar Arena",
+      "Héroe de piedra angular: Arena Rajavacío",
+      "Herói da Pedra-chave: Arena da Chaga do Caos",
+      "Keystone Hero: Voidscar Arena",
+      "Héroe de piedra angular: Arena Lacravacua",
+      "Héroïsme mythique\u00A0: arène de la Cicatrice du Vide",
+      "Герой ключей: Арена Шрама Бездны",
+      "Schlüsselsteinheld: Arena der Leerennarbe",
+      "Herói da Pedra-chave: Arena da Chaga do Caos",
+      "Eroe delle Chiavi: Arena Sfregiavuoto",
+      "쐐기돌 영웅: 공허흉터 투기장",
+      "鑰石英雄：虛無之痕競技場",
+      "钥石英雄：虚空之痕竞技场"
+    ],
+    "Media": "inv_achievement_dungeon_voidscararena.jpg"
+  },
+  {
+    "TagId": 62439,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: Den of Nalorakk",
+      "Héroe de piedra angular: Guarida de Nalorakk",
+      "Herói da Pedra-chave: Covil de Nalorakk",
+      "Keystone Hero: Den of Nalorakk",
+      "Héroe de piedra angular: Guarida de Nalorakk",
+      "Héroïsme mythique\u00A0: antre de Nalorakk",
+      "Герой ключей: Берлога Налоракка",
+      "Schlüsselsteinheld: Nalorakks Bau",
+      "Herói da Pedra-chave: Covil de Nalorakk",
+      "Eroe delle Chiavi: Tana di Nalorakk",
+      "쐐기돌 영웅: 날로라크의 소굴",
+      "鑰石英雄：納羅拉克之穴",
+      "钥石英雄：纳洛拉克的洞穴"
+    ],
+    "Media": "inv_achievement_dungeon_proveyourworth.jpg"
+  },
+  {
+    "TagId": 62440,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: Murder Row",
+      "Héroe de piedra angular: El Frontal de la Muerte",
+      "Herói da Pedra-chave: Travessa do Assassino",
+      "Keystone Hero: Murder Row",
+      "Héroe de piedra angular: el Frontal de la Muerte",
+      "Héroïsme mythique\u00A0: Allée du meurtre",
+      "Герой ключей: Закоулок душегубов",
+      "Schlüsselsteinheld: Mördergasse",
+      "Herói da Pedra-chave: Travessa do Assassino",
+      "Eroe delle Chiavi: Traversa degli Intrighi",
+      "쐐기돌 영웅: 죽음의 골목",
+      "鑰石英雄：兇殺路",
+      "钥石英雄：密谋小径"
+    ],
+    "Media": "inv_achievement_dungeon_murderrow.jpg"
+  },
+  {
+    "TagId": 62441,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: Altar of Fangs",
+      "Héroe de piedra angular: Altar de Colmillos",
+      "Herói da Pedra-chave: Altar das Presas",
+      "Keystone Hero: Altar of Fangs",
+      "Héroe de piedra angular: Altar de los Colmillos",
+      "Héroïsme mythique\u00A0: Autel des crochets",
+      "Герой ключей: Алтарь Клыков",
+      "Schlüsselsteinheld: Altar der Fänge",
+      "Herói da Pedra-chave: Altar das Presas",
+      "Eroe delle Chiavi: Altare delle Zanne",
+      "쐐기돌 영웅: 송곳니의 제단",
+      "鑰石英雄：毒牙祭壇",
+      "钥石英雄：毒牙祭坛"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 62442,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: Ruby Life Pools (Midnight Season 2)",
+      "Héroe de piedra angular: Estanques de Vida Rubí (Temporada 2 de Midnight)",
+      "Herói da Pedra-chave: Poços da Vida Rubi (Série 2 de Midnight)",
+      "Keystone Hero: Ruby Life Pools (Midnight Season 2)",
+      "Héroe de piedra angular: Estanques de Vida Rubí (temporada 2 de Midnight)",
+      "Héroïsme mythique\u00A0: bassins de l’Essence rubis (Midnight – Saison\u00A02)",
+      "Герой ключей: Рубиновые Омуты Жизни (2-й сезон Midnight)",
+      "Schlüsselsteinheld: Rubinlebensbecken (Saison 2 von Midnight)",
+      "Herói da Pedra-chave: Poços da Vida Rubi (Série 2 de Midnight)",
+      "Eroe delle Chiavi: Pozze della Vita di Rubino (Stagione 2 di Midnight)",
+      "쐐기돌 영웅: 루비 생명의 웅덩이 (한밤 2 시즌)",
+      "鑰石英雄：晶紅生命之池（至暗之夜第2季）",
+      "钥石英雄：红玉新生法池（“至暗之夜”第2赛季）"
+    ],
+    "Media": "achievement_dungeon_lifepools.jpg"
+  },
+  {
+    "TagId": 62443,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: Temple of Sethraliss",
+      "Héroe de piedra angular: Templo de Sethraliss",
+      "Herói da Pedra-chave: Templo de Sethraliss",
+      "Keystone Hero: Temple of Sethraliss",
+      "Héroe de piedra angular: Templo de Sethraliss",
+      "Héroïsme mythique\u00A0: temple de Sephraliss",
+      "Герой ключей: Храм Сетралисс",
+      "Schlüsselsteinheld: Der Tempel von Sethraliss",
+      "Herói da Pedra-chave: Templo de Sethraliss",
+      "Eroe delle chiavi: Tempio di Sethraliss",
+      "쐐기돌 영웅: 세스랄리스 사원",
+      "鑰石英雄：瑟沙利斯神廟",
+      "钥石英雄：塞塔里斯神庙"
+    ],
+    "Media": "achievement_dungeon_templeofsethraliss.jpg"
+  },
+  {
+    "TagId": 62444,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Keystone Hero: Kings' Rest",
+      "Héroe de piedra angular: Reposo de los Reyes",
+      "Herói da Pedra-chave: Repouso do Rei",
+      "Keystone Hero: Kings' Rest",
+      "Héroe de piedra angular: Reposo de los Reyes",
+      "Héroïsme mythique\u00A0: Repos des rois",
+      "Герой ключей: Гробница королей",
+      "Schlüsselsteinheld: Die Königsruh",
+      "Herói da Pedra-chave: Repouso do Rei",
+      "Eroe delle Chiavi: Requie dei Re",
+      "쐐기돌 영웅: 왕들의 안식처",
+      "鑰石英雄：諸王之眠",
+      "钥石英雄：诸王之眠"
+    ],
+    "Media": "achievement_dungeon_kingsrest.jpg"
+  },
+  {
+    "TagId": 62445,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Keystone Explorer: Season 2",
+      "Explorador de piedra angular de Midnight: Temporada 2",
+      "Explorador da Pedra-chave de Midnight: Série 2",
+      "Midnight Keystone Explorer: Season 2",
+      "Explorador de la piedra angular de Midnight: temporada 2",
+      "Exploration mythique de Midnight\u00A0: saison\u00A02",
+      "Исследователь ключей Midnight: 2-й сезон",
+      "Schlüsselsteinerforscher von Midnight: Saison 2",
+      "Explorador da Pedra-chave de Midnight: Série 2",
+      "Esploratore delle Chiavi di Midnight: Stagione 2",
+      "한밤 쐐기돌 탐험가: 2 시즌",
+      "至暗之夜鑰石探險者：第2季",
+      "“至暗之夜”钥石探索者：第2赛季"
+    ],
+    "Media": "achievement_challengemode_silver.jpg"
+  },
+  {
+    "TagId": 62446,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Keystone Conqueror: Season 2",
+      "Conquistador de piedra angular de Midnight: Temporada 2",
+      "Conquistador da Pedra-chave de Midnight: Série 2",
+      "Midnight Keystone Conqueror: Season 2",
+      "Conquistador de la piedra angular de Midnight: temporada 2",
+      "Conquête mythique de Midnight\u00A0: saison\u00A02",
+      "Ключник-завоеватель Midnight: 2-й сезон",
+      "Schlüsselsteineroberer von Midnight: Saison 2",
+      "Conquistador da Pedra-chave de Midnight: Série 2",
+      "Conquistatore delle Chiavi di Midnight: Stagione 2",
+      "한밤 쐐기돌 정복자: 2 시즌",
+      "至暗之夜鑰石征服者：第2季",
+      "“至暗之夜”钥石征服者：第2赛季"
+    ],
+    "Media": "achievement_challengemode_silver.jpg"
+  },
+  {
+    "TagId": 62447,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Keystone Master: Season 2",
+      "Maestro de piedra angular de Midnight: Temporada 2",
+      "Mestre da Pedra-chave de Midnight: Série 2",
+      "Midnight Keystone Master: Season 2",
+      "Maestro de la piedra angular de Midnight: temporada 2",
+      "Maîtrise mythique de Midnight\u00A0: saison\u00A02",
+      "Мастер ключей Midnight: 2-й сезон",
+      "Schlüsselsteinmeister von Midnight: Saison 2",
+      "Mestre da Pedra-chave de Midnight: Série 2",
+      "Maestro delle Chiavi di Midnight: Stagione 2",
+      "한밤 쐐기돌 장인: 2 시즌",
+      "至暗之夜鑰石王：第2季",
+      "“至暗之夜”钥石大师：第2赛季"
+    ],
+    "Media": "achievement_challengemode_platinum.jpg"
+  },
+  {
+    "TagId": 62448,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Keystone Hero: Season 2",
+      "Héroe de piedra angular de Midnight: Temporada 2",
+      "Herói da Pedra-chave de Midnight: Série 2",
+      "Midnight Keystone Hero: Season 2",
+      "Héroe de la piedra angular de Midnight: temporada 2",
+      "Héroïsme mythique de Midnight\u00A0: saison\u00A02",
+      "Герой ключей Midnight: 2-й сезон",
+      "Schlüsselsteinheld von Midnight: Saison 2",
+      "Herói da Pedra-chave de Midnight: Série 2",
+      "Eroe delle Chiavi di Midnight: Stagione 2",
+      "한밤 쐐기돌 영웅: 2 시즌",
+      "至暗之夜鑰石英雄：第2季",
+      "“至暗之夜”钥石英雄：第2赛季"
+    ],
+    "Media": "achievement_challengemode_scholomance_platinum.jpg"
+  },
+  {
+    "TagId": 62449,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Keystone Legend: Season 2",
+      "Leyenda de piedra angular de Midnight: Temporada 2",
+      "Lenda da Pedra-chave de Midnight: Série 2",
+      "Midnight Keystone Legend: Season 2",
+      "Leyenda de la piedra angular de Midnight: temporada 2",
+      "Légende mythique de Midnight\u00A0: saison\u00A02",
+      "Легенда ключей Midnight: 2-й сезон",
+      "Schlüsselsteinlegende von Midnight: Saison 2",
+      "Lenda da Pedra-chave de Midnight: Série 2",
+      "Leggenda delle Chiavi di Midnight: Stagione 2",
+      "한밤 쐐기돌 전설: 2 시즌",
+      "至暗之夜鑰石傳奇：第2季",
+      "“至暗之夜”钥石传奇：第2赛季"
+    ],
+    "Media": "achievement_challengemode_scholomance_gold.jpg"
   },
   {
     "TagId": 62450,
@@ -4347,6 +5292,468 @@
     "Media": "ability_mage_massinvisibility.jpg"
   },
   {
+    "TagId": 62460,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Family Battler of Outland",
+      "Duelista familiar de Terrallende",
+      "Batalha familiar de Terralém",
+      "Family Battler of Outland",
+      "Batallador de familias de Terrallende",
+      "Dressage de mascottes familiales d’Outreterre",
+      "Укротитель питомцев Запределья",
+      "Familienkämpfer der Scherbenwelt",
+      "Batalha familiar de Terralém",
+      "Allenatore di mascotte di Famiglia delle Terre Esterne",
+      "아웃랜드 모든 애완동물의 용사",
+      "外域的家族對戰者",
+      "外域全谱系宠物斗士"
+    ],
+    "Media": "inv_doomguardpet_green.jpg"
+  },
+  {
+    "TagId": 62461,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Family Battler of Cataclysm",
+      "Duelista familiar de Cataclysm",
+      "Batalha familiar do Cataclismo",
+      "Family Battler of Cataclysm",
+      "Batallador de familias de Cataclysm",
+      "Dressage de mascottes familiales du Cataclysme",
+      "Укротитель питомцев Cataclysm",
+      "Familienkämpfer des Kataklysmus",
+      "Batalha familiar do Cataclismo",
+      "Allenatore di mascotte di Famiglia di Cataclysm",
+      "대격변 모든 애완동물의 용사",
+      "大災變的家族對戰者",
+      "大地的裂变全谱系宠物斗士"
+    ],
+    "Media": "inv_apocalypticwhelp_red.jpg"
+  },
+  {
+    "TagId": 62466,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Aquatic Battler of Outland",
+      "Duelista acuático de Terrallende",
+      "Batalha aquática de Terralém",
+      "Aquatic Battler of Outland",
+      "Batallador de acuáticos de Terrallende",
+      "Dressage de mascottes aquatiques d’Outreterre",
+      "Укротитель воды Запределья",
+      "Wasserkämpfer der Scherbenwelt",
+      "Batalha aquática de Terralém",
+      "Allenatore di mascotte Acquatiche delle Terre Esterne",
+      "아웃랜드 물 애완동물의 용사",
+      "外域的水棲對戰者",
+      "外域水栖宠物斗士"
+    ],
+    "Media": "icon_petfamily_water.jpg"
+  },
+  {
+    "TagId": 62467,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Beast Battler of Outland",
+      "Duelista bestial de Terrallende",
+      "Batalha feral de Terralém",
+      "Beast Battler of Outland",
+      "Batallador de bestias de Terrallende",
+      "Dressage de mascottes bestiales d’Outreterre",
+      "Укротитель животных Запределья",
+      "Wildtierkämpfer der Scherbenwelt",
+      "Batalha feral de Terralém",
+      "Allenatore di mascotte Bestie delle Terre Esterne",
+      "아웃랜드 야수 애완동물의 용사",
+      "外域的野獸對戰者",
+      "外域野兽宠物斗士"
+    ],
+    "Media": "icon_petfamily_beast.jpg"
+  },
+  {
+    "TagId": 62468,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Critter Battler of Outland",
+      "Duelista alimaña de Terrallende",
+      "Batalha de bichos de Terralém",
+      "Critter Battler of Outland",
+      "Batallador de alimañas de Terrallende",
+      "Dressage de mascottes bestioles d’Outreterre",
+      "Укротитель зверьков Запределья",
+      "Kleintierkämpfer der Scherbenwelt",
+      "Batalha de bichos de Terralém",
+      "Allenatore di mascotte Animali delle Terre Esterne",
+      "아웃랜드 동물 애완동물의 용사",
+      "外域的小動物對戰者",
+      "外域小动物宠物斗士"
+    ],
+    "Media": "icon_petfamily_critter.jpg"
+  },
+  {
+    "TagId": 62469,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Dragonkin Battler of Outland",
+      "Duelista dragonante de Terrallende",
+      "Batalha draconiana de Terralém",
+      "Dragonkin Battler of Outland",
+      "Batallador de dragonantes de Terrallende",
+      "Dressage de mascottes draconiennes d’Outreterre",
+      "Укротитель драконов Запределья",
+      "Drachkinkämpfer der Scherbenwelt",
+      "Batalha draconiana de Terralém",
+      "Allenatore di mascotte Dragoidi delle Terre Esterne",
+      "아웃랜드 용족 애완동물의 용사",
+      "外域的龍類對戰者",
+      "外域龙类宠物斗士"
+    ],
+    "Media": "icon_petfamily_dragon.jpg"
+  },
+  {
+    "TagId": 62470,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Elemental Battler of Outland",
+      "Duelista elemental de Terrallende",
+      "Batalha elemental de Terralém",
+      "Elemental Battler of Outland",
+      "Batallador de elementales de Terrallende",
+      "Dressage de mascottes élémentaires d’Outreterre",
+      "Укротитель элементалей Запределья",
+      "Elementarkämpfer der Scherbenwelt",
+      "Batalha elemental de Terralém",
+      "Allenatore di mascotte Elementali delle Terre Esterne",
+      "아웃랜드 정령 애완동물의 용사",
+      "外域的元素對戰者",
+      "外域元素宠物斗士"
+    ],
+    "Media": "icon_petfamily_elemental.jpg"
+  },
+  {
+    "TagId": 62471,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Flying Battler of Outland",
+      "Duelista volador de Terrallende",
+      "Batalha voadora de Terralém",
+      "Flying Battler of Outland",
+      "Batallador de voladores de Terrallende",
+      "Dressage de mascottes aériennes d’Outreterre",
+      "Укротитель летунов Запределья",
+      "Flugkämpfer der Scherbenwelt",
+      "Batalha voadora de Terralém",
+      "Allenatore di mascotte Volanti delle Terre Esterne",
+      "아웃랜드 비행 애완동물의 용사",
+      "外域的飛行對戰者",
+      "外域飞行宠物斗士"
+    ],
+    "Media": "icon_petfamily_flying.jpg"
+  },
+  {
+    "TagId": 62472,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Humanoid Battler of Outland",
+      "Duelista humanoide de Terrallende",
+      "Batalha humanoide de Terralém",
+      "Humanoid Battler of Outland",
+      "Batallador de humanoides de Terrallende",
+      "Dressage de mascottes humanoïdes d’Outreterre",
+      "Укротитель гуманоидов Запределья",
+      "Humanoidenkämpfer der Scherbenwelt",
+      "Batalha humanoide de Terralém",
+      "Allenatore di mascotte Umanoidi delle Terre Esterne",
+      "아웃랜드 인간형 애완동물의 용사",
+      "外域的人形對戰者",
+      "外域人型宠物斗士"
+    ],
+    "Media": "icon_petfamily_humanoid.jpg"
+  },
+  {
+    "TagId": 62473,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Magic Battler of Outland",
+      "Duelista mágico de Terrallende",
+      "Batalha mágica de Terralém",
+      "Magic Battler of Outland",
+      "Batallador de mágicos de Terrallende",
+      "Dressage de mascottes magiques d’Outreterre",
+      "Укротитель магии Запределья",
+      "Magiekämpfer der Scherbenwelt",
+      "Batalha mágica de Terralém",
+      "Allenatore di mascotte Magiche delle Terre Esterne",
+      "아웃랜드 마법 애완동물의 용사",
+      "外域的魔法對戰者",
+      "外域魔法宠物斗士"
+    ],
+    "Media": "icon_petfamily_magical.jpg"
+  },
+  {
+    "TagId": 62474,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Mechanical Battler of Outland",
+      "Duelista mecánico de Terrallende",
+      "Batalha mecânica de Terralém",
+      "Mechanical Battler of Outland",
+      "Batallador de máquinas de Terrallende",
+      "Dressage de mascottes mécaniques d’Outreterre",
+      "Укротитель механизмов Запределья",
+      "Mechanikkämpfer der Scherbenwelt",
+      "Batalha mecânica de Terralém",
+      "Allenatore di mascotte Meccaniche delle Terre Esterne",
+      "아웃랜드 기계 애완동물의 용사",
+      "外域的機械對戰者",
+      "外域机械宠物斗士"
+    ],
+    "Media": "icon_petfamily_mechanical.jpg"
+  },
+  {
+    "TagId": 62475,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Undead Battler of Outland",
+      "Duelista no-muerto de Terrallende",
+      "Batalha morta-viva de Terralém",
+      "Undead Battler of Outland",
+      "Batallador de no-muertos de Terrallende",
+      "Dressage de mascottes mortes-vivantes d’Outreterre",
+      "Укротитель нежити Запределья",
+      "Untotenkämpfer der Scherbenwelt",
+      "Batalha morta-viva de Terralém",
+      "Allenatore di mascotte Non Morte delle Terre Esterne",
+      "아웃랜드 언데드 애완동물의 용사",
+      "外域的不死對戰者",
+      "外域亡灵宠物斗士"
+    ],
+    "Media": "icon_petfamily_undead.jpg"
+  },
+  {
+    "TagId": 62476,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Aquatic Battler of Cataclysm",
+      "Duelista acuático de Cataclysm",
+      "Batalha aquática do Cataclismo",
+      "Aquatic Battler of Cataclysm",
+      "Batallador de acuáticos de Cataclysm",
+      "Dressage de mascottes aquatiques du Cataclysme",
+      "Укротитель воды Cataclysm",
+      "Wasserkämpfer des Kataklysmus",
+      "Batalha aquática do Cataclismo",
+      "Allenatore di mascotte Acquatiche di Cataclysm",
+      "대격변 물 애완동물의 용사",
+      "大災變的水棲對戰者",
+      "大地的裂变水栖宠物斗士"
+    ],
+    "Media": "icon_petfamily_water.jpg"
+  },
+  {
+    "TagId": 62477,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Beast Battler of Cataclysm",
+      "Duelista bestial de Cataclysm",
+      "Batalha feral do Cataclismo",
+      "Beast Battler of Cataclysm",
+      "Batallador de bestias de Cataclysm",
+      "Dressage de mascottes bestiales du Cataclysme",
+      "Укротитель животных Cataclysm",
+      "Wildtierkämpfer des Kataklysmus",
+      "Batalha feral do Cataclismo",
+      "Allenatore di mascotte Bestie di Cataclysm",
+      "대격변 야수 애완동물의 용사",
+      "大災變的野獸對戰者",
+      "大地的裂变野兽宠物斗士"
+    ],
+    "Media": "icon_petfamily_beast.jpg"
+  },
+  {
+    "TagId": 62478,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Critter Battler of Cataclysm",
+      "Duelista alimaña de Cataclysm",
+      "Batalha de bichos do Cataclismo",
+      "Critter Battler of Cataclysm",
+      "Batallador de alimañas de Cataclysm",
+      "Dressage de mascottes bestioles du Cataclysme",
+      "Укротитель зверьков Cataclysm",
+      "Kleintierkämpfer des Kataklysmus",
+      "Batalha de bichos do Cataclismo",
+      "Allenatore di mascotte Animali di Cataclysm",
+      "대격변 동물 애완동물의 용사",
+      "大災變的小動物對戰者",
+      "大地的裂变小动物宠物斗士"
+    ],
+    "Media": "icon_petfamily_critter.jpg"
+  },
+  {
+    "TagId": 62479,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Dragonkin Battler of Cataclysm",
+      "Duelista dragonante de Cataclysm",
+      "Batalha draconiana do Cataclismo",
+      "Dragonkin Battler of Cataclysm",
+      "Batallador de dragonantes de Cataclysm",
+      "Dressage de mascottes draconiennes du Cataclysme",
+      "Укротитель драконов Cataclysm",
+      "Drachkinkämpfer des Kataklysmus",
+      "Batalha draconiana do Cataclismo",
+      "Allenatore di mascotte Dragoidi di Cataclysm",
+      "대격변 용족 애완동물의 용사",
+      "大災變的龍類對戰者",
+      "大地的裂变龙类宠物斗士"
+    ],
+    "Media": "icon_petfamily_dragon.jpg"
+  },
+  {
+    "TagId": 62480,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Elemental Battler of Cataclysm",
+      "Duelista elemental de Cataclysm",
+      "Batalha elemental do Cataclismo",
+      "Elemental Battler of Cataclysm",
+      "Batallador de elementales de Cataclysm",
+      "Dressage de mascottes élémentaires du Cataclysme",
+      "Укротитель элементалей Cataclysm",
+      "Elementarkämpfer des Kataklysmus",
+      "Batalha elemental do Cataclismo",
+      "Allenatore di mascotte Elementali di Cataclysm",
+      "대격변 정령 애완동물의 용사",
+      "大災變的元素對戰者",
+      "大地的裂变元素宠物斗士"
+    ],
+    "Media": "icon_petfamily_elemental.jpg"
+  },
+  {
+    "TagId": 62481,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Flying Battler of Cataclysm",
+      "Duelista volador de Cataclysm",
+      "Batalha voadora do Cataclismo",
+      "Flying Battler of Cataclysm",
+      "Batallador de voladores de Cataclysm",
+      "Dressage de mascottes aériennes du Cataclysme",
+      "Укротитель летунов Cataclysm",
+      "Flugkämpfer des Kataklysmus",
+      "Batalha voadora do Cataclismo",
+      "Allenatore di mascotte Volanti di Cataclysm",
+      "대격변 비행 애완동물의 용사",
+      "大災變的飛行對戰者",
+      "大地的裂变飞行宠物斗士"
+    ],
+    "Media": "icon_petfamily_flying.jpg"
+  },
+  {
+    "TagId": 62482,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Humanoid Battler of Cataclysm",
+      "Duelista humanoide de Cataclysm",
+      "Batalha humanoide do Cataclismo",
+      "Humanoid Battler of Cataclysm",
+      "Batallador de humanoides de Cataclysm",
+      "Dressage de mascottes humanoïdes du Cataclysme",
+      "Укротитель гуманоидов Cataclysm",
+      "Humanoidenkämpfer des Kataklysmus",
+      "Batalha humanoide do Cataclismo",
+      "Allenatore di mascotte Umanoidi di Cataclysm",
+      "대격변 인간형 애완동물의 용사",
+      "大災變的人形對戰者",
+      "大地的裂变人型宠物斗士"
+    ],
+    "Media": "icon_petfamily_humanoid.jpg"
+  },
+  {
+    "TagId": 62483,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Magic Battler of Cataclysm",
+      "Duelista mágico de Cataclysm",
+      "Batalha mágica do Cataclismo",
+      "Magic Battler of Cataclysm",
+      "Batallador de mágicos de Cataclysm",
+      "Dressage de mascottes magiques du Cataclysme",
+      "Укротитель магии Cataclysm",
+      "Magiekämpfer des Kataklysmus",
+      "Batalha mágica do Cataclismo",
+      "Allenatore di mascotte Magiche di Cataclysm",
+      "대격변 마법 애완동물의 용사",
+      "大災變的魔法對戰者",
+      "大地的裂变魔法宠物斗士"
+    ],
+    "Media": "icon_petfamily_magical.jpg"
+  },
+  {
+    "TagId": 62487,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Mechanical Battler of Cataclysm",
+      "Duelista mecánico de Cataclysm",
+      "Batalha mecânica do Cataclismo",
+      "Mechanical Battler of Cataclysm",
+      "Batallador de máquinas de Cataclysm",
+      "Dressage de mascottes mécaniques du Cataclysme",
+      "Укротитель механизмов Cataclysm",
+      "Mechanikkämpfer des Kataklysmus",
+      "Batalha mecânica do Cataclismo",
+      "Allenatore di mascotte Meccaniche di Cataclysm",
+      "대격변 기계 애완동물의 용사",
+      "大災變的機械對戰者",
+      "大地的裂变机械宠物斗士"
+    ],
+    "Media": "icon_petfamily_mechanical.jpg"
+  },
+  {
+    "TagId": 62488,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Undead Battler of Cataclysm",
+      "Duelista no-muerto de Cataclysm",
+      "Batalha morta-viva do Cataclismo",
+      "Undead Battler of Cataclysm",
+      "Batallador de no-muertos de Cataclysm",
+      "Dressage de mascottes mortes-vivantes du Cataclysme",
+      "Укротитель нежити Cataclysm",
+      "Untotenkämpfer des Kataklysmus",
+      "Batalha morta-viva do Cataclismo",
+      "Allenatore di mascotte Non Morte di Cataclysm",
+      "대격변 언데드 애완동물의 용사",
+      "大災變的不死對戰者",
+      "大地的裂变亡灵宠物斗士"
+    ],
+    "Media": "icon_petfamily_undead.jpg"
+  },
+  {
     "TagId": 62489,
     "TagType": 20,
     "Names": [
@@ -4366,6 +5773,27 @@
       "晦幽铸币兑换最后召集"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62492,
+    "TagType": 20,
+    "Names": [
+      null,
+      "The Coiled Isle Safari",
+      "Safari de la Isla Serpenteante",
+      "Safári da Ilha Enrolada",
+      "The Coiled Isle Safari",
+      "Safari en la Isla Serpenteante",
+      "Safari de l’île Annelée",
+      "Сафари на Спиральном острове",
+      "Safari auf der Gewundenen Insel",
+      "Safári da Ilha Enrolada",
+      "Safari dell'Isola Serpeggiante",
+      "똬리의 섬 사냥기",
+      "盤蛇島狩旅團",
+      "盘卷蛇岛大狩猎"
+    ],
+    "Media": "inv_knife_1h_ulatekfang_d_01.jpg"
   },
   {
     "TagId": 62493,
@@ -4429,6 +5857,27 @@
       "12.0 Research Console - Mount Tracking - Hidden [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62497,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Venomous Weapons of Conquest",
+      "Armas de conquista venenosas",
+      "Armas de dominação peçonhentas",
+      "Venomous Weapons of Conquest",
+      "Armas de conquista venenosas",
+      "Armes de la conquête venimeuses",
+      "Ядовитое оружие завоевателя",
+      "Toxische Waffen der Eroberung",
+      "Armas de dominação peçonhentas",
+      "Armi della conquista velenose",
+      "맹독을 품은 정복의 무기",
+      "征服的劇毒武器",
+      "烈毒征服武器"
+    ],
+    "Media": "inv_misc_token_pvp02.jpg"
   },
   {
     "TagId": 62498,
@@ -5649,6 +7098,48 @@
     "Media": "ability_hunter_zenarchery.jpg"
   },
   {
+    "TagId": 62566,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Vicious Saddle (44)",
+      "Silla de montar sañosa (44)",
+      "Sela cruel (44)",
+      "Vicious Saddle (44)",
+      "Silla de montar sañosa (44)",
+      "Selle vicieuse (44)",
+      "Седло ярости (44)",
+      "Schrecklicher Sattel (44)",
+      "Sela cruel (44)",
+      "Sella Malvagia (44)",
+      "흉포한 안장 (44)",
+      "凶惡鞍具（44）",
+      "邪气鞍座（44）"
+    ],
+    "Media": "inv_tailoring_70_saddleblanket.jpg"
+  },
+  {
+    "TagId": 62567,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Vicious Saddle (44)",
+      "Silla de montar sañosa (44)",
+      "Sela cruel (44)",
+      "Vicious Saddle (44)",
+      "Silla de montar sañosa (44)",
+      "Selle vicieuse (44)",
+      "Седло ярости (44)",
+      "Schrecklicher Sattel (44)",
+      "Sela cruel (44)",
+      "Sella Malvagia (44)",
+      "흉포한 안장 (44)",
+      "凶惡鞍具（44）",
+      "邪气鞍座（44）"
+    ],
+    "Media": "inv_tailoring_70_saddleblanket.jpg"
+  },
+  {
     "TagId": 62568,
     "TagType": 20,
     "Names": [
@@ -5859,6 +7350,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 62600,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Ritual Behavior",
+      "Comportamiento ritual",
+      "Comportamento ritualístico",
+      "Ritual Behavior",
+      "Comportamiento ritual",
+      "Comportement rituel",
+      "Ритуальные повадки",
+      "Ritualablauf",
+      "Comportamento ritualístico",
+      "Comportamento rituale",
+      "의식적인 행동",
+      "儀式行為",
+      "仪式行为"
+    ],
+    "Media": "inv_cape_armor_troll_d_01.jpg"
+  },
+  {
+    "TagId": 62601,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Soft Underbelly",
+      "Reptando los fondos",
+      "Ventre exposto",
+      "Soft Underbelly",
+      "Punto flaco",
+      "Entrailles vulnérables",
+      "Уязвимость Клоаки",
+      "Bedrohliche Schattenseite",
+      "Ventre exposto",
+      "Sotterranei tranquilli",
+      "부드러운 뒤안길",
+      "墓窖要害",
+      "软肋"
+    ],
+    "Media": "inv_misc_monsterscales_04.jpg"
+  },
+  {
     "TagId": 62602,
     "TagType": 20,
     "Names": [
@@ -5899,6 +7432,27 @@
       "[DNT] <Hidden> Mythic+ Rating > 0 (Midnight, any season)"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62604,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Dance While Everyone Watches",
+      "Baila a la vista de todos",
+      "Dançar enquanto todos assistem",
+      "Dance While Everyone Watches",
+      "Bailar ante la mirada de todos",
+      "Danse devant tout le monde",
+      "Танец у всех на виду",
+      "Tanzt, während alle zusehen",
+      "Dançar enquanto todos assistem",
+      "Danza davanti a tutti",
+      "모두가 보는 앞에서 춤추기",
+      "舞給全場看",
+      "众目睽睽之下起舞"
+    ],
+    "Media": "inv_boots_cloth_09.jpg"
   },
   {
     "TagId": 62605,
@@ -6109,6 +7663,27 @@
       "仪式名望"
     ],
     "Media": "spell_shadow_shadesofdarkness.jpg"
+  },
+  {
+    "TagId": 62649,
+    "TagType": 20,
+    "Names": [
+      null,
+      "A Lone Wanderer",
+      "Un errante solitario",
+      "Um andarilho solitário",
+      "A Lone Wanderer",
+      "El errante solitario",
+      "Vagabondage solitaire",
+      "Одинокий странник",
+      "Einsam wandernd",
+      "Um andarilho solitário",
+      "Viandante solitario",
+      "고독한 방랑자",
+      "孤零零的漫遊者",
+      "孤身游荡者"
+    ],
+    "Media": "inv_10_worlddroplevelingoptionalreagent_misc_orb_air.jpg"
   },
   {
     "TagId": 62653,
@@ -6867,6 +8442,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 62871,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Catalyst Unbound",
+      "Temporada 2 de Midnight: Catalizador liberado",
+      "Série 2 de Midnight: catalisador irrestrito",
+      "Midnight Season 2: Catalyst Unbound",
+      "Temporada 2 de Midnight: Catalizador desvinculado",
+      "Saison\u00A02 de Midnight\u00A0: catalyseur délié",
+      "2-й сезон Midnight: свободный катализатор",
+      "Saison 2 von Midnight: Entfesselter Katalysator",
+      "Série 2 de Midnight: catalisador irrestrito",
+      "Stagione 2 di Midnight: Catalizzatore svincolato",
+      "한밤 2 시즌: 해방된 촉매",
+      "至暗之夜第2賽季：解縛催化器",
+      "“至暗之夜”第2赛季：化生台解缚"
+    ],
+    "Media": "inv_10_blacksmithing_craftedoptional_blacksmithdye_earth.jpg"
+  },
+  {
+    "TagId": 62872,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Season 2: Serpent Scion",
+      "Temporada 2 de Midnight: Vástago viperino",
+      "Série 2 de Midnight: rebento da serpente",
+      "Midnight Season 2: Serpent Scion",
+      "Temporada 2 de Midnight: vástago de la serpiente",
+      "Saison\u00A02 de Midnight\u00A0: scion du serpent",
+      "2-й сезон Midnight: змеиный отпрыск",
+      "Saison 2 von Midnight: Schlangenspross",
+      "Série 2 de Midnight: rebento da serpente",
+      "Stagione 2 di Midnight: Rampollo serpentino",
+      "한밤 2 시즌: 뱀의 자손",
+      "至暗之夜第2賽季：毒蛇後裔",
+      "“至暗之夜”第2赛季：毒蛇子嗣"
+    ],
+    "Media": "inv_ability_poison_debuff.jpg"
+  },
+  {
     "TagId": 62873,
     "TagType": 20,
     "Names": [
@@ -7119,6 +8736,153 @@
     "Media": "inv_1205_voidforge_fluctuatingvoidcores_cosmicvoid.jpg"
   },
   {
+    "TagId": 62889,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 4 (Season 2)",
+      "Abismos de Midnight: nivel 4 (temporada 2)",
+      "Imersões de Midnight: Grau 4 (Série 2)",
+      "Midnight Delves: Tier 4 (Season 2)",
+      "Profundidades de Midnight: nivel 4 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A04 (saison\u00A02)",
+      "Вылазки Midnight: 4-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 4 (Saison 2)",
+      "Imersões de Midnight: Grau 4 (Série 2)",
+      "Scorribande di Midnight: Grado 4 (Stagione 2)",
+      "한밤 구렁: 4 레벨 (2 시즌)",
+      "至暗之夜探究：級別4（第2季）",
+      "至暗之夜地下堡：难度4（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 62890,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 5 (Season 2)",
+      "Abismos de Midnight: nivel 5 (temporada 2)",
+      "Imersões de Midnight: Grau 5 (Série 2)",
+      "Midnight Delves: Tier 5 (Season 2)",
+      "Profundidades de Midnight: nivel 5 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A05 (saison\u00A02)",
+      "Вылазки Midnight: 5-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 5 (Saison 2)",
+      "Imersões de Midnight: Grau 5 (Série 2)",
+      "Scorribande di Midnight: Grado 5 (Stagione 2)",
+      "한밤 구렁: 5 레벨 (2 시즌)",
+      "至暗之夜探究：級別5（第2季）",
+      "至暗之夜地下堡：难度5（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 62891,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 6 (Season 2)",
+      "Abismos de Midnight: nivel 6 (temporada 2)",
+      "Imersões de Midnight: Grau 6 (Série 2)",
+      "Midnight Delves: Tier 6 (Season 2)",
+      "Profundidades de Midnight: nivel 6 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A06 (saison\u00A02)",
+      "Вылазки Midnight: 6-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 6 (Saison 2)",
+      "Imersões de Midnight: Grau 6 (Série 2)",
+      "Scorribande di Midnight: Grado 6 (Stagione 2)",
+      "한밤 구렁: 6 레벨 (2 시즌)",
+      "至暗之夜探究：級別6（第2季）",
+      "至暗之夜地下堡：难度6（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 62892,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 7 (Season 2)",
+      "Abismos de Midnight: nivel 7 (temporada 2)",
+      "Imersões de Midnight: Grau 7 (Série 2)",
+      "Midnight Delves: Tier 7 (Season 2)",
+      "Profundidades de Midnight: nivel 7 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A07 (saison\u00A02)",
+      "Вылазки Midnight: 7-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 7 (Saison 2)",
+      "Imersões de Midnight: Grau 7 (Série 2)",
+      "Scorribande di Midnight: Grado 7 (Stagione 2)",
+      "한밤 구렁: 7 레벨 (2 시즌)",
+      "至暗之夜探究：級別7（第2季）",
+      "至暗之夜地下堡：难度7（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 62893,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 8 (Season 2)",
+      "Abismos de Midnight: nivel 8 (temporada 2)",
+      "Imersões de Midnight: Grau 8 (Série 2)",
+      "Midnight Delves: Tier 8 (Season 2)",
+      "Profundidades de Midnight: nivel 8 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A08 (saison\u00A02)",
+      "Вылазки Midnight: 8-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 8 (Saison 2)",
+      "Imersões de Midnight: Grau 8 (Série 2)",
+      "Scorribande di Midnight: Grado 8 (Stagione 2)",
+      "한밤 구렁: 8 레벨 (2 시즌)",
+      "至暗之夜探究：級別8（第2季）",
+      "至暗之夜地下堡：难度8（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 62894,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 9 (Season 2)",
+      "Abismos de Midnight: nivel 9 (temporada 2)",
+      "Imersões de Midnight: Grau 9 (Série 2)",
+      "Midnight Delves: Tier 9 (Season 2)",
+      "Profundidades de Midnight: nivel 9 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A09 (saison\u00A02)",
+      "Вылазки Midnight: 9-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 9 (Saison 2)",
+      "Imersões de Midnight: Grau 9 (Série 2)",
+      "Scorribande di Midnight: Grado 9 (Stagione 2)",
+      "한밤 구렁: 9 레벨 (2 시즌)",
+      "至暗之夜探究：級別9（第2季）",
+      "至暗之夜地下堡：难度9（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 62895,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 10 (Season 2)",
+      "Abismos de Midnight: nivel 10 (temporada 2)",
+      "Imersões de Midnight: Grau 10 (Série 2)",
+      "Midnight Delves: Tier 10 (Season 2)",
+      "Profundidades de Midnight: nivel 10 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A010 (saison\u00A02)",
+      "Вылазки Midnight: 10-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 10 (Saison 2)",
+      "Imersões de Midnight: Grau 10 (Série 2)",
+      "Scorribande di Midnight: Grado 10 (Stagione 2)",
+      "한밤 구렁: 10 레벨 (2 시즌)",
+      "至暗之夜探究：級別10（第2季）",
+      "至暗之夜地下堡：难度10（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
+  },
+  {
     "TagId": 62896,
     "TagType": 20,
     "Names": [
@@ -7138,6 +8902,27 @@
       "力量累积"
     ],
     "Media": "ability_fixated_state_blue.jpg"
+  },
+  {
+    "TagId": 62897,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Midnight Delves: Tier 11 (Season 2)",
+      "Abismos de Midnight: nivel 11 (temporada 2)",
+      "Imersões de Midnight: Grau 11 (Série 2)",
+      "Midnight Delves: Tier 11 (Season 2)",
+      "Profundidades de Midnight: nivel 11 (temporada 2)",
+      "Gouffres de Midnight\u00A0: niveau\u00A011 (saison\u00A02)",
+      "Вылазки Midnight: 11-й уровень (2-й сезон)",
+      "Tiefen von Midnight: Stufe 11 (Saison 2)",
+      "Imersões de Midnight: Grau 11 (Série 2)",
+      "Scorribande di Midnight: Grado 11 (Stagione 2)",
+      "한밤 구렁: 11 레벨 (2 시즌)",
+      "至暗之夜探究：級別11（第2季）",
+      "至暗之夜地下堡：难度11（第2赛季）"
+    ],
+    "Media": "ui_delves.jpg"
   },
   {
     "TagId": 62898,
@@ -7308,6 +9093,132 @@
     "Media": "inv_offhand_1h_artifactskulloferedar_d_01.jpg"
   },
   {
+    "TagId": 62911,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rival II: Midnight Season 2",
+      "Rival II: Temporada 2 de Midnight",
+      "Rival II: Série 2 de Midnight",
+      "Rival II: Midnight Season 2",
+      "Rival II: Temporada 2 de Midnight",
+      "Rival/rivale\u00A0II\u00A0: saison\u00A02 de Midnight",
+      "Фаворит II: 2-й сезон Midnight",
+      "Rivale II: Saison 2 von Midnight",
+      "Rival II: Série 2 de Midnight",
+      "Rivale II: Stagione 2 di Midnight",
+      "승부사 II: 한밤 2 시즌",
+      "競爭者II：至暗之夜第2賽季",
+      "竞争者 II：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62912,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Adventurer Mistcrests earned",
+      "Niebloemblemas de aventurero obtenidos",
+      "Brasões Brumosos do Aventureiro obtidos",
+      "Adventurer Mistcrests earned",
+      "Blasones de bruma de aventurero conseguidos",
+      "Écus de brume d’aventure obtenus",
+      "Полученные маревые гербы искателя приключений",
+      "Nebelwappen des Abenteurers verdient",
+      "Brasões Brumosos do Aventureiro obtidos",
+      "Emblemi della Nebbia dell'Avventuriero ottenuti",
+      "모험가 안개문장 획득",
+      "獲得冒險者迷霧紋章",
+      "获得冒险者迷雾纹章"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62913,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Veteran Mistcrests earned",
+      "Niebloemblemas de veterano obtenidos",
+      "Brasões Brumosos do Veterano obtidos",
+      "Veteran Mistcrests earned",
+      "Blasones de bruma de veterano conseguidos",
+      "Écus de brume de vétéran obtenus",
+      "Полученные маревые гербы ветерана",
+      "Nebelwappen des Veteranen verdient",
+      "Brasões Brumosos do Veterano obtidos",
+      "Emblemi della Nebbia del Veterano ottenuti",
+      "노련가 안개문장 획득",
+      "獲得精兵迷霧紋章",
+      "获得老兵迷雾纹章"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62914,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Champion Mistcrests earned",
+      "Niebloemblemas de campeón obtenidos",
+      "Brasões Brumosos do Campeão obtidos",
+      "Champion Mistcrests earned",
+      "Blasones de bruma de campeón conseguidos",
+      "Écus de brume de champion obtenus",
+      "Полученные маревые гербы защитника",
+      "Nebelwappen des Champions verdient",
+      "Brasões Brumosos do Campeão obtidos",
+      "Emblemi della Nebbia del Campione ottenuti",
+      "챔피언 안개문장 획득",
+      "獲得勇士迷霧紋章",
+      "获得勇士迷雾纹章"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62915,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hero Mistcrests earned",
+      "Niebloemblemas de héroe obtenidos",
+      "Brasões Brumosos do Herói obtidos",
+      "Hero Mistcrests earned",
+      "Blasones de bruma de héroe conseguidos",
+      "Écus de brume héroïques obtenus",
+      "Полученные маревые гербы героя",
+      "Nebelwappen des Helden verdient",
+      "Brasões Brumosos do Herói obtidos",
+      "Emblemi della Nebbia dell'Eroe ottenuti",
+      "영웅 안개문장 획득",
+      "獲得英雄迷霧紋章",
+      "获得英雄迷雾纹章"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 62916,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Myth Mistcrests earned",
+      "Niebloemblemas míticos obtenidos",
+      "Brasões Brumosos Míticos obtidos",
+      "Myth Mistcrests earned",
+      "Blasones de bruma de mito conseguidos",
+      "Écus de brume mythiques obtenus",
+      "Полученные маревые гербы эпохи",
+      "Nebelwappen der Mythen verdient",
+      "Brasões Brumosos Míticos obtidos",
+      "Emblemi della Nebbia del Mito ottenuti",
+      "신화 안개문장 획득",
+      "獲得神話迷霧紋章",
+      "获得神话迷雾纹章"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 62917,
     "TagType": 20,
     "Names": [
@@ -7348,6 +9259,258 @@
       "英雄气象异变：奈格塔尔"
     ],
     "Media": "spell_monk_envelopingmist.jpg"
+  },
+  {
+    "TagId": 62921,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Battle Mender: Midnight Season 2",
+      "Ensalmador de batalla: Temporada 2 de Midnight",
+      "Reparador de Batalha: Série 2 de Midnight",
+      "Battle Mender: Midnight Season 2",
+      "Ensalmador de batalla: temporada 2 de Midnight",
+      "Soins de bataille\u00A0: saison\u00A02 de Midnight",
+      "Боевой целитель: 2-й сезон Midnight",
+      "Schlachtenheiler: Saison 2 von Midnight",
+      "Reparador de Batalha: Série 2 de Midnight",
+      "Guaritore da campo: Stagione 2 di Midnight",
+      "전투 치유사: 한밤 2 시즌",
+      "戰鬥修補者：至暗之夜第2賽季",
+      "战斗愈疗者：“至暗之夜”第2赛季"
+    ],
+    "Media": "ability_paladin_blessedmending.jpg"
+  },
+  {
+    "TagId": 62922,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Venomous Gladiator: Midnight Season 2",
+      "Gladiador venenoso: Temporada 2 de Midnight",
+      "Gladiador Peçonhento: Midnight Série 2",
+      "Venomous Gladiator: Midnight Season 2",
+      "Gladiador Venenoso: Temporada 2 de Midnight",
+      "Gladiateur venimeux/gladiatrice venimeuse\u00A0: saison\u00A02 de Midnight",
+      "Ядовитый гладиатор: 2-й сезон Midnight",
+      "Toxischer Gladiator: Saison 2 von Midnight",
+      "Gladiador Peçonhento: Midnight Série 2",
+      "Gladiatore Velenoso: Stagione 2 di Midnight",
+      "맹독을 품은 검투사: 한밤 2 시즌",
+      "劇毒鬥士：至暗之夜第2賽季",
+      "烈毒角斗士：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_07.jpg"
+  },
+  {
+    "TagId": 62923,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Venomous Legend: Midnight Season 2",
+      "Leyenda venenosa: Temporada 2 de Midnight",
+      "Lenda Peçonhenta: Midnight Série 2",
+      "Venomous Legend: Midnight Season 2",
+      "Leyenda Venenosa: Temporada 2 de Midnight",
+      "Légende venimeuse\u00A0: saison\u00A02 de Midnight",
+      "Ядоносная легенда: 2-й сезон Midnight",
+      "Toxische Legende: Saison 2 von Midnight",
+      "Lenda Peçonhenta: Midnight Série 2",
+      "Leggenda Velenosa: Stagione 2 di Midnight",
+      "맹독을 품은 전설: 한밤 2 시즌",
+      "劇毒傳奇：至暗之夜第2賽季",
+      "烈毒传说：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_07.jpg"
+  },
+  {
+    "TagId": 62924,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Venomous Marshal: Midnight Season 2",
+      "Mariscal venenoso: Temporada 2 de Midnight",
+      "Marechal Peçonhento: Midnight Série 2",
+      "Venomous Marshal: Midnight Season 2",
+      "Mariscal Venenoso: Temporada 2 de Midnight",
+      "Maréchal venimeux/maréchale venimeuse\u00A0: saison\u00A02 de Midnight",
+      "Ядовитый маршал: 2-й сезон Midnight",
+      "Toxischer Marschall: Saison 2 von Midnight",
+      "Marechal Peçonhento: Midnight Série 2",
+      "Maresciallo Velenoso: Stagione 2 di Midnight",
+      "맹독을 품은 사령관: 한밤 2 시즌",
+      "劇毒元帥：至暗之夜第2賽季",
+      "烈毒元帅：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_07.jpg"
+  },
+  {
+    "TagId": 62925,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Venomous Warlord: Midnight Season 2",
+      "Señor de la guerra venenoso: Temporada 2 de Midnight",
+      "Senhor da Guerra Peçonhento: Midnight Série 2",
+      "Venomous Warlord: Midnight Season 2",
+      "Señor de la Guerra Venenoso: Temporada 2 de Midnight",
+      "Seigneur de guerre venimeux/dame de guerre venimeuse\u00A0: saison\u00A02 de Midnight",
+      "Ядовитый полководец: 2-й сезон Midnight",
+      "Toxischer Kriegsfürst: Saison 2 von Midnight",
+      "Senhor da Guerra Peçonhento: Midnight Série 2",
+      "Signore della Guerra Velenoso: Stagione 2 di Midnight",
+      "맹독을 품은 대장군: 한밤 2 시즌",
+      "劇毒督軍：至暗之夜第2賽季",
+      "烈毒督军：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_07.jpg"
+  },
+  {
+    "TagId": 62926,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Combatant I: Midnight Season 2",
+      "Combatiente I: Temporada 2 de Midnight",
+      "Combatente I: Série 2 de Midnight",
+      "Combatant I: Midnight Season 2",
+      "Combatiente I: Temporada 2 de Midnight",
+      "Combattant/combattante\u00A0I\u00A0: saison\u00A02 de Midnight",
+      "Боец I: 2-й сезон Midnight",
+      "Kämpfer I: Saison 2 von Midnight",
+      "Combatente I: Série 2 de Midnight",
+      "Combattente I: Stagione 2 di Midnight",
+      "전투원 I: 한밤 2 시즌",
+      "戰鬥者I：至暗之夜第2賽季",
+      "争斗者 I：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62927,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Challenger I: Midnight Season 2",
+      "Contendiente I: Temporada 2 de Midnight",
+      "Desafiante I: Série 2 de Midnight",
+      "Challenger I: Midnight Season 2",
+      "Contendiente I: Temporada 2 de Midnight",
+      "Compétiteur/compétitrice\u00A0I\u00A0: saison\u00A02 de Midnight",
+      "Претендент I: 2-й сезон Midnight",
+      "Herausforderer I: Saison 2 von Midnight",
+      "Desafiante I: Série 2 de Midnight",
+      "Sfidante I: Stagione 2 di Midnight",
+      "도전자 I: 한밤 2 시즌",
+      "挑戰者I：至暗之夜第2賽季",
+      "挑战者 I：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62928,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Rival I: Midnight Season 2",
+      "Rival I: Temporada 2 de Midnight",
+      "Rival I: Série 2 de Midnight",
+      "Rival I: Midnight Season 2",
+      "Rival I: Temporada 2 de Midnight",
+      "Rival/rivale\u00A0I\u00A0: saison\u00A02 de Midnight",
+      "Фаворит I: 2-й сезон Midnight",
+      "Rivale I: Saison 2 von Midnight",
+      "Rival I: Série 2 de Midnight",
+      "Rivale I: Stagione 2 di Midnight",
+      "승부사 I: 한밤 2 시즌",
+      "競爭者I：至暗之夜第2賽季",
+      "竞争者 I：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62929,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Duelist: Midnight Season 2",
+      "Duelista: Temporada 2 de Midnight",
+      "Duelista: Série 2 de Midnight",
+      "Duelist: Midnight Season 2",
+      "Duelista: Temporada 2 de Midnight",
+      "Duelliste\u00A0: saison\u00A02 de Midnight",
+      "Дуэлянт: 2-й сезон Midnight",
+      "Duellant: Saison 2 von Midnight",
+      "Duelista: Série 2 de Midnight",
+      "Duellante: Stagione 2 di Midnight",
+      "결투사: 한밤 2 시즌",
+      "決鬥者：至暗之夜第2賽季",
+      "决斗者：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62930,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Gladiator: Midnight Season 2",
+      "Gladiador: Temporada 2 de Midnight",
+      "Gladiador: Série 2 de Midnight",
+      "Gladiator: Midnight Season 2",
+      "Gladiador: Temporada 2 de Midnight",
+      "Gladiateur/gladiatrice\u00A0: saison\u00A02 de Midnight",
+      "Гладиатор: 2-й сезон Midnight",
+      "Gladiator: Saison 2 von Midnight",
+      "Gladiador: Série 2 de Midnight",
+      "Gladiatore: Stagione 2 di Midnight",
+      "검투사: 한밤 2 시즌",
+      "鬥士：至暗之夜第2賽季",
+      "角斗士：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62931,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Elite: Midnight Season 2",
+      "Élite: Temporada 2 de Midnight",
+      "Elite: Série 2 de Midnight",
+      "Elite: Midnight Season 2",
+      "Élite: Temporada 2 de Midnight",
+      "Élite\u00A0: saison\u00A02 de Midnight",
+      "Ветеран: 2-й сезон Midnight",
+      "Elite: Saison 2 von Midnight",
+      "Elite: Série 2 de Midnight",
+      "Élite: Stagione 2 di Midnight",
+      "정예병: 한밤 2 시즌",
+      "精英：至暗之夜第2賽季",
+      "精锐：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62932,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Legend: Midnight Season 2",
+      "Leyenda: Temporada 2 de Midnight",
+      "Lenda: Série 2 de Midnight",
+      "Legend: Midnight Season 2",
+      "Leyenda: Temporada 2 de Midnight",
+      "Légende\u00A0: saison\u00A02 de Midnight",
+      "Легенда: 2-й сезон Midnight",
+      "Legende: Saison 2 von Midnight",
+      "Lenda: Série 2 de Midnight",
+      "Leggenda: Stagione 2 di Midnight",
+      "전설: 한밤 2 시즌",
+      "傳奇：至暗之夜第2賽季",
+      "传奇：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
   },
   {
     "TagId": 62940,
@@ -7495,5 +9658,131 @@
       "虚空决战解锁：奈格塔尔孢子"
     ],
     "Media": "inv_10_elementalspiritfoozles_decay.jpg"
+  },
+  {
+    "TagId": 62950,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Strategist: Midnight Season 2",
+      "Estratega: Temporada 2 de Midnight",
+      "Estrategista: Série 2 de Midnight",
+      "Strategist: Midnight Season 2",
+      "Estratega: Temporada 2 de Midnight",
+      "Stratège\u00A0: saison\u00A02 de Midnight",
+      "Стратег: 2-й сезон Midnight",
+      "Stratege: Saison 2 von Midnight",
+      "Estrategista: Série 2 de Midnight",
+      "Stratega: Stagione 2 di Midnight",
+      "전략가: 한밤 2 시즌",
+      "戰略專家：至暗之夜第2賽季",
+      "战略专家：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62951,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Combatant II: Midnight Season 2",
+      "Combatiente II: Temporada 2 de Midnight",
+      "Combatente II: Série 2 de Midnight",
+      "Combatant II: Midnight Season 2",
+      "Combatiente II: Temporada 2 de Midnight",
+      "Combattant/combattante\u00A0II\u00A0: saison\u00A02 de Midnight",
+      "Боец II: 2-й сезон Midnight",
+      "Kämpfer II: Saison 2 von Midnight",
+      "Combatente II: Série 2 de Midnight",
+      "Combattente II: Stagione 2 di Midnight",
+      "전투원 II: 한밤 2 시즌",
+      "戰鬥者II：至暗之夜第2賽季",
+      "争斗者 II：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62952,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Challenger II: Midnight Season 2",
+      "Contendiente II: Temporada 2 de Midnight",
+      "Desafiante II: Série 2 de Midnight",
+      "Challenger II: Midnight Season 2",
+      "Contendiente II: Temporada 2 de Midnight",
+      "Compétiteur/compétitrice\u00A0II\u00A0: saison\u00A02 de Midnight",
+      "Претендент II: 2-й сезон Midnight",
+      "Herausforderer II: Saison 2 von Midnight",
+      "Desafiante II: Série 2 de Midnight",
+      "Sfidante II: Stagione 2 di Midnight",
+      "도전자 II: 한밤 2 시즌",
+      "挑戰者II：至暗之夜第2賽季",
+      "挑战者 II：“至暗之夜”第2赛季"
+    ],
+    "Media": "achievement_featsofstrength_gladiator_10.jpg"
+  },
+  {
+    "TagId": 62953,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hero of the Alliance: Venomous",
+      "Héroe de la Alianza: Venenoso",
+      "Herói da Aliança: Peçonhento",
+      "Hero of the Alliance: Venomous",
+      "Héroe de la Alianza: Venenoso",
+      "Héroïsme de l’Alliance\u00A0: venimeux",
+      "Ядовитый герой Альянса",
+      "Held der Allianz: Toxisch",
+      "Herói da Aliança: Peçonhento",
+      "Eroe dell'Alleanza: Velenoso",
+      "맹독을 품은 얼라이언스의 영웅",
+      "聯盟的英雄：劇毒",
+      "联盟英雄：烈毒"
+    ],
+    "Media": "achievement_pvp_a_a.jpg"
+  },
+  {
+    "TagId": 62954,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Hero of the Horde: Venomous",
+      "Héroe de la Horda: Venenoso",
+      "Herói da Horda: Peçonhento",
+      "Hero of the Horde: Venomous",
+      "Héroe de la Horda: Venenoso",
+      "Héroïsme de la Horde\u00A0: venimeux",
+      "Ядовитый герой Орды",
+      "Held der Horde: Toxisch",
+      "Herói da Horda: Peçonhento",
+      "Eroe dell'Orda: Velenoso",
+      "맹독을 품은 호드의 영웅",
+      "部落的英雄：劇毒",
+      "部落英雄：烈毒"
+    ],
+    "Media": "achievement_pvp_h_h.jpg"
+  },
+  {
+    "TagId": 62955,
+    "TagType": 20,
+    "Names": [
+      null,
+      "Venomous Gladiator's Goredrake",
+      "Dracosangre de Gladiador venenoso",
+      "Sanguidraco do Gladiador Peçonhento",
+      "Venomous Gladiator's Goredrake",
+      "Draco sangriento de Gladiador venenoso",
+      "Drake-sang du gladiateur venimeux",
+      "Кроводракон ядовитого гладиатора",
+      "Blutdrache des toxischen Gladiators",
+      "Sanguidraco do Gladiador Peçonhento",
+      "Sanguidraco del Gladiatore Velenoso",
+      "맹독을 품은 검투사의 선혈비룡",
+      "劇毒鬥士血龍",
+      "烈毒角斗士的残虐幼龙"
+    ],
+    "Media": "inv_kaijugladiatormount_green.jpg"
   }
 ]

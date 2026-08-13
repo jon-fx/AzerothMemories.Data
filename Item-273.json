@@ -1,5 +1,47 @@
 [
   {
+    "TagId": 273000,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Corrosive Soul",
+      "Alma corrosiva",
+      "Alma Corrosiva",
+      "Corrosive Soul",
+      "Alma corrosiva",
+      "Âme corrosive",
+      "Разъедающая душа",
+      "Ätzende Seele",
+      "Alma Corrosiva",
+      "Anima Corrosiva",
+      "부식의 영혼",
+      "腐蝕靈魂",
+      "腐蚀灵魂"
+    ],
+    "Media": "inv_ability_poison_orb.jpg"
+  },
+  {
+    "TagId": 273004,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Corrosive Reroll",
+      "Aleatorización corrosiva",
+      "Rolagem Corrosiva",
+      "Corrosive Reroll",
+      "Reasignación corrosiva",
+      "Réattribution corrosive",
+      "Разъедающий сброс",
+      "Ätzende Würfel",
+      "Rolagem Corrosiva",
+      "Modifica Corrosiva",
+      "부식성 새로고침",
+      "腐蝕重骰",
+      "腐蚀重随"
+    ],
+    "Media": "ability_rogue_keepitrolling.jpg"
+  },
+  {
     "TagId": 273013,
     "TagType": 21,
     "Names": [
@@ -40,6 +82,384 @@
       "嚎叫琉璃碎片"
     ],
     "Media": "inv_12_profession_thematicfoozles_moteofpurevoid_blue.jpg"
+  },
+  {
+    "TagId": 273021,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sha-Warped Hippogryph Hatchling",
+      "Prole de hipogrifo transmutada por el sha",
+      "Filhote de Hipogrifo Deformado pelo Sha",
+      "Sha-Warped Hippogryph Hatchling",
+      "Prole de hipogrifo combado de sha",
+      "Jeune hippogriffe déformé par les sha",
+      "Окутанный ша детеныш гиппогрифа",
+      "Sha-verzerrtes Hippogryphenjunges",
+      "Filhote de Hipogrifo Deformado pelo Sha",
+      "Cucciolo di Ippogrifo Distorto dallo Sha",
+      "샤로 뒤틀린 새끼 히포그리프",
+      "煞曲角鷹獸寶寶",
+      "附煞喙鸟"
+    ],
+    "Media": "inv_shabeakypet.jpg"
+  },
+  {
+    "TagId": 273056,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12_profession_blacksmithing_blacksmithingalloys_slumbering.jpg"
+  },
+  {
+    "TagId": 273057,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12_profession_blacksmithing_blacksmithingalloys_slumbering.jpg"
+  },
+  {
+    "TagId": 273059,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hunter's Ritual Stone",
+      "Piedra de ritual de caza",
+      "Pedra Ritual do Caçador",
+      "Hunter's Ritual Stone",
+      "Piedra ritual de cazador",
+      "Pierre rituelle de chasse",
+      "Ритуальный камень охотника",
+      "Ritualstein des Jägers",
+      "Pedra Ritual do Caçador",
+      "Pietra Rituale del Cacciatore",
+      "추적자의 의식용 돌",
+      "獵人儀式石",
+      "猎人仪式石"
+    ],
+    "Media": "inv_12_profession_blacksmithing_weightstone_green.jpg"
+  },
+  {
+    "TagId": 273060,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hunter's Ritual Stone",
+      "Piedra de ritual de caza",
+      "Pedra Ritual do Caçador",
+      "Hunter's Ritual Stone",
+      "Piedra ritual de cazador",
+      "Pierre rituelle de chasse",
+      "Ритуальный камень охотника",
+      "Ritualstein des Jägers",
+      "Pedra Ritual do Caçador",
+      "Pietra Rituale del Cacciatore",
+      "추적자의 의식용 돌",
+      "獵人儀式石",
+      "猎人仪式石"
+    ],
+    "Media": "inv_12_profession_blacksmithing_weightstone_green.jpg"
+  },
+  {
+    "TagId": 273061,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Plans: Hunter's Ritual Stone",
+      "Diseño: piedra de ritual de caza",
+      "Instruções: Pedra Ritual do Caçador",
+      "Plans: Hunter's Ritual Stone",
+      "Diseño: piedra ritual de cazador",
+      "Plans\u00A0: pierre rituelle de chasse",
+      "Чертежи: ритуальный камень охотника",
+      "Pläne: Ritualstein des Jägers",
+      "Instruções: Pedra Ritual do Caçador",
+      "Progetto: Pietra Rituale del Cacciatore",
+      "도면: 사냥꾼의 의식용 돌",
+      "設計圖：獵人儀式石",
+      "设计图：猎人仪式石"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez_color3.jpg"
+  },
+  {
+    "TagId": 273062,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Coiled Snake-Eye",
+      "Ojo de serpiente enrollada",
+      "Olho de Cobra Enrolado",
+      "Coiled Snake-Eye",
+      "Ojo de culebra enroscada",
+      "Œil-de-serpent torsadé",
+      "Спиральный змеиный глаз",
+      "Gewundenes Schlangenauge",
+      "Olho de Cobra Enrolado",
+      "Occhio di Serpente a Spirale",
+      "똬리를 튼 뱀의 눈",
+      "盤繞蛇眼",
+      "盘卷蛇眼"
+    ],
+    "Media": "inv_10_engineering_scope_color3.jpg"
+  },
+  {
+    "TagId": 273063,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Coiled Snake-Eye",
+      "Ojo de serpiente enrollada",
+      "Olho de Cobra Enrolado",
+      "Coiled Snake-Eye",
+      "Ojo de culebra enroscada",
+      "Œil-de-serpent torsadé",
+      "Спиральный змеиный глаз",
+      "Gewundenes Schlangenauge",
+      "Olho de Cobra Enrolado",
+      "Occhio di Serpente a Spirale",
+      "똬리를 튼 뱀의 눈",
+      "盤繞蛇眼",
+      "盘卷蛇眼"
+    ],
+    "Media": "inv_10_engineering_scope_color3.jpg"
+  },
+  {
+    "TagId": 273064,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Schematic: Coiled Snake-Eye",
+      "Esquema: ojo de serpiente enrollada",
+      "Diagrama: Olho de Cobra Enrolado",
+      "Schematic: Coiled Snake-Eye",
+      "Esquema: ojo de culebra enroscada",
+      "Schéma\u00A0: œil-de-serpent torsadé",
+      "Схема: спиральный змеиный глаз",
+      "Bauplan: Gewundenes Schlangenauge",
+      "Diagrama: Olho de Cobra Enrolado",
+      "Schema: Occhio di Serpente a Spirale",
+      "설계도: 똬리를 튼 뱀의 눈",
+      "結構圖：盤繞蛇眼",
+      "结构图：盘卷蛇眼"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez.jpg"
+  },
+  {
+    "TagId": 273065,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Polished Ammolite",
+      "Amolito pulido",
+      "Amolita Polida",
+      "Polished Ammolite",
+      "Amolita pulida",
+      "Ammolite polie",
+      "Полированный аммолит",
+      "Polierter Ammolit",
+      "Amolita Polida",
+      "Ammolite Lucidata",
+      "정련된 암몰라이트",
+      "拋光斑彩石",
+      "抛光斑彩石"
+    ],
+    "Media": "jewelcrafting_cut epic gem_color1.jpg"
+  },
+  {
+    "TagId": 273066,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Polished Ammolite",
+      "Amolito pulido",
+      "Amolita Polida",
+      "Polished Ammolite",
+      "Amolita pulida",
+      "Ammolite polie",
+      "Полированный аммолит",
+      "Polierter Ammolit",
+      "Amolita Polida",
+      "Ammolite Lucidata",
+      "정련된 암몰라이트",
+      "拋光斑彩石",
+      "抛光斑彩石"
+    ],
+    "Media": "inv_jewelcrafting_cut epic gem_color1.jpg"
+  },
+  {
+    "TagId": 273067,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Design: Polished Ammolite",
+      "Diseño: amolito pulido",
+      "Desenho: Amolita Polida",
+      "Design: Polished Ammolite",
+      "Boceto: amolita pulida",
+      "Dessin\u00A0: ammolite polie",
+      "Эскиз: полированный аммолит",
+      "Vorlage: Polierter Ammolit",
+      "Desenho: Amolita Polida",
+      "Modello: Ammolite Lucidata",
+      "디자인: 정련된 암몰라이트",
+      "設計圖：拋光斑彩石",
+      "图鉴：抛光斑彩石"
+    ],
+    "Media": "inv_10_inscription2_scroll2_color1.jpg"
+  },
+  {
+    "TagId": 273068,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adorned Fang",
+      "Colmillo adornado",
+      "Presa Adornada",
+      "Adorned Fang",
+      "Colmillo adornado",
+      "Crochet décoré",
+      "Украшенный клык",
+      "Verzierter Reißzahn",
+      "Presa Adornada",
+      "Zanna Adornata",
+      "치장된 송곳니",
+      "華飾尖牙",
+      "华饰尖牙"
+    ],
+    "Media": "inv_knife_1h_ulatek_d_01.jpg"
+  },
+  {
+    "TagId": 273069,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Adorned Fang",
+      "Colmillo adornado",
+      "Presa Adornada",
+      "Adorned Fang",
+      "Colmillo adornado",
+      "Crochet décoré",
+      "Украшенный клык",
+      "Verzierter Reißzahn",
+      "Presa Adornada",
+      "Zanna Adornata",
+      "치장된 송곳니",
+      "華飾尖牙",
+      "华饰尖牙"
+    ],
+    "Media": "inv_knife_1h_ulatek_d_01.jpg"
+  },
+  {
+    "TagId": 273070,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pattern: Adorned Fang",
+      "Patrón: colmillo adornado",
+      "Molde: Presa Adornada",
+      "Pattern: Adorned Fang",
+      "Patrón: colmillo adornado",
+      "Patron\u00A0: crochet décoré",
+      "Выкройка: украшенный клык",
+      "Muster: Verzierter Reißzahn",
+      "Molde: Presa Adornada",
+      "Modello: Zanna Adornata",
+      "도안: 치장된 송곳니",
+      "圖樣：華飾尖牙",
+      "图样：华饰尖牙"
+    ],
+    "Media": "inv_10_inscription2_scroll2_color5.jpg"
+  },
+  {
+    "TagId": 273071,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Rite of the Hash'ey",
+      "Encantar arma: Rito de los hash'ey",
+      "Encantamento de Rito dos Hash'ey - Arma",
+      "Enchant Weapon - Rite of the Hash'ey",
+      "Encantar arma - Ritual del hash'ey",
+      "Enchantement d’arme – rite des hash’ey",
+      "Чары для оружия – обряд хаш'эй",
+      "Waffe - Ritual der Hash'ey",
+      "Encantamento de Rito dos Hash'ey - Arma",
+      "Incantamento Arma - Rito degli Hash'ey",
+      "무기 마법부여 - 하셰이의 의례",
+      "附魔武器 - 哈謝之儀",
+      "附魔武器 - 哈谢仪式"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 273072,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Enchant Weapon - Rite of the Hash'ey",
+      "Encantar arma: Rito de los hash'ey",
+      "Encantamento de Rito dos Hash'ey - Arma",
+      "Enchant Weapon - Rite of the Hash'ey",
+      "Encantar arma - Ritual del hash'ey",
+      "Enchantement d’arme – rite des hash’ey",
+      "Чары для оружия – обряд хаш'эй",
+      "Waffe - Ritual der Hash'ey",
+      "Encantamento de Rito dos Hash'ey - Arma",
+      "Incantamento Arma - Rito degli Hash'ey",
+      "무기 마법부여 - 하셰이의 의례",
+      "附魔武器 - 哈謝之儀",
+      "附魔武器 - 哈谢仪式"
+    ],
+    "Media": "inv_12_profession_enchanting_enchantedvellum_purple.jpg"
+  },
+  {
+    "TagId": 273073,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Formula: Rite of the Hash'ey",
+      "Fórmula: rito de los hash'ey",
+      "Fórmula: Rito dos Hash'ey",
+      "Formula: Rite of the Hash'ey",
+      "Fórmula: ritual del hash'ey",
+      "Formule\u00A0: rite des hash’ey",
+      "Формула: обряд хаш'эй",
+      "Formel: Ritual der Hash'ey",
+      "Fórmula: Rito dos Hash'ey",
+      "Formula: Rito degli Hash'ey",
+      "주문식: 하셰이의 의례",
+      "公式：哈謝之儀",
+      "公式：哈谢仪式"
+    ],
+    "Media": "inv_10_inscription2_repcontracts_80_scroll_uprez_color1.jpg"
   },
   {
     "TagId": 273126,
@@ -357,6 +777,48 @@
     "Media": "inv_12ve_voidelf_special_scribedesk01_7814986.jpg"
   },
   {
+    "TagId": 273288,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sou'jin Soup",
+      "Sopa de Sou'jin",
+      "Sopa de Sou'jin",
+      "Sou'jin Soup",
+      "Sopa de Sou'jin",
+      "Soupe de Sou’jin",
+      "Суп Су'джина",
+      "Sou'jinsuppe",
+      "Sopa de Sou'jin",
+      "Zuppa di Sou'jin",
+      "소우진 수프",
+      "索金的湯",
+      "索金的汤"
+    ],
+    "Media": "inv_cooking_10_heartystew.jpg"
+  },
+  {
+    "TagId": 273303,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ritual Gem",
+      "Gema de ritual",
+      "Gema Ritualística",
+      "Ritual Gem",
+      "Gema ritual",
+      "Gemme rituelle",
+      "Ритуальный самоцвет",
+      "Ritualedelstein",
+      "Gema Ritualística",
+      "Gemma Rituale",
+      "의식의 보석",
+      "儀式寶石",
+      "仪式宝石"
+    ],
+    "Media": "inv_jewelcrafting_gem_01.jpg"
+  },
+  {
     "TagId": 273307,
     "TagType": 21,
     "Names": [
@@ -378,6 +840,69 @@
     "Media": "trade_alchemy_potiond4.jpg"
   },
   {
+    "TagId": 273311,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_questionmark.jpg"
+  },
+  {
+    "TagId": 273312,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_questionmark.jpg"
+  },
+  {
+    "TagId": 273313,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_questionmark.jpg"
+  },
+  {
     "TagId": 273317,
     "TagType": 21,
     "Names": [
@@ -397,6 +922,48 @@
       "黑水极限烟火火箭"
     ],
     "Media": "inv_rocketmount6_blue.jpg"
+  },
+  {
+    "TagId": 273640,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Condensed Anima Orb",
+      "Orbe de ánima condensada",
+      "Orbe de Ânima Condensado",
+      "Condensed Anima Orb",
+      "Orbe de ánima condensada",
+      "Orbe d’anima condensé",
+      "Сфера сгустившейся анимы",
+      "Kondensierte Animakugel",
+      "Orbe de Ânima Condensado",
+      "Globo d'Animum Condensato",
+      "응축된 령 보주",
+      "濃縮靈魄球體",
+      "女伯爵的猩红水晶球"
+    ],
+    "Media": "inv_12ph_shop_venthyrdecor_globe01_7830790.jpg"
+  },
+  {
+    "TagId": 273649,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stormbound Emblem of Dazar",
+      "Emblema de Dazar vinculado a la tormenta",
+      "Emblema Tempestuoso de Dazar",
+      "Stormbound Emblem of Dazar",
+      "Emblema de Dazar vinculado a la tormenta",
+      "Emblème de Dazar tempétueux",
+      "Штормовой герб Дазара",
+      "Sturmgebundenes Emblem von Dazar",
+      "Emblema Tempestuoso de Dazar",
+      "Emblema Tempestoso di Dazar",
+      "폭풍결속 다자르의 문장",
+      "達薩的颶縛紋章",
+      "达萨的束风纹章"
+    ],
+    "Media": "inv_7_0raid_necklace_14a.jpg"
   },
   {
     "TagId": 273650,
@@ -462,6 +1029,27 @@
     "Media": "inv_rocketmount6_pink.jpg"
   },
   {
+    "TagId": 273655,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sunflare Driftmoth",
+      "Polilla de erupción solar",
+      "Maripante Mancha Solar",
+      "Sunflare Driftmoth",
+      "Vagapolilla erupción solar",
+      "Dérivalène solembrase",
+      "Солнцезарный порхаон",
+      "Sonnenfackeltreibmotte",
+      "Maripante Mancha Solar",
+      "Volafalena Solvampata",
+      "태양불꽃 표류나방",
+      "日焰飄蛾",
+      "日耀流蛾"
+    ],
+    "Media": "inv_mothfluffymount_orange.jpg"
+  },
+  {
     "TagId": 273768,
     "TagType": 21,
     "Names": [
@@ -502,6 +1090,510 @@
       "套装：投掷者的军火"
     ],
     "Media": "inv_quiver_1h_hunter_c_01_darkbrown.jpg"
+  },
+  {
+    "TagId": 273773,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Handwraps of Blasphemous Rites",
+      "Manijas de ritos blasfemos",
+      "Mitenes de Ritos Blasfemos",
+      "Handwraps of Blasphemous Rites",
+      "Manijas de ritos blasfemos",
+      "Protège-mains des rites blasphématoires",
+      "Повязки нечестивых обрядов",
+      "Handwickel der blasphemischen Rituale",
+      "Mitenes de Ritos Blasfemos",
+      "Mitene dei Riti Blasfemi",
+      "불경한 의례의 손등싸개",
+      "褻瀆祭儀裹手",
+      "亵渎仪式裹手"
+    ],
+    "Media": "inv_glove_cloth_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273774,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Snakeskin Spaulders",
+      "Bufas de piel de serpiente",
+      "Espaldares de Couro de Cobra",
+      "Snakeskin Spaulders",
+      "Bufas de piel de serpiente",
+      "Spallières en peau de reptile",
+      "Наплеч из змеиной кожи",
+      "Schlangenhautschiftung",
+      "Espaldares de Couro de Cobra",
+      "Guardaspalle di Pelle di Serpente",
+      "뱀가죽 어깨덮개",
+      "蛇皮肩甲",
+      "蛇皮护肩"
+    ],
+    "Media": "inv_shoulder_leather_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273775,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hydra Scale Wristguards",
+      "Guardamuñecas de escamas de hidra",
+      "Munhequeiras de Escama de Hidra",
+      "Hydra Scale Wristguards",
+      "Guardamuñecas de escamas de hidra",
+      "Garde-poignets en écailles d’hydre",
+      "Нарукавники из чешуи гидры",
+      "Hydraschuppenhandgelenksschützer",
+      "Munhequeiras de Escama de Hidra",
+      "Polsiere Foderate di Scaglie di Idra",
+      "히드라 비늘 손목보호구",
+      "多頭蛇鱗片腕甲",
+      "多头蛇鳞护腕"
+    ],
+    "Media": "inv_bracer_mail_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273776,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancient General's Obsidian Pillars",
+      "Pilares de obsidiana del antiguo general",
+      "Pilares de Obsidiana do Antigo General",
+      "Ancient General's Obsidian Pillars",
+      "Pilares de obsidiana de general anciano",
+      "Piliers d’obsidienne de l’ancien général",
+      "Обсидиановые столпы древнего генерала",
+      "Obsidiansäulen des uralten Generals",
+      "Pilares de Obsidiana do Antigo General",
+      "Pantaloni d'Ossidiana del Generale Antico",
+      "고대 장군의 흑요석 기둥",
+      "古代將軍的黑曜石柱",
+      "远古将军的黑曜石之柱"
+    ],
+    "Media": "inv_pant_plate_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273777,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Poison-Proof Stompers",
+      "Apisonadoras a prueba de veneno",
+      "Pisoteadores à Prova de Veneno",
+      "Poison-Proof Stompers",
+      "Apisonadoras a prueba de veneno",
+      "Croquenots antipoison",
+      "Ядоупорные высокие ботинки",
+      "Giftabweisende Stampfer",
+      "Pisoteadores à Prova de Veneno",
+      "Stivalacci Velenifughi",
+      "독 차단 디딤장화",
+      "防毒踏靴",
+      "防毒踏靴"
+    ],
+    "Media": "inv_boot_plate_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273778,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Polished Lightwood Channeler",
+      "Canalizador de luximadera pulido",
+      "Canalizador de Lumineira Polido",
+      "Polished Lightwood Channeler",
+      "Canalizadora pulida de madera de Luz",
+      "Canalisateur poli en bois clair",
+      "Отполированный светодревный пронзатель",
+      "Polierter Lichtholzkanalisierer",
+      "Canalizador de Lumineira Polido",
+      "Canalizzatore di Chiarolegno Lucidato",
+      "광택 나는 빛나무 역술검",
+      "拋光的光木引導器",
+      "抛光的光木引导杖"
+    ],
+    "Media": "inv_knife_1h_zuljin_d_01.jpg"
+  },
+  {
+    "TagId": 273779,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Nocuous Focal Fang",
+      "Colmillo focal nocivo",
+      "Presa Focal Maléfica",
+      "Nocuous Focal Fang",
+      "Colmillo de foco nocivo",
+      "Crochet focal nocif",
+      "Ядовитый срединный клык",
+      "Schädlicher Fokuszahn",
+      "Presa Focal Maléfica",
+      "Zanna Focale Nociva",
+      "유해한 초점 송곳니",
+      "毒性聚焦之牙",
+      "有害聚焦之牙"
+    ],
+    "Media": "inv_offhand_1h_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273780,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Venom-Etched Crescent",
+      "Media luna grabada con veneno",
+      "Crescente Gravada com Peçonha",
+      "Venom-Etched Crescent",
+      "Hacha curva grabada con veneno",
+      "Croissant gravé au venin",
+      "Разъеденный ядом полумесяц",
+      "Giftzersetzte Sichel",
+      "Crescente Gravada com Peçonha",
+      "Mezzaluna Crescente Sfregiata di Veleno",
+      "맹독새김 초승달 도끼",
+      "猛毒蝕刻新月斧",
+      "毒液蚀刻新月刃"
+    ],
+    "Media": "inv_axe_1h_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273781,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Strand of Warding Fangs",
+      "Collar de colmillos protectores",
+      "Feixe de Presas Protetoras",
+      "Strand of Warding Fangs",
+      "Hebra de colmillos de resguardo",
+      "Tresse de crochets protecteurs",
+      "Ожерелье из клыков-оберегов",
+      "Strang schützender Fangzähne",
+      "Feixe de Presas Protetoras",
+      "Filo di Zanne Protettive",
+      "수호물 송곳니 목줄",
+      "一串結界之牙",
+      "护卫之牙束带"
+    ],
+    "Media": "inv_121_jewelry_neck03_teal.jpg"
+  },
+  {
+    "TagId": 273782,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vile Writhefang Glaive",
+      "Guja de colmillo retorcido vil",
+      "Glaive Pulsigarra Torpe",
+      "Vile Writhefang Glaive",
+      "Guja de colmirretuerto abyecto",
+      "Glaive crochet-tortilleur vil",
+      "Губительная глефа витого клыка",
+      "Abscheuliche Windefangzahngleve",
+      "Glaive Pulsigarra Torpe",
+      "Lama di Zannavvolta Vile",
+      "추악한 격동송곳니 글레이브",
+      "暗邪蛇牙戰刃",
+      "邪恶扭牙长柄战刃"
+    ],
+    "Media": "inv_polearm_2h_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273783,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Toxin-Coated Warstaff",
+      "Bastón de guerra cubierto en toxinas",
+      "Cajado de Guerra Revestido de Toxinas",
+      "Toxin-Coated Warstaff",
+      "Bastón de guerra cubierto de toxinas",
+      "Bâton de guerre imprégné de toxine",
+      "Боевой посох с ядовитым покрытием",
+      "Giftbenetzter Kriegsstab",
+      "Cajado de Guerra Revestido de Toxinas",
+      "Bastone da Guerra Ricoperto di Tossina",
+      "독 바른 전투지팡이",
+      "塗毒戰杖",
+      "涂毒战杖"
+    ],
+    "Media": "inv_staff_2h_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273784,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ancestral Amani Recurve",
+      "Arco corvo amani ancestral",
+      "Arco Recurvo Amani Ancestral",
+      "Ancestral Amani Recurve",
+      "Arco corvo Amani ancestral",
+      "Arc ancestral amani à double courbure",
+      "Аманийский изогнутый лук предков",
+      "Amanidoppelbogen der Ahnen",
+      "Arco Recurvo Amani Ancestral",
+      "Arco Ricurvo degli Amani Ancestrale",
+      "선조의 아마니 곡궁",
+      "祖傳阿曼尼彎弓",
+      "阿曼尼先祖反曲弓"
+    ],
+    "Media": "inv_bow_1h_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273785,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Primordial Robe of Rites",
+      "Toga de ritos primordial",
+      "Veste de Ritos Primordial",
+      "Primordial Robe of Rites",
+      "Toga de ritos primordial",
+      "Robe primordiale des rites",
+      "Первородная ритуальная мантия",
+      "Urzeitliche Ritualrobe",
+      "Veste de Ritos Primordial",
+      "Tonaca Rituale Primordiale",
+      "의식의 원초적 로브",
+      "原初祭儀長袍",
+      "始源仪式法袍"
+    ],
+    "Media": "inv_robe_cloth_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273786,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Leggings of Entwined Serpents",
+      "Leotardos de serpientes enredadas",
+      "Perneiras de Serpentes Entrelaçadas",
+      "Leggings of Entwined Serpents",
+      "Leotardos de sierpes entrelazadas",
+      "Jambières des serpents entrelacés",
+      "Поножи переплетенных змей",
+      "Gamaschen der umschlungenen Schlangen",
+      "Perneiras de Serpentes Entrelaçadas",
+      "Gambiere di Serpenti Intrecciati",
+      "뒤얽힌 뱀의 다리보호구",
+      "交纏之蛇護腿",
+      "蜷曲盘蛇护腿"
+    ],
+    "Media": "inv_pant_cloth_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273787,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Aged Interwoven Scaleplate",
+      "Escamaplaca entretejida añeja",
+      "Placa de Escamas Entrelaçadas Envelhecida",
+      "Aged Interwoven Scaleplate",
+      "Peto de escamas entretejidas curado",
+      "Harnois d’écailles entrelacées usé",
+      "Изношенный нагрудник из переплетенной чешуи",
+      "Gealterte verflochtene Schuppenplatte",
+      "Placa de Escamas Entrelaçadas Envelhecida",
+      "Corazza Invecchiata di Scaglie Intrecciate",
+      "낡은 교직 비늘판금",
+      "老舊的交織鱗鎧",
+      "陈旧的交织鳞甲"
+    ],
+    "Media": "inv_chest_plate_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273789,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Chestguard of Corroded Scales",
+      "Coselete de escamas corroídas",
+      "Couraça de Escamas Corroídas",
+      "Chestguard of Corroded Scales",
+      "Coselete de escamas corroídas",
+      "Corselet d’écailles corrodées",
+      "Нагрудный доспех из разъеденных чешуек",
+      "Brustschutz der zersetzten Schuppen",
+      "Couraça de Escamas Corroídas",
+      "Corazza Foderata di Scaglie Corrose",
+      "부식된 비늘의 가슴보호대",
+      "腐蝕鱗片護胸",
+      "腐蚀鳞片护胸"
+    ],
+    "Media": "inv_chest_mail_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273791,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spare Speaker's Hood",
+      "Caperuza de portavoz de repuesto",
+      "Capuz do Porta-voz Sobressalente",
+      "Spare Speaker's Hood",
+      "Caperuza de portavoz de repuesto",
+      "Chaperon de rechange de parle-loa",
+      "Запасной капюшон говорящего с лоа",
+      "Ersatzkapuze des Sprechers",
+      "Capuz do Porta-voz Sobressalente",
+      "Cappuccio dell'Oratore di Riserva",
+      "여벌 전령의 두건",
+      "備用的語者兜帽",
+      "备用的代言人兜帽"
+    ],
+    "Media": "inv_helm_leather_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273792,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Band of the Amani Warlord",
+      "Sortija del señor de la guerra amani",
+      "Elo do Senhor da Guerra Amani",
+      "Band of the Amani Warlord",
+      "Sortija del señor de la guerra Amani",
+      "Bague du seigneur de guerre amani",
+      "Перстень аманийского вождя",
+      "Band des Kriegsherrn der Amani",
+      "Elo do Senhor da Guerra Amani",
+      "Vera del Signore della Guerra Amani",
+      "아마니 전쟁군주의 고리",
+      "阿曼尼督軍指環",
+      "阿曼尼督军的指环"
+    ],
+    "Media": "inv_121_jewelry_ring02_green.jpg"
+  },
+  {
+    "TagId": 273793,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Hydraspine Twinblade",
+      "Espada gemela hidraspina",
+      "Lâminas Gêmeas de Espinha de Hidra",
+      "Hydraspine Twinblade",
+      "Hoja gemela de espinazo de hidra",
+      "Lames jumelles hydréchines",
+      "Двойной клинок из хребта гидры",
+      "Hydrawirbelzwillingsklinge",
+      "Lâminas Gêmeas de Espinha de Hidra",
+      "Doppialama di Midollo d'Idra",
+      "히드라가시 쌍날검",
+      "多頭蛇之脊雙刃",
+      "多头蛇刺双刃"
+    ],
+    "Media": "inv_glaive_1h_outdooramaniloa_c_01.jpg"
+  },
+  {
+    "TagId": 273794,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Knot of Writhing Serpents",
+      "Nudo de serpientes retorcidas",
+      "Nó de Serpentes Contorcidas",
+      "Knot of Writhing Serpents",
+      "Nudo de sierpes temblorosas",
+      "Nœud de serpents tortueux",
+      "Клубок извивающихся змей",
+      "Knoten sich windender Schlangen",
+      "Nó de Serpentes Contorcidas",
+      "Nodo di Serpenti Frementi",
+      "몸부림치는 뱀의 매듭",
+      "蠕動之蛇繩結",
+      "蠕动毒蛇之结"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_writhe.jpg"
+  },
+  {
+    "TagId": 273795,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Coiled Fangstone",
+      "Petrocolmillo enrollado",
+      "Pedra-presa Retorcida",
+      "Coiled Fangstone",
+      "Colmipiedra enrollada",
+      "Crochepierre torsadée",
+      "Витой камень клыков",
+      "Gekrümmter Fangzahnstein",
+      "Pedra-presa Retorcida",
+      "Pietrazanna a Spirale",
+      "똬리 송곳니석",
+      "盤繞毒牙之石",
+      "盘卷牙石"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_fangstone.jpg"
+  },
+  {
+    "TagId": 273796,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Vile Vial of Volatile Venom",
+      "Vial vil de veneno volátil",
+      "Ampola Torpe de Peçonha Volátil",
+      "Vile Vial of Volatile Venom",
+      "Vial abyecto de veneno volátil",
+      "Fiole ignoble de venin volatil",
+      "Омерзительная обманчивая отрава",
+      "Üble Phiole voll flüchtigem Gift",
+      "Ampola Torpe de Peçonha Volátil",
+      "Fiala Vile di Veleno Instabile",
+      "불안정한 맹독이 담긴 악의의 약병",
+      "不穩定的劇毒污瓶",
+      "一瓶肮脏的烈性毒液"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_vile.jpg"
+  },
+  {
+    "TagId": 273797,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tattered Amani War Banner",
+      "Estandarte de guerra amani andrajoso",
+      "Estandarte de Guerra Amani Esfarrapado",
+      "Tattered Amani War Banner",
+      "Estandarte de guerra Amani ajado",
+      "Bannière de guerre amani en lambeaux",
+      "Изорванное аманийское боевое знамя",
+      "Zerfleddertes Kriegsbanner der Amani",
+      "Estandarte de Guerra Amani Esfarrapado",
+      "Stendardo da Guerra degli Amani Lacero",
+      "너덜너덜한 아마니 전쟁 깃발",
+      "破爛的阿曼尼戰旗",
+      "破损的阿曼尼战旗"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_banner.jpg"
+  },
+  {
+    "TagId": 273818,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_profession_book_herbalism.jpg"
   },
   {
     "TagId": 273831,
@@ -567,6 +1659,27 @@
     "Media": "inv_jewelry_ring_32.jpg"
   },
   {
+    "TagId": 273838,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spirit of Tok'jara",
+      "Espíritu de Tok'jara",
+      "Espírito de Tok'jara",
+      "Spirit of Tok'jara",
+      "Espíritu de Tok'jara",
+      "Esprit de Tok’jara",
+      "Дух Ток'джары",
+      "Geist von Tok'jara",
+      "Espírito de Tok'jara",
+      "Spirito di Tok'jara",
+      "토크자라의 영혼",
+      "托加拉之靈",
+      "托克贾拉的精魂"
+    ],
+    "Media": "ability_hunter_eagleeye.jpg"
+  },
+  {
     "TagId": 273844,
     "TagType": 21,
     "Names": [
@@ -586,6 +1699,27 @@
       "沙加的净化之瓶"
     ],
     "Media": "trade_alchemy.jpg"
+  },
+  {
+    "TagId": 273848,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_monsterscales_04.jpg"
   },
   {
     "TagId": 273855,
@@ -985,5 +2119,47 @@
       "虚空之触日怒长柄斧"
     ],
     "Media": "inv_staff_73.jpg"
+  },
+  {
+    "TagId": 273881,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Anti-Venom Shell",
+      "Coraza contraveneno",
+      "Carapaça Antipeçonha",
+      "Anti-Venom Shell",
+      "Concha antiveneno",
+      "Carapace antivenin",
+      "Панцирь с противоядием",
+      "Antigifthülle",
+      "Carapaça Antipeçonha",
+      "Guscio Antiveleno",
+      "해독 껍질",
+      "抗毒外殼",
+      "抗毒外壳"
+    ],
+    "Media": "ability_monk_healthsphere.jpg"
+  },
+  {
+    "TagId": 273882,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_12_profession_skinning_animalparts_feathers.jpg"
   }
 ]

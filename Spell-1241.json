@@ -3719,19 +3719,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Dark Rift",
-      "Falla oscura",
-      "Fissura Negra",
-      "Dark Rift",
-      "Falla oscura",
-      "Sombre faille",
-      "Разлом Тьмы",
-      "Dunkler Riss",
-      "Fissura Negra",
-      "Fenditura Oscura",
-      "어둠의 균열",
-      "黑暗裂隙",
-      "黑暗裂缝"
+      "Black Hole",
+      "Agujero negro",
+      "Buraco Negro",
+      "Black Hole",
+      "Agujero negro",
+      "Trou noir",
+      "Черная дыра",
+      "Schwarzes Loch",
+      "Buraco Negro",
+      "Buco Nero",
+      "블랙홀",
+      "黑洞",
+      "黑洞"
     ],
     "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
   },
@@ -8499,6 +8499,27 @@
     "Media": "ability_monk_renewingmists.jpg"
   },
   {
+    "TagId": 1241536,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enchanted Slumber",
+      "Sueño encantado",
+      "Sono Encantado",
+      "Enchanted Slumber",
+      "Somnolencia encantada",
+      "Sommeil enchanté",
+      "Чародейская дрема",
+      "Verwunschener Schlummer",
+      "Sono Encantado",
+      "Sonno Incantato",
+      "마법의 잠",
+      "魔法沉睡",
+      "着魔的沉睡"
+    ],
+    "Media": "spell_nature_sleep.jpg"
+  },
+  {
     "TagId": 1241537,
     "TagType": 26,
     "Names": [
@@ -8539,6 +8560,27 @@
       "Convo"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1241539,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Enchanted Slumber",
+      "Sueño encantado",
+      "Sono Encantado",
+      "Enchanted Slumber",
+      "Somnolencia encantada",
+      "Sommeil enchanté",
+      "Чародейская дрема",
+      "Verwunschener Schlummer",
+      "Sono Encantado",
+      "Sonno Incantato",
+      "마법의 잠",
+      "魔法沉睡",
+      "着魔的沉睡"
+    ],
+    "Media": "spell_nature_sleep.jpg"
   },
   {
     "TagId": 1241540,
@@ -15723,19 +15765,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Contract: Amani",
-      "Contrato: Amani",
-      "Contrato: Amani",
-      "Contract: Amani",
-      "Contrato: Amani",
-      "Contrat\u00A0: les Amani",
-      "Контракт с Амани",
-      "Vertrag: Amani",
-      "Contrato: Amani",
-      "Contratto - Amani",
-      "계약서: 아마니",
-      "合約：阿曼尼",
-      "合约：阿曼尼"
+      "Contract: The Amani Tribe",
+      "Contrato: La tribu Amani",
+      "Contrato: A Tribo Amani",
+      "Contract: The Amani Tribe",
+      "Contrato: La Tribu Amani",
+      "Contrat\u00A0: tribu des Amani",
+      "Контракт с племенем Амани",
+      "Vertrag: Der Amanistamm",
+      "Contrato: A Tribo Amani",
+      "Contratto - Tribù Amani",
+      "계약서: 아마니 부족",
+      "合約：阿曼尼部族",
+      "合约：阿曼尼部族"
     ],
     "Media": "inv_10_inscription2_repcontracts_70_professions_scroll_02_uprez.jpg"
   },

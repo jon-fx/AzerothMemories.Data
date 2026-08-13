@@ -487,19 +487,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Cytotoxin",
-      "Citotoxina",
-      "Citotoxina",
-      "Cytotoxin",
-      "Citotoxina",
-      "Cytotoxine",
-      "Цитотоксин",
-      "Zytotoxin",
-      "Citotoxina",
-      "Citotossina",
-      "세포 독소",
-      "細胞毒素",
-      "细胞毒素"
+      "Poison Spit",
+      "Flema de veneno",
+      "Cuspe Venenoso",
+      "Poison Spit",
+      "Flema de veneno",
+      "Crachat de poison",
+      "Ядовитый плевок",
+      "Gift spucken",
+      "Cuspe Venenoso",
+      "Sputo di Veleno",
+      "독액 뱉기",
+      "毒液噴射",
+      "毒素喷吐"
     ],
     "Media": "ability_hunter_cobrastrikes.jpg"
   },
@@ -4889,26 +4889,26 @@
       "土牆",
       "大地之墙"
     ],
-    "Media": "spell_shaman_improvedearthshield.jpg"
+    "Media": "spell_nature_spiritarmor.jpg"
   },
   {
     "TagId": 267257,
     "TagType": 26,
     "Names": [
       null,
-      "Thundering Crash",
-      "Colisión estruendosa",
-      "Colisão Trovejante",
-      "Thundering Crash",
-      "Colisión estridente",
-      "Fracas foudroyant",
-      "Громовой раскат",
-      "Donnerndes Schmettern",
-      "Colisão Trovejante",
-      "Schianto Tonante",
-      "천둥 충돌",
-      "雷霆撞擊",
-      "雷鸣冲坠"
+      "Disruption",
+      "Perturbación",
+      "Perturbação",
+      "Disruption",
+      "Perturbación",
+      "Perturbation",
+      "Разрушение",
+      "Unterbrechen",
+      "Perturbação",
+      "Disturbo",
+      "방해",
+      "干擾",
+      "瓦解"
     ],
     "Media": "ability_thunderking_thunderstruck.jpg"
   },
@@ -5358,21 +5358,21 @@
     "TagType": 26,
     "Names": [
       null,
-      "Spark",
-      "Chispa",
-      "Centelha",
-      "Spark",
-      "Chispa",
-      "Étincelle",
-      "Искра",
-      "Funke",
-      "Centelha",
-      "Scintilla",
-      "불꽃",
-      "電光",
-      "火花"
+      "Spark Step",
+      "Paso de chispa",
+      "Passo Faiscante",
+      "Spark Step",
+      "Paso de chispa",
+      "Pas étincellant",
+      "Искрящийся шаг",
+      "Funkenschritt",
+      "Passo Faiscante",
+      "Passo Scintillante",
+      "불똥 걸음",
+      "火花步伐",
+      "火花步"
     ],
-    "Media": "ability_vehicle_electrocharge.jpg"
+    "Media": "spell_shaman_crashlightning.jpg"
   },
   {
     "TagId": 267288,
@@ -9109,7 +9109,7 @@
       "一穿而過",
       "翻滚"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "ability_monk_clashingoxcharge.jpg"
   },
   {
     "TagId": 267495,

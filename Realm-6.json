@@ -6,6 +6,7 @@
       "US-Dreamscythe (Anniversary)",
       "US-Dreamscythe (Anniversary)",
       "US-Dreamscythe (Anniversary)",
+      "US-Darquimeros (Anniversary)",
       "US-Dreamscythe (Anniversary)",
       "US-Dreamscythe (Anniversary)",
       "US-Dreamscythe (Anniversary)",
@@ -13,10 +14,9 @@
       "US-Dreamscythe (Anniversary)",
       "US-Dreamscythe (Anniversary)",
       "US-Dreamscythe (Anniversary)",
-      "US-Dreamscythe (Anniversary)",
-      "US-Dreamscythe (Anniversary)",
-      "US-Dreamscythe (Anniversary)",
-      "US-Dreamscythe (Anniversary)"
+      "US-드림사이드 (Anniversary)",
+      "US-德姆塞卡爾 (Anniversary)",
+      "US-德姆塞卡尔 (Anniversary)"
     ],
     "Media": "dreamscythe"
   },
@@ -27,6 +27,7 @@
       "US-Nightslayer (Anniversary)",
       "US-Nightslayer (Anniversary)",
       "US-Nightslayer (Anniversary)",
+      "US-Matador Noturno (Anniversary)",
       "US-Nightslayer (Anniversary)",
       "US-Nightslayer (Anniversary)",
       "US-Nightslayer (Anniversary)",
@@ -34,10 +35,9 @@
       "US-Nightslayer (Anniversary)",
       "US-Nightslayer (Anniversary)",
       "US-Nightslayer (Anniversary)",
-      "US-Nightslayer (Anniversary)",
-      "US-Nightslayer (Anniversary)",
-      "US-Nightslayer (Anniversary)",
-      "US-Nightslayer (Anniversary)"
+      "US-밤그림자 (Anniversary)",
+      "US-黑夜殺手 (Anniversary)",
+      "US-夜幕杀手 (Anniversary)"
     ],
     "Media": "nightslayer"
   },
@@ -678,6 +678,7 @@
       "EU-Thunderstrike (Anniversary)",
       "EU-Thunderstrike (Anniversary)",
       "EU-Thunderstrike (Anniversary)",
+      "EU-Golpeforte (Anniversary)",
       "EU-Thunderstrike (Anniversary)",
       "EU-Thunderstrike (Anniversary)",
       "EU-Thunderstrike (Anniversary)",
@@ -685,10 +686,9 @@
       "EU-Thunderstrike (Anniversary)",
       "EU-Thunderstrike (Anniversary)",
       "EU-Thunderstrike (Anniversary)",
-      "EU-Thunderstrike (Anniversary)",
-      "EU-Thunderstrike (Anniversary)",
-      "EU-Thunderstrike (Anniversary)",
-      "EU-Thunderstrike (Anniversary)"
+      "EU-천둥의 일격 (Anniversary)",
+      "EU-雷霆之擊 (Anniversary)",
+      "EU-雷霆打击 (Anniversary)"
     ],
     "Media": "thunderstrike"
   },
@@ -699,6 +699,7 @@
       "EU-Spineshatter (Anniversary)",
       "EU-Spineshatter (Anniversary)",
       "EU-Spineshatter (Anniversary)",
+      "EU-Quebra-espinha (Anniversary)",
       "EU-Spineshatter (Anniversary)",
       "EU-Spineshatter (Anniversary)",
       "EU-Spineshatter (Anniversary)",
@@ -706,10 +707,9 @@
       "EU-Spineshatter (Anniversary)",
       "EU-Spineshatter (Anniversary)",
       "EU-Spineshatter (Anniversary)",
-      "EU-Spineshatter (Anniversary)",
-      "EU-Spineshatter (Anniversary)",
-      "EU-Spineshatter (Anniversary)",
-      "EU-Spineshatter (Anniversary)"
+      "EU-척추 파쇄 (Anniversary)",
+      "EU-碎脊者 (Anniversary)",
+      "EU-碎脊者 (Anniversary)"
     ],
     "Media": "spineshatter"
   },
@@ -1190,9 +1190,9 @@
       "US-Maladath (Anniversary)",
       "US-Maladath (Anniversary)",
       "US-Maladath (Anniversary)",
-      "US-Maladath (Anniversary)",
-      "US-Maladath (Anniversary)",
-      "US-Maladath (Anniversary)"
+      "US-말라다스 (Anniversary)",
+      "US-瑪拉達斯 (Anniversary)",
+      "US-玛拉达斯 (Anniversary)"
     ],
     "Media": "maladath"
   },
@@ -1237,5 +1237,89 @@
       "TW-PROGWOW TW4 GMSS 1 (Anniversary)"
     ],
     "Media": "progwow-tw4-gmss-1"
+  },
+  {
+    "TagId": 6718,
+    "TagType": 4,
+    "Names": [
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner",
+      "US-US1 100 Partner"
+    ],
+    "Media": "us1-100-partner"
+  },
+  {
+    "TagId": 6719,
+    "TagType": 4,
+    "Names": [
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner",
+      "KR-KR1 100 Partner"
+    ],
+    "Media": "kr1-100-partner"
+  },
+  {
+    "TagId": 6720,
+    "TagType": 4,
+    "Names": [
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner",
+      "EU-EU4 100 Partner"
+    ],
+    "Media": "eu4-100-partner"
+  },
+  {
+    "TagId": 6721,
+    "TagType": 4,
+    "Names": [
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner",
+      "TW-TW2 100 Partner"
+    ],
+    "Media": "tw2-100-partner"
   }
 ]

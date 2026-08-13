@@ -210,6 +210,27 @@
     "Media": "inv_glaive_1h_outdoorethereal_c_01.jpg"
   },
   {
+    "TagId": 267045,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Quivering Egg",
+      "Huevo tembloroso",
+      "Ovo Tremelicante",
+      "Quivering Egg",
+      "Huevo tembloroso",
+      "Œuf frémissant",
+      "Подрагивающее яйцо",
+      "Zitterndes Ei",
+      "Ovo Tremelicante",
+      "Uovo Tremolante",
+      "떨리는 알",
+      "顫動的蛋",
+      "颤动的卵"
+    ],
+    "Media": "inv_egg_07.jpg"
+  },
+  {
     "TagId": 267051,
     "TagType": 21,
     "Names": [
@@ -550,19 +571,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Amani Blueflame Chandelier",
+      "Candelabro de llama azul amani",
+      "Lustre de Chamazul Amani",
+      "Amani Blueflame Chandelier",
+      "Candelabro de llamazul Amani",
+      "Chandelier à flamme bleue amani",
+      "Аманийский канделябр синего пламени",
+      "Blauflammenkronleuchter der Amani",
+      "Lustre de Chamazul Amani",
+      "Lampadario di Fiammablu degli Amani",
+      "아마니 푸른 화염 샹들리에",
+      "阿曼尼藍焰吊燈",
+      "阿曼尼蓝焰吊灯"
     ],
     "Media": "inv_12tr_amani_lighting_hex_hangingfire01_7570019.jpg"
   },
@@ -649,6 +670,27 @@
       "创始者之角干草包"
     ],
     "Media": "inv_12ph_elwynn_decor_haybail01_7570015.jpg"
+  },
+  {
+    "TagId": 267085,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Swirling Ectoplasm",
+      "Remolino de ectoplasma",
+      "Ectoplasma Turbilhonante",
+      "Swirling Ectoplasm",
+      "Ectoplasma arremolinado",
+      "Ectoplasme tourbillonnant",
+      "Клубящаяся эктоплазма",
+      "Waberndes Ektoplasma",
+      "Ectoplasma Turbilhonante",
+      "Ectoplasma Turbinante",
+      "휘도는 심령체",
+      "迴旋魂能",
+      "激荡灵质"
+    ],
+    "Media": "spell_frost_wisp.jpg"
   },
   {
     "TagId": 267088,
@@ -756,6 +798,27 @@
     "Media": "inv_12ph_opulent_waterwell01_7568684.jpg"
   },
   {
+    "TagId": 267203,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lush Garden Stable",
+      "Establo de jardín frondoso",
+      "Estábulo do Jardim Verdejante",
+      "Lush Garden Stable",
+      "Establo de jardín exuberante",
+      "Écurie de jardin luxuriant",
+      "Стойла роскошного сада",
+      "Stall des üppigen Gartens",
+      "Estábulo do Jardim Verdejante",
+      "Stalla del Giardino Lussureggiante",
+      "무성한 정원 우리",
+      "繁翠花園獸欄",
+      "葱郁花园兽栏"
+    ],
+    "Media": "inv_12ph_shop_spring_gardengnome_stable01.jpg"
+  },
+  {
     "TagId": 267204,
     "TagType": 21,
     "Names": [
@@ -781,19 +844,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Purified Folk Candle",
+      "Vela campestre purificada",
+      "Vela Artesanal Purificada",
+      "Purified Folk Candle",
+      "Vela popular purificada",
+      "Bougie folklorique purifiée",
+      "Очищенная народная свеча",
+      "Geläuterte volkstümliche Kerze",
+      "Vela Artesanal Purificada",
+      "Candela Folcloristica Purificata",
+      "정화된 민속 양초",
+      "純淨鄉村蠟燭",
+      "净化的质朴蜡烛"
     ],
     "Media": "inv_12ph_folk_candelabra02_7570038.jpg"
   },
@@ -823,21 +886,21 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Amani Territorial Totem",
+      "Tótem territorial amani",
+      "Totem Territorial Amani",
+      "Amani Territorial Totem",
+      "Tótem territorial Amani",
+      "Totem territorial amani",
+      "Аманийский территориальный тотем",
+      "Gebietstotem der Amani",
+      "Totem Territorial Amani",
+      "Totem Territoriale degli Amani",
+      "아마니 영토 토템",
+      "阿曼尼衛地圖騰",
+      "阿曼尼领地图腾"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12tr_amani_defense_territorymarker01_8017260.jpg"
   },
   {
     "TagId": 267208,
@@ -879,7 +942,7 @@
       "打開的虛無精靈睡墊",
       "打开的虚空精灵铺盖"
     ],
-    "Media": "7873241.jpg"
+    "Media": "inv_12ve_voidelf_furniture_bedroll02.jpg"
   },
   {
     "TagId": 267210,
@@ -922,6 +985,27 @@
       "光耀斥候的黄金栅栏"
     ],
     "Media": "inv_12al_armyoflight_defense_weaponrack02_7570736.jpg"
+  },
+  {
+    "TagId": 267233,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Dehydrated Troll Eye Necklace",
+      "Collar de ojos trol deshidratado",
+      "Colar de Olho de Troll Desidratado",
+      "Dehydrated Troll Eye Necklace",
+      "Collar de ojos de trol deshidratados",
+      "Collier aux yeux de Troll desséchés",
+      "Ожерелье из сушеных тролльских глаз",
+      "Halskette aus getrockneten Trollaugen",
+      "Colar de Olho de Troll Desidratado",
+      "Collana di Occhi di Troll Disidratati",
+      "말라붙은 트롤 눈 목걸이",
+      "脫水的食人妖眼睛項鍊",
+      "脱水的巨魔眼球项链"
+    ],
+    "Media": "inv_wand_03.jpg"
   },
   {
     "TagId": 267235,
@@ -1111,6 +1195,27 @@
       "活力恩典"
     ],
     "Media": "spell_azerite_essence08.jpg"
+  },
+  {
+    "TagId": 267245,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_staff_2h_battledungeon_c_03.jpg"
   },
   {
     "TagId": 267252,
@@ -1363,6 +1468,27 @@
       "滴水丝质裹足"
     ],
     "Media": "inv_boot_cloth_questbloodelf_b_01.jpg"
+  },
+  {
+    "TagId": 267269,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fire-Blessed Poultice",
+      "Cataplasma bendecida por el fuego",
+      "Cataplasma Abençoado pelo Fogo",
+      "Fire-Blessed Poultice",
+      "Cataplasma bendecida por el fuego",
+      "Cataplasme béni par le feu",
+      "Компресс огненного благословения",
+      "Feuergesegneter Wickel",
+      "Cataplasma Abençoado pelo Fogo",
+      "Intruglio Benedetto dal Fuoco",
+      "화염의 축복 찜질약",
+      "受火祝福的膏藥",
+      "火佑药膏"
+    ],
+    "Media": "inv_summerfest_firepotion.jpg"
   },
   {
     "TagId": 267270,
@@ -1747,19 +1873,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Purified Elven Mirror",
+      "Espejo élfico purificado",
+      "Espelho Élfico Purificado",
+      "Purified Elven Mirror",
+      "Espejo élfico purificado",
+      "Miroir elfe purifié",
+      "Очищенное эльфийское зеркало",
+      "Geläuterten Elfenspiegel",
+      "Espelho Élfico Purificado",
+      "Specchio Elfico Purificato",
+      "정화된 엘프 거울",
+      "純淨精靈鏡子",
+      "净化的精灵镜子"
     ],
     "Media": "inv_12ph_opulent_mirror_wall01_7579455.jpg"
   },
@@ -1888,6 +2014,69 @@
       "星河候选者的利爪"
     ],
     "Media": "inv_hand_1h_dungeonharronir_c_01.jpg"
+  },
+  {
+    "TagId": 267376,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Jan'alai's Cinder",
+      "Cenizas de Jan'alai",
+      "Cinzal de Jan'alai",
+      "Jan'alai's Cinder",
+      "Cenizas de Jan'alai",
+      "Braise de Jan’alai",
+      "Уголь Джан'алай",
+      "Jan'alais Glut",
+      "Cinzal de Jan'alai",
+      "Brace di Jan'alai",
+      "잔알라이의 잿불",
+      "賈納雷的燼火",
+      "加亚莱的余烬"
+    ],
+    "Media": "inv_trinket_firelands_02.jpg"
+  },
+  {
+    "TagId": 267377,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ula'tek Ritual Monolith",
+      "Monolito ritual de Ula'tek",
+      "Monólito Ritualístico de Ula'tek",
+      "Ula'tek Ritual Monolith",
+      "Monolito ritual de Ula'tek",
+      "Monolithe rituel d’Ula’tek",
+      "Ула'текский ритуальный монолит",
+      "Ritualmonolith von Ula'tek",
+      "Monólito Ritualístico de Ula'tek",
+      "Monolito Rituale di Ula'tek",
+      "울라텍 의식 비석",
+      "烏拉特克儀式石碑",
+      "乌拉特克仪式独石"
+    ],
+    "Media": "inv_12sn_snakeoid_ritual_effigy02_7581349.jpg"
+  },
+  {
+    "TagId": 267378,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Venom Scholar's Focus",
+      "Canalizador de erudito de venenos",
+      "Foco da Erudita Peçonhenta",
+      "Venom Scholar's Focus",
+      "Enfoque de erudita ponzoñosa",
+      "Canalisateur de spécialiste des venins",
+      "Средоточие исследователя ядов",
+      "Fokus des Giftgelehrten",
+      "Foco da Erudita Peçonhenta",
+      "Focus dello Studioso di Veleno",
+      "맹독의 학자 집중 장치",
+      "毒液學者的法器",
+      "毒液学者的聚焦器"
+    ],
+    "Media": "inv_12sn_snakeoid_ritual_trinket01_7581345.jpg"
   },
   {
     "TagId": 267379,
@@ -2293,19 +2482,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Purified Kaldorei Candle",
+      "Vela kaldorei purificada",
+      "Vela Kaldorei Purificada",
+      "Purified Kaldorei Candle",
+      "Vela kaldorei purificada",
+      "Bougie kaldorei purifiée",
+      "Очищенная калдорайская свеча",
+      "Geläuterte Kaldoreikerze",
+      "Vela Kaldorei Purificada",
+      "Candela dei Kaldorei Purificata",
+      "정화된 칼도레이 양초",
+      "純淨卡多雷蠟燭",
+      "净化的卡多雷蜡烛"
     ],
     "Media": "inv_12ph_opulent_candelabra02_7583104.jpg"
   },
@@ -2455,6 +2644,69 @@
       "小蹿蹿枕头"
     ],
     "Media": "inv_10_tailoring2_pillow_purple.jpg"
+  },
+  {
+    "TagId": 267466,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silversun Compact Cape",
+      "Capa del Pacto Solargenta",
+      "Capa do Pacto de Solargento",
+      "Silversun Compact Cape",
+      "Capa del compendio Platasol",
+      "Cape du traité de Solargent",
+      "Плащ Соглашения Серебряного Солнца",
+      "Cape des Silbersonnenabkommens",
+      "Capa do Pacto de Solargento",
+      "Cappa del Patto dei Solargenteo",
+      "은빛 태양 협약 단망토",
+      "銀日契約斗篷",
+      "银日协定披风"
+    ],
+    "Media": "inv_cape_armor_silvermoonbloodelf_b_01_vereesa.jpg"
+  },
+  {
+    "TagId": 267467,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silversun Compact Tabard",
+      "Tabardo del Pacto Solargenta",
+      "Tabardo do Pacto de Solargento",
+      "Silversun Compact Tabard",
+      "Tabardo del compendio Platasol",
+      "Tabard du traité de Solargent",
+      "Гербовая накидка Соглашения Серебряного Солнца",
+      "Wappenrock des Silbersonnenabkommens",
+      "Tabardo do Pacto de Solargento",
+      "Insegna del Patto dei Solargenteo",
+      "은빛 태양 협약 휘장",
+      "銀日契約外袍",
+      "银日协定战袍"
+    ],
+    "Media": "inv_tabard_armor_silvermoonbloodelf_b_01_vereesa.jpg"
+  },
+  {
+    "TagId": 267468,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Silversun Compact Shoulderpads",
+      "Hombreras del Pacto Solargenta",
+      "Ombreiras do Pacto de Solargento",
+      "Silversun Compact Shoulderpads",
+      "Hombreras del compendio Platasol",
+      "Protège-épaules du traité de Solargent",
+      "Наплечники Соглашения Серебряного Солнца",
+      "Schulterpolster des Silbersonnenabkommens",
+      "Ombreiras do Pacto de Solargento",
+      "Spalletti del Patto dei Solargenteo",
+      "은빛 태양 협약 어깨덧대",
+      "銀日契約肩墊",
+      "银日协定护肩"
+    ],
+    "Media": "inv_shoulder_armor_silvermoonbloodelf_b_01_vereesa.jpg"
   },
   {
     "TagId": 267469,
@@ -3407,7 +3659,7 @@
     "Names": [
       null,
       "Dreamrift Vanquisher's Argent Trophy",
-      "Trofeo de argenta del vencedor de Onirifalla",
+      "Trofeo argénteo del vencedor de Onirifalla",
       "Troféu Argênteo do Subjugador da Fenda Onírica",
       "Dreamrift Vanquisher's Argent Trophy",
       "Trofeo argénteo de vencedor de la Falla Onírica",
@@ -3428,7 +3680,7 @@
     "Names": [
       null,
       "March on Quel'Danas Vanquisher's Argent Trophy",
-      "Trofeo de argenta del vencedor de Marcha sobre Quel'Danas",
+      "Trofeo argénteo del vencedor de Marcha sobre Quel'Danas",
       "Troféu Argênteo do Subjugador da Marcha em Quel'Danas",
       "March on Quel'Danas Vanquisher's Argent Trophy",
       "Trofeo argénteo de vencedor de Marcha a Quel'Danas",

@@ -508,18 +508,18 @@
     "TagType": 21,
     "Names": [
       null,
-      "Vaunted Preyseeker's Shoulder-Spikes",
-      "Pinchos de hombros de buscapresa elogiado",
-      "Espinhos de Ombro do Rapinante Célebre",
-      "Vaunted Preyseeker's Shoulder-Spikes",
-      "Hombreras punzantes de buscapresas jactancioso",
-      "Épaulettes à pointes de la Traque vantée",
-      "Шипастые наплечники хваленого охотника",
-      "Schulterstacheln des gerühmten Beutesuchers",
-      "Espinhos de Ombro do Rapinante Célebre",
-      "Guardaspalle Chiodati del Cercaprede Lodato",
-      "추앙받는 사냥감 추적자의 어깨쐐기",
-      "自負尋獵者脊刺肩甲",
+      "Vaunted Preyhunter's Shoulder-Spikes",
+      "Pinchos de hombros de cazapresa elogiado",
+      "Espinhos de Ombro do Rapinador Célebre",
+      "Vaunted Preyhunter's Shoulder-Spikes",
+      "Hombreras punzantes de cazapresas jactancioso",
+      "Épaulettes à pointes de traque-proie illustre",
+      "Шипастые наплечники хваленого загонщика",
+      "Schulterstacheln des gerühmten Beutejägers",
+      "Espinhos de Ombro do Rapinador Célebre",
+      "Guardaspalle Chiodati del Cacciatore di Prede Lodato",
+      "추앙받는 사냥감 수렵가의 어깨쐐기",
+      "自負狩獵者脊刺肩甲",
       "称颂寻猎者的肩刺"
     ],
     "Media": "inv_shoulder_armor_predator_c_01_white.jpg"
@@ -550,18 +550,18 @@
     "TagType": 21,
     "Names": [
       null,
-      "Vaunted Preyseeker's Plumed Helm",
-      "Yelmo emplumado de buscapresa elogiado",
-      "Elmo Emplumado do Rapinante Célebre",
-      "Vaunted Preyseeker's Plumed Helm",
-      "Yelmo emplumado de buscapresas jactancioso",
-      "Heaume à panache de la Traque vantée",
-      "Оперенный шлем хваленого охотника",
-      "Gefiederter Helm des gerühmten Beutesuchers",
-      "Elmo Emplumado do Rapinante Célebre",
-      "Elmo Piumato del Cercaprede Lodato",
-      "추앙받는 사냥감 추적자의 꽁지깃 투구",
-      "自負尋獵者羽盔",
+      "Vaunted Preyhunter's Plumed Helm",
+      "Yelmo emplumado de cazapresa elogiado",
+      "Elmo Emplumado do Rapinador Célebre",
+      "Vaunted Preyhunter's Plumed Helm",
+      "Yelmo emplumado de cazapresas jactancioso",
+      "Heaume à panache de traque-proie illustre",
+      "Оперенный шлем хваленого загонщика",
+      "Gefiederter Helm des gerühmten Beutejägers",
+      "Elmo Emplumado do Rapinador Célebre",
+      "Elmo Piumato del Cacciatore di Prede Lodato",
+      "추앙받는 사냥감 수렵가의 꽁지깃 투구",
+      "自負狩獵者羽盔",
       "称颂寻猎者的羽饰头盔"
     ],
     "Media": "inv_helm_armor_predator_c_01_white.jpg"
@@ -592,18 +592,18 @@
     "TagType": 21,
     "Names": [
       null,
-      "Vaunted Preyseeker's Knapsack",
-      "Morral de buscapresa elogiado",
-      "Mochila do Rapinante Célebre",
-      "Vaunted Preyseeker's Knapsack",
-      "Morral de buscapresas jactancioso",
-      "Fourre-tout de la Traque vantée",
-      "Рюкзак хваленого охотника",
-      "Rucksack des gerühmten Beutesuchers",
-      "Mochila do Rapinante Célebre",
-      "Zaino del Cercaprede Lodato",
-      "추앙받는 사냥감 추적자의 배낭",
-      "自負尋獵者背包",
+      "Vaunted Preyhunter's Knapsack",
+      "Morral de cazapresa elogiado",
+      "Mochila do Rapinador Célebre",
+      "Vaunted Preyhunter's Knapsack",
+      "Morral de cazapresas jactancioso",
+      "Fourre-tout de traque-proie illustre",
+      "Рюкзак хваленого загонщика",
+      "Rucksack des gerühmten Beutejägers",
+      "Mochila do Rapinador Célebre",
+      "Zaino del Cacciatore di Prede Lodato",
+      "추앙받는 사냥감 수렵가의 배낭",
+      "自負狩獵者背包",
       "称颂寻猎者的背包"
     ],
     "Media": "inv_cape_special_predator_c_01_white.jpg"
@@ -796,6 +796,27 @@
       null
     ],
     "Media": "inv_enchanting_dust.jpg"
+  },
+  {
+    "TagId": 258044,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Tarnished Pearl",
+      "Perla deslustrada",
+      "Pérola Manchada",
+      "Tarnished Pearl",
+      "Perla deslustrada",
+      "Perle ternie",
+      "Потускневшая жемчужина",
+      "Befleckte Perle",
+      "Pérola Manchada",
+      "Perla Annerita",
+      "빛바랜 진주",
+      "晦暗的珍珠",
+      "失去光泽的珍珠"
+    ],
+    "Media": "inv_misc_enchantedpearlc.jpg"
   },
   {
     "TagId": 258045,
@@ -1405,6 +1426,27 @@
       "奥格瑞玛浴盆"
     ],
     "Media": "inv_12ph_rugged_bathtub01.jpg"
+  },
+  {
+    "TagId": 258168,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pile of Fish Guts",
+      "Pila de tripas de pescado",
+      "Pilha de Tripas de Peixe",
+      "Pile of Fish Guts",
+      "Montón de tripas de pescado",
+      "Tas de viscères de poisson",
+      "Куча рыбьих потрохов",
+      "Haufen Fischinnereien",
+      "Pilha de Tripas de Peixe",
+      "Mucchio di Viscere di Pesce",
+      "생선 내장 더미",
+      "一堆魚內臟",
+      "一堆鱼内脏"
+    ],
+    "Media": "inv_fishing_innards_guts.jpg"
   },
   {
     "TagId": 258174,
@@ -3504,7 +3546,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_defense_banner03_7969266.jpg"
   },
   {
     "TagId": 258294,
@@ -5674,21 +5716,21 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Purified Troll Ring",
+      "Anillo trol purificado",
+      "Anel Trólico Purificado",
+      "Purified Troll Ring",
+      "Anillo trol purificado",
+      "Anneau troll purifié",
+      "Очищенное тролльское кольцо",
+      "Geläuterter Trollring",
+      "Anel Trólico Purificado",
+      "Anello dei Troll Purificato",
+      "정화된 트롤 반지",
+      "純淨食人妖圓環",
+      "净化的巨魔指环"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_knickknack03_7439735.jpg"
   },
   {
     "TagId": 258541,
@@ -5898,7 +5940,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_hangingrope02_noanim_7439750.jpg"
   },
   {
     "TagId": 258551,
@@ -5919,7 +5961,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_hangingrope03_noanim_7439745.jpg"
   },
   {
     "TagId": 258552,
@@ -5940,7 +5982,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_hangingrope04_noanim_7439762.jpg"
   },
   {
     "TagId": 258553,
@@ -5961,7 +6003,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_hangingrope05_noanim_7439756.jpg"
   },
   {
     "TagId": 258554,
@@ -5982,7 +6024,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_hangingrope08_noanim_7439775.jpg"
   },
   {
     "TagId": 258555,
@@ -6003,7 +6045,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12pm_primitive_decor_hangingrope09_noanim_7439781.jpg"
   },
   {
     "TagId": 258556,
@@ -9552,7 +9594,7 @@
       "軟墊木製長椅",
       "软垫木制长椅"
     ],
-    "Media": "7516317.jpg"
+    "Media": "inv_12ph_folk_bench_long01.jpg"
   },
   {
     "TagId": 258819,

@@ -235,19 +235,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]",
-      "Enchanted Snowflake [PH]"
+      "Enchanted Snowflake",
+      "Copo de nieve encantado",
+      "Floco de Neve Encantado",
+      "Enchanted Snowflake",
+      "Copo de nieve encantado",
+      "Flocon enchanté",
+      "Зачарованная снежинка",
+      "Verzauberte Schneeflocke",
+      "Floco de Neve Encantado",
+      "Fiocco di Neve Incantato",
+      "마력 깃든 눈송이",
+      "附魔雪花",
+      "附魔雪花"
     ],
     "Media": "spell_frost_frostshock.jpg"
   },
@@ -945,6 +945,27 @@
     "Media": "inv_shield_1h_bloodelfguard_d_01.jpg"
   },
   {
+    "TagId": 264241,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Crimson Bow Tie",
+      "Corbata de moño carmesí",
+      "Gravata-borboleta Carmesim",
+      "Crimson Bow Tie",
+      "Pajarita carmesí",
+      "Nœud papillon cramoisi",
+      "Багровый галстук-бабочка",
+      "Blutrote Halsbinde",
+      "Gravata-borboleta Carmesim",
+      "Papillon Cremisi",
+      "진홍빛 나비넥타이",
+      "赤紅領結",
+      "赤红领结"
+    ],
+    "Media": "inv_collections_armor_bowtie_a_01.jpg"
+  },
+  {
     "TagId": 264242,
     "TagType": 21,
     "Names": [
@@ -1558,19 +1579,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Amani Ritual Totem",
+      "Tótem ritual amani",
+      "Totem Ritualístico Amani",
+      "Amani Ritual Totem",
+      "Tótem ritual Amani",
+      "Totem rituel amani",
+      "Аманийский ритуальный тотем",
+      "Ritualtotem der Amani",
+      "Totem Ritualístico Amani",
+      "Totem Rituale degli Amani",
+      "아마니 의식 토템",
+      "阿曼尼儀式圖騰",
+      "阿曼尼仪式图腾"
     ],
     "Media": "inv_12tr_amani_defense_territorymarker_withcandle01_7507168.jpg"
   },
@@ -1615,6 +1636,69 @@
       "载誉冒险者的宝箱"
     ],
     "Media": "inv_misc_treasurechest05b.jpg"
+  },
+  {
+    "TagId": 264275,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Dog House Durotar Roof",
+      "Techo de Durotar de casita de perro para amigo de cuatro patas",
+      "Telhado Durotar de Casa de Cachorro Marauvilhosa",
+      "Paw Pal Dog House Durotar Roof",
+      "Techo de caseta de colega canino de Durotar",
+      "Toit de niche Pattounes et Cie de Durotar",
+      "Дуротарская крыша для конуры Дружка",
+      "Durotardach der Pfotenfreunde-Hundehütte",
+      "Telhado Durotar de Casa de Cachorro Marauvilhosa",
+      "Tetto di Cuccia di Durotar per l'Amico di Zampa",
+      "발바닥 친구 개집 듀로타 지붕",
+      "獸掌夥伴狗屋杜洛塔屋頂",
+      "萌爪伙伴狗屋杜隆塔尔屋顶"
+    ],
+    "Media": "inv_12ph_charity_hfh_doghouse_roof01.jpg"
+  },
+  {
+    "TagId": 264276,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Dog House Eversong Roof",
+      "Techo de Canción Eterna de casita de perro para amigo de cuatro patas",
+      "Telhado Canto Eterno de Casa de Cachorro Marauvilhosa",
+      "Paw Pal Dog House Eversong Roof",
+      "Techo de caseta de colega canino de Canción Eterna",
+      "Toit de niche Pattounes et Cie des Chants éternels",
+      "Крыша Вечной Песни для конуры Дружка",
+      "Immersangdach der Pfotenfreunde-Hundehütte",
+      "Telhado Canto Eterno de Casa de Cachorro Marauvilhosa",
+      "Tetto di Cuccia di Cantoeterno per l'Amico di Zampa",
+      "발바닥 친구 개집 영원노래 숲 지붕",
+      "獸掌夥伴狗屋永歌森林屋頂",
+      "萌爪伙伴狗屋永歌森林屋顶"
+    ],
+    "Media": "inv_12ph_charity_hfh_doghouse_roof02.jpg"
+  },
+  {
+    "TagId": 264277,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Paw Pal Dog House Shadowglen Roof",
+      "Techo de Cañada Umbría de casita de perro para amigo de cuatro patas",
+      "Telhado Umbravale de Casa de Cachorro Marauvilhosa",
+      "Paw Pal Dog House Shadowglen Roof",
+      "Techo de caseta de colega canino de Cañada Umbría",
+      "Toit de niche Pattounes et Cie de Sombrevallon",
+      "Крыша Тенистой долины для конуры Дружка",
+      "Laubschattentaldach der Pfotenfreunde-Hundehütte",
+      "Telhado Umbravale de Casa de Cachorro Marauvilhosa",
+      "Tetto di Cuccia di Vallombra per l'Amico di Zampa",
+      "발바닥 친구 개집 그늘 협곡 지붕",
+      "獸掌夥伴狗屋幽影谷屋頂",
+      "萌爪伙伴狗屋幽影谷屋顶"
+    ],
+    "Media": "inv_12ph_charity_hfh_doghouse_roof04.jpg"
   },
   {
     "TagId": 264278,
@@ -2671,19 +2755,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Amani Wayfarer's Torch",
+      "Antorcha de caminante amani",
+      "Tocha de Viajor Amani",
+      "Amani Wayfarer's Torch",
+      "Antorcha de caminante Amani",
+      "Torche de voyage amani",
+      "Факел аманийского путника",
+      "Fackel des Amaniwanderers",
+      "Tocha de Viajor Amani",
+      "Torcia del Pellegrino Amani",
+      "아마니 나그네의 횃불",
+      "阿曼尼旅人火炬",
+      "阿曼尼旅者火炬"
     ],
     "Media": "inv_12tr_amani_lighting_torch01_7509040.jpg"
   },
@@ -8924,6 +9008,27 @@
     "Media": "inv_12ph_misc_murlocplush01_peach.jpg"
   },
   {
+    "TagId": 264692,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Lush Garden Window",
+      "Ventana de jardín frondoso",
+      "Janela do Jardim Verdejante",
+      "Lush Garden Window",
+      "Ventana de jardín exuberante",
+      "Fenêtre de jardin luxuriant",
+      "Окно роскошного сада",
+      "Fenster des üppigen Gartens",
+      "Janela do Jardim Verdejante",
+      "Finestra del Giardino Lussureggiante",
+      "무성한 정원 창문",
+      "繁翠花園窗戶",
+      "葱郁花园窗户"
+    ],
+    "Media": "inv_12ph_shop_spring_gardengnome_window01.jpg"
+  },
+  {
     "TagId": 264694,
     "TagType": 21,
     "Names": [
@@ -8966,6 +9071,69 @@
     "Media": "inv_112_raidtrinkets_blobofswirlingvoid_purple.jpg"
   },
   {
+    "TagId": 264696,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Yl'mul's Skull",
+      "Calavera de Yl'mul",
+      "Crânio de Yl'mul",
+      "Yl'mul's Skull",
+      "Cráneo de Yl'mul",
+      "Crâne d’Yl’mul",
+      "Череп Иль'мула",
+      "Yl'muls Schädel",
+      "Crânio de Yl'mul",
+      "Teschio di Yl'mul",
+      "일물의 두개골",
+      "伊爾穆的顱骨",
+      "伊尔穆尔的头骨"
+    ],
+    "Media": "inv_misc_bone_humanskull_02.jpg"
+  },
+  {
+    "TagId": 264697,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Yl'mul's Other Arm",
+      "El otro brazo de Yl'mul",
+      "Outro Braço de Yl'mul",
+      "Yl'mul's Other Arm",
+      "Otro brazo de Yl'mul",
+      "Autre bras d’Yl’mul",
+      "Вторая рука Йи'мула",
+      "Yl'muls anderer Arm",
+      "Outro Braço de Yl'mul",
+      "Altro Braccio di Yl'mul",
+      "일물의 다른 팔",
+      "伊爾穆的另一隻手臂",
+      "伊尔穆尔的另一只手臂"
+    ],
+    "Media": "inv_skeletonhandpet_bone.jpg"
+  },
+  {
+    "TagId": 264698,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Yl'mul's Ribcage",
+      "Caja torácica de Yl'mul",
+      "Caixa Torácica de Yl'mul",
+      "Yl'mul's Ribcage",
+      "Costillas de Yl'mul",
+      "Cage thoracique d’Yl’mul",
+      "Грудная клетка Иль'мула",
+      "Yl'muls Brustkorb",
+      "Caixa Torácica de Yl'mul",
+      "Cassa Toracica di Yl'mul",
+      "일물의 흉곽",
+      "伊爾穆的肋骨架",
+      "伊尔穆尔的肋骨"
+    ],
+    "Media": "inv_misc_bone_02.jpg"
+  },
+  {
     "TagId": 264701,
     "TagType": 21,
     "Names": [
@@ -8985,6 +9153,27 @@
       "星界响铃"
     ],
     "Media": "inv_11_0_arathordungeon_bell_color4.jpg"
+  },
+  {
+    "TagId": 264704,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sea Creature Meat",
+      "Carne de criatura marina",
+      "Carne de Criatura Marinha",
+      "Sea Creature Meat",
+      "Carne de criatura marina",
+      "Viande de créature marine",
+      "Мясо морской твари",
+      "Fleisch einer Meereskreatur",
+      "Carne de Criatura Marinha",
+      "Carne di Creatura Marina",
+      "바다 생물 고기",
+      "海洋生物的肉",
+      "海洋生物肉"
+    ],
+    "Media": "inv_fishing_innards_meat_sleeper.jpg"
   },
   {
     "TagId": 264705,
@@ -9201,19 +9390,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Hexed Tomb Brazier",
+      "Brasero de tumba embrujado",
+      "Braseiro de Tumba Bagateado",
+      "Hexed Tomb Brazier",
+      "Blandón de tumba embrujada",
+      "Brasero de tombe maléficié",
+      "Проклятая жаровня из гробницы",
+      "Verhexte Grabeskohlenpfanne",
+      "Braseiro de Tumba Bagateado",
+      "Braciere Tombale Maledetto",
+      "사술 무덤 화로",
+      "妖術墳墓火盆",
+      "妖术陵墓火盆"
     ],
     "Media": "inv_12tr_amani_lighting_hex_brazier01_7517842.jpg"
   },
@@ -9318,7 +9507,7 @@
       "Vetrinetta di Reperti Propizia",
       "상서로운 수집품 전시대",
       "吉祥古董展示櫃",
-      "祥瑞珍玩博古架"
+      "陈宝博古架"
     ],
     "Media": "inv_12ph_shop_lunarnewyear_curioshelf01_7519078.jpg"
   },
@@ -9339,7 +9528,7 @@
       "Scrivania del Mastro Scriba Propizia",
       "상서로운 잉크장인의 책상",
       "吉祥水墨大師畫桌",
-      "祥瑞铭文师书桌"
+      "条案端景台"
     ],
     "Media": "inv_12ph_shop_lunarnewyear_sidetable01_7519084.jpg"
   },
@@ -9360,7 +9549,7 @@
       "Albero della Fortuna Propizio",
       "상서로운 행운의 나무",
       "收集吉祥發財樹",
-      "祥瑞摇钱树"
+      "发财树"
     ],
     "Media": "inv_12ph_shop_lunarnewyear_moneytree01_7519074.jpg"
   },
@@ -9381,7 +9570,7 @@
       "Lanterna a Carpa Dorata Propizia",
       "상서로운 황금 잉어 등불",
       "吉祥金鯉魚燈籠",
-      "祥瑞金鲤灯笼"
+      "锦绣金鲤灯"
     ],
     "Media": "inv_12ph_shop_lunarnewyear_lantern01_7519087.jpg"
   },
@@ -9402,7 +9591,7 @@
       "Leone Imperiale Propizio",
       "상서로운 황실 사자",
       "吉祥帝國之獅",
-      "祥瑞皇家石狮"
+      "守望者石狮·镇"
     ],
     "Media": "inv_12ph_shop_lunarnewyear_stonelion01_7519081.jpg"
   },
@@ -9938,13 +10127,13 @@
       null,
       "Focused Netherslicer",
       "Rebanaabismos concentrada",
-      "Fatiados Etéreo Concentrado",
+      "Fatiador Etéreo Concentrado",
       "Focused Netherslicer",
       "Cercenadora abisal enfocada",
       "Tranche-Néant focalisée",
       "Сосредоточенный рассекатель Пустоты",
       "Fokussierter Netherschlitzer",
-      "Fatiados Etéreo Concentrado",
+      "Fatiador Etéreo Concentrado",
       "Fendifatuo Concentrato",
       "집중된 황천절단검",
       "集中的虛空切割者",
@@ -9992,7 +10181,7 @@
       "華麗的地底桌子",
       "精美的地下桌子"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_table02_7521716.jpg"
   },
   {
     "TagId": 264916,
@@ -10034,7 +10223,7 @@
       "陶瓷洛姆碗",
       "陶瓷峈姆碗"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_food10_7521694.jpg"
   },
   {
     "TagId": 264918,
@@ -10055,7 +10244,7 @@
       "扎拉萊克蠟燭",
       "查拉雷克蜡烛"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_light06_7521703.jpg"
   },
   {
     "TagId": 264919,
@@ -10076,7 +10265,7 @@
       "洛姆拱門",
       "峈姆拱门"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_doorway01_7521721.jpg"
   },
   {
     "TagId": 264920,
@@ -10097,7 +10286,7 @@
       "黏答答的鼴鼠人罐",
       "黏糊糊的鼹鼠人罐子"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_pot04_7521696.jpg"
   },
   {
     "TagId": 264921,
@@ -10118,7 +10307,7 @@
       "扎拉萊克蝸牛推車",
       "查拉雷克蜗牛货车"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_cart01_7521727.jpg"
   },
   {
     "TagId": 264922,
@@ -10139,7 +10328,7 @@
       "強烈好好聞薰香",
       "浓烈的嗅探熏香"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_incense01_7521706.jpg"
   },
   {
     "TagId": 264923,
@@ -10160,7 +10349,7 @@
       "不怎麼華麗的地底桌子",
       "简约的地下桌子"
     ],
-    "Media": "7521718.jpg"
+    "Media": "inv_10mp_molepeople_table_notablerunner01.jpg"
   },
   {
     "TagId": 264924,
@@ -10181,7 +10370,7 @@
       "洛姆車輪陶罐",
       "峈姆转轮陶器"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_10mp_wheelbarrow02_7521708.jpg"
   },
   {
     "TagId": 264925,

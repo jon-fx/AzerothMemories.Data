@@ -8383,19 +8383,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Amani Water Well",
+      "Pozo de agua amani",
+      "Poço Amani",
+      "Amani Water Well",
+      "Pozo de agua Amani",
+      "Puits amani",
+      "Аманийский колодец",
+      "Brunnen der Amani",
+      "Poço Amani",
+      "Sorgente d'Acqua degli Amani",
+      "아마니 우물",
+      "阿曼尼水井",
+      "阿曼尼水井"
     ],
     "Media": "inv_12tr_amani_structure_fountain02_7425725.jpg"
   },
@@ -8446,19 +8446,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Purified Troll Loop",
+      "Aro trol purificado",
+      "Aro Trólico Purificado",
+      "Purified Troll Loop",
+      "Aro trol purificado",
+      "Jonc troll purifié",
+      "Очищенный тролльский перстень",
+      "Geläuterte Trollschleife",
+      "Aro Trólico Purificado",
+      "Fede dei Troll Purificata",
+      "정화된 트롤 실반지",
+      "純淨食人妖戒環",
+      "净化的巨魔圆环"
     ],
     "Media": "inv_12pm_primitive_decor_knickknack04_7425737.jpg"
   },
@@ -8925,6 +8925,27 @@
     "Media": "inv_10_tailoring_bag1_color4.jpg"
   },
   {
+    "TagId": 255702,
+    "TagType": 21,
+    "Names": [
+      null,
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse",
+      "[PH] Snake Corpse"
+    ],
+    "Media": "inv_10_skinning_scales_green.jpg"
+  },
+  {
     "TagId": 255703,
     "TagType": 21,
     "Names": [
@@ -9097,19 +9118,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Purified Ancient Urn",
+      "Urna ancestral purificada",
+      "Urna Antiga Purificada",
+      "Purified Ancient Urn",
+      "Urna antigua purificada",
+      "Urne antique purifiée",
+      "Очищенная древняя урна",
+      "Geläuterte antike Urne",
+      "Urna Antiga Purificada",
+      "Urna Antica Purificata",
+      "정화된 고대 항아리",
+      "純淨古甕",
+      "净化的远古骨灰瓮"
     ],
     "Media": "inv_12pm_primitive_storage_urn02_7425789.jpg"
   },
@@ -9553,6 +9574,27 @@
       "搏击冠军的手套"
     ],
     "Media": "inv_12ph_brawlersguild_brawlersgloves01.jpg"
+  },
+  {
+    "TagId": 255841,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "ability_racial_wardoftheloafire.jpg"
   },
   {
     "TagId": 255842,

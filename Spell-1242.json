@@ -2877,6 +2877,27 @@
     "Media": "ability_evoker_oppressingroar2.jpg"
   },
   {
+    "TagId": 1242160,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dawnwell Aftermath",
+      "Secuelas de la Fuente del Alba",
+      "Consequência da Nascente da Aurora",
+      "Dawnwell Aftermath",
+      "Secuelas de La Fuente del Alba",
+      "Séquelles du Puits de l’aube",
+      "Последствия Рассветного Колодца",
+      "Nachwirkung des Morgenbrunnens",
+      "Consequência da Nascente da Aurora",
+      "Conseguenze del Pozzo dell'Alba",
+      "여명샘 후폭풍",
+      "晨曦之井餘波",
+      "曙光之井余波"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1242161,
     "TagType": 26,
     "Names": [
@@ -4918,19 +4939,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Reawakening",
-      "Resucitación",
-      "Novo Despertar",
-      "Reawakening",
-      "Nuevo despertar",
-      "Régénérescence",
-      "Новое пробуждение",
-      "Wiedererwachen",
-      "Novo Despertar",
-      "Risveglio",
-      "재각성",
-      "再度甦醒",
-      "再度觉醒"
+      "Lord of the Dead",
+      "Señor de los muertos",
+      "Senhor dos Mortos",
+      "Lord of the Dead",
+      "Señor de los muertos",
+      "Seigneur de la mort",
+      "Владыка мертвых",
+      "Herr der Toten",
+      "Senhor dos Mortos",
+      "Signore dei Morti",
+      "죽은 자의 군주",
+      "死亡領主",
+      "亡者之主"
     ],
     "Media": "spell_shadow_demoniccirclesummon.jpg"
   },
@@ -5107,19 +5128,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Ritual_Crystal01_Floating.m2"
+      "Collect Grand Aethercharged Crystal",
+      "Recoger cristal etercargado grande",
+      "Coletar Cristal Carregado de Aéter Grandioso",
+      "Collect Grand Aethercharged Crystal",
+      "Añadir cristal cargado de éter grandioso",
+      "Récupérer un grand cristal chargé d’éther",
+      "Получить великий эфирный кристалл",
+      "Großen Ätherkristall sammeln",
+      "Coletar Cristal Carregado de Aéter Grandioso",
+      "Raccolta Cristallo Etercaricato Maestoso",
+      "장엄한 에테르 충전 수정 획득",
+      "收集宏偉蒼穹充能水晶",
+      "收集宏伟以太充能水晶"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -8796,6 +8817,27 @@
       "暗渊狂虫"
     ],
     "Media": "inv_enchant_essencecosmicgreater.jpg"
+  },
+  {
+    "TagId": 1242592,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Dawnwell",
+      "La Fuente del Alba",
+      "A Nascente da Aurora",
+      "The Dawnwell",
+      "La Fuente del Alba",
+      "Le Puits de l’aube",
+      "Рассветный Колодец",
+      "Der Morgenbrunnen",
+      "A Nascente da Aurora",
+      "Pozzo dell'Alba",
+      "여명샘",
+      "晨曦之井",
+      "曙光之井"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1242593,
@@ -12907,7 +12949,7 @@
       "Verschiebung",
       "Deslocar",
       "Trasferimento",
-      "변환",
+      "위치 변환",
       "轉移",
       "变换"
     ],

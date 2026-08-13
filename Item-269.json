@@ -168,6 +168,27 @@
     "Media": "inv_elemental_mote_life01.jpg"
   },
   {
+    "TagId": 269012,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sha-Warped Riding Wolf",
+      "Lobo de montar transmutado por el sha",
+      "Lobo de Montaria Deformado pelo Sha",
+      "Sha-Warped Riding Wolf",
+      "Lobo de montar combado de sha",
+      "Loup de monte déformé par les sha",
+      "Окутанный ша верховой волк",
+      "Sha-verzerrter Reitwolf",
+      "Lobo de Montaria Deformado pelo Sha",
+      "Lupo Cavalcabile Distorto dallo Sha",
+      "샤로 뒤틀린 길들인 늑대",
+      "煞曲騎乘狼",
+      "附煞座狼"
+    ],
+    "Media": "inv_shawolfmount.jpg"
+  },
+  {
     "TagId": 269014,
     "TagType": 21,
     "Names": [
@@ -187,6 +208,69 @@
       null
     ],
     "Media": "inv_sword_1h_kaldoreimoonglaive_c_01.jpg"
+  },
+  {
+    "TagId": 269019,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Amani Construction Hammer",
+      "Martillo de construcción amani",
+      "Martelo de Construção Amani",
+      "Amani Construction Hammer",
+      "Martillo de construcción Amani",
+      "Marteau de chantier amani",
+      "Аманийский строительный молоток",
+      "Bauhammer der Amani",
+      "Martelo de Construção Amani",
+      "Martello da Costruzione degli Amani",
+      "아마니 공사용 망치",
+      "阿曼尼施工錘",
+      "阿曼尼建筑锤"
+    ],
+    "Media": "inv_12tr_amani_crafting_hammer01.jpg"
+  },
+  {
+    "TagId": 269020,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Scrimshaw Ward",
+      "Resguardo tallaósea",
+      "Proteção de Osso Talhado",
+      "Scrimshaw Ward",
+      "Resguardo para tallar",
+      "Protection sculptivoire",
+      "Резной оберег",
+      "Geschnitzter Zauberschutz",
+      "Proteção de Osso Talhado",
+      "Protezione Intagliata",
+      "뼈새김 수호물",
+      "牙雕結界",
+      "牙雕结界"
+    ],
+    "Media": "inv_weapon_crossbow_22.jpg"
+  },
+  {
+    "TagId": 269021,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Jan'alai Bibelot",
+      "Bibelot de Jan'alai",
+      "Bibelô de Jan'alai",
+      "Jan'alai Bibelot",
+      "Bibelot de Jan'alai",
+      "Bibelot de Jan’alai",
+      "Кулон Джан'алай",
+      "Jan'alais Nippes",
+      "Bibelô de Jan'alai",
+      "Soprammobile di Jan'alai",
+      "잔알라이 공예품",
+      "賈納雷裝飾小物",
+      "加亚莱小饰品"
+    ],
+    "Media": "inv_qirajidol_sun.jpg"
   },
   {
     "TagId": 269022,
@@ -250,6 +334,27 @@
       "炭爪"
     ],
     "Media": "inv_babyeversonglynx_brown.jpg"
+  },
+  {
+    "TagId": 269029,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bag of Totally Legitimate Amani Goods",
+      "Bolsa de bienes amani completamente legítimos",
+      "Bolsa de Mercadorias Amani Absolutamente Legítimas",
+      "Bag of Totally Legitimate Amani Goods",
+      "Bolsa de bienes Amani completamente legales",
+      "Sac d’authentiques marchandises amani",
+      "Сумка абсолютно настоящих аманийских товаров",
+      "Tasche voller eindeutig legaler Amaniwaren",
+      "Bolsa de Mercadorias Amani Absolutamente Legítimas",
+      "Borsa di Oggetti degli Amani Assolutamente Legittimi",
+      "지극히 합법적인 아마니 물품 자루",
+      "一袋幾乎合法的阿曼尼貨物",
+      "一袋绝对合法的阿曼尼商品"
+    ],
+    "Media": "ability_racial_rummageyourbag.jpg"
   },
   {
     "TagId": 269234,
@@ -1572,7 +1677,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12dur_durotar_main_tree_succulentpalm_b02_7700788.jpg"
   },
   {
     "TagId": 269363,
@@ -1593,7 +1698,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12dur_durotar_main_tree_succulentpalm_b03_7700792.jpg"
   },
   {
     "TagId": 269364,
@@ -1614,7 +1719,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12dur_durotar_main_tree_succulentpalm_b04_7700795.jpg"
   },
   {
     "TagId": 269365,
@@ -1635,7 +1740,7 @@
       null,
       null
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12dur_durotar_main_tree_succulentpalm_b05_7700798.jpg"
   },
   {
     "TagId": 269366,
@@ -4137,6 +4242,27 @@
     "Media": "garrison_building_storehouse.jpg"
   },
   {
+    "TagId": 269578,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Poison Dart Frog Gland",
+      "Glándula de rana dardo venenoso",
+      "Glândula de Rã-ponta-de-flecha",
+      "Poison Dart Frog Gland",
+      "Glándula de rana flecha venenosa",
+      "Glande de grenouille venimeuse",
+      "Железа ядовитой попрыгушки",
+      "Pfeilgiftfroschdrüse",
+      "Glândula de Rã-ponta-de-flecha",
+      "Ghiandola di Rana Dardo di Veleno",
+      "독화살 개구리 분비샘",
+      "箭毒蛙腺體",
+      "剧毒箭蛙腺体"
+    ],
+    "Media": "inv_11_0_misc_organmass_color3.jpg"
+  },
+  {
     "TagId": 269586,
     "TagType": 21,
     "Names": [
@@ -4746,6 +4872,48 @@
     "Media": "inv_12ph_bloodelf_decor_cookware_pot01_lid_7709578.jpg"
   },
   {
+    "TagId": 269637,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Serpent-Caller Spike",
+      "Púa de llamaserpientes",
+      "Espeto Chama-serpentes",
+      "Serpent-Caller Spike",
+      "Pilar clamasierpes",
+      "Pointe mande-serpent",
+      "Кол призывателя змей",
+      "Schlangenruferstachel",
+      "Espeto Chama-serpentes",
+      "Spuntone dell'Evocaserpenti",
+      "뱀소환사 가시",
+      "喚蛇者尖柱",
+      "唤蛇者尖刺"
+    ],
+    "Media": "inv_12sn_snakeoid_ritual_pole01_7710008.jpg"
+  },
+  {
+    "TagId": 269640,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Sha-Warped Owl",
+      "Búho transmutado por el sha",
+      "Coruja Deformada pelo Sha",
+      "Sha-Warped Owl",
+      "Búho combado de sha",
+      "Chouette déformée par les sha",
+      "Окутанная ша сова",
+      "Sha-verzerrte Eule",
+      "Coruja Deformada pelo Sha",
+      "Gufo Distorto dallo Sha",
+      "샤로 뒤틀린 올빼미",
+      "煞曲貓頭鷹",
+      "附煞猫头鹰"
+    ],
+    "Media": "inv_shaowlmount.jpg"
+  },
+  {
     "TagId": 269641,
     "TagType": 21,
     "Names": [
@@ -4893,6 +5061,27 @@
     "Media": "inv_paragoncache_rustboltresistance.jpg"
   },
   {
+    "TagId": 269720,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Corrosive Hekte",
+      "Hekte corrosivo",
+      "Hekte Corrosivo",
+      "Corrosive Hekte",
+      "Hekte corrosivo",
+      "Hekte corrosif",
+      "Разъедающая гекта",
+      "Ätzende Hekte",
+      "Hekte Corrosivo",
+      "Hekte Corrosivo",
+      "부식성 헥테",
+      "腐蝕赫克特",
+      "腐蚀赫克特"
+    ],
+    "Media": "inv_misc_gem_emeraldrough_02.jpg"
+  },
+  {
     "TagId": 269743,
     "TagType": 21,
     "Names": [
@@ -4960,15 +5149,15 @@
     "TagType": 21,
     "Names": [
       null,
-      "Nunchuck of the Artisan",
-      "Nunchaku de artesano",
-      "Nunchaku do Artesão",
-      "Nunchuck of the Artisan",
+      "Nunchucks of the Artisan",
+      "Nunchakus de artesano",
+      "Nunchakus do Artesão",
+      "Nunchucks of the Artisan",
       "Nunchaku del artesano",
       "Nunchaku artisanal",
       "Нунчаки умельца",
-      "Nunchaku des Kunsthandwerkers",
-      "Nunchaku do Artesão",
+      "Nunchakus des Kunsthandwerkers",
+      "Nunchakus do Artesão",
       "Nunchaku Artigianali",
       "장인의 쌍절곤",
       "工匠雙節棍",
@@ -5002,15 +5191,15 @@
     "TagType": 21,
     "Names": [
       null,
-      "Offhand Artisan Nunchuck",
-      "Nunchaku de artesano para mano izquierda",
-      "Nunchaku de Artesão de Mão Secundária",
-      "Offhand Artisan Nunchuck",
+      "Offhand Artisan Nunchucks",
+      "Nunchakus de artesano para mano izquierda",
+      "Nunchakus de Artesão de Mão Secundária",
+      "Offhand Artisan Nunchucks",
       "Nunchaku de artesano para la mano izquierda",
       "Nunchaku de main gauche artisanal",
       "Нунчаки умельца для левой руки",
-      "Kunstfertiges Schildhandnunchaku",
-      "Nunchaku de Artesão de Mão Secundária",
+      "Kunstfertige Schildhandnunchakus",
+      "Nunchakus de Artesão de Mão Secundária",
       "Nunchaku Artigianali Secondari",
       "보조 장비 장인의 쌍절곤",
       "副手工匠雙節棍",
@@ -5059,6 +5248,48 @@
       "晦暗虚空宝箱：狩猎"
     ],
     "Media": "inv_1205_voidforge_fluctuatingvoidcores_cosmicvoid.jpg"
+  },
+  {
+    "TagId": 269778,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Stitched Blisterfang Bag",
+      "Bolsa colmiampolla cosida",
+      "Bolsa Presapus Costurada",
+      "Stitched Blisterfang Bag",
+      "Bolsa de colmiampolla cosida",
+      "Sac crochet-caustique raccommodé",
+      "Прошитая сумка огнеклыка",
+      "Bestickte Pustelfangtasche",
+      "Bolsa Presapus Costurada",
+      "Borsa di Zannabolla Ricucita",
+      "꿰맨 물집송곳니 가방",
+      "縫補灼牙背包",
+      "缝合的疱牙袋"
+    ],
+    "Media": "inv_12sn_snakeoid_storage_bag01_7728557.jpg"
+  },
+  {
+    "TagId": 269779,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fanged Scaleskin Pouch",
+      "Faltriquera de cuerescamas cosida",
+      "Saco Escamoderme com Presas",
+      "Fanged Scaleskin Pouch",
+      "Faltriquera de pielescama colmilludo",
+      "Bourse en peau d’écailles à crochets",
+      "Украшенный клыками чешуйчатый кошель",
+      "Schuppenhautbeutel mit Fangzahn",
+      "Saco Escamoderme com Presas",
+      "Borsello di Pelle a Scaglie Zannuto",
+      "송곳니 비늘가죽 주머니",
+      "尖牙鱗皮小包",
+      "带牙的鳞皮袋"
+    ],
+    "Media": "inv_12sn_snakeoid_storage_bag02_7728553.jpg"
   },
   {
     "TagId": 269817,
@@ -5145,6 +5376,237 @@
     "Media": "inv_babyamanibear_witherbark.jpg"
   },
   {
+    "TagId": 269856,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bundle of Adventurer Mistcrests",
+      "Paquete de niebloemblemas de aventurero",
+      "Pacotão de Brasões Brumosos do Aventureiro",
+      "Bundle of Adventurer Mistcrests",
+      "Fardo de blasones de bruma de aventurero",
+      "Paquet d’écus de brume d’aventure",
+      "Сверток маревых гербов искателя приключений",
+      "Bündel mit Nebelwappen des Abenteurers",
+      "Pacotão de Brasões Brumosos do Aventureiro",
+      "Pacchetto di Emblemi della Nebbia dell'Avventuriero",
+      "모험가 안개문장 꾸러미",
+      "一批冒險者迷霧紋章",
+      "装满冒险者迷雾纹章的包裹"
+    ],
+    "Media": "inv_121_crest_adventurer.jpg"
+  },
+  {
+    "TagId": 269857,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Satchel of Champion Mistcrests",
+      "Cartera de niebloemblemas de campeón",
+      "Algibeira de Brasões Brumosos do Campeão",
+      "Satchel of Champion Mistcrests",
+      "Bolsa de blasones de bruma de campeón",
+      "Sacoche d’écus de brume de champion",
+      "Сумка с маревыми гербами защитника",
+      "Säckchen mit Nebelwappen des Champions",
+      "Algibeira de Brasões Brumosos do Campeão",
+      "Borsa di Emblemi della Nebbia del Campione",
+      "챔피언 안개문장 주머니",
+      "一袋勇士迷霧紋章",
+      "装满勇士迷雾纹章的背包"
+    ],
+    "Media": "inv_121_crest_champion.jpg"
+  },
+  {
+    "TagId": 269858,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pack of Hero Mistcrests",
+      "Paquete de niebloemblemas de héroe",
+      "Pacote de Brasões Brumosos do Herói",
+      "Pack of Hero Mistcrests",
+      "Mochila de blasones de bruma de héroe",
+      "Paquet d’écus de brume héroïques",
+      "Комплект маревых гербов героя",
+      "Paket mit Nebelwappen des Helden",
+      "Pacote de Brasões Brumosos do Herói",
+      "Pacchetto di Emblemi della Nebbia dell'Eroe",
+      "영웅 안개문장 꾸러미",
+      "一包英雄迷霧紋章",
+      "装满英雄迷雾纹章的礼包"
+    ],
+    "Media": "inv_121_crest_hero.jpg"
+  },
+  {
+    "TagId": 269859,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Pouch of Veteran Mistcrests",
+      "Faltriquera de niebloemblemas de veterano",
+      "Bolsa de Brasões Brumosos do Veterano",
+      "Pouch of Veteran Mistcrests",
+      "Faltriquera de blasones de bruma de veterano",
+      "Bourse d’écus de brume de vétéran",
+      "Мешочек маревых гербов ветерана",
+      "Tasche mit Nebelwappen des Veteranen",
+      "Bolsa de Brasões Brumosos do Veterano",
+      "Borsello di Emblemi della Nebbia del Veterano",
+      "노련가 안개문장 주머니",
+      "一袋精兵迷霧紋章",
+      "装满老兵迷雾纹章的口袋"
+    ],
+    "Media": "inv_121_crest_veteran.jpg"
+  },
+  {
+    "TagId": 269861,
+    "TagType": 21,
+    "Names": [
+      null,
+      "A Tattered Amani Scroll",
+      "Un pergamino amani desgastado",
+      "Pergaminho Amani Puído",
+      "A Tattered Amani Scroll",
+      "Un pergamino Amani ajado",
+      "Un parchemin amani en lambeaux",
+      "Обтрепанный аманийский свиток",
+      "Eine zerfledderte Schriftrolle der Amani",
+      "Pergaminho Amani Puído",
+      "Pergamena degli Amani Lacera",
+      "해진 아마니 두루마리",
+      "破爛的阿曼尼卷軸",
+      "破烂的阿曼尼卷轴"
+    ],
+    "Media": "inv_misc_note_06.jpg"
+  },
+  {
+    "TagId": 269862,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Thalassian Token of Merit",
+      "Ficha de mérito thalassiana",
+      "Insígnia de Mérito Talassiana",
+      "Thalassian Token of Merit",
+      "Marca de mérito thalassiana",
+      "Symbole de mérite thalassien",
+      "Талассийский знак признания",
+      "Thalassisches Zeichen der Belobigung",
+      "Insígnia de Mérito Talassiana",
+      "Emblema al Merito Thalassiano",
+      "탈라시안 공훈 증표",
+      "薩拉斯功績勳章",
+      "萨拉斯功绩奖币"
+    ],
+    "Media": "inv_misc_azsharacoin2.jpg"
+  },
+  {
+    "TagId": 269864,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Triumphant Satchel of Champion Mistcrests",
+      "Cartera triunfante de niebloemblemas de campeón",
+      "Algibeira Triunfante de Brasões Brumosos do Campeão",
+      "Triumphant Satchel of Champion Mistcrests",
+      "Bolsa triunfante de blasones de bruma de campeón",
+      "Sacoche triomphale d’écus de brume de champion",
+      "Триумфальная сумка с маревыми гербами защитника",
+      "Triumphales Säckchen mit Nebelwappen des Champions",
+      "Algibeira Triunfante de Brasões Brumosos do Campeão",
+      "Borsa Trionfale di Emblemi della Nebbia del Campione",
+      "의기양양한 챔피언 안개문장 자루",
+      "一袋凱旋的勇士迷霧紋章",
+      "装满勇士迷雾纹章的凯旋背包"
+    ],
+    "Media": "inv_121_crest_champion_enchanted.jpg"
+  },
+  {
+    "TagId": 269865,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Celebratory Pack of Hero Mistcrests",
+      "Paquete de celebración de niebloemblemas de héroe",
+      "Pacote Comemorativo de Brasões Brumosos do Herói",
+      "Celebratory Pack of Hero Mistcrests",
+      "Mochila de celebración de blasones de bruma de héroe",
+      "Paquet festif d’écus de brume héroïques",
+      "Праздничный комплект маревых гербов героя",
+      "Feierliches Paket mit Nebelwappen des Helden",
+      "Pacote Comemorativo de Brasões Brumosos do Herói",
+      "Pacchetto Celebrativo di Emblemi della Nebbia dell'Eroe",
+      "경사스러운 영웅 안개문장 가방",
+      "一包慶祝用的英雄迷霧紋章",
+      "装满英雄迷雾纹章的庆祝礼包"
+    ],
+    "Media": "inv_121_crest_hero_enchanted.jpg"
+  },
+  {
+    "TagId": 269866,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Glorious Cluster of Myth Mistcrests",
+      "Conjunto glorioso de niebloemblemas míticos",
+      "Aglomerado Glorioso de Brasões Brumosos Míticos",
+      "Glorious Cluster of Myth Mistcrests",
+      "Cúmulo glorioso de blasones de bruma de mito",
+      "Glorieux amas d’écus de brume mythiques",
+      "Великолепная горсть маревых гербов эпохи",
+      "Glorreiche Sammlung mit Nebelwappen der Mythen",
+      "Aglomerado Glorioso de Brasões Brumosos Míticos",
+      "Aggregato Glorioso di Emblemi della Nebbia del Mito",
+      "영광스러운 신화 안개문장 묶음",
+      "一組光榮的神話迷霧紋章",
+      "装满神话迷雾纹章的神话聚簇"
+    ],
+    "Media": "inv_121_crest_myth_enchanted.jpg"
+  },
+  {
+    "TagId": 269867,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Venerable Satchel of Veteran Mistcrests",
+      "Cartera venerable de niebloemblemas de veterano",
+      "Algibeira Venerável de Brasões Brumosos do Veterano",
+      "Venerable Satchel of Veteran Mistcrests",
+      "Bolsa venerable de blasones de bruma de veterano",
+      "Sacoche vénérable d’écus de brume de vétéran",
+      "Почетная сумка с маревыми гербами ветерана",
+      "Ehrwürdiges Säckchen mit Nebelwappen des Veteranen",
+      "Algibeira Venerável de Brasões Brumosos do Veterano",
+      "Borsa Venerabile di Emblemi della Nebbia del Veterano",
+      "존귀한 노련가 안개문장 주머니",
+      "一袋崇高的精兵迷霧紋章",
+      "装满老兵迷雾纹章的可敬背包"
+    ],
+    "Media": "inv_121_crest_veteran_enchanted.jpg"
+  },
+  {
+    "TagId": 269868,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Miniature Hand-Crafted Mask",
+      "Máscara miniatura hecha a mano",
+      "Máscara Artesanal em Miniatura",
+      "Miniature Hand-Crafted Mask",
+      "Máscara artesanal en miniatura",
+      "Masque miniature sculpté à la main",
+      "Миниатюрная маска ручной работы",
+      "Handgefertigte Miniaturmaske",
+      "Máscara Artesanal em Miniatura",
+      "Maschera Artigianale in Miniatura",
+      "소형 수제 가면",
+      "迷你手工面具",
+      "微型手工面具"
+    ],
+    "Media": "inv_12ph_leg_zandalari_mask_01_7556034.jpg"
+  },
+  {
     "TagId": 269897,
     "TagType": 21,
     "Names": [
@@ -5187,6 +5649,27 @@
     "Media": "inv_crossbow_2h_earthendungeon_c_01.jpg"
   },
   {
+    "TagId": 269918,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Venom-Corroded Gallstone",
+      "Cálculo corroído por veneno",
+      "Cálculo Biliar Corroído por Peçonha",
+      "Venom-Corroded Gallstone",
+      "Piedra biliar corroída por el veneno",
+      "Calcul biliaire rongé par le venin",
+      "Отравленный желчный камень",
+      "Giftzersetzter Gallenstein",
+      "Cálculo Biliar Corroído por Peçonha",
+      "Calcolo Biliare Corroso dal Veleno",
+      "독에 부식된 담석",
+      "被毒液腐蝕的膽石",
+      "毒蚀胆结石"
+    ],
+    "Media": "warlock_ healthstone.jpg"
+  },
+  {
     "TagId": 269934,
     "TagType": 21,
     "Names": [
@@ -5206,6 +5689,69 @@
       "法力孢子"
     ],
     "Media": "inv_misc_food_96_zangarcaps.jpg"
+  },
+  {
+    "TagId": 269935,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Forgotten Trinket",
+      "Abalorio olvidado",
+      "Berloque Esquecido",
+      "Forgotten Trinket",
+      "Abalorio olvidado",
+      "Bijou oublié",
+      "Забытый талисман",
+      "Vergessenes Schmuckstück",
+      "Berloque Esquecido",
+      "Monile Dimenticato",
+      "잊혀진 장신구",
+      "被遺忘的飾品",
+      "被遗忘的饰品"
+    ],
+    "Media": "inv_jewelcrafting_jadeserpent.jpg"
+  },
+  {
+    "TagId": 269937,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Neighborhood Knick Knack",
+      "Chucherías de vecindario",
+      "Quinquilharias da Vizinhança",
+      "Neighborhood Knick Knack",
+      "Baratijas del vecindario",
+      "Bric-à-brac du quartier",
+      "Безделушки от соседей",
+      "Nachbarschaftskrimskrams",
+      "Quinquilharias da Vizinhança",
+      "Cianfrusaglie del Vicinato",
+      "자질구레한 거주구 장식품",
+      "社區小擺飾",
+      "住宅区小玩意"
+    ],
+    "Media": "inv_misc_bag_enchantedrunecloth.jpg"
+  },
+  {
+    "TagId": 269938,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_misc_coinbag06.jpg"
   },
   {
     "TagId": 269972,
@@ -5479,6 +6025,27 @@
       "锋利的奥金战刃"
     ],
     "Media": "inv_glaive_1h_newplayer_a_01.jpg"
+  },
+  {
+    "TagId": 269994,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Griftah's Token of Appreciation",
+      "Muestra de agradecimiento de Griftah",
+      "Presente de Agradecimento de Trambik",
+      "Griftah's Token of Appreciation",
+      "Muestra de aprecio de Griftah",
+      "Preuve d’estime d’Eskrokar",
+      "Знак признательности Жуля",
+      "Gaunahs Zeichen der Anerkennung",
+      "Presente de Agradecimento de Trambik",
+      "Emblema di Gratitudine di Griftah",
+      "그립타의 감사의 표시",
+      "格利夫塔的回禮",
+      "格里伏塔的感谢信物"
+    ],
+    "Media": "archaeology_5_0_crackedmogurunestone.jpg"
   },
   {
     "TagId": 269999,

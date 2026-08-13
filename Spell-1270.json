@@ -272,6 +272,27 @@
     "Media": "inv12_apextalent_shaman_feedbackloop.jpg"
   },
   {
+    "TagId": 1270063,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Barrier Descends",
+      "La barrera se desploma",
+      "A Barreira Cai",
+      "The Barrier Descends",
+      "La barrera desciende",
+      "La barrière descend",
+      "Спуск барьера",
+      "Die Barriere senkt sich herab",
+      "A Barreira Cai",
+      "Discesa Barriera",
+      "방벽 저하",
+      "屏障降下",
+      "屏障降下"
+    ],
+    "Media": "inv_waepon_bow_zulgrub_d_01.jpg"
+  },
+  {
     "TagId": 1270064,
     "TagType": 26,
     "Names": [
@@ -751,6 +772,27 @@
     ]
   },
   {
+    "TagId": 1270093,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bone Bridge",
+      "Puente de huesos",
+      "Ponte de Ossos",
+      "Bone Bridge",
+      "Puente óseo",
+      "Pont d’os",
+      "Костяной мост",
+      "Knochenbrücke",
+      "Ponte de Ossos",
+      "Ponte d'Ossa",
+      "해골 다리",
+      "骨橋",
+      "骸骨之桥"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270094,
     "TagType": 26,
     "Names": [
@@ -791,6 +833,48 @@
       "乌布里克的缓落术"
     ],
     "Media": "inv_cosmicvoid_buff.jpg"
+  },
+  {
+    "TagId": 1270096,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Liadrin's Assistance",
+      "Asistencia de Liadrin",
+      "Ajuda de Liadrin",
+      "Liadrin's Assistance",
+      "Asistencia de Liadrin",
+      "Assistance de Liadrin",
+      "Помощь Лиадрин",
+      "Liadrins Unterstützung",
+      "Ajuda de Liadrin",
+      "Assistenza di Liadrin",
+      "리아드린의 지원",
+      "莉雅德倫的協助",
+      "莉亚德琳的协助"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270097,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Liadrin's Assistance",
+      "Asistencia de Liadrin",
+      "Ajuda de Liadrin",
+      "Liadrin's Assistance",
+      "Asistencia de Liadrin",
+      "Assistance de Liadrin",
+      "Помощь Лиадрин",
+      "Liadrins Unterstützung",
+      "Ajuda de Liadrin",
+      "Assistenza di Liadrin",
+      "리아드린의 지원",
+      "莉雅德倫的協助",
+      "莉亚德琳的协助"
+    ],
+    "Media": "ability_paladin_beaconoflight.jpg"
   },
   {
     "TagId": 1270098,
@@ -834,6 +918,27 @@
     ]
   },
   {
+    "TagId": 1270101,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wishing Coins",
+      "Moneda de deseos",
+      "Moedas do Desejo",
+      "Wishing Coins",
+      "Monedas para deseos",
+      "Pièces porte-bonheur",
+      "Монеты желаний",
+      "Wunschmünzen",
+      "Moedas do Desejo",
+      "Monete dei Desideri",
+      "소원의 동전",
+      "許願幣",
+      "许愿币"
+    ],
+    "Media": "spell_lifegivingspeed.jpg"
+  },
+  {
     "TagId": 1270102,
     "TagType": 26,
     "Names": [
@@ -853,6 +958,27 @@
       "救世道标"
     ],
     "Media": "inv12_apextalent_paladin_beaconofthesavior.jpg"
+  },
+  {
+    "TagId": 1270103,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wishing Coins",
+      "Moneda de deseos",
+      "Moedas do Desejo",
+      "Wishing Coins",
+      "Monedas para deseos",
+      "Pièces porte-bonheur",
+      "Монеты желаний",
+      "Wunschmünzen",
+      "Moedas do Desejo",
+      "Monete dei Desideri",
+      "소원의 동전",
+      "許願幣",
+      "许愿币"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270106,
@@ -2002,6 +2128,27 @@
       "艾泽拉斯之倾"
     ],
     "Media": "inv_banner_03.jpg"
+  },
+  {
+    "TagId": 1270183,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270184,
@@ -3696,7 +3843,7 @@
       "Zurückkehren",
       "Retornar de Casa",
       "Ritorno dalla Casa",
-      "집으로 가기",
+      "되돌아가기",
       "自住家返回",
       "离家归来"
     ],
@@ -4988,19 +5135,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate01.m2"
+      "Collect Amani Storage Crate",
+      "Recoger cajón de almacenamiento amani",
+      "Coletar Caixote de Armazenamento Amani",
+      "Collect Amani Storage Crate",
+      "Añadir cajón de almacenamiento Amani",
+      "Récupérer une caisse de stockage amani",
+      "Получить аманийский складской сундук",
+      "Vorratstruhe der Amani sammeln",
+      "Coletar Caixote de Armazenamento Amani",
+      "Raccolta Cassa del Magazzino degli Amani",
+      "아마니 보관 상자 획득",
+      "收集阿曼尼儲物箱",
+      "收集阿曼尼储物箱子"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -5030,19 +5177,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Crate02.m2"
+      "Collect Amani Wicker Crate",
+      "Recoger cajón de mimbre amani",
+      "Coletar Caixote de Vime Amani",
+      "Collect Amani Wicker Crate",
+      "Añadir cajón de mimbre Amani",
+      "Récupérer une caisse amani en osier",
+      "Получить аманийский плетеный ящик",
+      "Korbkiste der Amani sammeln",
+      "Coletar Caixote de Vime Amani",
+      "Raccolta Cassa di Vimini degli Amani",
+      "아마니 버들 상자 획득",
+      "收集阿曼尼條編箱",
+      "收集阿曼尼柳条箱子"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -5339,6 +5486,27 @@
       "噬咬之颚"
     ],
     "Media": "inv_misc_head_dragon_black.jpg"
+  },
+  {
+    "TagId": 1270396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]",
+      "Channel: Poison Beam to Target [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270397,
@@ -5971,6 +6139,27 @@
     "Media": "inv_cosmicvoid_debuff.jpg"
   },
   {
+    "TagId": 1270431,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)",
+      "[DNT] Conversation Start Spell (RRN)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270432,
     "TagType": 26,
     "Names": [
@@ -6030,6 +6219,27 @@
       "Kill Credit (DNT)",
       "Kill Credit (DNT)",
       "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270435,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -7734,6 +7944,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270549,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]",
+      "Ping Cauldron Bunny [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270553,
     "TagType": 26,
     "Names": [
@@ -7753,6 +7984,27 @@
       "威列"
     ],
     "Media": "inv_dogelfhoundpet_black.jpg"
+  },
+  {
+    "TagId": 1270555,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stew Burst",
+      "Estallido de estofado",
+      "Erupção de Ensopado",
+      "Stew Burst",
+      "Estallido de estofado",
+      "Explosion du ragoût",
+      "Взрыв похлебки",
+      "Eintopfexplosion",
+      "Erupção de Ensopado",
+      "Scoppio di Zuppa",
+      "스튜 폭발",
+      "燉肉爆發",
+      "炖菜爆裂"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270556,
@@ -8216,6 +8468,27 @@
     "Media": "inv_misc_thornnecklace.jpg"
   },
   {
+    "TagId": 1270587,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]",
+      "Increase Blessing by 3 [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270588,
     "TagType": 26,
     "Names": [
@@ -8401,6 +8674,27 @@
       "[DNT] Give Quest",
       "[DNT] Give Quest",
       "[DNT] Give Quest"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270599,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]",
+      "Ping Cauldron Ghosts [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -8592,6 +8886,27 @@
       "魔爆术"
     ],
     "Media": "spell_nature_wispsplode.jpg"
+  },
+  {
+    "TagId": 1270611,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Eggsplosion",
+      "Ovoxplosión",
+      "Explosovo",
+      "Eggsplosion",
+      "Huevoexplosión",
+      "Œufsplosion",
+      "Взрыв яйца",
+      "Eiplosion",
+      "Explosovo",
+      "Espluovosione",
+      "알 폭발",
+      "卵爆",
+      "蛇卵爆炸"
+    ],
+    "Media": "spell_nature_poisoncleansingtotem.jpg"
   },
   {
     "TagId": 1270612,
@@ -9140,6 +9455,27 @@
     "Media": "inv_hammer_2h_maul_a_01_hd.jpg"
   },
   {
+    "TagId": 1270647,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]",
+      "Create Conversation [DNT]"
+    ],
+    "Media": "inv_misc_clothscrap_02.jpg"
+  },
+  {
     "TagId": 1270649,
     "TagType": 26,
     "Names": [
@@ -9579,6 +9915,27 @@
     "Media": "spell_magic_magearmor.jpg"
   },
   {
+    "TagId": 1270678,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270679,
     "TagType": 26,
     "Names": [
@@ -9911,6 +10268,90 @@
       "[DNT] Talent Tree - Create Trait Config",
       "[DNT] Talent Tree - Create Trait Config",
       "[DNT] Talent Tree - Create Trait Config"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270697,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Malformed Barrier",
+      "Barrera deforme",
+      "Barreira Deformada",
+      "Malformed Barrier",
+      "Barrera deforme",
+      "Barrière déformée",
+      "Искаженный барьер",
+      "Missgestaltete Barriere",
+      "Barreira Deformada",
+      "Barriera Deforme",
+      "기형 방벽",
+      "畸形屏障",
+      "畸变屏障"
+    ],
+    "Media": "inv_ability_poison_orb.jpg"
+  },
+  {
+    "TagId": 1270698,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270699,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]",
+      "Event send if Condition Met [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270700,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -10297,19 +10738,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Anvil01.m2"
+      "Collect Amani Anvil",
+      "Recoger yunque amani",
+      "Coletar Bigorna Amani",
+      "Collect Amani Anvil",
+      "Añadir yunque Amani",
+      "Récupérer une enclume amani",
+      "Получить аманийскую наковальню",
+      "Amboss der Amani sammeln",
+      "Coletar Bigorna Amani",
+      "Raccolta Incudine degli Amani",
+      "아마니 모루 획득",
+      "收集阿曼尼鐵砧",
+      "收集阿曼尼铁砧"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -10318,19 +10759,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_WorkBench01.m2"
+      "Collect Amani Forgemaster's Workbench",
+      "Recoger banco de trabajo de maestro de forja amani",
+      "Coletar Bancada do Mestre Forjador Amani",
+      "Collect Amani Forgemaster's Workbench",
+      "Añadir banco de trabajo de maestro de forja Amani",
+      "Récupérer un établi de maître-forge amani",
+      "Получить верстак аманийского кузнеца",
+      "Werkbank des Amanischmiedemeisters sammeln",
+      "Coletar Bancada do Mestre Forjador Amani",
+      "Raccolta Banco da Lavoro del Mastro Forgiatore Amani",
+      "아마니 제련장인의 작업대 획득",
+      "收集阿曼尼鍛造大師工作桌",
+      "收集阿曼尼熔炉主管的工作台"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -10369,7 +10810,7 @@
       "Электроемкость",
       "Kapazität",
       "Capacitância",
-      "Capacitanza",
+      "Reattanza",
       "전기 축적",
       "充蓄電能",
       "电容"
@@ -10734,6 +11175,27 @@
     "Media": "inv_cosmicflyermount_red.jpg"
   },
   {
+    "TagId": 1270743,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venomous Shaping",
+      "Conformación venenosa",
+      "Moldagem de Peçonha",
+      "Venomous Shaping",
+      "Formación venenosa",
+      "Façonnage venimeux",
+      "Управление ядом",
+      "Giftiges Formen",
+      "Moldagem de Peçonha",
+      "Plasmatura Velenosa",
+      "맹독 빚기",
+      "毒液塑造",
+      "烈毒塑形"
+    ],
+    "Media": "inv_ability_poison_beam.jpg"
+  },
+  {
     "TagId": 1270744,
     "TagType": 26,
     "Names": [
@@ -10801,19 +11263,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Crafting_Forge01.m2"
+      "Collect Amani Forge",
+      "Recoger forja amani",
+      "Coletar Forja Amani",
+      "Collect Amani Forge",
+      "Añadir forja Amani",
+      "Récupérer une forge amani",
+      "Получить аманийскую кузню",
+      "Schmiede der Amani sammeln",
+      "Coletar Forja Amani",
+      "Raccolta Forgia degli Amani",
+      "아마니 가열로 획득",
+      "收集阿曼尼熔爐",
+      "收集阿曼尼熔炉"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -10822,19 +11284,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull01.m2"
+      "Collect Emerald-Encrusted Amani Ritual Skull",
+      "Recoger cráneo ritual amani con esmeraldas incrustadas",
+      "Coletar Caveira de Ritual Amani Incrustada de Esmeraldas",
+      "Collect Emerald-Encrusted Amani Ritual Skull",
+      "Añadir calavera ritual Amani incrustada de esmeraldas",
+      "Récupérer un crâne rituel amani incrusté d’émeraudes",
+      "Получить инкрустированный изумрудами аманийский ритуальный череп",
+      "Smaragdverkrusteten Ritualschädel der Amani sammeln",
+      "Coletar Caveira de Ritual Amani Incrustada de Esmeraldas",
+      "Raccolta Teschio Rituale degli Amani Incrostato di Smeraldi",
+      "에메랄드 박힌 아마니 의식의 해골 획득",
+      "收集鑲翡翠的阿曼尼儀式顱骨",
+      "收集镶嵌翡翠的阿曼尼仪式颅骨"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -10843,19 +11305,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_Skull02.m2"
+      "Collect Griftah's Resizing Hex-Skull",
+      "Recoger calavera aojadora cambiatamaño de Griftah",
+      "Coletar Crânio de Bagata Redimensionadora de Trambik",
+      "Collect Griftah's Resizing Hex-Skull",
+      "Añadir calavera aojadora cambiatamaños de Griftah",
+      "Récupérer un crâne-maléfice de redimensionnement d’Eskrokar",
+      "Получить всеразмерный колдовской череп Жуля",
+      "Gaunahs skalierenden Hexschädel sammeln",
+      "Coletar Crânio de Bagata Redimensionadora de Trambik",
+      "Raccolta Teschio Malefico del Ridimensionamento di Griftah",
+      "그립타의 크기 조정 사술 해골 획득",
+      "收集格利夫塔的重塑妖術顱骨",
+      "收集格里伏塔的缩放妖术颅骨"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -10885,19 +11347,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Mirror_Wall01.m2"
+      "Collect Purified Folk Mirror",
+      "Recoger espejo campestre purificado",
+      "Coletar Espelho Artesanal Purificado",
+      "Collect Purified Folk Mirror",
+      "Añadir espejo popular purificado",
+      "Récupérer un miroir folklorique purifié",
+      "Получить очищенное народное зеркало",
+      "Geläuterten volkstümlichen Spiegel sammeln",
+      "Coletar Espelho Artesanal Purificado",
+      "Raccolta Specchio Folcloristico Purificato",
+      "정화된 민속 거울 획득",
+      "收集純淨鄉村鏡子",
+      "收集净化的质朴镜子"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -10969,19 +11431,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2",
-      "Collect [DNT] [AUTOGEN] 12PH_Folk_Rug03.M2"
+      "Collect Cherished Pet's Rug",
+      "Recoger alfombra de mascota preciada",
+      "Coletar Tapete da Mascote Querida",
+      "Collect Cherished Pet's Rug",
+      "Añadir alfombra de mascota querida",
+      "Récupérer un tapis de compagnon adorable",
+      "Получить коврик любимого питомца",
+      "Teppich des geliebten Haustiers sammeln",
+      "Coletar Tapete da Mascote Querida",
+      "Raccolta Tappeto dell'Amata Mascotte",
+      "소중한 애완동물의 양탄자 획득",
+      "收集珍惜的寵物地毯",
+      "收集爱宠地毯"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -11278,6 +11740,69 @@
       "艾露恩的反应"
     ],
     "Media": "spell_nature_moonglow.jpg"
+  },
+  {
+    "TagId": 1270775,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]",
+      "Curse Surge - Immunity Aura Cancelled [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270776,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shield of Command",
+      "Escudo de mando",
+      "Escudo da Autoridade",
+      "Shield of Command",
+      "Escudo de mando",
+      "Bouclier de commandement",
+      "Щит власти",
+      "Schild des Befehls",
+      "Escudo da Autoridade",
+      "Scudo del Comando",
+      "지휘의 보호막",
+      "號令之盾",
+      "命令之盾"
+    ],
+    "Media": "spell_hunter_exoticmunitions_poisoned.jpg"
+  },
+  {
+    "TagId": 1270777,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]",
+      "Remove a Stack [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270778,
@@ -11679,6 +12204,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270812,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Healing",
+      "Sanación",
+      "Cura",
+      "Healing",
+      "Sanación",
+      "Soins",
+      "Исцеление",
+      "Heilen",
+      "Cura",
+      "Cure",
+      "치유",
+      "治療",
+      "治疗"
+    ],
+    "Media": "spell_holy_heal.jpg"
+  },
+  {
     "TagId": 1270814,
     "TagType": 26,
     "Names": [
@@ -11886,7 +12432,7 @@
       "防禦姿態",
       "防御姿态"
     ],
-    "Media": "trade_engineering.jpg"
+    "Media": "inv_shield_06.jpg"
   },
   {
     "TagId": 1270827,
@@ -12055,6 +12601,27 @@
       "日程阶段1"
     ],
     "Media": "inv_achievement_raidnerubian_nerubianhulk.jpg"
+  },
+  {
+    "TagId": 1270838,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di",
+      "[DNT] Incapacitate Jaz'di"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270839,
@@ -12265,6 +12832,27 @@
       "气氛值"
     ],
     "Media": "inv_jewelcrafting_815_focusinglens.jpg"
+  },
+  {
+    "TagId": 1270850,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Battle Drums",
+      "Tambores de batalla",
+      "Tambores de Batalha",
+      "Battle Drums",
+      "Tambores de batalla",
+      "Tambours de guerre",
+      "Боевые барабаны",
+      "Kriegstrommeln",
+      "Tambores de Batalha",
+      "Tamburi di Battaglia",
+      "전투의 북",
+      "戰鼓",
+      "战鼓"
+    ],
+    "Media": "inv_archaeology_70_tauren_drum.jpg"
   },
   {
     "TagId": 1270851,
@@ -12735,13 +13323,13 @@
       null,
       "Rupturing Bite",
       "Mordisco triturador",
-      "Mordida Perfurante",
+      "Mordida Rasgante",
       "Rupturing Bite",
       "Mordedora desgarradora",
       "Morsure de rupture",
       "Раздирающий укус",
       "Zerreißender Biss",
-      "Mordida Perfurante",
+      "Mordida Rasgante",
       "Morso Dirompente",
       "파열의 이빨",
       "分裂撕咬",
@@ -12790,6 +13378,27 @@
       "血性狂乱"
     ],
     "Media": "ability_ironmaidens_whirlofblood.jpg"
+  },
+  {
+    "TagId": 1270876,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Begrudged Soldier",
+      "Soldado agraviado",
+      "Soldado com Ressentimento",
+      "Begrudged Soldier",
+      "Soldado resentido",
+      "Soldat à rancœur",
+      "Недовольный солдат",
+      "Widerwilliger Soldat",
+      "Soldado com Ressentimento",
+      "Soldato Riluttante",
+      "원한 품은 병사",
+      "抱怨的士兵",
+      "积怨的士兵"
+    ],
+    "Media": "inv_inscription_80_scroll.jpg"
   },
   {
     "TagId": 1270877,
@@ -12939,6 +13548,27 @@
     "Media": "ui_delves.jpg"
   },
   {
+    "TagId": 1270884,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)",
+      "Ping Aggro (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270885,
     "TagType": 26,
     "Names": [
@@ -12958,6 +13588,27 @@
       "毒素排放"
     ],
     "Media": "ability_creature_poison_06.jpg"
+  },
+  {
+    "TagId": 1270886,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Holy Channeling",
+      "Canalización sagrada",
+      "Canalização Sagrada",
+      "Holy Channeling",
+      "Canalización sagrada",
+      "Canalisation du sacré",
+      "Священное поддержание",
+      "Heilige Kanalisierung",
+      "Canalização Sagrada",
+      "Canalizzazione Sacra",
+      "신성한 정신집중",
+      "神聖引導",
+      "神圣导能"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270887,
@@ -13105,6 +13756,27 @@
       "拔出"
     ],
     "Media": "spell_nature_strength.jpg"
+  },
+  {
+    "TagId": 1270895,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom-Crazed",
+      "Enloquecido por envenenamiento",
+      "Louco de Peçonha",
+      "Venom-Crazed",
+      "Enloquecido por el veneno",
+      "Affolement par le venin",
+      "Безумие от яда",
+      "Giftberauscht",
+      "Louco de Peçonha",
+      "Invasato dal Veleno",
+      "맹독 광분",
+      "嗜毒",
+      "毒狂"
+    ],
+    "Media": "spell_nature_poisoncleansingtotem.jpg"
   },
   {
     "TagId": 1270896,
@@ -13260,13 +13932,13 @@
       null,
       "Bundle of Adventurer Dawncrests",
       "Paquete de crestalboradas de aventurero",
-      "Pacote de Brasões Aurorais do Aventureiro",
+      "Pacotão de Brasões Aurorais do Aventureiro",
       "Bundle of Adventurer Dawncrests",
       "Fardo de blasones del alba de aventurero",
       "Paquet d’écus de l’aube d’aventure",
       "Сверток гербов зари искателя приключений.",
       "Bündel mit Morgenlichtwappen des Abenteurers",
-      "Pacote de Brasões Aurorais do Aventureiro",
+      "Pacotão de Brasões Aurorais do Aventureiro",
       "Pacchetto di Emblemi dell'Alba dell'Avventuriero",
       "모험가 여명문장 꾸러미",
       "冒險者晨曦紋章袋",
@@ -13315,6 +13987,27 @@
       "崩塌汇流"
     ],
     "Media": "inv_cosmicvoid_nova.jpg"
+  },
+  {
+    "TagId": 1270909,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]",
+      "Decrease Blessing by 10 - Self-Resurrect [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270910,
@@ -13464,6 +14157,27 @@
     "Media": "spell_holy_heal.jpg"
   },
   {
+    "TagId": 1270917,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dak'zor's Aid",
+      "Ayuda de Dak'zor",
+      "Ajuda de Dak'zor",
+      "Dak'zor's Aid",
+      "Ayuda de Dak'zor",
+      "Aide de Dak’zor",
+      "Помощь Дак'зора",
+      "Dak'zors Hilfe",
+      "Ajuda de Dak'zor",
+      "Aiuto di Dak'zor",
+      "다크조르의 지원",
+      "達克佐的援助",
+      "达克佐尔的援助"
+    ],
+    "Media": "racial_troll_berserk.jpg"
+  },
+  {
     "TagId": 1270918,
     "TagType": 26,
     "Names": [
@@ -13506,6 +14220,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270920,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dak'zor's Aid",
+      "Ayuda de Dak'zor",
+      "Ajuda de Dak'zor",
+      "Dak'zor's Aid",
+      "Ayuda de Dak'zor",
+      "Aide de Dak’zor",
+      "Помощь Дак'зора",
+      "Dak'zors Hilfe",
+      "Ajuda de Dak'zor",
+      "Aiuto di Dak'zor",
+      "다크조르의 지원",
+      "達克佐的援助",
+      "达克佐尔的援助"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270921,
     "TagType": 26,
     "Names": [
@@ -13527,6 +14262,27 @@
     "Media": "inv_cosmicvoid_missile.jpg"
   },
   {
+    "TagId": 1270922,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping",
+      "<DNT> Ping"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270923,
     "TagType": 26,
     "Names": [
@@ -13546,6 +14302,27 @@
       "虚空召唤"
     ],
     "Media": "inv_cosmicvoid_beam.jpg"
+  },
+  {
+    "TagId": 1270924,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>",
+      "<DNT>"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270925,
@@ -13968,6 +14745,27 @@
     "Media": "inv_112_raidtrinkets_blobofswirlingvoid_gold.jpg"
   },
   {
+    "TagId": 1270950,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]",
+      "Event Push [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270951,
     "TagType": 26,
     "Names": [
@@ -14178,6 +14976,111 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270962,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deliver Weapon",
+      "Entregar arma",
+      "Entregar Arma",
+      "Deliver Weapon",
+      "Entregar arma",
+      "Livraison d’armes",
+      "Доставка оружия",
+      "Waffe abliefern",
+      "Entregar Arma",
+      "Consegna Arma",
+      "무기 전달",
+      "遞送武裝",
+      "递送武器"
+    ],
+    "Media": "trade_alchemy_dpotion_b10.jpg"
+  },
+  {
+    "TagId": 1270963,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deliver Weapon",
+      "Entregar arma",
+      "Entregar Arma",
+      "Deliver Weapon",
+      "Entregar arma",
+      "Livraison d’armes",
+      "Доставка оружия",
+      "Waffe abliefern",
+      "Entregar Arma",
+      "Consegna Arma",
+      "무기 전달",
+      "遞送武裝",
+      "递送武器"
+    ],
+    "Media": "inv_12tr_amani_defense_spear01.jpg"
+  },
+  {
+    "TagId": 1270964,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deliver Weapon",
+      "Entregar arma",
+      "Entregar Arma",
+      "Deliver Weapon",
+      "Entregar arma",
+      "Livraison d’armes",
+      "Доставка оружия",
+      "Waffe abliefern",
+      "Entregar Arma",
+      "Consegna Arma",
+      "무기 전달",
+      "遞送武裝",
+      "递送武器"
+    ],
+    "Media": "inv_12tr_amani_defense_spear01.jpg"
+  },
+  {
+    "TagId": 1270965,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Deliver Weapon",
+      "Entregar arma",
+      "Entregar Arma",
+      "Deliver Weapon",
+      "Entregar arma",
+      "Livraison d’armes",
+      "Доставка оружия",
+      "Waffe abliefern",
+      "Entregar Arma",
+      "Consegna Arma",
+      "무기 전달",
+      "遞送武裝",
+      "递送武器"
+    ],
+    "Media": "inv_12tr_amani_defense_spear01.jpg"
+  },
+  {
+    "TagId": 1270966,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]",
+      "Override [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270967,
     "TagType": 26,
     "Names": [
@@ -14262,6 +15165,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1270971,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270972,
     "TagType": 26,
     "Names": [
@@ -14302,6 +15226,27 @@
       "Q04A Collect Complete - Q04B Not Complete"
     ],
     "Media": "inv_11_0_dungeon_tentaclevial_blue.jpg"
+  },
+  {
+    "TagId": 1270974,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270975,
@@ -14363,6 +15308,27 @@
       "태양불꽃 의복",
       "日炎之服",
       "阳炎礼服"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270978,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -14472,6 +15438,27 @@
     "Media": "inv_cosmicvoid_nova.jpg"
   },
   {
+    "TagId": 1270984,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1270985,
     "TagType": 26,
     "Names": [
@@ -14491,6 +15478,69 @@
       "阳炎蛮勇"
     ],
     "Media": "inv_12_tailoring_spellthread_orange_spellthread.jpg"
+  },
+  {
+    "TagId": 1270986,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270987,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1270988,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]",
+      "Teleport and Kill Credit [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1270989,

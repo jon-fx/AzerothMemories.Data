@@ -340,19 +340,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Zul'Aman Brazier Post",
+      "Soporte de brasero de Zul'Aman",
+      "Poste com Braseiro de Zul'Aman",
+      "Zul'Aman Brazier Post",
+      "Poste de blandón de Zul'Aman",
+      "Pilier brasero de Zul’Aman",
+      "Зул'аманский стоячий светильник",
+      "Kohlenpfannensockel aus Zul'Aman",
+      "Poste com Braseiro de Zul'Aman",
+      "Braciere di Zul'aman",
+      "줄아만 화로 말뚝",
+      "祖阿曼火盆柱",
+      "祖阿曼火盆柱"
     ],
     "Media": "inv_12tr_amani_navigation_signpost01_7524458.jpg"
   },
@@ -882,6 +882,27 @@
     "Media": "inv_misc_dust_infinite.jpg"
   },
   {
+    "TagId": 265068,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_knife_1h_ulatekfang_d_01.jpg"
+  },
+  {
     "TagId": 265071,
     "TagType": 21,
     "Names": [
@@ -1033,21 +1054,21 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Farstriders' Pride Statue",
+      "Estatua de orgullo de los Errantes",
+      "Estátua do Orgulho dos Andarilhos",
+      "Farstriders' Pride Statue",
+      "Estatua de orgullo de los Errantes",
+      "Statue de fierté pérégrine",
+      "Статуя \"Гордость Странников\"",
+      "Stolzstatue der Weltenwanderer",
+      "Estátua do Orgulho dos Andarilhos",
+      "Statua dell'Orgoglio dei Lungopasso",
+      "원정순찰대의 긍지 조각상",
+      "遠行者的傲慢雕像",
+      "远行者之傲雕像"
     ],
-    "Media": "7525984.jpg"
+    "Media": "inv_12be_bloodelf_structure_statue06_7525984.jpg"
   },
   {
     "TagId": 265331,
@@ -1068,7 +1089,7 @@
       null,
       null
     ],
-    "Media": "inv_dr_draenei_holorunes01.jpg"
+    "Media": "inv_dr_draenei_holorunes02_7426033.jpg"
   },
   {
     "TagId": 265332,
@@ -1327,19 +1348,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Fortified Amani Awning",
+      "Marquesina amani fortificada",
+      "Toldo Amani Fortificado",
+      "Fortified Amani Awning",
+      "Toldo Amani reforzado",
+      "Auvent amani fortifié",
+      "Укрепленный аманийский навес",
+      "Verstärktes Amanivordach",
+      "Toldo Amani Fortificado",
+      "Tendone degli Amani Rinforzato",
+      "강화된 아마니 차양",
+      "強化的阿曼尼遮篷",
+      "强固的阿曼尼雨篷"
     ],
     "Media": "inv_12tr_amani_structure_hex_awning01_7531419.jpg"
   },
@@ -1596,6 +1617,48 @@
     "Media": "inv_12ph_misc_murlocplush01_juniper.jpg"
   },
   {
+    "TagId": 265399,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Ritually-Charred Bones",
+      "Huesos calcinados en ritual",
+      "Ossos Calcinados Ritualmente",
+      "Ritually-Charred Bones",
+      "Huesos calcinados de ritual",
+      "Os calcinés par le rituel",
+      "Ритуально обугленные кости",
+      "Verkohlte Ritualknochen",
+      "Ossos Calcinados Ritualmente",
+      "Ossa Bruciate dal Rituale",
+      "의식으로 그을린 뼈",
+      "在儀式中燒焦的骨頭",
+      "献祭焦骨"
+    ],
+    "Media": "ability_deathknight_brittlebones.jpg"
+  },
+  {
+    "TagId": 265400,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Calcified Turtle Heart",
+      "Corazón de tortuga calcificado",
+      "Coração de Tartaruga Calcificado",
+      "Calcified Turtle Heart",
+      "Corazón de tortuga calcificado",
+      "Cœur de tortue calcifié",
+      "Окаменевшее черепашье сердце",
+      "Verkalktes Schildkrötenherz",
+      "Coração de Tartaruga Calcificado",
+      "Cuore di Tartaruga Calcificato",
+      "석회화한 거북 심장",
+      "鈣化烏龜心臟",
+      "钙化的海龟心脏"
+    ],
+    "Media": "inv_11_0_misc_organmass_color2.jpg"
+  },
+  {
     "TagId": 265401,
     "TagType": 21,
     "Names": [
@@ -1614,7 +1677,49 @@
       null,
       null
     ],
-    "Media": "7425361.jpg"
+    "Media": "inv_10ts_tuskarr_teapot01_7425361.jpg"
+  },
+  {
+    "TagId": 265402,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Fistful of Gnat Wings",
+      "Puñado de alas de jején",
+      "Punhado de Asas de Mosquito",
+      "Fistful of Gnat Wings",
+      "Puñado de alas de bichos",
+      "Poignée d’ailes de moucherons",
+      "Горсть крыльев мошек",
+      "Handvoll Mückenflügel",
+      "Punhado de Asas de Mosquito",
+      "Manciata di Ali di Moscerini",
+      "각다귀 날개 한 줌",
+      "一把蟲翼",
+      "一把蠓虫翅膀"
+    ],
+    "Media": "spell_nature_insect_swarm2.jpg"
+  },
+  {
+    "TagId": 265403,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Speckled Seabird Egg",
+      "Huevo de ave marina moteado",
+      "Ovo Sarapintado de Ave Marinha",
+      "Speckled Seabird Egg",
+      "Huevo moteado de ave marina",
+      "Œuf d’oiseau marin moucheté",
+      "Пестрое яйцо морской птицы",
+      "Gesprenkeltes Seevogelei",
+      "Ovo Sarapintado de Ave Marinha",
+      "Uovo di Uccello Marino Maculato",
+      "점박이 바닷새 알",
+      "斑點海鳥蛋",
+      "斑点海鸟蛋"
+    ],
+    "Media": "inv_pet_bluemurlocegg.jpg"
   },
   {
     "TagId": 265407,
@@ -1762,6 +1867,27 @@
       null
     ],
     "Media": "inv_axe_1h_twilightblade_b_01.jpg"
+  },
+  {
+    "TagId": 265525,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Grisly Morsel",
+      "Bocadito macabro",
+      "Naco Horrendo",
+      "Grisly Morsel",
+      "Bocado espeluznante",
+      "Morceau macabre",
+      "Неаппетитный ошметок",
+      "Ekliger Brocken",
+      "Naco Horrendo",
+      "Boccone Macabro",
+      "섬뜩한 조각",
+      "可怕肉塊",
+      "可怖的碎肉"
+    ],
+    "Media": "inv_fish_highmountainsalmonred.jpg"
   },
   {
     "TagId": 265528,
@@ -2163,6 +2289,111 @@
     "Media": "inv_staff_18.jpg"
   },
   {
+    "TagId": 265555,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spring Blossom Stepping Stone",
+      "Escalón de flores de primavera",
+      "Alpondra de Flor da Primavera",
+      "Spring Blossom Stepping Stone",
+      "Peldaño de flor primaveral",
+      "Pierre de gué à floraison printanière",
+      "Плоский камень весенних цветов",
+      "Frühlingsblütentrittstein",
+      "Alpondra de Flor da Primavera",
+      "Pietra Miliare del Bocciolo Primaverile",
+      "봄꽃 디딤돌",
+      "春綻墊腳石",
+      "春芳花踏石"
+    ],
+    "Media": "inv_12ph_shop_spring_cherryblossom_steppingstones01.jpg"
+  },
+  {
+    "TagId": 265556,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spring Blossom Privacy Screen",
+      "Biombo de privacidad de flores de primavera",
+      "Divisória de Flor da Primavera",
+      "Spring Blossom Privacy Screen",
+      "Biombo de flor primaveral",
+      "Brise-vue à floraison printanière",
+      "Ширма весенних цветов",
+      "Frühlingsblütensichtblende",
+      "Divisória de Flor da Primavera",
+      "Paravento del Bocciolo Primaverile",
+      "봄꽃 차단막",
+      "春綻隔板",
+      "春芳花私密屏风"
+    ],
+    "Media": "inv_12ph_shop_spring_cherryblossom_divider01.jpg"
+  },
+  {
+    "TagId": 265557,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spring Blossom Stepping Stone Duo",
+      "Par de escalones de flores de primavera",
+      "Dupla de Alpondras de Flor da Primavera",
+      "Spring Blossom Stepping Stone Duo",
+      "Peldaño doble de flor primaveral",
+      "Paire de pierres de gué à floraison printanière",
+      "Два плоских камня весенних цветов",
+      "Frühlingsblütentrittsteinduo",
+      "Dupla de Alpondras de Flor da Primavera",
+      "Coppia di Pietre Miliari del Bocciolo Primaverile",
+      "봄꽃 2중 디딤돌",
+      "春綻墊腳石二件組",
+      "春芳花踏石双件组"
+    ],
+    "Media": "inv_12ph_shop_spring_cherryblossom_steppingstones02.jpg"
+  },
+  {
+    "TagId": 265558,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spring Blossom Stepping Stone Trio",
+      "Trío de escalones de flores de primavera",
+      "Trio de Alpondras de Flor da Primavera",
+      "Spring Blossom Stepping Stone Trio",
+      "Peldaño triple de flor primaveral",
+      "Trio de pierres de gué à floraison printanière",
+      "Три плоских камня весенних цветов",
+      "Frühlingsblütentrittsteintrio",
+      "Trio de Alpondras de Flor da Primavera",
+      "Trio di Pietre Miliari del Bocciolo Primaverile",
+      "봄꽃 3중 디딤돌",
+      "春綻墊腳石三件組",
+      "春芳花踏石三件组"
+    ],
+    "Media": "inv_12ph_shop_spring_cherryblossom_steppingstones03.jpg"
+  },
+  {
+    "TagId": 265559,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Spring Blossom Stepping Stone Collection",
+      "Colección de escalones de flores de primavera",
+      "Coleção de Alpondra de Flor da Primavera",
+      "Spring Blossom Stepping Stone Collection",
+      "Conjunto de peldaños de flor primaveral",
+      "Ensemble de pierres de gué à floraison printanière",
+      "Коллекция плоских камней весенних цветов",
+      "Frühlingsblütentrittsteinset",
+      "Coleção de Alpondra de Flor da Primavera",
+      "Collezione di Pietre Miliari del Bocciolo Primaverile",
+      "봄꽃 디딤돌 수집품",
+      "春綻墊腳石收藏品",
+      "春芳花踏石收藏"
+    ],
+    "Media": "inv_12ph_shop_spring_cherryblossom_steppingstones04.jpg"
+  },
+  {
     "TagId": 265560,
     "TagType": 21,
     "Names": [
@@ -2226,6 +2457,48 @@
     "Media": "inv_axe_2h_raidmidnight_d_01.jpg"
   },
   {
+    "TagId": 265602,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Amani Privateer's Key",
+      "Llave de corsario amani",
+      "Chave do Corsário Amani",
+      "Amani Privateer's Key",
+      "Llave de corsario Amani",
+      "Clé de corsaire amani",
+      "Ключ аманийского капера",
+      "Schlüssel des Amanifreibeuters",
+      "Chave do Corsário Amani",
+      "Chiave del Corsaro Amani",
+      "아마니 사략 해적의 열쇠",
+      "阿曼尼私掠者的鑰匙",
+      "阿曼尼私掠者的钥匙"
+    ],
+    "Media": "inv_misc_key_15.jpg"
+  },
+  {
+    "TagId": 265603,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Privateer's Teeth Half of Key",
+      "Mitad de llave diente de corsario",
+      "Metade da Chave do Corsário Dentada",
+      "Privateer's Teeth Half of Key",
+      "Mitad de llave dentada de corsario",
+      "Moitié dents de clé de corsaire",
+      "Бородка от ключа капера",
+      "Barthälfte des Freibeuterschlüssels",
+      "Metade da Chave do Corsário Dentada",
+      "Metà con Dentellatura della Chiave del Corsaro Amani",
+      "사략 해적의 이빨 열쇠 반쪽",
+      "私掠者的鑰匙身",
+      "私掠者的钥匙齿半片"
+    ],
+    "Media": "inv_misc_herb_dragonsteeth_leaf.jpg"
+  },
+  {
     "TagId": 265609,
     "TagType": 21,
     "Names": [
@@ -2245,6 +2518,27 @@
       "沐血公主"
     ],
     "Media": "inv_babyeversonglynx_red.jpg"
+  },
+  {
+    "TagId": 265610,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Privateer's Loop Half of Key",
+      "Mitad de llave aro de corsario",
+      "Metade da Chave do Corsário com Aro",
+      "Privateer's Loop Half of Key",
+      "Mitad de llave anillada de corsario",
+      "Moitié anneau de clé de corsaire",
+      "Колечко от ключа капера",
+      "Ringhälfte des Freibeuterschlüssels",
+      "Metade da Chave do Corsário com Aro",
+      "Metà con Testa della Chiave del Corsaro Amani",
+      "사략 해적의 고리 열쇠 반쪽",
+      "私掠者的鑰匙頭",
+      "私掠者的钥匙环半片"
+    ],
+    "Media": "inv_10_dungeonjewelry_tuskarr_ring_1_color1.jpg"
   },
   {
     "TagId": 265611,
@@ -2436,6 +2730,27 @@
     "Media": "inv_shield_1h_raidmidnight_d_01.jpg"
   },
   {
+    "TagId": 265620,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Rehydrated Zandalari Peppers",
+      "Pimientos zandalari rehidratados",
+      "Pimentas Zandalari Reidratadas",
+      "Rehydrated Zandalari Peppers",
+      "Pimientos Zandalari rehidratados",
+      "Piments zandalari réhydratés",
+      "Размоченные зандаларские перцы",
+      "Rehydrierte Zandalaripaprika",
+      "Pimentas Zandalari Reidratadas",
+      "Peperoncini degli Zandalari Reidratati",
+      "수분을 보충한 잔달라 고추",
+      "吸水的贊達拉胡椒",
+      "泡发的赞达拉胡椒"
+    ],
+    "Media": "inv_misc_food_legion_dalapenopepper.jpg"
+  },
+  {
     "TagId": 265621,
     "TagType": 21,
     "Names": [
@@ -2455,6 +2770,27 @@
       "星河角斗士的碎裂之刃"
     ],
     "Media": "inv_knife_1h_raidmidnight_d_02.jpg"
+  },
+  {
+    "TagId": 265622,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Knotted Swamp Stick",
+      "Palo de pantano nudoso",
+      "Vara Nodosa do Pântano",
+      "Knotted Swamp Stick",
+      "Palo de pantano con nudos",
+      "Bâton noueux des marais",
+      "Узловатая болотная палка",
+      "Knotiger Sumpfstock",
+      "Vara Nodosa do Pântano",
+      "Bastone da Palude Nodoso",
+      "옹이진 늪지 막대기",
+      "打結的沼澤棍",
+      "结节的沼泽木棍"
+    ],
+    "Media": "trade_archaeology_antleredcloakclasp.jpg"
   },
   {
     "TagId": 265623,
@@ -2503,19 +2839,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Shattered Teapot",
+      "Tetera destrozada",
+      "Chaleira Estilhaçada",
+      "Shattered Teapot",
+      "Tetera destrozada",
+      "Théière brisée",
+      "Разбитый чайник",
+      "Zerschmetterte Teekanne",
+      "Chaleira Estilhaçada",
+      "Teiera Infranta",
+      "조각난 찻주전자",
+      "粉碎的茶壺",
+      "碎裂的茶壶"
     ],
     "Media": "inv_mechagnome_powercell_broken.jpg"
   },
@@ -2608,21 +2944,21 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Farstriders' Glory Statue",
+      "Estatua de gloria de los Errantes",
+      "Estátua da Glória dos Andarilhos",
+      "Farstriders' Glory Statue",
+      "Estatua de gloria de los Errantes",
+      "Statue de gloire pérégrine",
+      "Статуя \"Слава Странников\"",
+      "Ruhmesstatue der Weltenwanderer",
+      "Estátua da Glória dos Andarilhos",
+      "Statua della Gloria dei Lungopasso",
+      "원정순찰대의 영광 조각상",
+      "遠行者的榮耀雕像",
+      "远行者荣耀雕像"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_12be_bloodelf_structure_statue07_7539441.jpg"
   },
   {
     "TagId": 265632,
@@ -3591,6 +3927,27 @@
     "Media": "icon_treasuremap.jpg"
   },
   {
+    "TagId": 265715,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Bouquet of Blooms",
+      "Buqué de flores",
+      "Buquê de Botões",
+      "Bouquet of Blooms",
+      "Ramos de flores",
+      "Bouquet floral",
+      "Букет пышных цветов",
+      "Blütenbouquet",
+      "Buquê de Botões",
+      "Mazzo di Boccioli",
+      "꽃다발",
+      "一束花",
+      "花束"
+    ],
+    "Media": "inv_offhand_1h_creepybouquet_b_01.jpg"
+  },
+  {
     "TagId": 265739,
     "TagType": 21,
     "Names": [
@@ -3868,19 +4225,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Cache of Dawncrests",
-      "Alijo de crestalboradas",
-      "Baú de Brasões Aurorais",
-      "Cache of Dawncrests",
-      "Alijo de blasones del alba",
-      "Cache d’écus de l’aube",
-      "Сундук с гербами зари",
-      "Morgenlichtwappenvorrat",
-      "Baú de Brasões Aurorais",
-      "Cassa di Emblemi dell'Alba",
-      "여명문장 보관함",
-      "晨曦紋章寶箱",
-      "曙光纹章宝箱"
+      "Cache of Mistcrests",
+      "Alijo de niebloemblemas",
+      "Baú de Brasões Brumosos",
+      "Cache of Mistcrests",
+      "Alijo de blasones de bruma",
+      "Cache d’écus de brume",
+      "Сундук с маревыми гербами",
+      "Nebelwappenvorrat",
+      "Baú de Brasões Brumosos",
+      "Cassa di Emblemi della Nebbia",
+      "안개문장 보관함",
+      "迷霧紋章寶箱",
+      "迷雾纹章宝箱"
     ],
     "Media": "inv_11_0_dungeon_fancybox_red.jpg"
   },
@@ -6025,6 +6382,27 @@
       "低垂式烈风碗状吊灯"
     ],
     "Media": "inv_12ph_durotar_lighting_hangingbrazier05_7550694.jpg"
+  },
+  {
+    "TagId": 265931,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Collected Ectoplasm",
+      "Ectoplasma recolectado",
+      "Ectoplasma Coletado",
+      "Collected Ectoplasm",
+      "Ectoplasma recogido",
+      "Ectoplasme amassé",
+      "Собранная эктоплазма",
+      "Gesammeltes Ektoplasma",
+      "Ectoplasma Coletado",
+      "Ectoplasma Raccolto",
+      "수집한 심령체",
+      "收集的魂能",
+      "收集到的灵质"
+    ],
+    "Media": "spell_frost_wisp.jpg"
   },
   {
     "TagId": 265943,

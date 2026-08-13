@@ -4078,19 +4078,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Warrior's Katana",
-      "Katana de guerrero",
-      "Katana do Guerreiro",
-      "Warrior's Katana",
-      "Katana de guerrero",
-      "Katana de combat",
-      "Катана воина",
-      "Katana des Kriegers",
-      "Katana do Guerreiro",
-      "Katana del Guerriero",
-      "전사의 검",
-      "戰士太刀",
-      "战士的太刀"
+      "Monastery's Katana",
+      "Katana de monasterio",
+      "Katana do Monastério",
+      "Monastery's Katana",
+      "Katana de monasterio",
+      "Katana de monastère",
+      "Монастырская катана",
+      "Katana des Klosters",
+      "Katana do Monastério",
+      "Katana del Monastero",
+      "수도원의 검",
+      "修道院太刀",
+      "修道院的太刀"
     ],
     "Media": "inv_sword_1h_generic_b_02.jpg"
   },
@@ -4120,19 +4120,19 @@
     "TagType": 21,
     "Names": [
       null,
-      "Standard Hunter's Glaive",
-      "Guja del cazador estándar",
-      "Glaive do Caçador Padrão",
-      "Standard Hunter's Glaive",
-      "Guja de cazador estándar",
-      "Glaive de chasse classique",
-      "Обычная глефа охотника",
-      "Standardgleve des Jägers",
-      "Glaive do Caçador Padrão",
-      "Lame da Guerra del Cacciatore Ordinarie",
-      "일반적인 사냥꾼의 글레이브",
-      "制式獵人旋刃",
-      "正规猎手的战刃"
+      "Initiate's Training Glaive",
+      "Guja de entrenamiento de iniciado",
+      "Glaive de Treinamento do Iniciado",
+      "Initiate's Training Glaive",
+      "Guja de entrenamiento de iniciado",
+      "Glaive d’entraînement d’initiée",
+      "Тренировочный боевой клинок посвященного",
+      "Trainingsgleve des Initianden",
+      "Glaive de Treinamento do Iniciado",
+      "Lama d'Addestramento dell'Iniziato",
+      "수습생의 훈련용 글레이브",
+      "新兵訓練戰刃",
+      "新兵的训练战刃"
     ],
     "Media": "inv_glaive_1h_generic_b_01.jpg"
   },
@@ -4678,7 +4678,7 @@
       "Redini del Basilisco d'Acquamarina",
       "남옥 바실리스크 고삐",
       "海藍石化蜥蜴韁繩",
-      "青绿石蜥蜴的缰绳"
+      "海蓝宝石蜥蜴的缰绳"
     ],
     "Media": "inv_basaliskmount_blue.jpg"
   },
@@ -8818,6 +8818,90 @@
       "珍稀的火鸡"
     ],
     "Media": "inv_turkeymount_white.jpg"
+  },
+  {
+    "TagId": 250930,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Frostfall Groveglider",
+      "Planeabosques escarchizo",
+      "Planamato Nevindouro",
+      "Frostfall Groveglider",
+      "Planearboledas caescarcha",
+      "Sylverole chutegivre",
+      "Морозная листвяная летяга",
+      "Frostfallhaingleiter",
+      "Planamato Nevindouro",
+      "Planabosco Calagelo",
+      "서리내림 숲활공꾼",
+      "霜落林地飛鼠",
+      "霜落翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_blue.jpg"
+  },
+  {
+    "TagId": 250971,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Cindertuft Groveglider",
+      "Planeabosques penachocinéreo",
+      "Planamato Brasiflóreo",
+      "Cindertuft Groveglider",
+      "Planearboledas hojaceniza",
+      "Sylverole roussalin",
+      "Пеплошерстная листвяная летяга",
+      "Zunderpuschelhaingleiter",
+      "Planamato Brasiflóreo",
+      "Planabosco Cenerciuffo",
+      "잿불터럭 숲활공꾼",
+      "燼絨林地飛鼠",
+      "烬绒翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_brown.jpg"
+  },
+  {
+    "TagId": 250972,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Gloombough Groveglider",
+      "Planeabosques tallosombrío",
+      "Planamato Umbrarbóreo",
+      "Gloombough Groveglider",
+      "Planearboledas ramapenumbra",
+      "Sylverole sombrameau",
+      "Черночащобная листвяная летяга",
+      "Düsterzweighaingleiter",
+      "Planamato Umbrarbóreo",
+      "Planabosco Frondatetra",
+      "암울가지 숲활공꾼",
+      "幽枝林地飛鼠",
+      "幽桠翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_goth.jpg"
+  },
+  {
+    "TagId": 250973,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Blossombranch Groveglider",
+      "Planeabosques ramaflor",
+      "Planamato Ramaflor",
+      "Blossombranch Groveglider",
+      "Planearboledas talloflor",
+      "Sylverole brindelilas",
+      "Цветодревная листвяная летяга",
+      "Blütenasthaingleiter",
+      "Planamato Ramaflor",
+      "Planabosco Bocciolramo",
+      "만개가지 숲활공꾼",
+      "綻枝林地飛鼠",
+      "花枝翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_pink.jpg"
   },
   {
     "TagId": 250974,

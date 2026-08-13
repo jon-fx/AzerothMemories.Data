@@ -970,18 +970,18 @@
     "TagType": 26,
     "Names": [
       null,
-      "Blood-Stained Blades",
+      "ModBlood-Stained Blades",
       "Hojas manchadas de sangre",
-      "Lâminas Ensanguentadas",
-      "Blood-Stained Blades",
+      "ModLâminas Ensanguentadas",
+      "ModBlood-Stained Blades",
       "Hojas manchadas de sangre",
       "Lames tachées de sang",
-      "Запачканные кровью клинки",
+      "Режим: запачканные кровью клинки",
       "Blutbefleckte Klingen",
-      "Lâminas Ensanguentadas",
+      "ModLâminas Ensanguentadas",
       "Lame Macchiate di Sangue",
       "피로 얼룩진 검",
-      "染血之刃",
+      "Mod染血之刃",
       "染血刀刃"
     ],
     "Media": "ability_warrior_bloodbath.jpg"
@@ -8881,6 +8881,48 @@
     "Media": "inv_box_01.jpg"
   },
   {
+    "TagId": 1251604,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Crimson Crystal Column",
+      "Recoger columna de cristal carmesí",
+      "Coletar Coluna de Cristal Carmesim",
+      "Collect Crimson Crystal Column",
+      "Añadir columna de cristal carmesí",
+      "Récupérer une colonne de cristal cramoisi",
+      "Получить багровую кристальную колонну",
+      "Karminrote Kristallsäule sammeln",
+      "Coletar Coluna de Cristal Carmesim",
+      "Raccolta Colonna di Cristallo Cremisi",
+      "진홍색 수정 기둥 획득",
+      "收集赤紅水晶柱",
+      "收集猩红水晶柱"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1251606,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Crimson Crystal Fragment",
+      "Recoger fragmento de cristal carmesí",
+      "Coletar Fragmento de Cristal Carmesim",
+      "Collect Crimson Crystal Fragment",
+      "Añadir fragmento de cristal carmesí",
+      "Récupérer un fragment de cristal cramoisi",
+      "Получить багровый кристальный фрагмент",
+      "Karminrotes Kristallfragment sammeln",
+      "Coletar Fragmento de Cristal Carmesim",
+      "Raccolta Frammento di Cristallo Cremisi",
+      "진홍색 수정 파편 획득",
+      "收集赤紅水晶碎片",
+      "收集猩红水晶碎片"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
     "TagId": 1251607,
     "TagType": 26,
     "Names": [
@@ -10560,6 +10602,27 @@
     "Media": "ability_skyreach_wind_wall.jpg"
   },
   {
+    "TagId": 1251697,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Frostfall Groveglider",
+      "Planeabosques escarchizo",
+      "Planamato Nevindouro",
+      "Frostfall Groveglider",
+      "Planearboledas caescarcha",
+      "Sylverole chutegivre",
+      "Морозная листвяная летяга",
+      "Frostfallhaingleiter",
+      "Planamato Nevindouro",
+      "Planabosco Calagelo",
+      "서리내림 숲활공꾼",
+      "霜落林地飛鼠",
+      "霜落翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_blue.jpg"
+  },
+  {
     "TagId": 1251698,
     "TagType": 26,
     "Names": [
@@ -11063,6 +11126,69 @@
     "Media": "ability_karoz_leap.jpg"
   },
   {
+    "TagId": 1251762,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cindertuft Groveglider",
+      "Planeabosques penachocinéreo",
+      "Planamato Brasiflóreo",
+      "Cindertuft Groveglider",
+      "Planearboledas hojaceniza",
+      "Sylverole roussalin",
+      "Пеплошерстная листвяная летяга",
+      "Zunderpuschelhaingleiter",
+      "Planamato Brasiflóreo",
+      "Planabosco Cenerciuffo",
+      "잿불터럭 숲활공꾼",
+      "燼絨林地飛鼠",
+      "烬绒翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_brown.jpg"
+  },
+  {
+    "TagId": 1251764,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Gloombough Groveglider",
+      "Planeabosques tallosombrío",
+      "Planamato Umbrarbóreo",
+      "Gloombough Groveglider",
+      "Planearboledas ramapenumbra",
+      "Sylverole sombrameau",
+      "Черночащобная листвяная летяга",
+      "Düsterzweighaingleiter",
+      "Planamato Umbrarbóreo",
+      "Planabosco Frondatetra",
+      "암울가지 숲활공꾼",
+      "幽枝林地飛鼠",
+      "幽桠翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_goth.jpg"
+  },
+  {
+    "TagId": 1251765,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blossombranch Groveglider",
+      "Planeabosques ramaflor",
+      "Planamato Ramaflor",
+      "Blossombranch Groveglider",
+      "Planearboledas talloflor",
+      "Sylverole brindelilas",
+      "Цветодревная листвяная летяга",
+      "Blütenasthaingleiter",
+      "Planamato Ramaflor",
+      "Planabosco Bocciolramo",
+      "만개가지 숲활공꾼",
+      "綻枝林地飛鼠",
+      "花枝翔林者"
+    ],
+    "Media": "inv_squirrelflyingmount_pink.jpg"
+  },
+  {
     "TagId": 1251766,
     "TagType": 26,
     "Names": [
@@ -11098,7 +11224,7 @@
       "Ladungsrückstoß",
       "Carga de Refluxo",
       "Carica di Riflusso",
-      "역류 돌진",
+      "역류 파동",
       "充能逆流",
       "回流充能"
     ],
@@ -11203,7 +11329,7 @@
       "Ladungsrückstoß",
       "Carga de Refluxo",
       "Carica di Riflusso",
-      "역류 돌진",
+      "역류 파동",
       "充能逆流",
       "回流充能"
     ],
@@ -11413,7 +11539,7 @@
       "Ladungsrückstoß",
       "Carga de Refluxo",
       "Carica di Riflusso",
-      "역류 돌진",
+      "역류 파동",
       "充能逆流",
       "回流充能"
     ],
@@ -13010,7 +13136,7 @@
       "Raccolta Arco Cenariano",
       "세나리온 아치 획득",
       "收集塞納里奧拱門",
-      "收集塞纳里奥圆拱"
+      "收集塞纳里奥拱门"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },

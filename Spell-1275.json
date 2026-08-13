@@ -1574,6 +1574,27 @@
     "Media": "spell_mage_frostbomb.jpg"
   },
   {
+    "TagId": 1275686,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Screen Shake Area",
+      "Área de vibración de pantalla",
+      "Área de Balanço de Tela",
+      "Screen Shake Area",
+      "Área de temblor de pantalla",
+      "Zone de tremblement d’écran",
+      "Область сотрясения экрана",
+      "Bildwackeleffektbereich",
+      "Área de Balanço de Tela",
+      "Area Movimento dello Schermo",
+      "화면 진동 범위",
+      "畫面晃動範圍",
+      "屏幕抖动区域"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1275687,
     "TagType": 26,
     "Names": [
@@ -1677,6 +1698,27 @@
       "[DNT] Generic Invis"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1275705,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Famished",
+      "Famélico",
+      "Faminto",
+      "Famished",
+      "Famélico",
+      "Grande faim",
+      "Голод",
+      "Ausgehungert",
+      "Faminto",
+      "Affamato",
+      "굶주림",
+      "飢餓",
+      "饥不可耐"
+    ],
+    "Media": "inv_fishingpole_02.jpg"
   },
   {
     "TagId": 1275708,
@@ -1805,23 +1847,65 @@
     "Media": "petbattle_speed.jpg"
   },
   {
+    "TagId": 1275730,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blue Water, Blue Sky",
+      "Agua azul, cielo azul",
+      "Água Azul, Céu Azul",
+      "Blue Water, Blue Sky",
+      "Agua azul y cielo azul",
+      "Eau bleue, ciel azur",
+      "Голубая вода, голубое небо",
+      "Blaues Wasser, blauer Himmel",
+      "Água Azul, Céu Azul",
+      "Acqua Blu, Cielo Blu",
+      "푸른 물결, 푸른 하늘",
+      "藍海藍天",
+      "碧水蓝天"
+    ],
+    "Media": "ability_druid_aquaticform.jpg"
+  },
+  {
+    "TagId": 1275731,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hungry Dolphin Summon",
+      "Invocación de delfín hambriento",
+      "Evocar Golfinho Faminto",
+      "Hungry Dolphin Summon",
+      "Invocación de delfín hambriento",
+      "Invocation de dauphin affamé",
+      "Призыв голодного дельфина",
+      "Hungrigen Delfin beschwören",
+      "Evocar Golfinho Faminto",
+      "Evocazione: Delfino Affamato",
+      "굶주린 돌고래 소환",
+      "召喚飢餓的海豚",
+      "召唤饥饿的海豚"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1275754,
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2",
-      "Collect [DNT] [AUTOGEN] 12TR_Amani_Structure_Hex_Awning01.m2"
+      "Collect Fortified Amani Awning",
+      "Recoger marquesina amani fortificada",
+      "Coletar Toldo Amani Fortificado",
+      "Collect Fortified Amani Awning",
+      "Añadir toldo Amani reforzado",
+      "Récupérer un auvent amani fortifié",
+      "Получить укрепленный аманийский навес",
+      "Verstärktes Amanivordach sammeln",
+      "Coletar Toldo Amani Fortificado",
+      "Raccolta Tendone degli Amani Rinforzato",
+      "강화된 아마니 차양 획득",
+      "收集強化的阿曼尼遮篷",
+      "收集强固的阿曼尼雨篷"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -1845,6 +1929,27 @@
       "采集"
     ],
     "Media": "inv_glove_armor_princessgloves_a_01.jpg"
+  },
+  {
+    "TagId": 1275756,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dolphin Vehicle Despawn",
+      "Desaparición de vehículo de delfín",
+      "Desaparecimento de Veículo Golfinho",
+      "Dolphin Vehicle Despawn",
+      "Desaparición de vehículo de delfín",
+      "Disparition du dauphin de transport",
+      "Исчезновение транспорта дельфина",
+      "Delfintransportmittel verschwinden lassen",
+      "Desaparecimento de Veículo Golfinho",
+      "Sparizione Veicolo Delfino",
+      "돌고래 차량 소환 해제",
+      "海豚載具消除",
+      "海豚载具消失"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1275763,
@@ -2370,6 +2475,48 @@
       "冰川过载"
     ],
     "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 1275803,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Breath of Jan'alai",
+      "Aliento de Jan'alai",
+      "Sopro de Jan'alai",
+      "Breath of Jan'alai",
+      "Aliento de Jan'alai",
+      "Souffle de Jan’alai",
+      "Дыхание Джан'алай",
+      "Atem von Jan'alai",
+      "Sopro de Jan'alai",
+      "Respiro di Jan'alai",
+      "잔알라이의 숨결",
+      "賈納雷之息",
+      "加亚莱的呼吸"
+    ],
+    "Media": "inv_10_engineering_device_flamethrower_flame.jpg"
+  },
+  {
+    "TagId": 1275804,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Breath of Jan'alai",
+      "Aliento de Jan'alai",
+      "Sopro de Jan'alai",
+      "Breath of Jan'alai",
+      "Aliento de Jan'alai",
+      "Souffle de Jan’alai",
+      "Дыхание Джан'алай",
+      "Atem von Jan'alai",
+      "Sopro de Jan'alai",
+      "Respiro di Jan'alai",
+      "잔알라이의 숨결",
+      "賈納雷之息",
+      "加亚莱的呼吸"
+    ],
+    "Media": "ability_rhyolith_magmaflow_wave.jpg"
   },
   {
     "TagId": 1275807,

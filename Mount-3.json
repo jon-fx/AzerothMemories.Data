@@ -1,5 +1,68 @@
 [
   {
+    "TagId": 3002,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Lightbloom Boar",
+      "Jabalí floraluz despiadado",
+      "Javali de Floraluz Cruel",
+      "Vicious Lightbloom Boar",
+      "Jabalí de flor de Luz sañoso",
+      "Sanglier luméclat vicieux",
+      "Свирепый светоцветный вепрь",
+      "Bösartiger Lichtblüteneber",
+      "Javali de Floraluz Cruel",
+      "Cinghiale della Fioritura di Luce Malvagio",
+      "흉포한 빛만개 멧돼지",
+      "兇惡光綻野豬",
+      "勇猛的光绽野猪"
+    ],
+    "Media": "inv_viciouslightbloomboar_blue.jpg"
+  },
+  {
+    "TagId": 3003,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Vicious Lightbloom Boar",
+      "Jabalí floraluz despiadado",
+      "Javali de Floraluz Cruel",
+      "Vicious Lightbloom Boar",
+      "Jabalí de flor de Luz sañoso",
+      "Sanglier luméclat vicieux",
+      "Свирепый светоцветный вепрь",
+      "Bösartiger Lichtblüteneber",
+      "Javali de Floraluz Cruel",
+      "Cinghiale della Fioritura di Luce Malvagio",
+      "흉포한 빛만개 멧돼지",
+      "兇惡光綻野豬",
+      "勇猛的光绽野猪"
+    ],
+    "Media": "inv_viciouslightbloomboar_red.jpg"
+  },
+  {
+    "TagId": 3004,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Autumnal Witchwick's Rider",
+      "Jinete de mechabruja otoñal",
+      "Cavalgante da Bruxavil Outonal",
+      "Autumnal Witchwick's Rider",
+      "Escoba de mechabruja otoñal",
+      "Chevaucheur ensorceleur automnal",
+      "Осенний чарофитильный транспорт",
+      "Reiter der herbstlichen Hexenkerze",
+      "Cavalgante da Bruxavil Outonal",
+      "Scopa da Strega Autunnale",
+      "가을 마녀심지 빗자루",
+      "秋日巫芯騎帚",
+      "秋日巫烛扫帚"
+    ],
+    "Media": "inv_broomstickspicewitch.jpg"
+  },
+  {
     "TagId": 3005,
     "TagType": 22,
     "Names": [
@@ -126,6 +189,279 @@
     "Media": "inv_goblinspidertank.jpg"
   },
   {
+    "TagId": 3014,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Mossy Witchwick's Rider",
+      "Jinete de mechabruja musgosa",
+      "Cavalgante da Bruxavil Musgosa",
+      "Mossy Witchwick's Rider",
+      "Escoba de mechabruja musgosa",
+      "Chevaucheur ensorceleur moussu",
+      "Мшистый чарофитильный транспорт",
+      "Reiter der moosigen Hexenkerze",
+      "Cavalgante da Bruxavil Musgosa",
+      "Scopa da Strega Muschiosa",
+      "이끼 마녀심지 빗자루",
+      "青苔巫芯騎帚",
+      "长苔巫烛扫帚"
+    ],
+    "Media": "inv_broomstickspicewitch.jpg"
+  },
+  {
+    "TagId": 3015,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Moonlit Witchwick's Rider",
+      "Jinete de mechabruja de luz lunar",
+      "Cavalgante da Bruxavil do Brilho Lunar",
+      "Moonlit Witchwick's Rider",
+      "Escoba de mechabruja de luz de luna",
+      "Chevaucheur ensorceleur sélénite",
+      "Лунный чарофитильный транспорт",
+      "Reiter der mondbeschienenen Hexenkerze",
+      "Cavalgante da Bruxavil do Brilho Lunar",
+      "Scopa da Strega Lunare",
+      "달빛 마녀심지 빗자루",
+      "月光巫芯騎帚",
+      "月光巫烛扫帚"
+    ],
+    "Media": "inv_broomstickspicewitch.jpg"
+  },
+  {
+    "TagId": 3016,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Scarlet Witchwick's Rider",
+      "Jinete de mechabruja escarlata",
+      "Cavalgante da Bruxavil Escarlate",
+      "Scarlet Witchwick's Rider",
+      "Escoba de mechabruja escarlata",
+      "Chevaucheur ensorceleur écarlate",
+      "Алый чарофитильный транспорт",
+      "Reiter der scharlachroten Hexenkerze",
+      "Cavalgante da Bruxavil Escarlate",
+      "Scopa da Strega Scarlatta",
+      "진홍색 마녀심지 빗자루",
+      "血色巫芯騎帚",
+      "猩红巫烛扫帚"
+    ],
+    "Media": "inv_broomstickspicewitch.jpg"
+  },
+  {
+    "TagId": 3017,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Blushing Witchwick's Rider",
+      "Jinete de mechabruja ruborizada",
+      "Cavalgante da Bruxavil Corada",
+      "Blushing Witchwick's Rider",
+      "Escoba de mechabruja ruborizada",
+      "Chevaucheur ensorceleur empourpré",
+      "Рдеющий чарофитильный транспорт",
+      "Reiter der errötenden Hexenkerze",
+      "Cavalgante da Bruxavil Corada",
+      "Scopa da Strega Rossastra",
+      "홍조 마녀심지 빗자루",
+      "紅霞巫芯騎帚",
+      "羞赧巫烛扫帚"
+    ],
+    "Media": "inv_broomstickspicewitch.jpg"
+  },
+  {
+    "TagId": 3018,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Carmine Witchwick's Rider",
+      "Jinete de mechabruja carmín",
+      "Cavalgante da Bruxavil Carmim",
+      "Carmine Witchwick's Rider",
+      "Escoba de mechabruja carmín",
+      "Chevaucheur ensorceleur carmin",
+      "Карминный чарофитильный транспорт",
+      "Reiter der karminroten Hexenkerze",
+      "Cavalgante da Bruxavil Carmim",
+      "Scopa da Strega Carminio",
+      "암적색 마녀심지 빗자루",
+      "豔紅巫芯騎帚",
+      "胭脂巫烛扫帚"
+    ],
+    "Media": "inv_broomstickspicewitch.jpg"
+  },
+  {
+    "TagId": 3019,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Sea-Dwelling Isle Serpent",
+      "Serpiente isleña marina",
+      "Serpente Marinha da Ilha",
+      "Sea-Dwelling Isle Serpent",
+      "Sierpe marina de las islas",
+      "Serpent insulaire marin",
+      "Островной морской змей",
+      "Meeresschlange der Insel",
+      "Serpente Marinha da Ilha",
+      "Serpente Marino dell'Isola",
+      "바다살이 섬 독사",
+      "海棲島嶼毒蛇",
+      "海栖岛屿巨蛇"
+    ],
+    "Media": "inv_venomserpentmount_purple.jpg"
+  },
+  {
+    "TagId": 3020,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Caustic Venomfang",
+      "Venolmillo cáustico",
+      "Viperiveno Cáustico",
+      "Caustic Venomfang",
+      "Colmillo de veneno cáustico",
+      "Crochet-venin caustique",
+      "Кислотный ядоклык",
+      "Ätzender Giftzahn",
+      "Viperiveno Cáustico",
+      "Zannavenefica Caustico",
+      "부식성 맹독송곳니",
+      "腐蝕毒牙",
+      "腐蚀毒牙"
+    ],
+    "Media": "inv_venomserpentmount_green.jpg"
+  },
+  {
+    "TagId": 3021,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crimson Venomfang",
+      "Venolmillo carmesí",
+      "Viperiveno Carmesim",
+      "Crimson Venomfang",
+      "Colmillo de veneno carmesí",
+      "Crochet-venin cramoisi",
+      "Багровый ядоклык",
+      "Blutroter Giftzahn",
+      "Viperiveno Carmesim",
+      "Zannavenefica Cremisi",
+      "진홍빛 맹독송곳니",
+      "緋紅毒牙",
+      "猩红毒蝮"
+    ],
+    "Media": "inv_venomserpentmount_pink.jpg"
+  },
+  {
+    "TagId": 3023,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Auriferous Venomfang",
+      "Venolmillo aurífero",
+      "Viperiveno Aurífero",
+      "Auriferous Venomfang",
+      "Colmillo de veneno aurífero",
+      "Crochet-venin aurifère",
+      "Златоносный ядоклык",
+      "Goldhaltiger Giftzahn",
+      "Viperiveno Aurífero",
+      "Zannavenefica Aurifera",
+      "황금을 품은 맹독송곳니",
+      "阿莉法娜奧絲毒牙",
+      "耀金毒蝮"
+    ],
+    "Media": "inv_venomserpentmount_yellow.jpg"
+  },
+  {
+    "TagId": 3029,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Apophic Soul Crusher",
+      "Trituraalmas apófico",
+      "Esmagador de Almas Apófico",
+      "Apophic Soul Crusher",
+      "Aplastaalmas de apofis",
+      "Écraseur d’âmes apophique",
+      "Апофический сокрушитель душ",
+      "Apophischer Seelenbrecher",
+      "Esmagador de Almas Apófico",
+      "Frangianime Apofico",
+      "불길한 영혼 분쇄자",
+      "毀神碎魂者",
+      "灾蛇碎魂者"
+    ],
+    "Media": "inv_serpentgolemmountnemesis.jpg"
+  },
+  {
+    "TagId": 3030,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Primeval Skyfriend",
+      "Benigno del cielo primitivo",
+      "Amigo do Céu Primevo",
+      "Primeval Skyfriend",
+      "Cielosierpe primigenia",
+      "Firmami primitif",
+      "Доисторический доброзмей",
+      "Urzeitlicher Himmelsfreund",
+      "Amigo do Céu Primevo",
+      "Amico del Cielo Primevo",
+      "태고의 하늘벗",
+      "原初天空之友",
+      "始源天翔飞蛇"
+    ],
+    "Media": "inv_flyingserpentmount.jpg"
+  },
+  {
+    "TagId": 3031,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Hexflame Reaver",
+      "Atracador malefillama",
+      "Aniquilador Magichama",
+      "Hexflame Reaver",
+      "Atracador Malellama",
+      "Saccageur malfeu",
+      "Разоритель заговоренного пламени",
+      "Hexflammenhäscher",
+      "Aniquilador Magichama",
+      "Razziatore di Malafiamma",
+      "사술불꽃 약탈자",
+      "魔焰劫奪者",
+      "妖焰劫掠者"
+    ],
+    "Media": "inv_manawyrm2mount_poison2.jpg"
+  },
+  {
+    "TagId": 3032,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Preyhunter's Fury",
+      "Furia de cazapresa",
+      "Fúria do Rapinador",
+      "Preyhunter's Fury",
+      "Furia del cazapresas",
+      "Fureur de traque-proie",
+      "Фурия загонщика",
+      "Zorn des Beutejägers",
+      "Fúria do Rapinador",
+      "Furia del Cacciatore di Prede",
+      "사냥감 수렵가의 격노",
+      "狩獵者之怒",
+      "猎捕手的狂怒"
+    ],
+    "Media": "inv_manawyrm2mount_poison1.jpg"
+  },
+  {
     "TagId": 3033,
     "TagType": 22,
     "Names": [
@@ -166,5 +502,362 @@
       "烈阳节的绘纹巨鹏"
     ],
     "Media": "inv_gianteagle2sunwalkermount_orange.jpg"
+  },
+  {
+    "TagId": 3043,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Corroded Soul Crusher",
+      "Trituraalmas corroído",
+      "Esmagador de Almas Corroído",
+      "Corroded Soul Crusher",
+      "Aplastaalmas corroído",
+      "Écraseur d’âmes corrodé",
+      "Изъеденный сокрушитель душ",
+      "Korrodierter Seelenbrecher",
+      "Esmagador de Almas Corroído",
+      "Frangianime Corroso",
+      "부식된 영혼 분쇄자",
+      "腐蝕碎魂者",
+      "腐蚀碎魂者"
+    ],
+    "Media": "inv_serpentgolemmount.jpg"
+  },
+  {
+    "TagId": 3051,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Topaz Skyfang",
+      "Colmicielo de topacio",
+      "Presaceleste de Topázio",
+      "Topaz Skyfang",
+      "Colmilloceleste de topacio",
+      "Croc-du-ciel topaze",
+      "Топазовый небесный клык",
+      "Topasfarbener Himmelszahn",
+      "Presaceleste de Topázio",
+      "Zannalata di Topazio",
+      "토파즈 하늘송곳니",
+      "黃寶石天牙風蛇",
+      "黄玉天牙"
+    ],
+    "Media": "inv_windserpent3mount_yellow.jpg"
+  },
+  {
+    "TagId": 3053,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Emerald Skyfang",
+      "Colmicielo esmeralda",
+      "Presaceleste Esmeralda",
+      "Emerald Skyfang",
+      "Colmilloceleste esmeralda",
+      "Croc-du-ciel émeraude",
+      "Изумрудный небесный клык",
+      "Smaragdgrüner Himmelszahn",
+      "Presaceleste Esmeralda",
+      "Zannalata di Smeraldo",
+      "에메랄드 하늘송곳니",
+      "翡翠天牙風蛇",
+      "翡翠天牙"
+    ],
+    "Media": "inv_windserpent3mount_green.jpg"
+  },
+  {
+    "TagId": 3054,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Violet-Backed Skyfang",
+      "Colmicielo de lomo violeta",
+      "Presaceleste de Dorso Violeta",
+      "Violet-Backed Skyfang",
+      "Colmilloceleste de lomo violáceo",
+      "Croc-du-ciel dos-pourpre",
+      "Лиловоспинный небесный клык",
+      "Lilarückenhimmelszahn",
+      "Presaceleste de Dorso Violeta",
+      "Zannalata dal Dorso Viola",
+      "자주등 하늘송곳니",
+      "紫背天牙風蛇",
+      "紫背天牙"
+    ],
+    "Media": "inv_windserpent3mount_purple.jpg"
+  },
+  {
+    "TagId": 3058,
+    "TagType": 22,
+    "Names": [
+      null,
+      "The Writhing Brood",
+      "La nidada retorcida",
+      "A Ninhada Retorcida",
+      "The Writhing Brood",
+      "La prole retorcida",
+      "Progéniture grouillante",
+      "Извивающийся выводок",
+      "Die windende Brut",
+      "A Ninhada Retorcida",
+      "Prole Contorcente",
+      "격동하는 무리",
+      "扭動幼蛇",
+      "扭缠群嗣"
+    ],
+    "Media": "inv_writhesmount_white.jpg"
+  },
+  {
+    "TagId": 3060,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Indigo Coiled Horror",
+      "Horror enrollado índigo",
+      "Horror Enrolado Índigo",
+      "Indigo Coiled Horror",
+      "Horror serpenteante índigo",
+      "Horreur enroulée indigo",
+      "Фиолетовый извивающийся ужас",
+      "Indigofarbener gewundener Schrecken",
+      "Horror Enrolado Índigo",
+      "Orrore Arrotolato Indaco",
+      "쪽빛 똬리의 공포",
+      "靛青盤繞恐懼",
+      "靛蓝盘卷恐魔"
+    ],
+    "Media": "inv_writhesmount_purple.jpg"
+  },
+  {
+    "TagId": 3061,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Ruby Writhe",
+      "Contortio rubí",
+      "Contórcia de Rubi",
+      "Ruby Writhe",
+      "Retuerto de rubí",
+      "Tortilleur rubis",
+      "Рубиновый скользмей",
+      "Rubinwinder",
+      "Contórcia de Rubi",
+      "Torsius di Rubino",
+      "루비 격동뱀",
+      "紅寶石蛇妖",
+      "红玉扭缠蛇"
+    ],
+    "Media": "inv_writhesmount_pink.jpg"
+  },
+  {
+    "TagId": 3062,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Venomous Coiler",
+      "Volutador venenoso",
+      "Espiríleo Peçonhento",
+      "Venomous Coiler",
+      "Víbora venenosa",
+      "Reptile venimeux",
+      "Ядовитый душитель",
+      "Giftiger Winder",
+      "Espiríleo Peçonhento",
+      "Spiraserpe Velenosa",
+      "맹독의 똬리뱀",
+      "劇毒曲蛇",
+      "烈毒盘蛇"
+    ],
+    "Media": "inv_writhesmount_green.jpg"
+  },
+  {
+    "TagId": 3063,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Breath of Blight",
+      "Aliento de la peste",
+      "Bafo Pestilento",
+      "Breath of Blight",
+      "Aliento de añublo",
+      "Souffle de chancre",
+      "Дыхание Чумы",
+      "Seuchenhauch",
+      "Bafo Pestilento",
+      "Soffio del Morbo",
+      "역병의 숨결",
+      "荒疫之息",
+      "凋零吐息风蛇"
+    ],
+    "Media": "inv_windserpent3mount_skeletal_green.jpg"
+  },
+  {
+    "TagId": 3064,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Breath of Ruin",
+      "Aliento de la ruina",
+      "Bafo da Ruína",
+      "Breath of Ruin",
+      "Aliento de ruina",
+      "Souffle de ruine",
+      "Дыхание Разрушения",
+      "Ruinhauch",
+      "Bafo da Ruína",
+      "Soffio della Rovina",
+      "황폐의 숨결",
+      "毀滅之息",
+      "毁灭之息风蛇"
+    ],
+    "Media": "inv_windserpent3mount_skeletal_red.jpg"
+  },
+  {
+    "TagId": 3069,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Umbral Ashes",
+      "Cenizas umbrías",
+      "Cinzas Umbráticas",
+      "Umbral Ashes",
+      "Cenizas umbrías",
+      "Cendres ombreuses",
+      "Теневой Пепел",
+      "Umbralasche",
+      "Cinzas Umbráticas",
+      "Ceneri Ombrali",
+      "암영의 재",
+      "晦影之燼",
+      "晦暗灰烬"
+    ],
+    "Media": "inv_darkwellphoenixmount2.jpg"
+  },
+  {
+    "TagId": 3070,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Whoofle Bramblewing",
+      "Alazarza impaciente",
+      "Corujulfo Asa de Sarça",
+      "Whoofle Bramblewing",
+      "Alazarza ululante",
+      "Aileronce chevêche",
+      "Ухающий тернокрыл",
+      "Wuffel Dornenschwinge",
+      "Corujulfo Asa de Sarça",
+      "Alaspinosa Piumato",
+      "후후 덤불날개",
+      "胡夫勒刺藤之翼",
+      "丛薮之翼"
+    ],
+    "Media": "inv_pigmyowlmount.jpg"
+  },
+  {
+    "TagId": 3102,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crested Ember Leafmimic",
+      "Imitahojas crestado de brasas",
+      "Camufolha Abrasado com Crista",
+      "Crested Ember Leafmimic",
+      "Mimético foliar crestado radiante",
+      "Mime-feuille braise à crête",
+      "Янтарный гребенчатый хамелеон",
+      "Glutroter verzierter Laubtäuscher",
+      "Camufolha Abrasado com Crista",
+      "Imitafoglia Ardente Crestato",
+      "볏머리 불씨 풀잎흉내쟁이",
+      "羽冠餘燼仿葉獸",
+      "有冠烬叶拟态兽"
+    ],
+    "Media": "inv_chameleonmount_red.jpg"
+  },
+  {
+    "TagId": 3103,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crested Aqua Leafmimic",
+      "Imitahojas crestado aguamarina",
+      "Camufolha Azul-turquesa com Crista",
+      "Crested Aqua Leafmimic",
+      "Mimético foliar crestado acuático",
+      "Mime-feuille aquatique à crête",
+      "Аквамариновый гребенчатый хамелеон",
+      "Türkisfarbener verzierter Laubtäuscher",
+      "Camufolha Azul-turquesa com Crista",
+      "Imitafoglia d'Acqua Crestato",
+      "볏머리 수상 풀잎흉내쟁이",
+      "羽冠水棲仿葉獸",
+      "有冠水生叶拟态兽"
+    ],
+    "Media": "inv_chameleonmount_blue.jpg"
+  },
+  {
+    "TagId": 3104,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crested Verdant Leafmimic",
+      "Imitahojas crestado verde",
+      "Camufolha Verdejante com Crista",
+      "Crested Verdant Leafmimic",
+      "Mimético foliar crestado verdeante",
+      "Mime-feuille verdoyant à crête",
+      "Изумрудный гребенчатый хамелеон",
+      "Tiefgrüner verzierter Laubtäuscher",
+      "Camufolha Verdejante com Crista",
+      "Imitafoglia Verdeggiante Crestato",
+      "볏머리 신록 풀잎흉내쟁이",
+      "羽冠翠綠仿葉獸",
+      "有冠翠绿叶拟态兽"
+    ],
+    "Media": "inv_chameleonmount_green.jpg"
+  },
+  {
+    "TagId": 3105,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Crested Violet Leafmimic",
+      "Imitahojas crestado violeta",
+      "Camufolha Violeta com Crista",
+      "Crested Violet Leafmimic",
+      "Mimético foliar crestado violeta",
+      "Mime-feuille pourpre à crête",
+      "Лиловый гребенчатый хамелеон",
+      "Violetter verzierter Laubtäuscher",
+      "Camufolha Violeta com Crista",
+      "Imitafoglia Viola Crestato",
+      "볏머리 보랏빛 풀잎흉내쟁이",
+      "羽冠紫色仿葉獸",
+      "有冠紫罗兰叶拟态兽"
+    ],
+    "Media": "inv_chameleonmount_purple.jpg"
+  },
+  {
+    "TagId": 3119,
+    "TagType": 22,
+    "Names": [
+      null,
+      "Wintry Witchwick's Rider",
+      "Jinete de mechabruja invernal",
+      "Cavalgante da Bruxavil Invernal",
+      "Wintry Witchwick's Rider",
+      "Escoba de mechabruja invernal",
+      "Chevaucheur ensorceleur hivernal",
+      "Зимний чарофитильный транспорт",
+      "Reiter der winterlichen Hexenkerze",
+      "Cavalgante da Bruxavil Invernal",
+      "Scopa da Strega Invernale",
+      "겨울 마녀심지 빗자루",
+      "寒冬巫芯騎帚",
+      "凛冬巫烛扫帚"
+    ],
+    "Media": "inv_broomstickspicewitch.jpg"
   }
 ]

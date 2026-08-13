@@ -1747,19 +1747,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Traditional Brewfest Stein",
+      "Jarra de la Fiesta de la Cerveza tradicional",
+      "Caneco da CervaFest Tradicional",
+      "Traditional Brewfest Stein",
+      "Jarra tradicional de la Fiesta de la Cerveza",
+      "Bock traditionnel de la fête des Brasseurs",
+      "Традиционная кружка Хмельного фестиваля",
+      "Traditioneller Braufestkrug",
+      "Caneco da CervaFest Tradicional",
+      "Boccale della Festa della Birra Tradizionale",
+      "전통 가을 축제 맥주잔",
+      "傳統啤酒節酒杯",
+      "传统美酒节酒杯"
     ],
     "Media": "inv_beerfest_mug03_open01_7423533.jpg"
   },
@@ -5226,7 +5226,7 @@
       "咕嚕摩卡法精煉廠",
       "土地精放牛人咔啡提纯器"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_pa_still_01_7423677.jpg"
   },
   {
     "TagId": 248403,
@@ -5247,28 +5247,28 @@
       "咕嚕摩帳篷",
       "土地精帐篷"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_sherpa_tent_01_7423681.jpg"
   },
   {
     "TagId": 248404,
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Stack of Kafa Mugs",
+      "Pila de tazas de kafa",
+      "Pilha de Canecas de Kafa",
+      "Stack of Kafa Mugs",
+      "Montón de jarras de kafa",
+      "Pile de tasses à kafa",
+      "Набор кафовых кружек",
+      "Stapel Kafatassen",
+      "Pilha de Canecas de Kafa",
+      "Pila di Tazze da Kafa",
+      "카파 잔 묶음",
+      "一疊卡法酒杯",
+      "咔啡杯架"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_7dl_dalaran_coffeemugstack01_7423685.jpg"
   },
   {
     "TagId": 248405,
@@ -5289,7 +5289,7 @@
       "卡法奶盅",
       "咔啡伴侣"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_7dl_dalaran_coffeecreamer01_7967939.jpg"
   },
   {
     "TagId": 248406,
@@ -5310,7 +5310,7 @@
       "戲法旅舍標誌告示板",
       "魔术旅馆招牌"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_7dl_dalaran_coffeesignboard01_7423689.jpg"
   },
   {
     "TagId": 248407,
@@ -5331,7 +5331,7 @@
       "達拉然卡法桌",
       "达拉然咔啡桌"
     ],
-    "Media": "garrison_building_storehouse.jpg"
+    "Media": "inv_7dl_dalaran_coffeetable01_7423693.jpg"
   },
   {
     "TagId": 248408,
@@ -8841,6 +8841,48 @@
     "Media": "inv_misc_2h_battlefork_a_01_gold.jpg"
   },
   {
+    "TagId": 248833,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_sword_133.jpg"
+  },
+  {
+    "TagId": 248836,
+    "TagType": 21,
+    "Names": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "Media": "inv_sword_133.jpg"
+  },
+  {
     "TagId": 248837,
     "TagType": 21,
     "Names": [
@@ -9091,6 +9133,27 @@
       "无拘队长斗篷"
     ],
     "Media": "inv_cape_plate_outdoorethereal_c_01.jpg"
+  },
+  {
+    "TagId": 248920,
+    "TagType": 21,
+    "Names": [
+      null,
+      "Nightwatch Mask",
+      "Máscara de los vigías de la noche",
+      "Máscara da Vigília Noturna",
+      "Nightwatch Mask",
+      "Máscara de Vigía de la Noche",
+      "Masque de guet de nuit",
+      "Маска Сумеречной стражи",
+      "Maske der Nachtwache",
+      "Máscara da Vigília Noturna",
+      "Maschera della Guardia Notturna",
+      "야경꾼 가면",
+      "守夜者面具",
+      "守夜面具"
+    ],
+    "Media": "inv_helm_mask_fittedalpha_b_01_nightborne_02.jpg"
   },
   {
     "TagId": 248927,
@@ -9580,19 +9643,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Mysterious Voodoo Mask",
+      "Máscara vudú misteriosa",
+      "Máscara de Vodu Misteriosa",
+      "Mysterious Voodoo Mask",
+      "Máscara vudú misteriosa",
+      "Masque vaudou mystérieux",
+      "Загадочная маска вуду",
+      "Geheimnisvolle Voodoomaske",
+      "Máscara de Vodu Misteriosa",
+      "Maschera Vudù Misteriosa",
+      "수수께끼의 부두 가면",
+      "神秘巫毒面具",
+      "神秘巫毒面具"
     ],
     "Media": "inv_12tr_amani_decor_tikimask02_7424025.jpg"
   },
@@ -9601,19 +9664,19 @@
     "TagType": 21,
     "Names": [
       null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      "Spirit-Touched Amani Mask",
+      "Máscara amani tocada por los espíritus",
+      "Máscara Amani Tocada no Espírito",
+      "Spirit-Touched Amani Mask",
+      "Máscara Amani tocada por los espíritus",
+      "Masque amani touché par les esprits",
+      "Аманийская маска касания духа",
+      "Geistberührte Amanimaske",
+      "Máscara Amani Tocada no Espírito",
+      "Maschera degli Amani Toccata dallo Spirito",
+      "심령에 물든 아마니 가면",
+      "靈觸阿曼尼面具",
+      "灵触阿曼尼面具"
     ],
     "Media": "inv_12tr_amani_decor_tikimask03_7424029.jpg"
   },
@@ -10182,6 +10245,6 @@
       null,
       null
     ],
-    "Media": "inv_axe_1h_draenorcrafted_d_02_c_horde.jpg"
+    "Media": "inv_axe_2h_zuljarra_d_01.jpg"
   }
 ]

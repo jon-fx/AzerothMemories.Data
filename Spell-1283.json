@@ -67,19 +67,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired",
-      "[DNT] Max Offerings Acquired"
+      "Max Offerings Acquired",
+      "Ofrendas máximas obtenidas",
+      "Máximo de Oferendas Adquiridas",
+      "Max Offerings Acquired",
+      "Máximo de ofrendas conseguidas",
+      "Offrandes maximales obtenues",
+      "Максимум подношений получен",
+      "Maximale Gaben erhalten",
+      "Máximo de Oferendas Adquiridas",
+      "Numero Massimo di Offerte Ottenute",
+      "최대 공물 획득",
+      "獲取最多祭品",
+      "获得的供品达到上限"
     ],
     "Media": "spell_misc_emotionhappy.jpg"
   },
@@ -103,6 +103,90 @@
       "致伤毒药"
     ],
     "Media": "ability_hunter_cobrashot.jpg"
+  },
+  {
+    "TagId": 1283008,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stealth",
+      "Sigilo",
+      "Furtividade",
+      "Stealth",
+      "Sigilo",
+      "Camouflage",
+      "Незаметность",
+      "Verstohlenheit",
+      "Furtividade",
+      "Furtività",
+      "은신",
+      "潛行",
+      "潜行"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283015,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles",
+      "[DNT] Shark Explode - Missiles"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283025,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint",
+      "[DNT] Kill Credit - Agility Course - Checkpoint"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283026,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End",
+      "[DNT] Kill Credit - Agility Course - End"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283035,
@@ -185,6 +269,48 @@
       "Kill Credit (DNT)",
       "Kill Credit (DNT)",
       "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283056,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura",
+      "[DNT] Feed - Override Aura"
+    ],
+    "Media": "inv_misc_food_126_clammeat.jpg"
+  },
+  {
+    "TagId": 1283059,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark",
+      "[DNT] Kill Credit: Shark"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -294,6 +420,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283077,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sszorak",
+      "Sszorak",
+      "Sszorak",
+      "Sszorak",
+      "Sszorak",
+      "Sszorak",
+      "Ссзорак",
+      "Sszorak",
+      "Sszorak",
+      "Sszorak",
+      "스조라크",
+      "司佐拉",
+      "斯索拉克"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283078,
     "TagType": 26,
     "Names": [
@@ -357,6 +504,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283090,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mutagenic Monstrosity",
+      "Monstruosidad mutagénica",
+      "Monstruosidade Mutagênica",
+      "Mutagenic Monstrosity",
+      "Monstruosidad mutagénica",
+      "Monstruosité mutagène",
+      "Мутировавшее чудовище",
+      "Mutagene Monstrosität",
+      "Monstruosidade Mutagênica",
+      "Mostruosità Mutagenica",
+      "돌연변이 유발 괴수",
+      "突變怪物",
+      "诱变畸体"
+    ],
+    "Media": "spell_nature_poisoncleansingtotem.jpg"
+  },
+  {
     "TagId": 1283091,
     "TagType": 26,
     "Names": [
@@ -399,6 +567,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283094,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mutant Regeneration",
+      "Regeneración mutante",
+      "Regeneração Mutante",
+      "Mutant Regeneration",
+      "Regeneración mutante",
+      "Régénération mutante",
+      "Регенерация мутанта",
+      "Mutantenregeneration",
+      "Regeneração Mutante",
+      "Rigenerazione Mutante",
+      "돌연변이의 재생력",
+      "突變再生",
+      "突变体再生"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283097,
     "TagType": 26,
     "Names": [
@@ -420,6 +609,47 @@
     "Media": "inv_crossbow_2h_kultirasquest_b_01.jpg"
   },
   {
+    "TagId": 1283099,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Cast"
+    ]
+  },
+  {
+    "TagId": 1283102,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro NPC: Taxi Arrival"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283104,
     "TagType": 26,
     "Names": [
@@ -439,6 +669,27 @@
       "Play Stay A While Scene (DNT)"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283105,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Zan",
+      "Zan",
+      "Zan",
+      "Zan",
+      "Zan",
+      "Zan",
+      "Зан",
+      "Zan",
+      "Zan",
+      "Zan",
+      "잔",
+      "贊恩",
+      "赞"
+    ],
+    "Media": "inv_121_pet_babysnake_yellow.jpg"
   },
   {
     "TagId": 1283106,
@@ -466,19 +717,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds",
-      "[DNT] Activate Harsh Winds"
+      "Harsh Winds",
+      "Vientos fuertes",
+      "Ventos Rigorosos",
+      "Harsh Winds",
+      "Vientos violentos",
+      "Vents cinglants",
+      "Жестокий ветер",
+      "Harsche Winde",
+      "Ventos Rigorosos",
+      "Venti Avversi",
+      "모진 바람",
+      "烈風",
+      "强风"
     ],
     "Media": "spell_frost_icestorm.jpg"
   },
@@ -546,6 +797,69 @@
     "Media": "ability_skyreach_wind.jpg"
   },
   {
+    "TagId": 1283125,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole",
+      "[DNT]Energize Whole"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283126,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start",
+      "[DNT]Energize start"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283128,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize",
+      "[DNT]Energize"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283130,
     "TagType": 26,
     "Names": [
@@ -565,6 +879,48 @@
       "飞矢烈风"
     ],
     "Media": "ability_skyreach_wind_wall.jpg"
+  },
+  {
+    "TagId": 1283131,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poisonous Grasp",
+      "Atadura venenosa",
+      "Agarrão Venenoso",
+      "Poisonous Grasp",
+      "Agarre venenoso",
+      "Emprise venimeuse",
+      "Отравляющая хватка",
+      "Giftiger Griff",
+      "Agarrão Venenoso",
+      "Presa Velenosa",
+      "독의 손아귀",
+      "劇毒之握",
+      "剧毒之握"
+    ],
+    "Media": "inv_ability_poison_groundstate.jpg"
+  },
+  {
+    "TagId": 1283132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Explosion",
+      "Explosión",
+      "Explosão",
+      "Explosion",
+      "Explosión",
+      "Explosion",
+      "Взрыв",
+      "Explosion",
+      "Explosão",
+      "Esplosione",
+      "폭발",
+      "爆炸",
+      "爆炸"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283138,
@@ -735,6 +1091,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283164,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Imbibe",
+      "Embeber",
+      "Absorção",
+      "Imbibe",
+      "Imbuir",
+      "Absorption",
+      "Питье",
+      "Trinken",
+      "Absorção",
+      "Assorbimento di Liquidi",
+      "시음",
+      "暢飲",
+      "痛饮"
+    ],
+    "Media": "spell_nature_poisoncleansingtotem.jpg"
+  },
+  {
     "TagId": 1283168,
     "TagType": 26,
     "Names": [
@@ -756,6 +1133,69 @@
     "Media": "inv_1205_voidforge_sovereignvoidcores_cosmicvoid.jpg"
   },
   {
+    "TagId": 1283230,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water",
+      "[DNT] Toxic Water"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283232,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A: Spawn Spell"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283235,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A1: Interact"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283236,
     "TagType": 26,
     "Names": [
@@ -775,6 +1215,48 @@
       "虚空斥力"
     ],
     "Media": "inv_nullstone_void.jpg"
+  },
+  {
+    "TagId": 1283240,
+    "TagType": 26,
+    "Names": [
+      null,
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof",
+      "GENERIC Spell Visual: Poof"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283242,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fangs of the Coiled Altar",
+      "Colmillos del Altar Serpenteante",
+      "Presas do Altar Enrolado",
+      "Fangs of the Coiled Altar",
+      "Colmillos del Altar en Espiral",
+      "Crochets de l’Autel annelé",
+      "Клыки Спирального алтаря",
+      "Fänge des Gewundenen Altars",
+      "Presas do Altar Enrolado",
+      "Zanne dell'Altare Serpeggiante",
+      "똬리의 제단의 송곳니",
+      "盤蛇祭壇之牙",
+      "盘卷祭坛之牙"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283243,
@@ -817,6 +1299,27 @@
       "无情跳跃"
     ],
     "Media": "ability_heroicleap.jpg"
+  },
+  {
+    "TagId": 1283245,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283246,
@@ -945,6 +1448,27 @@
     "Media": "spell_nature_earthquake.jpg"
   },
   {
+    "TagId": 1283256,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A2: Interact"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283258,
     "TagType": 26,
     "Names": [
@@ -1004,6 +1528,69 @@
       "[DNT] Convo end",
       "[DNT] Convo end",
       "[DNT] Convo end"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283262,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A3: Interact"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283263,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A4: Interact"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283264,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact",
+      "12.1 Delves - TwilightsBlade01 - V04 - Quest Target A5: Interact"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -1259,6 +1846,27 @@
     "Media": "inv_112_raidtrinkets_blobofswirlingvoid_gold.jpg"
   },
   {
+    "TagId": 1283281,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Noxious Ground",
+      "Suelo nocivo",
+      "Terra Nóxia",
+      "Noxious Ground",
+      "Terreno nocivo",
+      "Sol nocif",
+      "Пагубная земля",
+      "Toxischer Boden",
+      "Terra Nóxia",
+      "Suolo Nocivo",
+      "유독한 지면",
+      "劇毒地面",
+      "剧毒之地"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
+  },
+  {
     "TagId": 1283282,
     "TagType": 26,
     "Names": [
@@ -1278,6 +1886,132 @@
       "攻击这个"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283283,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Noxious Ground",
+      "Suelo nocivo",
+      "Terra Nóxia",
+      "Noxious Ground",
+      "Terreno nocivo",
+      "Sol nocif",
+      "Пагубная земля",
+      "Toxischer Boden",
+      "Terra Nóxia",
+      "Suolo Nocivo",
+      "유독한 지면",
+      "劇毒地面",
+      "剧毒之地"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
+  },
+  {
+    "TagId": 1283289,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Anger",
+      "Inquina",
+      "Ira",
+      "Anger",
+      "Inquina",
+      "Colère",
+      "Злость",
+      "Zorn",
+      "Ira",
+      "Rabbia",
+      "분노",
+      "憤怒",
+      "愤怒"
+    ],
+    "Media": "achievement_bg_killflagcarriers_grabflag_capit.jpg"
+  },
+  {
+    "TagId": 1283290,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Noxious Ground",
+      "Suelo nocivo",
+      "Terra Nóxia",
+      "Noxious Ground",
+      "Terreno nocivo",
+      "Sol nocif",
+      "Пагубная земля",
+      "Toxischer Boden",
+      "Terra Nóxia",
+      "Suolo Nocivo",
+      "유독한 지면",
+      "劇毒地面",
+      "剧毒之地"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
+  },
+  {
+    "TagId": 1283291,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Coesão Espiritual",
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Cohésion spirituelle",
+      "Призрачная связь",
+      "Geisterzusammenhalt",
+      "Coesão Espiritual",
+      "Coesione dello Spirito",
+      "영혼 응집",
+      "靈魂聚合",
+      "精魂凝聚"
+    ],
+    "Media": "spell_necro_deathrift.jpg"
+  },
+  {
+    "TagId": 1283292,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Coesão Espiritual",
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Cohésion spirituelle",
+      "Призрачная связь",
+      "Geisterzusammenhalt",
+      "Coesão Espiritual",
+      "Coesione dello Spirito",
+      "영혼 응집",
+      "靈魂聚合",
+      "精魂凝聚"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283294,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Coesão Espiritual",
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Cohésion spirituelle",
+      "Призрачная связь",
+      "Geisterzusammenhalt",
+      "Coesão Espiritual",
+      "Coesione dello Spirito",
+      "영혼 응집",
+      "靈魂聚合",
+      "精魂凝聚"
+    ],
+    "Media": "ability_deathknight_boneshield.jpg"
   },
   {
     "TagId": 1283296,
@@ -1364,6 +2098,27 @@
     "Media": "ability_throw.jpg"
   },
   {
+    "TagId": 1283302,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Coesão Espiritual",
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Cohésion spirituelle",
+      "Призрачная связь",
+      "Geisterzusammenhalt",
+      "Coesão Espiritual",
+      "Coesione dello Spirito",
+      "영혼 응집",
+      "靈魂聚合",
+      "精魂凝聚"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283303,
     "TagType": 26,
     "Names": [
@@ -1383,6 +2138,27 @@
       "拖拽逆流"
     ],
     "Media": "spell_nature_riptide.jpg"
+  },
+  {
+    "TagId": 1283309,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Coesão Espiritual",
+      "Spirit Cohesion",
+      "Cohesión espiritual",
+      "Cohésion spirituelle",
+      "Призрачная связь",
+      "Geisterzusammenhalt",
+      "Coesão Espiritual",
+      "Coesione dello Spirito",
+      "영혼 응집",
+      "靈魂聚合",
+      "精魂凝聚"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283310,
@@ -1446,6 +2222,27 @@
       "Threat Ping [DNT]"
     ],
     "Media": "ability_warrior_focusedrage.jpg"
+  },
+  {
+    "TagId": 1283317,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Control the Shrine",
+      "Controla el santuario",
+      "Controlar o Santuário",
+      "Control the Shrine",
+      "Controlar el santuario",
+      "Contrôle du sanctuaire",
+      "Контроль над святилищем",
+      "Kontrolliert die Schreine",
+      "Controlar o Santuário",
+      "Controllo Santuario",
+      "제단 장악",
+      "控制聖壇",
+      "控制神龛"
+    ],
+    "Media": "achievement_bg_killflagcarriers_grabflag_capit.jpg"
   },
   {
     "TagId": 1283323,
@@ -1700,6 +2497,27 @@
     "Media": "inv_ability_aldrachireaverdemonhunter_reaversglaive.jpg"
   },
   {
+    "TagId": 1283345,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Twinfang Toxin",
+      "Toxina doblecolmillo",
+      "Toxina da Presa Dupla",
+      "Twinfang Toxin",
+      "Toxina de colmillos gemelos",
+      "Toxine des crochets jumeaux",
+      "Токсин двойных клыков",
+      "Zwillingsfangtoxin",
+      "Toxina da Presa Dupla",
+      "Tossina delle Zanne Gemelle",
+      "쌍송곳니 독소",
+      "雙牙毒素",
+      "双牙毒素"
+    ],
+    "Media": "ability_rogue_dualweild.jpg"
+  },
+  {
     "TagId": 1283349,
     "TagType": 26,
     "Names": [
@@ -1805,6 +2623,27 @@
     "Media": "inv_10_elementalcombinedfoozles_earth.jpg"
   },
   {
+    "TagId": 1283356,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Twinfang Toxin",
+      "Toxina doblecolmillo",
+      "Toxina da Presa Dupla",
+      "Twinfang Toxin",
+      "Toxina de colmillos gemelos",
+      "Toxine des crochets jumeaux",
+      "Токсин двойных клыков",
+      "Zwillingsfangtoxin",
+      "Toxina da Presa Dupla",
+      "Tossina delle Zanne Gemelle",
+      "쌍송곳니 독소",
+      "雙牙毒素",
+      "双牙毒素"
+    ],
+    "Media": "ability_rogue_dualweild.jpg"
+  },
+  {
     "TagId": 1283357,
     "TagType": 26,
     "Names": [
@@ -1824,6 +2663,27 @@
       "碎石飞落"
     ],
     "Media": "inv_10_elementalcombinedfoozles_earth.jpg"
+  },
+  {
+    "TagId": 1283359,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Twinfang Rupture",
+      "Ruptura doblecolmillo",
+      "Ruptura da Presa Dupla",
+      "Twinfang Rupture",
+      "Ruptura de colmillos gemelos",
+      "Rupture des crochets jumeaux",
+      "Прорыв двойных клыков",
+      "Zwillingsfangausbruch",
+      "Ruptura da Presa Dupla",
+      "Perforazione delle Zanne Gemelle",
+      "쌍송곳니 파열",
+      "雙牙破裂",
+      "双牙破裂"
+    ],
+    "Media": "ability_rogue_deviouspoisons.jpg"
   },
   {
     "TagId": 1283360,
@@ -2204,6 +3064,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283385,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Spew",
+      "Chorro de veneno",
+      "Jorro de Veneno",
+      "Venom Spew",
+      "Esputo ponzoñoso",
+      "Crachement de venin",
+      "Ядовитый плевок",
+      "Giftiger Geifer",
+      "Jorro de Veneno",
+      "Sputo di Veleno",
+      "맹독 분출",
+      "劇毒噴吐",
+      "毒液喷吐"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
     "TagId": 1283386,
     "TagType": 26,
     "Names": [
@@ -2223,6 +3104,27 @@
       "彩虹奔行靴"
     ],
     "Media": "inv_boots_cloth_35v4.jpg"
+  },
+  {
+    "TagId": 1283388,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands",
+      "[DNT] Gather Zapgut Glands"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283392,
@@ -2456,6 +3358,27 @@
     "Media": "ability_backstab.jpg"
   },
   {
+    "TagId": 1283408,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Placed T1s: Spawn [Periodic Missile]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283411,
     "TagType": 26,
     "Names": [
@@ -2475,6 +3398,27 @@
       "位移光束"
     ],
     "Media": "spell_arcane_arcanetorrent.jpg"
+  },
+  {
+    "TagId": 1283415,
+    "TagType": 26,
+    "Names": [
+      null,
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep",
+      "AI Brain - Generic - Spell Visual: Sleep"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283417,
@@ -2560,6 +3504,27 @@
     "Media": "ui_prey.jpg"
   },
   {
+    "TagId": 1283438,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Convo"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283440,
     "TagType": 26,
     "Names": [
@@ -2640,6 +3605,132 @@
       "Test Spell 4 [DNT]",
       "Test Spell 4 [DNT]",
       "Test Spell 4 [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283445,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283446,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283449,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283450,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol",
+      "12.1 Delves - TwilightsBlade01 - V04 - Intro Taxi: Go T3 Patrol"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283451,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift",
+      "[DNT] Wolf Pup Color Shift"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283452,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee",
+      "[DNT] Ping Stray for Flee"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -2833,6 +3924,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283467,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tail Slam",
+      "Embate de cola",
+      "Batida de Cauda",
+      "Tail Slam",
+      "Embate de cola",
+      "Heurt de queue",
+      "Взмах хвостом",
+      "Schwanzschmettern",
+      "Batida de Cauda",
+      "Urto di Coda",
+      "꼬리 격돌",
+      "尾巴猛擊",
+      "扫尾"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283468,
     "TagType": 26,
     "Names": [
@@ -2915,6 +4027,48 @@
       "信仰将熄"
     ],
     "Media": "inv_shadowflame_debuff.jpg"
+  },
+  {
+    "TagId": 1283485,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guillotine",
+      "Guillotina",
+      "Guilhotina",
+      "Guillotine",
+      "Guillotina",
+      "Guillotine",
+      "Гильотина",
+      "Guillotine",
+      "Guilhotina",
+      "Ghigliottina",
+      "단두대",
+      "斬首",
+      "处斩"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
+  },
+  {
+    "TagId": 1283489,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guillotine",
+      "Guillotina",
+      "Guilhotina",
+      "Guillotine",
+      "Guillotina",
+      "Guillotine",
+      "Гильотина",
+      "Guillotine",
+      "Guilhotina",
+      "Ghigliottina",
+      "단두대",
+      "斬首",
+      "处斩"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
   },
   {
     "TagId": 1283490,
@@ -3131,19 +4285,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
-      "[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2"
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2",
+      "[DNT] [AUTOGEN] Collect 12PH_LEG_11EA_Earthen_Decor_LoungeChair01.M2"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
@@ -3232,6 +4386,48 @@
     "Media": "inv_helm_armor_sunwalker_d_01.jpg"
   },
   {
+    "TagId": 1283516,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray",
+      "[DNT] Clone Stray"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283518,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended",
+      "[DNT] Stray Befriended"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283519,
     "TagType": 26,
     "Names": [
@@ -3316,6 +4512,27 @@
     "Media": "inv_112_arcane_debuff.jpg"
   },
   {
+    "TagId": 1283524,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pet Stray",
+      "Acariciar a cachorro callejero",
+      "Acariciar Vira-lata",
+      "Pet Stray",
+      "Acariciar criatura",
+      "Caresser une créature errante",
+      "Погладить бродяжку",
+      "Streuner streicheln",
+      "Acariciar Vira-lata",
+      "Randagio",
+      "길 잃은 동물 쓰다듬기",
+      "摸摸流浪動物",
+      "抚摸流浪动物"
+    ],
+    "Media": "petbattle_health.jpg"
+  },
+  {
     "TagId": 1283526,
     "TagType": 26,
     "Names": [
@@ -3337,6 +4554,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283528,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff",
+      "[DNT] Player Cred for Stray Dropoff"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283532,
     "TagType": 26,
     "Names": [
@@ -3354,6 +4592,48 @@
       "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
       "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest",
       "12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283534,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283537,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3568,6 +4848,69 @@
     "Media": "spell_nature_strength.jpg"
   },
   {
+    "TagId": 1283549,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guiding Pup",
+      "Guiar al cachorro",
+      "Conduzindo Cãozinho",
+      "Guiding Pup",
+      "Guiando a un cachorro",
+      "Conduite de chiot",
+      "Обучение щенка",
+      "Welpen führen",
+      "Conduzindo Cãozinho",
+      "Guida del Cucciolo",
+      "강아지 인도",
+      "引導幼犬",
+      "牵引幼崽"
+    ],
+    "Media": "ability_hunter_beasttraining.jpg"
+  },
+  {
+    "TagId": 1283550,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guiding Pup",
+      "Guiar al cachorro",
+      "Conduzindo Cãozinho",
+      "Guiding Pup",
+      "Guiando a un cachorro",
+      "Conduite de chiot",
+      "Обучение щенка",
+      "Welpen führen",
+      "Conduzindo Cãozinho",
+      "Guida del Cucciolo",
+      "강아지 인도",
+      "引導幼犬",
+      "牵引幼崽"
+    ],
+    "Media": "ability_hunter_beasttraining.jpg"
+  },
+  {
+    "TagId": 1283551,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon",
+      "12.1 Delves - DevouringHost01 - V04 - Slime Shaman A: Summon"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283553,
     "TagType": 26,
     "Names": [
@@ -3631,6 +4974,27 @@
     "Media": "trade_archaeology_carved harp of exotic wood.jpg"
   },
   {
+    "TagId": 1283556,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Infiltrating!",
+      "¡Infiltración!",
+      "Infiltrando!",
+      "Infiltrating!",
+      "¡Infiltrándose!",
+      "Infiltration\u00A0!",
+      "Проникновение!",
+      "Infiltriert!",
+      "Infiltrando!",
+      "Infiltrazione!",
+      "잠입!",
+      "潛入！",
+      "正在潜入！"
+    ],
+    "Media": "inv_snake_redwhiteblack.jpg"
+  },
+  {
     "TagId": 1283558,
     "TagType": 26,
     "Names": [
@@ -3673,6 +5037,27 @@
     "Media": "ability_butcher_whirl.jpg"
   },
   {
+    "TagId": 1283560,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Carrying Oddball \"Ingredient\"",
+      "Transportar \"ingrediente\" excéntrico",
+      "Carregando \"Ingrediente\" Excêntrico",
+      "Carrying Oddball \"Ingredient\"",
+      "Llevando \"ingrediente\" raro",
+      "Transport d’«\u00A0ingrédient\u00A0» excentrique",
+      "Перенос причудливого \"ингредиента",
+      "Schräge \"Zutat\" tragen",
+      "Carregando \"Ingrediente\" Excêntrico",
+      "Trasporto \"Ingrediente\" Strano",
+      "독특한 \"재료\" 운반 중",
+      "攜帶異類「材料」。",
+      "携带古怪的“配料”"
+    ],
+    "Media": "inv_boots_03.jpg"
+  },
+  {
     "TagId": 1283561,
     "TagType": 26,
     "Names": [
@@ -3690,6 +5075,27 @@
       "이글거리는 회오리",
       "燃焰龍捲風",
       "炽燃龙卷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283562,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon",
+      "12.1 Delves - TwilightsBlade01 - V04 - Oddball Ingredient, Boot: Summon"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -3734,6 +5140,69 @@
       "收集"
     ],
     "Media": "inv_misc_bag_01.jpg"
+  },
+  {
+    "TagId": 1283569,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Throw Ingredient, Boot"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283571,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guillotine",
+      "Guillotina",
+      "Guilhotina",
+      "Guillotine",
+      "Guillotina",
+      "Guillotine",
+      "Гильотина",
+      "Guillotine",
+      "Guilhotina",
+      "Ghigliottina",
+      "단두대",
+      "斬首",
+      "处斩"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
+  },
+  {
+    "TagId": 1283574,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guillotine",
+      "Guillotina",
+      "Guilhotina",
+      "Guillotine",
+      "Guillotina",
+      "Guillotine",
+      "Гильотина",
+      "Guillotine",
+      "Guilhotina",
+      "Ghigliottina",
+      "단두대",
+      "斬首",
+      "处斩"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
   },
   {
     "TagId": 1283575,
@@ -3841,6 +5310,27 @@
     "Media": "inv_cosmicvoid_missile.jpg"
   },
   {
+    "TagId": 1283594,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guillotine",
+      "Guillotina",
+      "Guilhotina",
+      "Guillotine",
+      "Guillotina",
+      "Guillotine",
+      "Гильотина",
+      "Guillotine",
+      "Guilhotina",
+      "Ghigliottina",
+      "단두대",
+      "斬首",
+      "处斩"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
+  },
+  {
     "TagId": 1283598,
     "TagType": 26,
     "Names": [
@@ -3881,6 +5371,27 @@
       "灰烬吐息"
     ],
     "Media": "inv_icon_wingbroken06d.jpg"
+  },
+  {
+    "TagId": 1283606,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Execution",
+      "Ejecución",
+      "Execução",
+      "Execution",
+      "Ejecución",
+      "Exécution",
+      "Казнь",
+      "Hinrichtung",
+      "Execução",
+      "Esecuzione",
+      "처형",
+      "處決",
+      "处决"
+    ],
+    "Media": "warrior_talent_icon_mastercleaver.jpg"
   },
   {
     "TagId": 1283607,
@@ -4030,6 +5541,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283623,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Widow's Kiss",
+      "Beso de viuda",
+      "Beijo da Viúva",
+      "Widow's Kiss",
+      "Beso de viuda",
+      "Baiser de la veuve",
+      "Поцелуй вдовы",
+      "Witwenkuss",
+      "Beijo da Viúva",
+      "Bacio della Vedova",
+      "과부의 입맞춤",
+      "寡婦之吻",
+      "寡妇之吻"
+    ],
+    "Media": "spell_shadow_soothingkiss.jpg"
+  },
+  {
     "TagId": 1283624,
     "TagType": 26,
     "Names": [
@@ -4154,6 +5686,27 @@
       "Hunter- Midnight PrePatch - 11.2 Class Set 4pc"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283631,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Widow's Touch",
+      "Toque de viuda",
+      "Toque da Viúva",
+      "Widow's Touch",
+      "Toque de viuda",
+      "Toucher de la veuve",
+      "Касание вдовы",
+      "Witwenberührung",
+      "Toque da Viúva",
+      "Tocco della Vedova",
+      "과부의 손길",
+      "寡婦之觸",
+      "寡妇之触"
+    ],
+    "Media": "spell_shadow_fingerofdeath.jpg"
   },
   {
     "TagId": 1283634,
@@ -4681,6 +6234,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283661,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Favoritest Toy",
+      "Juguete más preferido",
+      "Brinquedo Mais Favorito",
+      "Favoritest Toy",
+      "Juguete favorito",
+      "Jouet fétiche",
+      "Самая любимая игрушка",
+      "Liebster Spielzeugfavorit",
+      "Brinquedo Mais Favorito",
+      "Giocattolo Preferitissimo",
+      "가장 아끼는 장난감",
+      "最愛的玩具",
+      "最最喜欢的玩具"
+    ],
+    "Media": "ability_hunter_pet_raptor.jpg"
+  },
+  {
     "TagId": 1283662,
     "TagType": 26,
     "Names": [
@@ -4912,6 +6486,27 @@
     "Media": "inv_helm_armor_sunwalker_d_01.jpg"
   },
   {
+    "TagId": 1283674,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage",
+      "[DNT] Cage"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283675,
     "TagType": 26,
     "Names": [
@@ -4931,6 +6526,69 @@
       "Season Widget (DNT)"
     ],
     "Media": "achievement_zone_wakingshores.jpg"
+  },
+  {
+    "TagId": 1283676,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain",
+      "[DNT] Vehicle 01 - Maintain"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283677,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon",
+      "[DNT] Vehicle 01 - Summon"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283682,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan",
+      "Generic: Turn-in Circle, Cyan"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283683,
@@ -4975,6 +6633,27 @@
     "Media": "achievement_zone_wakingshores.jpg"
   },
   {
+    "TagId": 1283686,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283687,
     "TagType": 26,
     "Names": [
@@ -4994,6 +6673,27 @@
       "酸蚀血液"
     ],
     "Media": "ability_creature_poison_06.jpg"
+  },
+  {
+    "TagId": 1283688,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283690,
@@ -5017,6 +6717,27 @@
     "Media": "ability_creature_poison_06.jpg"
   },
   {
+    "TagId": 1283694,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb",
+      "[PH] Fire Bomb"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283695,
     "TagType": 26,
     "Names": [
@@ -5034,6 +6755,27 @@
       "추가 중",
       "添加",
       "添加"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283696,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lure",
+      "Atraer",
+      "Atrair",
+      "Lure",
+      "Atraer",
+      "Appât",
+      "Приманка",
+      "Locken",
+      "Atrair",
+      "Esca",
+      "미끼",
+      "引誘",
+      "诱饵"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5206,6 +6948,27 @@
     "Media": "inv_mothunderlight_rockblue.jpg"
   },
   {
+    "TagId": 1283714,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic",
+      "[DNT] Poison Missile Cosmetic"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283716,
     "TagType": 26,
     "Names": [
@@ -5374,6 +7137,27 @@
     "Media": "ability_warstomp.jpg"
   },
   {
+    "TagId": 1283724,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Check on Stray",
+      "Visitar cachorro callejero",
+      "Ver como o Vira-lata Está",
+      "Check on Stray",
+      "Ver cómo está el animal",
+      "S’occuper d’une créature errante",
+      "Проведать бродяжку",
+      "Nach Streuner sehen",
+      "Ver como o Vira-lata Está",
+      "Controllo Randagio",
+      "길 잃은 동물 살피기",
+      "確認流浪動物",
+      "查看流浪动物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283728,
     "TagType": 26,
     "Names": [
@@ -5433,6 +7217,48 @@
       "숨바꼭질 덫 선택: 공허의 구슬",
       "捉迷藏陷阱選擇：虛無之球",
       "躲猫猫陷阱选择：虚空宝珠"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283751,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Guillotine",
+      "Guillotina",
+      "Guilhotina",
+      "Guillotine",
+      "Guillotina",
+      "Guillotine",
+      "Гильотина",
+      "Guillotine",
+      "Guilhotina",
+      "Ghigliottina",
+      "단두대",
+      "斬首",
+      "处斩"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283752,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow",
+      "[DNT] Ping Stray for Follow"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -5899,6 +7725,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283790,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scroll of Seeking",
+      "Pergamino de búsqueda",
+      "Pergaminho da Busca",
+      "Scroll of Seeking",
+      "Pergamino de búsqueda",
+      "Parchemin de recherche",
+      "Свиток поиска",
+      "Schriftrolle des Suchens",
+      "Pergaminho da Busca",
+      "Pergamena della Ricerca",
+      "추적의 두루마리",
+      "追蹤卷軸",
+      "寻踪卷轴"
+    ],
+    "Media": "70_professions_scroll_02.jpg"
+  },
+  {
     "TagId": 1283791,
     "TagType": 26,
     "Names": [
@@ -5962,6 +7809,111 @@
     "Media": "inv_crate_07.jpg"
   },
   {
+    "TagId": 1283802,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Squeezing",
+      "Estrujando",
+      "Espremendo",
+      "Squeezing",
+      "Estrujando",
+      "Pressage",
+      "Сдавливание",
+      "Pressen",
+      "Espremendo",
+      "Spremitura",
+      "짜내는 중",
+      "擠壓",
+      "挤压"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283803,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pufflung Bubble",
+      "Burbuja de pulmohinchado",
+      "Bolha de Pulmostufa",
+      "Pufflung Bubble",
+      "Burbuja soplopulmón",
+      "Bulle soufflebranchie",
+      "Пузырь пухложаброй рыбы",
+      "Blählungenblase",
+      "Bolha de Pulmostufa",
+      "Bolla di Branchiasbuffo",
+      "팽창허파 거품",
+      "河豚肺氣泡",
+      "膨肺气泡"
+    ],
+    "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 1283804,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pufflung Bubble",
+      "Burbuja de pulmohinchado",
+      "Bolha de Pulmostufa",
+      "Pufflung Bubble",
+      "Burbuja soplopulmón",
+      "Bulle soufflebranchie",
+      "Пузырь пухложаброй рыбы",
+      "Blählungenblase",
+      "Bolha de Pulmostufa",
+      "Bolla di Branchiasbuffo",
+      "팽창허파 거품",
+      "河豚肺氣泡",
+      "膨肺气泡"
+    ],
+    "Media": "creatureportrait_bubble.jpg"
+  },
+  {
+    "TagId": 1283812,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops",
+      "[DNT] Walkable Pup Poops"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283813,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup",
+      "[DNT] Ping Walkable Pup"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283814,
     "TagType": 26,
     "Names": [
@@ -5981,6 +7933,27 @@
       "凶暴野兽"
     ],
     "Media": "ability_hunter_sickem.jpg"
+  },
+  {
+    "TagId": 1283815,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Complete Spawn Spell"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1283816,
@@ -6046,6 +8019,48 @@
     "Media": "ability_hunter_sickem.jpg"
   },
   {
+    "TagId": 1283819,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Leash Pup",
+      "Sujetar al cachorro con una correa",
+      "Encoleirar Cãozinho",
+      "Leash Pup",
+      "Sujetar con correa",
+      "Chiot en laisse",
+      "Поводок щенка",
+      "Welpen anleinen",
+      "Encoleirar Cãozinho",
+      "Cucciolo al Guinzaglio",
+      "강아지 목줄",
+      "牽幼犬",
+      "拴住幼崽"
+    ],
+    "Media": "inv_leatherworking_70_petleash.jpg"
+  },
+  {
+    "TagId": 1283820,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher",
+      "[DNT] Ping Leasher"
+    ],
+    "Media": "inv_leatherworking_70_petleash.jpg"
+  },
+  {
     "TagId": 1283824,
     "TagType": 26,
     "Names": [
@@ -6063,6 +8078,27 @@
       "확인 초기화",
       "重置檢查",
       "重置确认"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283826,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup",
+      "[DNT] Player Cred for Poop Pickup"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -6088,6 +8124,150 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283828,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Placing...",
+      "Colocando...",
+      "Colocando...",
+      "Placing...",
+      "Colocando...",
+      "Placement…",
+      "Размещение...",
+      "Platzieren...",
+      "Colocando...",
+      "Piazzamento...",
+      "놓는 중...",
+      "安置中…",
+      "放置……"
+    ],
+    "Media": "inv_cask_01.jpg"
+  },
+  {
+    "TagId": 1283829,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadow Snake Fountain",
+      "Fuente de serpientes de las sombras",
+      "Fonte Ofídica Sombria",
+      "Shadow Snake Fountain",
+      "Fuente de serpientes de las Sombras",
+      "Fontaine serpentine ombreuse",
+      "Темный змеиный фонтан",
+      "Brunnen der Schattenschlangen",
+      "Fonte Ofídica Sombria",
+      "Fontana del Serpente d'Ombra",
+      "암흑 뱀 분수대",
+      "暗影毒蛇噴泉",
+      "暗影蛇泉"
+    ]
+  },
+  {
+    "TagId": 1283830,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burning Snake Fountain",
+      "Fuente de serpientes ardientes",
+      "Fonte Ofídica Ardente",
+      "Burning Snake Fountain",
+      "Fuente de serpientes ardiente",
+      "Fontaine serpentine brûlante",
+      "Пылающий змеиный фонтан",
+      "Brunnen der Feuerschlangen",
+      "Fonte Ofídica Ardente",
+      "Fontana del Serpente di Fuoco",
+      "불타는 뱀 분수대",
+      "燃燒毒蛇噴泉",
+      "燃烧蛇泉"
+    ]
+  },
+  {
+    "TagId": 1283831,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bleeding Snake Fountain",
+      "Fuente de serpientes sangrientas",
+      "Fonte Ofídica que Sangra",
+      "Bleeding Snake Fountain",
+      "Fuente de serpientes sangrante",
+      "Fontaine serpentine sanglante",
+      "Кровавый змеиный фонтан",
+      "Brunnen der Blutschlangen",
+      "Fonte Ofídica que Sangra",
+      "Fontana del Serpenti di Sangue",
+      "피 흘리는 뱀 분수대",
+      "流血毒蛇噴泉",
+      "流血蛇泉"
+    ]
+  },
+  {
+    "TagId": 1283832,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Axegrinder",
+      "Muelehachas",
+      "Machadeiro Moedor",
+      "Axegrinder",
+      "Afilahachas",
+      "Broyeur d’hache",
+      "Рубящие топоры",
+      "Scharfaxt",
+      "Machadeiro Moedor",
+      "Spaccasce",
+      "도끼분쇄자",
+      "磨斧者",
+      "碎斧"
+    ],
+    "Media": "ability_warrior_bladestorm.jpg"
+  },
+  {
+    "TagId": 1283833,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Treat Station Readiness",
+      "Estación de chucherías preparada",
+      "Prontidão da Estação de Petiscos",
+      "Treat Station Readiness",
+      "Disposición del dispensador de premios",
+      "Degré de préparation du distributeur de friandises",
+      "Готовность распределителя лакомств",
+      "Leckerlistationsbreitschaft",
+      "Prontidão da Estação de Petiscos",
+      "Stazione dei Dolcetti Pronta",
+      "간식 시설 준비",
+      "點心站準備就緒",
+      "零食站就绪"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283834,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Axegrinder",
+      "Muelehachas",
+      "Machadeiro Moedor",
+      "Axegrinder",
+      "Afilahachas",
+      "Broyeur d’hache",
+      "Рубящие топоры",
+      "Scharfaxt",
+      "Machadeiro Moedor",
+      "Spaccasce",
+      "도끼분쇄자",
+      "磨斧者",
+      "碎斧"
+    ],
+    "Media": "ability_warrior_bladestorm.jpg"
+  },
+  {
     "TagId": 1283835,
     "TagType": 26,
     "Names": [
@@ -6107,6 +8287,90 @@
       "冰川过载"
     ],
     "Media": "spell_mage_frostbomb.jpg"
+  },
+  {
+    "TagId": 1283836,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Axegrinder",
+      "Muelehachas",
+      "Machadeiro Moedor",
+      "Axegrinder",
+      "Afilahachas",
+      "Broyeur d’hache",
+      "Рубящие топоры",
+      "Scharfaxt",
+      "Machadeiro Moedor",
+      "Spaccasce",
+      "도끼분쇄자",
+      "磨斧者",
+      "碎斧"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283839,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Axegrinder",
+      "Muelehachas",
+      "Machadeiro Moedor",
+      "Axegrinder",
+      "Afilahachas",
+      "Broyeur d’hache",
+      "Рубящие топоры",
+      "Scharfaxt",
+      "Machadeiro Moedor",
+      "Spaccasce",
+      "도끼분쇄자",
+      "磨斧者",
+      "碎斧"
+    ],
+    "Media": "ability_warrior_bladestorm.jpg"
+  },
+  {
+    "TagId": 1283840,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Axegrinder",
+      "Muelehachas",
+      "Machadeiro Moedor",
+      "Axegrinder",
+      "Afilahachas",
+      "Broyeur d’hache",
+      "Рубящие топоры",
+      "Scharfaxt",
+      "Machadeiro Moedor",
+      "Spaccasce",
+      "도끼분쇄자",
+      "磨斧者",
+      "碎斧"
+    ],
+    "Media": "ability_warrior_bladestorm.jpg"
+  },
+  {
+    "TagId": 1283841,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Axegrinder",
+      "Muelehachas",
+      "Machadeiro Moedor",
+      "Axegrinder",
+      "Afilahachas",
+      "Broyeur d’hache",
+      "Рубящие топоры",
+      "Scharfaxt",
+      "Machadeiro Moedor",
+      "Spaccasce",
+      "도끼분쇄자",
+      "磨斧者",
+      "碎斧"
+    ],
+    "Media": "ability_warrior_bladestorm.jpg"
   },
   {
     "TagId": 1283847,
@@ -6297,6 +8561,27 @@
     ]
   },
   {
+    "TagId": 1283879,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Excited Earth Elemental Periodic",
+      "Periódico de elemental de tierra emocionado",
+      "Periódico de Elemental da Terra Alvoroçado",
+      "Excited Earth Elemental Periodic",
+      "Elemental de Tierra agitado (periódica)",
+      "Élémentaire de terre énervé périodique",
+      "Периодический эффект обрадованного элементаля земли",
+      "Regelmäßig aufgeregter Erdelementar",
+      "Periódico de Elemental da Terra Alvoroçado",
+      "Elementale della Terra Entusiasta Periodico",
+      "들뜬 대지의 정령 주기적인 효과",
+      "興奮的土元素週期性效果",
+      "兴奋的土元素周期性光环"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283880,
     "TagType": 26,
     "Names": [
@@ -6360,6 +8645,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283887,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rock Eruption",
+      "Erupción de rocas",
+      "Erupção Rochosa",
+      "Rock Eruption",
+      "Erupción de piedras",
+      "Éruption rocheuse",
+      "Каменное извержение",
+      "Felsausbruch",
+      "Erupção Rochosa",
+      "Eruzione di Roccia",
+      "바위 분출",
+      "岩石爆發",
+      "岩石喷发"
+    ],
+    "Media": "inv_elemental_mote_water01.jpg"
+  },
+  {
     "TagId": 1283888,
     "TagType": 26,
     "Names": [
@@ -6379,6 +8685,69 @@
       "[DNT] Aura Never Secret Test Spell"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283889,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Rock Eruption",
+      "Erupción de rocas",
+      "Erupção Rochosa",
+      "Rock Eruption",
+      "Erupción de piedras",
+      "Éruption rocheuse",
+      "Каменное извержение",
+      "Felsausbruch",
+      "Erupção Rochosa",
+      "Eruzione di Roccia",
+      "바위 분출",
+      "岩石爆發",
+      "岩石喷发"
+    ],
+    "Media": "inv_elemental_mote_water01.jpg"
+  },
+  {
+    "TagId": 1283891,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Very Large Rock",
+      "Roca muy grande",
+      "Rocha Muito Grande",
+      "Very Large Rock",
+      "Roca enorme",
+      "Très gros rocher",
+      "Очень большой камень",
+      "Sehr großer Stein",
+      "Rocha Muito Grande",
+      "Roccia Molto Grande",
+      "매우 큰 돌멩이",
+      "特大岩石",
+      "巨型岩石"
+    ],
+    "Media": "inv_elemental_mote_water01.jpg"
+  },
+  {
+    "TagId": 1283893,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Very Large Rock",
+      "Roca muy grande",
+      "Rocha Muito Grande",
+      "Very Large Rock",
+      "Roca enorme",
+      "Très gros rocher",
+      "Очень большой камень",
+      "Sehr großer Stein",
+      "Rocha Muito Grande",
+      "Roccia Molto Grande",
+      "매우 큰 돌멩이",
+      "特大岩石",
+      "巨型岩石"
+    ],
+    "Media": "inv_elemental_mote_water01.jpg"
   },
   {
     "TagId": 1283894,
@@ -6660,13 +9029,13 @@
       null,
       "Dusk-Painted Sun Roc",
       "Roc de sol pintado por el ocaso",
-      "Roca do Sol Pintado de Ocaso",
+      "Roca do Sol Pintada de Ocaso",
       "Dusk-Painted Sun Roc",
       "Roc de sol pintado por el ocaso",
       "Roc solaire peint au crépuscule",
       "Сумеречный солнечный рух",
       "Dämmergezeichneter Sonnenroc",
-      "Roca do Sol Pintado de Ocaso",
+      "Roca do Sol Pintada de Ocaso",
       "Grifalco del Sole Dipinto dal Vespro",
       "어스름에 물든 태양 로크",
       "暮繪陽鵬",
@@ -6681,13 +9050,13 @@
       null,
       "Flame-Painted Sun Roc",
       "Roc de sol pintado por las llamas",
-      "Roca do Sol Pintado de Chamas",
+      "Roca do Sol Pintada de Chamas",
       "Flame-Painted Sun Roc",
       "Roc de sol pintado por las llamas",
       "Roc solaire peint par la flamme",
       "Пламенный солнечный рух",
       "Flammengezeichneter Sonnenroc",
-      "Roca do Sol Pintado de Chamas",
+      "Roca do Sol Pintada de Chamas",
       "Grifalco del Sole Dipinto dalle Fiamme",
       "불꽃에 물든 태양 로크",
       "焰繪陽鵬",
@@ -6927,6 +9296,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1283931,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats",
+      "[DNT] Accept Treats"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283937,
     "TagType": 26,
     "Names": [
@@ -7158,6 +9548,48 @@
     "Media": "inv_10_enchanting2_magicswirl_black.jpg"
   },
   {
+    "TagId": 1283953,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Cancel Spawn Spell"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1283957,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell",
+      "12.1 Delves - TwilightsBlade01 - V04 - T1 Melee Dupe: Spawn Spell"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1283963,
     "TagType": 26,
     "Names": [
@@ -7177,6 +9609,27 @@
       "[DNT] Test"
     ],
     "Media": "ui_delves.jpg"
+  },
+  {
+    "TagId": 1283967,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient",
+      "12.1 Delves - TwilightsBlade01 - V04 - Cauldron 2: Throw Ingredient"
+    ],
+    "Media": "inv_boots_03.jpg"
   },
   {
     "TagId": 1283969,
@@ -7240,6 +9693,27 @@
       "努雷乌斯宏伟登场"
     ],
     "Media": "spell_shadow_summonvoidwalker.jpg"
+  },
+  {
+    "TagId": 1283974,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Stunned",
+      "Aturdido",
+      "Atordoado",
+      "Stunned",
+      "Aturdido",
+      "Étourdissement",
+      "Оглушение",
+      "Betäubt",
+      "Atordoado",
+      "Stordito",
+      "기절함",
+      "昏迷",
+      "昏迷"
+    ],
+    "Media": "spell_shadow_lifedrain.jpg"
   },
   {
     "TagId": 1283975,

@@ -1,5 +1,110 @@
 [
   {
+    "TagId": 1300008,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Power Word: Shield (Unfolding Vision)",
+      "Palabra de poder: escudo (Visión expansiva)",
+      "Palavra de Poder: Escudo (Visão Expansiva)",
+      "Power Word: Shield (Unfolding Vision)",
+      "Palabra de poder: escudo (Visión ambulante)",
+      "Mot de pouvoir\u00A0: Bouclier (vision révélatrice)",
+      "Слово силы: Щит (Раскрывающееся видение)",
+      "Machtwort: Schild (Entfaltende Vision)",
+      "Palavra de Poder: Escudo (Visão Expansiva)",
+      "Parola del Potere: Scudo (Visione in Corso)",
+      "신의 권능: 보호막 (펼쳐지는 시야)",
+      "真言術：盾（開展視野）",
+      "真言术：盾（展开视界）"
+    ],
+    "Media": "spell_holy_powerwordshield.jpg"
+  },
+  {
+    "TagId": 1300009,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Shield (Unfolding Vision)",
+      "Escudo del Vacío (Visión expansiva)",
+      "Escudo Caótico (Visão Expansiva)",
+      "Void Shield (Unfolding Vision)",
+      "Escudo del Vacío (Visión ambulante)",
+      "Bouclier du Vide (vision révélatrice)",
+      "Щит Бездны (Раскрывающееся видение)",
+      "Leerenschild (Entfaltende Vision)",
+      "Escudo Caótico (Visão Expansiva)",
+      "Scudo del Vuoto (Visione in Corso)",
+      "공허 보호막 (펼쳐지는 시야)",
+      "虛無之盾（開展視野）",
+      "虚空护盾（展开视界）"
+    ],
+    "Media": "inv12_apextalent_priest_voidshield.jpg"
+  },
+  {
+    "TagId": 1300011,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Incubation",
+      "Incubación tóxica",
+      "Incubação Tóxica",
+      "Toxic Incubation",
+      "Incubación tóxica",
+      "Incubation toxique",
+      "Токсичная инкубация",
+      "Toxische Inkubation",
+      "Incubação Tóxica",
+      "Incubazione Tossica",
+      "독성 배양",
+      "劇毒孵育",
+      "剧毒孵化"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300012,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spectral Coils",
+      "Espirales espectrales",
+      "Espirais Espectrais",
+      "Spectral Coils",
+      "Espirales espectrales",
+      "Anneaux spectraux",
+      "Призрачные кольца",
+      "Spektralschlingen",
+      "Espirais Espectrais",
+      "Spire Spettrali",
+      "유령의 똬리",
+      "幽魂之纏",
+      "幽魂盘卷"
+    ],
+    "Media": "spell_animamaldraxxus_nova.jpg"
+  },
+  {
+    "TagId": 1300021,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Alcohol Free Alcohol",
+      "Alcohol sin alcohol",
+      "Álcool sem Álcool",
+      "Alcohol Free Alcohol",
+      "Bebida alcohólica sin alcohol",
+      "Alcool sans alcool",
+      "Безалкогольный алкоголь",
+      "Alkoholfreier Alkohol",
+      "Álcool sem Álcool",
+      "Alcool Analcolico",
+      "무알코올 술",
+      "無酒精酒水",
+      "无醇佳酿"
+    ],
+    "Media": "inv_drink_09.jpg"
+  },
+  {
     "TagId": 1300030,
     "TagType": 26,
     "Names": [
@@ -63,6 +168,405 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300036,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300038,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poison Bolt",
+      "Descarga de veneno",
+      "Seta Venenosa",
+      "Poison Bolt",
+      "Descarga de veneno",
+      "Éclair de poison",
+      "Ядовитый заряд",
+      "Giftblitz",
+      "Seta Venenosa",
+      "Dardo di Veleno",
+      "독화살",
+      "毒液箭",
+      "毒液箭"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300039,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collecting",
+      "Recoger",
+      "Coletando",
+      "Collecting",
+      "Recogiendo",
+      "Collecte",
+      "Сбор",
+      "Sammeln",
+      "Coletando",
+      "Raccolta",
+      "수집 중",
+      "收集中",
+      "正在收集"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300040,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reroll",
+      "Nueva oportunidad",
+      "Trocar",
+      "Reroll",
+      "Generar de nuevo",
+      "Réattribution",
+      "Сброс",
+      "Neu auswürfeln",
+      "Trocar",
+      "Modifica",
+      "새로고침",
+      "重骰",
+      "重随"
+    ],
+    "Media": "vas_racechange.jpg"
+  },
+  {
+    "TagId": 1300041,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Gal'fon",
+      "Invocar a Gal'fon",
+      "Evocar Gal'fon",
+      "Summon Gal'fon",
+      "Invocar a Gal'fon",
+      "Invocation de Gal’fon",
+      "Призыв Гал'фона",
+      "Gal'fon beschwören",
+      "Evocar Gal'fon",
+      "Evocazione: Gal'fon",
+      "갈폰 소환",
+      "召喚加爾馮",
+      "召唤加尔冯"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300042,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Watched over by Gal'fon",
+      "Vigilancia de Gal'fon",
+      "Protegido por Gal'fon",
+      "Watched over by Gal'fon",
+      "Bajo la protección de Gal'fon",
+      "Regard de Gal’fon",
+      "Бдительный взор Гал'фона",
+      "Beschützt von Gal'fon",
+      "Protegido por Gal'fon",
+      "Protezione di Gal'fon",
+      "갈폰의 보살핌",
+      "受到加爾馮保護",
+      "被加尔冯看守"
+    ],
+    "Media": "inv_bow_1h_amani_c_01.jpg"
+  },
+  {
+    "TagId": 1300043,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pay Respects",
+      "Presentar respetos",
+      "Prestar Respeito",
+      "Pay Respects",
+      "Presentar respetos",
+      "Rendre hommage",
+      "Дань уважения",
+      "Respekt erweisen",
+      "Prestar Respeito",
+      "Rendere Omaggio",
+      "경의 표하기",
+      "致敬",
+      "致敬"
+    ],
+    "Media": "spell_holy_prayerofmendingtga.jpg"
+  },
+  {
+    "TagId": 1300044,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Jet",
+      "Chorro de veneno",
+      "Jato de Peçonha",
+      "Venom Jet",
+      "Chorro de veneno",
+      "Gerbe venimeuse",
+      "Струя яда",
+      "Giftdüse",
+      "Jato de Peçonha",
+      "Getto di Veleno",
+      "맹독 분사",
+      "毒液噴射",
+      "毒液喷射"
+    ],
+    "Media": "ability_creature_poison_02.jpg"
+  },
+  {
+    "TagId": 1300051,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Wide Maruukai Barricade",
+      "Recoger barricada maruukai ancha",
+      "Coletar Barricada de Maruukai Larga",
+      "Collect Wide Maruukai Barricade",
+      "Añadir barricada de Maruukai ancha",
+      "Récupérer une grande barricade de Maruukaï",
+      "Получить широкую марукайскую баррикаду",
+      "Breite Barrikade aus Maruukai sammeln",
+      "Coletar Barricada de Maruukai Larga",
+      "Raccolta Barricata di Maruukai Ampia",
+      "넓은 마루카이 방벽 획득",
+      "收集寬型莫魯凱路障",
+      "收集宽版马鲁凯路障"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300054,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Pay Respects",
+      "Presentar respetos",
+      "Prestar Respeito",
+      "Pay Respects",
+      "Presentar respetos",
+      "Rendre hommage",
+      "Дань уважения",
+      "Respekt erweisen",
+      "Prestar Respeito",
+      "Rendere Omaggio",
+      "경의 표하기",
+      "致敬",
+      "致敬"
+    ],
+    "Media": "spell_holy_prayerofmendingtga.jpg"
+  },
+  {
+    "TagId": 1300056,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Let'aka",
+      "Invocar a Let'aka",
+      "Evocar Let'aka",
+      "Summon Let'aka",
+      "Invocar a Let'aka",
+      "Invocation de Let’aka",
+      "Призыв Лет'аки",
+      "Let'aka beschwören",
+      "Evocar Let'aka",
+      "Evocazione: Let'aka",
+      "레트아카 소환",
+      "召喚蕾塔卡",
+      "召唤莱塔卡"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300057,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warmed by Let'aka's Presence",
+      "Calidez de la presencia de Let'aka",
+      "Aquecido pela Presença de Let'aka",
+      "Warmed by Let'aka's Presence",
+      "Reconfortado por la presencia de Let'aka",
+      "Présence réconfortante de Let’aka",
+      "Согревающее присутствие Лет'аки",
+      "Erwärmt von Let'akas Präsenz",
+      "Aquecido pela Presença de Let'aka",
+      "Calore della Presenza di Let'aka",
+      "따뜻한 레트아카의 존재감",
+      "被蕾塔卡的存在所溫暖",
+      "莱塔卡幻影的温暖"
+    ],
+    "Media": "spell_shaman_lavaflow.jpg"
+  },
+  {
+    "TagId": 1300058,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scroll of Deep Breath",
+      "Pergamino de Aliento profundo",
+      "Pergaminho da Respiração Profunda",
+      "Scroll of Deep Breath",
+      "Pergamino de aliento profundo",
+      "Parchemin de souffle profond",
+      "Свиток глубокого вдоха",
+      "Schriftrolle des tiefen Atems",
+      "Pergaminho da Respiração Profunda",
+      "Pergamena del Lungo Respiro",
+      "깊은 숨결의 두루마리",
+      "深呼吸卷軸",
+      "深呼吸卷轴"
+    ],
+    "Media": "inv_elemental_primal_water.jpg"
+  },
+  {
+    "TagId": 1300060,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300061,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ula'tek Basilisks",
+      "Basiliscos de Ula'tek",
+      "Basiliscos de Ula'tek",
+      "Ula'tek Basilisks",
+      "Basiliscos de Ula'tek",
+      "Basilics d’Ula’tek",
+      "Ула'текские василиски",
+      "Ula'tekbasilisken",
+      "Basiliscos de Ula'tek",
+      "Basilischi di Ula'tek",
+      "울라텍 바실리스크",
+      "烏拉特克石化蜥蜴",
+      "乌拉特克蛇怪"
+    ],
+    "Media": "inv_121_raid_achievement_ulatek.jpg"
+  },
+  {
+    "TagId": 1300062,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300066,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime",
+      "<DNT> Eligible for Storytime"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300069,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scroll of the Sailfish",
+      "Pergamino del pez vela",
+      "Pergaminho do Peixe-vela",
+      "Scroll of the Sailfish",
+      "Pergamino de pez vela",
+      "Parchemin du voilier",
+      "Свиток стремительной рыбы",
+      "Schriftrolle des Segelfischs",
+      "Pergaminho do Peixe-vela",
+      "Pergamena del Pesce Vela",
+      "돛새치의 두루마리",
+      "旗魚卷軸",
+      "旗鱼卷轴"
+    ],
+    "Media": "inv_fishing_slimymackerel.jpg"
+  },
+  {
+    "TagId": 1300070,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300075,
     "TagType": 26,
     "Names": [
@@ -105,6 +609,90 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300083,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burrowing Charge",
+      "Carga subterránea",
+      "Carga Entocante",
+      "Burrowing Charge",
+      "Carga excavadora",
+      "Charge fouisseuse",
+      "Роющий рывок",
+      "Grabender Ansturm",
+      "Carga Entocante",
+      "Carica Sotterranea",
+      "잠복 돌진",
+      "鑽地衝鋒",
+      "掘地冲锋"
+    ],
+    "Media": "spell_nature_earthquake.jpg"
+  },
+  {
+    "TagId": 1300089,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Virulence",
+      "Virulencia",
+      "Virulência",
+      "Virulence",
+      "Virulencia",
+      "Virulence",
+      "Вирулентность",
+      "Virulenz",
+      "Virulência",
+      "Virulenza",
+      "병독성",
+      "惡疾",
+      "剧毒"
+    ],
+    "Media": "ability_creature_poison_03.jpg"
+  },
+  {
+    "TagId": 1300090,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300092,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon",
+      "[DNT] Random Amani Guardian Summon"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300093,
     "TagType": 26,
     "Names": [
@@ -124,6 +712,782 @@
       "[DNT] Invalidate Baraat Guardian Aura"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300095,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile",
+      "[DNT] Ping Bone Pile"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300096,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura",
+      "[DNT] Bone Pile Area Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300099,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Violent Wind",
+      "Viento violento",
+      "Vento Violento",
+      "Violent Wind",
+      "Vientos violentos",
+      "Vent violent",
+      "Жестокий ветер",
+      "Verheerender Wind",
+      "Vento Violento",
+      "Vento Impetuoso",
+      "난폭한 바람",
+      "猛烈強風",
+      "狂风"
+    ],
+    "Media": "ability_druid_galewinds.jpg"
+  },
+  {
+    "TagId": 1300100,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]",
+      "Complete Corpesburster Achievement [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300107,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Jet",
+      "Chorro de veneno",
+      "Jato de Peçonha",
+      "Venom Jet",
+      "Chorro de veneno",
+      "Gerbe venimeuse",
+      "Струя яда",
+      "Giftdüse",
+      "Jato de Peçonha",
+      "Getto di Veleno",
+      "맹독 분사",
+      "毒液噴射",
+      "毒液喷射"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300113,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maintain Summon Test",
+      "Prueba de mantener invocación",
+      "Teste de Manter Evocação",
+      "Maintain Summon Test",
+      "Prueba de mantener invocación",
+      "Test de maintien de l’invocation",
+      "Тест поддержания призыва",
+      "Beschwörung aufrechterhalten: Test",
+      "Teste de Manter Evocação",
+      "Test Mantenimento Evocazione",
+      "소환 유지 테스트",
+      "持續召喚測試",
+      "保持召唤：测试"
+    ],
+    "Media": "spell_shaman_lavaflow.jpg"
+  },
+  {
+    "TagId": 1300115,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning",
+      "Maintain Summon Test 2. Summoning"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300116,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirling Gust",
+      "Ráfaga torbellino",
+      "Rajada Turbilhonante",
+      "Whirling Gust",
+      "Ráfaga arremolinada",
+      "Bourrasque tourbillonnante",
+      "Вихревой шквал",
+      "Wirbelnde Windböe",
+      "Rajada Turbilhonante",
+      "Folata Turbinante",
+      "소용돌이치는 돌풍",
+      "迴旋狂風",
+      "回旋阵风"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 1300117,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Whirling Gust",
+      "Ráfaga torbellino",
+      "Rajada Turbilhonante",
+      "Whirling Gust",
+      "Ráfaga arremolinada",
+      "Bourrasque tourbillonnante",
+      "Вихревой шквал",
+      "Wirbelnde Windböe",
+      "Rajada Turbilhonante",
+      "Folata Turbinante",
+      "소용돌이치는 돌풍",
+      "迴旋狂風",
+      "回旋阵风"
+    ],
+    "Media": "ability_skyreach_four_wind.jpg"
+  },
+  {
+    "TagId": 1300121,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Standard Alcohol",
+      "Alcohol estándar",
+      "Álcool Comum",
+      "Standard Alcohol",
+      "Alcohol estándar",
+      "Alcool normal",
+      "Обычный алкоголь",
+      "Standard-Alkohol",
+      "Álcool Comum",
+      "Alcol Standard",
+      "평범한 술",
+      "一般酒",
+      "标准酒精"
+    ],
+    "Media": "inv_drink_09.jpg"
+  },
+  {
+    "TagId": 1300123,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300125,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drink",
+      "Bebida",
+      "Bebida",
+      "Drink",
+      "Beber",
+      "Boisson",
+      "Питье",
+      "Getränk",
+      "Bebida",
+      "Bevanda",
+      "음료",
+      "飲料",
+      "饮水"
+    ],
+    "Media": "inv_drink_09.jpg"
+  },
+  {
+    "TagId": 1300126,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Deluge",
+      "Inundación tóxica",
+      "Dilúvio Tóxico",
+      "Toxic Deluge",
+      "Diluvio tóxico",
+      "Déluge toxique",
+      "Ядовитый потоп",
+      "Toxische Sintflut",
+      "Dilúvio Tóxico",
+      "Diluvio Tossico",
+      "유독한 폭우",
+      "劇毒洪流",
+      "剧毒洪流"
+    ],
+    "Media": "spell_shadow_plaguecloud.jpg"
+  },
+  {
+    "TagId": 1300129,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]",
+      "Push Hidden Aura Actionset [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300131,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Deluge",
+      "Inundación tóxica",
+      "Dilúvio Tóxico",
+      "Toxic Deluge",
+      "Diluvio tóxico",
+      "Déluge toxique",
+      "Ядовитый потоп",
+      "Toxische Sintflut",
+      "Dilúvio Tóxico",
+      "Diluvio Tossico",
+      "유독한 폭우",
+      "劇毒洪流",
+      "剧毒洪流"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300132,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala",
+      "12.1 Curse Surge - Hidden Aura - Thaze'ala"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300133,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event",
+      "[DNT] Lost Arvillo Event"
+    ]
+  },
+  {
+    "TagId": 1300134,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon",
+      "12.1 Curse Surge - Hidden Aura - Gal'fon"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300135,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka",
+      "12.1 Curse Surge - Hidden Aura - Let'aka"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300137,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Deluge",
+      "Inundación tóxica",
+      "Dilúvio Tóxico",
+      "Toxic Deluge",
+      "Diluvio tóxico",
+      "Déluge toxique",
+      "Ядовитый потоп",
+      "Toxische Sintflut",
+      "Dilúvio Tóxico",
+      "Diluvio Tossico",
+      "유독한 폭우",
+      "劇毒洪流",
+      "剧毒洪流"
+    ],
+    "Media": "spell_shadow_plaguecloud.jpg"
+  },
+  {
+    "TagId": 1300138,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Beam",
+      "Haz del Vacío",
+      "Feixe do Caos",
+      "Void Beam",
+      "Haz del Vacío",
+      "Rayon du Vide",
+      "Луч Бездны",
+      "Leerenstrahl",
+      "Feixe do Caos",
+      "Raggio del Vuoto",
+      "공허 광선",
+      "虛無光束",
+      "虚空光束"
+    ],
+    "Media": "inv_cosmicvoid_beam.jpg"
+  },
+  {
+    "TagId": 1300142,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Deluge",
+      "Inundación tóxica",
+      "Dilúvio Tóxico",
+      "Toxic Deluge",
+      "Diluvio tóxico",
+      "Déluge toxique",
+      "Ядовитый потоп",
+      "Toxische Sintflut",
+      "Dilúvio Tóxico",
+      "Diluvio Tossico",
+      "유독한 폭우",
+      "劇毒洪流",
+      "剧毒洪流"
+    ],
+    "Media": "spell_shadow_plaguecloud.jpg"
+  },
+  {
+    "TagId": 1300144,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart",
+      "[DNT] Ping Minchi - Heart"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300146,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hatching Doom",
+      "Fatalidad en eclosión",
+      "Eclosão de Ruína",
+      "Hatching Doom",
+      "Fatalidad de eclosión",
+      "Éclosion funeste",
+      "Гибельная инкубация",
+      "Schlüpfende Verderbnis",
+      "Eclosão de Ruína",
+      "Rovina in Schiusura",
+      "부화하는 파멸",
+      "孵化毀滅",
+      "孵化厄运"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300147,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Jet",
+      "Chorro de veneno",
+      "Jato de Peçonha",
+      "Venom Jet",
+      "Chorro de veneno",
+      "Gerbe venimeuse",
+      "Струя яда",
+      "Giftdüse",
+      "Jato de Peçonha",
+      "Getto di Veleno",
+      "맹독 분사",
+      "毒液噴射",
+      "毒液喷射"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300150,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Glob",
+      "Pegote venenoso",
+      "Bolota de Peçonha",
+      "Venom Glob",
+      "Pegote ponzoñoso",
+      "Boule de venin",
+      "Ядовитая капля",
+      "Giftklumpen",
+      "Bolota de Peçonha",
+      "Globo Venefico",
+      "맹독 덩어리",
+      "毒液團",
+      "毒液团"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300152,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scent of Prey",
+      "Olor a presa",
+      "Cheiro de Presa",
+      "Scent of Prey",
+      "Rastro de presa",
+      "Odeur de proie",
+      "Запах добычи",
+      "Geruch der Beute",
+      "Cheiro de Presa",
+      "Odore di Preda",
+      "사냥감의 냄새",
+      "獵物氣味",
+      "猎物的气息"
+    ],
+    "Media": "ability_hunter_aspectoftheviper.jpg"
+  },
+  {
+    "TagId": 1300156,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Void Beam",
+      "Haz del Vacío",
+      "Feixe do Caos",
+      "Void Beam",
+      "Haz del Vacío",
+      "Rayon du Vide",
+      "Луч Бездны",
+      "Leerenstrahl",
+      "Feixe do Caos",
+      "Raggio del Vuoto",
+      "공허 광선",
+      "虛無光束",
+      "虚空光束"
+    ],
+    "Media": "inv_cosmicvoid_beam.jpg"
+  },
+  {
+    "TagId": 1300157,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scent of Prey",
+      "Olor a presa",
+      "Cheiro de Presa",
+      "Scent of Prey",
+      "Rastro de presa",
+      "Odeur de proie",
+      "Запах добычи",
+      "Geruch der Beute",
+      "Cheiro de Presa",
+      "Odore di Preda",
+      "사냥감의 냄새",
+      "獵物氣味",
+      "猎物的气息"
+    ],
+    "Media": "ability_hunter_aspectoftheviper.jpg"
+  },
+  {
+    "TagId": 1300158,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Accompanied by Thaze'ala",
+      "Compañía de Thaze'ala",
+      "Acompanhado por Thaze'ala",
+      "Accompanied by Thaze'ala",
+      "Acompañado por Thaze'ala",
+      "Compagnie de Zul’jarra",
+      "В сопровождении Тазе'алы",
+      "Begleitet von Thaze'ala",
+      "Acompanhado por Thaze'ala",
+      "Compagnia di Thaze'ala",
+      "타제알라와 동행",
+      "薩札菈與你同行",
+      "与萨泽阿拉同行"
+    ],
+    "Media": "inv_sword_2h_amanidefense_b_01.jpg"
+  },
+  {
+    "TagId": 1300159,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Watched over by Gal'fon",
+      "Vigilancia de Gal'fon",
+      "Protegido por Gal'fon",
+      "Watched over by Gal'fon",
+      "Bajo la protección de Gal'fon",
+      "Regard de Gal’fon",
+      "Бдительный взор Гал'фона",
+      "Beschützt von Gal'fon",
+      "Protegido por Gal'fon",
+      "Protezione di Gal'fon",
+      "갈폰의 보살핌",
+      "受到加爾馮保護",
+      "被加尔冯看守"
+    ],
+    "Media": "inv_bow_1h_amani_c_01.jpg"
+  },
+  {
+    "TagId": 1300160,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Warmed by Let'aka's Presence",
+      "Calidez de la presencia de Let'aka",
+      "Aquecido pela Presença de Let'aka",
+      "Warmed by Let'aka's Presence",
+      "Reconfortado por la presencia de Let'aka",
+      "Présence réconfortante de Let’aka",
+      "Согревающее присутствие Лет'аки",
+      "Erwärmt von Let'akas Präsenz",
+      "Aquecido pela Presença de Let'aka",
+      "Calore della Presenza di Let'aka",
+      "따뜻한 레트아카의 존재감",
+      "被蕾塔卡的存在所溫暖",
+      "莱塔卡幻影的温暖"
+    ],
+    "Media": "spell_shaman_lavaflow.jpg"
+  },
+  {
+    "TagId": 1300162,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Stomp",
+      "Pisotón supurante",
+      "Pisada Gosmenta",
+      "Oozing Stomp",
+      "Pisotón rezumante",
+      "Piétinement suintant",
+      "Склизкий топот",
+      "Triefendes Stampfen",
+      "Pisada Gosmenta",
+      "Urto Melmoso",
+      "수액 발구르기",
+      "滲液踐踏",
+      "软泥践踏"
+    ],
+    "Media": "inv_ability_poison_nova.jpg"
+  },
+  {
+    "TagId": 1300163,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scent of Prey",
+      "Olor a presa",
+      "Cheiro de Presa",
+      "Scent of Prey",
+      "Rastro de presa",
+      "Odeur de proie",
+      "Запах добычи",
+      "Geruch der Beute",
+      "Cheiro de Presa",
+      "Odore di Preda",
+      "사냥감의 냄새",
+      "獵物氣味",
+      "猎物的气息"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300166,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Stomp",
+      "Pisotón supurante",
+      "Pisada Gosmenta",
+      "Oozing Stomp",
+      "Pisotón rezumante",
+      "Piétinement suintant",
+      "Склизкий топот",
+      "Triefendes Stampfen",
+      "Pisada Gosmenta",
+      "Urto Melmoso",
+      "수액 발구르기",
+      "滲液踐踏",
+      "软泥践踏"
+    ],
+    "Media": "inv_ability_poison_nova.jpg"
+  },
+  {
+    "TagId": 1300167,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Stomp",
+      "Pisotón supurante",
+      "Pisada Gosmenta",
+      "Oozing Stomp",
+      "Pisotón rezumante",
+      "Piétinement suintant",
+      "Склизкий топот",
+      "Triefendes Stampfen",
+      "Pisada Gosmenta",
+      "Urto Melmoso",
+      "수액 발구르기",
+      "滲液踐踏",
+      "软泥践踏"
+    ],
+    "Media": "inv_ability_poison_nova.jpg"
+  },
+  {
+    "TagId": 1300169,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Slime Coating",
+      "Revestimiento de baba",
+      "Cobertura Viscosa",
+      "Slime Coating",
+      "Revestimiento de babas",
+      "Couche visqueuse",
+      "Слой слизи",
+      "Schleimüberzug",
+      "Cobertura Viscosa",
+      "Rivestimento di Poltiglia",
+      "점액 막",
+      "軟泥塗層",
+      "软泥涂层"
+    ],
+    "Media": "ability_creature_poison_02.jpg"
   },
   {
     "TagId": 1300173,
@@ -166,6 +1530,69 @@
       "凡图斯符文：腐沼"
     ],
     "Media": "inv_inscriptions_vantus_rune_orange.jpg"
+  },
+  {
+    "TagId": 1300175,
+    "TagType": 26,
+    "Names": [
+      null,
+      "United Defense",
+      "Defensa unida",
+      "Defesa Unida",
+      "United Defense",
+      "Frente unido",
+      "Défense conjointe",
+      "Сплоченная оборона",
+      "Vereinte Verteidigung",
+      "Defesa Unida",
+      "Difesa Unita",
+      "합동 방어",
+      "團結防禦",
+      "联合防御"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300182,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300184,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1300187,
@@ -231,6 +1658,111 @@
     "Media": "inv_misc_lightcrystals.jpg"
   },
   {
+    "TagId": 1300190,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual",
+      "[DNT]Area Trigger visual"
+    ],
+    "Media": "spell_nature_stormreach.jpg"
+  },
+  {
+    "TagId": 1300194,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hatching Doom",
+      "Fatalidad en eclosión",
+      "Eclosão de Ruína",
+      "Hatching Doom",
+      "Fatalidad de eclosión",
+      "Éclosion funeste",
+      "Гибельная инкубация",
+      "Schlüpfende Verderbnis",
+      "Eclosão de Ruína",
+      "Rovina in Schiusura",
+      "부화하는 파멸",
+      "孵化毀滅",
+      "孵化厄运"
+    ],
+    "Media": "ability_hunter_snaketrap.jpg"
+  },
+  {
+    "TagId": 1300195,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hatching Doom",
+      "Fatalidad en eclosión",
+      "Eclosão de Ruína",
+      "Hatching Doom",
+      "Fatalidad de eclosión",
+      "Éclosion funeste",
+      "Гибельная инкубация",
+      "Schlüpfende Verderbnis",
+      "Eclosão de Ruína",
+      "Rovina in Schiusura",
+      "부화하는 파멸",
+      "孵化毀滅",
+      "孵化厄运"
+    ],
+    "Media": "ability_hunter_snaketrap.jpg"
+  },
+  {
+    "TagId": 1300201,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hatching Doom",
+      "Fatalidad en eclosión",
+      "Eclosão de Ruína",
+      "Hatching Doom",
+      "Fatalidad de eclosión",
+      "Éclosion funeste",
+      "Гибельная инкубация",
+      "Schlüpfende Verderbnis",
+      "Eclosão de Ruína",
+      "Rovina in Schiusura",
+      "부화하는 파멸",
+      "孵化毀滅",
+      "孵化厄运"
+    ],
+    "Media": "ability_hunter_snaketrap.jpg"
+  },
+  {
+    "TagId": 1300203,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300208,
     "TagType": 26,
     "Names": [
@@ -250,6 +1782,216 @@
       "角色扮演聊天气泡"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300210,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300213,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival",
+      "[DNT] Talking Head Conversation Root of Survival"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300215,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cooking",
+      "Cocinando",
+      "Cozinhando",
+      "Cooking",
+      "Cocinando",
+      "Cuisine",
+      "Готовка",
+      "Kochen",
+      "Cozinhando",
+      "Cucina",
+      "요리",
+      "烹飪",
+      "烹饪"
+    ],
+    "Media": "ability_mage_waterjet.jpg"
+  },
+  {
+    "TagId": 1300219,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Flowing Elements",
+      "Flujo elemental",
+      "Elementos em Fluxo",
+      "Flowing Elements",
+      "Elementos fluyentes",
+      "Éléments fluides",
+      "Потоки стихий",
+      "Fließende Elemente",
+      "Elementos em Fluxo",
+      "Elementi Fluenti",
+      "흐르는 정기",
+      "流動元素",
+      "元素奔涌"
+    ],
+    "Media": "ability_shaman_echooftheelements.jpg"
+  },
+  {
+    "TagId": 1300220,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Commanding Roar",
+      "Rugido de orden",
+      "Rugido de Comando",
+      "Commanding Roar",
+      "Rugido de orden",
+      "Rugissement de commandement",
+      "Властный рык",
+      "Befehlsgebrüll",
+      "Rugido de Comando",
+      "Ruggito del Comando",
+      "지휘의 포효",
+      "號令咆哮",
+      "命令咆哮"
+    ],
+    "Media": "ability_racial_bloodrage.jpg"
+  },
+  {
+    "TagId": 1300222,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Overcharge!",
+      "¡Sobrecarga!",
+      "Sobrecarga!",
+      "Overcharge!",
+      "¡Sobrecarga!",
+      "Surcharge\u00A0!",
+      "Перегрузка!",
+      "Überladung!",
+      "Sobrecarga!",
+      "Sovraccarico!",
+      "과충전!",
+      "超載！",
+      "过载！"
+    ],
+    "Media": "spell_shaman_ancestralawakening.jpg"
+  },
+  {
+    "TagId": 1300227,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burrowquake",
+      "Sismo subterráneo",
+      "Entocar Sísmico",
+      "Burrowquake",
+      "Seísmo subterráneo",
+      "Tremblefouir",
+      "Сотрясающее землю закапывание",
+      "Grabungsbeben",
+      "Entocar Sísmico",
+      "Sisma Rintanante",
+      "잠복지진",
+      "鑽地震動",
+      "钻地之震"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
+  },
+  {
+    "TagId": 1300228,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Burrowquake",
+      "Sismo subterráneo",
+      "Entocar Sísmico",
+      "Burrowquake",
+      "Seísmo subterráneo",
+      "Tremblefouir",
+      "Сотрясающее землю закапывание",
+      "Grabungsbeben",
+      "Entocar Sísmico",
+      "Sisma Rintanante",
+      "잠복지진",
+      "鑽地震動",
+      "钻地之震"
+    ],
+    "Media": "spell_shaman_earthquake.jpg"
+  },
+  {
+    "TagId": 1300229,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Commanding Roar",
+      "Rugido de orden",
+      "Rugido de Comando",
+      "Commanding Roar",
+      "Rugido de orden",
+      "Rugissement de commandement",
+      "Властный рык",
+      "Befehlsgebrüll",
+      "Rugido de Comando",
+      "Ruggito del Comando",
+      "지휘의 포효",
+      "號令咆哮",
+      "命令咆哮"
+    ],
+    "Media": "ability_racial_bloodrage.jpg"
+  },
+  {
+    "TagId": 1300235,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soul Exhaustion",
+      "Agotamiento del alma",
+      "Exaustão da Alma",
+      "Soul Exhaustion",
+      "Agotamiento de alma",
+      "Épuisement d’âme",
+      "Изнеможение души",
+      "Seelenerschöpfung",
+      "Exaustão da Alma",
+      "Esaurimento d'Anima",
+      "영혼 방출",
+      "靈魂耗弱",
+      "灵魂疲惫"
+    ],
+    "Media": "inv_soulbarrier.jpg"
   },
   {
     "TagId": 1300236,
@@ -273,6 +2015,1413 @@
     "Media": "inv_60pvp_trinket3b.jpg"
   },
   {
+    "TagId": 1300237,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mighty Thud",
+      "Batacazo poderoso",
+      "Baque Poderoso",
+      "Mighty Thud",
+      "Batacazo potente",
+      "Collision puissante",
+      "Грохочущий скачок",
+      "Gewaltiger Bums",
+      "Baque Poderoso",
+      "Colpo Possente",
+      "강력한 후려치기",
+      "強力重擊",
+      "巨力重击"
+    ],
+    "Media": "spell_sandexplosion.jpg"
+  },
+  {
+    "TagId": 1300238,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soulcoiler's Curse",
+      "Maldición de enrollaalmas",
+      "Maldição do Enrosca-almas",
+      "Soulcoiler's Curse",
+      "Maldición de los Volutadores de Almas",
+      "Malédiction entortillâme",
+      "Проклятие душителя душ",
+      "Fluch des Seelenwinders",
+      "Maldição do Enrosca-almas",
+      "Maledizione Spiranima",
+      "영혼살무사의 저주",
+      "纏魂者詛咒",
+      "盘魂者诅咒"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_fangstone.jpg"
+  },
+  {
+    "TagId": 1300239,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Swirling Spirit",
+      "Espíritu arremolinado",
+      "Espírito Turbilhante",
+      "Swirling Spirit",
+      "Espíritu arremolinado",
+      "Esprit tourbillonnant",
+      "Кружащий дух",
+      "Wabernder Geist",
+      "Espírito Turbilhante",
+      "Spirito Vorticante",
+      "휘몰아치는 영혼",
+      "旋動之魂",
+      "盘旋精魂"
+    ],
+    "Media": "achievement_halloween_ghost_01.jpg"
+  },
+  {
+    "TagId": 1300243,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Brutalize",
+      "Brutalizar",
+      "Brutalizar",
+      "Brutalize",
+      "Brutalizar",
+      "Brutalisation",
+      "Свирепый удар",
+      "Metzeln",
+      "Brutalizar",
+      "Brutalizzazione",
+      "야수 공격",
+      "殘暴爪",
+      "残杀"
+    ],
+    "Media": "ability_warrior_devastate.jpg"
+  },
+  {
+    "TagId": 1300244,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Brutalize",
+      "Brutalizar",
+      "Brutalizar",
+      "Brutalize",
+      "Brutalizar",
+      "Brutalisation",
+      "Свирепый удар",
+      "Metzeln",
+      "Brutalizar",
+      "Brutalizzazione",
+      "야수 공격",
+      "殘暴爪",
+      "残杀"
+    ],
+    "Media": "ability_warrior_devastate.jpg"
+  },
+  {
+    "TagId": 1300245,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Commanding Roar",
+      "Rugido de orden",
+      "Rugido de Comando",
+      "Commanding Roar",
+      "Rugido de orden",
+      "Rugissement de commandement",
+      "Властный рык",
+      "Befehlsgebrüll",
+      "Rugido de Comando",
+      "Ruggito del Comando",
+      "지휘의 포효",
+      "號令咆哮",
+      "命令咆哮"
+    ],
+    "Media": "ability_racial_bloodrage.jpg"
+  },
+  {
+    "TagId": 1300248,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Devour",
+      "Devorar",
+      "Devorar",
+      "Devour",
+      "Devorar",
+      "Dévoration",
+      "Пожирание",
+      "Verschlingen",
+      "Devorar",
+      "Voracità",
+      "집어삼키기",
+      "吞噬",
+      "吞噬"
+    ],
+    "Media": "inv_12_dh_void_ability_devourerbite.jpg"
+  },
+  {
+    "TagId": 1300249,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Devour",
+      "Devorar",
+      "Devorar",
+      "Devour",
+      "Devorar",
+      "Dévoration",
+      "Пожирание",
+      "Verschlingen",
+      "Devorar",
+      "Voracità",
+      "집어삼키기",
+      "吞噬",
+      "吞噬"
+    ],
+    "Media": "inv_12_dh_void_ability_devourerbite.jpg"
+  },
+  {
+    "TagId": 1300250,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Devouring Might",
+      "Poder devorador",
+      "Poder Devorador",
+      "Devouring Might",
+      "Poder voraz",
+      "Puissance dévorante",
+      "Пожирающая мощь",
+      "Verschlingende Macht",
+      "Poder Devorador",
+      "Vigore Divorante",
+      "포식의 힘",
+      "吞噬之力",
+      "吞噬之力"
+    ],
+    "Media": "inv_helm_armor_domanaar_d_01.jpg"
+  },
+  {
+    "TagId": 1300251,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300252,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "inv_misc_cauldron_nature.jpg"
+  },
+  {
+    "TagId": 1300253,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300254,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300255,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300256,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300257,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300258,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Creeping Bile",
+      "Bilis reptante",
+      "Bile Rastejante",
+      "Creeping Bile",
+      "Bilis reptante",
+      "Humeur rampante",
+      "Ползучая желчь",
+      "Kriechende Galle",
+      "Bile Rastejante",
+      "Bile Strisciante",
+      "스멀거리는 담즙",
+      "蔓延膽汁",
+      "蔓延胆汁"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300259,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Bloom",
+      "Florecimiento oscuro",
+      "Flor Negra",
+      "Dark Bloom",
+      "Floración oscura",
+      "Sombre floraison",
+      "Цветение тьмы",
+      "Dunkle Blüte",
+      "Flor Negra",
+      "Bocciolo Oscuro",
+      "암흑 만개",
+      "黑暗綻放",
+      "黑暗绽放"
+    ],
+    "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
+  },
+  {
+    "TagId": 1300260,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Bloom",
+      "Florecimiento oscuro",
+      "Flor Negra",
+      "Dark Bloom",
+      "Floración oscura",
+      "Sombre floraison",
+      "Цветение тьмы",
+      "Dunkle Blüte",
+      "Flor Negra",
+      "Bocciolo Oscuro",
+      "암흑 만개",
+      "黑暗綻放",
+      "黑暗绽放"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300261,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Bloom",
+      "Florecimiento oscuro",
+      "Flor Negra",
+      "Dark Bloom",
+      "Floración oscura",
+      "Sombre floraison",
+      "Цветение тьмы",
+      "Dunkle Blüte",
+      "Flor Negra",
+      "Bocciolo Oscuro",
+      "암흑 만개",
+      "黑暗綻放",
+      "黑暗绽放"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300262,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Dark Bloom",
+      "Florecimiento oscuro",
+      "Flor Negra",
+      "Dark Bloom",
+      "Floración oscura",
+      "Sombre floraison",
+      "Цветение тьмы",
+      "Dunkle Blüte",
+      "Flor Negra",
+      "Bocciolo Oscuro",
+      "암흑 만개",
+      "黑暗綻放",
+      "黑暗绽放"
+    ],
+    "Media": "inv_ability_voidweaverpriest_entropicrift.jpg"
+  },
+  {
+    "TagId": 1300263,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Sickening Bite",
+      "Mordedura infecciosa",
+      "Mordida Nauseante",
+      "Sickening Bite",
+      "Mordedura repugnante",
+      "Morsure répugnante",
+      "Тошнотворный укус",
+      "Widerwärtiger Biss",
+      "Mordida Nauseante",
+      "Morso Nauseabondo",
+      "병든 이빨",
+      "致病撕咬",
+      "致病撕咬"
+    ],
+    "Media": "ability_creature_poison_01.jpg"
+  },
+  {
+    "TagId": 1300264,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Doomscale Pheromones",
+      "Feromonas fataliescamas",
+      "Feromônios de Tenebrescama",
+      "Doomscale Pheromones",
+      "Feromonas de escalamidad",
+      "Phéromones funécailles",
+      "Злочешуйные феромоны",
+      "Verderbnisschuppenpheromone",
+      "Feromônios de Tenebrescama",
+      "Feromoni di Squamafunesta",
+      "파멸비늘 페로몬",
+      "滅鱗費洛蒙",
+      "厄鳞信息素"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300265,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Doomscale Pheromones",
+      "Feromonas fataliescamas",
+      "Feromônios de Tenebrescama",
+      "Doomscale Pheromones",
+      "Feromonas de escalamidad",
+      "Phéromones funécailles",
+      "Злочешуйные феромоны",
+      "Verderbnisschuppenpheromone",
+      "Feromônios de Tenebrescama",
+      "Feromoni di Squamafunesta",
+      "파멸비늘 페로몬",
+      "滅鱗費洛蒙",
+      "厄鳞信息素"
+    ],
+    "Media": "inv_venomserpentmount_purple.jpg"
+  },
+  {
+    "TagId": 1300266,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Maruukai Barricade",
+      "Recoger barricada maruukai",
+      "Coletar Barricada de Maruukai",
+      "Collect Maruukai Barricade",
+      "Añadir barricada de Maruukai",
+      "Récupérer une barricade de Maruukaï",
+      "Получить марукайскую баррикаду",
+      "Barrikade aus Maruukai sammeln",
+      "Coletar Barricada de Maruukai",
+      "Raccolta Barricata di Maruukai",
+      "마루카이 방벽 획득",
+      "收集莫魯凱路障",
+      "收集马鲁凯路障"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300268,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Tapered Maruukai Barricade",
+      "Recoger barricada maruukai estrecha",
+      "Coletar Barricada de Maruukai Afunilada",
+      "Collect Tapered Maruukai Barricade",
+      "Añadir barricada de Maruukai escalonada",
+      "Récupérer une barricade oblique de Maruukaï",
+      "Получить суженную марукайскую баррикаду",
+      "Konische Barrikade aus Maruukai sammeln",
+      "Coletar Barricada de Maruukai Afunilada",
+      "Raccolta Barricata di Maruukai Rastremata",
+      "얇은 마루카이 방벽 획득",
+      "收集錐形莫魯凱路障",
+      "收集锥形马鲁凯路障"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300270,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Bakar's Favorite Ball",
+      "Recoger pelota favorita de bakar",
+      "Coletar Bola Favorita de Bakar",
+      "Collect Bakar's Favorite Ball",
+      "Añadir pelota favorita de bakar",
+      "Récupérer une balle préférée de bakar",
+      "Получить любимый мяч бакара",
+      "Bakars Lieblingsball sammeln",
+      "Coletar Bola Favorita de Bakar",
+      "Raccolta Palla Preferita per Bakar",
+      "바카르가 좋아하는 공 획득",
+      "收集巴卡犬愛玩的球",
+      "收集獒犬最爱的皮球"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300272,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Maruukai Wooden Table",
+      "Recoger mesa de madera maruukai",
+      "Coletar Mesa de Madeira de Maruukai",
+      "Collect Maruukai Wooden Table",
+      "Añadir mesa de madera de Maruukai",
+      "Récupérer une table de Maruukaï en bois",
+      "Получить марукайский деревянный стол",
+      "Holztisch aus Maruukai sammeln",
+      "Coletar Mesa de Madeira de Maruukai",
+      "Raccolta Tavolo di Legno di Maruukai",
+      "마루카이 목재 탁자 획득",
+      "收集莫魯凱木桌",
+      "收集马鲁凯木制桌子"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300274,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Maruukai Feast Table",
+      "Recoger mesa de festín maruukai",
+      "Coletar Mesa de Banquete de Maruukai",
+      "Collect Maruukai Feast Table",
+      "Añadir mesa de festín de Maruukai",
+      "Récupérer une table de banquet de Maruukaï",
+      "Получить марукайский пиршественный стол",
+      "Festtafel aus Maruukai sammeln",
+      "Coletar Mesa de Banquete de Maruukai",
+      "Raccolta Tavolo del Banchetto di Maruukai",
+      "마루카이 잔치 탁자 획득",
+      "收集莫魯凱宴會桌",
+      "收集马鲁凯宴会桌"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300277,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Maruukai Chef's Stove",
+      "Recoger estufa de chef maruukai",
+      "Coletar Fogão do Chef de Maruukai",
+      "Collect Maruukai Chef's Stove",
+      "Añadir estufa de chef de Maruukai",
+      "Récupérer un fourneau de cuisine de Maruukaï",
+      "Получить печку марукайского повара",
+      "Ofen des Maruukaikoches sammeln",
+      "Coletar Fogão do Chef de Maruukai",
+      "Raccolta Stufa dello Chef di Maruukai",
+      "마루카이 요리사의 화로 획득",
+      "收集莫魯凱廚師爐子",
+      "收集马鲁凯主厨火炉"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300279,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Bakar's Napping Rug",
+      "Recoger alfombra para siestas de bakar",
+      "Coletar Tapete de Cochilo de Bakar",
+      "Collect Bakar's Napping Rug",
+      "Añadir alfombra para siestas de bakar",
+      "Récupérer un tapis de sieste de bakar",
+      "Получить спальный коврик бакара",
+      "Bakars Schlafteppich sammeln",
+      "Coletar Tapete de Cochilo de Bakar",
+      "Raccolta Tappeto da Sonnellino per Bakar",
+      "바카르의 낮잠 융단 획득",
+      "收集巴卡犬午睡地毯",
+      "收集獒犬小憩地毯"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300281,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Ornate Khanam's Rug",
+      "Recoger alfombra de khanam ornamentada",
+      "Coletar Tapete Ornado de Khanam",
+      "Collect Ornate Khanam's Rug",
+      "Añadir alfombra ornamental de khanam",
+      "Récupérer un grand tapis ouvragé de khanam",
+      "Получить украшенный коврик ханам",
+      "Verzierten Teppich der Khanam sammeln",
+      "Coletar Tapete Ornado de Khanam",
+      "Raccolta Tappeto della Khanam Adornato",
+      "화려한 카남의 융단 획득",
+      "收集華麗大可汗地毯",
+      "收集华丽可汗地毯"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300283,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Large Ornate Khanam's Rug",
+      "Recoger alfombra de khanam ornamentada grande",
+      "Coletar Tapete Ornado de Khanam Grande",
+      "Collect Large Ornate Khanam's Rug",
+      "Añadir alfombra ornamental de khanam grande",
+      "Récupérer un grand tapis ouvragé de khanam",
+      "Получить большой украшенный коврик ханам",
+      "Großen verzierten Teppich der Khanam sammeln",
+      "Coletar Tapete Ornado de Khanam Grande",
+      "Raccolta Tappeto della Khanam Adornato Grande",
+      "화려한 카남의 대형 융단 획득",
+      "收集大型華麗大可汗地毯",
+      "收集大型华丽可汗地毯"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300285,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Maruukai Storage Basket",
+      "Recoger cesta de almacenamiento maruukai",
+      "Coletar Cesta de Armazenamento de Maruukai",
+      "Collect Maruukai Storage Basket",
+      "Añadir cesta de almacenamiento de Maruukai",
+      "Récupérer un panier de stockage de Maruukaï",
+      "Получить марукайскую корзину для запасов",
+      "Vorratskorb aus Maruukai sammeln",
+      "Coletar Cesta de Armazenamento de Maruukai",
+      "Raccolta Cestino del Magazzino di Maruukai",
+      "마루카이 저장용 바구니 획득",
+      "收集莫魯凱儲物籃",
+      "收集马鲁凯收纳篮"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300287,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Open Maruukai Storage Basket",
+      "Recoger cesta de almacenamiento maruukai abierta",
+      "Coletar Cesta de Armazenamento de Maruukai Aberta",
+      "Collect Open Maruukai Storage Basket",
+      "Añadir cesta de almacenamiento de Maruukai abierta",
+      "Récupérer un panier de stockage ouvert de Maruukaï",
+      "Получить открытую марукайскую корзину для запасов",
+      "Offener Vorratskorb aus Maruukai sammeln",
+      "Coletar Cesta de Armazenamento de Maruukai Aberta",
+      "Raccolta Cestino del Magazzino di Maruukai Aperto",
+      "열린 마루카이 저장용 바구니 획득",
+      "收集打開的莫魯凱儲物籃",
+      "收集敞开的马鲁凯收纳篮"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300289,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Bakar's Snack",
+      "Recoger aperitivo de bakar",
+      "Coletar Lanche de Bakar",
+      "Collect Bakar's Snack",
+      "Añadir tentempié de bakar",
+      "Récupérer un en-cas de bakar",
+      "Получить угощение бакара",
+      "Bakars Knabberei sammeln",
+      "Coletar Lanche de Bakar",
+      "Raccolta Spuntino per Bakar",
+      "바카르의 간식 획득",
+      "收集巴卡犬點心",
+      "收集獒犬的零食"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300291,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Bakar's Dinner",
+      "Recoger cena de bakar",
+      "Coletar Janta de Bakar",
+      "Collect Bakar's Dinner",
+      "Añadir cena de bakar",
+      "Récupérer un repas de bakar",
+      "Получить обед бакара",
+      "Bakars Abendessen sammeln",
+      "Coletar Janta de Bakar",
+      "Raccolta Cena di Bakar",
+      "바카르의 저녁밥 획득",
+      "收集巴卡犬晚餐",
+      "收集獒犬的晚餐"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300293,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Pet Food and Water Tray",
+      "Recoger bandeja de agua y comida para mascotas",
+      "Coletar Comedouro e Bebedouro de Mascote",
+      "Collect Pet Food and Water Tray",
+      "Añadir bandeja de comida y agua para mascotas",
+      "Récupérer un plateau de nourriture et d’eau pour mascotte",
+      "Получить поднос с кормушкой и поилкой",
+      "Haustierfutter und Wassertrog sammeln",
+      "Coletar Comedouro e Bebedouro de Mascote",
+      "Raccolta Vassoio di Cibo e Acqua per Animali",
+      "애완동물 음식과 물 그릇 획득",
+      "收集寵物食物和水盤",
+      "收集宠物食水盆"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300295,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]",
+      "Ohn'ahran Plains Endeavor [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300310,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Doomscale Shell",
+      "Cáscara de fataliescama",
+      "Casca de Tenebrescama",
+      "Doomscale Shell",
+      "Cáscara de escalamidad",
+      "Coquille funécaille",
+      "Скорлупа злочешуйника",
+      "Verderbnisschuppenschale",
+      "Casca de Tenebrescama",
+      "Guscio di Squamafunesta",
+      "파멸비늘 껍질",
+      "滅鱗外殼",
+      "厄鳞外壳"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300312,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Doomscale Shell",
+      "Cáscara de fataliescama",
+      "Casca de Tenebrescama",
+      "Doomscale Shell",
+      "Cáscara de escalamidad",
+      "Coquille funécaille",
+      "Скорлупа злочешуйника",
+      "Verderbnisschuppenschale",
+      "Casca de Tenebrescama",
+      "Guscio di Squamafunesta",
+      "파멸비늘 껍질",
+      "滅鱗外殼",
+      "厄鳞外壳"
+    ],
+    "Media": "inv_12_profession_skinning_thalassianscale_violet.jpg"
+  },
+  {
+    "TagId": 1300314,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Doomscale Shell",
+      "Cáscara de fataliescama",
+      "Casca de Tenebrescama",
+      "Doomscale Shell",
+      "Cáscara de escalamidad",
+      "Coquille funécaille",
+      "Скорлупа злочешуйника",
+      "Verderbnisschuppenschale",
+      "Casca de Tenebrescama",
+      "Guscio di Squamafunesta",
+      "파멸비늘 껍질",
+      "滅鱗外殼",
+      "厄鳞外壳"
+    ],
+    "Media": "inv_12_profession_skinning_thalassianscale_violet.jpg"
+  },
+  {
+    "TagId": 1300315,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300319,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300322,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Twinfang Toxin",
+      "Toxina doblecolmillo",
+      "Toxina da Presa Dupla",
+      "Twinfang Toxin",
+      "Toxina de colmillos gemelos",
+      "Toxine des crochets jumeaux",
+      "Токсин двойных клыков",
+      "Zwillingsfangtoxin",
+      "Toxina da Presa Dupla",
+      "Tossina delle Zanne Gemelle",
+      "쌍송곳니 독소",
+      "雙牙毒素",
+      "双牙毒素"
+    ],
+    "Media": "ability_rogue_dualweild.jpg"
+  },
+  {
+    "TagId": 1300324,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drop Big Egg",
+      "Soltar gran huevo",
+      "Soltar Ovo Grande",
+      "Drop Big Egg",
+      "Soltar huevo grande",
+      "Lâcher le gros œuf",
+      "Бросок большого яйца",
+      "Großes Ei fallen lassen",
+      "Soltar Ovo Grande",
+      "Rilascio Grosso Uovo",
+      "큰 알 떨어뜨리기",
+      "放下大顆的蛋",
+      "投下巨卵"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300325,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ravenous Doomscale",
+      "Fataliescama voraz",
+      "Tenebrescama Voraz",
+      "Ravenous Doomscale",
+      "Escalamidad voraz",
+      "Funécaille affamé",
+      "Прожорливый злочешуйник",
+      "Unersättliche Verderbnisschuppe",
+      "Tenebrescama Voraz",
+      "Squamafunesta Vorace",
+      "게걸스러운 파멸비늘",
+      "飢饞滅鱗",
+      "贪婪的厄鳞"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300326,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vindictive Onslaught",
+      "Agresión vindicativa",
+      "Ofensiva Vingativa",
+      "Vindictive Onslaught",
+      "Acometida de castigo",
+      "Assaut vindicatif",
+      "Мстительный натиск",
+      "Rachsüchtiger Ansturm",
+      "Ofensiva Vingativa",
+      "Massacro Vendicativo",
+      "원한 서린 공세",
+      "復仇猛襲",
+      "复仇猛攻"
+    ],
+    "Media": "spell_nature_earthquake.jpg"
+  },
+  {
+    "TagId": 1300328,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vine Grip",
+      "Vid atrayente",
+      "Agarre de Vinhas",
+      "Vine Grip",
+      "Vid atrayente",
+      "Poigne de la vigne",
+      "Хватка лозы",
+      "Rankengriff",
+      "Agarre de Vinhas",
+      "Presa della Vite",
+      "덩굴 손아귀",
+      "藤蔓之握",
+      "藤蔓之握"
+    ],
+    "Media": "spell_shaman_earthlivingweapon.jpg"
+  },
+  {
+    "TagId": 1300330,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Epidemic Order",
+      "Orden epidémica",
+      "Ordem de Epidemia",
+      "Epidemic Order",
+      "Orden de la epidemia",
+      "Ordre épidémique",
+      "Приказ эпидемии",
+      "Epidemiebefehl",
+      "Ordem de Epidemia",
+      "Ordine di Epidemia",
+      "전염병의 명령",
+      "疫病命令",
+      "传染敕令"
+    ],
+    "Media": "artifactability_unholydeathknight_deathsembrace.jpg"
+  },
+  {
+    "TagId": 1300331,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black",
+      "<DNT> Fade to Black"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300340,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Waygate",
+      "Portal",
+      "Pórtico",
+      "Waygate",
+      "Puerta",
+      "Portail d’accès",
+      "Путевые врата",
+      "Tor",
+      "Pórtico",
+      "Portale di Traslocazione",
+      "차원문",
+      "甬道之門",
+      "界门"
+    ],
+    "Media": "spell_nature_astralrecal.jpg"
+  },
+  {
+    "TagId": 1300349,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shell Shock",
+      "Choque de caparazón",
+      "Choque de Casco",
+      "Shell Shock",
+      "Caparazonazo",
+      "Choc traumatique",
+      "Контузия",
+      "Panzerfaust",
+      "Choque de Casco",
+      "Bombardamento di Conchiglie",
+      "유탄 충격",
+      "硬殼震擊",
+      "外壳震击"
+    ],
+    "Media": "ability_vehicle_siegeenginecannon.jpg"
+  },
+  {
+    "TagId": 1300351,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Poison Splash",
+      "Salpicadura de veneno",
+      "Borrifo de Veneno",
+      "Poison Splash",
+      "Salpicadura de veneno",
+      "Éclaboussure de poison",
+      "Ядовитый всплеск",
+      "Säurespritzer",
+      "Borrifo de Veneno",
+      "Spruzzo di Veleno",
+      "독 분출",
+      "毒液噴濺",
+      "毒液喷溅"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300357,
+    "TagType": 26,
+    "Names": [
+      null,
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300359,
+    "TagType": 26,
+    "Names": [
+      null,
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3",
+      "General Trigger 3"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300363,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul",
+      "[DNT] Send Soul"
+    ],
+    "Media": "spell_misc_zandalari_council_soulswap.jpg"
+  },
+  {
+    "TagId": 1300367,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback",
+      "[DNT] Vine Grip Knockback"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300368,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300369,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Relentless Rider's Strength",
+      "Fuerza de jinete implacable",
+      "Força do Cavalgante Incansável",
+      "Relentless Rider's Strength",
+      "Fuerza de jinete incansable",
+      "Force de la chevauchée implacable",
+      "Сила неумолимого всадника",
+      "Stärke des erbarmungslosen Reiters",
+      "Força do Cavalgante Incansável",
+      "Forza del Cavalcatore Implacabile",
+      "가혹한 기수의 힘",
+      "無情騎士的力量",
+      "冷厉骑手的力量"
+    ],
+    "Media": "inv_plate_raiddeathknightmidnight_d_01_helm.jpg"
+  },
+  {
+    "TagId": 1300370,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300371,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300372,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cosmic Crash",
+      "Colisión cósmica",
+      "Colisão Cósmica",
+      "Cosmic Crash",
+      "Colisión cósmica",
+      "Impact cosmique",
+      "Космическое столкновение",
+      "Kosmischer Einschlag",
+      "Colisão Cósmica",
+      "Schianto Cosmico",
+      "우주 충돌",
+      "宇宙撞擊",
+      "星辰坠击"
+    ],
+    "Media": "inv_cosmicvoid_groundsate.jpg"
+  },
+  {
+    "TagId": 1300375,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energy Beam",
+      "Haz de energía",
+      "Raio de Energia",
+      "Energy Beam",
+      "Haz de energía",
+      "Rayon d’énergie",
+      "Энергетический луч",
+      "Energiestrahl",
+      "Raio de Energia",
+      "Raggio Energetico",
+      "에너지 광선",
+      "能量光束",
+      "能量光束"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300377,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay",
+      "[DNT] Boss Delay"
+    ],
+    "Media": "spell_shadow_demoniccircleteleport.jpg"
+  },
+  {
+    "TagId": 1300378,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mushroom Toss",
+      "Lanzamiento de champiñones",
+      "Arremesso de Cogumelo",
+      "Mushroom Toss",
+      "Lanzamiento de champiñón",
+      "Lancer de champignon",
+      "Бросок гриба",
+      "Pilzwurf",
+      "Arremesso de Cogumelo",
+      "Lancio del Fungo",
+      "버섯 던지기",
+      "丟擲蘑菇",
+      "蘑菇投掷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300379,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile",
+      "[DNT]Cosmetic missile"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300386,
     "TagType": 26,
     "Names": [
@@ -292,6 +3441,48 @@
       "空虚的警戒者"
     ],
     "Media": "inv_shield_draenei_a_02_uprez.jpg"
+  },
+  {
+    "TagId": 1300393,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venomous Spit",
+      "Flema ponzoñosa",
+      "Cuspe Peçonhento",
+      "Venomous Spit",
+      "Flema venenosa",
+      "Crachat de venin",
+      "Ядовитый плевок",
+      "Giftige Spucke",
+      "Cuspe Peçonhento",
+      "Sputo Velenoso",
+      "맹독 뱉기",
+      "毒液噴吐",
+      "毒性喷吐"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300396,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura",
+      "[DNT] Dismount Aura"
+    ],
+    "Media": "trade_engineering.jpg"
   },
   {
     "TagId": 1300397,
@@ -315,6 +3506,27 @@
     "Media": "ability_paladin_bladeofjusticeblue.jpg"
   },
   {
+    "TagId": 1300400,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energized Spittle",
+      "Escupitajo energizado",
+      "Cusparada Energizada",
+      "Energized Spittle",
+      "Babas energizadas",
+      "Crachat énergisé",
+      "Заряженный плевок",
+      "Energetisierter Speichel",
+      "Cusparada Energizada",
+      "Sputo Energizzato",
+      "충만한 타액",
+      "充能唾沫",
+      "充能唾液"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300401,
     "TagType": 26,
     "Names": [
@@ -332,6 +3544,132 @@
       "[DNT] Transform",
       "[DNT] Transform",
       "[DNT] Transform"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300404,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Devour",
+      "Devorar",
+      "Devorar",
+      "Devour",
+      "Devorar",
+      "Dévoration",
+      "Пожирание",
+      "Verschlingen",
+      "Devorar",
+      "Voracità",
+      "집어삼키기",
+      "吞噬",
+      "吞噬"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300408,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energized Spittle",
+      "Escupitajo energizado",
+      "Cusparada Energizada",
+      "Energized Spittle",
+      "Babas energizadas",
+      "Crachat énergisé",
+      "Заряженный плевок",
+      "Energetisierter Speichel",
+      "Cusparada Energizada",
+      "Sputo Energizzato",
+      "충만한 타액",
+      "充能唾沫",
+      "充能唾液"
+    ],
+    "Media": "inv_misc_stormlordsfavor.jpg"
+  },
+  {
+    "TagId": 1300409,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spear Toss",
+      "Lanzamiento de lanza",
+      "Arremessar Lança",
+      "Spear Toss",
+      "Lanzamiento de lanza",
+      "Jet de lance",
+      "Бросок копья",
+      "Speerwurf",
+      "Arremessar Lança",
+      "Lancio Lancia",
+      "창 던지기",
+      "長矛投擲",
+      "投掷长矛"
+    ],
+    "Media": "inv_spear_03.jpg"
+  },
+  {
+    "TagId": 1300411,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energized Spittle",
+      "Escupitajo energizado",
+      "Cusparada Energizada",
+      "Energized Spittle",
+      "Babas energizadas",
+      "Crachat énergisé",
+      "Заряженный плевок",
+      "Energetisierter Speichel",
+      "Cusparada Energizada",
+      "Sputo Energizzato",
+      "충만한 타액",
+      "充能唾沫",
+      "充能唾液"
+    ],
+    "Media": "inv_misc_stormlordsfavor.jpg"
+  },
+  {
+    "TagId": 1300420,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energized Spittle",
+      "Escupitajo energizado",
+      "Cusparada Energizada",
+      "Energized Spittle",
+      "Babas energizadas",
+      "Crachat énergisé",
+      "Заряженный плевок",
+      "Energetisierter Speichel",
+      "Cusparada Energizada",
+      "Sputo Energizzato",
+      "충만한 타액",
+      "充能唾沫",
+      "充能唾液"
+    ],
+    "Media": "inv_misc_stormlordsfavor.jpg"
+  },
+  {
+    "TagId": 1300421,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force",
+      "[DNT] Vine Grip Movement Force"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -357,6 +3695,27 @@
     "Media": "inv_112_arcane_groundstate.jpg"
   },
   {
+    "TagId": 1300444,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Drop Big Egg",
+      "Soltar gran huevo",
+      "Soltar Ovo Grande",
+      "Drop Big Egg",
+      "Soltar huevo grande",
+      "Lâcher le gros œuf",
+      "Бросок большого яйца",
+      "Großes Ei fallen lassen",
+      "Soltar Ovo Grande",
+      "Rilascio Grosso Uovo",
+      "큰 알 떨어뜨리기",
+      "放下大顆的蛋",
+      "投下巨卵"
+    ],
+    "Media": "ability_hunter_snaketrap.jpg"
+  },
+  {
     "TagId": 1300447,
     "TagType": 26,
     "Names": [
@@ -376,6 +3735,153 @@
       "[DNT] Arcane Explosion"
     ],
     "Media": "inv_112_arcane_groundstate.jpg"
+  },
+  {
+    "TagId": 1300451,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Wave",
+      "Oleada venenosa",
+      "Onda de Peçonha",
+      "Venom Wave",
+      "Oleada de veneno",
+      "Vague venimeuse",
+      "Волна яда",
+      "Giftwelle",
+      "Onda de Peçonha",
+      "Ondata di Veleno",
+      "맹독 물결",
+      "劇毒波",
+      "剧毒之潮"
+    ],
+    "Media": "inv_ability_poison_wave.jpg"
+  },
+  {
+    "TagId": 1300452,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Wave",
+      "Oleada venenosa",
+      "Onda de Peçonha",
+      "Venom Wave",
+      "Oleada de veneno",
+      "Vague venimeuse",
+      "Волна яда",
+      "Giftwelle",
+      "Onda de Peçonha",
+      "Ondata di Veleno",
+      "맹독 물결",
+      "劇毒波",
+      "剧毒之潮"
+    ],
+    "Media": "inv_ability_poison_wave.jpg"
+  },
+  {
+    "TagId": 1300453,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Wave",
+      "Oleada venenosa",
+      "Onda de Peçonha",
+      "Venom Wave",
+      "Oleada de veneno",
+      "Vague venimeuse",
+      "Волна яда",
+      "Giftwelle",
+      "Onda de Peçonha",
+      "Ondata di Veleno",
+      "맹독 물결",
+      "劇毒波",
+      "剧毒之潮"
+    ],
+    "Media": "inv_ability_poison_wave.jpg"
+  },
+  {
+    "TagId": 1300457,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Wave",
+      "Oleada venenosa",
+      "Onda de Peçonha",
+      "Venom Wave",
+      "Oleada de veneno",
+      "Vague venimeuse",
+      "Волна яда",
+      "Giftwelle",
+      "Onda de Peçonha",
+      "Ondata di Veleno",
+      "맹독 물결",
+      "劇毒波",
+      "剧毒之潮"
+    ],
+    "Media": "inv_ability_poison_wave.jpg"
+  },
+  {
+    "TagId": 1300458,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Wave",
+      "Oleada venenosa",
+      "Onda de Peçonha",
+      "Venom Wave",
+      "Oleada de veneno",
+      "Vague venimeuse",
+      "Волна яда",
+      "Giftwelle",
+      "Onda de Peçonha",
+      "Ondata di Veleno",
+      "맹독 물결",
+      "劇毒波",
+      "剧毒之潮"
+    ],
+    "Media": "inv_ability_poison_wave.jpg"
+  },
+  {
+    "TagId": 1300459,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Wave",
+      "Oleada venenosa",
+      "Onda de Peçonha",
+      "Venom Wave",
+      "Oleada de veneno",
+      "Vague venimeuse",
+      "Волна яда",
+      "Giftwelle",
+      "Onda de Peçonha",
+      "Ondata di Veleno",
+      "맹독 물결",
+      "劇毒波",
+      "剧毒之潮"
+    ],
+    "Media": "inv_ability_poison_wave.jpg"
+  },
+  {
+    "TagId": 1300463,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Carving Blades",
+      "Hojas de trincheta",
+      "Lâminas Talhantes",
+      "Carving Blades",
+      "Filos trinchadores",
+      "Lames tranchantes",
+      "Режущие клинки",
+      "Schneidende Klingen",
+      "Lâminas Talhantes",
+      "Lame Sferzanti",
+      "새기는 칼날",
+      "雕刻利刃",
+      "削切利刃"
+    ],
+    "Media": "inv_knife_1h_goblinrogue_c_01.jpg"
   },
   {
     "TagId": 1300465,
@@ -399,6 +3905,48 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300468,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Swirling Spirit",
+      "Espíritu arremolinado",
+      "Espírito Turbilhante",
+      "Swirling Spirit",
+      "Espíritu arremolinado",
+      "Esprit tourbillonnant",
+      "Кружащий дух",
+      "Wabernder Geist",
+      "Espírito Turbilhante",
+      "Spirito Vorticante",
+      "휘몰아치는 영혼",
+      "旋動之魂",
+      "盘旋精魂"
+    ],
+    "Media": "achievement_halloween_ghost_01.jpg"
+  },
+  {
+    "TagId": 1300470,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grasping Depths",
+      "Profundidades atrapantes",
+      "Profundezas Constritoras",
+      "Grasping Depths",
+      "Profundidades aferradoras",
+      "Profondeurs avides",
+      "Цепкие глубины",
+      "Greifende Tiefen",
+      "Profundezas Constritoras",
+      "Profondità Ghermitrici",
+      "움켜쥐는 심연",
+      "攫取深淵",
+      "紧攫深渊"
+    ],
+    "Media": "spell_necro_inevitableend.jpg"
+  },
+  {
     "TagId": 1300472,
     "TagType": 26,
     "Names": [
@@ -416,6 +3964,27 @@
       "Abort Conversation [DNT]",
       "Abort Conversation [DNT]",
       "Abort Conversation [DNT]"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300476,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -441,6 +4010,48 @@
     "Media": "misc_arrowdown.jpg"
   },
   {
+    "TagId": 1300483,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Sludge",
+      "Fango supurante",
+      "Lodo Gosmento",
+      "Oozing Sludge",
+      "Fango rezumante",
+      "Boue suintante",
+      "Сгусток жижи",
+      "Schleimiger Schlick",
+      "Lodo Gosmento",
+      "Poltiglia Melmosa",
+      "새어 나오는 오물",
+      "滲液淤泥",
+      "渗流的淤泥"
+    ],
+    "Media": "inv_ability_poison_wave.jpg"
+  },
+  {
+    "TagId": 1300486,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Sludge",
+      "Fango supurante",
+      "Lodo Gosmento",
+      "Oozing Sludge",
+      "Fango rezumante",
+      "Boue suintante",
+      "Сгусток жижи",
+      "Schleimiger Schlick",
+      "Lodo Gosmento",
+      "Poltiglia Melmosa",
+      "새어 나오는 오물",
+      "滲液淤泥",
+      "渗流的淤泥"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300487,
     "TagType": 26,
     "Names": [
@@ -458,6 +4069,27 @@
       "[DNT] Showdowns - Val - Ch1 Q03 - On Abandon (JTL)",
       "[DNT] Showdowns - Val - Ch1 Q03 - On Abandon (JTL)",
       "[DNT] Showdowns - Val - Ch1 Q03 - On Abandon (JTL)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300489,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Doomscale Eggs",
+      "Huevos de fataliescama",
+      "Ovos de Tenebrescama",
+      "Doomscale Eggs",
+      "Huevos de escalamidad",
+      "Œufs funécailles",
+      "Яйца злочешуйника",
+      "Verderbnisschuppeneier",
+      "Ovos de Tenebrescama",
+      "Uova di Squamafunesta",
+      "파멸비늘 알",
+      "滅鱗的蛋",
+      "厄鳞之卵"
     ],
     "Media": "trade_engineering.jpg"
   },
@@ -504,6 +4136,174 @@
     "Media": "ability_racial_holyresistance.jpg"
   },
   {
+    "TagId": 1300498,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport",
+      "<DNT> Teleport"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300499,
+    "TagType": 26,
+    "Names": [
+      null,
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover",
+      "<DNT> Cover"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300503,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spiteful Hunt",
+      "Caza maliciosa",
+      "Caçada Detestável",
+      "Spiteful Hunt",
+      "Caza rencorosa",
+      "Chasse malveillante",
+      "Мстительная охота",
+      "Boshafte Jagd",
+      "Caçada Detestável",
+      "Caccia Perfida",
+      "원한에 찬 추격",
+      "惡意狩獵",
+      "怨毒狩猎"
+    ],
+    "Media": "ability_fixated_state_green.jpg"
+  },
+  {
+    "TagId": 1300504,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Acid Downpour",
+      "Diluvio ácido",
+      "Borrasca Ácida",
+      "Acid Downpour",
+      "Chaparrón ácido",
+      "Giboulée acide",
+      "Кислотный ливень",
+      "Säureregen",
+      "Borrasca Ácida",
+      "Nubifragio Acido",
+      "산성 폭우",
+      "酸蝕驟雨",
+      "酸液倾盆"
+    ],
+    "Media": "spell_shadow_plaguecloud.jpg"
+  },
+  {
+    "TagId": 1300505,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Acid Downpour",
+      "Diluvio ácido",
+      "Borrasca Ácida",
+      "Acid Downpour",
+      "Chaparrón ácido",
+      "Giboulée acide",
+      "Кислотный ливень",
+      "Säureregen",
+      "Borrasca Ácida",
+      "Nubifragio Acido",
+      "산성 폭우",
+      "酸蝕驟雨",
+      "酸液倾盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300506,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Acid Downpour",
+      "Diluvio ácido",
+      "Borrasca Ácida",
+      "Acid Downpour",
+      "Chaparrón ácido",
+      "Giboulée acide",
+      "Кислотный ливень",
+      "Säureregen",
+      "Borrasca Ácida",
+      "Nubifragio Acido",
+      "산성 폭우",
+      "酸蝕驟雨",
+      "酸液倾盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300507,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Acid Downpour",
+      "Diluvio ácido",
+      "Borrasca Ácida",
+      "Acid Downpour",
+      "Chaparrón ácido",
+      "Giboulée acide",
+      "Кислотный ливень",
+      "Säureregen",
+      "Borrasca Ácida",
+      "Nubifragio Acido",
+      "산성 폭우",
+      "酸蝕驟雨",
+      "酸液倾盆"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300508,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Grasping Depths",
+      "Profundidades atrapantes",
+      "Profundezas Constritoras",
+      "Grasping Depths",
+      "Profundidades aferradoras",
+      "Profondeurs avides",
+      "Цепкие глубины",
+      "Greifende Tiefen",
+      "Profundezas Constritoras",
+      "Profondità Ghermitrici",
+      "움켜쥐는 심연",
+      "攫取深淵",
+      "紧攫深渊"
+    ],
+    "Media": "spell_necro_inevitableend.jpg"
+  },
+  {
     "TagId": 1300509,
     "TagType": 26,
     "Names": [
@@ -546,6 +4346,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300511,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Acid Downpour",
+      "Diluvio ácido",
+      "Borrasca Ácida",
+      "Acid Downpour",
+      "Chaparrón ácido",
+      "Giboulée acide",
+      "Кислотный ливень",
+      "Säureregen",
+      "Borrasca Ácida",
+      "Nubifragio Acido",
+      "산성 폭우",
+      "酸蝕驟雨",
+      "酸液倾盆"
+    ],
+    "Media": "spell_shadow_plaguecloud.jpg"
+  },
+  {
+    "TagId": 1300513,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Acid Downpour",
+      "Diluvio ácido",
+      "Borrasca Ácida",
+      "Acid Downpour",
+      "Chaparrón ácido",
+      "Giboulée acide",
+      "Кислотный ливень",
+      "Säureregen",
+      "Borrasca Ácida",
+      "Nubifragio Acido",
+      "산성 폭우",
+      "酸蝕驟雨",
+      "酸液倾盆"
+    ],
+    "Media": "spell_shadow_plaguecloud.jpg"
+  },
+  {
+    "TagId": 1300514,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Espiral Imortal",
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Éternité entortillée",
+      "Бессмертное кольцо",
+      "Ewiger Kreislauf",
+      "Espiral Imortal",
+      "Spira Immortale",
+      "불멸의 똬리",
+      "不朽盤繞",
+      "不朽缠绕"
+    ],
+    "Media": "inv_soulbarrier.jpg"
+  },
+  {
     "TagId": 1300515,
     "TagType": 26,
     "Names": [
@@ -565,6 +4428,48 @@
       "转移"
     ],
     "Media": "inv_10_dungeonjewelry_dragon_trinket_2arcanemagical_black.jpg"
+  },
+  {
+    "TagId": 1300516,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soul Exhaustion",
+      "Agotamiento del alma",
+      "Exaustão da Alma",
+      "Soul Exhaustion",
+      "Agotamiento de alma",
+      "Épuisement d’âme",
+      "Изнеможение души",
+      "Seelenerschöpfung",
+      "Exaustão da Alma",
+      "Esaurimento d'Anima",
+      "영혼 탈진",
+      "靈魂耗弱",
+      "灵魂疲惫"
+    ],
+    "Media": "inv_soulbarrier.jpg"
+  },
+  {
+    "TagId": 1300521,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Espiral Imortal",
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Éternité entortillée",
+      "Бессмертное кольцо",
+      "Ewiger Kreislauf",
+      "Espiral Imortal",
+      "Spira Immortale",
+      "불멸의 똬리",
+      "不朽盤繞",
+      "不朽缠绕"
+    ],
+    "Media": "inv_10_dungeonjewelry_dragon_ring_2coiledserpent_green.jpg"
   },
   {
     "TagId": 1300522,
@@ -609,6 +4514,279 @@
     "Media": "inv_10_dungeonjewelry_dragon_trinket_2arcanemagical_black.jpg"
   },
   {
+    "TagId": 1300524,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Espiral Imortal",
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Éternité entortillée",
+      "Бессмертное кольцо",
+      "Ewiger Kreislauf",
+      "Espiral Imortal",
+      "Spira Immortale",
+      "불멸의 똬리",
+      "不朽盤繞",
+      "不朽缠绕"
+    ],
+    "Media": "inv_10_dungeonjewelry_dragon_ring_2coiledserpent_green.jpg"
+  },
+  {
+    "TagId": 1300530,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spectral Coils",
+      "Espirales espectrales",
+      "Espirais Espectrais",
+      "Spectral Coils",
+      "Espirales espectrales",
+      "Anneaux spectraux",
+      "Призрачные кольца",
+      "Spektralschlingen",
+      "Espirais Espectrais",
+      "Spire Spettrali",
+      "유령의 똬리",
+      "幽魂之纏",
+      "幽魂盘卷"
+    ],
+    "Media": "spell_animamaldraxxus_nova.jpg"
+  },
+  {
+    "TagId": 1300531,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spectral Coils",
+      "Espirales espectrales",
+      "Espirais Espectrais",
+      "Spectral Coils",
+      "Espirales espectrales",
+      "Anneaux spectraux",
+      "Призрачные кольца",
+      "Spektralschlingen",
+      "Espirais Espectrais",
+      "Spire Spettrali",
+      "유령의 똬리",
+      "幽魂之纏",
+      "幽魂盘卷"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300532,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Destroy Center Platform",
+      "Destruye la plataforma central",
+      "Destruir Plataforma Central",
+      "Destroy Center Platform",
+      "Destruir plataforma central",
+      "Destruction de la plateforme centrale",
+      "Уничтожение центральной платформы",
+      "Zentrale Plattform zerstören",
+      "Destruir Plataforma Central",
+      "Distruzione Piattaforma Centrale",
+      "중앙 단상 파괴",
+      "摧毀中央平台",
+      "摧毁中央平台"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300533,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto de inicio de la fase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto inicial de la fase 3",
+      "Téléportation vers le point de départ de la phase\u00A03",
+      "Телепортация к началу сцены 03",
+      "Teleport zum Startpunkt von Phase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teletrasporto: Fase 03 Punto d'Inizio",
+      "3단계 시작 지점으로 순간이동",
+      "傳送至階段03起始點。",
+      "传送到第3阶段起点"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300534,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto de inicio de la fase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto inicial de la fase 3",
+      "Téléportation vers le point de départ de la phase\u00A03",
+      "Телепортация к началу сцены 03",
+      "Teleport zum Startpunkt von Phase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teletrasporto: Fase 03 Punto d'Inizio",
+      "3단계 시작 지점으로 순간이동",
+      "傳送至階段03起始點。",
+      "传送到第3阶段起点"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300535,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300536,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scroll of the Salty Souvenir",
+      "Pergamino de recuerdo salado",
+      "Pergaminho do Souvenir Salgado",
+      "Scroll of the Salty Souvenir",
+      "Pergamino de recuerdo salado",
+      "Parchemin du Souvenir salé",
+      "Свиток соленого сувенира",
+      "Schriftrolle des salzigen Souvenirs",
+      "Pergaminho do Souvenir Salgado",
+      "Pergamena del Souvenir Salato",
+      "짭짤한 기념품의 두루마리",
+      "鹽蝕紀念品卷軸",
+      "咸味纪念品卷轴"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300537,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300538,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scroll of the Salty Souvenir",
+      "Pergamino de recuerdo salado",
+      "Pergaminho do Souvenir Salgado",
+      "Scroll of the Salty Souvenir",
+      "Pergamino de recuerdo salado",
+      "Parchemin du Souvenir salé",
+      "Свиток соленого сувенира",
+      "Schriftrolle des salzigen Souvenirs",
+      "Pergaminho do Souvenir Salgado",
+      "Pergamena del Souvenir Salato",
+      "짭짤한 기념품의 두루마리",
+      "鹽蝕紀念品卷軸",
+      "咸味纪念品卷轴"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300539,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position",
+      "[DNT] Salty Souvenir - In Position"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300540,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Scroll of the Salty Souvenir",
+      "Pergamino de recuerdo salado",
+      "Pergaminho do Souvenir Salgado",
+      "Scroll of the Salty Souvenir",
+      "Pergamino de recuerdo salado",
+      "Parchemin du Souvenir salé",
+      "Свиток соленого сувенира",
+      "Schriftrolle des salzigen Souvenirs",
+      "Pergaminho do Souvenir Salgado",
+      "Pergamena del Souvenir Salato",
+      "짭짤한 기념품의 두루마리",
+      "鹽蝕紀念品卷軸",
+      "咸味纪念品卷轴"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300542,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[SNT] Salty Souvenir",
+      "[SNT] Recuerdo salado",
+      "[SNT] Souvenir Salgado",
+      "[SNT] Salty Souvenir",
+      "[SNT] Recuerdo salado",
+      "[SNT] Souvenir salé",
+      "[SNT] Соленый сувенир",
+      "Salziges Souvenir",
+      "[SNT] Souvenir Salgado",
+      "[SNT] Souvenir Salato",
+      "[SNT] 짭짤한 기념품",
+      "[SNT] 鹽蝕紀念品",
+      "[SNT] 咸味纪念品"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300545,
     "TagType": 26,
     "Names": [
@@ -628,6 +4806,342 @@
       "Showoff(Fire)>Applaud [DNT]"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300547,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fasten",
+      "Sujeción",
+      "Afixar",
+      "Fasten",
+      "Aferrarse",
+      "Greffe",
+      "Прикрепление",
+      "Festbeißen",
+      "Afixar",
+      "Attaccato",
+      "옭아매기",
+      "緊抓",
+      "系紧"
+    ],
+    "Media": "inv_bloodticklarvae.jpg"
+  },
+  {
+    "TagId": 1300555,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fasten",
+      "Sujeción",
+      "Afixar",
+      "Fasten",
+      "Aferrarse",
+      "Greffe",
+      "Прикрепление",
+      "Festbeißen",
+      "Afixar",
+      "Attaccato",
+      "옭아매기",
+      "緊抓",
+      "系紧"
+    ],
+    "Media": "inv_bloodticklarvae.jpg"
+  },
+  {
+    "TagId": 1300558,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fasten",
+      "Sujeción",
+      "Afixar",
+      "Fasten",
+      "Aferrarse",
+      "Greffe",
+      "Прикрепление",
+      "Festbeißen",
+      "Afixar",
+      "Attaccato",
+      "옭아매기",
+      "緊抓",
+      "系紧"
+    ],
+    "Media": "inv_bloodticklarvae.jpg"
+  },
+  {
+    "TagId": 1300559,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Offered Boon",
+      "Bendición ofrecida",
+      "Dádiva Oferecida",
+      "Offered Boon",
+      "Bendición ofrecida",
+      "Faveur offerte",
+      "Предложенный дар",
+      "Gabe angeboten",
+      "Dádiva Oferecida",
+      "Dono Offerto",
+      "제공받은 은혜",
+      "給予的恩澤",
+      "赐予的恩典"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300560,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kick",
+      "Patada",
+      "Chutar",
+      "Kick",
+      "Patada",
+      "Coup de pied",
+      "Удар ногой",
+      "Tritt",
+      "Chutar",
+      "Calcio",
+      "발차기",
+      "腳踢",
+      "踢击"
+    ],
+    "Media": "ability_monk_mightyoxkick.jpg"
+  },
+  {
+    "TagId": 1300572,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Boon Missile",
+      "Misil de bendición",
+      "Projétil de Dádiva",
+      "Boon Missile",
+      "Proyectil de bendición",
+      "Projectile favorable",
+      "Снаряд дара",
+      "Gabengeschoss",
+      "Projétil de Dádiva",
+      "Missile del Dono",
+      "은혜 투사체",
+      "恩澤飛彈",
+      "恩典飞弹"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300574,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fasten",
+      "Sujeción",
+      "Afixar",
+      "Fasten",
+      "Aferrarse",
+      "Greffe",
+      "Прикрепление",
+      "Festbeißen",
+      "Afixar",
+      "Attaccato",
+      "옭아매기",
+      "緊抓",
+      "系紧"
+    ],
+    "Media": "inv_bloodticklarvae.jpg"
+  },
+  {
+    "TagId": 1300575,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tipsy",
+      "Achispado",
+      "Alto",
+      "Tipsy",
+      "Achispado",
+      "Pompette",
+      "Легкое опьянение",
+      "Beschwipst",
+      "Alto",
+      "Sbronzo",
+      "비틀거림",
+      "微醺",
+      "微醉"
+    ],
+    "Media": "inv_drink_05.jpg"
+  },
+  {
+    "TagId": 1300576,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Splash",
+      "Salpicadura de tósigo",
+      "Borrifo Peçonhento",
+      "Venom Splash",
+      "Salpicadura de tósigo",
+      "Éclaboussure de venin",
+      "Ядовитые брызги",
+      "Giftspritzer",
+      "Borrifo Peçonhento",
+      "Bagno Venefico",
+      "독 끼얹기",
+      "毒液噴濺",
+      "毒液飞溅"
+    ],
+    "Media": "inv_ability_poison_groundstate.jpg"
+  },
+  {
+    "TagId": 1300577,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fasten",
+      "Sujeción",
+      "Afixar",
+      "Fasten",
+      "Aferrarse",
+      "Greffe",
+      "Прикрепление",
+      "Festbeißen",
+      "Afixar",
+      "Attaccato",
+      "옭아매기",
+      "緊抓",
+      "系紧"
+    ],
+    "Media": "inv_bloodticklarvae.jpg"
+  },
+  {
+    "TagId": 1300582,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Interceptor",
+      "Interceptor",
+      "Interceptador",
+      "Interceptor",
+      "Interceptor",
+      "Intercepteur",
+      "Перехватчик",
+      "Abfänger",
+      "Interceptador",
+      "Intercettore",
+      "봉쇄자",
+      "攔截者",
+      "拦截者"
+    ],
+    "Media": "ability_warrior_charge.jpg"
+  },
+  {
+    "TagId": 1300583,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto de inicio de la fase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto inicial de la fase 3",
+      "Téléportation vers le point de départ de la phase\u00A03",
+      "Телепортация к началу сцены 03",
+      "Teleport zum Startpunkt von Phase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teletrasporto: Fase 03 Punto d'Inizio",
+      "3단계 시작 지점으로 순간이동",
+      "傳送至階段03起始點。",
+      "传送到第3阶段起点"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300584,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto de inicio de la fase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teleport to Stage 03 Start Point",
+      "Teletransporte al punto inicial de la fase 3",
+      "Téléportation vers le point de départ de la phase\u00A03",
+      "Телепортация к началу сцены 03",
+      "Teleport zum Startpunkt von Phase 03",
+      "Teleportar para o Ponto Inicial do Estágio 03",
+      "Teletrasporto: Fase 03 Punto d'Inizio",
+      "3단계 시작 지점으로 순간이동",
+      "傳送至階段03起始點。",
+      "传送到第3阶段起点"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300585,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Intercept",
+      "Interceptar",
+      "Interceptar",
+      "Intercept",
+      "Interceptar",
+      "Interception",
+      "Перехват",
+      "Abfangen",
+      "Interceptar",
+      "Intercettazione",
+      "봉쇄",
+      "攔截",
+      "拦截"
+    ],
+    "Media": "ability_warrior_charge.jpg"
+  },
+  {
+    "TagId": 1300586,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Intercept",
+      "Interceptar",
+      "Interceptar",
+      "Intercept",
+      "Interceptar",
+      "Interception",
+      "Перехват",
+      "Abfangen",
+      "Interceptar",
+      "Intercettazione",
+      "봉쇄",
+      "攔截",
+      "拦截"
+    ],
+    "Media": "ability_warrior_charge.jpg"
+  },
+  {
+    "TagId": 1300590,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tormented Rage",
+      "Ira atormentada",
+      "Raiva Atormentada",
+      "Tormented Rage",
+      "Ira atormentada",
+      "Rage tourmentée",
+      "Измученная ярость",
+      "Gequälte Raserei",
+      "Raiva Atormentada",
+      "Rabbia Tormentata",
+      "고통의 분노",
+      "苦痛怒火",
+      "折磨之怒"
+    ],
+    "Media": "ability_warrior_focusedrage.jpg"
   },
   {
     "TagId": 1300592,
@@ -651,6 +5165,27 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300596,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Barrage",
+      "Tromba supurante",
+      "Secreção Intensa",
+      "Oozing Barrage",
+      "Tromba rezumante",
+      "Barrage suintant",
+      "Склизкий обстрел",
+      "Triefendes Sperrfeuer",
+      "Secreção Intensa",
+      "Sbarramento Melmoso",
+      "수액 탄막",
+      "滲液彈幕",
+      "软泥弹幕"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
     "TagId": 1300600,
     "TagType": 26,
     "Names": [
@@ -672,6 +5207,69 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300601,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Barrage",
+      "Tromba supurante",
+      "Secreção Intensa",
+      "Oozing Barrage",
+      "Tromba rezumante",
+      "Barrage suintant",
+      "Склизкий обстрел",
+      "Triefendes Sperrfeuer",
+      "Secreção Intensa",
+      "Sbarramento Melmoso",
+      "수액 탄막",
+      "滲液彈幕",
+      "软泥弹幕"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300603,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Venom",
+      "Veneno supurante",
+      "Secreção de Peçonha",
+      "Oozing Venom",
+      "Veneno rezumante",
+      "Venin suintant",
+      "Склизкий яд",
+      "Triefendes Gift",
+      "Secreção de Peçonha",
+      "Veleno Melmoso",
+      "새어 나오는 맹독",
+      "滲漏毒液",
+      "软泥毒液"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
+  },
+  {
+    "TagId": 1300605,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Oozing Venom",
+      "Veneno supurante",
+      "Secreção de Peçonha",
+      "Oozing Venom",
+      "Veneno rezumante",
+      "Venin suintant",
+      "Склизкий яд",
+      "Triefendes Gift",
+      "Secreção de Peçonha",
+      "Veleno Melmoso",
+      "새어 나오는 맹독",
+      "滲漏毒液",
+      "软泥毒液"
+    ],
+    "Media": "ability_creature_poison_06.jpg"
+  },
+  {
     "TagId": 1300607,
     "TagType": 26,
     "Names": [
@@ -691,6 +5289,342 @@
       "[DNT] Q01 Ch03 - Step 01 Credit"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300609,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fungal Bolt",
+      "Descarga fúngica",
+      "Seta Fúngica",
+      "Fungal Bolt",
+      "Descarga fúngica",
+      "Trait fongique",
+      "Грибная стрела",
+      "Pilzblitz",
+      "Seta Fúngica",
+      "Dardo Fungino",
+      "진균 화살",
+      "真菌箭",
+      "真菌之箭"
+    ],
+    "Media": "spell_fire_flameshock.jpg"
+  },
+  {
+    "TagId": 1300612,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Uncoiled",
+      "Desenrollado",
+      "Desemaranhado",
+      "Uncoiled",
+      "Involutado",
+      "Détortillé",
+      "Разделение",
+      "Entschlungen",
+      "Desemaranhado",
+      "Districato",
+      "똬리 풀림",
+      "解纏",
+      "解除盘卷"
+    ],
+    "Media": "ability_hunter_snaketrap.jpg"
+  },
+  {
+    "TagId": 1300618,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Assimilation",
+      "Asimilación",
+      "Assimilação",
+      "Assimilation",
+      "Asimilación",
+      "Assimilation",
+      "Объединение",
+      "Assimilierung",
+      "Assimilação",
+      "Assimilazione",
+      "동화 작용",
+      "同化",
+      "同化"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_writhe.jpg"
+  },
+  {
+    "TagId": 1300619,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes",
+      "[DNT] Despawn Split Snakes"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300624,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hatch",
+      "Eclosionar",
+      "Chocar",
+      "Hatch",
+      "Eclosionar",
+      "Éclosion",
+      "Инкубация",
+      "Schlüpfen",
+      "Chocar",
+      "Schiusa",
+      "부화",
+      "孵化",
+      "孵化"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300632,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300635,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Submerge",
+      "Sumergir",
+      "Submergir",
+      "Submerge",
+      "Sumersión",
+      "Submerger",
+      "Погружение",
+      "Abtauchen",
+      "Submergir",
+      "Immersione",
+      "잠복",
+      "隱沒",
+      "下潜"
+    ],
+    "Media": "inv_ability_poison_orb.jpg"
+  },
+  {
+    "TagId": 1300636,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Submerge",
+      "Sumergir",
+      "Submergir",
+      "Submerge",
+      "Sumersión",
+      "Submerger",
+      "Погружение",
+      "Abtauchen",
+      "Submergir",
+      "Immersione",
+      "잠복",
+      "隱沒",
+      "下潜"
+    ],
+    "Media": "inv_snake_green.jpg"
+  },
+  {
+    "TagId": 1300637,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Submerge",
+      "Sumergir",
+      "Submergir",
+      "Submerge",
+      "Sumersión",
+      "Submerger",
+      "Погружение",
+      "Abtauchen",
+      "Submergir",
+      "Immersione",
+      "잠복",
+      "隱沒",
+      "下潜"
+    ],
+    "Media": "inv_snake_green.jpg"
+  },
+  {
+    "TagId": 1300638,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Submerge",
+      "Sumergir",
+      "Submergir",
+      "Submerge",
+      "Sumersión",
+      "Submerger",
+      "Погружение",
+      "Abtauchen",
+      "Submergir",
+      "Immersione",
+      "잠복",
+      "隱沒",
+      "下潜"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300639,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Submerge",
+      "Sumergir",
+      "Submergir",
+      "Submerge",
+      "Sumersión",
+      "Submerger",
+      "Погружение",
+      "Abtauchen",
+      "Submergir",
+      "Immersione",
+      "잠복",
+      "隱沒",
+      "下潜"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300640,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Submerge",
+      "Sumergir",
+      "Submergir",
+      "Submerge",
+      "Sumersión",
+      "Submerger",
+      "Погружение",
+      "Abtauchen",
+      "Submergir",
+      "Immersione",
+      "잠복",
+      "隱沒",
+      "下潜"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300642,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Condensation",
+      "Condensación",
+      "Condensação",
+      "Condensation",
+      "Condensación",
+      "Condensation",
+      "Конденсат",
+      "Kondensation",
+      "Condensação",
+      "Condensazione",
+      "응결",
+      "凝結",
+      "凝雨"
+    ],
+    "Media": "ability_shaman_fortifyingwaters.jpg"
+  },
+  {
+    "TagId": 1300645,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cancel Associated Quest",
+      "Cancelar misión asociada",
+      "Cancelar Missão Associada",
+      "Cancel Associated Quest",
+      "Cancelar misión asociada",
+      "Annuler la quête associée",
+      "Отмена связанного задания",
+      "Betroffene Quest abbrechen",
+      "Cancelar Missão Associada",
+      "Annullamento Missione Associata",
+      "관련 퀘스트 취소",
+      "取消相關任務",
+      "取消关联任务"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300646,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Emerge",
+      "Emerger",
+      "Emergir",
+      "Emerge",
+      "Aparecer",
+      "Émerger",
+      "Появление",
+      "Auftauchen",
+      "Emergir",
+      "Emersione",
+      "출현",
+      "浮現",
+      "钻出"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300651,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fasten",
+      "Sujeción",
+      "Afixar",
+      "Fasten",
+      "Aferrarse",
+      "Greffe",
+      "Прикрепление",
+      "Festbeißen",
+      "Afixar",
+      "Attaccato",
+      "옭아매기",
+      "緊抓",
+      "系紧"
+    ],
+    "Media": "inv_bloodticklarvae.jpg"
   },
   {
     "TagId": 1300654,
@@ -735,6 +5669,90 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300660,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Concussive Slam",
+      "Embate de conmoción",
+      "Batida de Concussão",
+      "Concussive Slam",
+      "Embate de conmoción",
+      "Commotion violente",
+      "Оглушающий удар",
+      "Erschütterndes Schmettern",
+      "Batida de Concussão",
+      "Contusione Stordente",
+      "진탕의 격돌",
+      "震盪猛擊",
+      "震荡猛击"
+    ],
+    "Media": "ability_warrior_decisivestrike.jpg"
+  },
+  {
+    "TagId": 1300662,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Unrelenting Edict",
+      "Edicto implacable",
+      "Édito Inexorável",
+      "Unrelenting Edict",
+      "Edicto implacable",
+      "Édit implacable",
+      "Неумолимый эдикт",
+      "Unerbittlicher Erlass",
+      "Édito Inexorável",
+      "Editto Implacabile",
+      "불굴의 칙령",
+      "不屈敕令",
+      "肃正律令"
+    ],
+    "Media": "spell_holy_summonlightwell.jpg"
+  },
+  {
+    "TagId": 1300665,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Spirit Erasure",
+      "Borrar espíritu",
+      "Apagamento Espiritual",
+      "Spirit Erasure",
+      "Borrado espiritual",
+      "Occultation de l’esprit",
+      "Стирание духа",
+      "Geistauslöschung",
+      "Apagamento Espiritual",
+      "Rimozione Spiritica",
+      "영혼 말소",
+      "靈魂抹煞",
+      "精魂抹除"
+    ],
+    "Media": "spell_misc_zandalari_council_soulswap.jpg"
+  },
+  {
+    "TagId": 1300670,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Winding Up",
+      "Preparación",
+      "Dar Corda",
+      "Winding Up",
+      "Dando cuerda",
+      "À cran",
+      "Накопление силы",
+      "Ausholen",
+      "Dar Corda",
+      "Caricamento",
+      "감기",
+      "蓄勢猛擊",
+      "战意满弦"
+    ],
+    "Media": "ability_warrior_decisivestrike.jpg"
+  },
+  {
     "TagId": 1300672,
     "TagType": 26,
     "Names": [
@@ -754,6 +5772,321 @@
       "加亚莱的愤怒"
     ],
     "Media": "inv_summerfest_firespirit.jpg"
+  },
+  {
+    "TagId": 1300673,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic",
+      "[DNT] Mosquito Cosmetic"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300677,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hex Muck",
+      "Mugre de maleficio",
+      "Lodo de Bagata",
+      "Hex Muck",
+      "Mugre de maleficio",
+      "Bourbe de maléfice",
+      "Жижа скверны",
+      "Hexfraß",
+      "Lodo de Bagata",
+      "Fango Malefico",
+      "사술 오물",
+      "妖術淤泥",
+      "妖术淤泥"
+    ],
+    "Media": "inv_shoulder_armor_hextroll_d_01.jpg"
+  },
+  {
+    "TagId": 1300679,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Rattle",
+      "Traqueteo tóxico",
+      "Chocalho Tóxico",
+      "Toxic Rattle",
+      "Sacudida tóxica",
+      "Cliquetis toxique",
+      "Токсичная трещотка",
+      "Toxisches Rasseln",
+      "Chocalho Tóxico",
+      "Sonaglio Tossico",
+      "유독한 방울 소리",
+      "劇毒鳴響",
+      "剧毒震响"
+    ],
+    "Media": "inv_waepon_bow_zulgrub_d_01.jpg"
+  },
+  {
+    "TagId": 1300681,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Vengeful Shield",
+      "Escudo vengativo",
+      "Escudo Vingativo",
+      "Vengeful Shield",
+      "Escudo vengativo",
+      "Bouclier vengeur",
+      "Щит возмездия",
+      "Rachsüchtiger Schild",
+      "Escudo Vingativo",
+      "Scudo della Rivincita",
+      "복수심에 불타는 방패",
+      "復仇盾牌",
+      "怒火坚盾"
+    ],
+    "Media": "inv_shield_05.jpg"
+  },
+  {
+    "TagId": 1300682,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Rattle",
+      "Traqueteo tóxico",
+      "Chocalho Tóxico",
+      "Toxic Rattle",
+      "Sacudida tóxica",
+      "Cliquetis toxique",
+      "Токсичная трещотка",
+      "Toxisches Rasseln",
+      "Chocalho Tóxico",
+      "Sonaglio Tossico",
+      "유독한 방울 소리",
+      "劇毒鳴響",
+      "剧毒震响"
+    ],
+    "Media": "inv_waepon_bow_zulgrub_d_01.jpg"
+  },
+  {
+    "TagId": 1300683,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic",
+      "[DNT] Reform Boss Cosmetic"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300684,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hex Muck",
+      "Mugre de maleficio",
+      "Lodo de Bagata",
+      "Hex Muck",
+      "Mugre de maleficio",
+      "Bourbe de maléfice",
+      "Жижа скверны",
+      "Hexfraß",
+      "Lodo de Bagata",
+      "Fango Malefico",
+      "사술 오물",
+      "妖術淤泥",
+      "妖术淤泥"
+    ],
+    "Media": "spell_shaman_hex.jpg"
+  },
+  {
+    "TagId": 1300685,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soul Constrictor",
+      "Constrictor de almas",
+      "Constritora de Almas",
+      "Soul Constrictor",
+      "Constrictor de almas",
+      "Étranglement de l’âme",
+      "Констриктор душ",
+      "Seelenwürger",
+      "Constritora de Almas",
+      "Stritolamento dell'Anima",
+      "영혼 압박자",
+      "靈魂巨蚺",
+      "灵魂绞杀者"
+    ],
+    "Media": "ability_ardenweald_warlock.jpg"
+  },
+  {
+    "TagId": 1300686,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Assimilation",
+      "Asimilación",
+      "Assimilação",
+      "Assimilation",
+      "Asimilación",
+      "Assimilation",
+      "Объединение",
+      "Assimilierung",
+      "Assimilação",
+      "Assimilazione",
+      "동화 작용",
+      "同化",
+      "同化"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_writhe.jpg"
+  },
+  {
+    "TagId": 1300688,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300690,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Bloody Rebuke",
+      "Castigo sangriento",
+      "Repreensão Sangrenta",
+      "Bloody Rebuke",
+      "Reprimenda sangrienta",
+      "Réprimande sanglante",
+      "Кровавый укор",
+      "Blutiger Tadel",
+      "Repreensão Sangrenta",
+      "Rimprovero Insanguinato",
+      "피의 응징",
+      "血腥責難",
+      "浴血责罚"
+    ],
+    "Media": "ability_warrior_bloodbath.jpg"
+  },
+  {
+    "TagId": 1300693,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300695,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hex Muck",
+      "Mugre de maleficios",
+      "Lodo de Bagata",
+      "Hex Muck",
+      "Mugre de maleficio",
+      "Bourbe de maléfice",
+      "Жижа скверны",
+      "Hexfraß",
+      "Lodo de Bagata",
+      "Poltiglia Malefica",
+      "사술 오물",
+      "妖術淤泥",
+      "妖术淤泥"
+    ],
+    "Media": "inv_shoulder_armor_hextroll_d_01.jpg"
+  },
+  {
+    "TagId": 1300696,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hatch",
+      "Eclosionar",
+      "Chocar",
+      "Hatch",
+      "Eclosionar",
+      "Éclosion",
+      "Инкубация",
+      "Schlüpfen",
+      "Chocar",
+      "Schiusa",
+      "부화",
+      "孵化",
+      "孵化"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300698,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Assimilation",
+      "Asimilación",
+      "Assimilação",
+      "Assimilation",
+      "Asimilación",
+      "Assimilation",
+      "Объединение",
+      "Assimilierung",
+      "Assimilação",
+      "Assimilazione",
+      "동화 작용",
+      "同化",
+      "同化"
+    ],
+    "Media": "inv_121_trinket_dungeon_ulatek_writhe.jpg"
   },
   {
     "TagId": 1300700,
@@ -777,6 +6110,279 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300701,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lock and Load: Explosive Shot",
+      "Bloquear y cargar: Disparo explosivo",
+      "Largar o Dedo: Tiro Explosivo",
+      "Lock and Load: Explosive Shot",
+      "Bloquear y cargar: Disparo explosivo",
+      "Prêt à tirer\u00A0: Tir explosif",
+      "На изготовку: разрывной выстрел",
+      "Sichern und Laden: Explosivschuss",
+      "Largar o Dedo: Tiro Explosivo",
+      "Pronto al Tiro: Tiro Esplosivo",
+      "실탄 장전: 폭발 사격",
+      "蓄勢待發：爆裂射擊",
+      "荷枪实弹：爆炸射击"
+    ],
+    "Media": "ability_hunter_lockandload.jpg"
+  },
+  {
+    "TagId": 1300702,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowlasher",
+      "Azotasombras",
+      "Umbraçoitador",
+      "Shadowlasher",
+      "Azotasombras",
+      "Taillombre",
+      "Тенехлест",
+      "Schattenpeitscher",
+      "Umbraçoitador",
+      "Sferzaombre",
+      "어둠덩굴손",
+      "暗影鞭笞者",
+      "暗影鞭笞者"
+    ],
+    "Media": "ability_rogue_focusedattacks.jpg"
+  },
+  {
+    "TagId": 1300704,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fixate",
+      "Fijar",
+      "Fixar",
+      "Fixate",
+      "Fijar",
+      "Fixation",
+      "Сосредоточение внимания",
+      "Fixieren",
+      "Fixar",
+      "Ossessione",
+      "시선 고정",
+      "鎖定",
+      "锁定"
+    ],
+    "Media": "ability_fixated_state_purple.jpg"
+  },
+  {
+    "TagId": 1300705,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fixate",
+      "Fijar",
+      "Fixar",
+      "Fixate",
+      "Fijar",
+      "Fixation",
+      "Сосредоточение внимания",
+      "Fixieren",
+      "Fixar",
+      "Ossessione",
+      "시선 고정",
+      "鎖定",
+      "锁定"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300706,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Three-Headed Slam",
+      "Embate de tres cabezas",
+      "Batida Tricéfala",
+      "Three-Headed Slam",
+      "Embate tricéfalo",
+      "Heurtoir à trois têtes",
+      "Удар тремя головами",
+      "Dreiköpfiges Schmettern",
+      "Batida Tricéfala",
+      "Schianto a Tre Teste",
+      "삼두 격돌",
+      "三頭猛擊",
+      "三头重击"
+    ],
+    "Media": "inv_11_arenaboss_conductionslam.jpg"
+  },
+  {
+    "TagId": 1300707,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Three-Headed Slam",
+      "Embate de tres cabezas",
+      "Batida Tricéfala",
+      "Three-Headed Slam",
+      "Embate tricéfalo",
+      "Heurtoir à trois têtes",
+      "Удар тремя головами",
+      "Dreiköpfiges Schmettern",
+      "Batida Tricéfala",
+      "Schianto a Tre Teste",
+      "삼두 격돌",
+      "三頭猛擊",
+      "三头重击"
+    ],
+    "Media": "inv_11_arenaboss_conductionslam.jpg"
+  },
+  {
+    "TagId": 1300708,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowlash",
+      "Azote sombrío",
+      "Umbraçoite",
+      "Shadowlash",
+      "Azotesombras",
+      "Taillombre",
+      "Теневой хлыст",
+      "Schattenpeitsche",
+      "Umbraçoite",
+      "Sferzata Oscura",
+      "어둠채찍",
+      "暗影鞭笞",
+      "暗影鞭笞"
+    ],
+    "Media": "ability_rogue_focusedattacks.jpg"
+  },
+  {
+    "TagId": 1300709,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Chuva Tóxica",
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Pluie toxique",
+      "Токсичный дождь",
+      "Toxischer Regen",
+      "Chuva Tóxica",
+      "Pioggia Tossica",
+      "맹독의 비",
+      "劇毒之雨",
+      "剧毒之雨"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300710,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Chuva Tóxica",
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Pluie toxique",
+      "Токсичный дождь",
+      "Toxischer Regen",
+      "Chuva Tóxica",
+      "Pioggia Tossica",
+      "맹독의 비",
+      "劇毒之雨",
+      "剧毒之雨"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300711,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Chuva Tóxica",
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Pluie toxique",
+      "Токсичный дождь",
+      "Toxischer Regen",
+      "Chuva Tóxica",
+      "Pioggia Tossica",
+      "맹독의 비",
+      "劇毒之雨",
+      "剧毒之雨"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300712,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Chuva Tóxica",
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Pluie toxique",
+      "Токсичный дождь",
+      "Toxischer Regen",
+      "Chuva Tóxica",
+      "Pioggia Tossica",
+      "맹독의 비",
+      "劇毒之雨",
+      "剧毒之雨"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300713,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Chuva Tóxica",
+      "Toxic Rain",
+      "Lluvia tóxica",
+      "Pluie toxique",
+      "Токсичный дождь",
+      "Toxischer Regen",
+      "Chuva Tóxica",
+      "Pioggia Tossica",
+      "맹독의 비",
+      "劇毒之雨",
+      "剧毒之雨"
+    ],
+    "Media": "spell_nature_corrosivebreath.jpg"
+  },
+  {
+    "TagId": 1300714,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Shadowlash",
+      "Azote sombrío",
+      "Umbraçoite",
+      "Shadowlash",
+      "Azotesombras",
+      "Taillombre",
+      "Теневой хлыст",
+      "Schattenpeitsche",
+      "Umbraçoite",
+      "Sferzata Oscura",
+      "어둠채찍",
+      "暗影鞭笞",
+      "暗影鞭笞"
+    ],
+    "Media": "ability_rogue_focusedattacks.jpg"
+  },
+  {
     "TagId": 1300717,
     "TagType": 26,
     "Names": [
@@ -796,6 +6402,27 @@
       "喂食"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300719,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Mind Shatter",
+      "Despedazamiento mental",
+      "Ruptura Mental",
+      "Mind Shatter",
+      "Despedazamiento mental",
+      "Briser l’esprit",
+      "Расстройство ума",
+      "Gedankenzersplitterung",
+      "Ruptura Mental",
+      "Frantumazione Mentale",
+      "정신 붕괴",
+      "心靈碎裂",
+      "心灵碎裂"
+    ],
+    "Media": "ability_kaztik_dominatemind.jpg"
   },
   {
     "TagId": 1300720,
@@ -859,6 +6486,27 @@
       "沉睡的曼德拉草"
     ],
     "Media": "inv_gardenmandrakepet_purple.jpg"
+  },
+  {
+    "TagId": 1300723,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fixate",
+      "Fijar",
+      "Fixar",
+      "Fixate",
+      "Fijar",
+      "Fixation",
+      "Сосредоточение внимания",
+      "Fixieren",
+      "Fixar",
+      "Ossessione",
+      "시선 고정",
+      "鎖定",
+      "锁定"
+    ],
+    "Media": "ability_fixated_state_purple.jpg"
   },
   {
     "TagId": 1300724,
@@ -966,6 +6614,153 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300735,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Soulcoil Well",
+      "Pozo enrollaalmas",
+      "Poço dos Enrosca-alma",
+      "Soulcoil Well",
+      "Pozo de Volutas de Almas",
+      "Puits entortillâme",
+      "Колодец душителей душ",
+      "Seelenwinderbrunnen",
+      "Poço dos Enrosca-alma",
+      "Pozzo Spiranima",
+      "영혼똬리 우물",
+      "纏魂之井",
+      "盘魂之井"
+    ],
+    "Media": "inv_misc_shadowegg.jpg"
+  },
+  {
+    "TagId": 1300736,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energy Intake",
+      "Ingreso de energía",
+      "Entrada de Energia",
+      "Energy Intake",
+      "Entrada de energía",
+      "Prise d’énergie",
+      "Получение энергии",
+      "Energieaufnahme",
+      "Entrada de Energia",
+      "Aspirazione di Energia",
+      "마력 흡입구",
+      "能量引道",
+      "能量摄入"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300737,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energy Intake",
+      "Ingreso de energía",
+      "Entrada de Energia",
+      "Energy Intake",
+      "Entrada de energía",
+      "Prise d’énergie",
+      "Получение энергии",
+      "Energieaufnahme",
+      "Entrada de Energia",
+      "Aspirazione di Energia",
+      "마력 흡입구",
+      "能量引道",
+      "能量摄入"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300738,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Energy Intake",
+      "Ingreso de energía",
+      "Entrada de Energia",
+      "Energy Intake",
+      "Entrada de energía",
+      "Prise d’énergie",
+      "Получение энергии",
+      "Energieaufnahme",
+      "Entrada de Energia",
+      "Aspirazione di Energia",
+      "마력 흡입구",
+      "能量引道",
+      "能量摄入"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300741,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Test Remove Eggs",
+      "Prueba: Eliminar huevos",
+      "Remover Ovos - Teste",
+      "Test Remove Eggs",
+      "Probar eliminación de huevos",
+      "Test – suppression des œufs",
+      "Тест убирания яиц",
+      "Test Remove Eggs",
+      "Remover Ovos - Teste",
+      "Prova Rimozione Uova",
+      "알 제거 시험용",
+      "測試移除蛋",
+      "测试移除卵"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300742,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Bubbles",
+      "Burbujas de veneno",
+      "Bolhas de Peçonha",
+      "Venom Bubbles",
+      "Burbujas de veneno",
+      "Bulles de venin",
+      "Ядовитые пузыри",
+      "Giftblasen",
+      "Bolhas de Peçonha",
+      "Bolle di Veleno",
+      "맹독 거품",
+      "毒泡",
+      "毒液气泡"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300743,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venom Bubbles",
+      "Burbujas de veneno",
+      "Bolhas de Peçonha",
+      "Venom Bubbles",
+      "Burbujas de veneno",
+      "Bulles de venin",
+      "Ядовитые пузыри",
+      "Giftblasen",
+      "Bolhas de Peçonha",
+      "Bolle di Veleno",
+      "맹독 거품",
+      "毒泡",
+      "毒液气泡"
+    ],
+    "Media": "inv_ability_poison_groundstate.jpg"
+  },
+  {
     "TagId": 1300745,
     "TagType": 26,
     "Names": [
@@ -985,6 +6780,90 @@
       "[DNT] Place Tomalley"
     ],
     "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300746,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Call of the Serpent",
+      "Llamado de la serpiente",
+      "Chamado da Serpente",
+      "Call of the Serpent",
+      "Llamada de la sierpe",
+      "Appel du serpent",
+      "Зов змеи",
+      "Ruf der Schlange",
+      "Chamado da Serpente",
+      "Richiamo del Serpente",
+      "독사의 부름",
+      "毒蛇之喚",
+      "毒蛇呼唤"
+    ],
+    "Media": "inv_121_pet_babywindserpent_green.jpg"
+  },
+  {
+    "TagId": 1300747,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Call of the Serpent",
+      "Llamado de la serpiente",
+      "Chamado da Serpente",
+      "Call of the Serpent",
+      "Llamada de la sierpe",
+      "Appel du serpent",
+      "Зов змеи",
+      "Ruf der Schlange",
+      "Chamado da Serpente",
+      "Richiamo del Serpente",
+      "독사의 부름",
+      "毒蛇之喚",
+      "毒蛇呼唤"
+    ],
+    "Media": "inv_121_pet_babywindserpent_green.jpg"
+  },
+  {
+    "TagId": 1300748,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Call of the Serpent",
+      "Llamado de la serpiente",
+      "Chamado da Serpente",
+      "Call of the Serpent",
+      "Llamada de la sierpe",
+      "Appel du serpent",
+      "Зов змеи",
+      "Ruf der Schlange",
+      "Chamado da Serpente",
+      "Richiamo del Serpente",
+      "독사의 부름",
+      "毒蛇之喚",
+      "毒蛇呼唤"
+    ],
+    "Media": "inv_121_pet_babywindserpent_green.jpg"
+  },
+  {
+    "TagId": 1300749,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Call of the Serpent",
+      "Llamado de la serpiente",
+      "Chamado da Serpente",
+      "Call of the Serpent",
+      "Llamada de la sierpe",
+      "Appel du serpent",
+      "Зов змеи",
+      "Ruf der Schlange",
+      "Chamado da Serpente",
+      "Richiamo del Serpente",
+      "독사의 부름",
+      "毒蛇之喚",
+      "毒蛇呼唤"
+    ],
+    "Media": "inv_121_pet_babywindserpent_green.jpg"
   },
   {
     "TagId": 1300750,
@@ -1008,6 +6887,741 @@
     "Media": "inv_1207_achievement_raid_fungariangiant_fungalgiant.jpg"
   },
   {
+    "TagId": 1300751,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Call of the Serpent",
+      "Llamado de la serpiente",
+      "Chamado da Serpente",
+      "Call of the Serpent",
+      "Llamada de la sierpe",
+      "Appel du serpent",
+      "Зов змеи",
+      "Ruf der Schlange",
+      "Chamado da Serpente",
+      "Richiamo del Serpente",
+      "독사의 부름",
+      "毒蛇之喚",
+      "毒蛇呼唤"
+    ],
+    "Media": "inv_121_pet_babywindserpent_green.jpg"
+  },
+  {
+    "TagId": 1300756,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Summon Looming Boon",
+      "Invocar tesoro amenazante",
+      "Evocar Dádiva Iminente",
+      "Summon Looming Boon",
+      "Invocar bendición amenazante",
+      "Invocation de faveur imposante",
+      "Призыв огромного дара",
+      "Ausstehenden Gefallen beschwören",
+      "Evocar Dádiva Iminente",
+      "Evocazione: Dono Incombente",
+      "다가오는 은혜 소환",
+      "召喚將至的恩澤",
+      "召唤迫近恩典"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300757,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ping Looming Boon",
+      "Marcar tesoro amenazante",
+      "Enviar Dádiva Iminente",
+      "Ping Looming Boon",
+      "Marcar bendición amenazante",
+      "Ping faveur imposante",
+      "Метка огромного дара",
+      "Ausstehenden Gefallen anpingen",
+      "Enviar Dádiva Iminente",
+      "Segnale Dono Incombente",
+      "다가오는 은혜 신호",
+      "指示將至的恩澤",
+      "标记迫近恩典"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300758,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300771,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Circling Prey",
+      "Presa rodeada",
+      "Rondando a Presa",
+      "Circling Prey",
+      "Rondar a la presa",
+      "Encercler la proie",
+      "Обвивание добычи",
+      "Beute umkreisen",
+      "Rondando a Presa",
+      "Avvolgimento Preda",
+      "사냥감 포위",
+      "包圍獵物",
+      "盘绕猎物"
+    ],
+    "Media": "inv_offhand_1h_ulatek_d_01.jpg"
+  },
+  {
+    "TagId": 1300772,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Circling Prey",
+      "Presa rodeada",
+      "Rondando a Presa",
+      "Circling Prey",
+      "Rondar a la presa",
+      "Encercler la proie",
+      "Обвивание добычи",
+      "Beute umkreisen",
+      "Rondando a Presa",
+      "Avvolgimento Preda",
+      "사냥감 포위",
+      "包圍獵物",
+      "盘绕猎物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300773,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Circling Prey",
+      "Presa rodeada",
+      "Rondando a Presa",
+      "Circling Prey",
+      "Rondar a la presa",
+      "Encercler la proie",
+      "Обвивание добычи",
+      "Beute umkreisen",
+      "Rondando a Presa",
+      "Avvolgimento Preda",
+      "사냥감 포위",
+      "包圍獵物",
+      "盘绕猎物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300774,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Circling Prey",
+      "Presa rodeada",
+      "Rondando a Presa",
+      "Circling Prey",
+      "Rondar a la presa",
+      "Encercler la proie",
+      "Обвивание добычи",
+      "Beute umkreisen",
+      "Rondando a Presa",
+      "Avvolgimento Preda",
+      "사냥감 포위",
+      "包圍獵物",
+      "盘绕猎物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300775,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Circling Prey",
+      "Presa rodeada",
+      "Rondando a Presa",
+      "Circling Prey",
+      "Rondar a la presa",
+      "Encercler la proie",
+      "Обвивание добычи",
+      "Beute umkreisen",
+      "Rondando a Presa",
+      "Avvolgimento Preda",
+      "사냥감 포위",
+      "包圍獵物",
+      "盘绕猎物"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300776,
+    "TagType": 26,
+    "Names": [
+      null,
+      "The Writhing Brood",
+      "La nidada retorcida",
+      "A Ninhada Retorcida",
+      "The Writhing Brood",
+      "La prole retorcida",
+      "Progéniture grouillante",
+      "Извивающийся выводок",
+      "Die Windende Brut",
+      "A Ninhada Retorcida",
+      "Prole Contorcente",
+      "격동하는 무리",
+      "扭動幼蛇",
+      "扭缠群嗣"
+    ],
+    "Media": "inv_writhesmount_white.jpg"
+  },
+  {
+    "TagId": 1300777,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Venomous Coiler",
+      "Volutador venenoso",
+      "Espiríleo Peçonhento",
+      "Venomous Coiler",
+      "Víbora venenosa",
+      "Reptile venimeux",
+      "Ядовитый душитель",
+      "Giftiger Winder",
+      "Espiríleo Peçonhento",
+      "Spiraserpe Velenosa",
+      "맹독의 똬리뱀",
+      "劇毒曲蛇",
+      "烈毒盘蛇"
+    ],
+    "Media": "inv_writhesmount_green.jpg"
+  },
+  {
+    "TagId": 1300778,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Indigo Coiled Horror",
+      "Horror enrollado índigo",
+      "Horror Enrolado Índigo",
+      "Indigo Coiled Horror",
+      "Horror serpenteante índigo",
+      "Horreur enroulée indigo",
+      "Фиолетовый извивающийся ужас",
+      "Indigofarbener gewundener Schrecken",
+      "Horror Enrolado Índigo",
+      "Orrore Arrotolato Indaco",
+      "쪽빛 똬리의 공포",
+      "靛青盤繞恐懼",
+      "靛蓝盘卷恐魔"
+    ],
+    "Media": "inv_writhesmount_purple.jpg"
+  },
+  {
+    "TagId": 1300779,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ruby Writhe",
+      "Contortio rubí",
+      "Contórcia de Rubi",
+      "Ruby Writhe",
+      "Retuerto de rubí",
+      "Tortilleur rubis",
+      "Рубиновый скользмей",
+      "Rubinwinder",
+      "Contórcia de Rubi",
+      "Torsius di Rubino",
+      "루비 격동뱀",
+      "紅寶石蛇妖",
+      "红玉扭缠蛇"
+    ],
+    "Media": "inv_writhesmount_pink.jpg"
+  },
+  {
+    "TagId": 1300788,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow",
+      "[DNT] Self-Stacking Slow"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300789,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Efecto visual",
+      "Visuel",
+      "Визуальный эффект",
+      "Visuell",
+      "Visual",
+      "Effetto Visivo",
+      "시각효과",
+      "視覺效果",
+      "视觉"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300790,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)",
+      "[DNT] Self-Stacking Slow (vehicle hierarchy target)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300796,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Jumping Through Hoops",
+      "Saltar por unos aros",
+      "Superando obstáculos",
+      "Jumping Through Hoops",
+      "Pasando por el aro",
+      "Sauts dans les cerceaux",
+      "Прыжок через обручи",
+      "Durch Reifen springen",
+      "Superando obstáculos",
+      "Salto negli Anelli",
+      "고리 통과",
+      "跳圈圈",
+      "钻圈"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300798,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual",
+      "Visual"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300799,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup",
+      "[DNT] Health Pickup"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300800,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wounded",
+      "Herido",
+      "Ferido",
+      "Wounded",
+      "Herido",
+      "Blessure",
+      "Ранение",
+      "Verwundet",
+      "Ferido",
+      "Ferito",
+      "부상당함",
+      "受傷",
+      "受伤"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300801,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup",
+      "[DNT] Ping Health Pickup"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300802,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup",
+      "[DNT] Hide Health Pickup"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300803,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Tainted Strike",
+      "Golpe corrompido",
+      "Golpe Maculado",
+      "Tainted Strike",
+      "Golpe corrupto",
+      "Frappe souillée",
+      "Оскверненный удар",
+      "Besudelter Stoß",
+      "Golpe Maculado",
+      "Colpo Contaminato",
+      "오염된 일격",
+      "腐化打擊",
+      "污秽打击"
+    ],
+    "Media": "ability_ironmaidens_convulsiveshadows.jpg"
+  },
+  {
+    "TagId": 1300804,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump",
+      "[DNT] Jump"
+    ],
+    "Media": "ability_racial_rocketjump.jpg"
+  },
+  {
+    "TagId": 1300807,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wounded",
+      "Herido",
+      "Ferido",
+      "Wounded",
+      "Herido",
+      "Blessure",
+      "Ранение",
+      "Verwundet",
+      "Ferido",
+      "Ferito",
+      "부상당함",
+      "受傷",
+      "受伤"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300808,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corrupted",
+      "Corrupto",
+      "Corrompido",
+      "Corrupted",
+      "Corrupto",
+      "Corruption",
+      "Осквернение",
+      "Verderbt",
+      "Corrompido",
+      "Corrotto",
+      "부패",
+      "腐化",
+      "腐化"
+    ],
+    "Media": "ability_ironmaidens_convulsiveshadows.jpg"
+  },
+  {
+    "TagId": 1300809,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Purge",
+      "Purgar",
+      "Expurgar",
+      "Purge",
+      "Purgar",
+      "Purge",
+      "Изгнание чужаков",
+      "Läutern",
+      "Expurgar",
+      "Epurazione",
+      "정화",
+      "淨滅",
+      "净化术"
+    ],
+    "Media": "spell_shadow_devouringplague.jpg"
+  },
+  {
+    "TagId": 1300817,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Purge",
+      "Purgar",
+      "Expurgar",
+      "Purge",
+      "Purgar",
+      "Purge",
+      "Изгнание чужаков",
+      "Läutern",
+      "Expurgar",
+      "Epurazione",
+      "정화",
+      "淨滅",
+      "净化术"
+    ],
+    "Media": "spell_shadow_devouringplague.jpg"
+  },
+  {
+    "TagId": 1300826,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice",
+      "[DNT] Open Player Choice"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300832,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)",
+      "Kill Credit (DNT)"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300835,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Lighting Incense",
+      "Encendiendo incienso",
+      "Acendendo Incenso",
+      "Lighting Incense",
+      "Encendiendo incienso",
+      "Allumer l’encens",
+      "Горящие благовония",
+      "Räucherwerk entzünden",
+      "Acendendo Incenso",
+      "Accensione Incenso",
+      "향 밝히기",
+      "點燃薰香",
+      "点燃熏香"
+    ],
+    "Media": "inv_10_alchemy_incenseholder_color1.jpg"
+  },
+  {
+    "TagId": 1300836,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Extinguishing Incense",
+      "Extinguiendo incienso",
+      "Apagando Incenso",
+      "Extinguishing Incense",
+      "Apagando incienso",
+      "Éteindre l’encens",
+      "Тушение благовоний",
+      "Räucherwerk löschen",
+      "Apagando Incenso",
+      "Spegnimento Incenso",
+      "향 끄기",
+      "熄滅薰香",
+      "熄灭熏香"
+    ],
+    "Media": "inv_10_alchemy_incenseholder_color1.jpg"
+  },
+  {
+    "TagId": 1300845,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Test Spectral Coils Positions",
+      "Prueba: posiciones de Espirales espectrales",
+      "Posições de Espirais Espectrais - Teste",
+      "Test Spectral Coils Positions",
+      "Probar posiciones de Espirales espectrales",
+      "Test – positions d’Anneaux spectraux",
+      "Тест позиционирования призрачных колец",
+      "Spektralwickelpositionen testen",
+      "Posições de Espirais Espectrais - Teste",
+      "Prova Posizioni Spire Spettrali",
+      "유령의 똬리 위치 테스트",
+      "測試幽魂之纏位置",
+      "测试幽魂盘卷位置"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300852,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused",
+      "[DNT] Scenario Paused"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300854,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape",
+      "[DNT] Offered Escape"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300856,
     "TagType": 26,
     "Names": [
@@ -1027,6 +7641,258 @@
       "死灵审问"
     ],
     "Media": "spell_necro_deathlyecho.jpg"
+  },
+  {
+    "TagId": 1300869,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corrupted Lifeforce",
+      "Fuerza vital corrupta",
+      "Força Vital Corrompida",
+      "Corrupted Lifeforce",
+      "Fuerza vital corrupta",
+      "Force vitale corrompue",
+      "Оскверненная жизненная сила",
+      "Verderbte Lebenskraft",
+      "Força Vital Corrompida",
+      "Forza Vitale Corrotta",
+      "타락한 생명력",
+      "腐化生命力",
+      "腐蚀生命力"
+    ],
+    "Media": "inv_nullstone_shadow.jpg"
+  },
+  {
+    "TagId": 1300871,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corrupted Lifeforce",
+      "Fuerza vital corrupta",
+      "Força Vital Corrompida",
+      "Corrupted Lifeforce",
+      "Fuerza vital corrupta",
+      "Force vitale corrompue",
+      "Оскверненная жизненная сила",
+      "Verderbte Lebenskraft",
+      "Força Vital Corrompida",
+      "Forza Vitale Corrotta",
+      "타락한 생명력",
+      "腐化生命力",
+      "腐蚀生命力"
+    ],
+    "Media": "inv_nullstone_shadow.jpg"
+  },
+  {
+    "TagId": 1300872,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Ritual da Presa",
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Rituel du crochet",
+      "Ритуал клыка",
+      "Ritual des Fangzahns",
+      "Ritual da Presa",
+      "Rituale della Zanna",
+      "송곳니의 의식",
+      "毒牙儀式",
+      "毒牙仪式"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 1300874,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal",
+      "[DNT] Open Portal"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300876,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Ritual da Presa",
+      "Ritual of the Fang",
+      "Ritual del Colmillo",
+      "Rituel du crochet",
+      "Ритуал клыка",
+      "Ritual des Fangzahns",
+      "Ritual da Presa",
+      "Rituale della Zanna",
+      "송곳니의 의식",
+      "毒牙儀式",
+      "毒牙仪式"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 1300877,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corruption",
+      "Corrupción",
+      "Corrupção",
+      "Corruption",
+      "Corrupción",
+      "Corruption",
+      "Порча",
+      "Verderbnis",
+      "Corrupção",
+      "Corruzione",
+      "부패",
+      "腐化",
+      "腐化"
+    ],
+    "Media": "inv_nullstone_shadow.jpg"
+  },
+  {
+    "TagId": 1300878,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self",
+      "[DNT] Remove Escape Aura from Self"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300879,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Corrupted Lifeforce",
+      "Fuerza vital corrupta",
+      "Força Vital Corrompida",
+      "Corrupted Lifeforce",
+      "Fuerza vital corrupta",
+      "Force vitale corrompue",
+      "Оскверненная жизненная сила",
+      "Verderbte Lebenskraft",
+      "Força Vital Corrompida",
+      "Forza Vitale Corrotta",
+      "타락한 생명력",
+      "腐化生命力",
+      "腐蚀生命力"
+    ],
+    "Media": "inv_nullstone_shadow.jpg"
+  },
+  {
+    "TagId": 1300880,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake",
+      "12.1 Delves - Ethereals02 - V04 - Energy, Beam: Tower to Snake"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300881,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Ritual da Presa",
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Rituel du crochet",
+      "Ритуал клыка",
+      "Ritual des Fangzahns",
+      "Ritual da Presa",
+      "Rituale della Zanna",
+      "송곳니의 의식",
+      "毒牙儀式",
+      "毒牙仪式"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 1300885,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Ritual da Presa",
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Rituel du crochet",
+      "Ритуал клыка",
+      "Ritual des Fangzahns",
+      "Ritual da Presa",
+      "Rituale della Zanna",
+      "송곳니의 의식",
+      "毒牙儀式",
+      "毒牙仪式"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
+  },
+  {
+    "TagId": 1300886,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Ritual da Presa",
+      "Ritual of the Fang",
+      "Ritual del colmillo",
+      "Rituel du crochet",
+      "Ритуал клыка",
+      "Ritual des Fangzahns",
+      "Ritual da Presa",
+      "Rituale della Zanna",
+      "송곳니의 의식",
+      "毒牙儀式",
+      "毒牙仪式"
+    ],
+    "Media": "inv_achievement_dungeon_altaroffangs.jpg"
   },
   {
     "TagId": 1300887,
@@ -1050,6 +7916,510 @@
     "Media": "trade_engineering.jpg"
   },
   {
+    "TagId": 1300888,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fang Empowered",
+      "Colmillo potenciado",
+      "Presa Potencializada",
+      "Fang Empowered",
+      "Colmillo potenciado",
+      "Crochet renforsssé",
+      "Усиление клыка",
+      "Vom Fangzahn ermächtigt",
+      "Presa Potencializada",
+      "Zanna Potenziata",
+      "송곳니 강화",
+      "毒牙強化",
+      "毒牙强化"
+    ],
+    "Media": "inv_knife_1h_ulatekfang_d_01_poison.jpg"
+  },
+  {
+    "TagId": 1300889,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Reconfiguring...",
+      "Reconfigurando...",
+      "Reconfigurando...",
+      "Reconfiguring...",
+      "Reconfigurando...",
+      "Reconfiguration…",
+      "Переконфигурация...",
+      "Neukonfiguration...",
+      "Reconfigurando...",
+      "Riconfigurazione...",
+      "재구성 중...",
+      "重新配置中…",
+      "重新配置中……"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300892,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Fang Empowered",
+      "Colmillo potenciado",
+      "Presa Potencializada",
+      "Fang Empowered",
+      "Colmillo potenciado",
+      "Crochet renforsssé",
+      "Усиление клыка",
+      "Vom Fangzahn ermächtigt",
+      "Presa Potencializada",
+      "Zanna Potenziata",
+      "송곳니 강화",
+      "毒牙強化",
+      "毒牙强化"
+    ],
+    "Media": "inv_knife_1h_ulatekfang_d_01_poison.jpg"
+  },
+  {
+    "TagId": 1300893,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Defilement of the Coiled Altar",
+      "Profanación del Altar Serpenteante",
+      "Profanação do Altar Enrolado",
+      "Defilement of the Coiled Altar",
+      "Profanación del Altar en Espiral",
+      "Profanation de l’Autel annelé",
+      "Осквернение Спирального алтаря",
+      "Entweihung des Gewundenen Altars",
+      "Profanação do Altar Enrolado",
+      "Profanazione dell'Altare Serpeggiante",
+      "똬리의 제단의 오염",
+      "盤蛇祭壇褻瀆",
+      "盘卷祭坛亵渎"
+    ],
+    "Media": "ability_warlock_shadowflame.jpg"
+  },
+  {
+    "TagId": 1300894,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual Venom",
+      "Veneno de ritual",
+      "Peçonha Ritualística",
+      "Ritual Venom",
+      "Veneno ritual",
+      "Venin rituel",
+      "Ритуальный яд",
+      "Ritualgift",
+      "Peçonha Ritualística",
+      "Veleno Rituale",
+      "의식의 맹독",
+      "儀式毒液",
+      "仪式毒液"
+    ],
+    "Media": "inv_ability_poison_beam.jpg"
+  },
+  {
+    "TagId": 1300901,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ritual Venom",
+      "Veneno de ritual",
+      "Peçonha Ritualística",
+      "Ritual Venom",
+      "Veneno ritual",
+      "Venin rituel",
+      "Ритуальный яд",
+      "Ritualgift",
+      "Peçonha Ritualística",
+      "Veleno Rituale",
+      "의식의 맹독",
+      "儀式毒液",
+      "仪式毒液"
+    ],
+    "Media": "inv_ability_poison_beam.jpg"
+  },
+  {
+    "TagId": 1300906,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Cleansed Lifeforce",
+      "Fuerza vital purificada",
+      "Força Vital Purificada",
+      "Cleansed Lifeforce",
+      "Fuerza vital purificada",
+      "Force vitale purifiée",
+      "Очищенная жизненная сила",
+      "Geläuterte Lebenskraft",
+      "Força Vital Purificada",
+      "Forza Vitale Purificata",
+      "정화된 생명력",
+      "淨化生命力",
+      "净化的生命力"
+    ],
+    "Media": "inv_nature_orb.jpg"
+  },
+  {
+    "TagId": 1300907,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Consumed Lifeforce",
+      "Fuerza vital consumida",
+      "Força Vital Consumida",
+      "Consumed Lifeforce",
+      "Fuerza vital consumida",
+      "Force vitale consommée",
+      "Поглощенная жизненная сила",
+      "Aufgezehrte Lebenskraft",
+      "Força Vital Consumida",
+      "Consumo Forza Vitale",
+      "흡수당한 생명력",
+      "吞噬生命力",
+      "消耗的生命力"
+    ],
+    "Media": "inv_10_worlddroplevelingoptionalreagent_misc_orb_air.jpg"
+  },
+  {
+    "TagId": 1300908,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Consume Lifeforce",
+      "Consumir fuerza vital",
+      "Consumir Força Vital",
+      "Consume Lifeforce",
+      "Consumir fuerza vital",
+      "Consommation de force vitale",
+      "Поглощение жизненной силы",
+      "Lebenskraft aufzehren",
+      "Consumir Força Vital",
+      "Consumo Forza Vitale",
+      "생명력 흡수",
+      "吞噬生命力",
+      "消耗生命力"
+    ],
+    "Media": "inv_10_worlddroplevelingoptionalreagent_misc_orb_air.jpg"
+  },
+  {
+    "TagId": 1300911,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing",
+      "[DNT] Widget Showing"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300914,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target",
+      "12.1 Delves - Ethereals02 - V04 - Ping: Current Target"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300917,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State",
+      "[DNT] Vine Grip Personal Success State"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300921,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over",
+      "[DNT] Scenario Over"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300923,
+    "TagType": 26,
+    "Names": [
+      null,
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun",
+      "12.1 Delves - Ethereals02 - V04 - Snake: Stun"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300929,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing",
+      "[DNT] Widget Not Showing"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300930,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Wind",
+      "Viento",
+      "Vento",
+      "Wind",
+      "Viento",
+      "Vent",
+      "Ветер",
+      "Wind",
+      "Vento",
+      "Vento",
+      "바람",
+      "風",
+      "风"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300938,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Hobbled",
+      "Cojera",
+      "Estropiado",
+      "Hobbled",
+      "Con cojera",
+      "Boitillement",
+      "Хромота",
+      "Humpelnd",
+      "Estropiado",
+      "Azzoppato",
+      "절뚝거림",
+      "蹣跚",
+      "步履维艰"
+    ],
+    "Media": "ability_rogue_trip.jpg"
+  },
+  {
+    "TagId": 1300944,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Consume Lifeforce",
+      "Consumir fuerza vital",
+      "Consumir Força Vital",
+      "Consume Lifeforce",
+      "Consumir fuerza vital",
+      "Consommation de force vitale",
+      "Поглощение жизненной силы",
+      "Lebenskraft aufzehren",
+      "Consumir Força Vital",
+      "Consumo Forza Vitale",
+      "생명력 흡수",
+      "吞噬生命力",
+      "消耗生命力"
+    ],
+    "Media": "ability_druid_replenish.jpg"
+  },
+  {
+    "TagId": 1300972,
+    "TagType": 26,
+    "Names": [
+      null,
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura",
+      "[DNT] Dummy Aura"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300976,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Espiral Imortal",
+      "Immortal Coil",
+      "Espiral inmortal",
+      "Éternité entortillée",
+      "Бессмертное кольцо",
+      "Ewiger Kreislauf",
+      "Espiral Imortal",
+      "Spira Immortale",
+      "불멸의 똬리",
+      "不朽盤繞",
+      "不朽缠绕"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300978,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Ensemble: Garb of the Dawnfire Phoenix",
+      "Conjunto: Atuendo del fénix albafuego",
+      "Indumentária: Induto da Fênix de Chamalvor",
+      "Ensemble: Garb of the Dawnfire Phoenix",
+      "Indumentaria: Atuendo del fénix albafuego",
+      "Ensemble\u00A0: atours du phénix auroral",
+      "Комплект: облачение рассветного феникса",
+      "Ensemble: Gewand des Morgenfeuerphönix",
+      "Indumentária: Induto da Fênix de Chamalvor",
+      "Set: Abiti della Fenice di Albafuoco",
+      "복장: 여명불꽃 불사조의 의복",
+      "套裝：黎明鳳凰裝束",
+      "套装：晨火凤凰的装束"
+    ],
+    "Media": "inv_cape_special_goldenphoenix_d_01.jpg"
+  },
+  {
+    "TagId": 1300981,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Blood Globule",
+      "Glóbulo de sangre",
+      "Glóbulo de Sangue",
+      "Blood Globule",
+      "Glóbulo de sangre",
+      "Globule de sang",
+      "Кровавая сфера",
+      "Blutgerinnsel",
+      "Glóbulo de Sangue",
+      "Globulo di Sangue",
+      "핏방울",
+      "血塊",
+      "血球"
+    ],
+    "Media": "ability_deathwing_bloodcorruption_earth.jpg"
+  },
+  {
+    "TagId": 1300983,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Collect Perch of the Dawnfire Phoenix",
+      "Obtener percha del fénix albafuego",
+      "Coletar Ninho da Fênix de Chamalvor",
+      "Collect Perch of the Dawnfire Phoenix",
+      "Recoger posadero del fénix albafuego",
+      "Récupérer un perchoir du phénix auroral",
+      "Получить насест рассветного феникса",
+      "Sammelt die Stange des Morgenfeuerphönix.",
+      "Coletar Ninho da Fênix de Chamalvor",
+      "Raccolta Trespolo della Fenice di Albafuoco",
+      "여명불꽃 불사조의 횃대 획득",
+      "收集黎明鳳凰棲木。",
+      "收集晨火凤凰的栖木"
+    ],
+    "Media": "garrison_building_storehouse.jpg"
+  },
+  {
+    "TagId": 1300989,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arena Mask",
+      "Máscara de la arena",
+      "Máscara da Arena",
+      "Arena Mask",
+      "Máscara de la arena",
+      "Masque d’arène",
+      "Маска арены",
+      "Arenamaske",
+      "Máscara da Arena",
+      "Maschera dell'Arena",
+      "투기장 가면",
+      "競技場面具",
+      "竞技场面具"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1300994,
     "TagType": 26,
     "Names": [
@@ -1069,5 +8439,47 @@
       "虚空传送"
     ],
     "Media": "spell_shadow_teleport.jpg"
+  },
+  {
+    "TagId": 1300995,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arena Mask",
+      "Máscara de la arena",
+      "Máscara da Arena",
+      "Arena Mask",
+      "Máscara de la arena",
+      "Masque d’arène",
+      "Маска арены",
+      "Arenamaske",
+      "Máscara da Arena",
+      "Maschera dell'Arena",
+      "투기장 가면",
+      "競技場面具",
+      "竞技场面具"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
+    "TagId": 1300998,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Arena Mask",
+      "Máscara de la arena",
+      "Máscara da Arena",
+      "Arena Mask",
+      "Máscara de la arena",
+      "Masque d’arène",
+      "Маска арены",
+      "Arenamaske",
+      "Máscara da Arena",
+      "Maschera dell'Arena",
+      "투기장 가면",
+      "競技場面具",
+      "竞技场面具"
+    ],
+    "Media": "trade_engineering.jpg"
   }
 ]

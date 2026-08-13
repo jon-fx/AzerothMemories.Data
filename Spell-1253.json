@@ -886,19 +886,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Shower of Blood",
-      "Lluvia de sangre",
-      "Chuva de Sangue",
-      "Shower of Blood",
-      "Ducha de sangre",
-      "Douche de sang",
-      "Кровавый ливень",
-      "Blutdusche",
-      "Chuva de Sangue",
-      "Pioggia di Sangue",
-      "피의 세례",
-      "血雨",
-      "浴血围猎"
+      "Razor Edge",
+      "Filo de navaja",
+      "Fio da Navalha",
+      "Razor Edge",
+      "Filo de navaja",
+      "Fil du rasoir",
+      "Лезвие ножа",
+      "Messerscharfe Klauen",
+      "Fio da Navalha",
+      "Filo Tagliente",
+      "예리한 날",
+      "銳利之鋒",
+      "锋刃旋击"
     ],
     "Media": "spell_druid_bloodythrash.jpg"
   },
@@ -5143,6 +5143,27 @@
     "Media": "trade_alchemy_dpotion_a21.jpg"
   },
   {
+    "TagId": 1253355,
+    "TagType": 26,
+    "Names": [
+      null,
+      "Portal to Sanctum of Light",
+      "Portal al Santuario de la Luz",
+      "Portal para o Sacrário da Luz",
+      "Portal to Sanctum of Light",
+      "Portal al Sagrario de la Luz",
+      "Portail vers le sanctum de la Lumière",
+      "Портал в Обитель Света",
+      "Portal zum Sanktum des Lichts",
+      "Portal para o Sacrário da Luz",
+      "Portale: Santuario della Luce",
+      "빛의 성소로 통하는 차원문",
+      "聖光會堂傳送門",
+      "通往圣光秘殿的传送门"
+    ],
+    "Media": "trade_engineering.jpg"
+  },
+  {
     "TagId": 1253357,
     "TagType": 26,
     "Names": [
@@ -5619,7 +5640,7 @@
       "Himmlische Echos",
       "Ecos Celestiais",
       "Echi Celestiali",
-      "천신의 메아리",
+      "천상의 메아리",
       "星穹回音",
       "天界回响"
     ],
@@ -6680,19 +6701,19 @@
     "TagType": 26,
     "Names": [
       null,
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2",
-      "Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Pie01.m2"
+      "Collect Sumptuous Berry Pie",
+      "Recoger tarta de bayas suntuosa",
+      "Coletar Torta de Frutinhas Suntuosa",
+      "Collect Sumptuous Berry Pie",
+      "Añadir tarta de bayas suntuosa",
+      "Récupérer une tarte aux baies somptueuse",
+      "Получить деликатесный ягодный пирог",
+      "Üppigen Beerenkuchen sammeln",
+      "Coletar Torta de Frutinhas Suntuosa",
+      "Raccolta Torta ai Mirtilli Splendida",
+      "호화로운 열매 파이 획득",
+      "收集奢華莓子派",
+      "收集奢华浆果馅饼"
     ],
     "Media": "garrison_building_storehouse.jpg"
   },
